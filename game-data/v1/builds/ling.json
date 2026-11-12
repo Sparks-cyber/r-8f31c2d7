@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 84,
+    "slug": "ling",
+    "name": "Ling"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "ling-community-6357",
+      "name": "Community Build 6357",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "berserkersfury",
+        "greatdragonspear",
+        "toughboots",
+        "endlessbattle",
+        "maleficroar",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "fatal",
+        "seasonedhunter",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "Use red retri,u dmg in early will more burst",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6357,
+      "source_created_at": "2026-03-10T01:30:25.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "ling-community-6128",
+      "name": "Community Build 6128",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "berserkersfury",
+        "haasclaws",
+        "endlessbattle",
+        "bladeofdespair",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "warcry",
+        "seasonedhunter",
+        "fatal"
+      ],
+      "situational_items": [],
+      "notes": "racikan 2026",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6128,
+      "source_created_at": "2026-02-28T09:38:41.000Z",
+      "likes": 1,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "ling-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Tigreal",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Dark Guardian",
+      "Splash_url": "Tigreal-Dark-Guardian.png",
+      "script": "Tigreal-Dark-Guardian-Backup.zip",
+      "Portrait_url": "Tigreal-Dark-Guardian.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Fallen Guard",
+          "Portrait_url": "Tigreal-Fallen-Guard.png",
+          "Splash_url": "Tigreal-Fallen-Guard.png",
+          "script": "Tigreal-Dark-Guardian-Fallen-Guard.zip"
+        },
+        {
+          "name": "Wyrmslayer",
+          "Portrait_url": "Tigreal-Wyrmslayer.png",
+          "Splash_url": "Tigreal-Wyrmslayer.png",
+          "script": "Tigreal-Dark-Guardian-Wyrmslayer.zip"
+        },
+        {
+          "name": "Lightborn - Defender",
+          "Portrait_url": "Tigreal-Lightborn-Defender.png",
+          "Splash_url": "Tigreal-Lightborn-Defender.png",
+          "script": "Tigreal-Dark-Guardian-Lightborn-Defender.zip"
+        },
+        {
+          "name": "Galactic Marshal",
+          "Portrait_url": "Tigreal-Galactic-Marshal.png",
+          "Splash_url": "Tigreal-Galactic-Marshal.png",
+          "script": "Tigreal-Dark-Guardian-Galactic-Marshal.zip"
+        },
+        {
+          "name": "Fallen Dominator",
+          "Portrait_url": "Tigreal-Fallen-Dominator.png",
+          "Splash_url": "Tigreal - Fallen Dominator.jpg",
+          "script": "Tigreal-Dark-Guardian-Fallen-Dominator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Fallen Guard",
+      "Splash_url": "Tigreal-Fallen-Guard.png",
+      "script": "Tigreal-Fallen-Guard-Backup.zip",
+      "Portrait_url": "Tigreal-Fallen-Guard.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Guardian",
+          "Portrait_url": "Tigreal-Dark-Guardian.png",
+          "Splash_url": "Tigreal-Dark-Guardian.png",
+          "script": "Tigreal-Fallen-Guard-Dark-Guardian.zip"
+        },
+        {
+          "name": "Wyrmslayer",
+          "Portrait_url": "Tigreal-Wyrmslayer.png",
+          "Splash_url": "Tigreal-Wyrmslayer.png",
+          "script": "Tigreal-Fallen-Guard-Wyrmslayer.zip"
+        },
+        {
+          "name": "Lightborn - Defender",
+          "Portrait_url": "Tigreal-Lightborn-Defender.png",
+          "Splash_url": "Tigreal-Lightborn-Defender.png",
+          "script": "Tigreal-Fallen-Guard-Lightborn-Defender.zip"
+        },
+        {
+          "name": "Gold Baron",
+          "Portrait_url": "Tigreal-Gold-Baron.png",
+          "Splash_url": "Tigreal-Gold-Baron.png",
+          "script": "Tigreal-Fallen-Guard-Gold-Baron.zip"
+        },
+        {
+          "name": "Galactic Marshal",
+          "Portrait_url": "Tigreal-Galactic-Marshal.png",
+          "Splash_url": "Tigreal-Galactic-Marshal.png",
+          "script": "Tigreal-Fallen-Guard-Galactic-Marshal.zip"
+        },
+        {
+          "name": "Pasha of Justice",
+          "Portrait_url": "Tigreal-Pasha-of-Justice.png",
+          "Splash_url": "Tigreal-Pasha-of-Justice.png",
+          "script": "Tigreal-Fallen-Guard-Pasha-of-Justice.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Wyrmslayer",
+      "Splash_url": "Tigreal-Wyrmslayer.png",
+      "script": "Tigreal-Wyrmslayer-Backup.zip",
+      "Portrait_url": "Tigreal-Wyrmslayer.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Guardian",
+          "Portrait_url": "Tigreal-Dark-Guardian.png",
+          "Splash_url": "Tigreal-Dark-Guardian.png",
+          "script": "Tigreal-Wyrmslayer-Dark-Guardian.zip"
+        },
+        {
+          "name": "Fallen Guard",
+          "Portrait_url": "Tigreal-Fallen-Guard.png",
+          "Splash_url": "Tigreal-Fallen-Guard.png",
+          "script": "Tigreal-Wyrmslayer-Fallen-Guard.zip"
+        },
+        {
+          "name": "Lightborn - Defender",
+          "Portrait_url": "Tigreal-Lightborn-Defender.png",
+          "Splash_url": "Tigreal-Lightborn-Defender.png",
+          "script": "Tigreal-Wyrmslayer-Lightborn-Defender.zip"
+        },
+        {
+          "name": "Gold Baron",
+          "Portrait_url": "Tigreal-Gold-Baron.png",
+          "Splash_url": "Tigreal-Gold-Baron.png",
+          "script": "Tigreal-Wyrmslayer-Gold-Baron.zip"
+        },
+        {
+          "name": "Galactic Marshal",
+          "Portrait_url": "Tigreal-Galactic-Marshal.png",
+          "Splash_url": "Tigreal-Galactic-Marshal.png",
+          "script": "Tigreal-Wyrmslayer-Galactic-Marshal.zip"
+        },
+        {
+          "name": "Pasha of Justice",
+          "Portrait_url": "Tigreal-Pasha-of-Justice.png",
+          "Splash_url": "Tigreal-Pasha-of-Justice.png",
+          "script": "Tigreal-Wyrmslayer-Pasha-of-Justice.zip"
+        },
+        {
+          "name": "Fallen Dominator",
+          "Portrait_url": "Tigreal-Fallen-Dominator.png",
+          "Splash_url": "Tigreal - Fallen Dominator.jpg",
+          "script": "Tigreal-Wyrmslayer-Fallen-Dominator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lightborn",
+      "Default_name": "Lightborn - Defender",
+      "Splash_url": "Tigreal-Lightborn-Defender.png",
+      "script": "Tigreal-Lightborn-Defender-Backup.zip",
+      "Portrait_url": "Tigreal-Lightborn-Defender.png",
+      "Tags": [
+        "Lightborn.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Guardian",
+          "Portrait_url": "Tigreal-Dark-Guardian.png",
+          "Splash_url": "Tigreal-Dark-Guardian.png",
+          "script": "Tigreal-Lightborn-Defender-Dark-Guardian.zip"
+        },
+        {
+          "name": "Fallen Guard",
+          "Portrait_url": "Tigreal-Fallen-Guard.png",
+          "Splash_url": "Tigreal-Fallen-Guard.png",
+          "script": "Tigreal-Lightborn-Defender-Fallen-Guard.zip"
+        },
+        {
+          "name": "Wyrmslayer",
+          "Portrait_url": "Tigreal-Wyrmslayer.png",
+          "Splash_url": "Tigreal-Wyrmslayer.png",
+          "script": "Tigreal-Lightborn-Defender-Wyrmslayer.zip"
+        },
+        {
+          "name": "Gold Baron",
+          "Portrait_url": "Tigreal-Gold-Baron.png",
+          "Splash_url": "Tigreal-Gold-Baron.png",
+          "script": "Tigreal-Lightborn-Defender-Gold-Baron.zip"
+        },
+        {
+          "name": "Galactic Marshal",
+          "Portrait_url": "Tigreal-Galactic-Marshal.png",
+          "Splash_url": "Tigreal-Galactic-Marshal.png",
+          "script": "Tigreal-Lightborn-Defender-Galactic-Marshal.zip"
+        },
+        {
+          "name": "Pasha of Justice",
+          "Portrait_url": "Tigreal-Pasha-of-Justice.png",
+          "Splash_url": "Tigreal-Pasha-of-Justice.png",
+          "script": "Tigreal-Lightborn-Defender-Pasha-of-Justice.zip"
+        },
+        {
+          "name": "Fallen Dominator",
+          "Portrait_url": "Tigreal-Fallen-Dominator.png",
+          "Splash_url": "Tigreal - Fallen Dominator.jpg",
+          "script": "Tigreal-Lightborn-Defender-Fallen-Dominator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Gold Baron",
+      "Splash_url": "Tigreal-Gold-Baron.png",
+      "script": "Tigreal-Gold-Baron-Backup.zip",
+      "Portrait_url": "Tigreal-Gold-Baron.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Fallen Guard",
+          "Portrait_url": "Tigreal-Fallen-Guard.png",
+          "Splash_url": "Tigreal-Fallen-Guard.png",
+          "script": "Tigreal-Gold-Baron-Fallen-Guard.zip"
+        },
+        {
+          "name": "Wyrmslayer",
+          "Portrait_url": "Tigreal-Wyrmslayer.png",
+          "Splash_url": "Tigreal-Wyrmslayer.png",
+          "script": "Tigreal-Gold-Baron-Wyrmslayer.zip"
+        },
+        {
+          "name": "Lightborn - Defender",
+          "Portrait_url": "Tigreal-Lightborn-Defender.png",
+          "Splash_url": "Tigreal-Lightborn-Defender.png",
+          "script": "Tigreal-Gold-Baron-Lightborn-Defender.zip"
+        },
+        {
+          "name": "Galactic Marshal",
+          "Portrait_url": "Tigreal-Galactic-Marshal.png",
+          "Splash_url": "Tigreal-Galactic-Marshal.png",
+          "script": "Tigreal-Gold-Baron-Galactic-Marshal.zip"
+        },
+        {
+          "name": "Pasha of Justice",
+          "Portrait_url": "Tigreal-Pasha-of-Justice.png",
+          "Splash_url": "Tigreal-Pasha-of-Justice.png",
+          "script": "Tigreal-Gold-Baron-Pasha-of-Justice.zip"
+        },
+        {
+          "name": "Fallen Dominator",
+          "Portrait_url": "Tigreal-Fallen-Dominator.png",
+          "Splash_url": "Tigreal - Fallen Dominator.jpg",
+          "script": "Tigreal-Gold-Baron-Fallen-Dominator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Galactic Marshal",
+      "Splash_url": "Tigreal-Galactic-Marshal.png",
+      "script": "Tigreal-Galactic-Marshal-Backup.zip",
+      "Portrait_url": "Tigreal-Galactic-Marshal.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Guardian",
+          "Portrait_url": "Tigreal-Dark-Guardian.png",
+          "Splash_url": "Tigreal-Dark-Guardian.png",
+          "script": "Tigreal-Galactic-Marshal-Dark-Guardian.zip"
+        },
+        {
+          "name": "Fallen Guard",
+          "Portrait_url": "Tigreal-Fallen-Guard.png",
+          "Splash_url": "Tigreal-Fallen-Guard.png",
+          "script": "Tigreal-Galactic-Marshal-Fallen-Guard.zip"
+        },
+        {
+          "name": "Wyrmslayer",
+          "Portrait_url": "Tigreal-Wyrmslayer.png",
+          "Splash_url": "Tigreal-Wyrmslayer.png",
+          "script": "Tigreal-Galactic-Marshal-Wyrmslayer.zip"
+        },
+        {
+          "name": "Lightborn - Defender",
+          "Portrait_url": "Tigreal-Lightborn-Defender.png",
+          "Splash_url": "Tigreal-Lightborn-Defender.png",
+          "script": "Tigreal-Galactic-Marshal-Lightborn-Defender.zip"
+        },
+        {
+          "name": "Gold Baron",
+          "Portrait_url": "Tigreal-Gold-Baron.png",
+          "Splash_url": "Tigreal-Gold-Baron.png",
+          "script": "Tigreal-Galactic-Marshal-Gold-Baron.zip"
+        },
+        {
+          "name": "Pasha of Justice",
+          "Portrait_url": "Tigreal-Pasha-of-Justice.png",
+          "Splash_url": "Tigreal-Pasha-of-Justice.png",
+          "script": "Tigreal-Galactic-Marshal-Pasha-of-Justice.zip"
+        },
+        {
+          "name": "Fallen Dominator",
+          "Portrait_url": "Tigreal-Fallen-Dominator.png",
+          "Splash_url": "Tigreal - Fallen Dominator.jpg",
+          "script": "Tigreal-Galactic-Marshal-Fallen-Dominator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Pasha of Justice",
+      "Splash_url": "Tigreal-Pasha-of-Justice.png",
+      "script": "Tigreal-Pasha-of-Justice-Backup.zip",
+      "Portrait_url": "Tigreal-Pasha-of-Justice.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Guardian",
+          "Portrait_url": "Tigreal-Dark-Guardian.png",
+          "Splash_url": "Tigreal-Dark-Guardian.png",
+          "script": "Tigreal-Pasha-of-Justice-Dark-Guardian.zip"
+        },
+        {
+          "name": "Fallen Guard",
+          "Portrait_url": "Tigreal-Fallen-Guard.png",
+          "Splash_url": "Tigreal-Fallen-Guard.png",
+          "script": "Tigreal-Pasha-of-Justice-Fallen-Guard.zip"
+        },
+        {
+          "name": "Wyrmslayer",
+          "Portrait_url": "Tigreal-Wyrmslayer.png",
+          "Splash_url": "Tigreal-Wyrmslayer.png",
+          "script": "Tigreal-Pasha-of-Justice-Wyrmslayer.zip"
+        },
+        {
+          "name": "Gold Baron",
+          "Portrait_url": "Tigreal-Gold-Baron.png",
+          "Splash_url": "Tigreal-Gold-Baron.png",
+          "script": "Tigreal-Pasha-of-Justice-Gold-Baron.zip"
+        },
+        {
+          "name": "Galactic Marshal",
+          "Portrait_url": "Tigreal-Galactic-Marshal.png",
+          "Splash_url": "Tigreal-Galactic-Marshal.png",
+          "script": "Tigreal-Pasha-of-Justice-Galactic-Marshal.zip"
+        },
+        {
+          "name": "Fallen Dominator",
+          "Portrait_url": "Tigreal-Fallen-Dominator.png",
+          "Splash_url": "Tigreal - Fallen Dominator.jpg",
+          "script": "Tigreal-Pasha-of-Justice-Fallen-Dominator.zip"
+        }
+      ]
+    }
+  ]
+}

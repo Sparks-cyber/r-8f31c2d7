@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 33,
+    "slug": "cyclops",
+    "name": "Cyclops",
+    "skin_name": "Starsoul Magician",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Poke",
+      "Control"
+    ],
+    "region": "Vonetis Sea",
+    "release_date": "2017",
+    "resource": "Mana",
+    "short_description": "A celestial traveler in the universe.",
+    "brief": "To the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame. As Cyclops grew up, he turned out to be much different from other Giants, not only was he small in proportion, but also was he unique. As such, unlike the other Giants, he couldn't really rely on brute force.",
+    "story": "Cyclops is a giant with only one eye but at least he is in his own homeland. Cyclops was obsessed with stars and skies when he was little. He watched all days and nights and discovered the truth that planets were moving all the time. And this kind of movement contains unbelievable magic power. With an hourglass full of this power, and the ability to control this power, he became the famous 'Starsoul Magician' in his homeland.\r\n\r\nPlanetary movements will never stop, making Cyclops extremely powerful and invincible. However, this realization made him feel quite lonely. One day, Cyclops arrived on the Land of Dawn during his space travel and he found, much to his surprise, that there were many strong opponents waiting for him to defeat. 'I come, I see, I conquer!' said Cyclops.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 10,
+    "control": 7,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2440,
+    "health_growth": 175,
+    "health_regen": 7.6,
+    "health_regen_growth": 0.3143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 112,
+    "physical_attack_growth": 5.79,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.7
+  },
+  "abilities": [
+    {
+      "id": "Cyclops0",
+      "name": "Starlit Hourglass",
+      "description": "Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f7b43d6e79d4116016d639302e00ebc4.png",
+      "video_url": null
+    },
+    {
+      "id": "Cyclops1",
+      "name": "Stardust Shock",
+      "description": "Cyclops casts two Stardust Disks in the target direction, each dealing 240/272/304/336/368/400<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in its path.",
+      "flavor_text": null,
+      "cost": "50/60/70/80/90/100",
+      "cooldown": "7.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c79390698655479c4999a82b9d84a932.png",
+      "video_url": null
+    },
+    {
+      "id": "Cyclops2",
+      "name": "Planets Attack",
+      "description": "Cyclops conjures Starlit Spheres around himself while gaining 50% Movement Speed that decays over 2s. The spheres will automatically seek and attack nearby enemies (prioritizes enemy heroes), exploding on collision and dealing 200/225/250/275/300/325<scaleAP> (+55% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the enemy. Enemies hit by multiple spheres will take reduced damage after the first hit.",
+      "flavor_text": null,
+      "cost": "60/66/72/78/84/90",
+      "cooldown": "14/13.2/12.4/11.6/10.8/10",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 125.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8702dc193a729d21627b4c37d21dd671.png",
+      "video_url": null
+    },
+    {
+      "id": "Cyclops3",
+      "name": "Star Power Lockdown",
+      "description": "Cyclops creates a Planetary Sphere and sends it after the target enemy hero or Creep, dealing 500<scaleAP> (+120% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and immobilizing them for 0.75-1.5s (increases with travel distance).",
+      "flavor_text": null,
+      "cost": "60/80/100",
+      "cooldown": "26/22/18",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9e7801c3fa4c06fdcc7383f3b9eb8b44.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Cyclops0",
+      "sequence": "Cyclops3-Cyclops2-Cyclops1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Cyclops should control the target enemy with his Ultimate, close in with his 2nd Skill, then finish off the target with his 1st Skill."
+    },
+    {
+      "id": "Cyclops1",
+      "sequence": "Cyclops2-Cyclops1",
+      "name": "LANING COMBOS",
+      "description": "Cyclops can use his 2nd Skill to close in on enemy heroes then hit them with both his 1st Skill and the spheres summoned by his 2nd Skill. This combo is very effective against enemy heroes."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Cyclops is best with tanky heroes with strong CC skills, like Belerick and Minsitthar.",
+      "heroes": [
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        },
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Cyclops' short skill cooldown makes him strong against mid-ranged heroes with poor Mobility, such as Terizla and Alpha.",
+      "heroes": [
+        {
+          "id": 82,
+          "slug": "terizla",
+          "name": "Terizla"
+        },
+        {
+          "id": 28,
+          "slug": "alpha",
+          "name": "Alpha"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Cyclops lacks Dash or Blink skills, making him the preferred target for heroes with gap closers and CC skills. Such as Lancelot, Alucard and Kagura.",
+      "heroes": [
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        },
+        {
+          "id": 7,
+          "slug": "alucard",
+          "name": "Alucard"
+        },
+        {
+          "id": 25,
+          "slug": "kagura",
+          "name": "Kagura"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Cyclops-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Cyclops-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b506976dcb608de1f369ab8f6b3cb055.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b506976dcb608de1f369ab8f6b3cb055.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/cyclops.json",
+    "visual_catalog": "catalog/v1/visual/cyclops.json",
+    "upgrade_catalog": "catalog/v1/upgrade/cyclops.json"
+  }
+}

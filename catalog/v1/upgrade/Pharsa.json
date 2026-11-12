@@ -1,0 +1,633 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Pharsa",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Wings of Vengeance",
+      "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+      "script": "Pharsa-Wings-of-Vengeance-Backup.zip",
+      "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Wings-of-Vengeance-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Wings-of-Vengeance-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Wings-of-Vengeance-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Wings-of-Vengeance-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Wings-of-Vengeance-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Wings-of-Vengeance-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Wings-of-Vengeance-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Wings-of-Vengeance-Neon-Shingetsu.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Wings-of-Vengeance-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Peafowl's Dance",
+      "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+      "script": "Pharsa-Peafowl-s-Dance-Backup.zip",
+      "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Peafowl-s-Dance-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Peafowl-s-Dance-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Peafowl-s-Dance-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Peafowl-s-Dance-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Peafowl-s-Dance-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Peafowl-s-Dance-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Peafowl-s-Dance-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Peafowl-s-Dance-Neon-Shingetsu.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Peafowl-s-Dance-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Indigo Aviatrix",
+      "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+      "script": "Pharsa-Indigo-Aviatrix-Backup.zip",
+      "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Indigo-Aviatrix-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Indigo-Aviatrix-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Indigo-Aviatrix-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Indigo-Aviatrix-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Indigo-Aviatrix-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Indigo-Aviatrix-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Indigo-Aviatrix-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Indigo-Aviatrix-Neon-Shingetsu.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Enchanting Witch",
+      "Splash_url": "Pharsa-Enchanting-Witch.png",
+      "script": "Pharsa-Enchanting-Witch-Backup.zip",
+      "Portrait_url": "Pharsa-Enchanting-Witch.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Enchanting-Witch-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Enchanting-Witch-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Enchanting-Witch-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Enchanting-Witch-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Enchanting-Witch-Neon-Shingetsu.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Enchanting-Witch-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Empress Phoenix",
+      "Splash_url": "Pharsa-Empress-Phoenix.png",
+      "script": "Pharsa-Empress-Phoenix-Backup.zip",
+      "Portrait_url": "Pharsa-Empress-Phoenix.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Empress-Phoenix-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Empress-Phoenix-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Empress-Phoenix-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Empress-Phoenix-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Empress-Phoenix-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Empress-Phoenix-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Empress-Phoenix-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Empress-Phoenix-Neon-Shingetsu.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Empress-Phoenix-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Samba Muse",
+      "Splash_url": "Pharsa-Samba-Muse.png",
+      "script": "Pharsa-Samba-Muse-Backup.zip",
+      "Portrait_url": "Pharsa-Samba-Muse.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Samba-Muse-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Samba-Muse-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Samba-Muse-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Samba-Muse-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Samba-Muse-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Samba-Muse-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Samba-Muse-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Samba-Muse-Neon-Shingetsu.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Samba-Muse-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Peony Bloom",
+      "Splash_url": "Pharsa-Peony-Bloom.png",
+      "script": "Pharsa-Peony-Bloom-Backup.zip",
+      "Portrait_url": "Pharsa-Peony-Bloom.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Peony-Bloom-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Peony-Bloom-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Peony-Bloom-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Peony-Bloom-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Peony-Bloom-Samba-Muse.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Peony-Bloom-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Peony-Bloom-Neon-Shingetsu.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Peony-Bloom-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "MSC 2022",
+      "Default_name": "Hierophant",
+      "Splash_url": "Pharsa-Hierophant.png",
+      "script": "Pharsa-Hierophant-Backup.zip",
+      "Portrait_url": "Pharsa-Hierophant.png",
+      "Tags": [
+        "MSC 2022.png"
+      ],
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Hierophant-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Hierophant-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Hierophant-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Hierophant-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Hierophant-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Hierophant-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Hierophant-Peony-Bloom.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Hierophant-Neon-Shingetsu.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Hierophant-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Neon Shingetsu",
+      "Splash_url": "Pharsa-Neon-Shingetsu.png",
+      "script": "Pharsa-Neon-Shingetsu-Backup.zip",
+      "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Neon-Shingetsu-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Neon-Shingetsu-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Neon-Shingetsu-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Neon-Shingetsu-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Neon-Shingetsu-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Neon-Shingetsu-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Neon-Shingetsu-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Neon-Shingetsu-Hierophant.zip"
+        },
+        {
+          "name": "Neobeast Pharsa",
+          "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+          "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+          "script": "Pharsa-Neon-Shingetsu-Neobeast-Pharsa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Neobeast 2",
+      "Default_name": "Neobeast Pharsa",
+      "Splash_url": "Pharsa-Neobeast-Pharsa.png",
+      "script": "Pharsa-Neobeast-Pharsa-Backup.zip",
+      "Portrait_url": "Pharsa-Neobeast-Pharsa.png",
+      "Tags": [
+        "NeoBeasts.png"
+      ],
+      "targets": [
+        {
+          "name": "Wings of Vengeance",
+          "Portrait_url": "Pharsa-Wings-of-Vengeance.png",
+          "Splash_url": "Pharsa-Wings-of-Vengeance.png",
+          "script": "Pharsa-Neobeast-Pharsa-Wings-of-Vengeance.zip"
+        },
+        {
+          "name": "Peafowl's Dance",
+          "Portrait_url": "Pharsa-Peafowl-s-Dance.png",
+          "Splash_url": "Pharsa-Peafowl-s-Dance.png",
+          "script": "Pharsa-Neobeast-Pharsa-Peafowl-s-Dance.zip"
+        },
+        {
+          "name": "Indigo Aviatrix",
+          "Portrait_url": "Pharsa-Indigo-Aviatrix.png",
+          "Splash_url": "Pharsa-Indigo-Aviatrix.png",
+          "script": "Pharsa-Neobeast-Pharsa-Indigo-Aviatrix.zip"
+        },
+        {
+          "name": "Enchanting Witch",
+          "Portrait_url": "Pharsa-Enchanting-Witch.png",
+          "Splash_url": "Pharsa-Enchanting-Witch.png",
+          "script": "Pharsa-Neobeast-Pharsa-Enchanting-Witch.zip"
+        },
+        {
+          "name": "Empress Phoenix",
+          "Portrait_url": "Pharsa-Empress-Phoenix.png",
+          "Splash_url": "Pharsa-Empress-Phoenix.png",
+          "script": "Pharsa-Neobeast-Pharsa-Empress-Phoenix.zip"
+        },
+        {
+          "name": "Samba Muse",
+          "Portrait_url": "Pharsa-Samba-Muse.png",
+          "Splash_url": "Pharsa-Samba-Muse.png",
+          "script": "Pharsa-Neobeast-Pharsa-Samba-Muse.zip"
+        },
+        {
+          "name": "Peony Bloom",
+          "Portrait_url": "Pharsa-Peony-Bloom.png",
+          "Splash_url": "Pharsa-Peony-Bloom.png",
+          "script": "Pharsa-Neobeast-Pharsa-Peony-Bloom.zip"
+        },
+        {
+          "name": "Hierophant",
+          "Portrait_url": "Pharsa-Hierophant.png",
+          "Splash_url": "Pharsa-Hierophant.png",
+          "script": "Pharsa-Neobeast-Pharsa-Hierophant.zip"
+        },
+        {
+          "name": "Neon Shingetsu",
+          "Portrait_url": "Pharsa-Neon-Shingetsu.png",
+          "Splash_url": "Pharsa-Neon-Shingetsu.png",
+          "script": "Pharsa-Neobeast-Pharsa-Neon-Shingetsu.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "catalog_version": "2026.11.07.visual-fix-v1",
+  "data": [
+    {
+      "enabled": true,
+      "id": "saber-backup",
+      "portrait_file": "Saber-Default.png",
+      "script_file": "Saber-Backup.zip",
+      "skin_name": "Wandering Sword",
+      "splash_file": "Saber-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "saber-golden-flash",
+      "portrait_file": "Saber-Golden-Flash.png",
+      "script_file": "Saber-Golden-Flash.zip",
+      "skin_name": "Golden Flash",
+      "splash_file": "Saber-Golden-Flash.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "saber-force-warrior",
+      "portrait_file": "Saber-Force-Warrior.png",
+      "script_file": "Saber-Force-Warrior.zip",
+      "skin_name": "Force Warrior",
+      "splash_file": "Saber-Force-Warrior.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "saber-codename-storm",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      },
+      "portrait_file": "Saber-Codename-Storm.png",
+      "script_file": "Saber-Codename-Storm.zip",
+      "skin_name": "Codename - Storm",
+      "splash_file": "Saber-Codename-Storm.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "saber-fullmetal-ronin",
+      "portrait_file": "Saber-Fullmetal-Ronin.png",
+      "script_file": "Saber-Fullmetal-Ronin.zip",
+      "skin_name": "Fullmetal Ronin",
+      "splash_file": "Saber-Fullmetal-Ronin.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "saber-s-a-b-e-r-regulator",
+      "portrait_file": "Saber-S-A-B-E-R-Regulator.png",
+      "script_file": "Saber-S-A-B-E-R-Regulator.zip",
+      "skin_name": "S.A.B.E.R. Regulator",
+      "splash_file": "Saber-S-A-B-E-R-Regulator.png",
+      "tag_id": "saber",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "saber-onimaru",
+      "portrait_file": "Saber-Onimaru.png",
+      "script_file": "Saber-Onimaru.zip",
+      "skin_name": "Onimaru",
+      "splash_file": "Saber-Onimaru.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "saber-silver-edge",
+      "portrait_file": "Saber-Silver-Edge.png",
+      "script_file": "Saber-Silver-Edge.zip",
+      "skin_name": "Silver Edge",
+      "splash_file": "Saber-Silver-Edge.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "saber-iron-hound",
+      "portrait_file": "Saber-Iron-Hound.png",
+      "script_file": "Saber-Iron-Hound.zip",
+      "skin_name": "Iron Hound",
+      "splash_file": "Saber-Iron-Hound.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "saber-hound-of-steel-painted-01",
+      "portrait_file": "Saber-Hound-of-Steel.png",
+      "script_file": "Saber-Steel-of-Hound.zip",
+      "skin_name": "Hound of Steel",
+      "splash_file": "Saber-Hound-of-Steel.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 3,
+    "name": "Saber",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "saber"
+  },
+  "release_tag": "visual-saber",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

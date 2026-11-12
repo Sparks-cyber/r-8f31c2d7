@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "vexana-kishin-densetsu",
+      "portrait_file": "Vexana - Kishin Densetsu.png",
+      "script_file": "Vexana-Kishin-Densetsu.zip",
+      "skin_name": "Kishin Densetsu",
+      "splash_file": "Vexana - Kishin Densetsu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-megumi",
+      "portrait_file": "Vexana - Megumi.png",
+      "script_file": "Vexana-Megumi.zip",
+      "skin_name": "Megumi",
+      "splash_file": "Vexana - Megumi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 38,
+    "name": "Vexana",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "vexana"
+  },
+  "release_tag": "custom-vexana",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

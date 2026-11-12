@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "vexana-backup",
+      "portrait_file": "Vexana-Default.png",
+      "script_file": "Vexana-Backup.zip",
+      "skin_name": "Shimmer of Hope",
+      "splash_file": "Vexana-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-lucent-beacon",
+      "portrait_file": "Vexana-Lucent-Beacon.png",
+      "script_file": "Vexana-Lucent-Beacon.zip",
+      "skin_name": "Lucent Beacon",
+      "splash_file": "Vexana-Lucent-Beacon.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-sanguine-rose",
+      "portrait_file": "Vexana-Sanguine-Rose.png",
+      "script_file": "Vexana-Sanguine-Rose.zip",
+      "skin_name": "Sanguine Rose",
+      "splash_file": "Vexana-Sanguine-Rose.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-cursed-shackle",
+      "portrait_file": "Vexana-Cursed-Shackle.png",
+      "script_file": "Vexana-Cursed-Shackle.zip",
+      "skin_name": "Cursed Shackle",
+      "splash_file": "Vexana-Cursed-Shackle.png",
+      "tag_id": "s12",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-circus-magician",
+      "portrait_file": "Vexana-Circus-Magician.png",
+      "script_file": "Vexana-Circus-Magician.zip",
+      "skin_name": "Circus Magician",
+      "splash_file": "Vexana-Circus-Magician.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-the-sun-empress",
+      "portrait_file": "Vexana-The-Sun-Empress.png",
+      "script_file": "Vexana-The-Sun-Empress.zip",
+      "skin_name": "The Sun Empress",
+      "splash_file": "Vexana-The-Sun-Empress.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-twisted-fairytale",
+      "portrait_file": "Vexana-Twisted-Fairytale.png",
+      "script_file": "Vexana-Twisted-Fairytale.zip",
+      "skin_name": "Twisted Fairytale",
+      "splash_file": "Vexana-Twisted-Fairytale.png",
+      "tag_id": "zenith",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-twilight-star",
+      "portrait_file": "Guinevere-Twilight-Star.png",
+      "script_file": "Vexana-Twilight-Star.zip",
+      "skin_name": "Twilight Star",
+      "splash_file": "Vexana-Twilight-Star.png",
+      "tag_id": "the-aspirants",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "vexana-eternal-vows",
+      "portrait_file": "Vexana-Eternal-Vows.png",
+      "script_file": "Vexana-Eternal-Vows.zip",
+      "skin_name": "Eternal Vows",
+      "splash_file": "Vexana-Eternal-Vows.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 38,
+    "name": "Vexana",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "vexana"
+  },
+  "release_tag": "visual-vexana",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

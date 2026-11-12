@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 42,
+    "slug": "harley",
+    "name": "Harley",
+    "skin_name": "Mage Genius",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Magic",
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "region": "Northern Vale",
+    "release_date": "29 July 2017",
+    "resource": "Mana",
+    "short_description": "The young mage whose powers awakened once thrust into danger and who now arrives at the Magic Academy to study.",
+    "brief": "Heir to Castle Grandrock, Harley was of average talent and not considered with any importance by the Duke of Vance, his father. Yet he was always very close with his sister Lesley. To get his father's attention, he practiced conjuring to make it seem like he had magical abilities. Yet this had the unexpected result of getting him kidnapped. Lesley rushed to his rescue, and in the midst of his crisis his mighty magical powers were awakened. The two of them then proceeding to fight their way out. Ultimately, Leslie sent Harley to live and study at the Academy of Magic.",
+    "story": "There lived a famous young mage, Harley, in the Lion Academy of Magical City. He is blessed by the Magical Goddess and as the star of the Academy, he is able to learn quickly and master any magical spell.\r\n\r\nKids need adventure and when Harley and his friends were exploring the jungle in the middle of the night, they overheard the evil conspiracy of the organization called the \"Dark Wizards.\" The brave young men decide to stop them! First, they need to find the secret base of Dark Wizards and then report to the headmaster. But during the investigation, he accidentally activated the space portal and teleported to the other side of the Land of Dawn - Scholar City.\r\n\r\nWith the help of the mecha master - Rooney, the brave and energetic boy and his partners Lolita, Bruno, Alpha and Saber, they went back to the Magical City to destroy the core of Demorte, the Boss of Dark Wizards. To improve his battle techniques, Harley started his adventure in the Land of Dawn.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 9,
+    "control": 1,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2501,
+    "health_growth": 132,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 114,
+    "physical_attack_growth": 6.21,
+    "magic_power": 0,
+    "physical_defense": 19,
+    "physical_defense_growth": 3.7857,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.06,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "Harley0",
+      "name": "Magic Master",
+      "description": "Harley's mastery of magic allows his Basic Attacks and skills to reduce the enemy's Magic Defense by 2 and increase his Attack Speed by 5%-10% (scales with hero level) for 3s on hit. This effect stacks up to 10 times.<br/>Harley's Basic Attacks deal 60<scaleAD> (+50% Total Physical Attack)</scaleAD> <scaleAP>(+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3e9d943a0869ad60139cba7c8d3a3f0f.png",
+      "video_url": null
+    },
+    {
+      "id": "Harley1",
+      "name": "Poker Trick",
+      "description": "Harley throws 3 waves of cards, 3/3/4/4/5/5 cards per wave. Each card deals 120/132/144/156/168/180 <scaleAP> (+25% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies.<br/>After the same target is hit 3 time(s), the damage will decay to 50% on subsequent hits.",
+      "flavor_text": null,
+      "cost": "55/60/65/70/75/80",
+      "cooldown": "6",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b585f6e1f81d05d3fe3461082ce1805b.png",
+      "video_url": null
+    },
+    {
+      "id": "Harley2",
+      "name": "Space Escape",
+      "description": "Harley blinks in the designated direction, leaving a magic hat at his starting location. His Movement Speed increases by 60% for 2s, then returns to normal over 4s.<br/><br/><highlight>Use Again</highlight>: Return to the hat's location.",
+      "flavor_text": null,
+      "cost": "75/80/85/90/95/100",
+      "cooldown": "9/8.6/8.2/7.8/7.4/7",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_700b842bae382a89c330491ee17ccd3b.png",
+      "video_url": null
+    },
+    {
+      "id": "Harley3",
+      "name": "Deadly Magic",
+      "description": "Harley casts a magic ring of fire at an enemy hero, dealing 200/300/400<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and a 40% slow effect that decays to 15% after 1.5s. The ring will stay around the target, during which Harley can hit the ring to damage the target. The ring will explode after 4s, dealing <magicDamage>Magic Damage</magicDamage> equal to 200<scaleAP> (+50% Total Magic Power)</scaleAP> plus 30/40/50% of the damage taken by the target while the ring was active.",
+      "flavor_text": null,
+      "cost": "120/160/200",
+      "cooldown": "36/33/30",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0057a5d751c27f6e56d3f105e27e989b.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Harley0",
+      "sequence": "Harley2-Harley3-Harley1-Harley2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Harley's 2nd Skill to find a good position to land his Ultimate. Then cast his Ultimate at the target, and follow up with his 1st Skill before moving back to safety with his 2nd Skill."
+    },
+    {
+      "id": "Harley1",
+      "sequence": "Harley2-Harley1-AA-Harley2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, first use Harley's 2nd Skill to get a good angle to cast his 1st Skill, and follow up with Basic Attacks. Then use his 2nd Skill again to get back to safety."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Harley is best with heroes who can disrupt the enemy formation like Akai and Khufra. He can follow them into the fight and burst down the squishy targets.",
+      "heroes": [
+        {
+          "id": 9,
+          "slug": "akai",
+          "name": "Akai"
+        },
+        {
+          "id": 78,
+          "slug": "khufra",
+          "name": "Khufra"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Harley counters squishy heroes with poor mobility, such as Cecilion and Ixia, since he can deal burst damage while being on the move.",
+      "heroes": [
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Harley is countered by tanky heroes like Lolita and Uranus, because Harley can't deal enough meaningful damage to them and they can block and tank his Ultimate for their teammates.",
+      "heroes": [
+        {
+          "id": 20,
+          "slug": "lolita",
+          "name": "Lolita"
+        },
+        {
+          "id": 59,
+          "slug": "uranus",
+          "name": "Uranus"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Harley-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Harley-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7b867b2f05de71466a0e98ea6898eff2.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7b867b2f05de71466a0e98ea6898eff2.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/harley.json",
+    "visual_catalog": "catalog/v1/visual/harley.json",
+    "upgrade_catalog": "catalog/v1/upgrade/harley.json"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "thamuz-saber",
+      "portrait_file": "Thamuz - Saber.png",
+      "script_file": "Thamuz-Saber.zip",
+      "skin_name": "Saber",
+      "splash_file": "Thamuz - Saber.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 72,
+    "name": "Thamuz",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "thamuz"
+  },
+  "release_tag": "custom-thamuz",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 49,
+    "slug": "hylos",
+    "name": "Hylos",
+    "skin_name": "Grand Warden",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Guard",
+      "Initiator"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "2017",
+    "resource": "Mana",
+    "short_description": "Centaur guarding the Misty Mountains.",
+    "brief": "He lives in the Misty Mountains and belongs to the Centaur race. He has the ability to convert natural magic into life force, and at the same time he can continuously punish any enemy who invades the Misty Mountains by consuming his own life force.",
+    "story": "Amidst the misty mountains within the northern reaches of the Land of Dawn, resides the ancient and mysterious race of Centaurs, half-man, half-horse creatures. The Centaurs guard a fountain that rests among the highest mountain peak. This fountain is said to give the gift of Immortality and Infinite wisdom. Dark forces have relentlessly tried to gain the power found within the waters of this fountain, but only to be time and time again be thwarted by the centaurs.\n\nHowever, as time went on, the centaurs became tired and attrition soon took hold. It was not until Hylos had arrived, where he threw his mastery of nature's wrath, he was able to crush and punish all the invaders of the fountain. He had become a legendary figure within the annals of the Land of Dawn.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 10,
+    "offense": 2,
+    "control": 8,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2700,
+    "health_growth": 300,
+    "health_regen": 18.4,
+    "health_regen_growth": 1.6,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 105,
+    "physical_attack_growth": 6.64,
+    "magic_power": 0,
+    "physical_defense": 22,
+    "physical_defense_growth": 3.8571,
+    "magic_defense": 15,
+    "magic_defense_growth": 4.0,
+    "attack_speed": 1.03,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Hylos0",
+      "name": "Thickened Blood",
+      "description": "Hylos gains 1.5 extra Max HP for every 1 extra Max Mana he possesses.<br/><br/>When out of Mana, Hylos can use his HP for skill casts.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_81f19961357acccd7005193849dc05ac.png",
+      "video_url": null
+    },
+    {
+      "id": "Hylos1",
+      "name": "Law and Order",
+      "description": "Hylos gains 50% Movement Speed and causes his next Basic Attack within 3s to deal 300/350/400/450/500/550<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the target, knocking back and stunning them for 1s.<br/><br/><diminish>The extra Movement Speed rapidly decays over the duration and vanishes after the next Basic Attack.</diminish>",
+      "flavor_text": null,
+      "cost": "80/90/100/110/120/130",
+      "cooldown": "12/11.2/10.4/9.6/8.8/8",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6dc51b5af13742c8a0fb9e0dd1d0cb93.png",
+      "video_url": null
+    },
+    {
+      "id": "Hylos2",
+      "name": "Ring of Punishment",
+      "description": "Hylos releases the <highlight>Ring of Punishment</highlight>, dealing 100/130/160/190/220/250<scaleAP> (+20% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies per second while slowing them by 4/4/5/5/6/6% and reducing their Attack Speed by 7.5/9/10.5/12/13.5/15% for 2.5s (up to 8 stacks). Each stack also increases the enemy's damage taken from the <highlight>Ring of Punishment</highlight> by 5/8/11/14/17/20%. The <highlight>Ring of Punishment</highlight> consumes 30 Mana per second when it's active.<br/><br/><highlight>Use Again</highlight>: Hylos cancels the <highlight>Ring of Punishment</highlight>.",
+      "flavor_text": null,
+      "cost": "30/40/50/60/70/80",
+      "cooldown": "1",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_068a1e4a7a26457bba3aadb5b7b3e675.png",
+      "video_url": null
+    },
+    {
+      "id": "Hylos3",
+      "name": "Glorious Pathway",
+      "description": "Hylos creates a huge pathway in the target direction, reducing enemies' Movement Speed by 75% for 1s. The pathway lasts 6s.<br/>When on the pathway, Hylos gains Slow Immunity and recovers 3/4/5% of his Max HP per second. Allied heroes moving along the pathway gain 60/65/70% extra Movement Speed, while enemy heroes on the pathway will be slowed by 25/35/45%.",
+      "flavor_text": null,
+      "cost": "150/300/450",
+      "cooldown": "40/36/32",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fb95da3d348806ddefba457bafd30e9f.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Hylos0",
+      "sequence": "Hylos3-Hylos1-Hylos2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Hylos' Ultimate to create a pathway into the enemy team\nand then his 1st Skill to get in and stun an enemy. At the same time, use his 2nd Skill and Basic Attacks to deal continuous damage."
+    },
+    {
+      "id": "Hylos1",
+      "sequence": "Hylos1-Hylos2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Hylos should use his 1st Skill to get close and stun the enemy, then follow up with his 2nd Skill and Basic Attacks to deal damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Hylos works best with heroes that need faster Movement Speed to engage,\nsuch as Terizla and Minsitthar.",
+      "heroes": [
+        {
+          "id": 82,
+          "slug": "terizla",
+          "name": "Terizla"
+        },
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Hylos is strong against heroes without mobility skills that can't easily escape his 2nd Skill, like Layla and Gord.\n",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 23,
+          "slug": "gord",
+          "name": "Gord"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Hylos is countered by high mobility heroes like Karrie and Lesley, as they are hard for him to lock down and can also take him out.",
+      "heroes": [
+        {
+          "id": 40,
+          "slug": "karrie",
+          "name": "Karrie"
+        },
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hylos-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hylos-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bcc177e4f62634fca493732e4058c626.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bcc177e4f62634fca493732e4058c626.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/hylos.json",
+    "visual_catalog": "catalog/v1/visual/hylos.json",
+    "upgrade_catalog": "catalog/v1/upgrade/hylos.json"
+  }
+}

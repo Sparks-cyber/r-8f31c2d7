@@ -1,0 +1,719 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Ruby",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Cat Girl",
+      "Splash_url": "Ruby-Cat-Girl.png",
+      "script": "Ruby-Cat-Girl-Backup.zip",
+      "Portrait_url": "Ruby-Cat-Girl.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Cat-Girl-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Cat-Girl-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Cat-Girl-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Cat-Girl-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Cat-Girl-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Cat-Girl-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Cat-Girl-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Cat-Girl-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Cat-Girl-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Cat-Girl-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Hidden Orchid Butterfly",
+      "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+      "script": "Ruby-Hidden-Orchid-Butterfly-Backup.zip",
+      "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Cat-Girl.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Hidden-Orchid-Butterfly-Neon-Edge.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Edelweiss",
+      "Splash_url": "Ruby-Edelweiss.png",
+      "script": "Ruby-Edelweiss-Backup.zip",
+      "Portrait_url": "Ruby-Edelweiss.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Edelweiss-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Edelweiss-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Edelweiss-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Edelweiss-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Edelweiss-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Edelweiss-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Edelweiss-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Edelweiss-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Edelweiss-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Edelweiss-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Lady Zombie",
+      "Splash_url": "Ruby-Lady-Zombie.png",
+      "script": "Ruby-Lady-Zombie-Backup.zip",
+      "Portrait_url": "Ruby-Lady-Zombie.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Lady-Zombie-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Lady-Zombie-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Lady-Zombie-Edelweiss.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Lady-Zombie-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Lady-Zombie-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Lady-Zombie-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Lady-Zombie-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Lady-Zombie-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Lady-Zombie-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Lady-Zombie-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Pirate Parrot",
+      "Splash_url": "Ruby-Pirate-Parrot.png",
+      "script": "Ruby-Pirate-Parrot-Backup.zip",
+      "Portrait_url": "Ruby-Pirate-Parrot.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Pirate-Parrot-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Pirate-Parrot-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Pirate-Parrot-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Pirate-Parrot-Lady-Zombie.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Pirate-Parrot-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Pirate-Parrot-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Pirate-Parrot-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Pirate-Parrot-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Pirate-Parrot-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Pirate-Parrot-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Prismatic Plume",
+      "Splash_url": "Ruby-Prismatic-Plume.png",
+      "script": "Ruby-Prismatic-Plume-Backup.zip",
+      "Portrait_url": "Ruby-Prismatic-Plume.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Prismatic-Plume-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Prismatic-Plume-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Prismatic-Plume-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Prismatic-Plume-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Prismatic-Plume-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Prismatic-Plume-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Prismatic-Plume-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Prismatic-Plume-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Prismatic-Plume-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Prismatic-Plume-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Mecha Maiden",
+      "Splash_url": "Ruby-Mecha-Maiden.png",
+      "script": "Ruby-Mecha-Maiden-Backup.zip",
+      "Portrait_url": "Ruby-Mecha-Maiden.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Mecha-Maiden-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Mecha-Maiden-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Mecha-Maiden-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Mecha-Maiden-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Mecha-Maiden-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Mecha-Maiden-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Mecha-Maiden-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Mecha-Maiden-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Mecha-Maiden-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Mecha-Maiden-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Soul Reaper",
+      "Splash_url": "Ruby-Soul-Reaper.png",
+      "script": "Ruby-Soul-Reaper-Backup.zip",
+      "Portrait_url": "Ruby-Soul-Reaper.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Soul-Reaper-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Soul-Reaper-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Soul-Reaper-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Soul-Reaper-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Soul-Reaper-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Soul-Reaper-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Soul-Reaper-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Soul-Reaper-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Soul-Reaper-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Soul-Reaper-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "Golden Month",
+      "Default_name": "Crescent Dervish",
+      "Splash_url": "Ruby-Crescent-Dervish.png",
+      "script": "Ruby-Crescent-Dervish-Backup.zip",
+      "Portrait_url": "Ruby-Crescent-Dervish.png",
+      "Tags": [
+        "Golden Month.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Crescent-Dervish-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Crescent-Dervish-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Crescent-Dervish-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Crescent-Dervish-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Crescent-Dervish-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Crescent-Dervish-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Crescent-Dervish-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Crescent-Dervish-Soul-Reaper.zip"
+        },
+        {
+          "name": "Neon Edge",
+          "Portrait_url": "Ruby-Neon-Edge.png",
+          "Splash_url": "Ruby-Neon-Edge.png",
+          "script": "Ruby-Crescent-Dervish-Neon-Edge.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Crescent-Dervish-Powderblue-Butterfly.zip"
+        }
+      ]
+    },
+    {
+      "name": "Golden Month",
+      "Default_name": "Neon Edge",
+      "Splash_url": "Ruby-Neon-Edge.png",
+      "script": "Ruby-Neon-Edge-Backup.zip",
+      "Portrait_url": "Ruby-Neon-Edge.png",
+      "Tags": [
+        "Golden Month.png"
+      ],
+      "targets": [
+        {
+          "name": "Cat Girl",
+          "Portrait_url": "Ruby-Cat-Girl.png",
+          "Splash_url": "Ruby-Cat-Girl.png",
+          "script": "Ruby-Neon-Edge-Cat-Girl.zip"
+        },
+        {
+          "name": "Hidden Orchid Butterfly",
+          "Portrait_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "Splash_url": "Ruby-Hidden-Orchid-Butterfly.png",
+          "script": "Ruby-Neon-Edge-Hidden-Orchid-Butterfly.zip"
+        },
+        {
+          "name": "Edelweiss",
+          "Portrait_url": "Ruby-Edelweiss.png",
+          "Splash_url": "Ruby-Edelweiss.png",
+          "script": "Ruby-Neon-Edge-Edelweiss.zip"
+        },
+        {
+          "name": "Lady Zombie",
+          "Portrait_url": "Ruby-Lady-Zombie.png",
+          "Splash_url": "Ruby-Lady-Zombie.png",
+          "script": "Ruby-Neon-Edge-Lady-Zombie.zip"
+        },
+        {
+          "name": "Pirate Parrot",
+          "Portrait_url": "Ruby-Pirate-Parrot.png",
+          "Splash_url": "Ruby-Pirate-Parrot.png",
+          "script": "Ruby-Neon-Edge-Pirate-Parrot.zip"
+        },
+        {
+          "name": "Prismatic Plume",
+          "Portrait_url": "Ruby-Prismatic-Plume.png",
+          "Splash_url": "Ruby-Prismatic-Plume.png",
+          "script": "Ruby-Neon-Edge-Prismatic-Plume.zip"
+        },
+        {
+          "name": "Mecha Maiden",
+          "Portrait_url": "Ruby-Mecha-Maiden.png",
+          "Splash_url": "Ruby-Mecha-Maiden.png",
+          "script": "Ruby-Neon-Edge-Mecha-Maiden.zip"
+        },
+        {
+          "name": "Soul Reaper",
+          "Portrait_url": "Ruby-Soul-Reaper.png",
+          "Splash_url": "Ruby-Soul-Reaper.png",
+          "script": "Ruby-Neon-Edge-Soul-Reaper.zip"
+        },
+        {
+          "name": "Crescent Dervish",
+          "Portrait_url": "Ruby-Crescent-Dervish.png",
+          "Splash_url": "Ruby-Crescent-Dervish.png",
+          "script": "Ruby-Neon-Edge-Crescent-Dervish.zip"
+        },
+        {
+          "name": "Powderblue Butterfly",
+          "Portrait_url": "Ruby-Powderblue-Butterfly.png",
+          "Splash_url": "Ruby-Powderblue-Butterfly.png",
+          "script": "Ruby-Neon-Edge-Powderblue-Butterfly.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.10.09.210000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "aldous-backup",
+      "portrait_file": "Aldous-Default.png",
+      "script_file": "Aldous-Backup.zip",
+      "skin_name": "Contractor",
+      "splash_file": "Aldous-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-red-mantle",
+      "portrait_file": "Aldous-Red-Mantle.png",
+      "script_file": "Aldous-Red-Mantle.zip",
+      "skin_name": "Red Mantle",
+      "splash_file": "Aldous-Red-Mantle.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-death",
+      "portrait_file": "Aldous-Death.png",
+      "script_file": "Aldous-Death.zip",
+      "skin_name": "Death",
+      "splash_file": "Aldous-Death.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-the-insentient",
+      "portrait_file": "Aldous-The-Insentient.png",
+      "script_file": "Aldous-The-Insentient.zip",
+      "skin_name": "The Insentient",
+      "splash_file": "Aldous-The-Insentient.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-king-of-supremacy",
+      "portrait_file": "Aldous-King-of-Supremacy.png",
+      "script_file": "Aldous-King-of-Supremacy.zip",
+      "skin_name": "King of Supremacy",
+      "splash_file": "Aldous-King-of-Supremacy.png",
+      "tag_id": "m1",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-blazing-force",
+      "portrait_file": "Aldous-Blazing-Force.png",
+      "script_file": "Aldous-Blazing-Force.zip",
+      "skin_name": "Blazing Force",
+      "splash_file": "Aldous-Blazing-Force.png",
+      "tag_id": "blazing-bounties",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-realm-watcher",
+      "portrait_file": "Aldous-Realm-Watcher.png",
+      "script_file": "Aldous-Realm-Watcher.zip",
+      "skin_name": "Realm Watcher",
+      "splash_file": "Aldous-Realm-Watcher.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-starscream",
+      "portrait_file": "Aldous-Starscream.png",
+      "script_file": "Aldous-Starscream.zip",
+      "skin_name": "Starscream",
+      "splash_file": "Aldous-Starscream.png",
+      "tag_id": "transformers",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-mistbender-aldous",
+      "portrait_file": "Aldous-Mistbender.png",
+      "script_file": "Aldous-Mistbender-Aldous.zip",
+      "skin_name": "Mistbender Aldous",
+      "splash_file": "Aldous-Mistbender-Aldous.png",
+      "tag_id": "mistbenders",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-fathom-terror",
+      "portrait_file": "Aldous-Fathom-Terror.png",
+      "script_file": "Aldous-Fathom-Terror.zip",
+      "skin_name": "Fathom Terror",
+      "splash_file": "Aldous-Fathom-Terror.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-vile-death",
+      "portrait_file": "Aldous-Vile-Death.png",
+      "script_file": "Aldous-Vile-Death.zip",
+      "skin_name": "Vile Death",
+      "splash_file": "Aldous-Vile-Death.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-oni-kabuto",
+      "portrait_file": "Aldous-Oni-Kabuto.png",
+      "script_file": "Aldous-Oni-Kabuto.zip",
+      "skin_name": "Oni Kabuto",
+      "splash_file": "Aldous-Oni-Kabuto.png",
+      "tag_id": "annual-starlight",
+      "tier": "exquisite"
+    }
+  ],
+  "hero": {
+    "id": 64,
+    "name": "Aldous",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "aldous"
+  },
+  "release_tag": "visual-aldous",
+  "schema_version": 1,
+  "updated_at": "2026-10-10T04:00:00Z"
+}

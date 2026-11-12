@@ -1,0 +1,841 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Layla",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Green Flash",
+      "Splash_url": "Layla-Green-Flash.png",
+      "script": "Layla-Green-Flash-Backup.zip",
+      "Portrait_url": "Layla-Green-Flash.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Green-Flash-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Green-Flash-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Green-Flash-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Green-Flash-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Green-Flash-Miss-Hikari.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Green-Flash-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Green-Flash-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Bunny Babe",
+      "Splash_url": "Layla-Bunny-Babe.png",
+      "script": "Layla-Bunny-Babe-Backup.zip",
+      "Portrait_url": "Layla-Bunny-Babe.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Bunny-Babe-Green-Flash.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Bunny-Babe-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Bunny-Babe-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Bunny-Babe-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Bunny-Babe-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Bunny-Babe-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Bunny-Babe-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Bunny-Babe-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Bunny-Babe-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Bunny-Babe-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Bunny-Babe-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Cannon and Roses",
+      "Splash_url": "Layla-Cannon-and-Roses.png",
+      "script": "Layla-Cannon-and-Roses-Backup.zip",
+      "Portrait_url": "Layla-Cannon-and-Roses.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Cannon-and-Roses-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Cannon-and-Roses-Bunny-Babe.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Cannon-and-Roses-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Cannon-and-Roses-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Cannon-and-Roses-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Cannon-and-Roses-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Cannon-and-Roses-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Cannon-and-Roses-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Cannon-and-Roses-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Cannon-and-Roses-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Cannon-and-Roses-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Blue Spectre",
+      "Splash_url": "Layla-Blue-Spectre.png",
+      "script": "Layla-Blue-Spectre-Backup.zip",
+      "Portrait_url": "Layla-Blue-Spectre.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Blue-Spectre-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Blue-Spectre-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Blue-Spectre-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Blue-Spectre-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Blue-Spectre-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Blue-Spectre-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Blue-Spectre-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Blue-Spectre-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Blue-Spectre-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Blue-Spectre-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Classic Malefic Gunner",
+      "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+      "script": "Layla-Classic-Malefic-Gunner-Backup.zip",
+      "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Classic-Malefic-Gunner-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Classic-Malefic-Gunner-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Classic-Malefic-Gunner-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Classic-Malefic-Gunner-Blue-Spectre.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Classic-Malefic-Gunner-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Classic-Malefic-Gunner-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Classic-Malefic-Gunner-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Classic-Malefic-Gunner-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Classic-Malefic-Gunner-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Classic-Malefic-Gunner-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Classic-Malefic-Gunner-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.A.B.E.R.",
+      "Default_name": "S.A.B.E.R. Breacher",
+      "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+      "script": "Layla-S-A-B-E-R-Breacher-Backup.zip",
+      "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+      "Tags": [
+        "SABER.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-S-A-B-E-R-Breacher-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Bounties",
+      "Default_name": "Blazing Gun",
+      "Splash_url": "Layla-Blazing-Gun.png",
+      "script": "Layla-Blazing-Gun-Backup.zip",
+      "Portrait_url": "Layla-Blazing-Gun.png",
+      "Tags": [
+        "Blazing Bounties.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Blazing-Gun-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Blazing-Gun-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Blazing-Gun-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Blazing-Gun-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Blazing-Gun-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Blazing-Gun-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Blazing-Gun-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Blazing-Gun-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Blazing-Gun-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Blazing-Gun-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Blazing-Gun-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Miss Hikari",
+      "Splash_url": "Layla-Miss-Hikari.png",
+      "script": "Layla-Miss-Hikari-Backup.zip",
+      "Portrait_url": "Layla-Miss-Hikari.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Miss-Hikari-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Miss-Hikari-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Miss-Hikari-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Miss-Hikari-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Miss-Hikari-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Miss-Hikari-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Miss-Hikari-Blazing-Gun.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Miss-Hikari-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Miss-Hikari-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Miss-Hikari-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Miss-Hikari-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Twilight Waltz",
+      "Splash_url": "Layla-Twilight-Waltz.png",
+      "script": "Layla-Twilight-Waltz-Backup.zip",
+      "Portrait_url": "Layla-Twilight-Waltz.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Twilight-Waltz-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Twilight-Waltz-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Twilight-Waltz-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Twilight-Waltz-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Twilight-Waltz-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Twilight-Waltz-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Twilight-Waltz-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Twilight-Waltz-Miss-Hikari.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Twilight-Waltz-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Twilight-Waltz-Midnight-Waltz.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Paranormal Operative",
+      "Splash_url": "Layla-Paranormal-Operative.png",
+      "script": "Layla-Paranormal-Operative-Backup.zip",
+      "Portrait_url": "Layla-Paranormal-Operative.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Paranormal-Operative-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Paranormal-Operative-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Paranormal-Operative-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Paranormal-Operative-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Paranormal-Operative-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Paranormal-Operative-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Paranormal-Operative-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Paranormal-Operative-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Paranormal-Operative-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Midnight Waltz",
+          "Portrait_url": "Layla-Midnight-Waltz.png",
+          "Splash_url": "Layla-Midnight-Waltz.png",
+          "script": "Layla-Paranormal-Operative-Midnight-Waltz.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Paranormal-Operative-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Midnight Waltz",
+      "Splash_url": "Layla-Midnight-Waltz.png",
+      "script": "Layla-Midnight-Waltz-Backup.zip",
+      "Portrait_url": "Layla-Midnight-Waltz.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Green Flash",
+          "Portrait_url": "Layla-Green-Flash.png",
+          "Splash_url": "Layla-Green-Flash.png",
+          "script": "Layla-Midnight-Waltz-Green-Flash.zip"
+        },
+        {
+          "name": "Bunny Babe",
+          "Portrait_url": "Layla-Bunny-Babe.png",
+          "Splash_url": "Layla-Bunny-Babe.png",
+          "script": "Layla-Midnight-Waltz-Bunny-Babe.zip"
+        },
+        {
+          "name": "Cannon and Roses",
+          "Portrait_url": "Layla-Cannon-and-Roses.png",
+          "Splash_url": "Layla-Cannon-and-Roses.png",
+          "script": "Layla-Midnight-Waltz-Cannon-and-Roses.zip"
+        },
+        {
+          "name": "Blue Spectre",
+          "Portrait_url": "Layla-Blue-Spectre.png",
+          "Splash_url": "Layla-Blue-Spectre.png",
+          "script": "Layla-Midnight-Waltz-Blue-Spectre.zip"
+        },
+        {
+          "name": "Classic Malefic Gunner",
+          "Portrait_url": "Layla-Classic-Malefic-Gunner.png",
+          "Splash_url": "Layla-Classic-Malefic-Gunner.png",
+          "script": "Layla-Midnight-Waltz-Classic-Malefic-Gunner.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Breacher",
+          "Portrait_url": "Layla-S-A-B-E-R-Breacher.png",
+          "Splash_url": "Layla-S-A-B-E-R-Breacher.png",
+          "script": "Layla-Midnight-Waltz-S-A-B-E-R-Breacher.zip"
+        },
+        {
+          "name": "Blazing Gun",
+          "Portrait_url": "Layla-Blazing-Gun.png",
+          "Splash_url": "Layla-Blazing-Gun.png",
+          "script": "Layla-Midnight-Waltz-Blazing-Gun.zip"
+        },
+        {
+          "name": "Miss Hikari",
+          "Portrait_url": "Layla-Miss-Hikari.png",
+          "Splash_url": "Layla-Miss-Hikari.png",
+          "script": "Layla-Midnight-Waltz-Miss-Hikari.zip"
+        },
+        {
+          "name": "Twilight Waltz",
+          "Portrait_url": "Layla-Twilight-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Midnight-Waltz-Twilight-Waltz.zip"
+        },
+        {
+          "name": "Paranormal Operative",
+          "Portrait_url": "Layla-Paranormal-Operative.png",
+          "Splash_url": "Layla-Paranormal-Operative.png",
+          "script": "Layla-Midnight-Waltz-Paranormal-Operative.zip"
+        },
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Midnight-Waltz-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Sunset Waltz Skin 12",
+      "Splash_url": "Layla-Sunset-Waltz.png",
+      "script": "Layla-Sunset-Waltz-Skin-12-Backup.zip",
+      "Portrait_url": "Layla-Sunset-Waltz.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Sunset Waltz Painted 02",
+          "Portrait_url": "Layla-Sunset-Waltz.png",
+          "Splash_url": "Layla-Twilight-Waltz.png",
+          "script": "Layla-Sunset-Waltz-Skin-12-Sunset-Waltz-Painted-02.zip"
+        }
+      ]
+    }
+  ]
+}

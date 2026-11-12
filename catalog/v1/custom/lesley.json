@@ -1,0 +1,28 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "lesley-sinom",
+      "portrait_file": "Lesley - Sinom.png",
+      "script_file": "Lesley-Sinom.zip",
+      "skin_name": "Sinom",
+      "splash_file": "Lesley - Sinom.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 53,
+    "name": "Lesley",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "slug": "lesley"
+  },
+  "release_tag": "custom-lesley",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

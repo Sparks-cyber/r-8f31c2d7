@@ -1,0 +1,61 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "julian-itachi-v2",
+      "portrait_file": "Julian - Itachi V2.png",
+      "script_file": "Julian-Itachi-V2.zip",
+      "skin_name": "Itachi V2",
+      "splash_file": "Julian - Itachi V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "julian-naruto",
+      "portrait_file": "Julian - Naruto.png",
+      "script_file": "Julian-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Julian - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "julian-sasuke",
+      "portrait_file": "Julian - Sasuke.png",
+      "script_file": "Julian-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Julian - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "julian-ursed-weapon",
+      "portrait_file": "Julian - Ursed Weapon.png",
+      "script_file": "Julian-Ursed-Weapon.zip",
+      "skin_name": "Ursed Weapon",
+      "splash_file": "Julian - Ursed Weapon.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 116,
+    "name": "Julian",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "slug": "julian"
+  },
+  "release_tag": "custom-julian",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

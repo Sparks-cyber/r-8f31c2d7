@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 44,
+    "slug": "grock",
+    "name": "Grock",
+    "skin_name": "Fortress Titan",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Physical",
+    "specialties": [
+      "Crowd Control",
+      "Initiator"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "2017",
+    "resource": null,
+    "short_description": "Stone man awakened from sleep.",
+    "brief": "Through the morning mists of the Land of Dawn strides the towering Fortress Titan, pausing to listen as migrating birds share tales from distant shores. Though it has weathered countless ages as the last creation of the Ancient Ones, it still sees the world with the wonderment of a child. Upon its shoulders rests a broken castle tower-a most unlikely weapon-while the very stones of its composition were a record of the Ancient Ones' brave defiance across these lands. It roams the Land of Dawn in an endless quest, seeking both its creators and kindred spirits who will carry on the legacy of the Ancients.",
+    "story": "When the magical veins of ore resonated for the thousandth time, Master Thoth, a mage who could read the rocks and ley lines, implanted a mysterious Thunder Core into a stone embryo. And thus, a new being, the stone golem, was born. This newly awakened life was named \"Grock\" by Thoth-just one of countless wonders created by him and his companions.\r\n\r\nAs the war between Light and Darkness intensified, life throughout the universe became mere sacrifices in their feud. However, a handful of angels and demons, guided by the Goddess of Twilight, began working to save all living beings. They would later become known as the \"Ancient Ones.\" Master Thoth was one of them. Grock did not forget those many years when the Ancient Ones came and went through their castle. They held long talks in the night and exchanged silent gazes in the morning mist. Those were their final years of peace. Grock did not forget his teacher's words: \"You must never forget the power of life in this world, just as the trees should never forget the rain.\" Master Thoth told Grock that whenever it became confused, it should not hurry, but instead remember, for time stands on stone's side. Young Grock did not yet understand why the Ancient Ones' elders would always grasp their weapons in silence towards the night sky. It only knew that the stars above the castle changed with the seasons, and when winter snow bent the pine branches, the scent of rock honey from the kitchen would warm the entire ley line.\r\n\r\nGrock did not forget that lightless morning. Master Thoth surveyed the situation and said: \"Stay and protect this home until you grow strong.\" He then turned and left the castle. The sun did not rise for many days after. The land trembled as massive clouds of dust shrouded the sky, only to be torn apart by mighty forces high above. Cracks appeared all across the castle walls, but after many days, all fell silent.\r\n\r\nGrock did not forget the peaceful years that followed. It did not witness the two gods being banished from this world during that war, nor did it know that life had once again taken center stage on this land. But it knew that many paths had been trodden through the forest, and chimney smoke would occasionally rise from distant places-it heard many stories about this land from the little birds, but these tales held no trace of its teacher or the other Ancient Ones.\r\n\r\nGrock did not forget the burning sunset that shattered the peace. The sturdy outer walls of the castle melted and burst apart. Countless twisted figures wielding obsidian blades charged into the castle shouting warcries, led by a huge monstrosity growling deeply as it searched for Grock. Their aura of fire and chaos frightened Grock, but with the castle in ruins, it had nowhere to hide. As a castle tower came crashing down, Grock instinctively caught it and swung at the invaders. After what seemed like an eternity, the creatures of lava and obsidian finally retreated. Grock watched them until they disappeared into the horizon. When Grock turned back, it saw only ruins. However, it was not aware that those ancient tales of brave defiance already had a new author.\r\n\r\nWhere should it go? Grock did not forget its teacher's departing words: \"Stay and protect this home until you grow strong.\" But the castle that was once home was gone, leaving only the tower in its hands. Grock had grown strong enough. Perhaps it was time to search for its teacher. With fragments of the castle merged into its body and the tower hoisted upon its shoulder, Grock set out to find Master Thoth.\r\n\r\nDuring its travels across the Land of Dawn, Grock encountered many beings with light in their eyes while the birds nestled in its tower kept Grock company. It carefully preserved all its memories within the stones. Even though Grock did not fully understand, it did not forget its teacher's saying: \"Even when the tales have all been weathered away by time, the stones will not forget.\"\r\n\r\n\"For time stands on the stones' side.\"",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 9,
+    "offense": 4,
+    "control": 8,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2700,
+    "health_growth": 240,
+    "health_regen": 8.4,
+    "health_regen_growth": 0.6,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 135,
+    "physical_attack_growth": 8.21,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 6.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.01,
+    "attack_speed_growth": 0.0121,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 2.3
+  },
+  "abilities": [
+    {
+      "id": "Grock0",
+      "name": "Bastion of Stone",
+      "description": "Grock gains a Shield equal to 14% of his Max HP and empowers the next Basic Attack to deal <physicalDamage>Physical Damage</physicalDamage> equal to 4<scaleHP> (+2% Total Physical Defense)</scaleHP>% of the target's Max HP (capped at 300<trueDamage>(+20*Hero Level)</trueDamage> against non-hero units). This effect has a 18-12s cooldown (decreases with level), which reduces by 200% when near terrain.<br><br>Grock skills cannot be interrupted, and he gains 30<trueDamage>(+6*Hero Level)</trueDamage>% extra Physical Defense while the Shield is active.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_bb06fa77cd649eff0cc061706e029182.png",
+      "video_url": null
+    },
+    {
+      "id": "Grock1",
+      "name": "Mighty Swing",
+      "description": "Grock strikes forward with massive force, dealing 240/280/320/360/400/440<scaleAD> (+100% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. Enemies with obstacles behind them are knocked back into the obstacle, launched airborne, and take extra <physicalDamage>Physical Damage</physicalDamage> equal to 4<scaleHP> (+2% Total Physical Defense)</scaleHP>% of their Max HP (capped at 300<trueDamage>(+20*Hero Level)</trueDamage> against non-hero units). If there are no obstacles behind, enemies are only knocked back slightly.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_b4b1b8b21935b3455b44981f2a01404d.png",
+      "video_url": null
+    },
+    {
+      "id": "Grock2",
+      "name": "Earthen Rampart",
+      "description": "After a brief delay, Grock summons a stone wall in the target area, dealing 100/120/140/160/180/200<scaleAD> (+60% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and knocking enemies towards him.<br/><highlight>Use Again</highlight>: Cancel the wall early.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "14/13.2/12.4/11.6/10.8/10",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_e19cfc03bbe289fccbfc89a1ef6668be.png",
+      "video_url": null
+    },
+    {
+      "id": "Grock3",
+      "name": "Tectonic Charge",
+      "description": "Grock charges forward and gains Control Immunity, dealing 100<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1s and deals 650/850/1050<scaleAD> (+300% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. If this skill doesn't hit terrain, 50% of its cooldown is refunded.",
+      "flavor_text": "The brave fear nothing.",
+      "cost": null,
+      "cooldown": "55/50/45",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_5226d8dc97b10a6a1a2416b3957dfc7f.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Grock0",
+      "sequence": "Grock2-Grock3-Grock1-AA-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, initiate with Grock's 2nd Skill to trap the enemies, then charge into the wall with his Ultimate. While the enemies are airborne, find a good angle to slam them into the wall with his 1st Skill and send them airborne again, then finish up with Basic Attacks."
+    },
+    {
+      "id": "Grock1",
+      "sequence": "Grock2-Grock1-Grock3-AA-AA",
+      "name": "LANING COMBOS",
+      "description": "In small skirmishes, use Grock's 2nd Skill to knock the enemy toward him, then use his 1st Skill to slam them into the wall. Use his Ultimate to charge into the wall and knock them airborne again, and finish the job with Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Grock's Ultimate is a powerful CC that covers a wide area,so he pairs well with Mages like Odette and Pharsa to maximize their AOE damage.",
+      "heroes": [
+        {
+          "id": 46,
+          "slug": "odette",
+          "name": "Odette"
+        },
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Grock works well against heroes who cannot Blink over his wallto escape his CC,such as Gord and Layla.",
+      "heroes": [
+        {
+          "id": 23,
+          "slug": "gord",
+          "name": "Gord"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Grock is countered by Magic Damage heroes with Blink who can kite him with relative ease,such as Kimmy and Harley.",
+      "heroes": [
+        {
+          "id": 71,
+          "slug": "kimmy",
+          "name": "Kimmy"
+        },
+        {
+          "id": 42,
+          "slug": "harley",
+          "name": "Harley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Grock-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Grock-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f064f515b11a4ceb3490124d2b08bd86.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/c5df319054bcefec1d17c771b45b9e10.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/grock.json",
+    "visual_catalog": "catalog/v1/visual/grock.json",
+    "upgrade_catalog": "catalog/v1/upgrade/grock.json"
+  }
+}

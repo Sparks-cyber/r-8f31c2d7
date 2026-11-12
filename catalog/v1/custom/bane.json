@@ -1,0 +1,50 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "bane-kisame",
+      "portrait_file": "Bane - Kisame.png",
+      "script_file": "Bane-Kisame.zip",
+      "skin_name": "Kisame",
+      "splash_file": "Bane - Kisame.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "bane-mr-krabs",
+      "portrait_file": "Bane - Mr Krabs.png",
+      "script_file": "Bane-Mr-Krabs.zip",
+      "skin_name": "Mr Krabs",
+      "splash_file": "Bane - Mr Krabs.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    },
+    {
+      "enabled": true,
+      "id": "bane-shino",
+      "portrait_file": "Bane - Shino.png",
+      "script_file": "Bane-Shino.zip",
+      "skin_name": "Shino",
+      "splash_file": "Bane - Shino.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 11,
+    "name": "Bane",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "slug": "bane"
+  },
+  "release_tag": "custom-bane",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

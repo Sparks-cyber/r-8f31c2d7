@@ -1,0 +1,203 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Minsitthar",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "King of War",
+      "Splash_url": "Minsitthar-King-of-War.png",
+      "script": "Minsitthar-King-of-War-Backup.zip",
+      "Portrait_url": "Minsitthar-King-of-War.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Gilded King",
+          "Portrait_url": "Minsitthar-Gilded-King.png",
+          "Splash_url": "Minsitthar-Gilded-King.png",
+          "script": "Minsitthar-King-of-War-Gilded-King.zip"
+        },
+        {
+          "name": "Sol Invictus",
+          "Portrait_url": "Minsitthar-Sol-Invictus.png",
+          "Splash_url": "Minsitthar-Sol-Invictus.png",
+          "script": "Minsitthar-King-of-War-Sol-Invictus.zip"
+        },
+        {
+          "name": "Symbol of Valor",
+          "Portrait_url": "Minsitthar-Symbol-of-Valor.png",
+          "Splash_url": "Minsitthar-Symbol-of-Valor.png",
+          "script": "Minsitthar-King-of-War-Symbol-of-Valor.zip"
+        },
+        {
+          "name": "Radiant Lion",
+          "Portrait_url": "Minsitthar-Radiant-Lion.png",
+          "Splash_url": "Minsitthar-Radiant-Lion.png",
+          "script": "Minsitthar-King-of-War-Radiant-Lion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Gilded King",
+      "Splash_url": "Minsitthar-Gilded-King.png",
+      "script": "Minsitthar-Gilded-King-Backup.zip",
+      "Portrait_url": "Minsitthar-Gilded-King.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "King of War",
+          "Portrait_url": "Minsitthar-King-of-War.png",
+          "Splash_url": "Minsitthar-King-of-War.png",
+          "script": "Minsitthar-Gilded-King-King-of-War.zip"
+        },
+        {
+          "name": "War Lion",
+          "Portrait_url": "Minsitthar-War-Lion.png",
+          "Splash_url": "Minsitthar-War-Lion.png",
+          "script": "Minsitthar-Gilded-King-War-Lion.zip"
+        },
+        {
+          "name": "Sol Invictus",
+          "Portrait_url": "Minsitthar-Sol-Invictus.png",
+          "Splash_url": "Minsitthar-Sol-Invictus.png",
+          "script": "Minsitthar-Gilded-King-Sol-Invictus.zip"
+        },
+        {
+          "name": "Symbol of Valor",
+          "Portrait_url": "Minsitthar-Symbol-of-Valor.png",
+          "Splash_url": "Minsitthar-Symbol-of-Valor.png",
+          "script": "Minsitthar-Gilded-King-Symbol-of-Valor.zip"
+        },
+        {
+          "name": "Radiant Lion",
+          "Portrait_url": "Minsitthar-Radiant-Lion.png",
+          "Splash_url": "Minsitthar-Radiant-Lion.png",
+          "script": "Minsitthar-Gilded-King-Radiant-Lion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "War Lion",
+      "Splash_url": "Minsitthar-War-Lion.png",
+      "script": "Minsitthar-War-Lion-Backup.zip",
+      "Portrait_url": "Minsitthar-War-Lion.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "King of War",
+          "Portrait_url": "Minsitthar-King-of-War.png",
+          "Splash_url": "Minsitthar-King-of-War.png",
+          "script": "Minsitthar-War-Lion-King-of-War.zip"
+        },
+        {
+          "name": "Gilded King",
+          "Portrait_url": "Minsitthar-Gilded-King.png",
+          "Splash_url": "Minsitthar-Gilded-King.png",
+          "script": "Minsitthar-War-Lion-Gilded-King.zip"
+        },
+        {
+          "name": "Sol Invictus",
+          "Portrait_url": "Minsitthar-Sol-Invictus.png",
+          "Splash_url": "Minsitthar-Sol-Invictus.png",
+          "script": "Minsitthar-War-Lion-Sol-Invictus.zip"
+        },
+        {
+          "name": "Symbol of Valor",
+          "Portrait_url": "Minsitthar-Symbol-of-Valor.png",
+          "Splash_url": "Minsitthar-Symbol-of-Valor.png",
+          "script": "Minsitthar-War-Lion-Symbol-of-Valor.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Sol Invictus",
+      "Splash_url": "Minsitthar-Sol-Invictus.png",
+      "script": "Minsitthar-Sol-Invictus-Backup.zip",
+      "Portrait_url": "Minsitthar-Sol-Invictus.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "King of War",
+          "Portrait_url": "Minsitthar-King-of-War.png",
+          "Splash_url": "Minsitthar-King-of-War.png",
+          "script": "Minsitthar-Sol-Invictus-King-of-War.zip"
+        },
+        {
+          "name": "Gilded King",
+          "Portrait_url": "Minsitthar-Gilded-King.png",
+          "Splash_url": "Minsitthar-Gilded-King.png",
+          "script": "Minsitthar-Sol-Invictus-Gilded-King.zip"
+        },
+        {
+          "name": "War Lion",
+          "Portrait_url": "Minsitthar-War-Lion.png",
+          "Splash_url": "Minsitthar-War-Lion.png",
+          "script": "Minsitthar-Sol-Invictus-War-Lion.zip"
+        },
+        {
+          "name": "Symbol of Valor",
+          "Portrait_url": "Minsitthar-Symbol-of-Valor.png",
+          "Splash_url": "Minsitthar-Symbol-of-Valor.png",
+          "script": "Minsitthar-Sol-Invictus-Symbol-of-Valor.zip"
+        },
+        {
+          "name": "Radiant Lion",
+          "Portrait_url": "Minsitthar-Radiant-Lion.png",
+          "Splash_url": "Minsitthar-Radiant-Lion.png",
+          "script": "Minsitthar-Sol-Invictus-Radiant-Lion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Symbol of Valor",
+      "Splash_url": "Minsitthar-Symbol-of-Valor.png",
+      "script": "Minsitthar-Symbol-of-Valor-Backup.zip",
+      "Portrait_url": "Minsitthar-Symbol-of-Valor.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "King of War",
+          "Portrait_url": "Minsitthar-King-of-War.png",
+          "Splash_url": "Minsitthar-King-of-War.png",
+          "script": "Minsitthar-Symbol-of-Valor-King-of-War.zip"
+        },
+        {
+          "name": "Gilded King",
+          "Portrait_url": "Minsitthar-Gilded-King.png",
+          "Splash_url": "Minsitthar-Gilded-King.png",
+          "script": "Minsitthar-Symbol-of-Valor-Gilded-King.zip"
+        },
+        {
+          "name": "War Lion",
+          "Portrait_url": "Minsitthar-War-Lion.png",
+          "Splash_url": "Minsitthar-War-Lion.png",
+          "script": "Minsitthar-Symbol-of-Valor-War-Lion.zip"
+        },
+        {
+          "name": "Sol Invictus",
+          "Portrait_url": "Minsitthar-Sol-Invictus.png",
+          "Splash_url": "Minsitthar-Sol-Invictus.png",
+          "script": "Minsitthar-Symbol-of-Valor-Sol-Invictus.zip"
+        },
+        {
+          "name": "Radiant Lion",
+          "Portrait_url": "Minsitthar-Radiant-Lion.png",
+          "Splash_url": "Minsitthar-Radiant-Lion.png",
+          "script": "Minsitthar-Symbol-of-Valor-Radiant-Lion.zip"
+        }
+      ]
+    }
+  ]
+}

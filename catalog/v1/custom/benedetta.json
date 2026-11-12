@@ -1,0 +1,72 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "benedetta-aspirant",
+      "portrait_file": "Benedetta - Aspirant.png",
+      "script_file": "Benedetta-Aspirant.zip",
+      "skin_name": "Aspirant",
+      "splash_file": "Benedetta - Aspirant.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "benedetta-maki-zenin",
+      "portrait_file": "Benedetta - Maki Zenin.png",
+      "script_file": "Benedetta-Maki-Zenin.zip",
+      "skin_name": "Maki Zenin",
+      "splash_file": "Benedetta - Maki Zenin.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "benedetta-okita-souji",
+      "portrait_file": "Benedetta - Okita Souji.png",
+      "script_file": "Benedetta-Okita-Souji.zip",
+      "skin_name": "Okita Souji",
+      "splash_file": "Benedetta - Okita Souji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "benedetta-sasuke",
+      "portrait_file": "Benedetta - Sasuke.png",
+      "script_file": "Benedetta-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Benedetta - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "benedetta-shinobu",
+      "portrait_file": "Benedetta - Shinobu.png",
+      "script_file": "Benedetta-Shinobu.zip",
+      "skin_name": "Shinobu",
+      "splash_file": "Benedetta - Shinobu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 97,
+    "name": "Benedetta",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "slug": "benedetta"
+  },
+  "release_tag": "custom-benedetta",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

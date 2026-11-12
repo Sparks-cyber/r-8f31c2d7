@@ -1,0 +1,46 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "zetian-backup",
+      "portrait_file": "Zetian-Default.png",
+      "script_file": "Zetian-Backup.zip",
+      "skin_name": "Celestial Empress",
+      "splash_file": "Zetian-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "zetian-heavenly-splendor",
+      "portrait_file": "Zetian-Heavenly-Splendor.png",
+      "script_file": "Zetian-Heavenly-Splendor.zip",
+      "skin_name": "Heavenly Splendor",
+      "splash_file": "Zetian-Heavenly-Splendor.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "zetian-sunset-luminance",
+      "portrait_file": "Zetian-Sunset-Luminance.png",
+      "script_file": "Zetian-Sunset-Luminance.zip",
+      "skin_name": "Sunset Luminance",
+      "splash_file": "Zetian-Sunset-Luminance.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    }
+  ],
+  "hero": {
+    "id": 129,
+    "name": "Zetian",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "zetian"
+  },
+  "release_tag": "visual-zetian",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

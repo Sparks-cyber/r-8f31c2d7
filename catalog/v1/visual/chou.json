@@ -1,0 +1,186 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "chou-backup",
+      "portrait_file": "Chou-Default.png",
+      "script_file": "Chou-Backup.zip",
+      "skin_name": "Kung Fu Boy",
+      "splash_file": "Chou-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "chou-hip-hop-boy",
+      "portrait_file": "Chou-Hip-hop-Boy.png",
+      "script_file": "Chou-Hip-hop-Boy.zip",
+      "skin_name": "Hip-hop Boy",
+      "splash_file": "Chou-Hip-hop-Boy.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "chou-dragon-boy",
+      "portrait_file": "Chou-Dragon-Boy.png",
+      "script_file": "Chou-Dragon-Boy.zip",
+      "skin_name": "Dragon Boy",
+      "splash_file": "Chou-Dragon-Boy.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "chou-king-of-muay-thai",
+      "portrait_file": "Chou-King-of-Muay-Thai.png",
+      "script_file": "Chou-King-of-Muay-Thai.zip",
+      "skin_name": "King of Muay Thai",
+      "splash_file": "Chou-King-of-Muay-Thai.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "chou-furious-tiger",
+      "portrait_file": "Chou-Furious-Tiger.png",
+      "script_file": "Chou-Furious-Tiger.zip",
+      "skin_name": "Furious Tiger",
+      "splash_file": "Chou-Furious-Tiger.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "chou-iori-yagami",
+      "portrait_file": "Chou-Iori-Yagami.png",
+      "script_file": "Chou-Iori-Yagami.zip",
+      "skin_name": "Iori Yagami",
+      "splash_file": "Chou-Iori-Yagami.png",
+      "tag_id": "kof",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "chou-go-ballistic",
+      "portrait_file": "Chou-Go-Ballistic.png",
+      "script_file": "Chou-Go-Ballistic.zip",
+      "skin_name": "Go Ballistic",
+      "splash_file": "Chou-Go-Ballistic.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "chou-thunderfist",
+      "portrait_file": "Chou-Thunderfist.png",
+      "script_file": "Chou-Thunderfist.zip",
+      "skin_name": "Thunderfist",
+      "splash_file": "Chou-Thunderfist.png",
+      "tag_id": "dawning-stars",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "chou-s-t-u-n-chou",
+      "portrait_file": "Chou-S-T-U-N.png",
+      "script_file": "Chou-S-T-U-N-Chou.zip",
+      "skin_name": "S.T.U.N. Chou",
+      "splash_file": "Chou-S-T-U-N-Chou.png",
+      "tag_id": "stun",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "chou-dragon-shiryu",
+      "portrait_file": "Chou-Dragon-Shiryu.png",
+      "script_file": "Chou-Dragon-Shiryu.zip",
+      "skin_name": "Dragon Shiryu",
+      "splash_file": "Chou-Dragon-Shiryu.png",
+      "tag_id": "saint-seiya",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "chou-libra-shiryu",
+      "portrait_file": "Chou-Libra-Shiryu.png",
+      "script_file": "Chou-Libra-Shiryu.zip",
+      "skin_name": "Libra Shiryu",
+      "splash_file": "Chou-Libra-Shiryu.png",
+      "tag_id": "saint-seiya",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "chou-echo",
+      "portrait_file": "Chou-ECHO.png",
+      "script_file": "Chou-ECHO.zip",
+      "skin_name": "ECHO",
+      "splash_file": "Chou-ECHO.png",
+      "tag_id": "elite",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "chou-ken-outfit-1-painted-01",
+      "portrait_file": "Chou-Ken-Outfit-1.png",
+      "script_file": "Chou-Ken-Outfit-1.zip",
+      "skin_name": "Ken (Outfit 1)",
+      "splash_file": "Chou-Ken-Outfit-1.png",
+      "tag_id": "painted",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "chou-ken-outfit-2",
+      "portrait_file": "Chou-Ken.png",
+      "script_file": "Chou-Ken-Outfit-2.zip",
+      "skin_name": "Ken (Outfit 2)",
+      "splash_file": "Chou-Ken-Outfit-2.png",
+      "tag_id": "street-fighter",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "chou-starforger-s-glory",
+      "portrait_file": "Chou-Starforger-s-Glory.png",
+      "script_file": "Chou-Starforger-s-Glory.zip",
+      "skin_name": "Starforger's Glory",
+      "splash_file": "Chou-Starforger-s-Glory.png",
+      "tag_id": "10th-anniversary",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "chou-undefeated-champion-painted-01",
+      "portrait_file": "Chou-Undefeated-Champion.png",
+      "script_file": "Chou-Undefeated-Champion.zip",
+      "skin_name": "Undefeated Champion",
+      "splash_file": "Chou-Undefeated-Champion.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "chou-red-tiger-painted-01",
+      "portrait_file": "Chou-Red-Tiger.png",
+      "script_file": "Chou-Red-Tiger.zip",
+      "skin_name": "Red Tiger",
+      "splash_file": "Chou-Red-Tiger.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    }
+  ],
+  "hero": {
+    "id": 26,
+    "name": "Chou",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "chou"
+  },
+  "release_tag": "visual-chou",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

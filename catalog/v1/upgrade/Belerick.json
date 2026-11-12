@@ -1,0 +1,239 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Belerick",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Tiger's Claw",
+      "Splash_url": "Belerick-Tiger-s-Claw.png",
+      "script": "Belerick-Tiger-s-Claw-Backup.zip",
+      "Portrait_url": "Belerick-Tiger-s-Claw.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "The Deep One",
+          "Portrait_url": "Belerick-The-Deep-One.png",
+          "Splash_url": "Belerick-The-Deep-One.png",
+          "script": "Belerick-Tiger-s-Claw-The-Deep-One.zip"
+        },
+        {
+          "name": "Emerald Guardian",
+          "Portrait_url": "Belerick-Emerald-Guardian.png",
+          "Splash_url": "Belerick-Emerald-Guardian.png",
+          "script": "Belerick-Tiger-s-Claw-Emerald-Guardian.zip"
+        },
+        {
+          "name": "Arbiter of Stars",
+          "Portrait_url": "Belerick-Arbiter-of-Stars.png",
+          "Splash_url": "Belerick-Arbiter-of-Stars.png",
+          "script": "Belerick-Tiger-s-Claw-Arbiter-of-Stars.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Torch Guardian",
+      "Splash_url": "Belerick-Torch-Guardian.png",
+      "script": "Belerick-Torch-Guardian-Backup.zip",
+      "Portrait_url": "Belerick-Torch-Guardian.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Tiger's Claw",
+          "Portrait_url": "Belerick-Tiger-s-Claw.png",
+          "Splash_url": "Belerick-Tiger-s-Claw.png",
+          "script": "Belerick-Torch-Guardian-Tiger-s-Claw.zip"
+        },
+        {
+          "name": "The Deep One",
+          "Portrait_url": "Belerick-The-Deep-One.png",
+          "Splash_url": "Belerick-The-Deep-One.png",
+          "script": "Belerick-Torch-Guardian-The-Deep-One.zip"
+        },
+        {
+          "name": "Emerald Guardian",
+          "Portrait_url": "Belerick-Emerald-Guardian.png",
+          "Splash_url": "Belerick-Emerald-Guardian.png",
+          "script": "Belerick-Torch-Guardian-Emerald-Guardian.zip"
+        },
+        {
+          "name": "Arbiter of Stars",
+          "Portrait_url": "Belerick-Arbiter-of-Stars.png",
+          "Splash_url": "Belerick-Arbiter-of-Stars.png",
+          "script": "Belerick-Torch-Guardian-Arbiter-of-Stars.zip"
+        },
+        {
+          "name": "Deep Reef",
+          "Portrait_url": "Belerick-Deep-Reef.png",
+          "Splash_url": "Belerick-Deep-Reef.png",
+          "script": "Belerick-Torch-Guardian-Deep-Reef.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "The Deep One",
+      "Splash_url": "Belerick-The-Deep-One.png",
+      "script": "Belerick-The-Deep-One-Backup.zip",
+      "Portrait_url": "Belerick-The-Deep-One.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Tiger's Claw",
+          "Portrait_url": "Belerick-Tiger-s-Claw.png",
+          "Splash_url": "Belerick-Tiger-s-Claw.png",
+          "script": "Belerick-The-Deep-One-Tiger-s-Claw.zip"
+        },
+        {
+          "name": "Torch Guardian",
+          "Portrait_url": "Belerick-Torch-Guardian.png",
+          "Splash_url": "Belerick-Torch-Guardian.png",
+          "script": "Belerick-The-Deep-One-Torch-Guardian.zip"
+        },
+        {
+          "name": "Emerald Guardian",
+          "Portrait_url": "Belerick-Emerald-Guardian.png",
+          "Splash_url": "Belerick-Emerald-Guardian.png",
+          "script": "Belerick-The-Deep-One-Emerald-Guardian.zip"
+        },
+        {
+          "name": "Arbiter of Stars",
+          "Portrait_url": "Belerick-Arbiter-of-Stars.png",
+          "Splash_url": "Belerick-Arbiter-of-Stars.png",
+          "script": "Belerick-The-Deep-One-Arbiter-of-Stars.zip"
+        },
+        {
+          "name": "Deep Reef",
+          "Portrait_url": "Belerick-Deep-Reef.png",
+          "Splash_url": "Belerick-Deep-Reef.png",
+          "script": "Belerick-The-Deep-One-Deep-Reef.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Emerald Guardian",
+      "Splash_url": "Belerick-Emerald-Guardian.png",
+      "script": "Belerick-Emerald-Guardian-Backup.zip",
+      "Portrait_url": "Belerick-Emerald-Guardian.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Tiger's Claw",
+          "Portrait_url": "Belerick-Tiger-s-Claw.png",
+          "Splash_url": "Belerick-Tiger-s-Claw.png",
+          "script": "Belerick-Emerald-Guardian-Tiger-s-Claw.zip"
+        },
+        {
+          "name": "Torch Guardian",
+          "Portrait_url": "Belerick-Torch-Guardian.png",
+          "Splash_url": "Belerick-Torch-Guardian.png",
+          "script": "Belerick-Emerald-Guardian-Torch-Guardian.zip"
+        },
+        {
+          "name": "The Deep One",
+          "Portrait_url": "Belerick-The-Deep-One.png",
+          "Splash_url": "Belerick-The-Deep-One.png",
+          "script": "Belerick-Emerald-Guardian-The-Deep-One.zip"
+        },
+        {
+          "name": "Arbiter of Stars",
+          "Portrait_url": "Belerick-Arbiter-of-Stars.png",
+          "Splash_url": "Belerick-Arbiter-of-Stars.png",
+          "script": "Belerick-Emerald-Guardian-Arbiter-of-Stars.zip"
+        },
+        {
+          "name": "Deep Reef",
+          "Portrait_url": "Belerick-Deep-Reef.png",
+          "Splash_url": "Belerick-Deep-Reef.png",
+          "script": "Belerick-Emerald-Guardian-Deep-Reef.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Arbiter of Stars",
+      "Splash_url": "Belerick-Arbiter-of-Stars.png",
+      "script": "Belerick-Arbiter-of-Stars-Backup.zip",
+      "Portrait_url": "Belerick-Arbiter-of-Stars.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Tiger's Claw",
+          "Portrait_url": "Belerick-Tiger-s-Claw.png",
+          "Splash_url": "Belerick-Tiger-s-Claw.png",
+          "script": "Belerick-Arbiter-of-Stars-Tiger-s-Claw.zip"
+        },
+        {
+          "name": "Torch Guardian",
+          "Portrait_url": "Belerick-Torch-Guardian.png",
+          "Splash_url": "Belerick-Torch-Guardian.png",
+          "script": "Belerick-Arbiter-of-Stars-Torch-Guardian.zip"
+        },
+        {
+          "name": "The Deep One",
+          "Portrait_url": "Belerick-The-Deep-One.png",
+          "Splash_url": "Belerick-The-Deep-One.png",
+          "script": "Belerick-Arbiter-of-Stars-The-Deep-One.zip"
+        },
+        {
+          "name": "Emerald Guardian",
+          "Portrait_url": "Belerick-Emerald-Guardian.png",
+          "Splash_url": "Belerick-Emerald-Guardian.png",
+          "script": "Belerick-Arbiter-of-Stars-Emerald-Guardian.zip"
+        },
+        {
+          "name": "Deep Reef",
+          "Portrait_url": "Belerick-Deep-Reef.png",
+          "Splash_url": "Belerick-Deep-Reef.png",
+          "script": "Belerick-Arbiter-of-Stars-Deep-Reef.zip"
+        }
+      ]
+    },
+    {
+      "name": "Painted",
+      "Default_name": "Deep Reef",
+      "Splash_url": "Belerick-Deep-Reef.png",
+      "script": "Belerick-Deep-Reef-Backup.zip",
+      "Portrait_url": "Belerick-Deep-Reef.png",
+      "Tags": [
+        "Painted.png"
+      ],
+      "targets": [
+        {
+          "name": "Tiger's Claw",
+          "Portrait_url": "Belerick-Tiger-s-Claw.png",
+          "Splash_url": "Belerick-Tiger-s-Claw.png",
+          "script": "Belerick-Deep-Reef-Tiger-s-Claw.zip"
+        },
+        {
+          "name": "Torch Guardian",
+          "Portrait_url": "Belerick-Torch-Guardian.png",
+          "Splash_url": "Belerick-Torch-Guardian.png",
+          "script": "Belerick-Deep-Reef-Torch-Guardian.zip"
+        },
+        {
+          "name": "Emerald Guardian",
+          "Portrait_url": "Belerick-Emerald-Guardian.png",
+          "Splash_url": "Belerick-Emerald-Guardian.png",
+          "script": "Belerick-Deep-Reef-Emerald-Guardian.zip"
+        },
+        {
+          "name": "Arbiter of Stars",
+          "Portrait_url": "Belerick-Arbiter-of-Stars.png",
+          "Splash_url": "Belerick-Arbiter-of-Stars.png",
+          "script": "Belerick-Deep-Reef-Arbiter-of-Stars.zip"
+        }
+      ]
+    }
+  ]
+}

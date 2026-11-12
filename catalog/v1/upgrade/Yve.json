@@ -1,0 +1,89 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Yve",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Forest Hymn",
+      "Splash_url": "Yve-Forest-Hymn.png",
+      "script": "Yve-Forest-Hymn-Backup.zip",
+      "Portrait_url": "Yve-Forest-Hymn.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Ruin Protectress",
+          "Portrait_url": "Yve-Ruin-Protectress.png",
+          "Splash_url": "Yve-Ruin-Protectress.png",
+          "script": "Yve-Forest-Hymn-Ruin-Protectress.zip"
+        },
+        {
+          "name": "Flame Lotus",
+          "Portrait_url": "Yve-Flame-Lotus.png",
+          "Splash_url": "Yve-Flame-Lotus.png",
+          "script": "Yve-Forest-Hymn-Flame-Lotus.zip"
+        },
+        {
+          "name": "Radiant Lotus",
+          "Portrait_url": "Yve-Radiant-Lotus.png",
+          "Splash_url": "Yve-Radiant-Lotus.png",
+          "script": "Yve-Forest-Hymn-Radiant-Lotus.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Ruin Protectress",
+      "Splash_url": "Yve-Ruin-Protectress.png",
+      "script": "Yve-Ruin-Protectress-Backup.zip",
+      "Portrait_url": "Yve-Ruin-Protectress.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Forest Hymn",
+          "Portrait_url": "Yve-Forest-Hymn.png",
+          "Splash_url": "Yve-Forest-Hymn.png",
+          "script": "Yve-Ruin-Protectress-Forest-Hymn.zip"
+        },
+        {
+          "name": "Flame Lotus",
+          "Portrait_url": "Yve-Flame-Lotus.png",
+          "Splash_url": "Yve-Flame-Lotus.png",
+          "script": "Yve-Ruin-Protectress-Flame-Lotus.zip"
+        },
+        {
+          "name": "Radiant Lotus",
+          "Portrait_url": "Yve-Radiant-Lotus.png",
+          "Splash_url": "Yve-Radiant-Lotus.png",
+          "script": "Yve-Ruin-Protectress-Radiant-Lotus.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Flame Lotus",
+      "Splash_url": "Yve-Flame-Lotus.png",
+      "script": "Yve-Flame-Lotus-Backup.zip",
+      "Portrait_url": "Yve-Flame-Lotus.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Forest Hymn",
+          "Portrait_url": "Yve-Forest-Hymn.png",
+          "Splash_url": "Yve-Forest-Hymn.png",
+          "script": "Yve-Flame-Lotus-Forest-Hymn.zip"
+        },
+        {
+          "name": "Ruin Protectress",
+          "Portrait_url": "Yve-Ruin-Protectress.png",
+          "Splash_url": "Yve-Ruin-Protectress.png",
+          "script": "Yve-Flame-Lotus-Ruin-Protectress.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 97,
+    "slug": "benedetta",
+    "name": "Benedetta"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "benedetta-community-5815",
+      "name": "Community Build 5815",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "bladeoftheheptaseas",
+        "skypiercer",
+        "endlessbattle",
+        "bladeofdespair",
+        "maleficroar"
+      ],
+      "battle_spell_id": "petrify",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "SOLO BUILD",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5815,
+      "source_created_at": "2026-02-18T12:39:32.000Z",
+      "likes": 7,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "benedetta-community-6213",
+      "name": "Community Build 6213",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "bladeoftheheptaseas",
+        "toughboots",
+        "endlessbattle",
+        "skypiercer",
+        "waraxe",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "petrify",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "THE BEST OF SOLO BUILD",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6213,
+      "source_created_at": "2026-03-04T01:31:14.000Z",
+      "likes": 5,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "benedetta-companion-baseline",
+      "name": "Companion Assassin/Fighter Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

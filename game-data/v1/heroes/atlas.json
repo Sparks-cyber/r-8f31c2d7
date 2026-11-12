@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 93,
+    "slug": "atlas",
+    "name": "Atlas",
+    "skin_name": "Ocean Gladiator",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Crowd Control",
+      "Initiator"
+    ],
+    "region": "Northern Vale",
+    "release_date": "20 March 2020",
+    "resource": "Mana",
+    "short_description": "Abysmal Sea creature who broke free from the seal.",
+    "brief": "Atlas is one of the ancient Abysmal Sea creature, sealed in the deep sea by the Ancient Ones. Atlas found the Mecha built by Iceland Golems in the Abysmal Sea in the past. By integrating with the Mecha, Atlas escaped the Abysmal Sea and came to the seas around the world to absorb knowledge. It looks forward to the day when it is able to break the prohibition, so that is own kind can be free.",
+    "story": "The dark, cold and mysterious deep sea is the last unexplored frontier in the Land of Dawn. All the way down from surface, the sun fades away and the temperature drops, then there is complete darkness. It is called the Abysmal Sea, where currents and the high pressure are strong enough to tear apart any advanced materials Eruditio has invented. This place is a forbidden zone of life, where no human has ever set foot in. Only the remains of those abandoned and eliminated civilizations have been sinking and piling up.\n\nNevertheless, it is not only death here. Many unbelievable and indescribable creatures, including Atlas, have been struggling and multiplying for ages in this dangerous area. They were among the oldest living things on the Land of Dawn, devouring elemental creatures for power, which made them imprisoned in this deepest place by the Ancient Ones. The powerful Injunction blocked light, heat as well as their upward path. In order to adapt to the high-pressure environment, they removed their shells and redundant structures, and developed a variety of fluid shapes. In the endless darkness, there is no fight and strife, only the law of survival: existence, alternation and circulation.\n\nAges after ages, however, some things have gradually changed. The changes did not originate beneath the ocean but came from above. The succession of civilizations and continuous wars affected not only the land but also the seas. Everything began to deteriorate. Creatures in the Abysmal Sea could no longer adapt to the even worse situation. Withering and death came without warning. The largest of them were the first to contend. These giant fibrous creatures wriggled their tentacles and bodies to rush upwards, but only to be torn apart due to the Injunction.\n\nThe others could not understand their fate, but they knew they needed change - it's an instinct of all living things. Therefore, they started to think about workarounds. They started to try to break the Injunction. The only prisoner who eventually got rid of the Abysmal Sea, was Atlas. As the most experienced individual, he sensed the change sooner than any of his kind when the Abysmal Sea was involved. He was the first to prepare the escape.\n\nThe fleshes torn apart warned the rest creatures that their bodies were vulnerable to the overwhelming power. To break the Injunction, he must regain a rigid shell. Atlas kept wandering and searching over the deep. Until one day, in a pile of those civilization remains, he found his destined shell - the Mecha Sentry, a set of giant ancient machinery armor. These big things were manufactured as war machines by the Iceland Golems who once ruled the Northern Vale. After the demise of the ancient golems, they were abandoned by the later civilizations, thrown into the ocean, and totally forgotten by the world.\n\nAtlas slowly approached the Mecha Sentry, found it decaying on the sea floor like a stiff scrap of iron due to the missing of the control core. He then entered the center of the machine, stretched his tentacles, injected them into each joint, and began to take control. Along with a rumbling noise, the Mecha Sentry who had been sleeping for thousands of years lit its eyes again. The forgotten body and the abandoned soul got perfectly combined and unified.\n\nThe giant Mecha Sentry broke through the Injunction, rushed from the deep to the surface, then jumped up above the sea. It was time the world welcomed a new player - Atlas, the Ironclad Kraken.\n\nAtlas felt strange and curious about this world. He visited all reachable seas driven by the desire for learning and strengthening. He frantically drew knowledge from creatures, races, and civilizations. Meanwhile, his control of the Mecha Sentry became more and more proficient as if the machine was originally made for him. But, no matter how long time passes, Atlas is always haunted by a thought - his kind are still struggling in the Abysmal Sea, the biggest jail and the remotest place in the world.\n\nNow, Atlas has not only a hard armor but also a plan. He aims to break the Injunction between the Abysmal Sea and the world and save his kind from the eternal imprisonment. There is a secret treasure only the pirates believe that hidden somewhere in the sea of Northern Vale. It has the power to regenerate, powerful enough to change the ecology of an entire ocean. Atlas wants it, from the first time he learned the story.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 1,
+    "control": 9,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2800,
+    "health_growth": 280,
+    "health_regen": 3.0,
+    "health_regen_growth": 0.9857,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 135,
+    "physical_attack_growth": 8.86,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 3.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 0.98,
+    "attack_speed_growth": 0.0079,
+    "attack_speed_ratio": 0.9,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Atlas0",
+      "name": "Frigid Breath",
+      "description": "Atlas generates <highlight>Frigid Breath</highlight> around him for 5s each time he casts a skill. Enemies affected by <highlight>Frigid Breath</highlight> will have their Movement Speed gradually reduced over 2s, after which they'll be frozen for 0.5s.<br/><br/>Atlas gains 20<scaleHP> (+0.5% Extra Max HP)</scaleHP>- extra Physical &amp; Magic Defense when <highlight>Frigid Breath</highlight> is present.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d7bbba4e6ab968ce1f1d798f29960198.png",
+      "video_url": null
+    },
+    {
+      "id": "Atlas1",
+      "name": "Annihilate",
+      "description": "Atlas smashes the ground and causes 3 explosions. Each explosion deals 400/440/480/520/560/600<scaleAP> (+100% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies.<br/><highlight>Ejected State</highlight>: If Atlas is ejected from his Mecha Sentry, both he and his Mecha will cast Annihilate.",
+      "flavor_text": null,
+      "cost": "60/66/72/78/84/90",
+      "cooldown": "7/6.5/6/5.5/5/4.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e329fe04072558085096e8198d9e15c8.png",
+      "video_url": null
+    },
+    {
+      "id": "Atlas2",
+      "name": "Perfect Match",
+      "description": "Atlas enters <highlight>Ejected State</highlight>, gaining 40% Movement Speed and immunity to Slowing Effects. In this state, the Mecha Sentry will follow the pilot at an increasing speed (can only be controlled by Suppression). Once they meet, Atlas will return to the Mecha, dealing 320/340/360/380/400/420<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies nearby and stunning them for 0.8s.<br/><highlight>Ejected State</highlight>: Atlas and his Mecha share the same HP bar and reduce 50% of the damage taken in this state.",
+      "flavor_text": null,
+      "cost": "75/80/85/90/95/100",
+      "cooldown": "12/11.6/11.2/10.8/10.4/10",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_15c10ac17e273e24397333ae7900a72d.png",
+      "video_url": null
+    },
+    {
+      "id": "Atlas3",
+      "name": "Fatal Links",
+      "description": "Atlas hurls chains around and starts to channel (can only be interrupted by suppression), dealing 225/350/475<scaleAP> (+75% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemy heroes hit and slowing them by 40% for 3s.<br/>Use this skill again while channeling: Atlas will drag the targets toward him and plunk them down on the designated location, dealing 360/560/760<scaleAP> (+180% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.<br/>Use this skill in <highlight>Ejected State</highlight>: The Mecha Sentry will return to Atlas immediately, but the stun effect will be replaced by 40% Slowing Effect.",
+      "flavor_text": null,
+      "cost": "130/150/170",
+      "cooldown": "55/50/45",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b88d2df7f9a269a382e2cd256f9d816.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Atlas0",
+      "sequence": "Atlas2-Atlas3-Atlas1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Atlas's 2nd Skill to approach the enemy and unleash his Ultimate when multiple enemies are in range. Aim while channeling and release to slam them down near your team, then continue to deal damage with his 1st Skill."
+    },
+    {
+      "id": "Atlas1",
+      "sequence": "Atlas2-Atlas1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Atlas's 2nd Skill to eject and then get close to the enemy. Right before the Mecha Sentry reaches Atlas, use his 1st Skill to double the effect."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Atlas works well with heroes with high AOE damage like Vale and Ixia because Atlas can pull enemies together and keep them CC'd.",
+      "heroes": [
+        {
+          "id": 66,
+          "slug": "vale",
+          "name": "Vale"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Atlas counters squishy heroes without mobility skills like Vexana and Eudora because they cannot reliably escape his CC.",
+      "heroes": [
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Atlas is countered by heroes who can knock him away, such as Valir and Moskov, since they can easily stop his 2nd Skill which Atlas relies on to land his other skills.",
+      "heroes": [
+        {
+          "id": 57,
+          "slug": "valir",
+          "name": "Valir"
+        },
+        {
+          "id": 31,
+          "slug": "moskov",
+          "name": "Moskov"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Atlas-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Atlas-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a217534db9b67c6db2c45d57a0d640c.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a217534db9b67c6db2c45d57a0d640c.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/atlas.json",
+    "visual_catalog": "catalog/v1/visual/atlas.json",
+    "upgrade_catalog": "catalog/v1/upgrade/atlas.json"
+  }
+}

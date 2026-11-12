@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 24,
+    "slug": "natalia",
+    "name": "Natalia",
+    "skin_name": "Bright Claw",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Finisher"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "December 2016",
+    "resource": null,
+    "short_description": "An assassin exiled by the Empire.",
+    "brief": "The chief assassin of the Church of Light. She once made a mistake during an assassination mission, making companion encounter unprecedented disaster. Although she was able to escape with the assistance of Tigreal, she was later exiled to the border to the Empire to perform more dangerous tasks.",
+    "story": "Natalia was raised from a young age by the Church of Light and trained to become one of the Church's assassins. This young phenom rose to become the top assassin for the Church via her outstanding talents. Unfortunately, on one assassination mission she failed causing her companion to meet with unprecedented disaster. Although she was able to escape danger with Tigreal's help, this was undoubtedly a severe blow to Natalia's pride.\r\n\r\nTo prove herself again, she exiled herself to the outskirts of the land, far from the Empire and the Church, to carry out more dangerous missions. Who is her target? Will she be able to win back all that she once possessed?",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 1,
+    "offense": 6,
+    "control": 6,
+    "difficulty": 9
+  },
+  "attributes": {
+    "health": 2639,
+    "health_growth": 164,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 121,
+    "physical_attack_growth": 8.71,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 4.0714,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.11,
+    "attack_speed_growth": 0.0136,
+    "attack_speed_ratio": 0.6,
+    "critical_damage": 1.5,
+    "movement_speed": 260,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Natalia0",
+      "name": "Assassin Instinct",
+      "description": "If Natalia stays in a bush without taking damage for 1s, she will enter <highlight>Camouflage</highlight> state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal 200<scaleAD> (+110% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> while silencing the target for 0.25s.<br/><br/>Dealing damage, taking damage or using skills will immediately end the <highlight>Camouflage</highlight> state, but her next Basic Attack will remain enhanced for another 1s.<br/><br/>Natalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70c63dbf8a6c5f7c13e000e50cb45048.png",
+      "video_url": null
+    },
+    {
+      "id": "Natalia1",
+      "name": "Claw Dash",
+      "description": "Natalia dashes in the target direction, dealing 250/270/290/310/330/350<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in her path.<br/><br/>After hitting an enemy, she can cast this skill again within 5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.2/8.4/7.6/6.8/6",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fe9f13f142891ef055c36a9c5fe8e56.png",
+      "video_url": null
+    },
+    {
+      "id": "Natalia2",
+      "name": "Smoke Bomb",
+      "description": "Natalia releases a <highlight>Smoke Bomb</highlight> at her location, slowing enemies within by 25/35/45/55/65/75% while Natalia becomes immune to enemy Basic Attacks for 4s.",
+      "flavor_text": "No one beats me in my own game.",
+      "cost": null,
+      "cooldown": "12",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2dc19263463a18f2a7706ff9ceb90d9.png",
+      "video_url": null
+    },
+    {
+      "id": "Natalia3",
+      "name": "The Hunt",
+      "description": "<highlight>Passive</highlight>: Natalia gains 15/30/45% extra Crit Chance.<br/><br/><highlight>Active</highlight>: Natalia immediately enters <highlight>Assassin Instinct</highlight> state. Natalia can store up to 2 charges of her Ultimate and each charge has a recharge time of 30/24/18s. Creep kills will reduce the current remaining recharge time by 50% of the full recharge time.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "3",
+      "tags": [
+        {
+          "name": "Camouflage",
+          "rgb": null
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a505102cf3c9127d94b3fa4ae5de6734.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Natalia0",
+      "sequence": "AA-Natalia2-Natalia1-Natalia3-AA-Natalia1-Natalia3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Natalia's Passive and enhanced Basic Attacks to approach enemies, then use her 2nd Skill to improve her survivability. Follow up with her 1st Skill then Ultimate and end with a Basic Attack to finish off the enemy."
+    },
+    {
+      "id": "Natalia1",
+      "sequence": "AA-Natalia2-Natalia1-Natalia1",
+      "name": "LANING COMBOS",
+      "description": "When ganking, hide in a bush to activate Natalia's Passive, then approach the enemy from behind and blink to them with the enhanced Basic Attack. Follow up with her 2nd Skill to slow the enemy and chase after them using her 1st Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Natalia works best with heroes with high AOE damage such as Yi Sun-shin and Vexana. She can stay hidden while they poke the enemy, then pounce on targets that get low on HP.",
+      "heroes": [
+        {
+          "id": 30,
+          "slug": "yi-sun-shin",
+          "name": "Yi Sun-shin"
+        },
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Natalia counters squishy heroes who lack CC and burst like as Novaria and Irithel since they can't stop Natalia's burst damage.",
+      "heroes": [
+        {
+          "id": 119,
+          "slug": "novaria",
+          "name": "Novaria"
+        },
+        {
+          "id": 43,
+          "slug": "irithel",
+          "name": "Irithel"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Natalia is countered by heroes who can restrict her mobility like Minsitthar and Kaja since they can easily shutdown her main advantage.",
+      "heroes": [
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        },
+        {
+          "id": 62,
+          "slug": "kaja",
+          "name": "Kaja"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Natalia-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Natalia-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79e90c124d786bbfdae31f3a28827e7d.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79e90c124d786bbfdae31f3a28827e7d.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/natalia.json",
+    "visual_catalog": "catalog/v1/visual/natalia.json",
+    "upgrade_catalog": "catalog/v1/upgrade/natalia.json"
+  }
+}

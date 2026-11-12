@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 22,
+    "slug": "freya",
+    "name": "Freya",
+    "skin_name": "Valkyrie",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "Northern Vale",
+    "release_date": "November 2016",
+    "resource": null,
+    "short_description": "The Valkyrie who guards the Northern Vale.",
+    "brief": "Since the fall of the previous Valkyrie and disappearance of the Aurora Heart, Sessrumnir's sacred legacy, Freya has embarked upon an arduous quest to uncover the truth and reclaim their lost relic. Through howling winds and endless snow she journeyed, her sword ever at her side, driven by unwavering faith to protect Northern Vale as she rescues countless souls trapped within the merciless snowstorms. In time, the lost Valkyrie tradition blazed anew within Freya's heart, echoing the founder of Sessrumnir from times long forgotten. With the aurora as her guide and the tundra as her witness, Freya carved her glory into the wind and ice, and cast her body into an invincible weapon to become the new Valkyrie.",
+    "story": "\"What is the Valkyrie?\"\r\n\r\nechoing the founder of Sessrumnir from times long\r\n\r\nAs smoke began to rise from Sessrumnir's sacred halls, this question-one that had haunted Freya's thoughts for so long-surfaced once more in her troubled heart.\r\n\r\n\"...The Valkyrie is a legacy.\" When Freya was but a child, her sister Skuld-newly chosen as the next Valkyrie-took her small hand in hers, and together they grasped the ancient sword and shield. Little Freya could not yet comprehend the fierce light burning in her sister's eyes, but she felt, for the first time, the profound weight of the sword and shield pressing into her palms.\r\n\r\nFate, however, is a cruel and fickle thing. Years later, Skuld perished during a perilous mission, and with her death came the disappearance of the Aurora Heart-that sacred relic preserved in Sessrumnir for countless centuries, the very embodiment of Northern Vale's strength and heritage. The people mourned Skuld's sacrifice, yet whispers began to slither through the blizzards like poison: some dared to brand Skuld a failure, an incompetent Valkyrie who had betrayed Northern Vale itself.\r\n\r\nFreya spoke no words in her sister's defense. Instead, she simply tightened her grip upon her sword and shield-as though she were clasping her sister's hand once more.\r\n\r\nShe stepped forth into the endless, howling blizzard, her heart set upon recovering the lost Aurora Heart. Never would she allow her sister's hands-hands worn raw from protecting others-to be stained with the mark of treachery, nor would she permit the sacred title of \"Valkyrie\" to fade into the vast and merciless snowstorm. Sword in hand, Freya pressed onward through the endless expanse of Northern Vale, gathering the myriad answers to a single, haunting question: \"What is the Valkyrie?\"\r\n\r\nThe common folk whispered that the Valkyrie was salvation incarnate. She had raised her blade high amidst the bloody feuds of the Garland tribe, rescuing Hilda and her kinsmen from certain doom.\r\nThe battle-scarred warriors proclaimed that the Valkyrie is glory made manifest. Had she not braved the treacherous Frozen Sea, forging an alliance with Franco to shield innocent fishermen from Bane's relentless attacks?\r\n\r\nYet countless others throughout Northern Vale declared that the Valkyrie is faith itself-for within Sessrumnir's hallowed halls burns a forge powered by the sacred Aurora Heart.\r\n\r\nHere, for the first time, Freya uncovered the true genesis of the Valkyrie legacy: Eons ago, when the world was young, the Frost Giants raised a mighty forge deep within the snowbound wilderness to defy the two gods themselves, blessing Northern Vale with eternal spring. But the gods' wrath was swift and merciless-glaciers descended like divine judgment, shattering the forge and leaving the northern lands broken and bleeding. Only when Sigrun, the first Valkyrie-a half-giant of legendary prowess-wielded a fragment of the Twilight Orb called the Aurora Heart to rekindle the forge's dying embers did Northern Vale draw breath once more. Sigrun entrusted this sacred power to the most valiant of female warriors, charging them to guard both homeland and entrusted this sacred power to the most valiant of female warriors, charging them to guard both homeland and the Aurora Heart. Future generations would know them by a single, revered name-Valkyries.\r\n\r\nThrough the howling wind and swirling snow, Freya gazed upon Sessrumnir in the distance. It stood cold and silent, like Northern Vale's own heart, frozen and still.\r\n\r\n...\r\n\r\nThough her relentless pursuit had yet to reveal the whereabouts of the Aurora Heart, Freya drew ever closer the terrible truth behind her sister's sacrifice.\r\n\r\nThe glaciers, born of the God of Light's divine will, had drawn countless devotees who transformed them into strongholds, expanding their deity's dominion across the realm-even inadvertently nurturing the birth of the divine maiden Aurora. After the Endless War's conclusion, these followers of light vanished like phantoms, only to resurface years later with treacherous intent. They laid cunning traps that claimed Skuld's life, and in the ensuing chaos, the Aurora Heart disappeared into legend. Yet the followers' dark ambitions remained unbroken-they sought to drain the forge's very essence and destroy it utterly, clearing all obstacles for the God of Light's inevitable return.\r\n\r\nThick, choking smoke was billowing from Sessrumnir's sacred halls!\r\n\r\nWhen Freya reached the battlefield, Sessrumnir lay in utter ruin. The followers of light were greedily siphoning the forge's power with reckless abandon. The Northern Vale warriors fought desperately against overwhelming odds, while the aurora-hued flames within the forge flickered ever weaker. Deep tremors shook the land's very foundation-everything teetered on the precipice of collapse...\r\n\r\nSpotting Freya's arrival as reinforcement, the followers of light prepared to flee like cowards. Every fiber of Freya's being screamed to pursue them, to exact vengeance for her fallen sister — but the forge's power was hemorrhaging away, demanding her presence to safeguard Northern Vale's very survival. How could she choose between revenge and duty? Freya's gaze fell upon those dying aurora flames — The forge demanded sustenance; only new energy could reignite its sacred fire.\r\n\r\n— With resolve burning in her heart and defiance coursing through her veins, Freya charged toward the forge's dying light.\r\n\r\n\"...What is the Valkyrie?\"\r\n\r\nWithin the swirling dance of aurora and flame, her sister Skuld's ethereal form materialized once more, her spectral hand tenderly clasping Freya's own.\r\n\r\n\"You have already given your answer.\"\r\n\r\nAt last, Freya understood the radiant light that had always burned within her sister's eyes.\r\n\r\n...\r\n\r\nFor a thousand years, when the two gods cast down their glacial curse to freeze Northern Vale in eternal winter, the people kept the forge burning and built Sessrumnir's mighty walls around it. Generation upon generation of Valkyries had fought within these hallowed halls, had bled and died here-they faced death without fear, knowing that the roaring flames of the forge would recast their essence into weapons of unimaginable power, to be passed down to the next Valkyrie.\r\n\r\n\r\nNow, Freya too embraced that eternal duty and cast herself into the flames.\r\n\r\nHer sacrifice earned her recognition from the collective will of every Valkyrie who had come before, whose spirits still dwelled within the forge-but in truth, she had long gained Northern Vale's blessing. Not through the Aurora Heart, but like Sigrun, the very first Valkyrie: with the aurora as her guide and the tundra as her witness, Freya carved her glory into the wind and ice, and cast her body into an invincible weapon.\r\n\r\nFreya's sword and shield, clutched tight in her grasp, were reforged as a halberd amid the roaring flames, while golden wings spread majestically behind her. Having passed the final trial, she returned to Sessrumnir as the alorious Valkyrie. Sword raised high. she pursued the fleeina followers of light — this was her vengeance, her duty, and her answer.\r\n\r\n\"I am a daughter of Northern Vale, and I will defend this land to the death!\"\r\n",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 5,
+    "control": 5,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2801,
+    "health_growth": 205,
+    "health_regen": 9.8,
+    "health_regen_growth": 0.4571,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 109,
+    "physical_attack_growth": 8.71,
+    "magic_power": 0,
+    "physical_defense": 22,
+    "physical_defense_growth": 4.3571,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.04,
+    "attack_speed_growth": 0.0386,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.5
+  },
+  "abilities": [
+    {
+      "id": "Freya0",
+      "name": "Power of Einherjar",
+      "description": "Freya gains 1 <highlight>Sacred Orb</highlight> with each Basic Attack (up to 6 <highlight>Sacred Orbs</highlight>). Consuming 1 <highlight>Sacred Orb</highlight> grants Freya 100% Attack Speed for her next Basic Attack (max 6 stacks).<br/><highlight>Sacred Orbs</highlight> gradually recover when out of combat.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "",
+      "video_url": null
+    },
+    {
+      "id": "Freya1",
+      "name": "Leap of Faith",
+      "description": "Freya leaps to the target area and strikes the ground with her shield, gaining 500/580/660/740/820/900<scaleAD> (+100% Total Physical Attack)</scaleAD> shield and dealing 200/220/240/260/280/300<scaleAD> (+80% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies within while knocking them airborne for 0.4s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "",
+      "video_url": null
+    },
+    {
+      "id": "Freya2",
+      "name": "Valkyrie Slash",
+      "description": "Freya charges forward and slashes, dealing 150/180/210/240/270/300<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing enemies by 30% for 0.5s. This skill has no base cooldown but consumes 2 <highlight>Sacred Orbs</highlight> per cast.<br/>This skill deals 50% damage to Creeps.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "0.4",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "",
+      "video_url": null
+    },
+    {
+      "id": "Freya3",
+      "name": "Valkyrie Descent",
+      "description": "Freya selects a target area and dives down as a Sacred Orb (gaining Control Immunity and 50% Damage Reduction), dealing 300/425/550<scaleAD> (+75% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and 40% slow to enemies in her path and at the landing point for 2s.<br><br>Upon landing, Freya enters the <highlight>Valkyrie</highlight> state for 10s, during which her Basic Attacks deal 30/45/60 extra damage (extra damage cannot Crit) and she recovers 40/60/80<scaleAD> (+40% Total Physical Attack)</scaleAD> HP per Basic Attack, and her Basic Attacks deal splash damage.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "44/36/28",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_49a8b4de271d0162ab9e26e06819840e.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Freya0",
+      "sequence": "Freya3-Freya1-Freya2-AA-Freya2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Use Freya's Ultimate to dive the enemy backline and start dealing Splash Damage. Use her 1st Skill to CC enemies and shield herself, then alternate between her 2nd Skill and AoE Basic Attacks to bring them down."
+    },
+    {
+      "id": "Freya1",
+      "sequence": "Freya1-Freya2-AA-Freya2-AA",
+      "name": "LANING COMBOS",
+      "description": "Use Freya's 1st Skill to close the gap on enemies and knock them Airborne while giving herself a shield. Use her 2nd Skill once followed by 2 enhanced Basic Attacks to make use of the Attack Speed bonus and generate more Sacred Orbs from her Passive."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "In order for Freya to maximize her damage, she prefers heroes with CC like Belerick and Gatotkaca to lock down the enemy for her.",
+      "heroes": [
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        },
+        {
+          "id": 41,
+          "slug": "gatotkaca",
+          "name": "Gatotkaca"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Freya not only has exceptional mobility, she also excels in prolonged engagements, making her highly effective against fragile, low-HP Marksmen, such as Lesley and Ixia. Her excellent sustained damage and mobility also allows her to counter Tanks with low damage, like Uranus and Baxia.",
+      "heroes": [
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "However, all of Freya's skills have movement components, making her vulnerable to Phoveus's unique counter. Using her skills near Phoveus will allow him to quickly gain energy for his enhanced Basic Attacks. Freya is vulnerable to CC and movement-disabling effects, so Minsitthar and Obsidia's Ultimates can lock her down completely.",
+      "heroes": [
+        {
+          "id": 106,
+          "slug": "phoveus",
+          "name": "Phoveus"
+        },
+        {
+          "id": 130,
+          "slug": "obsidia",
+          "name": "Obsidia"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Freya-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Freya-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_faa871fa6647c56fd73b40b06cfc5412.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/71d910744206adec64f7c5e97b0698c7.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/freya.json",
+    "visual_catalog": "catalog/v1/visual/freya.json",
+    "upgrade_catalog": "catalog/v1/upgrade/freya.json"
+  }
+}

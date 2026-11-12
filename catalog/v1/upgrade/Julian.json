@@ -1,0 +1,185 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Julian",
+  "role": "Assassin/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Silent Edge",
+      "Splash_url": "Julian-Silent-Edge.png",
+      "script": "Julian-Silent-Edge-Backup.zip",
+      "Portrait_url": "Julian-Silent-Edge.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Megumi Fushiguro",
+          "Portrait_url": "Julian-Megumi-Fushiguro.png",
+          "Splash_url": "Julian-Megumi-Fushiguro.png",
+          "script": "Julian-Silent-Edge-Megumi-Fushiguro.zip"
+        },
+        {
+          "name": "Meowkin Tracker",
+          "Portrait_url": "Julian-Meowkin-Tracker.png",
+          "Splash_url": "Julian-Meowkin-Tracker.png",
+          "script": "Julian-Silent-Edge-Meowkin-Tracker.zip"
+        },
+        {
+          "name": "Kurapika",
+          "Portrait_url": "Julian-Kurapika.png",
+          "Splash_url": "Julian-Kurapika.png",
+          "script": "Julian-Silent-Edge-Kurapika.zip"
+        },
+        {
+          "name": "Itachi Uchiha",
+          "Portrait_url": "Julian-Itachi-Uchiha.png",
+          "Splash_url": "Julian-Itachi-Uchiha.png",
+          "script": "Julian-Silent-Edge-Itachi-Uchiha.zip"
+        }
+      ]
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "Default_name": "Megumi Fushiguro",
+      "Splash_url": "Julian-Megumi-Fushiguro.png",
+      "script": "Julian-Megumi-Fushiguro-Backup.zip",
+      "Portrait_url": "Julian-Megumi-Fushiguro.png",
+      "Tags": [
+        "Jujutsu Kaisen.png"
+      ],
+      "targets": [
+        {
+          "name": "Silent Edge",
+          "Portrait_url": "Julian-Silent-Edge.png",
+          "Splash_url": "Julian-Silent-Edge.png",
+          "script": "Julian-Megumi-Fushiguro-Silent-Edge.zip"
+        },
+        {
+          "name": "Meowkin Tracker",
+          "Portrait_url": "Julian-Meowkin-Tracker.png",
+          "Splash_url": "Julian-Meowkin-Tracker.png",
+          "script": "Julian-Megumi-Fushiguro-Meowkin-Tracker.zip"
+        },
+        {
+          "name": "Kurapika",
+          "Portrait_url": "Julian-Kurapika.png",
+          "Splash_url": "Julian-Kurapika.png",
+          "script": "Julian-Megumi-Fushiguro-Kurapika.zip"
+        },
+        {
+          "name": "Itachi Uchiha",
+          "Portrait_url": "Julian-Itachi-Uchiha.png",
+          "Splash_url": "Julian-Itachi-Uchiha.png",
+          "script": "Julian-Megumi-Fushiguro-Itachi-Uchiha.zip"
+        }
+      ]
+    },
+    {
+      "name": "Mystic Meow",
+      "Default_name": "Meowkin Tracker",
+      "Splash_url": "Julian-Meowkin-Tracker.png",
+      "script": "Julian-Meowkin-Tracker-Backup.zip",
+      "Portrait_url": "Julian-Meowkin-Tracker.png",
+      "Tags": [
+        "Mystic Meow.png"
+      ],
+      "targets": [
+        {
+          "name": "Silent Edge",
+          "Portrait_url": "Julian-Silent-Edge.png",
+          "Splash_url": "Julian-Silent-Edge.png",
+          "script": "Julian-Meowkin-Tracker-Silent-Edge.zip"
+        },
+        {
+          "name": "Megumi Fushiguro",
+          "Portrait_url": "Julian-Megumi-Fushiguro.png",
+          "Splash_url": "Julian-Megumi-Fushiguro.png",
+          "script": "Julian-Meowkin-Tracker-Megumi-Fushiguro.zip"
+        },
+        {
+          "name": "Kurapika",
+          "Portrait_url": "Julian-Kurapika.png",
+          "Splash_url": "Julian-Kurapika.png",
+          "script": "Julian-Meowkin-Tracker-Kurapika.zip"
+        },
+        {
+          "name": "Itachi Uchiha",
+          "Portrait_url": "Julian-Itachi-Uchiha.png",
+          "Splash_url": "Julian-Itachi-Uchiha.png",
+          "script": "Julian-Meowkin-Tracker-Itachi-Uchiha.zip"
+        }
+      ]
+    },
+    {
+      "name": "HUNTER×HUNTER",
+      "Default_name": "Kurapika",
+      "Splash_url": "Julian-Kurapika.png",
+      "script": "Julian-Kurapika-Backup.zip",
+      "Portrait_url": "Julian-Kurapika.png",
+      "Tags": [
+        "Hunter x Hunter.png"
+      ],
+      "targets": [
+        {
+          "name": "Silent Edge",
+          "Portrait_url": "Julian-Silent-Edge.png",
+          "Splash_url": "Julian-Silent-Edge.png",
+          "script": "Julian-Kurapika-Silent-Edge.zip"
+        },
+        {
+          "name": "Megumi Fushiguro",
+          "Portrait_url": "Julian-Megumi-Fushiguro.png",
+          "Splash_url": "Julian-Megumi-Fushiguro.png",
+          "script": "Julian-Kurapika-Megumi-Fushiguro.zip"
+        },
+        {
+          "name": "Meowkin Tracker",
+          "Portrait_url": "Julian-Meowkin-Tracker.png",
+          "Splash_url": "Julian-Meowkin-Tracker.png",
+          "script": "Julian-Kurapika-Meowkin-Tracker.zip"
+        },
+        {
+          "name": "Itachi Uchiha",
+          "Portrait_url": "Julian-Itachi-Uchiha.png",
+          "Splash_url": "Julian-Itachi-Uchiha.png",
+          "script": "Julian-Kurapika-Itachi-Uchiha.zip"
+        }
+      ]
+    },
+    {
+      "name": "Naruto",
+      "Default_name": "Itachi Uchiha",
+      "Splash_url": "Julian-Itachi-Uchiha.png",
+      "script": "Julian-Itachi-Uchiha-Backup.zip",
+      "Portrait_url": "Julian-Itachi-Uchiha.png",
+      "Tags": [
+        "Naruto Shippuden.png"
+      ],
+      "targets": [
+        {
+          "name": "Silent Edge",
+          "Portrait_url": "Julian-Silent-Edge.png",
+          "Splash_url": "Julian-Silent-Edge.png",
+          "script": "Julian-Itachi-Uchiha-Silent-Edge.zip"
+        },
+        {
+          "name": "Megumi Fushiguro",
+          "Portrait_url": "Julian-Megumi-Fushiguro.png",
+          "Splash_url": "Julian-Megumi-Fushiguro.png",
+          "script": "Julian-Itachi-Uchiha-Megumi-Fushiguro.zip"
+        },
+        {
+          "name": "Meowkin Tracker",
+          "Portrait_url": "Julian-Meowkin-Tracker.png",
+          "Splash_url": "Julian-Meowkin-Tracker.png",
+          "script": "Julian-Itachi-Uchiha-Meowkin-Tracker.zip"
+        },
+        {
+          "name": "Kurapika",
+          "Portrait_url": "Julian-Kurapika.png",
+          "Splash_url": "Julian-Kurapika.png",
+          "script": "Julian-Itachi-Uchiha-Kurapika.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "vale-backup",
+      "portrait_file": "Vale-Default.png",
+      "script_file": "Vale-Backup.zip",
+      "skin_name": "Windtalker",
+      "splash_file": "Vale-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "vale-cerulean-winds",
+      "portrait_file": "Vale-Cerulean-Winds.png",
+      "script_file": "Vale-Cerulean-Winds.zip",
+      "skin_name": "Cerulean Winds",
+      "splash_file": "Vale-Cerulean-Winds.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "vale-blizzard-storm",
+      "portrait_file": "Vale-Blizzard-Storm.png",
+      "script_file": "Vale-Blizzard-Storm.zip",
+      "skin_name": "Blizzard Storm",
+      "splash_file": "Vale-Blizzard-Storm.png",
+      "tag_id": "dawning-stars",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "vale-kannagi",
+      "portrait_file": "Vale-Kannagi.png",
+      "script_file": "Vale-Kannagi.zip",
+      "skin_name": "Kannagi",
+      "splash_file": "Vale-Kannagi.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "vale-soaring-devata",
+      "portrait_file": "Vale-Soaring-Devata.png",
+      "script_file": "Vale-Soaring-Devata.zip",
+      "skin_name": "Soaring Devata",
+      "splash_file": "Vale-Soaring-Devata.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "vale-supernal-tempest",
+      "portrait_file": "Vale-Supernal-Tempest.png",
+      "script_file": "Vale-Supernal-Tempest.zip",
+      "skin_name": "Supernal Tempest",
+      "splash_file": "Vale-Supernal-Tempest.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "vale-keeper-of-the-winds",
+      "portrait_file": "Vale-Keeper-of-the-Winds.png",
+      "script_file": "Vale-Keeper-of-the-Winds.zip",
+      "skin_name": "Keeper of the Winds",
+      "splash_file": "Vale-Keeper-of-the-Winds.png",
+      "tag_id": "epic",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "vale-concerto-of-light",
+      "portrait_file": "Vale-Concerto-of-Light.png",
+      "script_file": "Vale-Concerto-of-Light.zip",
+      "skin_name": "Concerto of Light",
+      "splash_file": "Vale-Concerto-of-Light.png",
+      "tag_id": "annual-starlight",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "vale-gaara",
+      "portrait_file": "Vale-Gaara.png",
+      "script_file": "Vale-Gaara.zip",
+      "skin_name": "Gaara",
+      "splash_file": "Vale-Gaara.png",
+      "tag_id": "elite",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "vale-windborne-waltz",
+      "portrait_file": "Vale-Windborne-Waltz.png",
+      "script_file": "Vale-Windborne-Waltz.zip",
+      "skin_name": "Windborne Waltz",
+      "splash_file": "Vale-Windborne-Waltz.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 66,
+    "name": "Vale",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "vale"
+  },
+  "release_tag": "visual-vale",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

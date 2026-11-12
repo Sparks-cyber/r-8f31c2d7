@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 26,
+    "slug": "chou",
+    "name": "Chou",
+    "skin_name": "Kung Fu Boy",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane",
+      "Roaming"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Control"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "December 2016",
+    "resource": null,
+    "short_description": "A talented fighter with a heart of chivalry.",
+    "brief": "Chou is a gifted martial artist born in the slums. He learned the ancient oriental martial arts under the tutelage of a mysterious monk. He is agile and skilled in the use of the nunchaku.",
+    "story": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.\n\nOne day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real hero to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true hero without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 3,
+    "control": 8,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2530,
+    "health_growth": 202,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 121,
+    "physical_attack_growth": 10.07,
+    "magic_power": 0,
+    "physical_defense": 23,
+    "physical_defense_growth": 4.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.1,
+    "attack_speed_growth": 0.0271,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.6
+  },
+  "abilities": [
+    {
+      "id": "Chou0",
+      "name": "Only Fast",
+      "description": "After traveling 5 units, Chou deals 180% damage on his next Basic Attack (cannot Crit), briefly slows the target by 90% and reduces their Physical Defense by 10(+1*Hero Level) for 3s (up to 2 stacks).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_aca76a3a3dda44b6a0c3a72ff9bbcb94.png",
+      "video_url": null
+    },
+    {
+      "id": "Chou1",
+      "name": "Jeet Kune Do",
+      "description": "Chou strikes in the target direction, dealing 180/200/220/240/260/280<scaleAD> (+70% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne.<br/><br/>Hitting an enemy hero with the 3rd cast resets the cooldown of <highlight>Shunpo</highlight>.",
+      "flavor_text": "It only takes three seconds to defeat you. One! Two! Three!",
+      "cost": null,
+      "cooldown": "9.5/9.2/8.9/8.6/8.3/8",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70b2990486b562415dac32dac01bdb16.png",
+      "video_url": null
+    },
+    {
+      "id": "Chou2",
+      "name": "Shunpo",
+      "description": "Chou charges in the target direction, gaining Control Immunity and a 200/230/260/290/320/350<scaleAD> (+200% Extra Physical Attack)</scaleAD> shield.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "5",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d784b75324318b23edb29b1fdd06bea0.png",
+      "video_url": null
+    },
+    {
+      "id": "Chou3",
+      "name": "The Way of Dragon",
+      "description": "Chou strikes a roundhouse kick at the target enemy hero, dealing them 400/500/600<scaleAD> (+200% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and knocking them back.<br/><br/>Cast the skill again to chase up the target, dealing a total of 480/580/680<scaleAD> (+220% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "36/33/30",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05083715344213a996ab3ebf04381e93.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Chou0",
+      "sequence": "Chou2-Chou1-Chou3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Chou's 2nd and 1st Skill to get next to a key target, then use his Ultimate to knock them out of position and secure the kill with his team."
+    },
+    {
+      "id": "Chou1",
+      "sequence": "Chou2-Chou1-Chou2-Chou3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Chou's 2nd Skill to get close to the enemy and follow up with his 1st Skill for multiple strikes. After landing the 3rd strike of his 1st Skill, use the refreshed 2nd Skill to stay on the target and finish them with his Ultimate."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Chou works best with Healers that can boost his survivability and speed, such as Angela and Rafaela.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Chou counters slower Fighters like Terizla and Alpha that have a hard time dealing with his quick hit and run tactics.",
+      "heroes": [
+        {
+          "id": 82,
+          "slug": "terizla",
+          "name": "Terizla"
+        },
+        {
+          "id": 28,
+          "slug": "alpha",
+          "name": "Alpha"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Chou is countered by heroes with very long-range like Lesley and Pharsa that can take out a chunk of his HP before he can get close.",
+      "heroes": [
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        },
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Chou-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Chou-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_011409dfe1a2cf4cf5f879ea07fb3a8e.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_011409dfe1a2cf4cf5f879ea07fb3a8e.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/chou.json",
+    "visual_catalog": "catalog/v1/visual/chou.json",
+    "upgrade_catalog": "catalog/v1/upgrade/chou.json"
+  }
+}

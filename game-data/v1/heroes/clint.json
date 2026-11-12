@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 13,
+    "slug": "clint",
+    "name": "Clint",
+    "skin_name": "West Justice",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "2016",
+    "resource": "Mana",
+    "short_description": "A sharpshooter full of righteousness and justice.",
+    "brief": "Clint is a sheriff in a small western town. He ordered the execution of Kane's nephew Blandy. The residents were afraid of Kane so they had ended Blandy over to a gang and expelled Clint. But Blandy still didn't let the town go. Clint came out to guard the town and his time of crisis. After the matter was over, he went to Los Pecados to completely eradicate Kane's evil forces.",
+    "story": "On the desolate frontier of Moniyan, the border with Agelta, there was an ordinary town. The residents here lived a peaceful and stable life away from the hustle and bustle of human society. They worked during the day, and at night they go to the tavern in the town for few drinks to relax.\n\nSuch an orderly and stable life was all due to Clint, the Sheriff of the town. Clint was a famous fast gunner, with unmatched good marksmanship, and was known for his fastest speed of drawing gun. The dutiful Clint always took maintaining the security of the town as his duty. He loved his job and duty, and believed in the fairness and justice of the law. He hated evil as his enemy, and had been protecting the town from all kinds of robbers and bandits for many years. Therefore, he was loved by the residents of the town.\n\nOn an ordinary night, Clint went on his daily patrol with his gun as usual. In the middle of his patrol, he suddenly heard the gunshots and disgusting shouts from the tavern. Clint knew instinctively that a group of uninvited guests broke into the peaceful town.\n\nClint immediately rushed to the tavern, where a group of weirdly dressed drunkards were smashing wildly. Many residents were beaten to death by them, while the owner of the tavern was shot and killed by the gangster leader. In the face of Clint’s warning, the gangsters were not frightened, but blatantly declared that the town would soon be taken over by them, and advised Clint not to meddle.\n\nWhat the gangsters did angered Clint, so he drew out his gun and fought a fierce battle with them. Finally, except for a minion who escaped by chance, the rest of the gangsters were either killed by Clint’s gun or lost their combat effectiveness and were captured without any resistance.\n\nAt noon the next day, Clint took the captured villains to the center of the town, preparing to give the criminals a just punishment under the witness of all the residents. The angry people also demanded the severe punishment of these outsiders. But just then, the villain leader suddenly revealed his identity: he was Blandy, the nephew of Waldo Kane, the most powerful boss in Los Pecados. His men had fled back to Los Pecados last night to deliver a message that if anything happened to him, his uncle would definitely raze this small town, and everyone would be buried with him.\n\nBlandy had just finished his words, the angry crowd suddenly quieted down. They knew the City of Sin and Waldo Kane, and they knew their ways of doing things better. Soon, the residents wavered. They advocated the release of Blandy and hoped that Blandy would “forget” his unpleasant experience in the town.\n\nIn the eyes of Clint, who hated evil most, it was nothing more than a compromise to criminals and trampling on justice. Regardless of residents’ opposition, he threw Blandy into prison and announced that he would hang him three days later to comfort the tavern owner who had been shot by him.\n\nAfter no more than three days, a large number of gangsters had come to the outskirts of the town. They brought lots of weapons, demanding that the residents immediately hand over Blandy, and offer a large ransom to apologize.\n\nThe safety of the town was greatly threatened by those criminals. Clint came out boldly and called on everyone to take up arms to fight back the gangs and defend their homeland. But what Clint didn’t expect was that the residents and colleagues he had tried to protect in the past did not intend to live and die with him. Instead, they blamed Clint for his stubbornness and inflexibility, which brought disaster to the town. After a hasty vote, the residents relieve Clint of his post as Sheriff and drove him out of town.\n\nThe residents then released Blandy and handed in a large ransom. But even so, the ferocious Blandy still chose the treachery, leading the gangs to occupy the town, and preparing to burn the town.\n\nBy this time, Clint had carried his bags and walked far out of the town. However, when the fire in the small town was soaring into the sky, Clint could not ignore it. Even if those people he had protected with his life and blood betrayed him, the law of justice in his mind could not be erased by this, let alone standing by and watching the gangsters slaughtering the town. Even if he was alone, Clint would fight crime to the end.\n\nAt the time when the gangsters were unscrupulously destroying the town, Clint appeared in the town as if a soldier came from heaven. His invincible marksmanship and amazing speed of drawing gun became the most terrible nightmare of criminals on the night. After a fierce battle, Clint was scarred, and the gangsters also suffered heavy casualties, protecting Blandy, who was wounded by Clint, to escape.\n\nThe survived residents realized their mistakes and begged Clint for forgiveness, hoping that Clint would stay and protect the town.\n\nBut Clint only smiled and didn’t answered. That night, Clint rode on his old donkey, left the town quietly, and set foot on the road to the City of Sin.\n\nHe knew that if he wouldn’t go to find Kane, Kane would come to find him.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 7,
+    "control": 4,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 160,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.2143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 120,
+    "physical_attack_growth": 14.5,
+    "magic_power": 0,
+    "physical_defense": 16,
+    "physical_defense_growth": 4.2143,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.0286,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 245,
+    "attack_range": 4.8
+  },
+  "abilities": [
+    {
+      "id": "Clint0",
+      "name": "Double Shot",
+      "description": "After each skill cast, Clint's next Basic Attack within 4s penetrates a line of enemies, dealing 150<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. This damage can trigger attack effects, and the part affected by Physical Attack can Crit.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4f34f91aa8c276c6c68c0fb062645591.png",
+      "video_url": null
+    },
+    {
+      "id": "Clint1",
+      "name": "Quick Draw",
+      "description": "Clint fires 5 bullets in quick succession in the target direction, each dealing 250/280/310/340/370/400<scaleAD> (+85% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the enemy hit.<br/><br/>The bullets will spread evenly across enemies in a fan-shaped area. Enemies hit by multiple bullets will take 11/12/13/14/15/16% less damage after the first bullet.",
+      "flavor_text": null,
+      "cost": "50/55/60/65/70/75",
+      "cooldown": "8/7.4/6.8/6.2/5.6/5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_819bd2b4fce66ea402874193cd70b190.png",
+      "video_url": null
+    },
+    {
+      "id": "Clint2",
+      "name": "Trapping Recoil",
+      "description": "Clint shoots a trap net in the target direction, slightly jumping back while dealing 140/160/180/200/220/240<scaleAD> (+30% Total Physical Attack)</scaleAD><scaleAP> (+150% Total Magic Power)</scaleAP> <physicalDamage>Physical Damage</physicalDamage> to the first enemy hit and immobilizing them for 1.2s.<br/><br/>Successfully hitting an enemy reduces the cooldown of this skill by 40%.",
+      "flavor_text": null,
+      "cost": "80",
+      "cooldown": "10/9.6/9.2/8.8/8.4/8",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6813ebabb3e000e3af1935d16faa8f5b.png",
+      "video_url": null
+    },
+    {
+      "id": "Clint3",
+      "name": "Grenade Bombardment",
+      "description": "Clint launches a grenade in the target direction that explodes on the first enemy hit, dealing 280/340/400<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing them by 50% for 0.5s.<br/><br/>Clint gains a grenade charge every 10/7.5/5s (up to 3).",
+      "flavor_text": null,
+      "cost": "50/55/60",
+      "cooldown": "1.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_144f654bbb1560ed883a8f21b11f8a9d.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Clint0",
+      "sequence": "Clint3-AA-Clint1-AA-Clint2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Clint's Ultimate and enhanced Basic Attacks to whittle down enemies from a distance. Once the enemy is weakened from the constant bombardment, use Clint's 1st Skill, Basic Attack, 2nd Skill, and Basic Attack combo to finish them off."
+    },
+    {
+      "id": "Clint1",
+      "sequence": "Clint1-AA-Clint2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Clint should use his 1st Skill followed by an enhanced Basic Attack, then his 2nd Skill followed by another enhanced Basic Attack. This combo maximizes his damage, immobilizes the target, and moves Clint out of harm's way."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Clint works best with Supportsthat can enhance his kiting ability, such as Rafaela and Angela.",
+      "heroes": [
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        },
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Clint counters heroes with comparatively shorter range like Moskov and Miya thanks to the superior range of his skills and Basic Attacks.",
+      "heroes": [
+        {
+          "id": 31,
+          "slug": "moskov",
+          "name": "Moskov"
+        },
+        {
+          "id": 1,
+          "slug": "miya",
+          "name": "Miya"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Clint is countered by Marksmen with burst damage like Melissa and Karrie since he lacks burst in the early and mid game to trade blows with them.",
+      "heroes": [
+        {
+          "id": 114,
+          "slug": "melissa",
+          "name": "Melissa"
+        },
+        {
+          "id": 40,
+          "slug": "karrie",
+          "name": "Karrie"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Clint-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Clint-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8136b5ece3387dfe347956f797a14a5d.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8136b5ece3387dfe347956f797a14a5d.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/clint.json",
+    "visual_catalog": "catalog/v1/visual/clint.json",
+    "upgrade_catalog": "catalog/v1/upgrade/clint.json"
+  }
+}

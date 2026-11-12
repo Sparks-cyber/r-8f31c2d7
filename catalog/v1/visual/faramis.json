@@ -1,0 +1,87 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "faramis-backup",
+      "portrait_file": "Faramis-Default.png",
+      "script_file": "Faramis-Backup.zip",
+      "skin_name": "Soul Binder",
+      "splash_file": "Faramis-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "faramis-dark-necro",
+      "portrait_file": "Faramis-Dark-Necro.png",
+      "script_file": "Faramis-Dark-Necro.zip",
+      "skin_name": "Dark Necro",
+      "splash_file": "Faramis-Dark-Necro.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "faramis-royal-magus",
+      "portrait_file": "Faramis-Royal-Magus.png",
+      "script_file": "Faramis-Royal-Magus.zip",
+      "skin_name": "Royal Magus",
+      "splash_file": "Faramis-Royal-Magus.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "faramis-summer-sparks",
+      "portrait_file": "Faramis-Summer-Sparks.png",
+      "script_file": "Faramis-Summer-Sparks.zip",
+      "skin_name": "Summer Sparks",
+      "splash_file": "Faramis-Summer-Sparks.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "faramis-infernal-magister",
+      "portrait_file": "Faramis-Infernal-Magister.png",
+      "script_file": "Faramis-Infernal-Magister.zip",
+      "skin_name": "Infernal Magister",
+      "splash_file": "Faramis-Infernal-Magister.png",
+      "tag_id": "mythic-2023",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "faramis-enigmatic-wayfarer",
+      "portrait_file": "Faramis-Enigmatic-Wayfarer.png",
+      "script_file": "Faramis-Enigmatic-Wayfarer.zip",
+      "skin_name": "Enigmatic Wayfarer",
+      "splash_file": "Faramis-Enigmatic-Wayfarer.png",
+      "tag_id": "s37",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "faramis-enigmatic-wanderer",
+      "portrait_file": "Faramis-Enigmatic-Wanderer.png",
+      "script_file": "Faramis-Enigmatic-Wanderer.zip",
+      "skin_name": "Enigmatic Wanderer",
+      "splash_file": "Faramis-Enigmatic-Wanderer.png",
+      "tag_id": "s37",
+      "tier": "Common"
+    }
+  ],
+  "hero": {
+    "id": 76,
+    "name": "Faramis",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "slug": "faramis"
+  },
+  "release_tag": "visual-faramis",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

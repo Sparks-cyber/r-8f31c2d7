@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 117,
+    "slug": "fredrinn",
+    "name": "Fredrinn"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "fredrinn-community-5825",
+      "name": "Community Build 5825",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "waraxe",
+        "oracle",
+        "queenswings",
+        "dominanceice",
+        "chastisepauldron",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "vitality",
+        "festivalofblood",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Have on ult 5060 damage and very good defence",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5825,
+      "source_created_at": "2026-02-18T21:43:05.000Z",
+      "likes": 10,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "fredrinn-community-5888",
+      "name": "Community Build 5888",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "thunderbelt",
+        "bruteforcebreastplate",
+        "guardianhelmet",
+        "bladearmor",
+        "oracle"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "support",
+      "talent_ids": [
+        "impurerage",
+        "seasonedhunter",
+        "agility"
+      ],
+      "situational_items": [],
+      "notes": "Build movement speed paling enak untuk main solo , duo , trio atau party sekalipun. sangat cocok untuk gameplay agresif dan mengejar lawan yang banyak blink \n\nItem core hanya lah thunderbelt dan Brute force , sisanya item conditional seperti jika snowball bisa beli skypiercer / Oracle / war axe / Queen's wings / Guardian helmet \n\nJika musuh banyak burst magic bisa beli athena / radiant / Oracle \n\nJika musuh banyak attack speed ( Hero dengan item trinity ) bisa pakai pauldron / Blade armor / dominance \n\nJika musuh banyak heal bisa beli dominance ice \n\nUntuk emblem wajib bisa menggunakan tank atau support tergantung kondisi\n\nJika tim kebanyakan damage daripada tahan badan maka emblem tank bisa jadi pengurang beban\n\nJika tim ada banyak Hero tahan badan maka bisa pakai emblem support untuk efek heal yang kuat dan mobilitas yang cepat \n\nUntuk settingan build ini , item core nya hanyalah sepatu , thunderbelt dan bruteforce\n\n\" Bang kenapa gak bruteforce aja diawal? \" Alasan nya karna kalau pakai bruteforce walaupun bisa ngasih mobilitas cepat , pengurangan Cooldown , HP tinggi itu karna mov speed nya hanya berdasarkan stack dan thunderbelt itu bagus untuk farming dan mendapatkan stack permanent ( hybrid defense ) sampai akhir permainan",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5888,
+      "source_created_at": "2026-02-21T14:09:10.000Z",
+      "likes": 6,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "fredrinn-companion-baseline",
+      "name": "Companion Fighter/Tank Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

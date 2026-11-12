@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "freya-backup",
+      "portrait_file": "Freya-Default.png",
+      "script_file": "Freya-Backup.zip",
+      "skin_name": "Valkyrie",
+      "splash_file": "Freya-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "freya-dark-rose",
+      "portrait_file": "Freya-Dark-Rose.png",
+      "script_file": "Freya-Dark-Rose.zip",
+      "skin_name": "Dark Rose",
+      "splash_file": "Freya-Dark-Rose.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "freya-dragon-hunter",
+      "portrait_file": "Freya-Dragon-Hunter.png",
+      "script_file": "Freya-Dragon-Hunter.zip",
+      "skin_name": "Dragon Hunter",
+      "splash_file": "Freya-Dragon-Hunter.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "freya-beach-sweetheart",
+      "portrait_file": "Freya-Beach-Sweetheart.png",
+      "script_file": "Freya-Beach-Sweetheart.zip",
+      "skin_name": "Beach Sweetheart",
+      "splash_file": "Freya-Beach-Sweetheart.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "freya-war-angel",
+      "portrait_file": "Freya-War-Angel.png",
+      "script_file": "Freya-War-Angel.zip",
+      "skin_name": "War Angel",
+      "splash_file": "Freya-War-Angel.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "freya-gladiator",
+      "portrait_file": "Freya-Gladiator.png",
+      "script_file": "Freya-Gladiator.zip",
+      "skin_name": "Gladiator",
+      "splash_file": "Freya-Gladiator.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "freya-christmas-carnival",
+      "portrait_file": "Freya-Christmas-Carnival.png",
+      "script_file": "Freya-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Freya-Christmas-Carnival.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "freya-raven-shogun",
+      "portrait_file": "Freya-Raven-Shogun.png",
+      "script_file": "Freya-Raven-Shogun.zip",
+      "skin_name": "Raven Shogun",
+      "splash_file": "Freya-Raven-Shogun.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "freya-s-a-b-e-r-manhunter",
+      "portrait_file": "Freya-S-A-B-E-R-Manhunter.png",
+      "script_file": "Freya-S-A-B-E-R-Manhunter.zip",
+      "skin_name": "S.A.B.E.R. Manhunter",
+      "splash_file": "Freya-S-A-B-E-R-Manhunter.png",
+      "tag_id": "saber",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "freya-galactic-vanquisher",
+      "portrait_file": "Freya-Galactic-Vanquisher.png",
+      "script_file": "Freya-Galactic-Vanquisher.zip",
+      "skin_name": "Galactic Vanquisher",
+      "splash_file": "Freya-Galactic-Vanquisher.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "freya-starborn-resolve",
+      "portrait_file": "Freya-Starborn-Resolve.png",
+      "script_file": "Freya-Starborn-Resolve.zip",
+      "skin_name": "Starborn Resolve",
+      "splash_file": "Freya-Starborn-Resolve.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "freya-spartan-spirit",
+      "portrait_file": "Freya-Spartan-Spirit.png",
+      "script_file": "Freya-Spartan-Spirit.zip",
+      "skin_name": "Spartan Spirit",
+      "splash_file": "Freya-Spartan-Spirit.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 22,
+    "name": "Freya",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "freya"
+  },
+  "release_tag": "visual-freya",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

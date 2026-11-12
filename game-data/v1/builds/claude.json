@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 65,
+    "slug": "claude",
+    "name": "Claude"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "claude-community-6160",
+      "name": "Community Build 6160",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "demonhuntersword",
+        "toughboots",
+        "goldenstaff",
+        "corrosionscythe",
+        "windofnature",
+        "maleficgun"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "quantumcharge",
+        "masterassassin",
+        "swift"
+      ],
+      "situational_items": [],
+      "notes": "Bagus untuk team fight & laneing (usahakan jadi kan demon hunter sword dan golden staff agar ada demeg)",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6160,
+      "source_created_at": "2026-03-01T18:36:51.000Z",
+      "likes": 6,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "claude-community-6361",
+      "name": "Community Build 6361",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "toughboots",
+        "demonhuntersword",
+        "corrosionscythe",
+        "goldenstaff",
+        "rosegoldmeteor",
+        "windofnature"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "firmness",
+        "festivalofblood",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "sustain",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6361,
+      "source_created_at": "2026-03-10T04:46:51.000Z",
+      "likes": 2,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "claude-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

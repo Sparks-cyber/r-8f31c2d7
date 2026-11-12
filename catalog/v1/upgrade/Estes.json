@@ -1,0 +1,503 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Estes",
+  "role": "Support",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Holy Priest",
+      "Splash_url": "Estes-Holy-Priest.png",
+      "script": "Estes-Holy-Priest-Backup.zip",
+      "Portrait_url": "Estes-Holy-Priest.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Galaxy Dominator",
+          "Portrait_url": "Estes-Galaxy-Dominator.png",
+          "Splash_url": "Estes-Galaxy-Dominator.png",
+          "script": "Estes-Holy-Priest-Galaxy-Dominator.zip"
+        },
+        {
+          "name": "White Crane",
+          "Portrait_url": "Estes-White-Crane.png",
+          "Splash_url": "Estes-White-Crane.png",
+          "script": "Estes-Holy-Priest-White-Crane.zip"
+        },
+        {
+          "name": "Crow Bishop",
+          "Portrait_url": "Estes-Crow-Bishop.png",
+          "Splash_url": "Estes-Crow-Bishop.png",
+          "script": "Estes-Holy-Priest-Crow-Bishop.zip"
+        },
+        {
+          "name": "Rattan Dragon",
+          "Portrait_url": "Estes-Rattan-Dragon.png",
+          "Splash_url": "Estes-Rattan-Dragon.png",
+          "script": "Estes-Holy-Priest-Rattan-Dragon.zip"
+        },
+        {
+          "name": "Blacklist International",
+          "Portrait_url": "Estes-Blacklist-International.png",
+          "Splash_url": "Estes-Blacklist-International.png",
+          "script": "Estes-Holy-Priest-Blacklist-International.zip"
+        },
+        {
+          "name": "Red Crow",
+          "Portrait_url": "Estes-Red-Crow.png",
+          "Splash_url": "Estes - Red Crow.jpg",
+          "script": "Estes-Holy-Priest-Red-Crow.zip"
+        },
+        {
+          "name": "Arcane Judicator",
+          "Portrait_url": "Estes-Arcane-Judicator.png",
+          "Splash_url": "Estes - Arcane Judicator.jpg",
+          "script": "Estes-Holy-Priest-Arcane-Judicator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Galaxy Dominator",
+      "Splash_url": "Estes-Galaxy-Dominator.png",
+      "script": "Estes-Galaxy-Dominator-Backup.zip",
+      "Portrait_url": "Estes-Galaxy-Dominator.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Holy Priest",
+          "Portrait_url": "Estes-Holy-Priest.png",
+          "Splash_url": "Estes-Holy-Priest.png",
+          "script": "Estes-Galaxy-Dominator-Holy-Priest.zip"
+        },
+        {
+          "name": "White Crane",
+          "Portrait_url": "Estes-White-Crane.png",
+          "Splash_url": "Estes-White-Crane.png",
+          "script": "Estes-Galaxy-Dominator-White-Crane.zip"
+        },
+        {
+          "name": "Crow Bishop",
+          "Portrait_url": "Estes-Crow-Bishop.png",
+          "Splash_url": "Estes-Crow-Bishop.png",
+          "script": "Estes-Galaxy-Dominator-Crow-Bishop.zip"
+        },
+        {
+          "name": "Rattan Dragon",
+          "Portrait_url": "Estes-Rattan-Dragon.png",
+          "Splash_url": "Estes-Rattan-Dragon.png",
+          "script": "Estes-Galaxy-Dominator-Rattan-Dragon.zip"
+        },
+        {
+          "name": "Blacklist International",
+          "Portrait_url": "Estes-Blacklist-International.png",
+          "Splash_url": "Estes-Blacklist-International.png",
+          "script": "Estes-Galaxy-Dominator-Blacklist-International.zip"
+        },
+        {
+          "name": "Arcane Magistrate",
+          "Portrait_url": "Estes-Arcane-Magistrate.png",
+          "Splash_url": "Estes-Arcane-Magistrate.png",
+          "script": "Estes-Galaxy-Dominator-Arcane-Magistrate.zip"
+        },
+        {
+          "name": "SPARKLE Estes",
+          "Portrait_url": "Estes-SPARKLE-Estes.png",
+          "Splash_url": "Estes-SPARKLE-Estes.png",
+          "script": "Estes-Galaxy-Dominator-SPARKLE-Estes.zip"
+        },
+        {
+          "name": "Red Crow",
+          "Portrait_url": "Estes-Red-Crow.png",
+          "Splash_url": "Estes - Red Crow.jpg",
+          "script": "Estes-Galaxy-Dominator-Red-Crow.zip"
+        },
+        {
+          "name": "Arcane Judicator",
+          "Portrait_url": "Estes-Arcane-Judicator.png",
+          "Splash_url": "Estes - Arcane Judicator.jpg",
+          "script": "Estes-Galaxy-Dominator-Arcane-Judicator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "White Crane",
+      "Splash_url": "Estes-White-Crane.png",
+      "script": "Estes-White-Crane-Backup.zip",
+      "Portrait_url": "Estes-White-Crane.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Holy Priest",
+          "Portrait_url": "Estes-Holy-Priest.png",
+          "Splash_url": "Estes-Holy-Priest.png",
+          "script": "Estes-White-Crane-Holy-Priest.zip"
+        },
+        {
+          "name": "Galaxy Dominator",
+          "Portrait_url": "Estes-Galaxy-Dominator.png",
+          "Splash_url": "Estes-Galaxy-Dominator.png",
+          "script": "Estes-White-Crane-Galaxy-Dominator.zip"
+        },
+        {
+          "name": "Crow Bishop",
+          "Portrait_url": "Estes-Crow-Bishop.png",
+          "Splash_url": "Estes-Crow-Bishop.png",
+          "script": "Estes-White-Crane-Crow-Bishop.zip"
+        },
+        {
+          "name": "Rattan Dragon",
+          "Portrait_url": "Estes-Rattan-Dragon.png",
+          "Splash_url": "Estes-Rattan-Dragon.png",
+          "script": "Estes-White-Crane-Rattan-Dragon.zip"
+        },
+        {
+          "name": "Blacklist International",
+          "Portrait_url": "Estes-Blacklist-International.png",
+          "Splash_url": "Estes-Blacklist-International.png",
+          "script": "Estes-White-Crane-Blacklist-International.zip"
+        },
+        {
+          "name": "Arcane Magistrate",
+          "Portrait_url": "Estes-Arcane-Magistrate.png",
+          "Splash_url": "Estes-Arcane-Magistrate.png",
+          "script": "Estes-White-Crane-Arcane-Magistrate.zip"
+        },
+        {
+          "name": "SPARKLE Estes",
+          "Portrait_url": "Estes-SPARKLE-Estes.png",
+          "Splash_url": "Estes-SPARKLE-Estes.png",
+          "script": "Estes-White-Crane-SPARKLE-Estes.zip"
+        },
+        {
+          "name": "Red Crow",
+          "Portrait_url": "Estes-Red-Crow.png",
+          "Splash_url": "Estes - Red Crow.jpg",
+          "script": "Estes-White-Crane-Red-Crow.zip"
+        },
+        {
+          "name": "Arcane Judicator",
+          "Portrait_url": "Estes-Arcane-Judicator.png",
+          "Splash_url": "Estes - Arcane Judicator.jpg",
+          "script": "Estes-White-Crane-Arcane-Judicator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Crow Bishop",
+      "Splash_url": "Estes-Crow-Bishop.png",
+      "script": "Estes-Crow-Bishop-Backup.zip",
+      "Portrait_url": "Estes-Crow-Bishop.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Holy Priest",
+          "Portrait_url": "Estes-Holy-Priest.png",
+          "Splash_url": "Estes-Holy-Priest.png",
+          "script": "Estes-Crow-Bishop-Holy-Priest.zip"
+        },
+        {
+          "name": "Galaxy Dominator",
+          "Portrait_url": "Estes-Galaxy-Dominator.png",
+          "Splash_url": "Estes-Galaxy-Dominator.png",
+          "script": "Estes-Crow-Bishop-Galaxy-Dominator.zip"
+        },
+        {
+          "name": "White Crane",
+          "Portrait_url": "Estes-White-Crane.png",
+          "Splash_url": "Estes-White-Crane.png",
+          "script": "Estes-Crow-Bishop-White-Crane.zip"
+        },
+        {
+          "name": "Rattan Dragon",
+          "Portrait_url": "Estes-Rattan-Dragon.png",
+          "Splash_url": "Estes-Rattan-Dragon.png",
+          "script": "Estes-Crow-Bishop-Rattan-Dragon.zip"
+        },
+        {
+          "name": "Blacklist International",
+          "Portrait_url": "Estes-Blacklist-International.png",
+          "Splash_url": "Estes-Blacklist-International.png",
+          "script": "Estes-Crow-Bishop-Blacklist-International.zip"
+        },
+        {
+          "name": "Arcane Magistrate",
+          "Portrait_url": "Estes-Arcane-Magistrate.png",
+          "Splash_url": "Estes-Arcane-Magistrate.png",
+          "script": "Estes-Crow-Bishop-Arcane-Magistrate.zip"
+        },
+        {
+          "name": "SPARKLE Estes",
+          "Portrait_url": "Estes-SPARKLE-Estes.png",
+          "Splash_url": "Estes-SPARKLE-Estes.png",
+          "script": "Estes-Crow-Bishop-SPARKLE-Estes.zip"
+        },
+        {
+          "name": "Arcane Judicator",
+          "Portrait_url": "Estes-Arcane-Judicator.png",
+          "Splash_url": "Estes - Arcane Judicator.jpg",
+          "script": "Estes-Crow-Bishop-Arcane-Judicator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Tamer",
+      "Default_name": "Rattan Dragon",
+      "Splash_url": "Estes-Rattan-Dragon.png",
+      "script": "Estes-Rattan-Dragon-Backup.zip",
+      "Portrait_url": "Estes-Rattan-Dragon.png",
+      "Tags": [
+        "Dragon Tamer.png"
+      ],
+      "targets": [
+        {
+          "name": "Holy Priest",
+          "Portrait_url": "Estes-Holy-Priest.png",
+          "Splash_url": "Estes-Holy-Priest.png",
+          "script": "Estes-Rattan-Dragon-Holy-Priest.zip"
+        },
+        {
+          "name": "Galaxy Dominator",
+          "Portrait_url": "Estes-Galaxy-Dominator.png",
+          "Splash_url": "Estes-Galaxy-Dominator.png",
+          "script": "Estes-Rattan-Dragon-Galaxy-Dominator.zip"
+        },
+        {
+          "name": "White Crane",
+          "Portrait_url": "Estes-White-Crane.png",
+          "Splash_url": "Estes-White-Crane.png",
+          "script": "Estes-Rattan-Dragon-White-Crane.zip"
+        },
+        {
+          "name": "Crow Bishop",
+          "Portrait_url": "Estes-Crow-Bishop.png",
+          "Splash_url": "Estes-Crow-Bishop.png",
+          "script": "Estes-Rattan-Dragon-Crow-Bishop.zip"
+        },
+        {
+          "name": "Arcane Magistrate",
+          "Portrait_url": "Estes-Arcane-Magistrate.png",
+          "Splash_url": "Estes-Arcane-Magistrate.png",
+          "script": "Estes-Rattan-Dragon-Arcane-Magistrate.zip"
+        },
+        {
+          "name": "SPARKLE Estes",
+          "Portrait_url": "Estes-SPARKLE-Estes.png",
+          "Splash_url": "Estes-SPARKLE-Estes.png",
+          "script": "Estes-Rattan-Dragon-SPARKLE-Estes.zip"
+        },
+        {
+          "name": "Red Crow",
+          "Portrait_url": "Estes-Red-Crow.png",
+          "Splash_url": "Estes - Red Crow.jpg",
+          "script": "Estes-Rattan-Dragon-Red-Crow.zip"
+        },
+        {
+          "name": "Arcane Judicator",
+          "Portrait_url": "Estes-Arcane-Judicator.png",
+          "Splash_url": "Estes - Arcane Judicator.jpg",
+          "script": "Estes-Rattan-Dragon-Arcane-Judicator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "Default_name": "Blacklist International",
+      "Splash_url": "Estes-Blacklist-International.png",
+      "script": "Estes-Blacklist-International-Backup.zip",
+      "Portrait_url": "Estes-Blacklist-International.png",
+      "Tags": [
+        "Champion.png"
+      ],
+      "targets": [
+        {
+          "name": "Holy Priest",
+          "Portrait_url": "Estes-Holy-Priest.png",
+          "Splash_url": "Estes-Holy-Priest.png",
+          "script": "Estes-Blacklist-International-Holy-Priest.zip"
+        },
+        {
+          "name": "Galaxy Dominator",
+          "Portrait_url": "Estes-Galaxy-Dominator.png",
+          "Splash_url": "Estes-Galaxy-Dominator.png",
+          "script": "Estes-Blacklist-International-Galaxy-Dominator.zip"
+        },
+        {
+          "name": "White Crane",
+          "Portrait_url": "Estes-White-Crane.png",
+          "Splash_url": "Estes-White-Crane.png",
+          "script": "Estes-Blacklist-International-White-Crane.zip"
+        },
+        {
+          "name": "Crow Bishop",
+          "Portrait_url": "Estes-Crow-Bishop.png",
+          "Splash_url": "Estes-Crow-Bishop.png",
+          "script": "Estes-Blacklist-International-Crow-Bishop.zip"
+        },
+        {
+          "name": "Rattan Dragon",
+          "Portrait_url": "Estes-Rattan-Dragon.png",
+          "Splash_url": "Estes-Rattan-Dragon.png",
+          "script": "Estes-Blacklist-International-Rattan-Dragon.zip"
+        },
+        {
+          "name": "Arcane Magistrate",
+          "Portrait_url": "Estes-Arcane-Magistrate.png",
+          "Splash_url": "Estes-Arcane-Magistrate.png",
+          "script": "Estes-Blacklist-International-Arcane-Magistrate.zip"
+        },
+        {
+          "name": "SPARKLE Estes",
+          "Portrait_url": "Estes-SPARKLE-Estes.png",
+          "Splash_url": "Estes-SPARKLE-Estes.png",
+          "script": "Estes-Blacklist-International-SPARKLE-Estes.zip"
+        },
+        {
+          "name": "Red Crow",
+          "Portrait_url": "Estes-Red-Crow.png",
+          "Splash_url": "Estes - Red Crow.jpg",
+          "script": "Estes-Blacklist-International-Red-Crow.zip"
+        },
+        {
+          "name": "Arcane Judicator",
+          "Portrait_url": "Estes-Arcane-Judicator.png",
+          "Splash_url": "Estes - Arcane Judicator.jpg",
+          "script": "Estes-Blacklist-International-Arcane-Judicator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Arcane Magistrate",
+      "Splash_url": "Estes-Arcane-Magistrate.png",
+      "script": "Estes-Arcane-Magistrate-Backup.zip",
+      "Portrait_url": "Estes-Arcane-Magistrate.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Holy Priest",
+          "Portrait_url": "Estes-Holy-Priest.png",
+          "Splash_url": "Estes-Holy-Priest.png",
+          "script": "Estes-Arcane-Magistrate-Holy-Priest.zip"
+        },
+        {
+          "name": "Galaxy Dominator",
+          "Portrait_url": "Estes-Galaxy-Dominator.png",
+          "Splash_url": "Estes-Galaxy-Dominator.png",
+          "script": "Estes-Arcane-Magistrate-Galaxy-Dominator.zip"
+        },
+        {
+          "name": "White Crane",
+          "Portrait_url": "Estes-White-Crane.png",
+          "Splash_url": "Estes-White-Crane.png",
+          "script": "Estes-Arcane-Magistrate-White-Crane.zip"
+        },
+        {
+          "name": "Crow Bishop",
+          "Portrait_url": "Estes-Crow-Bishop.png",
+          "Splash_url": "Estes-Crow-Bishop.png",
+          "script": "Estes-Arcane-Magistrate-Crow-Bishop.zip"
+        },
+        {
+          "name": "Rattan Dragon",
+          "Portrait_url": "Estes-Rattan-Dragon.png",
+          "Splash_url": "Estes-Rattan-Dragon.png",
+          "script": "Estes-Arcane-Magistrate-Rattan-Dragon.zip"
+        },
+        {
+          "name": "Blacklist International",
+          "Portrait_url": "Estes-Blacklist-International.png",
+          "Splash_url": "Estes-Blacklist-International.png",
+          "script": "Estes-Arcane-Magistrate-Blacklist-International.zip"
+        },
+        {
+          "name": "SPARKLE Estes",
+          "Portrait_url": "Estes-SPARKLE-Estes.png",
+          "Splash_url": "Estes-SPARKLE-Estes.png",
+          "script": "Estes-Arcane-Magistrate-SPARKLE-Estes.zip"
+        },
+        {
+          "name": "Red Crow",
+          "Portrait_url": "Estes-Red-Crow.png",
+          "Splash_url": "Estes - Red Crow.jpg",
+          "script": "Estes-Arcane-Magistrate-Red-Crow.zip"
+        }
+      ]
+    },
+    {
+      "name": "Sparkle",
+      "Default_name": "SPARKLE Estes",
+      "Splash_url": "Estes-SPARKLE-Estes.png",
+      "script": "Estes-SPARKLE-Estes-Backup.zip",
+      "Portrait_url": "Estes-SPARKLE-Estes.png",
+      "Tags": [
+        "Sparkle.png"
+      ],
+      "targets": [
+        {
+          "name": "Holy Priest",
+          "Portrait_url": "Estes-Holy-Priest.png",
+          "Splash_url": "Estes-Holy-Priest.png",
+          "script": "Estes-SPARKLE-Estes-Holy-Priest.zip"
+        },
+        {
+          "name": "Galaxy Dominator",
+          "Portrait_url": "Estes-Galaxy-Dominator.png",
+          "Splash_url": "Estes-Galaxy-Dominator.png",
+          "script": "Estes-SPARKLE-Estes-Galaxy-Dominator.zip"
+        },
+        {
+          "name": "White Crane",
+          "Portrait_url": "Estes-White-Crane.png",
+          "Splash_url": "Estes-White-Crane.png",
+          "script": "Estes-SPARKLE-Estes-White-Crane.zip"
+        },
+        {
+          "name": "Crow Bishop",
+          "Portrait_url": "Estes-Crow-Bishop.png",
+          "Splash_url": "Estes-Crow-Bishop.png",
+          "script": "Estes-SPARKLE-Estes-Crow-Bishop.zip"
+        },
+        {
+          "name": "Rattan Dragon",
+          "Portrait_url": "Estes-Rattan-Dragon.png",
+          "Splash_url": "Estes-Rattan-Dragon.png",
+          "script": "Estes-SPARKLE-Estes-Rattan-Dragon.zip"
+        },
+        {
+          "name": "Blacklist International",
+          "Portrait_url": "Estes-Blacklist-International.png",
+          "Splash_url": "Estes-Blacklist-International.png",
+          "script": "Estes-SPARKLE-Estes-Blacklist-International.zip"
+        },
+        {
+          "name": "Arcane Magistrate",
+          "Portrait_url": "Estes-Arcane-Magistrate.png",
+          "Splash_url": "Estes-Arcane-Magistrate.png",
+          "script": "Estes-SPARKLE-Estes-Arcane-Magistrate.zip"
+        },
+        {
+          "name": "Red Crow",
+          "Portrait_url": "Estes-Red-Crow.png",
+          "Splash_url": "Estes - Red Crow.jpg",
+          "script": "Estes-SPARKLE-Estes-Red-Crow.zip"
+        },
+        {
+          "name": "Arcane Judicator",
+          "Portrait_url": "Estes-Arcane-Judicator.png",
+          "Splash_url": "Estes - Arcane Judicator.jpg",
+          "script": "Estes-SPARKLE-Estes-Arcane-Judicator.zip"
+        }
+      ]
+    }
+  ]
+}

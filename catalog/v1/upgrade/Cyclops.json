@@ -1,0 +1,641 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Cyclops",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Exorcist",
+      "Splash_url": "Cyclops-Exorcist.png",
+      "script": "Cyclops-Exorcist-Backup.zip",
+      "Portrait_url": "Cyclops-Exorcist.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-Exorcist-Super-Adventurer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-Exorcist-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-Exorcist-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-Exorcist-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-Exorcist-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-Exorcist-Yokai-Warlock.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-Exorcist-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-Exorcist-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Super Adventurer",
+      "Splash_url": "Cyclops-Super-Adventurer.png",
+      "script": "Cyclops-Super-Adventurer-Backup.zip",
+      "Portrait_url": "Cyclops-Super-Adventurer.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-Super-Adventurer-Exorcist.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-Super-Adventurer-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-Super-Adventurer-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-Super-Adventurer-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-Super-Adventurer-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-Super-Adventurer-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-Super-Adventurer-Yokai-Warlock.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-Super-Adventurer-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-Super-Adventurer-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.A.B.E.R.",
+      "Default_name": "S.A.B.E.R. Enforcer",
+      "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+      "script": "Cyclops-S-A-B-E-R-Enforcer-Backup.zip",
+      "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+      "Tags": [
+        "SABER.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Exorcist.zip"
+        },
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Super-Adventurer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Yokai-Warlock.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-S-A-B-E-R-Enforcer-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Deep Sea Rescuer",
+      "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+      "script": "Cyclops-Deep-Sea-Rescuer-Backup.zip",
+      "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-Exorcist.zip"
+        },
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-Super-Adventurer.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-Yokai-Warlock.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-Deep-Sea-Rescuer-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-Deep-Sea-Rescuer-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Zombie Bambino",
+      "Splash_url": "Cyclops-Zombie-Bambino.png",
+      "script": "Cyclops-Zombie-Bambino-Backup.zip",
+      "Portrait_url": "Cyclops-Zombie-Bambino.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-Zombie-Bambino-Exorcist.zip"
+        },
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-Zombie-Bambino-Super-Adventurer.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-Zombie-Bambino-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-Zombie-Bambino-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-Zombie-Bambino-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-Zombie-Bambino-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-Zombie-Bambino-Yokai-Warlock.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-Zombie-Bambino-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-Zombie-Bambino-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "Default_name": "Master Yoda",
+      "Splash_url": "Cyclops-Master-Yoda.png",
+      "script": "Cyclops-Master-Yoda-Backup.zip",
+      "Portrait_url": "Cyclops-Master-Yoda.png",
+      "Tags": [
+        "Star Wars.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-Master-Yoda-Exorcist.zip"
+        },
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-Master-Yoda-Super-Adventurer.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-Master-Yoda-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-Master-Yoda-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-Master-Yoda-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-Master-Yoda-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-Master-Yoda-Yokai-Warlock.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-Master-Yoda-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-Master-Yoda-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Straw Doll",
+      "Splash_url": "Cyclops-Straw-Doll.png",
+      "script": "Cyclops-Straw-Doll-Backup.zip",
+      "Portrait_url": "Cyclops-Straw-Doll.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-Straw-Doll-Exorcist.zip"
+        },
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-Straw-Doll-Super-Adventurer.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-Straw-Doll-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-Straw-Doll-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-Straw-Doll-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-Straw-Doll-Master-Yoda.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-Straw-Doll-Yokai-Warlock.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-Straw-Doll-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-Straw-Doll-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Yokai Warlock",
+      "Splash_url": "Cyclops-Yokai-Warlock.png",
+      "script": "Cyclops-Yokai-Warlock-Backup.zip",
+      "Portrait_url": "Cyclops-Yokai-Warlock.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-Yokai-Warlock-Exorcist.zip"
+        },
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-Yokai-Warlock-Super-Adventurer.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-Yokai-Warlock-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-Yokai-Warlock-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-Yokai-Warlock-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-Yokai-Warlock-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-Yokai-Warlock-Straw-Doll.zip"
+        },
+        {
+          "name": "SpongeBob",
+          "Portrait_url": "Cyclops-SpongeBob.png",
+          "Splash_url": "Cyclops-SpongeBob.png",
+          "script": "Cyclops-Yokai-Warlock-SpongeBob.zip"
+        },
+        {
+          "name": "Super Sportsman",
+          "Portrait_url": "Cyclops-Super-Sportsman.png",
+          "Splash_url": "Cyclops - Super Sportsman.jpg",
+          "script": "Cyclops-Yokai-Warlock-Super-Sportsman.zip"
+        }
+      ]
+    },
+    {
+      "name": "SpongeBob SquarePants",
+      "Default_name": "SpongeBob",
+      "Splash_url": "Cyclops-SpongeBob.png",
+      "script": "Cyclops-SpongeBob-Backup.zip",
+      "Portrait_url": "Cyclops-SpongeBob.png",
+      "Tags": [
+        "SpongeBob SquarePants.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-SpongeBob-Exorcist.zip"
+        },
+        {
+          "name": "Super Adventurer",
+          "Portrait_url": "Cyclops-Super-Adventurer.png",
+          "Splash_url": "Cyclops-Super-Adventurer.png",
+          "script": "Cyclops-SpongeBob-Super-Adventurer.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-SpongeBob-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-SpongeBob-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-SpongeBob-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-SpongeBob-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-SpongeBob-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-SpongeBob-Yokai-Warlock.zip"
+        }
+      ]
+    },
+    {
+      "name": "Painted",
+      "Default_name": "Super Sportsman",
+      "Splash_url": "Cyclops-Super-Sportsman.png",
+      "script": "Cyclops-Super-Sportsman-Backup.zip",
+      "Portrait_url": "Cyclops-Super-Sportsman.png",
+      "Tags": [
+        "Painted.png"
+      ],
+      "targets": [
+        {
+          "name": "Exorcist",
+          "Portrait_url": "Cyclops-Exorcist.png",
+          "Splash_url": "Cyclops-Exorcist.png",
+          "script": "Cyclops-Super-Sportsman-Exorcist.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Enforcer",
+          "Portrait_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "Splash_url": "Cyclops-S-A-B-E-R-Enforcer.png",
+          "script": "Cyclops-Super-Sportsman-S-A-B-E-R-Enforcer.zip"
+        },
+        {
+          "name": "Deep Sea Rescuer",
+          "Portrait_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "Splash_url": "Cyclops-Deep-Sea-Rescuer.png",
+          "script": "Cyclops-Super-Sportsman-Deep-Sea-Rescuer.zip"
+        },
+        {
+          "name": "Zombie Bambino",
+          "Portrait_url": "Cyclops-Zombie-Bambino.png",
+          "Splash_url": "Cyclops-Zombie-Bambino.png",
+          "script": "Cyclops-Super-Sportsman-Zombie-Bambino.zip"
+        },
+        {
+          "name": "Master Yoda",
+          "Portrait_url": "Cyclops-Master-Yoda.png",
+          "Splash_url": "Cyclops-Master-Yoda.png",
+          "script": "Cyclops-Super-Sportsman-Master-Yoda.zip"
+        },
+        {
+          "name": "Straw Doll",
+          "Portrait_url": "Cyclops-Straw-Doll.png",
+          "Splash_url": "Cyclops-Straw-Doll.png",
+          "script": "Cyclops-Super-Sportsman-Straw-Doll.zip"
+        },
+        {
+          "name": "Yokai Warlock",
+          "Portrait_url": "Cyclops-Yokai-Warlock.png",
+          "Splash_url": "Cyclops-Yokai-Warlock.png",
+          "script": "Cyclops-Super-Sportsman-Yokai-Warlock.zip"
+        }
+      ]
+    }
+  ]
+}

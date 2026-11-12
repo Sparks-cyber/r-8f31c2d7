@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 10,
+    "slug": "franco",
+    "name": "Franco",
+    "skin_name": "Frozen Warrior",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Physical",
+    "specialties": [
+      "Initiator",
+      "Control"
+    ],
+    "region": "Northern Vale",
+    "release_date": "2016",
+    "resource": "Mana",
+    "short_description": "Brave permafrost warrior, Bane's sworn enemy.",
+    "brief": "Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.",
+    "story": "The harsh natural environment of the distant and wintry Northern Vale shaped those who live there into a brave and martial people. They revered the strong, and took pride in their tall and rugged appearances. They believed that their robust physiques were inherited from their common ancestor ⁠— the Iceland Golem who once ruled these lands.\n\nTo the young Franco, however, this traditional way of thinking was nothing but oppressive. His tribe had lived on the coast of the Frozen Sea for generations, and relied on their large fleet of ships for trade and fishing to support their livelihoods. But the passing years did not make young Franco want to become a grown man. They only made him notice the strange way the others would look at him. Though his father was a harpooner famous throughout the coast, and his brothers were all tall and strong, Franco was small and unimpressive for a Northman. Some even said jokingly that, given Franco's stature, his ancestor was not the Iceland Golem, but the dwarves of legend.\n\nTo train strong warriors, the Northern Vale tribes on the coast of the Frozen Sea engaged in intensely competitive games from childhood, and received systematic combat training once they reached puberty, so that they would be ready to engage in long trading missions or fishing journeys upon reaching adulthood. To Franco's embarrassment, however, when the other boys had already started to wield battle axes, spears, and to rig sails, he could only handle much smaller weapons. In fact, the battle axes were even taller than he was.\n\nThough small in stature, Franco had a great ambition ⁠— to become the Northern Vale's greatest warrior, and to have his name remembered in the book of heroes, to be adulated by future generations. To achieve this ambition, Franco trained relentlessly day after day, increasing his strength and martial prowess. Yet, no matter how hard Franco trained, he was looked down upon by the others for his short stature. Even his father and brothers believed that little Franco was only suited to be a merchant, and never a warrior or sailor who could take on the cruel environment and ferocious enemies.\n\nFacing constant mockery and discrimination, Franco angrily decided to leave his tribe. He would prove to all of them that, even if he was little, he could still achieve his great things. Over the next few years, he hid away in the Northern Vale's endless mountains, surviving and training alone in that most extreme of environments. After many long years of fighting the bitter cold, terrible beasts, and ever-present threats, Franco developed a strength far exceeding an ordinary man's, as well as a firm and indomitable character.\n\nWhilst Franco was training alone in the mountains, the cruel and power-hungry Captain Bane descended upon the Frozen Sea. Breaking the long-respected rules of the Northern Vale's pirates and fishermen, he began to invade and annex the territory of other pirates as well as commoners, ruling them with an iron fist. Those facing Bane's powerful fleet and fearsome firepower had only two options: submit, or be annihilated.\n\nBane's cruelty drew fierce resistance from various forces, the fiercest of all coming from Franco's tribe. As a warning to those who would defy him, Bane sent a massive armada of pirate ships to blockade the surrounding sea, and sent constant raids on Franco's tribe, declaring he would sink all their ships, and raze their harbor to the ground.\n\nAfter ten years in the mountains, Franco returned to his tribe, full of confidence and strength. Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength. Only after the battle did his oppressed tribesmen make a surprising discovery: that the hero who had come to save them was none other than the once-mocked little Franco. After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen.\n\nFranco then led his tribesmen and their ships in resistance against Bane's cruel rule. They equipped old fishing ships with battering rams and cannons, and attacked Bane's pirate fleets wherever they were found, dealing a heavy blow against Bane's forces. In desperation, Bane gathered an enormous fleet to suppress Franco's resistance, but both sides remained in a deadlock after several battles, with Bane unable to force an advantage. Once, Bane managed to lead Franco into a trap, but only managed to wound him, and Franco managed to escape with his life. Furthermore, more and more people of the Northern Vale, inspired by Franco's courage and strength, united around him to fight Bane.\n\nSeeing Franco's strength grow steadily by the day, the cunning Captain Bane came up with a plan: he would sue for peace with Franco, suggesting that they search for the Twilight Orb of legend together, while secretly drawing the Moniyan Empire's navy to the Frozen Sea. This would allow him to kill two birds with one stone: find the Twilight Orb, and defeat Franco for good. Suspicious of Bane's sudden goodwill, Franco pretended to take the bait, ordering his men to search for the Twilight Orb, while secretly leading a contingent of warriors to seize control of a pirate ship among the Black Sharks fleet.\n\nBane instigated a battle between the two navies, preparing to reap the benefits for himself in the aftermath. However, Franco, hidden within the Black Sharks, ordered his men to open fire from behind Bane, making a direct hit on the Behemoth. In his most exultant moment, Bane and his flagship received a deadly blow from the defiant lord, and sank to the bottom of the sea.\n\nWith Bane drowned, Franco became ruler of the entire coast of the Northern Vale. He led his people to drive out the remnants of Bane's forces, rebuild the harbor, and restart trade, bringing a renaissance to the entire Northern Vale.\n\nOut of respect for Franco's glorious achievements, the people of the Northern Vale titled him the Frozen Warrior. But to Franco, all that he had done so far was still not worthy of such praise. Not long after, Franco learned that Bane not only had not perished, but had gained a new power, and was gathering his men to make his return.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 1,
+    "control": 10,
+    "difficulty": 2
+  },
+  "attributes": {
+    "health": 2600,
+    "health_growth": 281,
+    "health_regen": 9.2,
+    "health_regen_growth": 0.6714,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 116,
+    "physical_attack_growth": 7.21,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 4.8571,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.03,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Franco0",
+      "name": "Wasteland Force",
+      "description": "If no damage is taken within 5s, Franco gains 10% Movement Speed, recovers 1% Max HP per second, and begins accumulating <highlight>Wasteland Force</highlight> (up to 10 stacks).<br/><br/>Franco will consume all <highlight>Wasteland Force</highlight> stacks on his next skill cast to increase the skill's damage by up to 150%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f28d9d7b5ae159997dc00f992cec8881.png",
+      "video_url": null
+    },
+    {
+      "id": "Franco1",
+      "name": "Iron Hook",
+      "description": "Franco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing 400/450/500/550/600/650<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and dragging them to Franco.",
+      "flavor_text": null,
+      "cost": "135/140/145/150/155/160",
+      "cooldown": "15/14.2/13.4/12.6/11.8/11",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eb5032e0d6d264f97c30f95237cc2ed4.png",
+      "video_url": null
+    },
+    {
+      "id": "Franco2",
+      "name": "Fury Shock",
+      "description": "Franco lashes out, dealing <physicalDamage>Physical Damage</physicalDamage> equal to 300/330/360/390/420/450 plus 4% of his Max HP to nearby enemies and slowing them by 70% for 1.5s.",
+      "flavor_text": null,
+      "cost": "40/45/50/55/60/65",
+      "cooldown": "7/6.5/6/5.5/5/4.5",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4ed340f228f854d69477c6d492ab6046.png",
+      "video_url": null
+    },
+    {
+      "id": "Franco3",
+      "name": "Bloody Hunt",
+      "description": "Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50/60/70<scaleAD> (+70% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": "110/125/140",
+      "cooldown": "62/55/48",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b19953d95c51bcb9292e743e84d71071.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Franco0",
+      "sequence": "Franco3-Franco1-Franco2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Use Flicker to reach key targets for his Ultimate. Follow up with 1st Skill to extend the CC, then 2nd Skill to deal damage and slow."
+    },
+    {
+      "id": "Franco1",
+      "sequence": "Franco1-Franco2-Franco3",
+      "name": "LANING COMBOS",
+      "description": "Use 1st Skill to hook the enemy into a bad position. Follow up with 2nd Skill to slow, then Ultimate to suppress and secure a kill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Heroes with high burst damage such as Vale, Karina and Brody to take advantage of his CC.",
+      "heroes": [
+        {
+          "id": 66,
+          "slug": "vale",
+          "name": "Vale"
+        },
+        {
+          "id": 8,
+          "slug": "karina",
+          "name": "Karina"
+        },
+        {
+          "id": 100,
+          "slug": "brody",
+          "name": "Brody"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Heroes with low mobility like Vale, Estes and Layla.",
+      "heroes": [
+        {
+          "id": 66,
+          "slug": "vale",
+          "name": "Vale"
+        },
+        {
+          "id": 34,
+          "slug": "estes",
+          "name": "Estes"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Heroes with high mobility or Control Immunity such as Wanwan, Fanny and Badang.",
+      "heroes": [
+        {
+          "id": 89,
+          "slug": "wanwan",
+          "name": "Wanwan"
+        },
+        {
+          "id": 17,
+          "slug": "fanny",
+          "name": "Fanny"
+        },
+        {
+          "id": 77,
+          "slug": "badang",
+          "name": "Badang"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Franco-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Franco-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ad018d324520174ab87b3a1098507fb6.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ad018d324520174ab87b3a1098507fb6.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/franco.json",
+    "visual_catalog": "catalog/v1/visual/franco.json",
+    "upgrade_catalog": "catalog/v1/upgrade/franco.json"
+  }
+}

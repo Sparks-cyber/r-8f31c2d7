@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 1,
+    "slug": "miya",
+    "name": "Miya"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "miya-community-6038",
+      "name": "Community Build 6038",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "magicboots",
+        "windtalker",
+        "skypiercer",
+        "haasclaws",
+        "berserkersfury",
+        "corrosionscythe"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "weaknessfinder",
+        "agility",
+        "bargainhunter"
+      ],
+      "situational_items": [],
+      "notes": "Ini biar tambah sakit miya top global 1",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6038,
+      "source_created_at": "2026-02-25T20:26:17.000Z",
+      "likes": 28,
+      "dislikes": 3,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "miya-community-6359",
+      "name": "Community Build 6359",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "skypiercer",
+        "swiftboots",
+        "windtalker",
+        "haasclaws",
+        "berserkersfury",
+        "maleficgun"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "fatal",
+        "bargainhunter",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "This is build is good to catch kills for the weak enemies ;)",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6359,
+      "source_created_at": "2026-03-10T03:14:27.000Z",
+      "likes": 7,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "miya-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

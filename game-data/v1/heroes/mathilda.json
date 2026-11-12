@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 102,
+    "slug": "mathilda",
+    "name": "Mathilda",
+    "skin_name": "Swift Plume",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Initiator",
+      "Guard"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "12 December 2020",
+    "resource": "Mana",
+    "short_description": "A brave girl who stands up and doesn't fear power.",
+    "brief": "The tribe where Mathilda lives has guarded the Holy Mountain for generations. Once, members of the tribe rescued a group of sand hunters under Kane, but unexpectedly they bit the hand that fed them by taking the Holy Mountain as their own. Mathilda was unafraid of their power. She left her hometown and met Clint. In the end, with the help of Clint, she was able to get her vengeance and return to the Holy Mountain with her tribe, inheriting the Holy Mountain's mysterious power.",
+    "story": "In the vast Western Desert, on a barren land with its back facing the mountains, there lived an ancient and simple tribe. For generations, they had kept the traditions of their ancestors, guarded their sacred mountains, and lived hard but quiet lives. Mathilda and her family were members of this tribe.\r\n\r\nMathilda's father, Thasgard, was the leader of the entire tribe. He was brave, upright and responsible, and bore the burden of the tribe’s survival firmly on his shoulders. Under his influence, little Mathilda had developed a similar personality to her father, and was deeply proud of him.\r\n\r\nOne day, a group of sand hunters from Los Pecados broke into this closed-off tribe and disrupted the peace they had maintained for hundreds of years. The group of sand hunters lost their way in the desert chasing giant beasts. They were discovered by Mathilda's tribesmen right as they were on the cusp of death. The tribesmen brought them back to the tribe.\r\n\r\nHowever, the expectations of the kind and innocent aboriginal tribesmen were shattered when their kind deeds were returned in the form of unforgivable atrocities. These were not ordinary sand hunters, but those of the \"iceberg sand hunting group\" under Waldo Kane, the most powerful boss in Los Pecados. These guys not only sought life in the desert, but also did a lot of dirty work and sinful deeds.\r\n\r\nDespite being in a state close to death, some veterans of the sand hunting group developed an idea in their minds as soon as they saw the mountains behind the tribe: under this seemingly ordinary mountain range there were countless gold mines that could bring them a steady stream of wealth.\r\n\r\nUnder the care of the aboriginal tribesmen, the sand hunters quickly recovered and left the tribe under their guidance. Before leaving, they promised to repay everyone.\r\n\r\nHowever, Mathilda’s tribesmen did not receive the reward they deserved, but were instead subject to a sinful invasion. The sand hunters who walked out of the desert quickly reported the news to Waldo Kane. On Kane's instruction, Kane’s nephew Blandy returned to Mathilda's tribe with a large number of thugs, preparing to take the entire mountain range by force.\r\n\r\nFor Mathilda’s tribesmen, this was the tribe’s sacred mountain range, and no one was allowed to tread on it. The tribe patriarch Thasgard sternly rejected Blandy's coercion and temptation, and asked him and his thugs to leave their homeland immediately.\r\n\r\nBlandy, who had always traversed Los Pecados without a care, became enraged. He drew a gun and shot Thasgard, wounding him. He then gave him an ultimatum: Either leave the tribe’s land within a month and give up the gold mine at the back of the mountain range, or be wiped out together with his tribe.\r\n\r\nTheir patriarch now injured, the tribesmen, having lost their leader, fell into panic and confusion. More and more people began to advocate leaving the village to avoid further loss. Facing the retreating tribe, little Mathilda stood up, denounced their weakness, and called on everyone to take up arms and use their own strength to defend their homeland.\r\n\r\nOn one side was the small, weak Mathilda, and on the other side was the powerful sand hunter group and their gang of thugs. The tribesmen chose to be silent one after another, and began to quietly pack their things and prepare to leave the tribe.\r\n\r\nLittle Mathilda left the tribe in disappointment. She firmly believed that justice must exist in this world. For this reason, she began to wander the vast west, looking for people who could truly help the tribe.\r\n\r\nWhile marching to a small town not far from Los Pecados, Mathilda’s sense of justice got the better of her and she ended up in a dispute. Mathilda stood up and resisted the bullying perpetrators in front of her. Mathilda was outnumbered, but then, an old cowboy with a stubbled face appeared and repelled the bandits. He then teamed up with Mathilda and went with her.\r\n\r\nIt was none other than Clint, an old cowboy who had come to seek Blandy for revenge. After learning about what happened to Mathilda and her people, Clint, also with a strong sense of justice, decided to help Mathilda and fought alongside her to defend their homeland.\r\n\r\nIn the battle to defend her homeland, Mathilda established a deep relationship with Clint, Claude and others. After a tough ordeal, the brutal Blandy was defeated, and the bandits' covetous hopes of gaining the sacred mountain range were shattered.\r\n\r\nThe tribe restored the peace it had held in the past and Mathilda was summoned by the sacred mountain range. Upon entering the sacred mountain, she inherited a mysterious power that no one had inherited for hundreds of years.\r\n\r\nFor Mathilda, a great adventure had only just begun. In the setting sun, she bid farewell to her family and chose to go on the road with Clint, because she firmly believed that in this world, there were even more oppressed people out there waiting for justice to come, and she would do all she could to help them get it.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 2,
+    "control": 4,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2651,
+    "health_growth": 188,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.2857,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 120,
+    "physical_attack_growth": 6.71,
+    "magic_power": 0,
+    "physical_defense": 22,
+    "physical_defense_growth": 4.1429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.005,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 252,
+    "attack_range": 4.1
+  },
+  "abilities": [
+    {
+      "id": "Mathilda0",
+      "name": "Ancestral Guidance",
+      "description": "Mathilda gains <highlight>Ancestral Guidance</highlight> while moving. When it's fully charged, her next Basic Attack will be enhanced, dealing 200<scaleAD> (+100% Total Physical Attack)</scaleAD> <scaleAP>(+100% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the target and granting her 80 extra Movement Speed that decays over 2.5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f201e693e1129614b1b22047e28a4c2c.png",
+      "video_url": null
+    },
+    {
+      "id": "Mathilda1",
+      "name": "Soul Bloom",
+      "description": "Mathilda resonates with the power of her ancestors for 4s, attracting wisps as her movement distance increases (up to 6 wisps).<br/><br/>At the end of the skill's duration, or when Mathilda casts this skill again, the wisps will seek and attack nearby enemies, each dealing 275/320/365/410/455/500<scaleAP> (+125% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and revealing the enemies' positions briefly. Subsequent damage dealt by wisps to the same target decays to 40%.",
+      "flavor_text": null,
+      "cost": "50/55/60/65/70/75",
+      "cooldown": "7.5",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b41810acba280a3b6e9bba321bfbb74.png",
+      "video_url": null
+    },
+    {
+      "id": "Mathilda2",
+      "name": "Guiding Wind",
+      "description": "Mathilda leaps in the target direction and creates a field around her, gaining a 350/400/450/500/550/600<scaleAP> (+180% Total Magic Power)</scaleAP> shield and 25% extra Movement Speed for 3s. Allied heroes who come into contact with the field will receive a 50% shield and <highlight>Guiding Wind</highlight>. The first allied hero that triggers <highlight>Guiding Wind</highlight> will be guided to Mathilda, and both of them will gain the same Movement Speed boost.<br/><br/>When casting this skill during <highlight>Circling Eagle</highlight>, Mathilda won't change her position.<br/><highlight>Guiding Wind</highlight> expires 2s after the hero leaves Mathilda's field.",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "13.5/13/12.5/12/11.5/11",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9c364f42f896209e76c50e9460a9395e.png",
+      "video_url": null
+    },
+    {
+      "id": "Mathilda3",
+      "name": "Circling Eagle",
+      "description": "Mathilda applies a <highlight>Soul Mark</highlight> to the target enemy hero and circles around them for up to 3.5s, during which her wisps will fly into nearby enemies, each dealing 40/50/60<scaleAP> (+15% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. The Soul Mark will also slow the target by 15% and <highlight>Soul Bloom</highlight> will prioritize the target with Soul Mark.<br/>Within the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with <highlight>Soul Mark</highlight>, dealing 320/400/480<scaleAP> (+120% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> while knocking enemies in her path airborne for 0.6s, transferring the <highlight>Soul Mark</highlight> to the first enemy hero that she knocks airborne, and reducing the skill cooldown by 40%.<br/>Mathilda gains Control Immunity and a 400/500/600<scaleAP> (+180% Total Magic Power)</scaleAP> shield for the skill duration.",
+      "flavor_text": null,
+      "cost": "120/140/160",
+      "cooldown": "65",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9dade03c4d55cf327e9f1cb279e99f29.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Mathilda0",
+      "sequence": "Mathilda1-Mathilda2-Mathilda3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, first activate Mathilda's 1st skill, then immediately use her 2nd Skill to get to a good position to initiate from and unleash her Ultimate on the primary target. This combo allows Mathilda to quickly CC a key enemy hero, and lets an ally follow up by using Guiding Wind from her 2nd Skill."
+    },
+    {
+      "id": "Mathilda1",
+      "sequence": "Mathilda1-Mathilda2-AA-Mathilda3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Mathilda's 1st Skill in advance and keep moving to gather wisps, then use her 2nd Skill to get close to the enemy and unleash all her wisps at the target before ending with an enhanced Basic Attack. Use her Ultimate to secure the kill if the enemy is low on HP."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Mathilda works well with high burst damage heroes who can use Guiding Wind and follow up her Ultimate to secure kills, such as Saber and Eudora.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Mathilda excels in harassment and single-target CC, making her a great counter to squishy heroes with no escape skills, like Gord and Vale.",
+      "heroes": [
+        {
+          "id": 23,
+          "slug": "gord",
+          "name": "Gord"
+        },
+        {
+          "id": 66,
+          "slug": "vale",
+          "name": "Vale"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Mathilda is countered by Tanks with multiple CC skills, such as Franco and Minsitthar.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Mathilda-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Mathilda-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/mathilda.json",
+    "visual_catalog": "catalog/v1/visual/mathilda.json",
+    "upgrade_catalog": "catalog/v1/upgrade/mathilda.json"
+  }
+}

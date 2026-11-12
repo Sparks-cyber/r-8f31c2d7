@@ -1,0 +1,67 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "carmilla-backup",
+      "portrait_file": "Carmilla-Default.png",
+      "script_file": "Carmilla-Backup.zip",
+      "skin_name": "Shadow of Twilight",
+      "splash_file": "Carmilla-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-wisteria-countess",
+      "portrait_file": "Carmilla-Wisteria-Countess.png",
+      "script_file": "Carmilla-Wisteria-Countess.zip",
+      "skin_name": "Wisteria Countess",
+      "splash_file": "Carmilla-Wisteria-Countess.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-magician-girl",
+      "portrait_file": "Carmilla-Magician-Girl.png",
+      "script_file": "Carmilla-Magician-Girl.zip",
+      "skin_name": "Magician Girl",
+      "splash_file": "Carmilla-Magician-Girl.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-phantom-countess",
+      "portrait_file": "Carmilla-Phantom-Countess.png",
+      "script_file": "Carmilla-Phantom-Countess.zip",
+      "skin_name": "Phantom Countess",
+      "splash_file": "Carmilla-Phantom-Countess.png",
+      "tag_id": "valentine",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-astral-arcana",
+      "portrait_file": "Carmilla-Astral-Arcana.png",
+      "script_file": "Carmilla-Astral-Arcana.zip",
+      "skin_name": "Astral Arcana",
+      "splash_file": "Carmilla-Astral-Arcana.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 92,
+    "name": "Carmilla",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "slug": "carmilla"
+  },
+  "release_tag": "visual-carmilla",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

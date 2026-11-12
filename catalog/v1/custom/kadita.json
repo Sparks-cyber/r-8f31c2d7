@@ -1,0 +1,83 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "kadita-arcade",
+      "portrait_file": "Kadita - Arcade.png",
+      "script_file": "Kadita-Arcade.zip",
+      "skin_name": "Arcade",
+      "splash_file": "Kadita - Arcade.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-ariel",
+      "portrait_file": "Kadita - Ariel.png",
+      "script_file": "Kadita-Ariel.zip",
+      "skin_name": "Ariel",
+      "splash_file": "Kadita - Ariel.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-collector",
+      "portrait_file": "Kadita - Collector.png",
+      "script_file": "Kadita-Collector.zip",
+      "skin_name": "Collector",
+      "splash_file": "Kadita - Collector.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-kishin-densetsu",
+      "portrait_file": "Kadita - Kishin Densetsu.png",
+      "script_file": "Kadita-Kishin-Densetsu.zip",
+      "skin_name": "Kishin Densetsu",
+      "splash_file": "Kadita - Kishin Densetsu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-kobo",
+      "portrait_file": "Kadita - Kobo.png",
+      "script_file": "Kadita-Kobo.zip",
+      "skin_name": "Kobo",
+      "splash_file": "Kadita - Kobo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-x-conan",
+      "portrait_file": "Kadita - X Conan.png",
+      "script_file": "Kadita-X-Conan.zip",
+      "skin_name": "X Conan",
+      "splash_file": "Kadita - X Conan.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 75,
+    "name": "Kadita",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "slug": "kadita"
+  },
+  "release_tag": "custom-kadita",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

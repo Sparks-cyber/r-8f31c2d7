@@ -1,0 +1,611 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Freya",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Dark Rose",
+      "Splash_url": "Freya-Dark-Rose.png",
+      "script": "Freya-Dark-Rose-Backup.zip",
+      "Portrait_url": "Freya-Dark-Rose.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-Dark-Rose-Dragon-Hunter.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-Dark-Rose-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-Dark-Rose-War-Angel.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Dark-Rose-Gladiator.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-Dark-Rose-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-Dark-Rose-Raven-Shogun.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-Dark-Rose-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-Dark-Rose-Galactic-Vanquisher.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Dark-Rose-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dragon Hunter",
+      "Splash_url": "Freya-Dragon-Hunter.png",
+      "script": "Freya-Dragon-Hunter-Backup.zip",
+      "Portrait_url": "Freya-Dragon-Hunter.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-Dragon-Hunter-Dark-Rose.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-Dragon-Hunter-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-Dragon-Hunter-War-Angel.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Dragon-Hunter-Gladiator.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-Dragon-Hunter-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-Dragon-Hunter-Raven-Shogun.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-Dragon-Hunter-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-Dragon-Hunter-Galactic-Vanquisher.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Dragon-Hunter-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Beach Sweetheart",
+      "Splash_url": "Freya-Beach-Sweetheart.png",
+      "script": "Freya-Beach-Sweetheart-Backup.zip",
+      "Portrait_url": "Freya-Beach-Sweetheart.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-Beach-Sweetheart-Dark-Rose.zip"
+        },
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-Beach-Sweetheart-Dragon-Hunter.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-Beach-Sweetheart-War-Angel.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Beach-Sweetheart-Gladiator.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-Beach-Sweetheart-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-Beach-Sweetheart-Raven-Shogun.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-Beach-Sweetheart-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-Beach-Sweetheart-Galactic-Vanquisher.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Beach-Sweetheart-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "War Angel",
+      "Splash_url": "Freya-War-Angel.png",
+      "script": "Freya-War-Angel-Backup.zip",
+      "Portrait_url": "Freya-War-Angel.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-War-Angel-Dark-Rose.zip"
+        },
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-War-Angel-Dragon-Hunter.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-War-Angel-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-War-Angel-Gladiator.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-War-Angel-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-War-Angel-Raven-Shogun.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-War-Angel-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-War-Angel-Galactic-Vanquisher.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-War-Angel-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Gladiator",
+      "Splash_url": "Freya-Gladiator.png",
+      "script": "Freya-Gladiator-Backup.zip",
+      "Portrait_url": "Freya-Gladiator.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-Gladiator-Dark-Rose.zip"
+        },
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-Gladiator-Dragon-Hunter.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-Gladiator-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-Gladiator-War-Angel.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-Gladiator-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-Gladiator-Raven-Shogun.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-Gladiator-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-Gladiator-Galactic-Vanquisher.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Freya-Christmas-Carnival.png",
+      "script": "Freya-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Freya-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-Christmas-Carnival-Dark-Rose.zip"
+        },
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-Christmas-Carnival-Dragon-Hunter.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-Christmas-Carnival-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-Christmas-Carnival-War-Angel.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Christmas-Carnival-Gladiator.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-Christmas-Carnival-Raven-Shogun.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-Christmas-Carnival-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-Christmas-Carnival-Galactic-Vanquisher.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Christmas-Carnival-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Raven Shogun",
+      "Splash_url": "Freya-Raven-Shogun.png",
+      "script": "Freya-Raven-Shogun-Backup.zip",
+      "Portrait_url": "Freya-Raven-Shogun.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-Raven-Shogun-Dark-Rose.zip"
+        },
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-Raven-Shogun-Dragon-Hunter.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-Raven-Shogun-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-Raven-Shogun-War-Angel.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Raven-Shogun-Gladiator.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-Raven-Shogun-Christmas-Carnival.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-Raven-Shogun-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-Raven-Shogun-Galactic-Vanquisher.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Raven-Shogun-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.A.B.E.R.",
+      "Default_name": "S.A.B.E.R. Manhunter",
+      "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+      "script": "Freya-S-A-B-E-R-Manhunter-Backup.zip",
+      "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+      "Tags": [
+        "SABER.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Dark-Rose.zip"
+        },
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Dragon-Hunter.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-War-Angel.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Gladiator.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Raven-Shogun.zip"
+        },
+        {
+          "name": "Galactic Vanquisher",
+          "Portrait_url": "Freya-Galactic-Vanquisher.png",
+          "Splash_url": "Freya-Galactic-Vanquisher.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Galactic-Vanquisher.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-S-A-B-E-R-Manhunter-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Galactic Vanquisher",
+      "Splash_url": "Freya-Galactic-Vanquisher.png",
+      "script": "Freya-Galactic-Vanquisher-Backup.zip",
+      "Portrait_url": "Freya-Galactic-Vanquisher.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Rose",
+          "Portrait_url": "Freya-Dark-Rose.png",
+          "Splash_url": "Freya-Dark-Rose.png",
+          "script": "Freya-Galactic-Vanquisher-Dark-Rose.zip"
+        },
+        {
+          "name": "Dragon Hunter",
+          "Portrait_url": "Freya-Dragon-Hunter.png",
+          "Splash_url": "Freya-Dragon-Hunter.png",
+          "script": "Freya-Galactic-Vanquisher-Dragon-Hunter.zip"
+        },
+        {
+          "name": "Beach Sweetheart",
+          "Portrait_url": "Freya-Beach-Sweetheart.png",
+          "Splash_url": "Freya-Beach-Sweetheart.png",
+          "script": "Freya-Galactic-Vanquisher-Beach-Sweetheart.zip"
+        },
+        {
+          "name": "War Angel",
+          "Portrait_url": "Freya-War-Angel.png",
+          "Splash_url": "Freya-War-Angel.png",
+          "script": "Freya-Galactic-Vanquisher-War-Angel.zip"
+        },
+        {
+          "name": "Gladiator",
+          "Portrait_url": "Freya-Gladiator.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Galactic-Vanquisher-Gladiator.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Freya-Christmas-Carnival.png",
+          "Splash_url": "Freya-Christmas-Carnival.png",
+          "script": "Freya-Galactic-Vanquisher-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Raven Shogun",
+          "Portrait_url": "Freya-Raven-Shogun.png",
+          "Splash_url": "Freya-Raven-Shogun.png",
+          "script": "Freya-Galactic-Vanquisher-Raven-Shogun.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Manhunter",
+          "Portrait_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "Splash_url": "Freya-S-A-B-E-R-Manhunter.png",
+          "script": "Freya-Galactic-Vanquisher-S-A-B-E-R-Manhunter.zip"
+        },
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Galactic-Vanquisher-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Spartan Spirit Skin 10",
+      "Splash_url": "Freya-Spartan-Spirit.png",
+      "script": "Freya-Spartan-Spirit-Skin-10-Backup.zip",
+      "Portrait_url": "Freya-Spartan-Spirit.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Spartan Spirit Painted 01",
+          "Portrait_url": "Freya-Spartan-Spirit.png",
+          "Splash_url": "Freya-Gladiator.png",
+          "script": "Freya-Spartan-Spirit-Skin-10-Spartan-Spirit-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

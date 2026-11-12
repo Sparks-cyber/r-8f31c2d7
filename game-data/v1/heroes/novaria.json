@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 119,
+    "slug": "novaria",
+    "name": "Novaria",
+    "skin_name": "Star Rebel",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "16 May 2023",
+    "resource": "Mana",
+    "short_description": "The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.",
+    "brief": null,
+    "story": "Novaria woke up in the silence of the night. She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas.\r\n\r\nBut unlike the countless times before, an exceptionally bright star could be seen this night. As Novaria gazed upon it, her hands reached out as if by instinct, until it was stopped by an invisible cage.\r\n\r\nOf course they wouldn't allow it. Novaria knew that all too well. This night, and every night, the stars held her prisoner. She could only watch the tiny glimmers overhead and ruminate the story of her life over and over again.\r\n\r\nA story that they had written.\r\n\r\nNovaria, the last remaining Astral Artificer, belonged to us. She was born in the Valley of Stars and that is all she will ever know. Her people had been blessed with a fragment of our power, yet they foolishly sought to build the Star Atlas, under the delusion that it would allow them to unlock our secrets.\r\n\r\nSuch naive creatures! We the stars are infinite, whereas they, mere mortals, waste their lives seeking to comprehend us. But this girl, Novaria, was unique. She somehow discovered within the Star Atlas the destiny we designed for her: When the stars align, her power as the First Observer will awaken and she will become a half-astral being. By our will, she will inadvertently destroy the Star Atlas and doom her entire people.\r\n\r\nWe are the stars. She will abide by our will. She must abide by our will.\r\n\r\nAfter seeing her destiny, Novaria hid her power out of fear. But one fateful day, she foresaw in the stars that a tragedy would befall her mother, and was left with no choice but to alter the Star Atlas.\r\n\r\nWhen her mother returned home safely, Novaria finally understood the connection between the Star Atlas and the stars. It was at that moment that she made up her mind to betray us. Bit by bit, she made tiny, seemingly insignificant changes to the Atlas. Patterns of stars began to appear on her body, which distressed her but did not stop her work.\r\n\r\nShe looked up and found that star again, this time even brighter than before, as if it was burning all of its energy.\r\n\r\nThis was not within the stars' design.\r\n\r\nNovaria felt something stirring in her heart, something she hadn't felt since that night.\r\n\r\nOn the night of her sixteenth birthday, she aligned the last star into place according to her design. At last, her people would be saved. The next morning, as Novaria enjoyed the cake her mother made her, she felt at peace. The naive girl believed she was blessed by the stars.\r\n\r\nWe do not know mercy.\r\n\r\nThe Star Atlas suddenly began shifting radically as a rift grew from its center, tearing the Atlas apart. Star fragments wrapped around Novaria and began pulling her towards the rift. Her mother and the other Artificers exhausted the last of their power desperately trying to pull her back. She was the only one capable of completing the Star Atlas.\r\n\r\nThe cosmic forces within the rift began changing Novaria, turning her skin. She struggled and cried, trying to hold on to what little hope she had left, but it was to no avail.\r\n\r\nWe are the stars. She will abide by our will. She must abide by our will.\r\n\r\nNovaria fainted. When she came to, she found herself shackled by astral rings. She could not escape destiny. She tried to resist; in darkness, she chased and chased the fleeting stars, but she could not break away from our design. We chose her. She will not be allowed to defy us again. No creature could...\r\n\r\nOr could they...?\r\n\r\nThe last hope was kindled in Novaria's heart. A great explosion lit up the sky in a magnificent spectacle. It was that star! For her to shatter a star... it was unthinkable! She had challenged destiny by her own will. The stars were no longer arrogant; they began to tremble at the sight of such power. The astral rings that shackled Novaria trembled as well. This was her chance.\r\n\r\nNovaria broke free using her newfound power. The rings cracked and shattered into countless little pieces.\r\n\r\nNovaria raised her hand and held a burning star fragment on her fingertip. She contemplated for a long time, trying to understand it all. Finally, she realized...\r\n\r\nShe was free.\r\n\r\nAs daylight finally broke, Novaria felt a greater calling - to leave the Valley of Stars and search for the location of the shattered star. She lifted her head and looked into the fading night.\r\n\r\n\"I know I'll never have power as infinite as yours,\" Novaria said to us, \"But I will complete the Star Atlas, and with it, unlock the secrets of the stars. The destinies accessible to you will also be accessible to me. Then we'll have an even playing field. You won't shackle me down, or anyone else for that matter. Our destiny will be in our own hands.\"\r\n\r\nAs the night faded, the stars could only reply with silence.\r\n\r\nNovaria shook off the star fragments and walked towards the dawn.",
+    "recommended_skill_order": "3-2-1-0-1/1"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 9,
+    "control": 3,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 135,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 6.21,
+    "magic_power": 0,
+    "physical_defense": 15,
+    "physical_defense_growth": 3.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.1429,
+    "attack_speed": 1.01,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 5.0
+  },
+  "abilities": [
+    {
+      "id": "Novaria0",
+      "name": "Star Trail",
+      "description": "<highlight>Astral Spheres</highlight> summoned by Novaria will continuously slow nearby enemies by 20% and grant vision of them.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5ccfda460fb3ed4b4d044247fbe72ff0.png",
+      "video_url": null
+    },
+    {
+      "id": "Novaria1",
+      "name": "Astral Meteor",
+      "description": "Novaria summons an <highlight>Astral Sphere</highlight> at the target location, continuously dealing 75/90/105/120/135/150<scaleAP> (+25% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> every 0.33s and applying a continuously increasing slow effect (up to 2.5 times the original). After 2s, the <highlight>Astral Sphere</highlight> explodes, dealing <magicDamage>Magic Damage</magicDamage> equal to 260/285/310/335/360/385<scaleAP> (+50% Total Magic Power)</scaleAP> (+4% target's Max HP) <magicDamage>Magic Damage</magicDamage> and applying 2.5 times the slow effect.",
+      "flavor_text": null,
+      "cost": "60/68/76/84/92/100",
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_276900dd1748403fba313aa10476e8f0.png",
+      "video_url": null
+    },
+    {
+      "id": "Novaria2",
+      "name": "Astral Recall",
+      "description": "Novaria summons an <highlight>Astral Sphere</highlight> at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall will increase the Movement Speed bonus to 60%.<br/><br/>When the <highlight>Astral Sphere</highlight> reaches Novaria, she can cast <highlight>Star Shatter</highlight> to launch it in a target direction within 5s. The sphere will explode when hitting an enemy hero, dealing <magicDamage>Magic Damage</magicDamage> equal to 230/260/290/320/350/380<scaleAP> (+70% Total Magic Power)</scaleAP> plus 4% of the target's Max HP. The damage will increase based on the <highlight>Astral Sphere's</highlight> travel distance (starting from when the sphere is summoned), up to 2.5 times the original damage.",
+      "flavor_text": null,
+      "cost": "60/70/80/90/100",
+      "cooldown": "7",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18a74de4a5f949bac5b6d3a6d8a9180b.png",
+      "video_url": null
+    },
+    {
+      "id": "Novaria3",
+      "name": "Astral Echo",
+      "description": "Novaria scatters <highlight>Astral Echo</highlight> in the target direction, briefly slowing enemy heroes hit by 50% while applying <highlight>Astral Ring</highlight> on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 5s.",
+      "flavor_text": null,
+      "cost": "100",
+      "cooldown": "48/44/40",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76e8b6d3cb047f2b5f1a3d21469b40f6.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Novaria0",
+      "sequence": "Novaria3-Novaria2-Novaria2-Novaria1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Novaria's Ultimate to gain vision of the battlefield, then summon an Astral Sphere with her 2nd Skill. After catching the Astral Sphere, launch it to damage the enemy and use her 1st Skill to thwart enemy heroes that try to get close."
+    },
+    {
+      "id": "Novaria1",
+      "sequence": "Novaria2-Novaria1-Novaria2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, initiate by using Novaria's 2nd Skill to gain extra Movement Speed and summon an Astral Sphere. Then, slow the enemy with her 1st Skill and use her 2nd Skill again to launch the Astral Sphere to deal damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Novaria works well with other long-range heroes like Beatrix and Layla because her Ultimate makes any target a sitting duck for her team to pick off.",
+      "heroes": [
+        {
+          "id": 105,
+          "slug": "beatrix",
+          "name": "Beatrix"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Novaria counters Mages with shorter range and low mobility, such as Eudora and Odette, because these heroes can't reach Novaria while Novaria can hit them with her 2nd Skill.",
+      "heroes": [
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        },
+        {
+          "id": 46,
+          "slug": "odette",
+          "name": "Odette"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Novaria is countered by Assassins with strong targeted burst damage, such as Saber and Hayabusa, because they can easily close in on Novaria and burst her down.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 21,
+          "slug": "hayabusa",
+          "name": "Hayabusa"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Novaria-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Novaria-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b2599c8a6c681afdee9a06a92190a58d.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b2599c8a6c681afdee9a06a92190a58d.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/novaria.json",
+    "visual_catalog": "catalog/v1/visual/novaria.json",
+    "upgrade_catalog": "catalog/v1/upgrade/novaria.json"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.08.09.134236",
+  "updated_at": "2026-08-09T13:42:36+00:00",
+  "category": {
+    "id": "flying-vehicles",
+    "title": "Flying Vehicles",
+    "kind": "flying_vehicle"
+  },
+  "data": [
+    {
+      "id": "default-flying-vehicle",
+      "name": "Default Flying Vehicle",
+      "description": "Use the Default Flying Vehicle as the base and choose from 3 replacements.",
+      "image": "/Effects/FlyingVehicle/Default%20Flying%20Vehicle.png",
+      "backup": {
+        "name": "Restore Default Flying Vehicle",
+        "script": "/Effects/FlyingVehicle/Default%20Flying%20Vehicle.zip"
+      },
+      "uses_default_sound": true,
+      "targets": [
+        {
+          "id": "sand-cloud",
+          "name": "Sand Cloud",
+          "description": "Replace the Default Flying Vehicle with Sand Cloud, including its model, platform effects, and UI icon.",
+          "image": "/Effects/FlyingVehicle/Sand%20Cloud.png",
+          "script": "/Effects/FlyingVehicle/Sand%20Cloud.zip"
+        },
+        {
+          "id": "flying-moon",
+          "name": "Flying Moon",
+          "description": "Replace the Default Flying Vehicle with Flying Moon, including its model, platform effects, and UI icon.",
+          "image": "/Effects/FlyingVehicle/Flying%20Moon.png",
+          "script": "/Effects/FlyingVehicle/Flying%20Moon.zip"
+        },
+        {
+          "id": "astral-jellyfish",
+          "name": "Astral Jellyfish",
+          "description": "Replace the Default Flying Vehicle with Astral Jellyfish, including its model, platform effects, and UI icon.",
+          "image": "/Effects/FlyingVehicle/Astral%20Jellyfish.png",
+          "script": "/Effects/FlyingVehicle/Astral%20Jellyfish.zip"
+        }
+      ]
+    }
+  ]
+}

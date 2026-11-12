@@ -1,0 +1,49 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "granger-astrocat",
+      "portrait_file": "Granger - Astrocat.png",
+      "script_file": "Granger-Astrocat.zip",
+      "skin_name": "Astrocat",
+      "splash_file": "Granger - Astrocat.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Memes & Novelty"
+    },
+    {
+      "enabled": true,
+      "id": "granger-dimension-walker",
+      "portrait_file": "Granger - Dimension Walker.png",
+      "script_file": "Granger-Dimension-Walker.zip",
+      "skin_name": "Dimension Walker",
+      "splash_file": "Granger - Dimension Walker.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "granger-metro-zero",
+      "portrait_file": "Granger - Metro Zero.png",
+      "script_file": "Granger-Metro-Zero.zip",
+      "skin_name": "Metro Zero",
+      "splash_file": "Granger - Metro Zero.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 79,
+    "name": "Granger",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "granger"
+  },
+  "release_tag": "custom-granger",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

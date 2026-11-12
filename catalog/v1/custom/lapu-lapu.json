@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "lapu-lapu-summer",
+      "portrait_file": "Lapu-Lapu - Summer.png",
+      "script_file": "Lapu-Lapu-Summer.zip",
+      "skin_name": "Summer",
+      "splash_file": "Lapu-Lapu - Summer.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 37,
+    "name": "Lapu-Lapu",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "lapu-lapu"
+  },
+  "release_tag": "custom-lapu-lapu",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

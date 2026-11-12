@@ -1,0 +1,28 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "mathilda-neobeast",
+      "portrait_file": "Mathilda - Neobeast.png",
+      "script_file": "Mathilda-Neobeast.zip",
+      "skin_name": "Neobeast",
+      "splash_file": "Mathilda - Neobeast.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 102,
+    "name": "Mathilda",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "slug": "mathilda"
+  },
+  "release_tag": "custom-mathilda",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

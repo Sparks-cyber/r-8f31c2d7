@@ -1,0 +1,365 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Lylia",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "School Idol",
+      "Splash_url": "Lylia-School-Idol.png",
+      "script": "Lylia-School-Idol-Backup.zip",
+      "Portrait_url": "Lylia-School-Idol.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Star Student",
+          "Portrait_url": "Lylia-Star-Student.png",
+          "Splash_url": "Lylia-Star-Student.png",
+          "script": "Lylia-School-Idol-Star-Student.zip"
+        },
+        {
+          "name": "Future Star",
+          "Portrait_url": "Lylia-Future-Star.png",
+          "Splash_url": "Lylia-Future-Star.png",
+          "script": "Lylia-School-Idol-Future-Star.zip"
+        },
+        {
+          "name": "Haunted Doll",
+          "Portrait_url": "Lylia-Haunted-Doll.png",
+          "Splash_url": "Lylia-Haunted-Doll.png",
+          "script": "Lylia-School-Idol-Haunted-Doll.zip"
+        },
+        {
+          "name": "Neobeast Lylia",
+          "Portrait_url": "Lylia-Neobeast-Lylia.png",
+          "Splash_url": "Lylia-Neobeast-Lylia.png",
+          "script": "Lylia-School-Idol-Neobeast-Lylia.zip"
+        },
+        {
+          "name": "Magitech Arsenal",
+          "Portrait_url": "Lylia-Magitech-Arsenal.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-School-Idol-Magitech-Arsenal.zip"
+        },
+        {
+          "name": "Witchcrafter",
+          "Portrait_url": "Lylia-Witchcrafter.png",
+          "Splash_url": "Lylia - Witchcrafter.jpg",
+          "script": "Lylia-School-Idol-Witchcrafter.zip"
+        },
+        {
+          "name": "Magitech Blaster Painted 01",
+          "Portrait_url": "Lylia-Magitech-Blaster.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-School-Idol-Magitech-Blaster-Painted-01.zip"
+        },
+        {
+          "name": "Magitech Ordnance",
+          "Portrait_url": "Lylia-Magitech-Ordnance.png",
+          "Splash_url": "Lylia - Magitech Ordnance.jpg",
+          "script": "Lylia-School-Idol-Magitech-Ordnance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Star Student",
+      "Splash_url": "Lylia-Star-Student.png",
+      "script": "Lylia-Star-Student-Backup.zip",
+      "Portrait_url": "Lylia-Star-Student.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "School Idol",
+          "Portrait_url": "Lylia-School-Idol.png",
+          "Splash_url": "Lylia-School-Idol.png",
+          "script": "Lylia-Star-Student-School-Idol.zip"
+        },
+        {
+          "name": "Future Star",
+          "Portrait_url": "Lylia-Future-Star.png",
+          "Splash_url": "Lylia-Future-Star.png",
+          "script": "Lylia-Star-Student-Future-Star.zip"
+        },
+        {
+          "name": "Haunted Doll",
+          "Portrait_url": "Lylia-Haunted-Doll.png",
+          "Splash_url": "Lylia-Haunted-Doll.png",
+          "script": "Lylia-Star-Student-Haunted-Doll.zip"
+        },
+        {
+          "name": "Neobeast Lylia",
+          "Portrait_url": "Lylia-Neobeast-Lylia.png",
+          "Splash_url": "Lylia-Neobeast-Lylia.png",
+          "script": "Lylia-Star-Student-Neobeast-Lylia.zip"
+        },
+        {
+          "name": "Magitech Arsenal",
+          "Portrait_url": "Lylia-Magitech-Arsenal.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Star-Student-Magitech-Arsenal.zip"
+        },
+        {
+          "name": "Magitech Blaster Painted 01",
+          "Portrait_url": "Lylia-Magitech-Blaster.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Star-Student-Magitech-Blaster-Painted-01.zip"
+        },
+        {
+          "name": "Magitech Ordnance",
+          "Portrait_url": "Lylia-Magitech-Ordnance.png",
+          "Splash_url": "Lylia - Magitech Ordnance.jpg",
+          "script": "Lylia-Star-Student-Magitech-Ordnance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Future Star",
+      "Splash_url": "Lylia-Future-Star.png",
+      "script": "Lylia-Future-Star-Backup.zip",
+      "Portrait_url": "Lylia-Future-Star.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "School Idol",
+          "Portrait_url": "Lylia-School-Idol.png",
+          "Splash_url": "Lylia-School-Idol.png",
+          "script": "Lylia-Future-Star-School-Idol.zip"
+        },
+        {
+          "name": "Star Student",
+          "Portrait_url": "Lylia-Star-Student.png",
+          "Splash_url": "Lylia-Star-Student.png",
+          "script": "Lylia-Future-Star-Star-Student.zip"
+        },
+        {
+          "name": "Neobeast Lylia",
+          "Portrait_url": "Lylia-Neobeast-Lylia.png",
+          "Splash_url": "Lylia-Neobeast-Lylia.png",
+          "script": "Lylia-Future-Star-Neobeast-Lylia.zip"
+        },
+        {
+          "name": "Magitech Arsenal",
+          "Portrait_url": "Lylia-Magitech-Arsenal.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Future-Star-Magitech-Arsenal.zip"
+        },
+        {
+          "name": "Witchcrafter",
+          "Portrait_url": "Lylia-Witchcrafter.png",
+          "Splash_url": "Lylia - Witchcrafter.jpg",
+          "script": "Lylia-Future-Star-Witchcrafter.zip"
+        },
+        {
+          "name": "Magitech Blaster Painted 01",
+          "Portrait_url": "Lylia-Magitech-Blaster.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Future-Star-Magitech-Blaster-Painted-01.zip"
+        },
+        {
+          "name": "Magitech Ordnance",
+          "Portrait_url": "Lylia-Magitech-Ordnance.png",
+          "Splash_url": "Lylia - Magitech Ordnance.jpg",
+          "script": "Lylia-Future-Star-Magitech-Ordnance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Haunted Doll",
+      "Splash_url": "Lylia-Haunted-Doll.png",
+      "script": "Lylia-Haunted-Doll-Backup.zip",
+      "Portrait_url": "Lylia-Haunted-Doll.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "School Idol",
+          "Portrait_url": "Lylia-School-Idol.png",
+          "Splash_url": "Lylia-School-Idol.png",
+          "script": "Lylia-Haunted-Doll-School-Idol.zip"
+        },
+        {
+          "name": "Star Student",
+          "Portrait_url": "Lylia-Star-Student.png",
+          "Splash_url": "Lylia-Star-Student.png",
+          "script": "Lylia-Haunted-Doll-Star-Student.zip"
+        },
+        {
+          "name": "Future Star",
+          "Portrait_url": "Lylia-Future-Star.png",
+          "Splash_url": "Lylia-Future-Star.png",
+          "script": "Lylia-Haunted-Doll-Future-Star.zip"
+        },
+        {
+          "name": "Neobeast Lylia",
+          "Portrait_url": "Lylia-Neobeast-Lylia.png",
+          "Splash_url": "Lylia-Neobeast-Lylia.png",
+          "script": "Lylia-Haunted-Doll-Neobeast-Lylia.zip"
+        },
+        {
+          "name": "Magitech Arsenal",
+          "Portrait_url": "Lylia-Magitech-Arsenal.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Haunted-Doll-Magitech-Arsenal.zip"
+        },
+        {
+          "name": "Witchcrafter",
+          "Portrait_url": "Lylia-Witchcrafter.png",
+          "Splash_url": "Lylia - Witchcrafter.jpg",
+          "script": "Lylia-Haunted-Doll-Witchcrafter.zip"
+        },
+        {
+          "name": "Magitech Blaster Painted 01",
+          "Portrait_url": "Lylia-Magitech-Blaster.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Haunted-Doll-Magitech-Blaster-Painted-01.zip"
+        },
+        {
+          "name": "Magitech Ordnance",
+          "Portrait_url": "Lylia-Magitech-Ordnance.png",
+          "Splash_url": "Lylia - Magitech Ordnance.jpg",
+          "script": "Lylia-Haunted-Doll-Magitech-Ordnance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Neobeast",
+      "Default_name": "Neobeast Lylia",
+      "Splash_url": "Lylia-Neobeast-Lylia.png",
+      "script": "Lylia-Neobeast-Lylia-Backup.zip",
+      "Portrait_url": "Lylia-Neobeast-Lylia.png",
+      "Tags": [
+        "NeoBeasts.png"
+      ],
+      "targets": [
+        {
+          "name": "School Idol",
+          "Portrait_url": "Lylia-School-Idol.png",
+          "Splash_url": "Lylia-School-Idol.png",
+          "script": "Lylia-Neobeast-Lylia-School-Idol.zip"
+        },
+        {
+          "name": "Star Student",
+          "Portrait_url": "Lylia-Star-Student.png",
+          "Splash_url": "Lylia-Star-Student.png",
+          "script": "Lylia-Neobeast-Lylia-Star-Student.zip"
+        },
+        {
+          "name": "Future Star",
+          "Portrait_url": "Lylia-Future-Star.png",
+          "Splash_url": "Lylia-Future-Star.png",
+          "script": "Lylia-Neobeast-Lylia-Future-Star.zip"
+        },
+        {
+          "name": "Haunted Doll",
+          "Portrait_url": "Lylia-Haunted-Doll.png",
+          "Splash_url": "Lylia-Haunted-Doll.png",
+          "script": "Lylia-Neobeast-Lylia-Haunted-Doll.zip"
+        },
+        {
+          "name": "Witchcrafter",
+          "Portrait_url": "Lylia-Witchcrafter.png",
+          "Splash_url": "Lylia - Witchcrafter.jpg",
+          "script": "Lylia-Neobeast-Lylia-Witchcrafter.zip"
+        },
+        {
+          "name": "Magitech Blaster Painted 01",
+          "Portrait_url": "Lylia-Magitech-Blaster.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Neobeast-Lylia-Magitech-Blaster-Painted-01.zip"
+        },
+        {
+          "name": "Magitech Ordnance",
+          "Portrait_url": "Lylia-Magitech-Ordnance.png",
+          "Splash_url": "Lylia - Magitech Ordnance.jpg",
+          "script": "Lylia-Neobeast-Lylia-Magitech-Ordnance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Magitech Arsenal",
+      "Splash_url": "Lylia-Magitech-Arsenal.png",
+      "script": "Lylia-Magitech-Arsenal-Backup.zip",
+      "Portrait_url": "Lylia-Magitech-Arsenal.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "School Idol",
+          "Portrait_url": "Lylia-School-Idol.png",
+          "Splash_url": "Lylia-School-Idol.png",
+          "script": "Lylia-Magitech-Arsenal-School-Idol.zip"
+        },
+        {
+          "name": "Star Student",
+          "Portrait_url": "Lylia-Star-Student.png",
+          "Splash_url": "Lylia-Star-Student.png",
+          "script": "Lylia-Magitech-Arsenal-Star-Student.zip"
+        },
+        {
+          "name": "Future Star",
+          "Portrait_url": "Lylia-Future-Star.png",
+          "Splash_url": "Lylia-Future-Star.png",
+          "script": "Lylia-Magitech-Arsenal-Future-Star.zip"
+        },
+        {
+          "name": "Haunted Doll",
+          "Portrait_url": "Lylia-Haunted-Doll.png",
+          "Splash_url": "Lylia-Haunted-Doll.png",
+          "script": "Lylia-Magitech-Arsenal-Haunted-Doll.zip"
+        },
+        {
+          "name": "Neobeast Lylia",
+          "Portrait_url": "Lylia-Neobeast-Lylia.png",
+          "Splash_url": "Lylia-Neobeast-Lylia.png",
+          "script": "Lylia-Magitech-Arsenal-Neobeast-Lylia.zip"
+        },
+        {
+          "name": "Witchcrafter",
+          "Portrait_url": "Lylia-Witchcrafter.png",
+          "Splash_url": "Lylia - Witchcrafter.jpg",
+          "script": "Lylia-Magitech-Arsenal-Witchcrafter.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Magitech Blaster Skin 08",
+      "Splash_url": "Lylia-Magitech-Blaster.png",
+      "script": "Lylia-Magitech-Blaster-Skin-08-Backup.zip",
+      "Portrait_url": "Lylia-Magitech-Blaster.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Witchcrafter",
+          "Portrait_url": "Lylia-Witchcrafter.png",
+          "Splash_url": "Lylia - Witchcrafter.jpg",
+          "script": "Lylia-Magitech-Blaster-Skin-08-Witchcrafter.zip"
+        },
+        {
+          "name": "Magitech Blaster Painted 01",
+          "Portrait_url": "Lylia-Magitech-Blaster.png",
+          "Splash_url": "Lylia-Magitech-Arsenal.png",
+          "script": "Lylia-Magitech-Blaster-Skin-08-Magitech-Blaster-Painted-01.zip"
+        },
+        {
+          "name": "Magitech Ordnance",
+          "Portrait_url": "Lylia-Magitech-Ordnance.png",
+          "Splash_url": "Lylia - Magitech Ordnance.jpg",
+          "script": "Lylia-Magitech-Blaster-Skin-08-Magitech-Ordnance.zip"
+        }
+      ]
+    }
+  ]
+}

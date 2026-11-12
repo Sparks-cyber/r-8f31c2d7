@@ -1,0 +1,287 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Argus",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Light of Dawn",
+      "Splash_url": "Argus-Light-of-Dawn.png",
+      "script": "Argus-Light-of-Dawn-Backup.zip",
+      "Portrait_url": "Argus-Light-of-Dawn.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Dark Draconic",
+          "Portrait_url": "Argus-Dark-Draconic.png",
+          "Splash_url": "Argus-Dark-Draconic.png",
+          "script": "Argus-Light-of-Dawn-Dark-Draconic.zip"
+        },
+        {
+          "name": "Catastrophe",
+          "Portrait_url": "Argus-Catastrophe.png",
+          "Splash_url": "Argus-Catastrophe.png",
+          "script": "Argus-Light-of-Dawn-Catastrophe.zip"
+        },
+        {
+          "name": "Darth Vader",
+          "Portrait_url": "Argus-Darth-Vader.png",
+          "Splash_url": "Argus-Darth-Vader.png",
+          "script": "Argus-Light-of-Dawn-Darth-Vader.zip"
+        },
+        {
+          "name": "Winged Nightmare",
+          "Portrait_url": "Argus-Winged-Nightmare.png",
+          "Splash_url": "Argus-Winged-Nightmare.png",
+          "script": "Argus-Light-of-Dawn-Winged-Nightmare.zip"
+        },
+        {
+          "name": "Raiden Maru",
+          "Portrait_url": "Argus-Raiden-Maru.png",
+          "Splash_url": "Argus-Raiden-Maru.png",
+          "script": "Argus-Light-of-Dawn-Raiden-Maru.zip"
+        },
+        {
+          "name": "Malediction",
+          "Portrait_url": "Argus-Malediction.png",
+          "Splash_url": "Argus - Malediction.jpg",
+          "script": "Argus-Light-of-Dawn-Malediction.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dark Draconic",
+      "Splash_url": "Argus-Dark-Draconic.png",
+      "script": "Argus-Dark-Draconic-Backup.zip",
+      "Portrait_url": "Argus-Dark-Draconic.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Light of Dawn",
+          "Portrait_url": "Argus-Light-of-Dawn.png",
+          "Splash_url": "Argus-Light-of-Dawn.png",
+          "script": "Argus-Dark-Draconic-Light-of-Dawn.zip"
+        },
+        {
+          "name": "Catastrophe",
+          "Portrait_url": "Argus-Catastrophe.png",
+          "Splash_url": "Argus-Catastrophe.png",
+          "script": "Argus-Dark-Draconic-Catastrophe.zip"
+        },
+        {
+          "name": "Darth Vader",
+          "Portrait_url": "Argus-Darth-Vader.png",
+          "Splash_url": "Argus-Darth-Vader.png",
+          "script": "Argus-Dark-Draconic-Darth-Vader.zip"
+        },
+        {
+          "name": "Winged Nightmare",
+          "Portrait_url": "Argus-Winged-Nightmare.png",
+          "Splash_url": "Argus-Winged-Nightmare.png",
+          "script": "Argus-Dark-Draconic-Winged-Nightmare.zip"
+        },
+        {
+          "name": "Raiden Maru",
+          "Portrait_url": "Argus-Raiden-Maru.png",
+          "Splash_url": "Argus-Raiden-Maru.png",
+          "script": "Argus-Dark-Draconic-Raiden-Maru.zip"
+        },
+        {
+          "name": "Malediction",
+          "Portrait_url": "Argus-Malediction.png",
+          "Splash_url": "Argus - Malediction.jpg",
+          "script": "Argus-Dark-Draconic-Malediction.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Catastrophe",
+      "Splash_url": "Argus-Catastrophe.png",
+      "script": "Argus-Catastrophe-Backup.zip",
+      "Portrait_url": "Argus-Catastrophe.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Light of Dawn",
+          "Portrait_url": "Argus-Light-of-Dawn.png",
+          "Splash_url": "Argus-Light-of-Dawn.png",
+          "script": "Argus-Catastrophe-Light-of-Dawn.zip"
+        },
+        {
+          "name": "Dark Draconic",
+          "Portrait_url": "Argus-Dark-Draconic.png",
+          "Splash_url": "Argus-Dark-Draconic.png",
+          "script": "Argus-Catastrophe-Dark-Draconic.zip"
+        },
+        {
+          "name": "Darth Vader",
+          "Portrait_url": "Argus-Darth-Vader.png",
+          "Splash_url": "Argus-Darth-Vader.png",
+          "script": "Argus-Catastrophe-Darth-Vader.zip"
+        },
+        {
+          "name": "Winged Nightmare",
+          "Portrait_url": "Argus-Winged-Nightmare.png",
+          "Splash_url": "Argus-Winged-Nightmare.png",
+          "script": "Argus-Catastrophe-Winged-Nightmare.zip"
+        },
+        {
+          "name": "Raiden Maru",
+          "Portrait_url": "Argus-Raiden-Maru.png",
+          "Splash_url": "Argus-Raiden-Maru.png",
+          "script": "Argus-Catastrophe-Raiden-Maru.zip"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "Default_name": "Darth Vader",
+      "Splash_url": "Argus-Darth-Vader.png",
+      "script": "Argus-Darth-Vader-Backup.zip",
+      "Portrait_url": "Argus-Darth-Vader.png",
+      "Tags": [
+        "Star Wars.png"
+      ],
+      "targets": [
+        {
+          "name": "Light of Dawn",
+          "Portrait_url": "Argus-Light-of-Dawn.png",
+          "Splash_url": "Argus-Light-of-Dawn.png",
+          "script": "Argus-Darth-Vader-Light-of-Dawn.zip"
+        },
+        {
+          "name": "Dark Draconic",
+          "Portrait_url": "Argus-Dark-Draconic.png",
+          "Splash_url": "Argus-Dark-Draconic.png",
+          "script": "Argus-Darth-Vader-Dark-Draconic.zip"
+        },
+        {
+          "name": "Catastrophe",
+          "Portrait_url": "Argus-Catastrophe.png",
+          "Splash_url": "Argus-Catastrophe.png",
+          "script": "Argus-Darth-Vader-Catastrophe.zip"
+        },
+        {
+          "name": "Winged Nightmare",
+          "Portrait_url": "Argus-Winged-Nightmare.png",
+          "Splash_url": "Argus-Winged-Nightmare.png",
+          "script": "Argus-Darth-Vader-Winged-Nightmare.zip"
+        },
+        {
+          "name": "Raiden Maru",
+          "Portrait_url": "Argus-Raiden-Maru.png",
+          "Splash_url": "Argus-Raiden-Maru.png",
+          "script": "Argus-Darth-Vader-Raiden-Maru.zip"
+        },
+        {
+          "name": "Malediction",
+          "Portrait_url": "Argus-Malediction.png",
+          "Splash_url": "Argus - Malediction.jpg",
+          "script": "Argus-Darth-Vader-Malediction.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Winged Nightmare",
+      "Splash_url": "Argus-Winged-Nightmare.png",
+      "script": "Argus-Winged-Nightmare-Backup.zip",
+      "Portrait_url": "Argus-Winged-Nightmare.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Light of Dawn",
+          "Portrait_url": "Argus-Light-of-Dawn.png",
+          "Splash_url": "Argus-Light-of-Dawn.png",
+          "script": "Argus-Winged-Nightmare-Light-of-Dawn.zip"
+        },
+        {
+          "name": "Dark Draconic",
+          "Portrait_url": "Argus-Dark-Draconic.png",
+          "Splash_url": "Argus-Dark-Draconic.png",
+          "script": "Argus-Winged-Nightmare-Dark-Draconic.zip"
+        },
+        {
+          "name": "Catastrophe",
+          "Portrait_url": "Argus-Catastrophe.png",
+          "Splash_url": "Argus-Catastrophe.png",
+          "script": "Argus-Winged-Nightmare-Catastrophe.zip"
+        },
+        {
+          "name": "Darth Vader",
+          "Portrait_url": "Argus-Darth-Vader.png",
+          "Splash_url": "Argus-Darth-Vader.png",
+          "script": "Argus-Winged-Nightmare-Darth-Vader.zip"
+        },
+        {
+          "name": "Raiden Maru",
+          "Portrait_url": "Argus-Raiden-Maru.png",
+          "Splash_url": "Argus-Raiden-Maru.png",
+          "script": "Argus-Winged-Nightmare-Raiden-Maru.zip"
+        },
+        {
+          "name": "Malediction",
+          "Portrait_url": "Argus-Malediction.png",
+          "Splash_url": "Argus - Malediction.jpg",
+          "script": "Argus-Winged-Nightmare-Malediction.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Raiden Maru",
+      "Splash_url": "Argus-Raiden-Maru.png",
+      "script": "Argus-Raiden-Maru-Backup.zip",
+      "Portrait_url": "Argus-Raiden-Maru.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Light of Dawn",
+          "Portrait_url": "Argus-Light-of-Dawn.png",
+          "Splash_url": "Argus-Light-of-Dawn.png",
+          "script": "Argus-Raiden-Maru-Light-of-Dawn.zip"
+        },
+        {
+          "name": "Dark Draconic",
+          "Portrait_url": "Argus-Dark-Draconic.png",
+          "Splash_url": "Argus-Dark-Draconic.png",
+          "script": "Argus-Raiden-Maru-Dark-Draconic.zip"
+        },
+        {
+          "name": "Catastrophe",
+          "Portrait_url": "Argus-Catastrophe.png",
+          "Splash_url": "Argus-Catastrophe.png",
+          "script": "Argus-Raiden-Maru-Catastrophe.zip"
+        },
+        {
+          "name": "Darth Vader",
+          "Portrait_url": "Argus-Darth-Vader.png",
+          "Splash_url": "Argus-Darth-Vader.png",
+          "script": "Argus-Raiden-Maru-Darth-Vader.zip"
+        },
+        {
+          "name": "Winged Nightmare",
+          "Portrait_url": "Argus-Winged-Nightmare.png",
+          "Splash_url": "Argus-Winged-Nightmare.png",
+          "script": "Argus-Raiden-Maru-Winged-Nightmare.zip"
+        },
+        {
+          "name": "Malediction",
+          "Portrait_url": "Argus-Malediction.png",
+          "Splash_url": "Argus - Malediction.jpg",
+          "script": "Argus-Raiden-Maru-Malediction.zip"
+        }
+      ]
+    }
+  ]
+}

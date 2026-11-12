@@ -1,0 +1,181 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Hylos",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Abyssal Shaman",
+      "Splash_url": "Hylos-Abyssal-Shaman.png",
+      "script": "Hylos-Abyssal-Shaman-Backup.zip",
+      "Portrait_url": "Hylos-Abyssal-Shaman.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Phantom Seer",
+          "Portrait_url": "Hylos-Phantom-Seer.png",
+          "Splash_url": "Hylos-Phantom-Seer.png",
+          "script": "Hylos-Abyssal-Shaman-Phantom-Seer.zip"
+        },
+        {
+          "name": "Jungle Watcher",
+          "Portrait_url": "Hylos-Jungle-Watcher.png",
+          "Splash_url": "Hylos-Jungle-Watcher.png",
+          "script": "Hylos-Abyssal-Shaman-Jungle-Watcher.zip"
+        },
+        {
+          "name": "Iron Steed",
+          "Portrait_url": "Hylos-Iron-Steed.png",
+          "Splash_url": "Hylos-Iron-Steed.png",
+          "script": "Hylos-Abyssal-Shaman-Iron-Steed.zip"
+        },
+        {
+          "name": "Bloodhoof Marauder",
+          "Portrait_url": "Hylos-Bloodhoof-Marauder.png",
+          "Splash_url": "Hylos-Bloodhoof-Marauder.png",
+          "script": "Hylos-Abyssal-Shaman-Bloodhoof-Marauder.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Phantom Seer",
+      "Splash_url": "Hylos-Phantom-Seer.png",
+      "script": "Hylos-Phantom-Seer-Backup.zip",
+      "Portrait_url": "Hylos-Phantom-Seer.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyssal Shaman",
+          "Portrait_url": "Hylos-Abyssal-Shaman.png",
+          "Splash_url": "Hylos-Abyssal-Shaman.png",
+          "script": "Hylos-Phantom-Seer-Abyssal-Shaman.zip"
+        },
+        {
+          "name": "Jungle Watcher",
+          "Portrait_url": "Hylos-Jungle-Watcher.png",
+          "Splash_url": "Hylos-Jungle-Watcher.png",
+          "script": "Hylos-Phantom-Seer-Jungle-Watcher.zip"
+        },
+        {
+          "name": "Iron Steed",
+          "Portrait_url": "Hylos-Iron-Steed.png",
+          "Splash_url": "Hylos-Iron-Steed.png",
+          "script": "Hylos-Phantom-Seer-Iron-Steed.zip"
+        },
+        {
+          "name": "Bloodhoof Marauder",
+          "Portrait_url": "Hylos-Bloodhoof-Marauder.png",
+          "Splash_url": "Hylos-Bloodhoof-Marauder.png",
+          "script": "Hylos-Phantom-Seer-Bloodhoof-Marauder.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Jungle Watcher",
+      "Splash_url": "Hylos-Jungle-Watcher.png",
+      "script": "Hylos-Jungle-Watcher-Backup.zip",
+      "Portrait_url": "Hylos-Jungle-Watcher.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyssal Shaman",
+          "Portrait_url": "Hylos-Abyssal-Shaman.png",
+          "Splash_url": "Hylos-Abyssal-Shaman.png",
+          "script": "Hylos-Jungle-Watcher-Abyssal-Shaman.zip"
+        },
+        {
+          "name": "Phantom Seer",
+          "Portrait_url": "Hylos-Phantom-Seer.png",
+          "Splash_url": "Hylos-Phantom-Seer.png",
+          "script": "Hylos-Jungle-Watcher-Phantom-Seer.zip"
+        },
+        {
+          "name": "Iron Steed",
+          "Portrait_url": "Hylos-Iron-Steed.png",
+          "Splash_url": "Hylos-Iron-Steed.png",
+          "script": "Hylos-Jungle-Watcher-Iron-Steed.zip"
+        },
+        {
+          "name": "Bloodhoof Marauder",
+          "Portrait_url": "Hylos-Bloodhoof-Marauder.png",
+          "Splash_url": "Hylos-Bloodhoof-Marauder.png",
+          "script": "Hylos-Jungle-Watcher-Bloodhoof-Marauder.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Iron Steed",
+      "Splash_url": "Hylos-Iron-Steed.png",
+      "script": "Hylos-Iron-Steed-Backup.zip",
+      "Portrait_url": "Hylos-Iron-Steed.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyssal Shaman",
+          "Portrait_url": "Hylos-Abyssal-Shaman.png",
+          "Splash_url": "Hylos-Abyssal-Shaman.png",
+          "script": "Hylos-Iron-Steed-Abyssal-Shaman.zip"
+        },
+        {
+          "name": "Phantom Seer",
+          "Portrait_url": "Hylos-Phantom-Seer.png",
+          "Splash_url": "Hylos-Phantom-Seer.png",
+          "script": "Hylos-Iron-Steed-Phantom-Seer.zip"
+        },
+        {
+          "name": "Jungle Watcher",
+          "Portrait_url": "Hylos-Jungle-Watcher.png",
+          "Splash_url": "Hylos-Jungle-Watcher.png",
+          "script": "Hylos-Iron-Steed-Jungle-Watcher.zip"
+        },
+        {
+          "name": "Bloodhoof Marauder",
+          "Portrait_url": "Hylos-Bloodhoof-Marauder.png",
+          "Splash_url": "Hylos-Bloodhoof-Marauder.png",
+          "script": "Hylos-Iron-Steed-Bloodhoof-Marauder.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Bloodhoof Marauder",
+      "Splash_url": "Hylos-Bloodhoof-Marauder.png",
+      "script": "Hylos-Bloodhoof-Marauder-Backup.zip",
+      "Portrait_url": "Hylos-Bloodhoof-Marauder.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyssal Shaman",
+          "Portrait_url": "Hylos-Abyssal-Shaman.png",
+          "Splash_url": "Hylos-Abyssal-Shaman.png",
+          "script": "Hylos-Bloodhoof-Marauder-Abyssal-Shaman.zip"
+        },
+        {
+          "name": "Jungle Watcher",
+          "Portrait_url": "Hylos-Jungle-Watcher.png",
+          "Splash_url": "Hylos-Jungle-Watcher.png",
+          "script": "Hylos-Bloodhoof-Marauder-Jungle-Watcher.zip"
+        },
+        {
+          "name": "Iron Steed",
+          "Portrait_url": "Hylos-Iron-Steed.png",
+          "Splash_url": "Hylos-Iron-Steed.png",
+          "script": "Hylos-Bloodhoof-Marauder-Iron-Steed.zip"
+        }
+      ]
+    }
+  ]
+}

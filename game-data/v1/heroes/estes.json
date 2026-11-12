@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 34,
+    "slug": "estes",
+    "name": "Estes",
+    "skin_name": "Moon Elf King",
+    "roles": [
+      "Support"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Regen",
+      "Guard"
+    ],
+    "region": "Azrya Woodlands",
+    "release_date": "2017",
+    "resource": "Mana",
+    "short_description": "Elf King who rules the Moon Elves.",
+    "brief": "The Elf King who ruled the Moon Elves fell into a deep sleep after contracting a serious injury of the Second Plane War. When the Moon Elves were once again in imminent danger because of the awakening of the Abyss, he woke up early on a night of lightning and thunder.",
+    "story": "At the habitat of the moon elves, somewhere west of the Moonlake, lies the legendary Emerald Woodland, which was the birthplace of the first generation of elves. Every elven king was born in the Tree of Life at the center of the Emerald Woodland.\n\nThe elven king of the current generation is the unique Estes, who was badly hurt during the second plain war and had to go into deep sleep in the Emerald Woodland. Moon elves lost the guidance from their king ever since that day. When the flames of wars between humans and orcs burned on this peaceful woodland, the young Moonlight Archer, Miya, stood up and gathered the rest of the elves to protect their homeland.\n\nHowever, the dominator of dark Abyss is thirsty for more believers and the dark force has been growing stronger in secret. Seduced by the Blood Queen, Alice, some young elves have fallen. The race of moon elves was once again at stake which outraged the great elven king! During a night of great thunder and lightning, Estes woke up. He's strict but benevolent, and empowered with the strength by the sacred moonlight to protect his people and to support his allies. With the Code of Moonlight in his hands, he swore to repel every enemy who dares to violate his homeland.",
+    "recommended_skill_order": "3-1-2-0-1/2"
+  },
+  "ratings": {
+    "durability": 7,
+    "offense": 1,
+    "control": 2,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 135,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 120,
+    "physical_attack_growth": 7.21,
+    "magic_power": 0,
+    "physical_defense": 13,
+    "physical_defense_growth": 3.7143,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.7
+  },
+  "abilities": [
+    {
+      "id": "Estes0",
+      "name": "Scripture of the Moon Elf",
+      "description": "Scripture of the Moon Elf slowly charges Estes with energy. When the energy reaches 100 stacks, Estes' next Basic Attack will become enhanced, dealing 250<scaleAD> (+100% Total Physical Attack)</scaleAD> <scaleAP>(+150% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the target and 125<scaleAD> (+50% Total Physical Attack)</scaleAD> <scaleAP>(+75% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies, and slowing them by 60% for 1.5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb30f512750394ac949651d801d92f0.png",
+      "video_url": null
+    },
+    {
+      "id": "Estes1",
+      "name": "Moonlight Immersion",
+      "description": "Estes recovers 200/225/250/275/300/325<scaleAP> (+110% Total Magic Power)</scaleAP> HP for the target allied hero immediately and links himself with them for 5s. While linked, both heroes gain 15<scaleAP> (+10% Total Magic Power)</scaleAP> Hybrid Defense, and the target slowly recovers 360/405/450/495/540/585<scaleAP> (+90% Total Magic Power)</scaleAP> HP. Linking with an allied hero increases Estes' Movement Speed by 15%, as well as the energy charging speed of the Scripture of the Moon Elf.<br/><br/>Being too far from the target will break the link.",
+      "flavor_text": null,
+      "cost": "60/72/84/96/108/120",
+      "cooldown": "11/10.5/10/9.5/9/8.5",
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f5b04cea7f95a5fd378699c764f39384.png",
+      "video_url": null
+    },
+    {
+      "id": "Estes2",
+      "name": "Domain of Moon Goddess",
+      "description": "Estes drops a flood of moonlight on the target area, dealing 350/400/450/500/550/600<scaleAP> (+70% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemy units within it. Afterwards, it turns to a domain of the Moon Goddess and reveals enemies inside it. Enemies will be slowed by 90% for 1.5s if they touch the edge of the domain area. (The slow effect will decay over time.)",
+      "flavor_text": null,
+      "cost": "80/85/90/95/100/105",
+      "cooldown": "12/11.5/11/10.5/10/9.5",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_207a8204b952f50031ad3ca3c6abea42.png",
+      "video_url": null
+    },
+    {
+      "id": "Estes3",
+      "name": "Blessing of Moon Goddess",
+      "description": "Estes casts an enhanced <highlight>\"Moonlight Immersion\"</highlight> on himself and all nearby allied heroes, refreshing  <highlight>\"Moonlight Immersion\"</highlight> on them and enhancing it for 8s.<br><br>Enhanced <highlight>\"Moonlight Immersion\"</highlight>: Doubles the Instant Basic Healing and Hybrid Defense Increase, and heals the target for 1020/1260/1500<scaleAP> (+225% Total Magic Power)</scaleAP> HP over time.",
+      "flavor_text": null,
+      "cost": "140/170/200",
+      "cooldown": "55/50/45",
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bc801eaf911ceb696997fbe43105440.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Estes0",
+      "sequence": "Estes2-Estes3-Estes1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Estes should use his 2nd Skill to slow down the enemy team, then heal his teammates with his Ultimate and 1st Skill."
+    },
+    {
+      "id": "Estes1",
+      "sequence": "Estes2-Estes1",
+      "name": "LANING COMBOS",
+      "description": "Estes can use his 2nd Skill to slow down and poke enemies, and heal allies with his 1st Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Estes works best with typical Marksman heroes, his healing will allow them to deal more damage. Heroes like Lesley and Hanabi are good examples here.",
+      "heroes": [
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        },
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Estes counters heroes with no burst damage, he can easily heal through minor damages from heroes like Faramis and Alice.",
+      "heroes": [
+        {
+          "id": 57,
+          "slug": "valir",
+          "name": "Valir"
+        },
+        {
+          "id": 4,
+          "slug": "alice",
+          "name": "Alice"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Estes is countered by heroes with high burst damage. Heroes like Saber and Eudora can easily burst down Estes or the hero he protects in a few seconds.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Estes-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Estes-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_137acad8cd747ef9d0dec755158aff18.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_137acad8cd747ef9d0dec755158aff18.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/estes.json",
+    "visual_catalog": "catalog/v1/visual/estes.json",
+    "upgrade_catalog": "catalog/v1/upgrade/estes.json"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Phoveus",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Monolith Watcher",
+      "Splash_url": "Phoveus-Monolith-Watcher.png",
+      "script": "Phoveus-Monolith-Watcher-Backup.zip",
+      "Portrait_url": "Phoveus-Monolith-Watcher.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Matrix Maverick",
+          "Portrait_url": "Phoveus-Matrix-Maverick.png",
+          "Splash_url": "Phoveus-Matrix-Maverick.png",
+          "script": "Phoveus-Monolith-Watcher-Matrix-Maverick.zip"
+        },
+        {
+          "name": "Matrix Raider",
+          "Portrait_url": "Phoveus-Matrix-Raider.png",
+          "Splash_url": "Phoveus - Matrix Raider.jpg",
+          "script": "Phoveus-Monolith-Watcher-Matrix-Raider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Matrix Maverick",
+      "Splash_url": "Phoveus-Matrix-Maverick.png",
+      "script": "Phoveus-Matrix-Maverick-Backup.zip",
+      "Portrait_url": "Phoveus-Matrix-Maverick.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Monolith Watcher",
+          "Portrait_url": "Phoveus-Monolith-Watcher.png",
+          "Splash_url": "Phoveus-Monolith-Watcher.png",
+          "script": "Phoveus-Matrix-Maverick-Monolith-Watcher.zip"
+        }
+      ]
+    }
+  ]
+}

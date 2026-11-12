@@ -1,0 +1,49 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "gord-iron-man",
+      "portrait_file": "Gord - Iron Man.png",
+      "script_file": "Gord-Iron-Man.zip",
+      "skin_name": "Iron Man",
+      "splash_file": "Gord - Iron Man.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "gord-ocong",
+      "portrait_file": "Gord - Ocong.png",
+      "script_file": "Gord-Ocong.zip",
+      "skin_name": "Ocong",
+      "splash_file": "Gord - Ocong.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "gord-son-goku",
+      "portrait_file": "Gord - Son Goku.png",
+      "script_file": "Gord-Son-Goku.zip",
+      "skin_name": "Son Goku",
+      "splash_file": "Gord - Son Goku.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 23,
+    "name": "Gord",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "gord"
+  },
+  "release_tag": "custom-gord",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,161 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Baxia",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Wild Totem",
+      "Splash_url": "Baxia-Wild-Totem.png",
+      "script": "Baxia-Wild-Totem-Backup.zip",
+      "Portrait_url": "Baxia-Wild-Totem.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Badass Roller",
+          "Portrait_url": "Baxia-Badass-Roller.png",
+          "Splash_url": "Baxia-Badass-Roller.png",
+          "script": "Baxia-Wild-Totem-Badass-Roller.zip"
+        },
+        {
+          "name": "Ba-tender",
+          "Portrait_url": "Baxia-Ba-tender.png",
+          "Splash_url": "Baxia-Ba-tender.png",
+          "script": "Baxia-Wild-Totem-Ba-tender.zip"
+        },
+        {
+          "name": "Black Tortoise",
+          "Portrait_url": "Baxia-Black-Tortoise.png",
+          "Splash_url": "Baxia-Black-Tortoise.png",
+          "script": "Baxia-Wild-Totem-Black-Tortoise.zip"
+        },
+        {
+          "name": "Dauntless Shield",
+          "Portrait_url": "Baxia-Dauntless-Shield.png",
+          "Splash_url": "Baxia-Dauntless-Shield.png",
+          "script": "Baxia-Wild-Totem-Dauntless-Shield.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Badass Roller",
+      "Splash_url": "Baxia-Badass-Roller.png",
+      "script": "Baxia-Badass-Roller-Backup.zip",
+      "Portrait_url": "Baxia-Badass-Roller.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Wild Totem",
+          "Portrait_url": "Baxia-Wild-Totem.png",
+          "Splash_url": "Baxia-Wild-Totem.png",
+          "script": "Baxia-Badass-Roller-Wild-Totem.zip"
+        },
+        {
+          "name": "Ba-tender",
+          "Portrait_url": "Baxia-Ba-tender.png",
+          "Splash_url": "Baxia-Ba-tender.png",
+          "script": "Baxia-Badass-Roller-Ba-tender.zip"
+        },
+        {
+          "name": "Black Tortoise",
+          "Portrait_url": "Baxia-Black-Tortoise.png",
+          "Splash_url": "Baxia-Black-Tortoise.png",
+          "script": "Baxia-Badass-Roller-Black-Tortoise.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Ba-tender",
+      "Splash_url": "Baxia-Ba-tender.png",
+      "script": "Baxia-Ba-tender-Backup.zip",
+      "Portrait_url": "Baxia-Ba-tender.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Wild Totem",
+          "Portrait_url": "Baxia-Wild-Totem.png",
+          "Splash_url": "Baxia-Wild-Totem.png",
+          "script": "Baxia-Ba-tender-Wild-Totem.zip"
+        },
+        {
+          "name": "Dauntless Shield",
+          "Portrait_url": "Baxia-Dauntless-Shield.png",
+          "Splash_url": "Baxia-Dauntless-Shield.png",
+          "script": "Baxia-Ba-tender-Dauntless-Shield.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Black Tortoise",
+      "Splash_url": "Baxia-Black-Tortoise.png",
+      "script": "Baxia-Black-Tortoise-Backup.zip",
+      "Portrait_url": "Baxia-Black-Tortoise.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Wild Totem",
+          "Portrait_url": "Baxia-Wild-Totem.png",
+          "Splash_url": "Baxia-Wild-Totem.png",
+          "script": "Baxia-Black-Tortoise-Wild-Totem.zip"
+        },
+        {
+          "name": "Badass Roller",
+          "Portrait_url": "Baxia-Badass-Roller.png",
+          "Splash_url": "Baxia-Badass-Roller.png",
+          "script": "Baxia-Black-Tortoise-Badass-Roller.zip"
+        },
+        {
+          "name": "Ba-tender",
+          "Portrait_url": "Baxia-Ba-tender.png",
+          "Splash_url": "Baxia-Ba-tender.png",
+          "script": "Baxia-Black-Tortoise-Ba-tender.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Dauntless Shield",
+      "Splash_url": "Baxia-Dauntless-Shield.png",
+      "script": "Baxia-Dauntless-Shield-Backup.zip",
+      "Portrait_url": "Baxia-Dauntless-Shield.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Wild Totem",
+          "Portrait_url": "Baxia-Wild-Totem.png",
+          "Splash_url": "Baxia-Wild-Totem.png",
+          "script": "Baxia-Dauntless-Shield-Wild-Totem.zip"
+        },
+        {
+          "name": "Badass Roller",
+          "Portrait_url": "Baxia-Badass-Roller.png",
+          "Splash_url": "Baxia-Badass-Roller.png",
+          "script": "Baxia-Dauntless-Shield-Badass-Roller.zip"
+        },
+        {
+          "name": "Ba-tender",
+          "Portrait_url": "Baxia-Ba-tender.png",
+          "Splash_url": "Baxia-Ba-tender.png",
+          "script": "Baxia-Dauntless-Shield-Ba-tender.zip"
+        },
+        {
+          "name": "Black Tortoise",
+          "Portrait_url": "Baxia-Black-Tortoise.png",
+          "Splash_url": "Baxia-Black-Tortoise.png",
+          "script": "Baxia-Dauntless-Shield-Black-Tortoise.zip"
+        }
+      ]
+    }
+  ]
+}

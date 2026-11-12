@@ -1,0 +1,65 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Zhuxin",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Ethereal Serenity",
+      "Splash_url": "Zhuxin-Ethereal-Serenity.png",
+      "script": "Zhuxin-Ethereal-Serenity-Backup.zip",
+      "Portrait_url": "Zhuxin-Ethereal-Serenity.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Emberwisp Mystic",
+          "Portrait_url": "Zhuxin-Emberwisp-Mystic.png",
+          "Splash_url": "Zhuxin-Emberwisp-Mystic.png",
+          "script": "Zhuxin-Ethereal-Serenity-Emberwisp-Mystic.zip"
+        },
+        {
+          "name": "Soulwisp Mystic Painted 02",
+          "Portrait_url": "Zhuxin-Soulwisp-Mystic.png",
+          "Splash_url": "Zhuxin-Emberwisp-Mystic.png",
+          "script": "Zhuxin-Ethereal-Serenity-Soulwisp-Mystic-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Emberwisp Mystic",
+      "Splash_url": "Zhuxin-Emberwisp-Mystic.png",
+      "script": "Zhuxin-Emberwisp-Mystic-Backup.zip",
+      "Portrait_url": "Zhuxin-Emberwisp-Mystic.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Ethereal Serenity",
+          "Portrait_url": "Zhuxin-Ethereal-Serenity.png",
+          "Splash_url": "Zhuxin-Ethereal-Serenity.png",
+          "script": "Zhuxin-Emberwisp-Mystic-Ethereal-Serenity.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Soulwisp Mystic Skin 04",
+      "Splash_url": "Zhuxin-Soulwisp-Mystic.png",
+      "script": "Zhuxin-Soulwisp-Mystic-Skin-04-Backup.zip",
+      "Portrait_url": "Zhuxin-Soulwisp-Mystic.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Skywisp Mystic",
+          "Portrait_url": "Zhuxin-Skywisp-Mystic.png",
+          "Splash_url": "Zhuxin - Skywisp Mystic.jpg",
+          "script": "Zhuxin-Soulwisp-Mystic-Skin-04-Skywisp-Mystic.zip"
+        }
+      ]
+    }
+  ]
+}

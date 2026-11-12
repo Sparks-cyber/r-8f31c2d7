@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 52,
+    "slug": "pharsa",
+    "name": "Pharsa"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "pharsa-community-5494",
+      "name": "Community Build 5494",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "divineglaive",
+        "holycrystal",
+        "bloodwings",
+        "glowingwand",
+        "lightningtruncheon",
+        "enchantedtalisman"
+      ],
+      "battle_spell_id": "flameshot",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "temporalreign",
+        "rupture"
+      ],
+      "situational_items": [],
+      "notes": "Flame mode",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5494,
+      "source_created_at": "2026-02-06T05:13:54.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "pharsa-community-5457",
+      "name": "Community Build 5457",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "glowingwand",
+        "lightningtruncheon",
+        "bloodwings",
+        "divineglaive",
+        "holycrystal"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "thrill",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Ws",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5457,
+      "source_created_at": "2026-02-04T09:15:46.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "pharsa-companion-baseline",
+      "name": "Companion Mage Baseline",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

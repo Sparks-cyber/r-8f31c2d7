@@ -1,0 +1,156 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "guinevere-backup",
+      "portrait_file": "Guinevere-Default.png",
+      "script_file": "Guinevere-Backup.zip",
+      "skin_name": "Ms. Violet",
+      "splash_file": "Guinevere-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-fleur-de-bleau",
+      "portrait_file": "Guinevere-Fleur-de-Bleau.png",
+      "script_file": "Guinevere-Fleur-de-Bleau.zip",
+      "skin_name": "Fleur de Bleau",
+      "splash_file": "Guinevere-Fleur-de-Bleau.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-athena-asamiya",
+      "portrait_file": "Guinevere-Athena-Asamiya.png",
+      "script_file": "Guinevere-Athena-Asamiya.zip",
+      "skin_name": "Athena Asamiya",
+      "splash_file": "Guinevere-Athena-Asamiya.png",
+      "tag_id": "kof",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-lotus",
+      "portrait_file": "Guinevere-Lotus.png",
+      "script_file": "Guinevere-Lotus.zip",
+      "skin_name": "Lotus",
+      "splash_file": "Guinevere-Lotus.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-amethyst-dance",
+      "portrait_file": "Guinevere-Amethyst-Dance.png",
+      "script_file": "Guinevere-Amethyst-Dance.zip",
+      "skin_name": "Amethyst Dance",
+      "splash_file": "Guinevere-Amethyst-Dance.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-lady-crane",
+      "portrait_file": "Guinevere-Lady-Crane.png",
+      "script_file": "Guinevere-Lady-Crane.zip",
+      "skin_name": "Lady Crane",
+      "splash_file": "Guinevere-Lady-Crane.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-sakura-wishes",
+      "portrait_file": "Guinevere-Sakura-Wishes.png",
+      "script_file": "Guinevere-Sakura-Wishes.zip",
+      "skin_name": "Sakura Wishes",
+      "splash_file": "Guinevere-Sakura-Wishes.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-summer-breeze",
+      "portrait_file": "Guinevere-Summer-Breeze.png",
+      "script_file": "Guinevere-Summer-Breeze.zip",
+      "skin_name": "Summer Breeze",
+      "splash_file": "Guinevere-Summer-Breeze.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-psion-of-tomorrow",
+      "portrait_file": "Guinevere-Psion-of-Tomorrow.png",
+      "script_file": "Guinevere-Psion-of-Tomorrow.zip",
+      "skin_name": "Psion of Tomorrow",
+      "splash_file": "Guinevere-Psion-of-Tomorrow.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-elegant-butterfly",
+      "portrait_file": "Guinevere-Elegant-Butterfly.png",
+      "script_file": "Guinevere-Elegant-Butterfly.zip",
+      "skin_name": "Elegant Butterfly",
+      "splash_file": "Guinevere-Elegant-Butterfly.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-daybreak-halo",
+      "portrait_file": "Guinevere-Daybreak-Halo.png",
+      "script_file": "Guinevere-Daybreak-Halo.zip",
+      "skin_name": "Daybreak Halo",
+      "splash_file": "Guinevere-Daybreak-Halo.png",
+      "tag_id": "the-aspirants",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-chun-li-outfit-2",
+      "portrait_file": "Guinevere-Chun-Li.png",
+      "script_file": "Guinevere-Chun-Li-Outfit-2.zip",
+      "skin_name": "Chun-Li (Outfit 2)",
+      "splash_file": "Guinevere-Chun-Li-Outfit-2.png",
+      "tag_id": "street-fighter",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-scarlet-dance-painted-01",
+      "portrait_file": "Guinevere-Scarlet-Dance.png",
+      "script_file": "Guinevere-Scarlet-Dance.zip",
+      "skin_name": "Scarlet Dance",
+      "splash_file": "Guinevere - Scarlet Dance.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-chun-li-outfit-1-painted-01",
+      "portrait_file": "Guinevere-Chun-Li.png",
+      "script_file": "Guinevere-Chun-Li-Outfit-1.zip",
+      "skin_name": "Chun-Li (Outfit 1)",
+      "splash_file": "Guinevere-Chun-Li-Outfit-1.png",
+      "tag_id": "painted",
+      "tier": "Grand"
+    }
+  ],
+  "hero": {
+    "id": 80,
+    "name": "Guinevere",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "guinevere"
+  },
+  "release_tag": "visual-guinevere",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

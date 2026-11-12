@@ -1,0 +1,1351 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-08-09T11:13:18+00:00",
+  "count": 134,
+  "data": [
+    {
+      "id": 9010,
+      "hero": "Akai",
+      "skin": "Kung Fu Monk",
+      "img": "/Heroes/Portrait/Akai%20-%20Kung%20Fu%20Monk.png",
+      "splash": "/Heroes/Splash/Akai%20-%20Kung%20Fu%20Monk.jpg",
+      "script": "/Skins/Painted/Akai/Kung%20Fu%20Monk.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 64009,
+      "hero": "Aldous",
+      "skin": "Vile Death",
+      "img": "/Heroes/Portrait/Aldous%20-%20Vile%20Death.png",
+      "splash": "/Heroes/Splash/Aldous%20-%20Vile%20Death.jpg",
+      "script": "/Skins/Painted/Aldous/Vile%20Death.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 4007,
+      "hero": "Alice",
+      "skin": "Divine Phoenix",
+      "img": "/Heroes/Portrait/Alice%20-%20Divine%20Phoenix.png",
+      "splash": "/Heroes/Splash/Alice%20-%20Divine%20Phoenix.jpg",
+      "script": "/Skins/Painted/Alice/Divine%20Phoenix.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 28009,
+      "hero": "Alpha",
+      "skin": "Galactic Enforcer",
+      "img": "/Heroes/Portrait/Alpha%20-%20Galactic%20Enforcer.png",
+      "splash": "/Heroes/Splash/Alpha%20-%20Galactic%20Enforcer.jpg",
+      "script": "/Skins/Painted/Alpha/Galactic%20Enforcer.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 55011,
+      "hero": "Angela",
+      "skin": "Midnight Marionette",
+      "img": "/Heroes/Portrait/Angela%20-%20Midnight%20Marionette.png",
+      "splash": "/Heroes/Splash/Angela%20-%20Midnight%20Marionette.jpg",
+      "script": "/Skins/Painted/Angela/Midnight%20Marionette.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 45006,
+      "hero": "Argus",
+      "skin": "Malediction",
+      "img": "/Heroes/Portrait/Argus%20-%20Malediction.png",
+      "splash": "/Heroes/Splash/Argus%20-%20Malediction.jpg",
+      "script": "/Skins/Painted/Argus/Malediction.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 120005,
+      "hero": "Arlott",
+      "skin": "Ire of the Deep",
+      "img": "/Heroes/Portrait/Arlott%20-%20Ire%20of%20the%20Deep.png",
+      "splash": "/Heroes/Splash/Arlott%20-%20Ire%20of%20the%20Deep.jpg",
+      "script": "/Skins/Painted/Arlott/Ire%20of%20the%20Deep.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 120004,
+      "hero": "Arlott",
+      "skin": "Scorn of the Deep",
+      "img": "/Heroes/Portrait/Arlott%20-%20Scorn%20of%20the%20Deep.png",
+      "splash": "/Heroes/Splash/Arlott%20-%20Scorn%20of%20the%20Deep.jpg",
+      "script": "/Skins/Painted/Arlott/Scorn%20of%20the%20Deep.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 93006,
+      "hero": "Atlas",
+      "skin": "Battle Turbine",
+      "img": "/Heroes/Portrait/Atlas%20-%20Battle%20Turbine.png",
+      "splash": "/Heroes/Splash/Atlas%20-%20Battle%20Turbine.jpg",
+      "script": "/Skins/Painted/Atlas/Battle%20Turbine.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 2009,
+      "hero": "Balmond",
+      "skin": "Mighty Pointguard",
+      "img": "/Heroes/Portrait/Balmond%20-%20Mighty%20Pointguard.png",
+      "splash": "/Heroes/Splash/Balmond%20-%20Mighty%20Pointguard.jpg",
+      "script": "/Skins/Painted/Balmond/Mighty%20Pointguard.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 99006,
+      "hero": "Barats",
+      "skin": "Scalding Predator",
+      "img": "/Heroes/Portrait/Barats%20-%20Scalding%20Predator.png",
+      "splash": "/Heroes/Splash/Barats%20-%20Scalding%20Predator.jpg",
+      "script": "/Skins/Painted/Barats/Scalding%20Predator.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 105007,
+      "hero": "Beatrix",
+      "skin": "Light Seeker",
+      "img": "/Heroes/Portrait/Beatrix%20-%20Light%20Seeker.png",
+      "splash": "/Heroes/Splash/Beatrix%20-%20Light%20Seeker.jpg",
+      "script": "/Skins/Painted/Beatrix/Light%20Seeker.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 70006,
+      "hero": "Belerick",
+      "skin": "Deep Reef",
+      "img": "/Heroes/Portrait/Belerick%20-%20Deep%20Reef.png",
+      "splash": "/Heroes/Splash/Belerick%20-%20Deep%20Reef.jpg",
+      "script": "/Skins/Painted/Belerick/Deep%20Reef.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 12010,
+      "hero": "Bruno",
+      "skin": "Tropical DJ",
+      "img": "/Heroes/Portrait/Bruno%20-%20Tropical%20DJ.png",
+      "splash": "/Heroes/Splash/Bruno%20-%20Tropical%20DJ.jpg",
+      "script": "/Skins/Painted/Bruno/Tropical%20DJ.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 12011,
+      "hero": "Bruno",
+      "skin": "Urban Hype",
+      "img": "/Heroes/Portrait/Bruno%20-%20Urban%20Hype.png",
+      "splash": "/Heroes/Splash/Bruno%20-%20Urban%20Hype.jpg",
+      "script": "/Skins/Painted/Bruno/Urban%20Hype.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 61011,
+      "hero": "Chang'e",
+      "skin": "Azure Moon",
+      "img": "/Heroes/Portrait/Chang%27e%20-%20Azure%20Moon.png",
+      "splash": "/Heroes/Splash/Chang%27e%20-%20Azure%20Moon.jpg",
+      "script": "/Skins/Painted/Chang%27e/Azure%20Moon.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 26013,
+      "hero": "Chou",
+      "skin": "Red Tiger",
+      "img": "/Heroes/Portrait/Chou%20-%20Red%20Tiger.png",
+      "splash": "/Heroes/Splash/Chou%20-%20Red%20Tiger.jpg",
+      "script": "/Skins/Painted/Chou/Red%20Tiger.zip",
+      "status": "confirmed",
+      "enabled": false
+    },
+    {
+      "id": 26012,
+      "hero": "Chou",
+      "skin": "Undefeated Champion",
+      "img": "/Heroes/Portrait/Chou%20-%20Undefeated%20Champion.png",
+      "splash": "/Heroes/Splash/Chou%20-%20Undefeated%20Champion.jpg",
+      "script": "/Skins/Painted/Chou/Undefeated%20Champion.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 126001,
+      "hero": "Chou",
+      "skin": "Ken (Outfit 1)",
+      "img": "/Heroes/Portrait/Chou-Ken.png",
+      "splash": "/Heroes/Splash/Chou-Ken-Outfit-1.png",
+      "script": "/Skins/Painted/Chou/Ken%20Outfit%201.zip",
+      "status": "confirmed",
+      "enabled": true,
+      "tag_id": "street-fighter"
+    },
+    {
+      "id": 123003,
+      "hero": "Cici",
+      "skin": "Circus Fantasy",
+      "img": "/Heroes/Portrait/Cici%20-%20Circus%20Fantasy.png",
+      "splash": "/Heroes/Splash/Cici%20-%20Circus%20Fantasy.jpg",
+      "script": "/Skins/Painted/Cici/Circus%20Fantasy.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 123004,
+      "hero": "Cici",
+      "skin": "Circus Glamour",
+      "img": "/Heroes/Portrait/Cici%20-%20Circus%20Glamour.png",
+      "splash": "/Heroes/Splash/Cici%20-%20Circus%20Glamour.jpg",
+      "script": "/Skins/Painted/Cici/Circus%20Glamour.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 65014,
+      "hero": "Claude",
+      "skin": "Challenger's Flare",
+      "img": "/Heroes/Portrait/Claude%20-%20Challenger%27s%20Flare.png",
+      "splash": "/Heroes/Splash/Claude%20-%20Challenger%27s%20Flare.jpg",
+      "script": "/Skins/Painted/Claude/Challenger%27s%20Flare.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 65013,
+      "hero": "Claude",
+      "skin": "MSC Mightiest",
+      "img": "/Heroes/Portrait/Claude%20-%20MSC%20Mightiest.png",
+      "splash": "/Heroes/Splash/Claude%20-%20MSC%20Mightiest.jpg",
+      "script": "/Skins/Painted/Claude/MSC%20Mightiest.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 13011,
+      "hero": "Clint",
+      "skin": "Full Smash",
+      "img": "/Heroes/Portrait/Clint%20-%20Full%20Smash.png",
+      "splash": "/Heroes/Splash/Clint%20-%20Full%20Smash.jpg",
+      "script": "/Skins/Painted/Clint/Full%20Smash.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 33009,
+      "hero": "Cyclops",
+      "skin": "Super Sportsman",
+      "img": "/Heroes/Portrait/Cyclops%20-%20Super%20Sportsman.png",
+      "splash": "/Heroes/Splash/Cyclops%20-%20Super%20Sportsman.jpg",
+      "script": "/Skins/Painted/Cyclops/Super%20Sportsman.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 48006,
+      "hero": "Diggie",
+      "skin": "Astrologist",
+      "img": "/Heroes/Portrait/Diggie%20-%20Astrologist.png",
+      "splash": "/Heroes/Splash/Diggie%20-%20Astrologist.jpg",
+      "script": "/Skins/Painted/Diggie/Astrologist.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 126002,
+      "hero": "Dyrroth",
+      "skin": "Guile (Outfit 1)",
+      "img": "/Heroes/Portrait/Dyrroth-Guile.png",
+      "splash": "/Heroes/Splash/Dyrroth-Guile.png",
+      "script": "/Skins/Painted/Dyrroth/Guile%20Outfit%201.zip",
+      "status": "confirmed",
+      "enabled": true,
+      "tag_id": "street-fighter"
+    },
+    {
+      "id": 111006,
+      "hero": "Edith",
+      "skin": "Golden Warden",
+      "img": "/Heroes/Portrait/Edith%20-%20Golden%20Warden.png",
+      "splash": "/Heroes/Splash/Edith%20-%20Golden%20Warden.jpg",
+      "script": "/Skins/Painted/Edith/Golden%20Warden.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 81009,
+      "hero": "Esmeralda",
+      "skin": "Scene Stealer",
+      "img": "/Heroes/Portrait/Esmeralda%20-%20Scene%20Stealer.png",
+      "splash": "/Heroes/Splash/Esmeralda%20-%20Scene%20Stealer.jpg",
+      "script": "/Skins/Painted/Esmeralda/Scene%20Stealer.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 81010,
+      "hero": "Esmeralda",
+      "skin": "Stellar Muse",
+      "img": "/Heroes/Portrait/Esmeralda%20-%20Stellar%20Muse.png",
+      "splash": "/Heroes/Splash/Esmeralda%20-%20Stellar%20Muse.jpg",
+      "script": "/Skins/Painted/Esmeralda/Stellar%20Muse.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 34010,
+      "hero": "Estes",
+      "skin": "Arcane Judicator",
+      "img": "/Heroes/Portrait/Estes%20-%20Arcane%20Judicator.png",
+      "splash": "/Heroes/Splash/Estes%20-%20Arcane%20Judicator.jpg",
+      "script": "/Skins/Painted/Estes/Arcane%20Judicator.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 34009,
+      "hero": "Estes",
+      "skin": "Red Crow",
+      "img": "/Heroes/Portrait/Estes%20-%20Red%20Crow.png",
+      "splash": "/Heroes/Splash/Estes%20-%20Red%20Crow.jpg",
+      "script": "/Skins/Painted/Estes/Red%20Crow.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 15008,
+      "hero": "Eudora",
+      "skin": "Photogenic",
+      "img": "/Heroes/Portrait/Eudora%20-%20Photogenic.png",
+      "splash": "/Heroes/Splash/Eudora%20-%20Photogenic.jpg",
+      "script": "/Skins/Painted/Eudora/Photogenic.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 76006,
+      "hero": "Faramis",
+      "skin": "Enigmatic Wanderer",
+      "img": "/Heroes/Portrait/Faramis%20-%20Enigmatic%20Wanderer.png",
+      "splash": "/Heroes/Splash/Faramis%20-%20Enigmatic%20Wanderer.jpg",
+      "script": "/Skins/Painted/Faramis/Enigmatic%20Wanderer.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 10010,
+      "hero": "Franco",
+      "skin": "Luminous Nightmare",
+      "img": "/Heroes/Portrait/Franco%20-%20Luminous%20Nightmare.png",
+      "splash": "/Heroes/Splash/Franco%20-%20Luminous%20Nightmare.png",
+      "script": "/Skins/Painted/Franco/Luminous%20Nightmare.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 22010,
+      "hero": "Freya",
+      "skin": "Spartan Spirit",
+      "img": "/Heroes/Portrait/Freya%20-%20Spartan%20Spirit.png",
+      "splash": "/Heroes/Splash/Freya%20-%20Spartan%20Spirit.jpg",
+      "script": "/Skins/Painted/Freya/Spartan%20Spirit.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 41009,
+      "hero": "Gatotkaca",
+      "skin": "Nutcracker Duke",
+      "img": "/Heroes/Portrait/Gatotkaca%20-%20Nutcracker%20Duke.png",
+      "splash": "/Heroes/Splash/Gatotkaca%20-%20Nutcracker%20Duke.jpg",
+      "script": "/Skins/Painted/Gatotkaca/Nutcracker%20Duke.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 41008,
+      "hero": "Gatotkaca",
+      "skin": "Nutcracker Earl",
+      "img": "/Heroes/Portrait/Gatotkaca%20-%20Nutcracker%20Earl.png",
+      "splash": "/Heroes/Splash/Gatotkaca%20-%20Nutcracker%20Earl.jpg",
+      "script": "/Skins/Painted/Gatotkaca/Nutcracker%20Earl.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 41007,
+      "hero": "Gatotkaca",
+      "skin": "Steeler",
+      "img": "/Heroes/Portrait/Gatotkaca%20-%20Steeler.png",
+      "splash": "/Heroes/Splash/Gatotkaca%20-%20Steeler.jpg",
+      "script": "/Skins/Painted/Gatotkaca/Steeler.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 23008,
+      "hero": "Gord",
+      "skin": "Imperator Silas",
+      "img": "/Heroes/Portrait/Gord%20-%20Imperator%20Silas.png",
+      "splash": "/Heroes/Splash/Gord%20-%20Imperator%20Silas.jpg",
+      "script": "/Skins/Painted/Gord/Imperator%20Silas.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 23009,
+      "hero": "Gord",
+      "skin": "Imperator Stellaris",
+      "img": "/Heroes/Portrait/Gord%20-%20Imperator%20Stellaris.png",
+      "splash": "/Heroes/Splash/Gord%20-%20Imperator%20Stellaris.jpg",
+      "script": "/Skins/Painted/Gord/Imperator%20Stellaris.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 79011,
+      "hero": "Granger",
+      "skin": "Doomsday Punisher",
+      "img": "/Heroes/Portrait/Granger%20-%20Doomsday%20Punisher.png",
+      "splash": "/Heroes/Splash/Granger%20-%20Doomsday%20Punisher.jpg",
+      "script": "/Skins/Painted/Granger/Doomsday%20Punisher.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 80010,
+      "hero": "Guinevere",
+      "skin": "Scarlet Dance",
+      "img": "/Heroes/Portrait/Guinevere%20-%20Scarlet%20Dance.png",
+      "splash": "/Heroes/Splash/Guinevere%20-%20Scarlet%20Dance.jpg",
+      "script": "/Skins/Painted/Guinevere/Scarlet%20Dance.zip",
+      "status": "confirmed",
+      "enabled": false
+    },
+    {
+      "id": 126003,
+      "hero": "Guinevere",
+      "skin": "Chun-Li (Outfit 1)",
+      "img": "/Heroes/Portrait/Guinevere-Chun-Li.png",
+      "splash": "/Heroes/Splash/Guinevere-Chun-Li.png",
+      "script": "/Skins/Painted/Guinevere/Chun-Li%20Outfit%201.zip",
+      "status": "confirmed",
+      "enabled": true,
+      "tag_id": "street-fighter"
+    },
+    {
+      "id": 56015,
+      "hero": "Gusion",
+      "skin": "Emerald Spider",
+      "img": "/Heroes/Portrait/Gusion%20-%20Emerald%20Spider.png",
+      "splash": "/Heroes/Splash/Gusion%20-%20Emerald%20Spider.jpg",
+      "script": "/Skins/Painted/Gusion/Emerald%20Spider.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 56012,
+      "hero": "Gusion",
+      "skin": "Gothic Hairstylist",
+      "img": "/Heroes/Portrait/Gusion%20-%20Gothic%20Hairstylist.png",
+      "splash": "/Heroes/Splash/Gusion%20-%20Gothic%20Hairstylist.jpg",
+      "script": "/Skins/Painted/Gusion/Gothic%20Hairstylist.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 56013,
+      "hero": "Gusion",
+      "skin": "Romantic Liaison",
+      "img": "/Heroes/Portrait/Gusion%20-%20Romantic%20Liaison.png",
+      "splash": "/Heroes/Splash/Gusion%20-%20Romantic%20Liaison.jpg",
+      "script": "/Skins/Painted/Gusion/Romantic%20Liaison.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 56014,
+      "hero": "Gusion",
+      "skin": "Royal Spider",
+      "img": "/Heroes/Portrait/Gusion%20-%20Royal%20Spider.png",
+      "splash": "/Heroes/Splash/Gusion%20-%20Royal%20Spider.jpg",
+      "script": "/Skins/Painted/Gusion/Royal%20Spider.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 60010,
+      "hero": "Hanabi",
+      "skin": "Emerald Viper",
+      "img": "/Heroes/Portrait/Hanabi%20-%20Emerald%20Viper.png",
+      "splash": "/Heroes/Splash/Hanabi%20-%20Emerald%20Viper.jpg",
+      "script": "/Skins/Painted/Hanabi/Emerald%20Viper.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 69005,
+      "hero": "Hanzo",
+      "skin": "Evil Tutor",
+      "img": "/Heroes/Portrait/Hanzo%20-%20Evil%20Tutor.png",
+      "splash": "/Heroes/Splash/Hanzo%20-%20Evil%20Tutor.jpg",
+      "script": "/Skins/Painted/Hanzo/Evil%20Tutor.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 73009,
+      "hero": "Harith",
+      "skin": "Wayfarer",
+      "img": "/Heroes/Portrait/Harith%20-%20Wayfarer.png",
+      "splash": "/Heroes/Splash/Harith%20-%20Wayfarer.jpg",
+      "script": "/Skins/Painted/Harith/Wayfarer.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 21011,
+      "hero": "Hayabusa",
+      "skin": "Future Enforcer - Iron",
+      "img": "/Heroes/Portrait/Hayabusa%20-%20Future%20Enforcer%20-%20Iron.png",
+      "splash": "/Heroes/Splash/Hayabusa%20-%20Future%20Enforcer%20-%20Iron.jpg",
+      "script": "/Skins/Painted/Hayabusa/Future%20Enforcer%20-%20Iron.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 21012,
+      "hero": "Hayabusa",
+      "skin": "Sushi Master - Purple",
+      "img": "/Heroes/Portrait/Hayabusa%20-%20Sushi%20Master%20-%20Purple.png",
+      "splash": "/Heroes/Splash/Hayabusa%20-%20Sushi%20Master%20-%20Purple.jpg",
+      "script": "/Skins/Painted/Hayabusa/Sushi%20Master%20-%20Purple.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 51007,
+      "hero": "Helcurt",
+      "skin": "Fatal Stinger",
+      "img": "/Heroes/Portrait/Helcurt%20-%20Fatal%20Stinger.png",
+      "splash": "/Heroes/Splash/Helcurt%20-%20Fatal%20Stinger.jpg",
+      "script": "/Skins/Painted/Helcurt/Fatal%20Stinger.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 51008,
+      "hero": "Helcurt",
+      "skin": "Phantom Prowler",
+      "img": "/Heroes/Portrait/Helcurt%20-%20Phantom%20Prowler.png",
+      "splash": "/Heroes/Splash/Helcurt%20-%20Phantom%20Prowler.jpg",
+      "script": "/Skins/Painted/Helcurt/Phantom%20Prowler.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 35006,
+      "hero": "Hilda",
+      "skin": "Carmine Craze",
+      "img": "/Heroes/Portrait/Hilda%20-%20Carmine%20Craze.png",
+      "splash": "/Heroes/Splash/Hilda%20-%20Carmine%20Craze.jpg",
+      "script": "/Skins/Painted/Hilda/Carmine%20Craze.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 43008,
+      "hero": "Irithel",
+      "skin": "Ice Spike",
+      "img": "/Heroes/Portrait/Irithel%20-%20Ice%20Spike.png",
+      "splash": "/Heroes/Splash/Irithel%20-%20Ice%20Spike.jpg",
+      "script": "/Skins/Painted/Irithel/Ice%20Spike.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 43009,
+      "hero": "Irithel",
+      "skin": "Neon Knight",
+      "img": "/Heroes/Portrait/Irithel%20-%20Neon%20Knight.png",
+      "splash": "/Heroes/Splash/Irithel%20-%20Neon%20Knight.jpg",
+      "script": "/Skins/Painted/Irithel/Neon%20Knight.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 43010,
+      "hero": "Irithel",
+      "skin": "Rosy Knight",
+      "img": "/Heroes/Portrait/Irithel%20-%20Rosy%20Knight.png",
+      "splash": "/Heroes/Splash/Irithel%20-%20Rosy%20Knight.jpg",
+      "script": "/Skins/Painted/Irithel/Rosy%20Knight.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 54010,
+      "hero": "Jawhead",
+      "skin": "Field Commander",
+      "img": "/Heroes/Portrait/Jawhead%20-%20Field%20Commander.png",
+      "splash": "/Heroes/Splash/Jawhead%20-%20Field%20Commander.jpg",
+      "script": "/Skins/Painted/Jawhead/Field%20Commander.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 54011,
+      "hero": "Jawhead",
+      "skin": "Proto Sentinel",
+      "img": "/Heroes/Portrait/Jawhead%20-%20Proto%20Sentinel.png",
+      "splash": "/Heroes/Splash/Jawhead%20-%20Proto%20Sentinel.jpg",
+      "script": "/Skins/Painted/Jawhead/Proto%20Sentinel.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 32009,
+      "hero": "Johnson",
+      "skin": "Pink Jeepney Racer",
+      "img": "/Heroes/Portrait/Johnson%20-%20Pink%20Jeepney%20Racer.png",
+      "splash": "/Heroes/Splash/Johnson%20-%20Pink%20Jeepney%20Racer.jpg",
+      "script": "/Skins/Painted/Johnson/Pink%20Jeepney%20Racer.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 118005,
+      "hero": "Joy",
+      "skin": "Exostar Ranger",
+      "img": "/Heroes/Portrait/Joy%20-%20Exostar%20Ranger.png",
+      "splash": "/Heroes/Splash/Joy%20-%20Exostar%20Ranger.jpg",
+      "script": "/Skins/Painted/Joy/Exostar%20Ranger.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 118004,
+      "hero": "Joy",
+      "skin": "Exostar Runner",
+      "img": "/Heroes/Portrait/Joy%20-%20Exostar%20Runner.png",
+      "splash": "/Heroes/Splash/Joy%20-%20Exostar%20Runner.jpg",
+      "script": "/Skins/Painted/Joy/Exostar%20Runner.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 75007,
+      "hero": "Kadita",
+      "skin": "Lady of the Tide",
+      "img": "/Heroes/Portrait/Kadita%20-%20Lady%20of%20the%20Tide.png",
+      "splash": "/Heroes/Splash/Kadita%20-%20Lady%20of%20the%20Tide.jpg",
+      "script": "/Skins/Painted/Kadita/Lady%20of%20the%20Tide.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 75008,
+      "hero": "Kadita",
+      "skin": "Muse of the Tide",
+      "img": "/Heroes/Portrait/Kadita%20-%20Muse%20of%20the%20Tide.png",
+      "splash": "/Heroes/Splash/Kadita%20-%20Muse%20of%20the%20Tide.jpg",
+      "script": "/Skins/Painted/Kadita/Muse%20of%20the%20Tide.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 75006,
+      "hero": "Kadita",
+      "skin": "Violet Orchid",
+      "img": "/Heroes/Portrait/Kadita%20-%20Violet%20Orchid.png",
+      "splash": "/Heroes/Splash/Kadita%20-%20Violet%20Orchid.jpg",
+      "script": "/Skins/Painted/Kadita/Violet%20Orchid.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 25010,
+      "hero": "Kagura",
+      "skin": "Amethyst Wizard",
+      "img": "/Heroes/Portrait/Kagura%20-%20Amethyst%20Wizard.png",
+      "splash": "/Heroes/Splash/Kagura%20-%20Amethyst%20Wizard.jpg",
+      "script": "/Skins/Painted/Kagura/Amethyst%20Wizard.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 25011,
+      "hero": "Kagura",
+      "skin": "Pink Summer Festival",
+      "img": "/Heroes/Portrait/Kagura%20-%20Pink%20Summer%20Festival.png",
+      "splash": "/Heroes/Splash/Kagura%20-%20Pink%20Summer%20Festival.jpg",
+      "script": "/Skins/Painted/Kagura/Pink%20Summer%20Festival.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 62007,
+      "hero": "Kaja",
+      "skin": "Death Whiplash",
+      "img": "/Heroes/Portrait/Kaja%20-%20Death%20Whiplash.png",
+      "splash": "/Heroes/Splash/Kaja%20-%20Death%20Whiplash.jpg",
+      "script": "/Skins/Painted/Kaja/Death%20Whiplash.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 8010,
+      "hero": "Karina",
+      "skin": "Spider Lily - Autumn",
+      "img": "/Heroes/Portrait/Karina%20-%20Spider%20Lily%20-%20Autumn.png",
+      "splash": "/Heroes/Splash/Karina%20-%20Spider%20Lily%20-%20Autumn.jpg",
+      "script": "/Skins/Painted/Karina/Spider%20Lily%20-%20Autumn.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 8009,
+      "hero": "Karina",
+      "skin": "Spider Lily - Winter",
+      "img": "/Heroes/Portrait/Karina%20-%20Spider%20Lily%20-%20Winter.png",
+      "splash": "/Heroes/Splash/Karina%20-%20Spider%20Lily%20-%20Winter.jpg",
+      "script": "/Skins/Painted/Karina/Spider%20Lily%20-%20Winter.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 40011,
+      "hero": "Karrie",
+      "skin": "Fool",
+      "img": "/Heroes/Portrait/Karrie%20-%20Fool.png",
+      "splash": "/Heroes/Splash/Karrie%20-%20Fool.jpg",
+      "script": "/Skins/Painted/Karrie/Fool.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 78007,
+      "hero": "Khufra",
+      "skin": "Classic Crook",
+      "img": "/Heroes/Portrait/Khufra%20-%20Classic%20Crook.png",
+      "splash": "/Heroes/Splash/Khufra%20-%20Classic%20Crook.jpg",
+      "script": "/Skins/Painted/Khufra/Classic%20Crook.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 71009,
+      "hero": "Kimmy",
+      "skin": "Detonated Fuse",
+      "img": "/Heroes/Portrait/Kimmy%20-%20Detonated%20Fuse.png",
+      "splash": "/Heroes/Splash/Kimmy%20-%20Detonated%20Fuse.jpg",
+      "script": "/Skins/Painted/Kimmy/Detonated%20Fuse.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 37007,
+      "hero": "Lapu-Lapu",
+      "skin": "Imperial Soldier",
+      "img": "/Heroes/Portrait/Lapu-Lapu%20-%20Imperial%20Soldier.png",
+      "splash": "/Heroes/Splash/Lapu-Lapu%20-%20Imperial%20Soldier.jpg",
+      "script": "/Skins/Painted/Lapu-Lapu/Imperial%20Soldier.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 18011,
+      "hero": "Layla",
+      "skin": "Midnight Waltz",
+      "img": "/Heroes/Portrait/Layla%20-%20Midnight%20Waltz.png",
+      "splash": "/Heroes/Splash/Layla%20-%20Midnight%20Waltz.jpg",
+      "script": "/Skins/Painted/Layla/Midnight%20Waltz.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 18012,
+      "hero": "Layla",
+      "skin": "Sunset Waltz",
+      "img": "/Heroes/Portrait/Layla%20-%20Sunset%20Waltz.png",
+      "splash": "/Heroes/Splash/Layla%20-%20Sunset%20Waltz.jpg",
+      "script": "/Skins/Painted/Layla/Sunset%20Waltz.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 53013,
+      "hero": "Lesley",
+      "skin": "Cheersniper",
+      "img": "/Heroes/Portrait/Lesley%20-%20Cheersniper.png",
+      "splash": "/Heroes/Splash/Lesley%20-%20Cheersniper.jpg",
+      "script": "/Skins/Painted/Lesley/Cheersniper.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 53015,
+      "hero": "Lesley",
+      "skin": "Duchess of Depths",
+      "img": "/Heroes/Portrait/Lesley%20-%20Duchess%20of%20Depths.png",
+      "splash": "/Heroes/Splash/Lesley%20-%20Duchess%20of%20Depths.jpg",
+      "script": "/Skins/Painted/Lesley/Duchess%20of%20Depths.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 53014,
+      "hero": "Lesley",
+      "skin": "Romantic Love",
+      "img": "/Heroes/Portrait/Lesley%20-%20Romantic%20Love.png",
+      "splash": "/Heroes/Splash/Lesley%20-%20Romantic%20Love.jpg",
+      "script": "/Skins/Painted/Lesley/Romantic%20Love.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 20008,
+      "hero": "Lolita",
+      "skin": "Pumpkin Smash",
+      "img": "/Heroes/Portrait/Lolita%20-%20Pumpkin%20Smash.png",
+      "splash": "/Heroes/Splash/Lolita%20-%20Pumpkin%20Smash.jpg",
+      "script": "/Skins/Painted/Lolita/Pumpkin%20Smash.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 68010,
+      "hero": "Lunox",
+      "skin": "Nature Harmony",
+      "img": "/Heroes/Portrait/Lunox%20-%20Nature%20Harmony.png",
+      "splash": "/Heroes/Splash/Lunox%20-%20Nature%20Harmony.jpg",
+      "script": "/Skins/Painted/Lunox/Nature%20Harmony.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 96008,
+      "hero": "Luo Yi",
+      "skin": "Moonlit Orchid",
+      "img": "/Heroes/Portrait/Luo%20Yi%20-%20Moonlit%20Orchid.png",
+      "splash": "/Heroes/Splash/Luo%20Yi%20-%20Moonlit%20Orchid.jpg",
+      "script": "/Skins/Painted/Luo%20Yi/Moonlit%20Orchid.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 86008,
+      "hero": "Lylia",
+      "skin": "Magitech Blaster",
+      "img": "/Heroes/Portrait/Lylia%20-%20Magitech%20Blaster.png",
+      "splash": "/Heroes/Splash/Lylia%20-%20Magitech%20Blaster.jpg",
+      "script": "/Skins/Painted/Lylia/Magitech%20Blaster.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 86009,
+      "hero": "Lylia",
+      "skin": "Magitech Ordnance",
+      "img": "/Heroes/Portrait/Lylia%20-%20Magitech%20Ordnance.png",
+      "splash": "/Heroes/Splash/Lylia%20-%20Magitech%20Ordnance.jpg",
+      "script": "/Skins/Painted/Lylia/Magitech%20Ordnance.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 86007,
+      "hero": "Lylia",
+      "skin": "Witchcrafter",
+      "img": "/Heroes/Portrait/Lylia%20-%20Witchcrafter.png",
+      "splash": "/Heroes/Splash/Lylia%20-%20Witchcrafter.jpg",
+      "script": "/Skins/Painted/Lylia/Witchcrafter.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 58009,
+      "hero": "Martis",
+      "skin": "Bloodtide Terror",
+      "img": "/Heroes/Portrait/Martis%20-%20Bloodtide%20Terror.png",
+      "splash": "/Heroes/Splash/Martis%20-%20Bloodtide%20Terror.jpg",
+      "script": "/Skins/Painted/Martis/Bloodtide%20Terror.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 58008,
+      "hero": "Martis",
+      "skin": "Nethersea Terror",
+      "img": "/Heroes/Portrait/Martis%20-%20Nethersea%20Terror.png",
+      "splash": "/Heroes/Splash/Martis%20-%20Nethersea%20Terror.jpg",
+      "script": "/Skins/Painted/Martis/Nethersea%20Terror.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 114006,
+      "hero": "Melissa",
+      "skin": "Cursewalker",
+      "img": "/Heroes/Portrait/Melissa%20-%20Cursewalker.png",
+      "splash": "/Heroes/Splash/Melissa%20-%20Cursewalker.jpg",
+      "script": "/Skins/Painted/Melissa/Cursewalker.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 114007,
+      "hero": "Melissa",
+      "skin": "SHIMMER Melissa",
+      "img": "/Heroes/Portrait/Melissa%20-%20SHIMMER%20Melissa.png",
+      "splash": "/Heroes/Splash/Melissa%20-%20SHIMMER%20Melissa.jpg",
+      "script": "/Skins/Painted/Melissa/SHIMMER%20Melissa.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 19006,
+      "hero": "Minotaur",
+      "skin": "Hammer of Despair",
+      "img": "/Heroes/Portrait/Minotaur%20-%20Hammer%20of%20Despair.png",
+      "splash": "/Heroes/Splash/Minotaur%20-%20Hammer%20of%20Despair.jpg",
+      "script": "/Skins/Painted/Minotaur/Hammer%20of%20Despair.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 74006,
+      "hero": "Minsitthar",
+      "skin": "Radiant Lion",
+      "img": "/Heroes/Portrait/Minsitthar%20-%20Radiant%20Lion.png",
+      "splash": "/Heroes/Splash/Minsitthar%20-%20Radiant%20Lion.png",
+      "script": "/Skins/Painted/Minsitthar/Radiant%20Lion.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 1015,
+      "hero": "Miya",
+      "skin": "Nightowl Sentinel",
+      "img": "/Heroes/Portrait/Miya%20-%20Nightowl%20Sentinel.png",
+      "splash": "/Heroes/Splash/Miya%20-%20Nightowl%20Sentinel.jpg",
+      "script": "/Skins/Painted/Miya/Nightowl%20Sentinel.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 1014,
+      "hero": "Miya",
+      "skin": "Nightowl Warden",
+      "img": "/Heroes/Portrait/Miya%20-%20Nightowl%20Warden.png",
+      "splash": "/Heroes/Splash/Miya%20-%20Nightowl%20Warden.jpg",
+      "script": "/Skins/Painted/Miya/Nightowl%20Warden.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 1013,
+      "hero": "Miya",
+      "skin": "Tranquil Bow",
+      "img": "/Heroes/Portrait/Miya%20-%20Tranquil%20Bow.png",
+      "splash": "/Heroes/Splash/Miya%20-%20Tranquil%20Bow.jpg",
+      "script": "/Skins/Painted/Miya/Tranquil%20Bow.zip",
+      "status": "confirmed",
+      "enabled": false
+    },
+    {
+      "id": 31011,
+      "hero": "Moskov",
+      "skin": "Asian Javelin Champion",
+      "img": "/Heroes/Portrait/Moskov%20-%20Asian%20Javelin%20Champion.png",
+      "splash": "/Heroes/Splash/Moskov%20-%20Asian%20Javelin%20Champion.jpg",
+      "script": "/Skins/Painted/Moskov/Asian%20Javelin%20Champion.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 31012,
+      "hero": "Moskov",
+      "skin": "Spear of Dystopia",
+      "img": "/Heroes/Portrait/Moskov%20-%20Spear%20of%20Dystopia.png",
+      "splash": "/Heroes/Splash/Moskov%20-%20Spear%20of%20Dystopia.jpg",
+      "script": "/Skins/Painted/Moskov/Spear%20of%20Dystopia.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 24009,
+      "hero": "Natalia",
+      "skin": "Crimson Raven",
+      "img": "/Heroes/Portrait/Natalia%20-%20Crimson%20Raven.png",
+      "splash": "/Heroes/Splash/Natalia%20-%20Crimson%20Raven.jpg",
+      "script": "/Skins/Painted/Natalia/Crimson%20Raven.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 24008,
+      "hero": "Natalia",
+      "skin": "Rogue Mamba",
+      "img": "/Heroes/Portrait/Natalia%20-%20Rogue%20Mamba.png",
+      "splash": "/Heroes/Splash/Natalia%20-%20Rogue%20Mamba.jpg",
+      "script": "/Skins/Painted/Natalia/Rogue%20Mamba.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 122005,
+      "hero": "Nolan",
+      "skin": "Fashion Magnate",
+      "img": "/Heroes/Portrait/Nolan%20-%20Fashion%20Magnate.png",
+      "splash": "/Heroes/Splash/Nolan%20-%20Fashion%20Magnate.jpg",
+      "script": "/Skins/Painted/Nolan/Fashion%20Magnate.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 122004,
+      "hero": "Nolan",
+      "skin": "Fashion Tycoon",
+      "img": "/Heroes/Portrait/Nolan%20-%20Fashion%20Tycoon.png",
+      "splash": "/Heroes/Splash/Nolan%20-%20Fashion%20Tycoon.jpg",
+      "script": "/Skins/Painted/Nolan/Fashion%20Tycoon.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 119004,
+      "hero": "Novaria",
+      "skin": "Aqua Glaze",
+      "img": "/Heroes/Portrait/Novaria%20-%20Aqua%20Glaze.png",
+      "splash": "/Heroes/Splash/Novaria%20-%20Aqua%20Glaze.jpg",
+      "script": "/Skins/Painted/Novaria/Aqua%20Glaze.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 119003,
+      "hero": "Novaria",
+      "skin": "Honey Glaze",
+      "img": "/Heroes/Portrait/Novaria%20-%20Honey%20Glaze.png",
+      "splash": "/Heroes/Splash/Novaria%20-%20Honey%20Glaze.jpg",
+      "script": "/Skins/Painted/Novaria/Honey%20Glaze.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 46009,
+      "hero": "Odette",
+      "skin": "Butterfly Faerie",
+      "img": "/Heroes/Portrait/Odette%20-%20Butterfly%20Faerie.png",
+      "splash": "/Heroes/Splash/Odette%20-%20Butterfly%20Faerie.jpg",
+      "script": "/Skins/Painted/Odette/Butterfly%20Faerie.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 46011,
+      "hero": "Odette",
+      "skin": "Wisdom of Devotion",
+      "img": "/Heroes/Portrait/Odette%20-%20Wisdom%20of%20Devotion.png",
+      "splash": "/Heroes/Splash/Odette%20-%20Wisdom%20of%20Devotion.jpg",
+      "script": "/Skins/Painted/Odette/Wisdom%20of%20Devotion.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 46010,
+      "hero": "Odette",
+      "skin": "Wisdom of Hearts",
+      "img": "/Heroes/Portrait/Odette%20-%20Wisdom%20of%20Hearts.png",
+      "splash": "/Heroes/Splash/Odette%20-%20Wisdom%20of%20Hearts.jpg",
+      "script": "/Skins/Painted/Odette/Wisdom%20of%20Hearts.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 126004,
+      "hero": "Paquito",
+      "skin": "Ryu (Outfit 1)",
+      "img": "/Heroes/Portrait/Paquito-Ryu.png",
+      "splash": "/Heroes/Splash/Paquito-Ryu.png",
+      "script": "/Skins/Painted/Paquito/Ryu%20Outfit%201.zip",
+      "status": "confirmed",
+      "enabled": true,
+      "tag_id": "street-fighter"
+    },
+    {
+      "id": 106004,
+      "hero": "Phoveus",
+      "skin": "Matrix Marauder",
+      "img": "/Heroes/Portrait/Phoveus%20-%20Matrix%20Marauder.png",
+      "splash": "/Heroes/Splash/Phoveus%20-%20Matrix%20Marauder.jpg",
+      "script": "/Skins/Painted/Phoveus/Matrix%20Marauder.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 106003,
+      "hero": "Phoveus",
+      "skin": "Matrix Raider",
+      "img": "/Heroes/Portrait/Phoveus%20-%20Matrix%20Raider.png",
+      "splash": "/Heroes/Splash/Phoveus%20-%20Matrix%20Raider.jpg",
+      "script": "/Skins/Painted/Phoveus/Matrix%20Raider.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 94007,
+      "hero": "Popol and Kupa",
+      "skin": "Proto Stalker",
+      "img": "/Heroes/Portrait/Popol%20and%20Kupa%20-%20Proto%20Stalker.png",
+      "splash": "/Heroes/Splash/Popol%20and%20Kupa%20-%20Proto%20Stalker.png",
+      "script": "/Skins/Painted/Popol%20and%20Kupa/Proto%20Stalker.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 39010,
+      "hero": "Roger",
+      "skin": "Raging Hunter",
+      "img": "/Heroes/Portrait/Roger%20-%20Raging%20Hunter.png",
+      "splash": "/Heroes/Splash/Roger%20-%20Raging%20Hunter.jpg",
+      "script": "/Skins/Painted/Roger/Raging%20Hunter.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 29011,
+      "hero": "Ruby",
+      "skin": "Powderblue Butterfly",
+      "img": "/Heroes/Portrait/Ruby%20-%20Powderblue%20Butterfly.png",
+      "splash": "/Heroes/Splash/Ruby%20-%20Powderblue%20Butterfly.jpg",
+      "script": "/Skins/Painted/Ruby/Powderblue%20Butterfly.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 3009,
+      "hero": "Saber",
+      "skin": "Hound of Steel",
+      "img": "/Heroes/Portrait/Saber%20-%20Hound%20of%20Steel.png",
+      "splash": "/Heroes/Splash/Saber%20-%20Hound%20of%20Steel.jpg",
+      "script": "/Skins/Painted/Saber/Hound%20of%20Steel.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 90010,
+      "hero": "Silvanna",
+      "skin": "Classroom Glam",
+      "img": "/Heroes/Portrait/Silvanna%20-%20Classroom%20Glam.png",
+      "splash": "/Heroes/Splash/Silvanna%20-%20Classroom%20Glam.jpg",
+      "script": "/Skins/Painted/Silvanna/Classroom%20Glam.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 27008,
+      "hero": "Sun",
+      "skin": "Street King",
+      "img": "/Heroes/Portrait/Sun%20-%20Street%20King.png",
+      "splash": "/Heroes/Splash/Sun%20-%20Street%20King.jpg",
+      "script": "/Skins/Painted/Sun/Street%20King.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 82007,
+      "hero": "Terizla",
+      "skin": "Ember Flare",
+      "img": "/Heroes/Portrait/Terizla%20-%20Ember%20Flare.png",
+      "splash": "/Heroes/Splash/Terizla%20-%20Ember%20Flare.jpg",
+      "script": "/Skins/Painted/Terizla/Ember%20Flare.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 72006,
+      "hero": "Thamuz",
+      "skin": "Fire Crystal",
+      "img": "/Heroes/Portrait/Thamuz%20-%20Fire%20Crystal.png",
+      "splash": "/Heroes/Splash/Thamuz%20-%20Fire%20Crystal.jpg",
+      "script": "/Skins/Painted/Thamuz/Fire%20Crystal.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 72007,
+      "hero": "Thamuz",
+      "skin": "Sanctified Inferno",
+      "img": "/Heroes/Portrait/Thamuz%20-%20Sanctified%20Inferno.png",
+      "splash": "/Heroes/Splash/Thamuz%20-%20Sanctified%20Inferno.jpg",
+      "script": "/Skins/Painted/Thamuz/Sanctified%20Inferno.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 6008,
+      "hero": "Tigreal",
+      "skin": "Fallen Dominator",
+      "img": "/Heroes/Portrait/Tigreal%20-%20Fallen%20Dominator.png",
+      "splash": "/Heroes/Splash/Tigreal%20-%20Fallen%20Dominator.jpg",
+      "script": "/Skins/Painted/Tigreal/Fallen%20Dominator.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 59007,
+      "hero": "Uranus",
+      "skin": "Fortune Machine",
+      "img": "/Heroes/Portrait/Uranus%20-%20Fortune%20Machine.png",
+      "splash": "/Heroes/Splash/Uranus%20-%20Fortune%20Machine.jpg",
+      "script": "/Skins/Painted/Uranus/Fortune%20Machine.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 57011,
+      "hero": "Valir",
+      "skin": "Shikigami Envoy",
+      "img": "/Heroes/Portrait/Valir%20-%20Shikigami%20Envoy.png",
+      "splash": "/Heroes/Splash/Valir%20-%20Shikigami%20Envoy.jpg",
+      "script": "/Skins/Painted/Valir/Shikigami%20Envoy.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 89009,
+      "hero": "Wanwan",
+      "skin": "Azure Commander",
+      "img": "/Heroes/Portrait/Wanwan%20-%20Azure%20Commander.png",
+      "splash": "/Heroes/Splash/Wanwan%20-%20Azure%20Commander.jpg",
+      "script": "/Skins/Painted/Wanwan/Azure%20Commander.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 115006,
+      "hero": "Xavier",
+      "skin": "Holotech Artificer",
+      "img": "/Heroes/Portrait/Xavier%20-%20Holotech%20Artificer.png",
+      "splash": "/Heroes/Splash/Xavier%20-%20Holotech%20Artificer.jpg",
+      "script": "/Skins/Painted/Xavier/Holotech%20Artificer.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 115005,
+      "hero": "Xavier",
+      "skin": "Lightwave Artificer",
+      "img": "/Heroes/Portrait/Xavier%20-%20Lightwave%20Artificer.png",
+      "splash": "/Heroes/Splash/Xavier%20-%20Lightwave%20Artificer.jpg",
+      "script": "/Skins/Painted/Xavier/Lightwave%20Artificer.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 30008,
+      "hero": "Yi Sun-shin",
+      "skin": "Tactical Specialist",
+      "img": "/Heroes/Portrait/Yi%20Sun-shin%20-%20Tactical%20Specialist.png",
+      "splash": "/Heroes/Splash/Yi%20Sun-shin%20-%20Tactical%20Specialist.jpg",
+      "script": "/Skins/Painted/Yi%20Sun-shin/Tactical%20Specialist.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 113006,
+      "hero": "Yin",
+      "skin": "Immortal Guardian",
+      "img": "/Heroes/Portrait/Yin%20-%20Immortal%20Guardian.png",
+      "splash": "/Heroes/Splash/Yin%20-%20Immortal%20Guardian.jpg",
+      "script": "/Skins/Painted/Yin/Immortal%20Guardian.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 50007,
+      "hero": "Zhask",
+      "skin": "Death's Harbinger",
+      "img": "/Heroes/Portrait/Zhask%20-%20Death%27s%20Harbinger.png",
+      "splash": "/Heroes/Splash/Zhask%20-%20Death%27s%20Harbinger.jpg",
+      "script": "/Skins/Painted/Zhask/Death%27s%20Harbinger.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 50008,
+      "hero": "Zhask",
+      "skin": "Death's Omen",
+      "img": "/Heroes/Portrait/Zhask%20-%20Death%27s%20Omen.png",
+      "splash": "/Heroes/Splash/Zhask%20-%20Death%27s%20Omen.jpg",
+      "script": "/Skins/Painted/Zhask/Death%27s%20Omen.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 50006,
+      "hero": "Zhask",
+      "skin": "Terrant Deviant",
+      "img": "/Heroes/Portrait/Zhask%20-%20Terrant%20Deviant.png",
+      "splash": "/Heroes/Splash/Zhask%20-%20Terrant%20Deviant.jpg",
+      "script": "/Skins/Painted/Zhask/Terrant%20Deviant.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 125003,
+      "hero": "Zhuxin",
+      "skin": "Skywisp Mystic",
+      "img": "/Heroes/Portrait/Zhuxin%20-%20Skywisp%20Mystic.png",
+      "splash": "/Heroes/Splash/Zhuxin%20-%20Skywisp%20Mystic.jpg",
+      "script": "/Skins/Painted/Zhuxin/Skywisp%20Mystic.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 125004,
+      "hero": "Zhuxin",
+      "skin": "Soulwisp Mystic",
+      "img": "/Heroes/Portrait/Zhuxin%20-%20Soulwisp%20Mystic.png",
+      "splash": "/Heroes/Splash/Zhuxin%20-%20Soulwisp%20Mystic.jpg",
+      "script": "/Skins/Painted/Zhuxin/Soulwisp%20Mystic.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 16012,
+      "hero": "Zilong",
+      "skin": "Argenta Warrior",
+      "img": "/Heroes/Portrait/Zilong%20-%20Argenta%20Warrior.png",
+      "splash": "/Heroes/Splash/Zilong%20-%20Argenta%20Warrior.jpg",
+      "script": "/Skins/Painted/Zilong/Argenta%20Warrior.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    },
+    {
+      "id": 16013,
+      "hero": "Zilong",
+      "skin": "Dragon Warrior",
+      "img": "/Heroes/Portrait/Zilong%20-%20Dragon%20Warrior.png",
+      "splash": "/Heroes/Splash/Zilong%20-%20Dragon%20Warrior.jpg",
+      "script": "/Skins/Painted/Zilong/Dragon%20Warrior.zip",
+      "status": "generated_unverified",
+      "enabled": false
+    }
+  ]
+}

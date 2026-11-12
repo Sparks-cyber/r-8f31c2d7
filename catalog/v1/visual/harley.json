@@ -1,0 +1,127 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "harley-backup",
+      "portrait_file": "Harley-Default.png",
+      "script_file": "Harley-Backup.zip",
+      "skin_name": "Mage Genius",
+      "splash_file": "Harley-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "harley-naughty-joker",
+      "portrait_file": "Harley-Naughty-Joker.png",
+      "script_file": "Harley-Naughty-Joker.zip",
+      "skin_name": "Naughty Joker",
+      "splash_file": "Harley-Naughty-Joker.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "harley-royal-magister",
+      "portrait_file": "Harley-Royal-Magister.png",
+      "script_file": "Harley-Royal-Magister.zip",
+      "skin_name": "Royal Magister",
+      "splash_file": "Harley-Royal-Magister.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harley-referee",
+      "portrait_file": "Harley-Referee.png",
+      "script_file": "Harley-Referee.zip",
+      "skin_name": "Referee",
+      "splash_file": "Harley-Referee.png",
+      "tag_id": "epic",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harley-great-inventor",
+      "portrait_file": "Harley-Great-Inventor.png",
+      "script_file": "Harley-Great-Inventor.zip",
+      "skin_name": "Great Inventor",
+      "splash_file": "Harley-Great-Inventor.png",
+      "tag_id": "epic",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "harley-v-e-n-o-m-octopus",
+      "portrait_file": "Harley-V-E-N-O-M-Octopus.png",
+      "script_file": "Harley-V-E-N-O-M-Octopus.zip",
+      "skin_name": "V.E.N.O.M. Octopus",
+      "splash_file": "Harley-V-E-N-O-M-Octopus.png",
+      "tag_id": "venom",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "harley-dream-caster",
+      "portrait_file": "Harley-Dream-Caster.png",
+      "script_file": "Harley-Dream-Caster.zip",
+      "skin_name": "Dream Caster",
+      "splash_file": "Harley-Dream-Caster.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "harley-pulsar-prodigy",
+      "portrait_file": "Harley-Pulsar-Prodigy.png",
+      "script_file": "Harley-Pulsar-Prodigy.zip",
+      "skin_name": "Pulsar Prodigy",
+      "splash_file": "Harley-Pulsar-Prodigy.png",
+      "tag_id": "epic",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harley-star-magician",
+      "portrait_file": "Harley-Star-Magician.png",
+      "script_file": "Harley-Star-Magician.zip",
+      "skin_name": "Star Magician",
+      "splash_file": "Harley-Star-Magician.png",
+      "tag_id": "special",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "harley-dreaming-koi",
+      "portrait_file": "Harley-Dreaming-Koi.png",
+      "script_file": "Harley-Dreaming-Koi.zip",
+      "skin_name": "Dreaming Koi",
+      "splash_file": "Harley-Dreaming-Koi.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harley-morning-bloom",
+      "portrait_file": "Harley-Morning-Bloom.png",
+      "script_file": "Harley-Morning-Bloom.zip",
+      "skin_name": "Morning Bloom",
+      "splash_file": "Harley-Morning-Bloom.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 42,
+    "name": "Harley",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "slug": "harley"
+  },
+  "release_tag": "visual-harley",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

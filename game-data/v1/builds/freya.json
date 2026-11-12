@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 22,
+    "slug": "freya",
+    "name": "Freya"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "freya-community-5710",
+      "name": "Community Build 5710",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "goldenstaff",
+        "waraxe",
+        "maleficgun",
+        "endlessbattle",
+        "bladeofdespair",
+        "demonhuntersword"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "Very Sustained DPS Build To Early - Midgame",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5710,
+      "source_created_at": "2026-02-15T02:23:12.000Z",
+      "likes": 6,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "freya-community-6960",
+      "name": "Community Build 6960",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "corrosionscythe",
+        "endlessbattle",
+        "goldenstaff",
+        "waraxe",
+        "bruteforcebreastplate",
+        "oracle"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "p",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6960,
+      "source_created_at": "2026-04-10T05:59:19.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "freya-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

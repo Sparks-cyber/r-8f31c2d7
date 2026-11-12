@@ -1,0 +1,101 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Ixia",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Shifting Sand",
+      "Splash_url": "Ixia-Shifting-Sand.png",
+      "script": "Ixia-Shifting-Sand-Backup.zip",
+      "Portrait_url": "Ixia-Shifting-Sand.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Dynamic Streak",
+          "Portrait_url": "Ixia-Dynamic-Streak.png",
+          "Splash_url": "Ixia-Dynamic-Streak.png",
+          "script": "Ixia-Shifting-Sand-Dynamic-Streak.zip"
+        },
+        {
+          "name": "Invoker's Command",
+          "Portrait_url": "Ixia-Invoker-s-Command.png",
+          "Splash_url": "Ixia-Invoker-s-Command.png",
+          "script": "Ixia-Shifting-Sand-Invoker-s-Command.zip"
+        },
+        {
+          "name": "Dynamic Flair",
+          "Portrait_url": "Ixia-Dynamic-Flair.png",
+          "Splash_url": "Ixia-Dynamic-Flair.png",
+          "script": "Ixia-Shifting-Sand-Dynamic-Flair.zip"
+        },
+        {
+          "name": "Dynamic Style",
+          "Portrait_url": "Ixia-Dynamic-Style.png",
+          "Splash_url": "Ixia-Dynamic-Style.png",
+          "script": "Ixia-Shifting-Sand-Dynamic-Style.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dynamic Streak",
+      "Splash_url": "Ixia-Dynamic-Streak.png",
+      "script": "Ixia-Dynamic-Streak-Backup.zip",
+      "Portrait_url": "Ixia-Dynamic-Streak.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Shifting Sand",
+          "Portrait_url": "Ixia-Shifting-Sand.png",
+          "Splash_url": "Ixia-Shifting-Sand.png",
+          "script": "Ixia-Dynamic-Streak-Shifting-Sand.zip"
+        },
+        {
+          "name": "Invoker's Command",
+          "Portrait_url": "Ixia-Invoker-s-Command.png",
+          "Splash_url": "Ixia-Invoker-s-Command.png",
+          "script": "Ixia-Dynamic-Streak-Invoker-s-Command.zip"
+        }
+      ]
+    },
+    {
+      "name": "Metro Zero",
+      "Default_name": "Invoker's Command",
+      "Splash_url": "Ixia-Invoker-s-Command.png",
+      "script": "Ixia-Invoker-s-Command-Backup.zip",
+      "Portrait_url": "Ixia-Invoker-s-Command.png",
+      "Tags": [
+        "Metro Zero.png"
+      ],
+      "targets": [
+        {
+          "name": "Shifting Sand",
+          "Portrait_url": "Ixia-Shifting-Sand.png",
+          "Splash_url": "Ixia-Shifting-Sand.png",
+          "script": "Ixia-Invoker-s-Command-Shifting-Sand.zip"
+        },
+        {
+          "name": "Dynamic Streak",
+          "Portrait_url": "Ixia-Dynamic-Streak.png",
+          "Splash_url": "Ixia-Dynamic-Streak.png",
+          "script": "Ixia-Invoker-s-Command-Dynamic-Streak.zip"
+        },
+        {
+          "name": "Dynamic Flair",
+          "Portrait_url": "Ixia-Dynamic-Flair.png",
+          "Splash_url": "Ixia-Dynamic-Flair.png",
+          "script": "Ixia-Invoker-s-Command-Dynamic-Flair.zip"
+        },
+        {
+          "name": "Dynamic Style",
+          "Portrait_url": "Ixia-Dynamic-Style.png",
+          "Splash_url": "Ixia-Dynamic-Style.png",
+          "script": "Ixia-Invoker-s-Command-Dynamic-Style.zip"
+        }
+      ]
+    }
+  ]
+}

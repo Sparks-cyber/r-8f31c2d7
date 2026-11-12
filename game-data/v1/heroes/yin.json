@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 113,
+    "slug": "yin",
+    "name": "Yin",
+    "skin_name": "Martial Genius",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Burst",
+      "Control"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "18 January 2022",
+    "resource": null,
+    "short_description": "A young martial artist on a journey to defeat the Evil God that dwells on him.",
+    "brief": "Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him. Few know that his wild and violent behavior stems from the Evil God, Lieh, dwelling within him. He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power. Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires. However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh. Yin never backs down from a challenge, god or no god.",
+    "story": "For those who endured a lifetime of conflict and yearned for peace, the Floral Falls, hidden by mystical mechanisms, is a true utopia where the past is forgotten. But Yin's story is a little different—he arrived here before his life truly began. Many years ago, on a spring day, the hermits of the valley found a bamboo basket floating down the river. Had they not taken a closer look, they would have missed the baby inside who ever uttered a single sound. While the hermits felt sorry for the abandoned boy, he met the world's cruelty with cheerful laughter. Whoever sent him down the river left him with no name or identifiable keepsakes. Perhaps they knew the child would drift to this isolated sanctuary and purposely left no ties to the outside world? Either way, the boy's life started anew in the Floral Falls and he was given a name. In the spring breeze, the hermits named him Yin—to honor the start of the lunar year, when life begins anew. They also gave him a blessing—to always look forward, always look up, for each day is the start of something new.\n\nYin lived up to the expectations placed upon him. Although growing up in the Floral Falls was not easy, Yin was able to learn many valuable lessons. The reclusive hermits, weary of the world's affairs, imparted not only their martial arts but also their code of chivalry to him. Yin was a diligent student, but the more obedient he was, the more concerned the hermits who raised him became. Unlike the other residents of Floral Falls, who had lived their lives and grown weary of the world, a boy should not be afraid to make mistakes. What use is one's fist if one has nothing to fight for? Without stumbling, how could one learn to stand firm? If one never holds onto anything, how can one learn to let go? But it was during this time, while practicing martial arts, that Yin encountered Wanwan of the Tang clan, who had come to explore this strange abode. For the first time, Yin met someone his own age. The energetic and playful Wanwan gradually helped him to discover what being young and free is like. They were always playing together, and time passed quickly. Yin began to see the vast and complex world outside the valley in a different light. Perhaps going out and seeing the world wouldn't be a bad idea? As a sensible child, Yin never voiced his thoughts to the elders, so he never realized that they shared his sentiments.\n\nYears later, when Wanwan departed to fulfill her duties as an Oriental Fighter, Yin's heart became restless. His yearning for the outside world clashed with the valley's traditions, leaving him torn between two worlds. He would isolate himself and practice alone, and his doubts gradually became a pool of negative energy. And this negative energy, in turn, would attract disaster. On a fated afternoon, a sinister aura flew in from beyond the valley and entered Yin's body before he could react. While Yin struggled to resist the invading consciousness, another figure suddenly appeared and sent Yin flying with a heavy blow. Seizing this chance, the evil consciousness took control of Yin's body and began to battle the stranger. Yin found himself in an unprecedented dilemma. He knew that if he couldn't break free from whatever was controlling him, he would not only harm the person before him but also bring calamity to Floral Falls. But the more he tried, the more he became a helpless spectator in his own body.\n\nAs Yin's spirit waned and the evil consciousness took more control, he began to consider a grim ultimatum. Perhaps making himself a tomb for this evil was the only way to save everyone... But just as Yin was about to accept this fate, a familiar voice rang across the valley. \"Yin! Don't you dare give up!\" A girl wielding a crossbow leaped into the battlefield and stood between Yin and his opponent—it was Wanwan, his first friend, who brought him joy and a new outlook on life. As the emotions poured in, an overwhelming surge of determination and courage allowed Yin to break free from the evil's control. Seeing this, his opponent, a man with the aura of a dragon, ceased his attack. \"Wanwan, I must deal with the great evil hiding within him. This boy is no match for him and will be devoured. I must prevent this disaster from turning into a calamity.\" But Wanwan showed no signs of wavering. Yin had never seen this side of her, and he was deeply moved. \"Baxia once said the same about you, Yu Zhong. I believe in Yin, just as I believed in you.\" But Yu Zhong remained unmoved. \"I will not let anyone get in the way of my plans, not even you, and he—\" Just then, Yin, barely managing to stand up, stopped Yu Zhong mid-sentence. \"I will never... let my friends down!\"\n\nYu Zhong explained everything to Yin, leaving Yin feeling shaken and lost for the first time in his life—as the vessel of the Evil God, he had unwittingly become the most dangerous threat to Floral Falls, and possibly all of the Cadia Riverlands. That night, Yin packed his belongings and quietly left under the moonlight. He did not tell anyone about the words Yu Zhong had said to him: \"If you have the will to shoulder this responsibility, then travel to the Moniyan Empire. There, you may find a way to defeat the Evil God...\" Behind him, his mentors debated endlessly: \"Letting such an innocent child face the Evil God alone is too cruel.\" \"The wise White Ape might know a method to exorcise the Evil God.\" \"Did we raise this child all these years only to abandon him now?\" After listening to these arguments, the White Ape proclaimed, \"There are ways to deal with the Evil God, but the boy has already chosen his path. He has chosen to carry this burden. It is not our place to stop him.\"\n\nThe young man left Floral Falls, ready to cross the vast and tumultuous sea. Before him was a whole new world, full of excitement and challenges.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 6,
+    "control": 8,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2578,
+    "health_growth": 190,
+    "health_regen": 9.8,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 109,
+    "physical_attack_growth": 7.21,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 3.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.07,
+    "attack_speed_growth": 0.0271,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 252,
+    "attack_range": 1.6
+  },
+  "abilities": [
+    {
+      "id": "Yin0",
+      "name": "Leave It to Me",
+      "description": "If there are no allied heroes within 4 units of Yin, his damage is increased to 120% and he gains 8% Spell Vamp.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10e337fa6398a8ea4a471155c8c22c1c.png",
+      "video_url": null
+    },
+    {
+      "id": "Yin1",
+      "name": "Charged Punch",
+      "description": "Yin gains 60% extra Movement Speed (decays over 3s).<br/>During this time, his next Basic Attack will be enhanced, dealing 25/40/55/70/85/100<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. If the enhanced Basic Attack hits an enemy, Yin throws a charged punch forward, dealing 360/400/440/480/520/560<scaleAD> (+200% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in its path.<br/>Successfully throwing the charged punch reduces the skill's cooldown by 35%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.2/8.4/7.6/6.8/6",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 125.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_927d2396bfbe124ced32fec90158a316.png",
+      "video_url": null
+    },
+    {
+      "id": "Yin12",
+      "name": "Frenzy Strike",
+      "description": "Lieh smashes enemies forward 9 times. During this time, he is immune to control effects, and his smashing speed gradually increases. Each smash deals 120/130/140/150/160/170<scaleAD> (+100% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slows enemies by 75% for 0.2s.<br/>After 0.8s, Lieh can move or cast skills to cancel the skill early.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "1.5",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9840f60d6b05aa1cb9513397d574df12.png",
+      "video_url": null
+    },
+    {
+      "id": "Yin2",
+      "name": "Instant Blast",
+      "description": "Yin dashes forward, leaving a <highlight>Golden Ring</highlight> behind while dealing 75/90/105/120/135/150<scaleAD> (+35% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the way. He gains 30% extra Damage Reduction for 4s if an enemy hero is hit.<br/>After 1s, the <highlight>Golden Ring</highlight> will catch up with Yin, dealing 150/180/210/240/270/300<scaleAD> (+70% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies it passes through and stunning them for 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12/11.4/10.8/10.2/9.6/9",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": null
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_772f992a2b08481a7d0f876e1c1ace56.png",
+      "video_url": null
+    },
+    {
+      "id": "Yin22",
+      "name": "Instant Blast",
+      "description": "Lieh strikes a flying kick forward, leaving a <highlight>Golden Ring</highlight> behind while dealing 75/90/105/120/135/150<scaleAD> (+35% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the way. Enemies hit will also be knocked back slightly. He gains 30% extra Damage Reduction for 4s if an enemy hero is hit.<br>After 1s, the <highlight>Golden Ring</highlight> will catch up with Lieh, dealing 150/180/210/240/270/300<scaleAD> (+70% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies it passes through and stunning them for 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12/11.4/10.8/10.2/9.6/9",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": null
+        },
+        {
+          "name": "CC",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10e337fa6398a8ea4a471155c8c22c1c.png",
+      "video_url": null
+    },
+    {
+      "id": "Yin3",
+      "name": "My Turn",
+      "description": "After a short delay, Yin locks onto an enemy hero (<highlight>cannot lock onto pets or clones</highlight>) and pulls them into a domain for up to 8s and turns into <highlight>Lieh</highlight>. When in the domain, the two cannot be affected by other heroes' skills.<br/><highlight>Lieh</highlight> has stronger skills and 50/65/80 extra <scaleHP>Physical &amp; Magic Defense</scaleHP> that last 8s.<br/>The domain will end early if either of the two is killed. If <highlight>Lieh</highlight> successfully kills the enemy, he'll recover 20% of his Max HP, leave the domain with the cooldowns of <highlight>Frenzy Strike</highlight> and <highlight>Instant Blast</highlight> reset, and continue to fight as <highlight>Lieh</highlight> for 8s.<br/>If Yin fails to pull his target into the domain, the skill will enter a 3s cooldown.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "52/48/44",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        },
+        {
+          "name": "Buff",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e34f614b0fe2d29abc6364e3a2ab4969.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Yin0",
+      "sequence": "Yin1-Yin2-AA-Yin3-Yin21-Yin11",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Yin should use his 1st Skill to gain Movement Speed and then his 2nd Skill to get close to a key enemy and hit them with his enhanced Basic Attack before trapping them in his Ultimate. In Lieh form, use his 2nd Skill to stun the enemy and finish them off with his 1st Skill."
+    },
+    {
+      "id": "Yin1",
+      "sequence": "Yin1-Yin2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Yin should use his 1st Skill to gain Movement Speed, then use his 2nd Skill to dash behind the enemy so the Golden Rings will stun them on their return, and end with his enhanced Basic Attack."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Yin works best with Supports that can enhance his mobility, such as Mathilda and Rafaela to help him get to the enemy and eliminate key targets.",
+      "heroes": [
+        {
+          "id": 102,
+          "slug": "mathilda",
+          "name": "Mathilda"
+        },
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Yin counters squishy heroes without Blink skills like Layla and Cecilion because they will have a hard time dodging his Golden Rings. Once they are stunned or trapped in his Ultimate, Yin can easily finish them off.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Yin is countered by Fighters that can interrupt skills, such as Fredrinn and Badang, because they can easily interrupt his Ultimate during the initial delay. These heroes can also hold their own in a duel, making them risky targets for Yin's Ultimate.",
+      "heroes": [
+        {
+          "id": 117,
+          "slug": "fredrinn",
+          "name": "Fredrinn"
+        },
+        {
+          "id": 77,
+          "slug": "badang",
+          "name": "Badang"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Yin-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Yin-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5324c7bcbfd9932aca9b8d2e7b8e307a.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5324c7bcbfd9932aca9b8d2e7b8e307a.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/yin.json",
+    "visual_catalog": "catalog/v1/visual/yin.json",
+    "upgrade_catalog": "catalog/v1/upgrade/yin.json"
+  }
+}

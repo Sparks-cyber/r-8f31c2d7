@@ -1,0 +1,209 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Diggie",
+  "role": "Support",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Pigeoneer",
+      "Splash_url": "Diggie-Pigeoneer.png",
+      "script": "Diggie-Pigeoneer-Backup.zip",
+      "Portrait_url": "Diggie-Pigeoneer.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Constellation",
+          "Portrait_url": "Diggie-Constellation.png",
+          "Splash_url": "Diggie-Constellation.png",
+          "script": "Diggie-Pigeoneer-Constellation.zip"
+        },
+        {
+          "name": "Circus Clown",
+          "Portrait_url": "Diggie-Circus-Clown.png",
+          "Splash_url": "Diggie-Circus-Clown.png",
+          "script": "Diggie-Pigeoneer-Circus-Clown.zip"
+        },
+        {
+          "name": "Fairytaler",
+          "Portrait_url": "Diggie-Fairytaler.png",
+          "Splash_url": "Diggie-Fairytaler.png",
+          "script": "Diggie-Pigeoneer-Fairytaler.zip"
+        },
+        {
+          "name": "Underwood Steward",
+          "Portrait_url": "Diggie-Underwood-Steward.png",
+          "Splash_url": "Diggie-Underwood-Steward.png",
+          "script": "Diggie-Pigeoneer-Underwood-Steward.zip"
+        },
+        {
+          "name": "Astrologist",
+          "Portrait_url": "Diggie-Astrologist.png",
+          "Splash_url": "Diggie - Astrologist.jpg",
+          "script": "Diggie-Pigeoneer-Astrologist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Constellation",
+      "Splash_url": "Diggie-Constellation.png",
+      "script": "Diggie-Constellation-Backup.zip",
+      "Portrait_url": "Diggie-Constellation.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Pigeoneer",
+          "Portrait_url": "Diggie-Pigeoneer.png",
+          "Splash_url": "Diggie-Pigeoneer.png",
+          "script": "Diggie-Constellation-Pigeoneer.zip"
+        },
+        {
+          "name": "Circus Clown",
+          "Portrait_url": "Diggie-Circus-Clown.png",
+          "Splash_url": "Diggie-Circus-Clown.png",
+          "script": "Diggie-Constellation-Circus-Clown.zip"
+        },
+        {
+          "name": "Fairytaler",
+          "Portrait_url": "Diggie-Fairytaler.png",
+          "Splash_url": "Diggie-Fairytaler.png",
+          "script": "Diggie-Constellation-Fairytaler.zip"
+        },
+        {
+          "name": "Underwood Steward",
+          "Portrait_url": "Diggie-Underwood-Steward.png",
+          "Splash_url": "Diggie-Underwood-Steward.png",
+          "script": "Diggie-Constellation-Underwood-Steward.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Circus Clown",
+      "Splash_url": "Diggie-Circus-Clown.png",
+      "script": "Diggie-Circus-Clown-Backup.zip",
+      "Portrait_url": "Diggie-Circus-Clown.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Pigeoneer",
+          "Portrait_url": "Diggie-Pigeoneer.png",
+          "Splash_url": "Diggie-Pigeoneer.png",
+          "script": "Diggie-Circus-Clown-Pigeoneer.zip"
+        },
+        {
+          "name": "Constellation",
+          "Portrait_url": "Diggie-Constellation.png",
+          "Splash_url": "Diggie-Constellation.png",
+          "script": "Diggie-Circus-Clown-Constellation.zip"
+        },
+        {
+          "name": "Fairytaler",
+          "Portrait_url": "Diggie-Fairytaler.png",
+          "Splash_url": "Diggie-Fairytaler.png",
+          "script": "Diggie-Circus-Clown-Fairytaler.zip"
+        },
+        {
+          "name": "Underwood Steward",
+          "Portrait_url": "Diggie-Underwood-Steward.png",
+          "Splash_url": "Diggie-Underwood-Steward.png",
+          "script": "Diggie-Circus-Clown-Underwood-Steward.zip"
+        },
+        {
+          "name": "Astrologist",
+          "Portrait_url": "Diggie-Astrologist.png",
+          "Splash_url": "Diggie - Astrologist.jpg",
+          "script": "Diggie-Circus-Clown-Astrologist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Fairytaler",
+      "Splash_url": "Diggie-Fairytaler.png",
+      "script": "Diggie-Fairytaler-Backup.zip",
+      "Portrait_url": "Diggie-Fairytaler.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Pigeoneer",
+          "Portrait_url": "Diggie-Pigeoneer.png",
+          "Splash_url": "Diggie-Pigeoneer.png",
+          "script": "Diggie-Fairytaler-Pigeoneer.zip"
+        },
+        {
+          "name": "Constellation",
+          "Portrait_url": "Diggie-Constellation.png",
+          "Splash_url": "Diggie-Constellation.png",
+          "script": "Diggie-Fairytaler-Constellation.zip"
+        },
+        {
+          "name": "Circus Clown",
+          "Portrait_url": "Diggie-Circus-Clown.png",
+          "Splash_url": "Diggie-Circus-Clown.png",
+          "script": "Diggie-Fairytaler-Circus-Clown.zip"
+        },
+        {
+          "name": "Underwood Steward",
+          "Portrait_url": "Diggie-Underwood-Steward.png",
+          "Splash_url": "Diggie-Underwood-Steward.png",
+          "script": "Diggie-Fairytaler-Underwood-Steward.zip"
+        },
+        {
+          "name": "Astrologist",
+          "Portrait_url": "Diggie-Astrologist.png",
+          "Splash_url": "Diggie - Astrologist.jpg",
+          "script": "Diggie-Fairytaler-Astrologist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Underwood Steward",
+      "Splash_url": "Diggie-Underwood-Steward.png",
+      "script": "Diggie-Underwood-Steward-Backup.zip",
+      "Portrait_url": "Diggie-Underwood-Steward.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Pigeoneer",
+          "Portrait_url": "Diggie-Pigeoneer.png",
+          "Splash_url": "Diggie-Pigeoneer.png",
+          "script": "Diggie-Underwood-Steward-Pigeoneer.zip"
+        },
+        {
+          "name": "Constellation",
+          "Portrait_url": "Diggie-Constellation.png",
+          "Splash_url": "Diggie-Constellation.png",
+          "script": "Diggie-Underwood-Steward-Constellation.zip"
+        },
+        {
+          "name": "Circus Clown",
+          "Portrait_url": "Diggie-Circus-Clown.png",
+          "Splash_url": "Diggie-Circus-Clown.png",
+          "script": "Diggie-Underwood-Steward-Circus-Clown.zip"
+        },
+        {
+          "name": "Fairytaler",
+          "Portrait_url": "Diggie-Fairytaler.png",
+          "Splash_url": "Diggie-Fairytaler.png",
+          "script": "Diggie-Underwood-Steward-Fairytaler.zip"
+        },
+        {
+          "name": "Astrologist",
+          "Portrait_url": "Diggie-Astrologist.png",
+          "Splash_url": "Diggie - Astrologist.jpg",
+          "script": "Diggie-Underwood-Steward-Astrologist.zip"
+        }
+      ]
+    }
+  ]
+}

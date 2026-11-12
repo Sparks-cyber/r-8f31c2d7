@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Masha",
+  "role": "Fighter/Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Winter Guard",
+      "Splash_url": "Masha-Winter-Guard.png",
+      "script": "Masha-Winter-Guard-Backup.zip",
+      "Portrait_url": "Masha-Winter-Guard.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Combat Maiden",
+          "Portrait_url": "Masha-Combat-Maiden.png",
+          "Splash_url": "Masha-Combat-Maiden.png",
+          "script": "Masha-Winter-Guard-Combat-Maiden.zip"
+        },
+        {
+          "name": "Dragon Armor",
+          "Portrait_url": "Masha-Dragon-Armor.png",
+          "Splash_url": "Masha-Dragon-Armor.png",
+          "script": "Masha-Winter-Guard-Dragon-Armor.zip"
+        },
+        {
+          "name": "Spirited Gauntlet",
+          "Portrait_url": "Masha-Spirited-Gauntlet.png",
+          "Splash_url": "Masha-Spirited-Gauntlet.png",
+          "script": "Masha-Winter-Guard-Spirited-Gauntlet.zip"
+        },
+        {
+          "name": "Rogue Talon",
+          "Portrait_url": "Masha-Rogue-Talon.png",
+          "Splash_url": "Masha-Rogue-Talon.png",
+          "script": "Masha-Winter-Guard-Rogue-Talon.zip"
+        },
+        {
+          "name": "Mai Shiranui",
+          "Portrait_url": "Masha-Mai-Shiranui.png",
+          "Splash_url": "Masha-Mai-Shiranui.png",
+          "script": "Masha-Winter-Guard-Mai-Shiranui.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Combat Maiden",
+      "Splash_url": "Masha-Combat-Maiden.png",
+      "script": "Masha-Combat-Maiden-Backup.zip",
+      "Portrait_url": "Masha-Combat-Maiden.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Winter Guard",
+          "Portrait_url": "Masha-Winter-Guard.png",
+          "Splash_url": "Masha-Winter-Guard.png",
+          "script": "Masha-Combat-Maiden-Winter-Guard.zip"
+        },
+        {
+          "name": "Dragon Armor",
+          "Portrait_url": "Masha-Dragon-Armor.png",
+          "Splash_url": "Masha-Dragon-Armor.png",
+          "script": "Masha-Combat-Maiden-Dragon-Armor.zip"
+        },
+        {
+          "name": "Spirited Gauntlet",
+          "Portrait_url": "Masha-Spirited-Gauntlet.png",
+          "Splash_url": "Masha-Spirited-Gauntlet.png",
+          "script": "Masha-Combat-Maiden-Spirited-Gauntlet.zip"
+        },
+        {
+          "name": "Rogue Talon",
+          "Portrait_url": "Masha-Rogue-Talon.png",
+          "Splash_url": "Masha-Rogue-Talon.png",
+          "script": "Masha-Combat-Maiden-Rogue-Talon.zip"
+        },
+        {
+          "name": "Mai Shiranui",
+          "Portrait_url": "Masha-Mai-Shiranui.png",
+          "Splash_url": "Masha-Mai-Shiranui.png",
+          "script": "Masha-Combat-Maiden-Mai-Shiranui.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Tamer",
+      "Default_name": "Dragon Armor",
+      "Splash_url": "Masha-Dragon-Armor.png",
+      "script": "Masha-Dragon-Armor-Backup.zip",
+      "Portrait_url": "Masha-Dragon-Armor.png",
+      "Tags": [
+        "Dragon Tamer.png"
+      ],
+      "targets": [
+        {
+          "name": "Winter Guard",
+          "Portrait_url": "Masha-Winter-Guard.png",
+          "Splash_url": "Masha-Winter-Guard.png",
+          "script": "Masha-Dragon-Armor-Winter-Guard.zip"
+        },
+        {
+          "name": "Combat Maiden",
+          "Portrait_url": "Masha-Combat-Maiden.png",
+          "Splash_url": "Masha-Combat-Maiden.png",
+          "script": "Masha-Dragon-Armor-Combat-Maiden.zip"
+        },
+        {
+          "name": "Spirited Gauntlet",
+          "Portrait_url": "Masha-Spirited-Gauntlet.png",
+          "Splash_url": "Masha-Spirited-Gauntlet.png",
+          "script": "Masha-Dragon-Armor-Spirited-Gauntlet.zip"
+        },
+        {
+          "name": "Rogue Talon",
+          "Portrait_url": "Masha-Rogue-Talon.png",
+          "Splash_url": "Masha-Rogue-Talon.png",
+          "script": "Masha-Dragon-Armor-Rogue-Talon.zip"
+        },
+        {
+          "name": "Mai Shiranui",
+          "Portrait_url": "Masha-Mai-Shiranui.png",
+          "Splash_url": "Masha-Mai-Shiranui.png",
+          "script": "Masha-Dragon-Armor-Mai-Shiranui.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Spirited Gauntlet",
+      "Splash_url": "Masha-Spirited-Gauntlet.png",
+      "script": "Masha-Spirited-Gauntlet-Backup.zip",
+      "Portrait_url": "Masha-Spirited-Gauntlet.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Winter Guard",
+          "Portrait_url": "Masha-Winter-Guard.png",
+          "Splash_url": "Masha-Winter-Guard.png",
+          "script": "Masha-Spirited-Gauntlet-Winter-Guard.zip"
+        },
+        {
+          "name": "Combat Maiden",
+          "Portrait_url": "Masha-Combat-Maiden.png",
+          "Splash_url": "Masha-Combat-Maiden.png",
+          "script": "Masha-Spirited-Gauntlet-Combat-Maiden.zip"
+        },
+        {
+          "name": "Dragon Armor",
+          "Portrait_url": "Masha-Dragon-Armor.png",
+          "Splash_url": "Masha-Dragon-Armor.png",
+          "script": "Masha-Spirited-Gauntlet-Dragon-Armor.zip"
+        },
+        {
+          "name": "Rogue Talon",
+          "Portrait_url": "Masha-Rogue-Talon.png",
+          "Splash_url": "Masha-Rogue-Talon.png",
+          "script": "Masha-Spirited-Gauntlet-Rogue-Talon.zip"
+        },
+        {
+          "name": "Mai Shiranui",
+          "Portrait_url": "Masha-Mai-Shiranui.png",
+          "Splash_url": "Masha-Mai-Shiranui.png",
+          "script": "Masha-Spirited-Gauntlet-Mai-Shiranui.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Rogue Talon",
+      "Splash_url": "Masha-Rogue-Talon.png",
+      "script": "Masha-Rogue-Talon-Backup.zip",
+      "Portrait_url": "Masha-Rogue-Talon.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Winter Guard",
+          "Portrait_url": "Masha-Winter-Guard.png",
+          "Splash_url": "Masha-Winter-Guard.png",
+          "script": "Masha-Rogue-Talon-Winter-Guard.zip"
+        },
+        {
+          "name": "Combat Maiden",
+          "Portrait_url": "Masha-Combat-Maiden.png",
+          "Splash_url": "Masha-Combat-Maiden.png",
+          "script": "Masha-Rogue-Talon-Combat-Maiden.zip"
+        },
+        {
+          "name": "Dragon Armor",
+          "Portrait_url": "Masha-Dragon-Armor.png",
+          "Splash_url": "Masha-Dragon-Armor.png",
+          "script": "Masha-Rogue-Talon-Dragon-Armor.zip"
+        },
+        {
+          "name": "Spirited Gauntlet",
+          "Portrait_url": "Masha-Spirited-Gauntlet.png",
+          "Splash_url": "Masha-Spirited-Gauntlet.png",
+          "script": "Masha-Rogue-Talon-Spirited-Gauntlet.zip"
+        },
+        {
+          "name": "Mai Shiranui",
+          "Portrait_url": "Masha-Mai-Shiranui.png",
+          "Splash_url": "Masha-Mai-Shiranui.png",
+          "script": "Masha-Rogue-Talon-Mai-Shiranui.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Mai Shiranui",
+      "Splash_url": "Masha-Mai-Shiranui.png",
+      "script": "Masha-Mai-Shiranui-Backup.zip",
+      "Portrait_url": "Masha-Mai-Shiranui.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Winter Guard",
+          "Portrait_url": "Masha-Winter-Guard.png",
+          "Splash_url": "Masha-Winter-Guard.png",
+          "script": "Masha-Mai-Shiranui-Winter-Guard.zip"
+        },
+        {
+          "name": "Combat Maiden",
+          "Portrait_url": "Masha-Combat-Maiden.png",
+          "Splash_url": "Masha-Combat-Maiden.png",
+          "script": "Masha-Mai-Shiranui-Combat-Maiden.zip"
+        },
+        {
+          "name": "Dragon Armor",
+          "Portrait_url": "Masha-Dragon-Armor.png",
+          "Splash_url": "Masha-Dragon-Armor.png",
+          "script": "Masha-Mai-Shiranui-Dragon-Armor.zip"
+        },
+        {
+          "name": "Spirited Gauntlet",
+          "Portrait_url": "Masha-Spirited-Gauntlet.png",
+          "Splash_url": "Masha-Spirited-Gauntlet.png",
+          "script": "Masha-Mai-Shiranui-Spirited-Gauntlet.zip"
+        },
+        {
+          "name": "Rogue Talon",
+          "Portrait_url": "Masha-Rogue-Talon.png",
+          "Splash_url": "Masha-Rogue-Talon.png",
+          "script": "Masha-Mai-Shiranui-Rogue-Talon.zip"
+        }
+      ]
+    }
+  ]
+}

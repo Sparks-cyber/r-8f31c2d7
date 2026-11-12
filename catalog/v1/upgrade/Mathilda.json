@@ -1,0 +1,125 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Mathilda",
+  "role": "Support/Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Unrestrained Delight",
+      "Splash_url": "Mathilda-Unrestrained-Delight.png",
+      "script": "Mathilda-Unrestrained-Delight-Backup.zip",
+      "Portrait_url": "Mathilda-Unrestrained-Delight.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Floral Crown",
+          "Portrait_url": "Mathilda-Floral-Crown.png",
+          "Splash_url": "Mathilda-Floral-Crown.png",
+          "script": "Mathilda-Unrestrained-Delight-Floral-Crown.zip"
+        },
+        {
+          "name": "Dream Groove",
+          "Portrait_url": "Mathilda-Dream-Groove.png",
+          "Splash_url": "Mathilda-Dream-Groove.png",
+          "script": "Mathilda-Unrestrained-Delight-Dream-Groove.zip"
+        },
+        {
+          "name": "Dreambound Pixie",
+          "Portrait_url": "Mathilda-Dreambound-Pixie.png",
+          "Splash_url": "Mathilda-Dreambound-Pixie.png",
+          "script": "Mathilda-Unrestrained-Delight-Dreambound-Pixie.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Floral Crown",
+      "Splash_url": "Mathilda-Floral-Crown.png",
+      "script": "Mathilda-Floral-Crown-Backup.zip",
+      "Portrait_url": "Mathilda-Floral-Crown.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Unrestrained Delight",
+          "Portrait_url": "Mathilda-Unrestrained-Delight.png",
+          "Splash_url": "Mathilda-Unrestrained-Delight.png",
+          "script": "Mathilda-Floral-Crown-Unrestrained-Delight.zip"
+        },
+        {
+          "name": "Dream Groove",
+          "Portrait_url": "Mathilda-Dream-Groove.png",
+          "Splash_url": "Mathilda-Dream-Groove.png",
+          "script": "Mathilda-Floral-Crown-Dream-Groove.zip"
+        },
+        {
+          "name": "Dreambound Pixie",
+          "Portrait_url": "Mathilda-Dreambound-Pixie.png",
+          "Splash_url": "Mathilda-Dreambound-Pixie.png",
+          "script": "Mathilda-Floral-Crown-Dreambound-Pixie.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Dream Groove",
+      "Splash_url": "Mathilda-Dream-Groove.png",
+      "script": "Mathilda-Dream-Groove-Backup.zip",
+      "Portrait_url": "Mathilda-Dream-Groove.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Unrestrained Delight",
+          "Portrait_url": "Mathilda-Unrestrained-Delight.png",
+          "Splash_url": "Mathilda-Unrestrained-Delight.png",
+          "script": "Mathilda-Dream-Groove-Unrestrained-Delight.zip"
+        },
+        {
+          "name": "Floral Crown",
+          "Portrait_url": "Mathilda-Floral-Crown.png",
+          "Splash_url": "Mathilda-Floral-Crown.png",
+          "script": "Mathilda-Dream-Groove-Floral-Crown.zip"
+        },
+        {
+          "name": "Dreambound Pixie",
+          "Portrait_url": "Mathilda-Dreambound-Pixie.png",
+          "Splash_url": "Mathilda-Dreambound-Pixie.png",
+          "script": "Mathilda-Dream-Groove-Dreambound-Pixie.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Dreambound Pixie",
+      "Splash_url": "Mathilda-Dreambound-Pixie.png",
+      "script": "Mathilda-Dreambound-Pixie-Backup.zip",
+      "Portrait_url": "Mathilda-Dreambound-Pixie.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Unrestrained Delight",
+          "Portrait_url": "Mathilda-Unrestrained-Delight.png",
+          "Splash_url": "Mathilda-Unrestrained-Delight.png",
+          "script": "Mathilda-Dreambound-Pixie-Unrestrained-Delight.zip"
+        },
+        {
+          "name": "Floral Crown",
+          "Portrait_url": "Mathilda-Floral-Crown.png",
+          "Splash_url": "Mathilda-Floral-Crown.png",
+          "script": "Mathilda-Dreambound-Pixie-Floral-Crown.zip"
+        },
+        {
+          "name": "Dream Groove",
+          "Portrait_url": "Mathilda-Dream-Groove.png",
+          "Splash_url": "Mathilda-Dream-Groove.png",
+          "script": "Mathilda-Dreambound-Pixie-Dream-Groove.zip"
+        }
+      ]
+    }
+  ]
+}

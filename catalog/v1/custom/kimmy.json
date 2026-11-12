@@ -1,0 +1,28 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "kimmy-sandy-cheeks",
+      "portrait_file": "Kimmy - Sandy Cheeks.png",
+      "script_file": "Kimmy-Sandy-Cheeks.zip",
+      "skin_name": "Sandy Cheeks",
+      "splash_file": "Kimmy - Sandy Cheeks.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 71,
+    "name": "Kimmy",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "slug": "kimmy"
+  },
+  "release_tag": "custom-kimmy",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

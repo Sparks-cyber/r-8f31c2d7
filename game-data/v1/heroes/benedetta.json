@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 97,
+    "slug": "benedetta",
+    "name": "Benedetta",
+    "skin_name": "Shadow Ranger",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "7 November 2020",
+    "resource": "Mana",
+    "short_description": "Female warrior defending the Barren Lands against demon invastion.",
+    "brief": "After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.",
+    "story": "After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.\r\n\r\nFor these people, the name of Benedetta brings hope and a sense of security. This courageous, persevering female ranger leads a team and fights in the land south to the Rantha Mountains, protecting the scattered settlement set up by the last survivors in the Despair Place.\r\n\r\nThis is the fourth year ever since Benedetta and her team started their campaign in the Rantha region. Whenever she draws “Alecto”, the rampaging monsters will scatter in fear of this long sharpened sword infused with unstoppable power. People call her the Ranger Leader who walks in the shadow, Protector of the Despair Place. She has earned everyone’s admiration of respect in this desolate wasteland.\r\n\r\nHowever, the distant Moniyan Empire leaves a deep scar in Benedetta’s heart, and the wound may never heal. Alucard isn’t the only person whose life is changed by the war that happened years ago, Benedetta is also one of the victims. But Benedetta’s family is unlike that of Alucard. Her father wasn't an officer, he was just an ordinary soldier.\r\n\r\nUnfortunately, the second division was convicted of “rebellion” after they were defeated in a battle, and so no honor or glory was given to the soldiers who gave their lives for the country. As an officer's child, Alucard was sent to the Monastery of Light along with several other children and grew up with the blessing of Light. But Benedetta, who didn’t receive such privilege as she was the child of a low-rank soldier, had to struggle to make a living without her parents by her side.\r\n\r\nEver since Benedetta was little, she had always wished that she could one day become a Warrior of Light, take back the glory that rightfully belonged to her father, and avenge her father's death by killing those monsters. To this end, she kept training and treating herself as a warrior, constantly sharpening her fighting skills, and inherited the long sword left by her father, preparing for the battles that were to come.\r\n\r\nHowever, the passionate Benedetta was rejected when she signed up for the trial of the Empire Army because the powerful men who ran the Knight's Order were furious because of the betrayal of Alucard and ordered that no descendants of a “rebel” could ever join the Empire Army, so that they would never seek the truth like Alucard did.\r\n\r\nDisappointed and enraged by the empire, Benedetta took up her long sword and left the Moniyan Empire, heading for the Barren Lands and preparing to annihilate the monsters and have her vengeance by herself.\r\n\r\nEven though she was mentally prepared, Benedetta was shocked by the corruption and desolation the first time she saw the Barren Lands. But what surprised Benedetta even more was that there are people who lived near the foothills of the Rantha Mountains in a harsh environment. Life there was hard, but those people were optimistic and hard-working, they fought for everything they needed to survive. And they did: they improved the soil, raised the next generation, and defeated the monsters.\r\n\r\nAt first, Benedetta was not interested in these people at all. She aimlessly wandered the Barren Lands and gave her long sword a new name, Alecto. She then unleashed her anger on the monsters and slaughtered them all. But as time went by, Benedetta slowly realized that this land is truly a vast area, and the power of the Abyss and the monsters were more formidable than she had expected. She could have never saved the Despair Place or changed anything on her own.\r\n\r\nOne day, Benedetta ran across a ranger squad who was in the middle of a fight against the monsters. The odds were against them, but they fought bravely together and drove back the monsters that attempted to raid the human camp several times.\r\n\r\nDuring the campaign, Benedetta and the rangers established friendship and trust through their joint effort. And these people who lived in a godforsaken place demonstrated the fortitude and the strong will to survive, which eventually touched Benedetta’s soul and made her believe that it was not the weapon in their hands that would one day triumph over the Abyss, it was the everlasting hope in their hearts.\r\n\r\nAfterward, Benedetta chose to stay and built a ranger squad where each member shared the same vision but had different skills. They helped those people defend their homeland.\r\n\r\nOne by one, the monsters across the entire region of the Rantha Mountains’ southern foothills were defeated by Benedetta and her comrades. Benedetta would always leave a mark on the battlefield after she stroke down the enemies, reminding the monsters that Benedetta had never forgotten what they did to her. More and more settlements sprang up around the Rantha Mountains and the human civilization was able to develop thanks to their protection.\r\n\r\nThey’ve been through hell, they’ve made sacrifices. But nothing could shake their will and stopped this ranger squad from walking in the shadow. Under Benedetta’s command, they believed that so long as hope still existed, they would see flowers bloomed in the Barren Lands one day.\r\n\r\nMeanwhile, Benedetta had another greater ambition: she would eliminate the monsters and recover her father’s glory to prove a simple fact to the foolish rulers of the Moniyan Empire, letting them know that honor was never given by anyone, it was hard-earned.\r\n\r\nThis is not just a battle between her and the Abyss, it is also a war between her and the Empire.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 5,
+    "control": 2,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2569,
+    "health_growth": 163,
+    "health_regen": 6.6,
+    "health_regen_growth": 0.4429,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 113,
+    "physical_attack_growth": 10.21,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 3.9286,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.11,
+    "attack_speed_growth": 0.0214,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 255,
+    "attack_range": 1.9
+  },
+  "abilities": [
+    {
+      "id": "Benedetta0",
+      "name": "Elapsed Daytime",
+      "description": "When holding down the <highlight>Basic Attack</highlight> button, Benedetta enters the Swordout state and charges up Sword Intent. If the <highlight>Basic Attack</highlight> button is released after the Sword Intent is fully charged, Benedetta will use Swordout Slash in <highlight>the direction she's facing</highlight> and dash forward, dealing <scaleAD> (+215% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies on the path (counts as Skill Damage and is reduced to 50% on Minions and Creeps).<br/><br/>Benedetta can only use Swordout Slash when her Sword Intent is fully charged and she is in Swordout state by holding down the <highlight>Basic Attack</highlight> button.<br/><br/>Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dec94d48625abe29337a7dc247ae4089.png",
+      "video_url": null
+    },
+    {
+      "id": "Benedetta1",
+      "name": "Phantom Slash",
+      "description": "Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200/240/280/320/360/400<scaleAD> (+75% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing the enemies by 60% for 0.5s.<br/><br/>Meanwhile, Benedetta dashes forward to slash, dealing 75/100/125/150/185/200<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)",
+      "flavor_text": null,
+      "cost": "55/61/67/73/79/85",
+      "cooldown": "10/9.3/8.6/7.9/7.2/6.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae06e5db054c1b94fcc70b2158828fc6.png",
+      "video_url": null
+    },
+    {
+      "id": "Benedetta2",
+      "name": "An Eye for An Eye",
+      "description": "Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300/330/360/390/420/450<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.<br/><br/>If Benedetta successfully fends off any damage while defending, she will gain full <highlight>Sword Intent</highlight>. If she fends off any control effects, her subsequent stab stuns the target for 1.5s.",
+      "flavor_text": null,
+      "cost": "100/105/110/115/120/125",
+      "cooldown": "15/14.4/13.8/13.2/12.6/12",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_22cec07aed8f5e783996cfc99fbbcaf3.png",
+      "video_url": null
+    },
+    {
+      "id": "Benedetta3",
+      "name": "Alecto: Final Blow",
+      "description": "Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560/1820/2080<scaleAD> (+1105% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies within and slows them by 50%.",
+      "flavor_text": null,
+      "cost": "110/135/160",
+      "cooldown": "45/40/35",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": 25.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9d895c9df7f13247a57660597045267.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Benedetta0",
+      "sequence": "AA-Benedetta3-Benedetta1-Benedetta2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Swordout Slash to get close to the enemy, then use Benedetta's Ultimate where the enemy is clustered, and follow up with her 1st Skill for additional damage and 2nd Skill to block incoming CC."
+    },
+    {
+      "id": "Benedetta1",
+      "sequence": "AA-Benedetta1-Benedetta2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, gather Sword Intent by holding Benedetta's Basic Attack button, then use Swordout Slash after Sword Intent is maxed to strike the enemy. Follow up with her 1st Skill and try to max out Sword Intent again by blocking the enemy's attack with her 2nd Skill, then end the combo with another Swordout Slash."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Benedetta works well with strong CC initiators, like Johnson and Gatotkaca, because they allow her to maximize the effects of her Ultimate.",
+      "heroes": [
+        {
+          "id": 32,
+          "slug": "johnson",
+          "name": "Johnson"
+        },
+        {
+          "id": 41,
+          "slug": "gatotkaca",
+          "name": "Gatotkaca"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Benedetta's 2nd Skill can effectively block enemy CC, making her a great counter to heroes with predictable CC skills, such as Jawhead and Guinevere.",
+      "heroes": [
+        {
+          "id": 54,
+          "slug": "jawhead",
+          "name": "Jawhead"
+        },
+        {
+          "id": 80,
+          "slug": "guinevere",
+          "name": "Guinevere"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Benedetta is countered by heroes with skills that shutdown mobility skills, such as Minsitthar and Phoveus, since all of Benedetta's skills are considered mobility.",
+      "heroes": [
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        },
+        {
+          "id": 106,
+          "slug": "phoveus",
+          "name": "Phoveus"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Benedetta-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Benedetta-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2153076135c5ea537f796c4352dd9800.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2153076135c5ea537f796c4352dd9800.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/benedetta.json",
+    "visual_catalog": "catalog/v1/visual/benedetta.json",
+    "upgrade_catalog": "catalog/v1/upgrade/benedetta.json"
+  }
+}

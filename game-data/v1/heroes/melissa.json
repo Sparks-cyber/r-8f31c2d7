@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 114,
+    "slug": "melissa",
+    "name": "Melissa",
+    "skin_name": "Cursed Needle",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Mixed",
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "22 February 2022",
+    "resource": "Mana",
+    "short_description": "A girl with cursed needle who runs a tailor shop and solves problems for clients.",
+    "brief": "As an illegitimate child of a noble, Melissa grew up in the Lumina City, capital of the Moniyan Empire, where she runs a small tailor shop and down with black magic, she uses cursed needles to fight solving problems for her clients in unique ways.",
+    "story": "There used to be an inconspicuous little tailor shop on the busy streets of the Lumina City, capital of the Moniyan Empire. Its owner was an elegant woman always with a weary smile on her face, who had a clever, quirky daughter named Melissa.\n\nThey lived a hard life, but Melissa always wore a clean, pretty dress and shoes, the worn-out parts carefully patched up in adorable patterns. She was naughty, but she was also thoughtful and sensible. When she was in the shop, she'd help her mother with the needlework and put aside the shredded cloths. When she was old enough and already had enough worldly experience, she never asked again about where her dad was.\n\nMelissa always wished for a beautiful rag doll, but she never once mentioned it to her mother, because she knew that her mother couldn't even afford to go to the doctor's despite her illness.\n\nEvery time she passed by the doll shop, she'd pop her head up to stare inside, and the aggravated shop owner had tried to scare her off a few times with empty threats. Then the young girl would make a face instead of panicking, so the shop owner that pretended to lose temper would give up first.\n\nOne day, after their shop closed, her mother magically produced a rag doll sewn together with shredded cloths from a pile of cloths. Melissa was beyond happy, smiling and jumping up and down holding the doll and her mom.\n\nHer happy childhood fleeted away, and the little Melissa who used to run around the streets became a pretty young woman and was able to assist her mother. Watching the girl growing up, her mother always expected to see Melissa getting married in a gorgeous wedding dress she made for her, but, unfortunately, she left Melissa forever before she could fulfill her wish.\n\nThe little tailor shop was closed down, and the father Melissa had never met before suddenly showed up and took her away with him.\n\nThey went back to her father's house, and it was then she found out that her mother was a Paxley. Giving up the connection to the noble family, she eloped with her father for love, which abandoned her and left her an illegitimate daughter.\n\nLater on, even though her father tried to make up for abandoning Melissa, he couldn't give her all the rights entitled to a legitimate child. When Melissa was introduced to her half-sister, a cultured and graceful young lady, she became filled with hatred toward Melissa. She thought Melissa had barged into her family, so she always bullied Melissa when their father wasn't home, and Melissa pretended not to care but remembered it all.\n\nEvery night, only the rug doll would accompany Melissa in her sleep, which gave her a feeling that her mother was still there with her inside the doll, so when she felt the urge to cry, she would hold the tears and hug the doll.\n\nBut her sister was also hostile toward the rug doll. One time, she deliberately tore it apart and falsely suggested Melissa throw away the broken doll that didn't please her eyes and accept one of her old dolls.\n\nThough Melissa pretended that she agreed, there was no way that she would throw away her \"mom doll\". Afterward, every time she was bullied, she would often poke the doll, which had her sister's favorite bow-knot sewn on it, as if it had been her sister herself.\n\nOne time, when she was taking her anger out on the doll, she accidentally found out that her actions seemed to have actually affected her sister! Her suspicion was confirmed after a few attempts, and an idea started to form in this little girl's mind…\n\nIt was soon her sister's coming-of-age ceremony, and important guests were gathered in their house, but as the illegitimate daughter who couldn't be seen by others, Melissa stayed in her room while her sister was showing her piano skills to everyone in the room. When her sister gracefully sat down on the stool as people clapped, Melissa was also prepared with a full grin on her face—she followed the rhythm of the piano song with one hand, and the other hand was ready to poke the \"sister doll\".\n\nA melodious piano sound filled the room, and it soon reached the highlight of the song. It was when her sister confidently pressed the keys that Melissa poked the doll—she had rehearsed it to perfection when her sister was practicing the piano.\n\nAt that moment, the song started to go awry.\n\nHer sister kept hitting the wrong notes, once, twice, and the guests began to whisper to each other as they listened to the off-key melody. Her sister's pale face gradually turned crimson, until she finally broke and smashed the piano while cussing at it, and the entire audience was dead silent…\n\nWhen her sister and the maid who snitched rushed into Melissa's room, she had already changed into her old attire and sneaked out of the house with her little baggage and dolls.\n\nMelissa escaped from her father's house and returned to wander on the familiar streets.\n\nOne night, she dreamt of Cuddles speaking to her in her mom's voice, telling her not to be afraid because she would always protect her. Overwhelmed and ecstatic, Melissa threw herself at her mom, only to wake up alone on a rainy night the moment she raised her hands. Suddenly, in-explicit magic energy burst out from her heart—her dark magic ability inherited from her mother had awakened, and a girl endowed with curse magic from nature was thus born.\n\nAfter that night, Melissa decided to settle down and started a small tailor shop in the Lumina City, inside of which she recreated the layout of her mother's old shop, with various dolls hanging here and there. Sitting behind the counter, Melissa would always have her feet on the table and coldly stare at the bustling world outside with a sneer.\n\nDespite having the appearance of a normal tailor shop, Melissa's Tailor guarantees that all client's problems would be taken care of—on condition that the picky shop owner wouldn't refuse to take requests from you.\n\nAt the mere age of 16, Melissa really manages to solve every problem of her clients. She always produces some unexpected ideas to deal with the targets: it is either swapping an overdue contract with a loan shark, or telling a homeless child to hold a groom who abandoned his old love and call him daddy at his wedding.\n\nWhen those targets come to seek revenge on Melissa, she would grin and make them remember how it feels to be regretful with her cursed needles.\n\nNot long after she opened the shop, even the nobles begin to talk about it—\"Have you heard of Melissa's Tailor?\"\n\n\"I have. Is the owner really as good as they say?\"\n\n\"Yeah, I've got a tough job that needs some help with…\"\n\nIf you also find yourself in trouble in the Lumina City, just go to Melissa's Tailor and find its owner, Melissa…",
+    "recommended_skill_order": "3-1-2-0-1/2"
+  },
+  "ratings": {
+    "durability": 2,
+    "offense": 9,
+    "control": 4,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2320,
+    "health_growth": 155,
+    "health_regen": 6.6,
+    "health_regen_growth": 0.2143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 123,
+    "physical_attack_growth": 7.0,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.2857,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 0.94,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 248,
+    "attack_range": 4.6
+  },
+  "abilities": [
+    {
+      "id": "Melissa0",
+      "name": "Doll Buster",
+      "description": "\"My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?\"<br/><br/>(Melissa deals 125% damage to Minions, Creeps, and Summoned Units.)",
+      "flavor_text": "Uh-oh, Melissa's taken apart another bunch of dolls!",
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1885d2903ffe007effddfef83f69f28f.png",
+      "video_url": null
+    },
+    {
+      "id": "Melissa1",
+      "name": "Falling!",
+      "description": "\"Watch me slide forward and increase my Attack Speed by 50/55/60/65/70/75% for 3 seconds— Ah, that was just boring…\"<br/><br/>\"<highlight>Muddles</highlight>, go that way!\"<br/>\"<highlight>Cuddles</highlight>, come here!\"<br/><br/>",
+      "flavor_text": "Melissa is falling... In your dreams!",
+      "cost": "30/35/40/45/50/55",
+      "cooldown": "5/4.7/4.4/4.1/3.8/3.5",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c00db06b0bccee41a914ec8301feed2b.png",
+      "video_url": null
+    },
+    {
+      "id": "Melissa2",
+      "name": "Eyes on You!",
+      "description": "The plan's like this: Throw <highlight>Muddles</highlight> out to hold down the bad guys, and then… I come on stage!<br/>\"I puncture the bad guys, while <highlight>Giggles</highlight> hit <highlight>Muddles</highlight> to punish them as well! Hee, fantastic!\"<br/><br/>(<highlight>Muddles</highlight> deals 175/200/225/250/275/300<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> on the first hit and links nearby enemies for up to 6s. Linked enemies are slowed by 60% that decays over 1.5s and can break the link by moving out of the range. <highlight>Muddles</highlight> will return to Melissa early when there are no enemies around and immediately if she's too far away. When <highlight>Muddles</highlight> is present, you can tap the <highlight>Attack Minion</highlight> button to directly attack <highlight>Muddles</highlight>, though it cannot trigger the multi-hit damage. <highlight>Giggles</highlight> only hits <highlight>Muddles</highlight> when Melissa has a target for her Basic Attack.)",
+      "flavor_text": "Go, Muddles!",
+      "cost": "90",
+      "cooldown": "9/8.4/7.8/7.2/6.6/6",
+      "tags": [
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f7c343dbca6eb726c39c44f46397e47.png",
+      "video_url": null
+    },
+    {
+      "id": "Melissa3",
+      "name": "Go Away!",
+      "description": "<highlight>Cuddles</highlight>, protect me! For 4 seconds, let no bad guys come close. Unless I say otherwise!<br/><br/>(Upon activation, Melissa gains a 300/500/700<scaleAD> (+200% Extra Physical Attack)</scaleAD> shield and knocks back enemies in the area, dealing 500/700/900<scaleAP> (+100% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. Enemies attempting to enter the field are knocked back, taking 50/70/90<scaleAP> (+10% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and slowed briefly.<br>Movement skills are interrupted unless the target has Control Immunity.<br>The field will move with Melissa once, when she's about to move out of the boundary.)",
+      "flavor_text": "Did you know? Hugs will give you the courage to face the darkness.",
+      "cost": "120",
+      "cooldown": "50/45/40",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b5b3a37f13c02756c783788a2e2d675f.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Melissa0",
+      "sequence": "Melissa2-AA-Melissa1-Melissa3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Link enemies with her 2nd Skill for increased damage. Use 1st Skill to keep them linked and her Ultimate to stop enemies from getting close."
+    },
+    {
+      "id": "Melissa1",
+      "sequence": "Melissa2-AA-Melissa1-AA",
+      "name": "LANING COMBOS",
+      "description": "Link the enemy with her 2nd Skill and use Basic Attacks to deal extra damage. Chase enemies trying to flee with her 1st Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Tanks that can chain CC such as Tigreal and Minotaur,\nallowing her to keep enemies linked.",
+      "heroes": [
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        },
+        {
+          "id": 19,
+          "slug": "minotaur",
+          "name": "Minotaur"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Fighters like Sun and Zilong that can't get past her Ultimate.",
+      "heroes": [
+        {
+          "id": 27,
+          "slug": "sun",
+          "name": "Sun"
+        },
+        {
+          "id": 16,
+          "slug": "zilong",
+          "name": "Zilong"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Long range Mages such as Xavier and Nana.",
+      "heroes": [
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        },
+        {
+          "id": 5,
+          "slug": "nana",
+          "name": "Nana"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Melissa-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Melissa-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5c2a434757066a779c8adec5af05a8d1.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5c2a434757066a779c8adec5af05a8d1.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/melissa.json",
+    "visual_catalog": "catalog/v1/visual/melissa.json",
+    "upgrade_catalog": "catalog/v1/upgrade/melissa.json"
+  }
+}

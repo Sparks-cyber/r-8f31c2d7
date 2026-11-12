@@ -1,0 +1,192 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "argus-abyss",
+      "portrait_file": "Argus - Abyss.png",
+      "script_file": "Argus-Abyss.zip",
+      "skin_name": "Abyss",
+      "splash_file": "Argus - Abyss.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "argus-aizen",
+      "portrait_file": "Argus - Aizen.png",
+      "script_file": "Argus-Aizen.zip",
+      "skin_name": "Aizen",
+      "splash_file": "Argus - Aizen.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "argus-arogante",
+      "portrait_file": "Argus - Arogante.png",
+      "script_file": "Argus-Arogante.zip",
+      "skin_name": "Arogante",
+      "splash_file": "Argus - Arogante.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "argus-baraggan",
+      "portrait_file": "Argus - Baraggan.png",
+      "script_file": "Argus-Baraggan.zip",
+      "skin_name": "Baraggan",
+      "splash_file": "Argus - Baraggan.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "argus-hidan",
+      "portrait_file": "Argus - Hidan.png",
+      "script_file": "Argus-Hidan.zip",
+      "skin_name": "Hidan",
+      "splash_file": "Argus - Hidan.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "argus-inferno",
+      "portrait_file": "Argus - Inferno.png",
+      "script_file": "Argus-Inferno.zip",
+      "skin_name": "Inferno",
+      "splash_file": "Argus - Inferno.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "argus-kenpachi",
+      "portrait_file": "Argus - Kenpachi.png",
+      "script_file": "Argus-Kenpachi.zip",
+      "skin_name": "Kenpachi",
+      "splash_file": "Argus - Kenpachi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "argus-kokushibo",
+      "portrait_file": "Argus - Kokushibo.png",
+      "script_file": "Argus-Kokushibo.zip",
+      "skin_name": "Kokushibo",
+      "splash_file": "Argus - Kokushibo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "argus-monitor-lizard",
+      "portrait_file": "Argus - Monitor Lizard.png",
+      "script_file": "Argus-Monitor-Lizard.zip",
+      "skin_name": "Monitor Lizard",
+      "splash_file": "Argus - Monitor Lizard.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Memes & Novelty"
+    },
+    {
+      "enabled": true,
+      "id": "argus-neobeast",
+      "portrait_file": "Argus - Neobeast.png",
+      "script_file": "Argus-Neobeast.zip",
+      "skin_name": "Neobeast",
+      "splash_file": "Argus - Neobeast.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "argus-onimaru",
+      "portrait_file": "Argus - Onimaru.png",
+      "script_file": "Argus-Onimaru.zip",
+      "skin_name": "Onimaru",
+      "splash_file": "Argus - Onimaru.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "argus-ryu-yamada",
+      "portrait_file": "Argus - Ryu Yamada.png",
+      "script_file": "Argus-Ryu-Yamada.zip",
+      "skin_name": "Ryu Yamada",
+      "splash_file": "Argus - Ryu Yamada.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "argus-sousuke-aizen",
+      "portrait_file": "Argus - Sousuke Aizen.png",
+      "script_file": "Argus-Sousuke-Aizen.zip",
+      "skin_name": "Sousuke Aizen",
+      "splash_file": "Argus - Sousuke Aizen.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "argus-steve",
+      "portrait_file": "Argus - Steve.png",
+      "script_file": "Argus-Steve.zip",
+      "skin_name": "Steve",
+      "splash_file": "Argus - Steve.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "argus-toji",
+      "portrait_file": "Argus - Toji.png",
+      "script_file": "Argus-Toji.zip",
+      "skin_name": "Toji",
+      "splash_file": "Argus - Toji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "argus-toji-fushiguro",
+      "portrait_file": "Argus - Toji Fushiguro.png",
+      "script_file": "Argus-Toji-Fushiguro.zip",
+      "skin_name": "Toji Fushiguro",
+      "splash_file": "Argus - Toji Fushiguro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 45,
+    "name": "Argus",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "argus"
+  },
+  "release_tag": "custom-argus",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

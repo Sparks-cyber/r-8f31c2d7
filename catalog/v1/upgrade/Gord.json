@@ -1,0 +1,431 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Gord",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Professor of Hell",
+      "Splash_url": "Gord-Professor-of-Hell.png",
+      "script": "Gord-Professor-of-Hell-Backup.zip",
+      "Portrait_url": "Gord-Professor-of-Hell.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Gord-Christmas-Carnival.png",
+          "Splash_url": "Gord-Christmas-Carnival.png",
+          "script": "Gord-Professor-of-Hell-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Conqueror",
+          "Portrait_url": "Gord-Conqueror.png",
+          "Splash_url": "Gord-Conqueror.png",
+          "script": "Gord-Professor-of-Hell-Conqueror.zip"
+        },
+        {
+          "name": "No.1 Controller",
+          "Portrait_url": "Gord-No-1-Controller.png",
+          "Splash_url": "Gord-No-1-Controller.png",
+          "script": "Gord-Professor-of-Hell-No-1-Controller.zip"
+        },
+        {
+          "name": "New Baron",
+          "Portrait_url": "Gord-New-Baron.png",
+          "Splash_url": "Gord-New-Baron.png",
+          "script": "Gord-Professor-of-Hell-New-Baron.zip"
+        },
+        {
+          "name": "Cyber Hacker",
+          "Portrait_url": "Gord-Cyber-Hacker.png",
+          "Splash_url": "Gord-Cyber-Hacker.png",
+          "script": "Gord-Professor-of-Hell-Cyber-Hacker.zip"
+        },
+        {
+          "name": "Imperator Vitalis",
+          "Portrait_url": "Gord-Imperator-Vitalis.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Professor-of-Hell-Imperator-Vitalis.zip"
+        },
+        {
+          "name": "Imperator Silas Painted 01",
+          "Portrait_url": "Gord-Imperator-Silas.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Professor-of-Hell-Imperator-Silas-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Gord-Christmas-Carnival.png",
+      "script": "Gord-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Gord-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Professor of Hell",
+          "Portrait_url": "Gord-Professor-of-Hell.png",
+          "Splash_url": "Gord-Professor-of-Hell.png",
+          "script": "Gord-Christmas-Carnival-Professor-of-Hell.zip"
+        },
+        {
+          "name": "Conqueror",
+          "Portrait_url": "Gord-Conqueror.png",
+          "Splash_url": "Gord-Conqueror.png",
+          "script": "Gord-Christmas-Carnival-Conqueror.zip"
+        },
+        {
+          "name": "No.1 Controller",
+          "Portrait_url": "Gord-No-1-Controller.png",
+          "Splash_url": "Gord-No-1-Controller.png",
+          "script": "Gord-Christmas-Carnival-No-1-Controller.zip"
+        },
+        {
+          "name": "New Baron",
+          "Portrait_url": "Gord-New-Baron.png",
+          "Splash_url": "Gord-New-Baron.png",
+          "script": "Gord-Christmas-Carnival-New-Baron.zip"
+        },
+        {
+          "name": "Cyber Hacker",
+          "Portrait_url": "Gord-Cyber-Hacker.png",
+          "Splash_url": "Gord-Cyber-Hacker.png",
+          "script": "Gord-Christmas-Carnival-Cyber-Hacker.zip"
+        },
+        {
+          "name": "Imperator Vitalis",
+          "Portrait_url": "Gord-Imperator-Vitalis.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Christmas-Carnival-Imperator-Vitalis.zip"
+        },
+        {
+          "name": "Imperator Silas Painted 01",
+          "Portrait_url": "Gord-Imperator-Silas.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Christmas-Carnival-Imperator-Silas-Painted-01.zip"
+        },
+        {
+          "name": "Imperator Stellaris",
+          "Portrait_url": "Gord-Imperator-Stellaris.png",
+          "Splash_url": "Gord - Imperator Stellaris.jpg",
+          "script": "Gord-Christmas-Carnival-Imperator-Stellaris.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Conqueror",
+      "Splash_url": "Gord-Conqueror.png",
+      "script": "Gord-Conqueror-Backup.zip",
+      "Portrait_url": "Gord-Conqueror.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Professor of Hell",
+          "Portrait_url": "Gord-Professor-of-Hell.png",
+          "Splash_url": "Gord-Professor-of-Hell.png",
+          "script": "Gord-Conqueror-Professor-of-Hell.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Gord-Christmas-Carnival.png",
+          "Splash_url": "Gord-Christmas-Carnival.png",
+          "script": "Gord-Conqueror-Christmas-Carnival.zip"
+        },
+        {
+          "name": "No.1 Controller",
+          "Portrait_url": "Gord-No-1-Controller.png",
+          "Splash_url": "Gord-No-1-Controller.png",
+          "script": "Gord-Conqueror-No-1-Controller.zip"
+        },
+        {
+          "name": "New Baron",
+          "Portrait_url": "Gord-New-Baron.png",
+          "Splash_url": "Gord-New-Baron.png",
+          "script": "Gord-Conqueror-New-Baron.zip"
+        },
+        {
+          "name": "Cyber Hacker",
+          "Portrait_url": "Gord-Cyber-Hacker.png",
+          "Splash_url": "Gord-Cyber-Hacker.png",
+          "script": "Gord-Conqueror-Cyber-Hacker.zip"
+        },
+        {
+          "name": "Imperator Vitalis",
+          "Portrait_url": "Gord-Imperator-Vitalis.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Conqueror-Imperator-Vitalis.zip"
+        },
+        {
+          "name": "Imperator Silas Painted 01",
+          "Portrait_url": "Gord-Imperator-Silas.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Conqueror-Imperator-Silas-Painted-01.zip"
+        },
+        {
+          "name": "Imperator Stellaris",
+          "Portrait_url": "Gord-Imperator-Stellaris.png",
+          "Splash_url": "Gord - Imperator Stellaris.jpg",
+          "script": "Gord-Conqueror-Imperator-Stellaris.zip"
+        }
+      ]
+    },
+    {
+      "name": "Annual StarLight",
+      "Default_name": "No.1 Controller",
+      "Splash_url": "Gord-No-1-Controller.png",
+      "script": "Gord-No-1-Controller-Backup.zip",
+      "Portrait_url": "Gord-No-1-Controller.png",
+      "Tags": [
+        "Annual Starlight.png"
+      ],
+      "targets": [
+        {
+          "name": "Professor of Hell",
+          "Portrait_url": "Gord-Professor-of-Hell.png",
+          "Splash_url": "Gord-Professor-of-Hell.png",
+          "script": "Gord-No-1-Controller-Professor-of-Hell.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Gord-Christmas-Carnival.png",
+          "Splash_url": "Gord-Christmas-Carnival.png",
+          "script": "Gord-No-1-Controller-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Conqueror",
+          "Portrait_url": "Gord-Conqueror.png",
+          "Splash_url": "Gord-Conqueror.png",
+          "script": "Gord-No-1-Controller-Conqueror.zip"
+        },
+        {
+          "name": "New Baron",
+          "Portrait_url": "Gord-New-Baron.png",
+          "Splash_url": "Gord-New-Baron.png",
+          "script": "Gord-No-1-Controller-New-Baron.zip"
+        },
+        {
+          "name": "Cyber Hacker",
+          "Portrait_url": "Gord-Cyber-Hacker.png",
+          "Splash_url": "Gord-Cyber-Hacker.png",
+          "script": "Gord-No-1-Controller-Cyber-Hacker.zip"
+        },
+        {
+          "name": "Imperator Vitalis",
+          "Portrait_url": "Gord-Imperator-Vitalis.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-No-1-Controller-Imperator-Vitalis.zip"
+        },
+        {
+          "name": "Imperator Silas Painted 01",
+          "Portrait_url": "Gord-Imperator-Silas.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-No-1-Controller-Imperator-Silas-Painted-01.zip"
+        },
+        {
+          "name": "Imperator Stellaris",
+          "Portrait_url": "Gord-Imperator-Stellaris.png",
+          "Splash_url": "Gord - Imperator Stellaris.jpg",
+          "script": "Gord-No-1-Controller-Imperator-Stellaris.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "New Baron",
+      "Splash_url": "Gord-New-Baron.png",
+      "script": "Gord-New-Baron-Backup.zip",
+      "Portrait_url": "Gord-New-Baron.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Professor of Hell",
+          "Portrait_url": "Gord-Professor-of-Hell.png",
+          "Splash_url": "Gord-Professor-of-Hell.png",
+          "script": "Gord-New-Baron-Professor-of-Hell.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Gord-Christmas-Carnival.png",
+          "Splash_url": "Gord-Christmas-Carnival.png",
+          "script": "Gord-New-Baron-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Conqueror",
+          "Portrait_url": "Gord-Conqueror.png",
+          "Splash_url": "Gord-Conqueror.png",
+          "script": "Gord-New-Baron-Conqueror.zip"
+        },
+        {
+          "name": "No.1 Controller",
+          "Portrait_url": "Gord-No-1-Controller.png",
+          "Splash_url": "Gord-No-1-Controller.png",
+          "script": "Gord-New-Baron-No-1-Controller.zip"
+        },
+        {
+          "name": "Cyber Hacker",
+          "Portrait_url": "Gord-Cyber-Hacker.png",
+          "Splash_url": "Gord-Cyber-Hacker.png",
+          "script": "Gord-New-Baron-Cyber-Hacker.zip"
+        },
+        {
+          "name": "Imperator Vitalis",
+          "Portrait_url": "Gord-Imperator-Vitalis.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-New-Baron-Imperator-Vitalis.zip"
+        },
+        {
+          "name": "Imperator Silas Painted 01",
+          "Portrait_url": "Gord-Imperator-Silas.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-New-Baron-Imperator-Silas-Painted-01.zip"
+        },
+        {
+          "name": "Imperator Stellaris",
+          "Portrait_url": "Gord-Imperator-Stellaris.png",
+          "Splash_url": "Gord - Imperator Stellaris.jpg",
+          "script": "Gord-New-Baron-Imperator-Stellaris.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Cyber Hacker",
+      "Splash_url": "Gord-Cyber-Hacker.png",
+      "script": "Gord-Cyber-Hacker-Backup.zip",
+      "Portrait_url": "Gord-Cyber-Hacker.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Professor of Hell",
+          "Portrait_url": "Gord-Professor-of-Hell.png",
+          "Splash_url": "Gord-Professor-of-Hell.png",
+          "script": "Gord-Cyber-Hacker-Professor-of-Hell.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Gord-Christmas-Carnival.png",
+          "Splash_url": "Gord-Christmas-Carnival.png",
+          "script": "Gord-Cyber-Hacker-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Conqueror",
+          "Portrait_url": "Gord-Conqueror.png",
+          "Splash_url": "Gord-Conqueror.png",
+          "script": "Gord-Cyber-Hacker-Conqueror.zip"
+        },
+        {
+          "name": "No.1 Controller",
+          "Portrait_url": "Gord-No-1-Controller.png",
+          "Splash_url": "Gord-No-1-Controller.png",
+          "script": "Gord-Cyber-Hacker-No-1-Controller.zip"
+        },
+        {
+          "name": "New Baron",
+          "Portrait_url": "Gord-New-Baron.png",
+          "Splash_url": "Gord-New-Baron.png",
+          "script": "Gord-Cyber-Hacker-New-Baron.zip"
+        },
+        {
+          "name": "Imperator Vitalis",
+          "Portrait_url": "Gord-Imperator-Vitalis.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Cyber-Hacker-Imperator-Vitalis.zip"
+        },
+        {
+          "name": "Imperator Silas Painted 01",
+          "Portrait_url": "Gord-Imperator-Silas.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Cyber-Hacker-Imperator-Silas-Painted-01.zip"
+        },
+        {
+          "name": "Imperator Stellaris",
+          "Portrait_url": "Gord-Imperator-Stellaris.png",
+          "Splash_url": "Gord - Imperator Stellaris.jpg",
+          "script": "Gord-Cyber-Hacker-Imperator-Stellaris.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Imperator Vitalis",
+      "Splash_url": "Gord-Imperator-Vitalis.png",
+      "script": "Gord-Imperator-Vitalis-Backup.zip",
+      "Portrait_url": "Gord-Imperator-Vitalis.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Professor of Hell",
+          "Portrait_url": "Gord-Professor-of-Hell.png",
+          "Splash_url": "Gord-Professor-of-Hell.png",
+          "script": "Gord-Imperator-Vitalis-Professor-of-Hell.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Gord-Christmas-Carnival.png",
+          "Splash_url": "Gord-Christmas-Carnival.png",
+          "script": "Gord-Imperator-Vitalis-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Conqueror",
+          "Portrait_url": "Gord-Conqueror.png",
+          "Splash_url": "Gord-Conqueror.png",
+          "script": "Gord-Imperator-Vitalis-Conqueror.zip"
+        },
+        {
+          "name": "No.1 Controller",
+          "Portrait_url": "Gord-No-1-Controller.png",
+          "Splash_url": "Gord-No-1-Controller.png",
+          "script": "Gord-Imperator-Vitalis-No-1-Controller.zip"
+        },
+        {
+          "name": "New Baron",
+          "Portrait_url": "Gord-New-Baron.png",
+          "Splash_url": "Gord-New-Baron.png",
+          "script": "Gord-Imperator-Vitalis-New-Baron.zip"
+        },
+        {
+          "name": "Cyber Hacker",
+          "Portrait_url": "Gord-Cyber-Hacker.png",
+          "Splash_url": "Gord-Cyber-Hacker.png",
+          "script": "Gord-Imperator-Vitalis-Cyber-Hacker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Imperator Silas Skin 08",
+      "Splash_url": "Gord-Imperator-Silas.png",
+      "script": "Gord-Imperator-Silas-Skin-08-Backup.zip",
+      "Portrait_url": "Gord-Imperator-Silas.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Imperator Silas Painted 01",
+          "Portrait_url": "Gord-Imperator-Silas.png",
+          "Splash_url": "Gord-Imperator-Vitalis.png",
+          "script": "Gord-Imperator-Silas-Skin-08-Imperator-Silas-Painted-01.zip"
+        },
+        {
+          "name": "Imperator Stellaris",
+          "Portrait_url": "Gord-Imperator-Stellaris.png",
+          "Splash_url": "Gord - Imperator Stellaris.jpg",
+          "script": "Gord-Imperator-Silas-Skin-08-Imperator-Stellaris.zip"
+        }
+      ]
+    }
+  ]
+}

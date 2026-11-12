@@ -1,0 +1,71 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "dyrroth-ace",
+      "portrait_file": "Dyrroth - Ace.png",
+      "script_file": "Dyrroth-Ace.zip",
+      "skin_name": "Ace",
+      "splash_file": "Dyrroth - Ace.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "dyrroth-cobalt-energy",
+      "portrait_file": "Dyrroth - Cobalt Energy.png",
+      "script_file": "Dyrroth-Cobalt-Energy.zip",
+      "skin_name": "Cobalt Energy",
+      "splash_file": "Dyrroth - Cobalt Energy.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "dyrroth-gojo",
+      "portrait_file": "Dyrroth - Gojo.png",
+      "script_file": "Dyrroth-Gojo.zip",
+      "skin_name": "Gojo",
+      "splash_file": "Dyrroth - Gojo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "dyrroth-lightborn",
+      "portrait_file": "Dyrroth - Lightborn.png",
+      "script_file": "Dyrroth-Lightborn.zip",
+      "skin_name": "Lightborn",
+      "splash_file": "Dyrroth - Lightborn.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "dyrroth-sasuke",
+      "portrait_file": "Dyrroth - Sasuke.png",
+      "script_file": "Dyrroth-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Dyrroth - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 85,
+    "name": "Dyrroth",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "dyrroth"
+  },
+  "release_tag": "custom-dyrroth",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

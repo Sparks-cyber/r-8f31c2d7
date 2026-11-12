@@ -1,0 +1,659 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Balmond",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Power Source",
+      "Splash_url": "Balmond-Power-Source.png",
+      "script": "Balmond-Power-Source-Backup.zip",
+      "Portrait_url": "Balmond-Power-Source.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Power-Source-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Power-Source-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Power-Source-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Power-Source-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Power-Source-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Power-Source-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-Power-Source-Razor-Edge.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Power-Source-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Power-Source-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Ghoul's Fury",
+      "Splash_url": "Balmond-Ghoul-s-Fury.png",
+      "script": "Balmond-Ghoul-s-Fury-Backup.zip",
+      "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Ghoul-s-Fury-Power-Source.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Ghoul-s-Fury-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Ghoul-s-Fury-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Ghoul-s-Fury-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Ghoul-s-Fury-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Ghoul-s-Fury-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-Ghoul-s-Fury-Razor-Edge.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Ghoul-s-Fury-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Ghoul-s-Fury-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Savage Hunter",
+      "Splash_url": "Balmond-Savage-Hunter.png",
+      "script": "Balmond-Savage-Hunter-Backup.zip",
+      "Portrait_url": "Balmond-Savage-Hunter.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Savage-Hunter-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Savage-Hunter-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Savage-Hunter-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Savage-Hunter-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Savage-Hunter-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Savage-Hunter-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-Savage-Hunter-Razor-Edge.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Savage-Hunter-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Savage-Hunter-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "God of Mountains",
+      "Splash_url": "Balmond-God-of-Mountains.png",
+      "script": "Balmond-God-of-Mountains-Backup.zip",
+      "Portrait_url": "Balmond-God-of-Mountains.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-God-of-Mountains-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-God-of-Mountains-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-God-of-Mountains-Savage-Hunter.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-God-of-Mountains-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-God-of-Mountains-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-God-of-Mountains-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-God-of-Mountains-Razor-Edge.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-God-of-Mountains-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-God-of-Mountains-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Savage Pointguard",
+      "Splash_url": "Balmond-Savage-Pointguard.png",
+      "script": "Balmond-Savage-Pointguard-Backup.zip",
+      "Portrait_url": "Balmond-Savage-Pointguard.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Savage-Pointguard-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Savage-Pointguard-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Savage-Pointguard-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Savage-Pointguard-God-of-Mountains.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Savage-Pointguard-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Savage-Pointguard-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-Savage-Pointguard-Razor-Edge.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Savage-Pointguard-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Savage-Pointguard-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Bioroid",
+      "Splash_url": "Balmond-Bioroid.png",
+      "script": "Balmond-Bioroid-Backup.zip",
+      "Portrait_url": "Balmond-Bioroid.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Bioroid-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Bioroid-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Bioroid-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Bioroid-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Bioroid-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Bioroid-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-Bioroid-Razor-Edge.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Bioroid-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Bioroid-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Infernal Warlord",
+      "Splash_url": "Balmond-Infernal-Warlord.png",
+      "script": "Balmond-Infernal-Warlord-Backup.zip",
+      "Portrait_url": "Balmond-Infernal-Warlord.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Infernal-Warlord-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Infernal-Warlord-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Infernal-Warlord-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Infernal-Warlord-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Infernal-Warlord-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Infernal-Warlord-Bioroid.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Infernal-Warlord-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Infernal-Warlord-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Razor Edge",
+      "Splash_url": "Balmond-Razor-Edge.png",
+      "script": "Balmond-Razor-Edge-Backup.zip",
+      "Portrait_url": "Balmond-Razor-Edge.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Razor-Edge-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Razor-Edge-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Razor-Edge-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Razor-Edge-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Razor-Edge-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Razor-Edge-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Razor-Edge-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Razor-Edge-Mighty-Pointguard.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Razor-Edge-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Mighty Pointguard",
+      "Splash_url": "Balmond-Mighty-Pointguard.png",
+      "script": "Balmond-Mighty-Pointguard-Backup.zip",
+      "Portrait_url": "Balmond-Mighty-Pointguard.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Mighty-Pointguard-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Mighty-Pointguard-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Mighty-Pointguard-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Mighty-Pointguard-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Mighty-Pointguard-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Mighty-Pointguard-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Mighty-Pointguard-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-Mighty-Pointguard-Razor-Edge.zip"
+        },
+        {
+          "name": "Vulcan Lionheart",
+          "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+          "Splash_url": "Balmond-Vulcan-Lionheart.png",
+          "script": "Balmond-Mighty-Pointguard-Vulcan-Lionheart.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Vulcan Lionheart",
+      "Splash_url": "Balmond-Vulcan-Lionheart.png",
+      "script": "Balmond-Vulcan-Lionheart-Backup.zip",
+      "Portrait_url": "Balmond-Vulcan-Lionheart.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Power Source",
+          "Portrait_url": "Balmond-Power-Source.png",
+          "Splash_url": "Balmond-Power-Source.png",
+          "script": "Balmond-Vulcan-Lionheart-Power-Source.zip"
+        },
+        {
+          "name": "Ghoul's Fury",
+          "Portrait_url": "Balmond-Ghoul-s-Fury.png",
+          "Splash_url": "Balmond-Ghoul-s-Fury.png",
+          "script": "Balmond-Vulcan-Lionheart-Ghoul-s-Fury.zip"
+        },
+        {
+          "name": "Savage Hunter",
+          "Portrait_url": "Balmond-Savage-Hunter.png",
+          "Splash_url": "Balmond-Savage-Hunter.png",
+          "script": "Balmond-Vulcan-Lionheart-Savage-Hunter.zip"
+        },
+        {
+          "name": "God of Mountains",
+          "Portrait_url": "Balmond-God-of-Mountains.png",
+          "Splash_url": "Balmond-God-of-Mountains.png",
+          "script": "Balmond-Vulcan-Lionheart-God-of-Mountains.zip"
+        },
+        {
+          "name": "Savage Pointguard",
+          "Portrait_url": "Balmond-Savage-Pointguard.png",
+          "Splash_url": "Balmond-Savage-Pointguard.png",
+          "script": "Balmond-Vulcan-Lionheart-Savage-Pointguard.zip"
+        },
+        {
+          "name": "Bioroid",
+          "Portrait_url": "Balmond-Bioroid.png",
+          "Splash_url": "Balmond-Bioroid.png",
+          "script": "Balmond-Vulcan-Lionheart-Bioroid.zip"
+        },
+        {
+          "name": "Infernal Warlord",
+          "Portrait_url": "Balmond-Infernal-Warlord.png",
+          "Splash_url": "Balmond-Infernal-Warlord.png",
+          "script": "Balmond-Vulcan-Lionheart-Infernal-Warlord.zip"
+        },
+        {
+          "name": "Razor Edge",
+          "Portrait_url": "Balmond-Razor-Edge.png",
+          "Splash_url": "Balmond-Razor-Edge.png",
+          "script": "Balmond-Vulcan-Lionheart-Razor-Edge.zip"
+        },
+        {
+          "name": "Mighty Pointguard",
+          "Portrait_url": "Balmond-Mighty-Pointguard.png",
+          "Splash_url": "Balmond-Mighty-Pointguard.png",
+          "script": "Balmond-Vulcan-Lionheart-Mighty-Pointguard.zip"
+        }
+      ]
+    }
+  ]
+}

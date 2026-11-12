@@ -1,0 +1,50 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "barats-colossal-titan",
+      "portrait_file": "Barats - Colossal Titan.png",
+      "script_file": "Barats-Colossal-Titan.zip",
+      "skin_name": "Colossal Titan",
+      "splash_file": "Barats - Colossal Titan.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "barats-dinosaurawrrr",
+      "portrait_file": "Barats - DinosauRawrrr.png",
+      "script_file": "Barats-DinosauRawrrr.zip",
+      "skin_name": "DinosauRawrrr",
+      "splash_file": "Barats - DinosauRawrrr.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Memes & Novelty"
+    },
+    {
+      "enabled": true,
+      "id": "barats-ironhide",
+      "portrait_file": "Barats - Ironhide.png",
+      "script_file": "Barats-Ironhide.zip",
+      "skin_name": "Ironhide",
+      "splash_file": "Barats - Ironhide.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    }
+  ],
+  "hero": {
+    "id": 99,
+    "name": "Barats",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "slug": "barats"
+  },
+  "release_tag": "custom-barats",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

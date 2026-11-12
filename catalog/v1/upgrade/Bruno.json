@@ -1,0 +1,625 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Bruno",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Vanguard Elite",
+      "Splash_url": "Bruno-Vanguard-Elite.png",
+      "script": "Bruno-Vanguard-Elite-Backup.zip",
+      "Portrait_url": "Bruno-Vanguard-Elite.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-Vanguard-Elite-Street-Football.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-Vanguard-Elite-The-Falcon.zip"
+        },
+        {
+          "name": "Firebolt",
+          "Portrait_url": "Bruno-Firebolt.png",
+          "Splash_url": "Bruno-Firebolt.png",
+          "script": "Bruno-Vanguard-Elite-Firebolt.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-Vanguard-Elite-Street-Hype.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-Vanguard-Elite-Halo-Striker.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-Vanguard-Elite-Neymar-Jr.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-Vanguard-Elite-The-Purifier.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-Vanguard-Elite-Tropical-DJ.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-Vanguard-Elite-Urban-Hype.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Best DJ",
+      "Splash_url": "Bruno-Best-DJ.png",
+      "script": "Bruno-Best-DJ-Backup.zip",
+      "Portrait_url": "Bruno-Best-DJ.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-Best-DJ-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-Best-DJ-Street-Football.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-Best-DJ-The-Falcon.zip"
+        },
+        {
+          "name": "Firebolt",
+          "Portrait_url": "Bruno-Firebolt.png",
+          "Splash_url": "Bruno-Firebolt.png",
+          "script": "Bruno-Best-DJ-Firebolt.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-Best-DJ-Street-Hype.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-Best-DJ-Halo-Striker.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-Best-DJ-Neymar-Jr.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-Best-DJ-The-Purifier.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-Best-DJ-Urban-Hype.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Street Football",
+      "Splash_url": "Bruno-Street-Football.png",
+      "script": "Bruno-Street-Football-Backup.zip",
+      "Portrait_url": "Bruno-Street-Football.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-Street-Football-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Best DJ",
+          "Portrait_url": "Bruno-Best-DJ.png",
+          "Splash_url": "Bruno-Best-DJ.png",
+          "script": "Bruno-Street-Football-Best-DJ.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-Street-Football-The-Falcon.zip"
+        },
+        {
+          "name": "Firebolt",
+          "Portrait_url": "Bruno-Firebolt.png",
+          "Splash_url": "Bruno-Firebolt.png",
+          "script": "Bruno-Street-Football-Firebolt.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-Street-Football-Street-Hype.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-Street-Football-Halo-Striker.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-Street-Football-Neymar-Jr.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-Street-Football-The-Purifier.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-Street-Football-Tropical-DJ.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-Street-Football-Urban-Hype.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "The Falcon",
+      "Splash_url": "Bruno-The-Falcon.png",
+      "script": "Bruno-The-Falcon-Backup.zip",
+      "Portrait_url": "Bruno-The-Falcon.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-The-Falcon-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Best DJ",
+          "Portrait_url": "Bruno-Best-DJ.png",
+          "Splash_url": "Bruno-Best-DJ.png",
+          "script": "Bruno-The-Falcon-Best-DJ.zip"
+        },
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-The-Falcon-Street-Football.zip"
+        },
+        {
+          "name": "Firebolt",
+          "Portrait_url": "Bruno-Firebolt.png",
+          "Splash_url": "Bruno-Firebolt.png",
+          "script": "Bruno-The-Falcon-Firebolt.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-The-Falcon-Street-Hype.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-The-Falcon-Halo-Striker.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-The-Falcon-Neymar-Jr.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-The-Falcon-The-Purifier.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-The-Falcon-Tropical-DJ.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-The-Falcon-Urban-Hype.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dawning Stars",
+      "Default_name": "Firebolt",
+      "Splash_url": "Bruno-Firebolt.png",
+      "script": "Bruno-Firebolt-Backup.zip",
+      "Portrait_url": "Bruno-Firebolt.png",
+      "Tags": [
+        "Dawning Stars.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-Firebolt-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Best DJ",
+          "Portrait_url": "Bruno-Best-DJ.png",
+          "Splash_url": "Bruno-Best-DJ.png",
+          "script": "Bruno-Firebolt-Best-DJ.zip"
+        },
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-Firebolt-Street-Football.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-Firebolt-The-Falcon.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-Firebolt-Street-Hype.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-Firebolt-Halo-Striker.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-Firebolt-Neymar-Jr.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-Firebolt-The-Purifier.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-Firebolt-Tropical-DJ.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-Firebolt-Urban-Hype.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Street Hype",
+      "Splash_url": "Bruno-Street-Hype.png",
+      "script": "Bruno-Street-Hype-Backup.zip",
+      "Portrait_url": "Bruno-Street-Hype.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-Street-Hype-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Best DJ",
+          "Portrait_url": "Bruno-Best-DJ.png",
+          "Splash_url": "Bruno-Best-DJ.png",
+          "script": "Bruno-Street-Hype-Best-DJ.zip"
+        },
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-Street-Hype-Street-Football.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-Street-Hype-The-Falcon.zip"
+        },
+        {
+          "name": "Firebolt",
+          "Portrait_url": "Bruno-Firebolt.png",
+          "Splash_url": "Bruno-Firebolt.png",
+          "script": "Bruno-Street-Hype-Firebolt.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-Street-Hype-Halo-Striker.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-Street-Hype-Neymar-Jr.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-Street-Hype-The-Purifier.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-Street-Hype-Tropical-DJ.zip"
+        }
+      ]
+    },
+    {
+      "name": "Neymar Jr",
+      "Default_name": "Halo Striker",
+      "Splash_url": "Bruno-Halo-Striker.png",
+      "script": "Bruno-Halo-Striker-Backup.zip",
+      "Portrait_url": "Bruno-Halo-Striker.png",
+      "Tags": [
+        "Neymar Jr.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-Halo-Striker-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Best DJ",
+          "Portrait_url": "Bruno-Best-DJ.png",
+          "Splash_url": "Bruno-Best-DJ.png",
+          "script": "Bruno-Halo-Striker-Best-DJ.zip"
+        },
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-Halo-Striker-Street-Football.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-Halo-Striker-The-Falcon.zip"
+        },
+        {
+          "name": "Firebolt",
+          "Portrait_url": "Bruno-Firebolt.png",
+          "Splash_url": "Bruno-Firebolt.png",
+          "script": "Bruno-Halo-Striker-Firebolt.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-Halo-Striker-Street-Hype.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-Halo-Striker-Neymar-Jr.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-Halo-Striker-The-Purifier.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-Halo-Striker-Tropical-DJ.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-Halo-Striker-Urban-Hype.zip"
+        }
+      ]
+    },
+    {
+      "name": "Neymar Jr",
+      "Default_name": "Neymar Jr",
+      "Splash_url": "Bruno-Neymar-Jr.png",
+      "script": "Bruno-Neymar-Jr-Backup.zip",
+      "Portrait_url": "Bruno-Neymar-Jr.png",
+      "Tags": [
+        "Neymar Jr.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-Neymar-Jr-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Best DJ",
+          "Portrait_url": "Bruno-Best-DJ.png",
+          "Splash_url": "Bruno-Best-DJ.png",
+          "script": "Bruno-Neymar-Jr-Best-DJ.zip"
+        },
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-Neymar-Jr-Street-Football.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-Neymar-Jr-The-Falcon.zip"
+        },
+        {
+          "name": "Firebolt",
+          "Portrait_url": "Bruno-Firebolt.png",
+          "Splash_url": "Bruno-Firebolt.png",
+          "script": "Bruno-Neymar-Jr-Firebolt.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-Neymar-Jr-Street-Hype.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-Neymar-Jr-Halo-Striker.zip"
+        },
+        {
+          "name": "The Purifier",
+          "Portrait_url": "Bruno-The-Purifier.png",
+          "Splash_url": "Bruno-The-Purifier.png",
+          "script": "Bruno-Neymar-Jr-The-Purifier.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-Neymar-Jr-Tropical-DJ.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-Neymar-Jr-Urban-Hype.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "The Purifier",
+      "Splash_url": "Bruno-The-Purifier.png",
+      "script": "Bruno-The-Purifier-Backup.zip",
+      "Portrait_url": "Bruno-The-Purifier.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Vanguard Elite",
+          "Portrait_url": "Bruno-Vanguard-Elite.png",
+          "Splash_url": "Bruno-Vanguard-Elite.png",
+          "script": "Bruno-The-Purifier-Vanguard-Elite.zip"
+        },
+        {
+          "name": "Street Football",
+          "Portrait_url": "Bruno-Street-Football.png",
+          "Splash_url": "Bruno-Street-Football.png",
+          "script": "Bruno-The-Purifier-Street-Football.zip"
+        },
+        {
+          "name": "The Falcon",
+          "Portrait_url": "Bruno-The-Falcon.png",
+          "Splash_url": "Bruno-The-Falcon.png",
+          "script": "Bruno-The-Purifier-The-Falcon.zip"
+        },
+        {
+          "name": "Street Hype",
+          "Portrait_url": "Bruno-Street-Hype.png",
+          "Splash_url": "Bruno-Street-Hype.png",
+          "script": "Bruno-The-Purifier-Street-Hype.zip"
+        },
+        {
+          "name": "Halo Striker",
+          "Portrait_url": "Bruno-Halo-Striker.png",
+          "Splash_url": "Bruno-Halo-Striker.png",
+          "script": "Bruno-The-Purifier-Halo-Striker.zip"
+        },
+        {
+          "name": "Neymar Jr",
+          "Portrait_url": "Bruno-Neymar-Jr.png",
+          "Splash_url": "Bruno-Neymar-Jr.png",
+          "script": "Bruno-The-Purifier-Neymar-Jr.zip"
+        },
+        {
+          "name": "Tropical DJ",
+          "Portrait_url": "Bruno-Tropical-DJ.png",
+          "Splash_url": "Bruno-Tropical-DJ.png",
+          "script": "Bruno-The-Purifier-Tropical-DJ.zip"
+        },
+        {
+          "name": "Urban Hype",
+          "Portrait_url": "Bruno-Urban-Hype.png",
+          "Splash_url": "Bruno - Urban Hype.jpg",
+          "script": "Bruno-The-Purifier-Urban-Hype.zip"
+        }
+      ]
+    }
+  ]
+}

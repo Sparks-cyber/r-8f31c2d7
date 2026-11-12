@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 125,
+    "slug": "zhuxin",
+    "name": "Zhuxin",
+    "skin_name": "Beacon of Spirits",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Damage",
+      "Crowd Control"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "29 June 2024",
+    "resource": "Mana",
+    "short_description": "A mysterious young woman who guides the ember butterflies using her Lantern of Spirits.",
+    "brief": "Zhuxin is an enigmatic young woman from the city of Zhu'an, nestled in the mountains of the Cadia Riverlands. Using her Lantern of Spirits, she guides the Ember butterflies and walks between life and death. She's able to hear the desires of mortal hearts, and those who can pass her trials will have their wishes granted. For nearly a thousand years, she has wandered in search of the purest wishes to fulfill, hoping to one day find her own.",
+    "story": "The city of Zhu'an, a dreamlike place where the supernatural can be found in every nook and cranny.\n\nDivination rituals, dancing paper dolls, dream-inducing incense... there's no shortage of strange wonders, and no end to the tall tales that originate from this enchanted city. Among them, the most enigmatic is perhaps \"her\" story.\n\nLegend has it that a mysterious young woman named Zhuxin can often be seen wandering the night in Zhu'an with a lantern in hand. She possesses the ability to summon ember butterflies, which she uses as a medium to fulfill the deepest desires of mortals.\n\nZhuxin cared neither for wealth nor power, only the purest wishes held any value to her. It is said that anyone who accepts her help will be subject to her trials, which can range from wagering entire fortunes to walking the line between life and death. Some attempt to get in her good graces, while others curse her as a malevolent witch, but she has never minded what others think. When people say she is capricious, she's the first to nod in agreement. However, once a pact has been made and the butterflies begin to dance, neither heaven nor earth, life nor death can stop her from fulfilling a wish.\n\nNo one knew where she came from or what her purpose was, only that she was always searching for something. Her existence was as enigmatic as the night itself.\n\nBut Zhuxin did not always like the night.\n\nA thousand years ago, Zhuxin was just an orphan wandering the streets of Zhu'an. For her, the night only represented danger. In the darkness, the wickedness of human nature emerged to dance with the devil.\n\nBut Little Zhuxin loved the bright flames. Every year during the midsummer festivals, the townsfolk would light countless braziers all over the city. Their warm glow made the smiles of every passerby seem more radiant and welcoming, but Zhuxin always kept her distance. The elders say Zhuxin was born an orphan. According to the stories, she was found crawling out of the coffin after her parents had passed. She possessed such extreme Yin energy that the people regarded her as an ill omen. Little Zhuxin could only approach the warmth of the lingering embers after the crowds had gone home. On lucky nights, she could even find a flower pastry in the discarded leftovers.\n\nAnd on those nights, under the glowing embers, Zhuxin held her pastry tightly in her little soot-covered hands and felt warmth in her heart.\n\nBut even these small comforts would not last. When the balance between Yin and Yang was shattered, war broke out across the Cadia Riverlands. Monsters emerged from the shadows and terrorized the continent. The entire city was engulfed by fear. People hid in their homes and no one dared go out to light the braziers. Little Zhuxin endured many freezing nights until she finally exhausted the last bit of her warmth.\n\nSurrounded by darkness, she breathed her last breath.\n\nBut Zhuxin's Yin energy prevented her soul from dissipating. Was she still alive or had she become an apparition? What should she do? Where should she go? She tried to find answers, but couldn't escape the night no matter how much her little legs tried. It was a strange feeling; she no longer had to breathe, yet had never felt so suffocated. Whether in life or death, light or darkness, was there anyone who had an answer? Was there anyone who could light a flicker of hope?\n\nA light pierced through the darkness.\n\nLittle Zhuxin opened her eyes as a pure light descended from the heavens—it was the Great Dragon, the guardian deity of the Cadia Riverlands and one of the twin dragons.\n\n\"Are you here to drive me away?\"\n\nThe Great Dragon did not answer. Instead he manifested a flowerlike lantern which gently fell towards Zhuxin.\n\nJust as it touched her hand, butterflies of ember flew out of the lantern and illuminated the night. Little Zhuxin suddenly found herself floating among the cosmos with the Great Dragon. In the sea of tranquil clouds, the lantern's candle lit up the sky, and they conversed in the clouds. The Great Dragon explained that Zhuxin could not pass into the afterlife because she had no wish. If one lives and dies without a wish, what meaning is there to life? But if one can pass on without regrets, then there would be naught to fear. Only by finding her wish could she embark on the next journey.\n\n\"My wish? What could it be?\"\n\n\"Child, I have given you this lantern to light the way, but your wish is something you must seek on your own.\"\n\n\"Will I... be able to have something to wish for?\"\n\n\"Naturally. Your existence is proof of that.\"\n\nZhuxin bid farewell to the dragon and departed with the lantern.\n\nIn the beginning, she wandered aimlessly, unsure of what she was even searching for. Eventually, she thought that if she still could not find her wish, perhaps she should fulfill the wishes of others first. Thus, she summoned her ember butterflies as her messengers, seeking, listening, and fulfilling countless wishes.\n\nNight after night, Zhuxin listened to the hearts of strangers. Sometimes she fell for their schemes; other times she exposed their true intentions with schemes of her own. Until one day, by chance, she fulfilled a wish so sincere that it made her lantern bright enough to warm her heart; it was the same feeling from her childhood.\n\nZhuxin realized then that only these genuine wishes were worth seeking. However, mortals are complicated creatures, and their hearts are too easily led astray by wealth and power. So, she began to set various trials to test the worth of people's wishes. Even when her trials caused people to misunderstand her, fear her, and curse her, she never defended herself, for none of that was important.\n\nWhat truly mattered was finding those forgotten wishes, buried in the ashes, and giving them a gentle blow to ignite their flames anew. When she helped a young man bring a flower to his blind sister, Zhuxin was able to experience the sweet fragrance of flowers for the first time. When Zhuxin helped a weeping soul who perished in a foreign land to deliver a letter to his wife, she understood that death could not separate true love. Each precious wish made her lantern burn brighter, and the world in her eyes became more vivid.\n\nAlthough Zhuxin has yet to find her own wish, she understood now that it must be something bright enough to bring warmth to the long night; enough to make this journey worthwhile.\n\nHer existence was undoubtedly worthy of such a wish.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 7,
+    "control": 9,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2440,
+    "health_growth": 165,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.3,
+    "mana": 1200,
+    "mana_growth": 0,
+    "mana_regen": 9.6,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 115,
+    "physical_attack_growth": 6.43,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 0.98,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 245,
+    "attack_range": 4.7
+  },
+  "abilities": [
+    {
+      "id": "Zhuxin0",
+      "name": "Crimson Butterflies",
+      "description": "Every time Zhuxin channels <highlight>Lantern Flare</highlight>, she converts the Mana spent into up to 15 <highlight>Crimson Butterflies</highlight> to follow her <highlight>Spirit Lantern</highlight>. After Zhuxin stops channeling <highlight>Lantern Flare</highlight>, the <highlight>Crimson Butterflies</highlight> will gradually disappear, each restoring 5% of her Max Mana.<br/>Zhuxin has a naturally high base Max Mana, but it doesn't scale with her level.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_43020fccd51aa7420c2c8b76a2cdb4fe.png",
+      "video_url": null
+    },
+    {
+      "id": "Zhuxin1",
+      "name": "Fluttering Grace",
+      "description": "Zhuxin deals 150/162/174/186/198/210<scaleAP> (+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to all enemies in a fan-shaped area and applies 1 stack(s) of <highlight>Soul Snare</highlight>. Zhuxin also slows all enemy heroes hit by 20/24/28/32/36/40% and gains 20/24/28/32/36/40% of extra Movement Speed herself for 1.5s.",
+      "flavor_text": null,
+      "cost": "100",
+      "cooldown": "12/11.6/11.2/10.8/10.4/10",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_155343c85c52dfccbf7697d353e115bd.png",
+      "video_url": null
+    },
+    {
+      "id": "Zhuxin2",
+      "name": "Lantern Flare",
+      "description": "<highlight>Hold</highlight>: Hold the skill button to move the <highlight>Spirit Lantern</highlight>. It deals 35/44/53/62/71/80<scaleAP> (+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to all enemies within range every 0.33s (Magic damage increases to 60% against Minions) and applies <highlight>Soul Snare</highlight> to enemy heroes hit. When an enemy hero has 10 stacks of <highlight>Soul Snare</highlight>, the <highlight>Crimson Butterflies</highlight> will capture them, pulling them airborne for 1s.<br><br><highlight>Release</highlight>: Throws all captured enemies to the target location, dealing 200/240/280/320/360/400<scaleAP> (+150% Total Magic Power)</scaleAP> +10/11/12/13/14/15% of the captured target's Max HP as <magicDamage>Magic Damage</magicDamage> to all enemies in the area. If an enemy is hit multiple times, subsequent hits deal 80% less damage.<br><br>After a target is captured, <highlight>Soul Snare</highlight> cannot stack on them again for 4s. During this time, this skill deals 15/17/19/21/23/25% increased damage to that target.",
+      "flavor_text": null,
+      "cost": "75",
+      "cooldown": "0.5",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_0eb6ec4236fd89a8ea6041edf0868569.png",
+      "video_url": null
+    },
+    {
+      "id": "Zhuxin3",
+      "name": "Crimson Beacon",
+      "description": "Zhuxin blinks to the target location while gaining a 400/550/700<scaleAP> (+100% Total Magic Power)</scaleAP> shield. While flying, she creates a field around her for 6s. The field deals 60/75/90<scaleAP> (+20% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and applies 1 stack of <highlight>Soul Snare</highlight> to enemies every 0.5s.",
+      "flavor_text": null,
+      "cost": "200",
+      "cooldown": "60/55/50",
+      "tags": [
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_a6ca23dff19dee8f2f26740ce29b47a9.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Zhuxin0",
+      "sequence": "Zhuxin1-Zhuxin2-Zhuxin2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Zhuxin's 1st Skill to slow the opponent and increase her own Movement Speed, then use her 2nd Skill from a safe position and try to hit the Minions and the opponent at the same time to both poke and clear the lane. Once the enemy has enough stacks, throw them into the Minions for additional damage."
+    },
+    {
+      "id": "Zhuxin1",
+      "sequence": "Zhuxin1-Zhuxin3-Zhuxin2-Zhuxin2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Zhuxin's Ultimate to blink into a good position, then follow up with her 1st Skill to slow the enemy team and use her 2nd Skill to build stacks at a safe distance. Try to capture as many enemies as possible with her 2nd Skill, then throw them out of position while also grouping them up."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Zhuxin can provide great damage and CC, but she can't realize her potential until later in the game, so heroes with CC can help Zhuxin get through the early period. Zhuxin also works well with sustained damage heroes like Belerick, Kimmy, and Cici to dish out a surprising amount of damage.",
+      "heroes": [
+        {
+          "id": 123,
+          "slug": "cici",
+          "name": "Cici"
+        },
+        {
+          "id": 71,
+          "slug": "kimmy",
+          "name": "Kimmy"
+        },
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Zhuxin is a good counter to enemies with less range and low mobility, such as Popol and Kupa and Cyclops, where she has a big advantage.",
+      "heroes": [
+        {
+          "id": 33,
+          "slug": "cyclops",
+          "name": "Cyclops"
+        },
+        {
+          "id": 94,
+          "slug": "popol-and-kupa",
+          "name": "Popol and Kupa"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Like most Mages, Zhuxin is countered by heroes with high mobility and burst, such as Fanny and Saber, who can quickly take her down.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 17,
+          "slug": "fanny",
+          "name": "Fanny"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zhuxin-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zhuxin-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/zhuxin.json",
+    "visual_catalog": "catalog/v1/visual/zhuxin.json",
+    "upgrade_catalog": "catalog/v1/upgrade/zhuxin.json"
+  }
+}

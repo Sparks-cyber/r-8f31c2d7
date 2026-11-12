@@ -1,0 +1,77 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "julian-backup",
+      "portrait_file": "Julian-Default.png",
+      "script_file": "Julian-Backup.zip",
+      "skin_name": "Scarlet Raven",
+      "splash_file": "Julian-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "julian-silent-edge",
+      "portrait_file": "Julian-Silent-Edge.png",
+      "script_file": "Julian-Silent-Edge.zip",
+      "skin_name": "Silent Edge",
+      "splash_file": "Julian-Silent-Edge.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "julian-megumi-fushiguro",
+      "portrait_file": "Julian-Megumi-Fushiguro.png",
+      "script_file": "Julian-Megumi-Fushiguro.zip",
+      "skin_name": "Megumi Fushiguro",
+      "splash_file": "Julian-Megumi-Fushiguro.png",
+      "tag_id": "jujutsu-kaisen",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "julian-meowkin-tracker",
+      "portrait_file": "Julian-Meowkin-Tracker.png",
+      "script_file": "Julian-Meowkin-Tracker.zip",
+      "skin_name": "Meowkin Tracker",
+      "splash_file": "Julian-Meowkin-Tracker.png",
+      "tag_id": "mystic-meow",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "julian-kurapika",
+      "portrait_file": "Julian-Kurapika.png",
+      "script_file": "Julian-Kurapika.zip",
+      "skin_name": "Kurapika",
+      "splash_file": "Julian-Kurapika-of-Kurta.png",
+      "tag_id": "hunter-x-hunter",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "julian-itachi-uchiha",
+      "portrait_file": "Julian-Itachi-Uchiha.png",
+      "script_file": "Julian-Itachi-Uchiha.zip",
+      "skin_name": "Itachi Uchiha",
+      "splash_file": "Julian-Itachi-Uchiha.png",
+      "tag_id": "naruto-shippuden",
+      "tier": "Grand"
+    }
+  ],
+  "hero": {
+    "id": 116,
+    "name": "Julian",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "slug": "julian"
+  },
+  "release_tag": "visual-julian",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

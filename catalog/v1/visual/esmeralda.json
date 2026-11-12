@@ -1,0 +1,137 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "esmeralda-backup",
+      "portrait_file": "Esmeralda-Default.png",
+      "script_file": "Esmeralda-Backup.zip",
+      "skin_name": "Astrologer",
+      "splash_file": "Esmeralda-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-ruddy-dusk",
+      "portrait_file": "Esmeralda-Ruddy-Dusk.png",
+      "script_file": "Esmeralda-Ruddy-Dusk.zip",
+      "skin_name": "Ruddy Dusk",
+      "splash_file": "Esmeralda-Ruddy-Dusk.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-poison-vine",
+      "portrait_file": "Esmeralda-Poison-Vine.png",
+      "script_file": "Esmeralda-Poison-Vine.zip",
+      "skin_name": "Poison Vine",
+      "splash_file": "Esmeralda-Poison-Vine.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-lady-thief",
+      "portrait_file": "Esmeralda-Lady-Thief.png",
+      "script_file": "Esmeralda-Lady-Thief.zip",
+      "skin_name": "Lady Thief",
+      "splash_file": "Esmeralda-Lady-Thief.png",
+      "tag_id": "valentine",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-cleopatra",
+      "portrait_file": "Esmeralda-Cleopatra.png",
+      "script_file": "Esmeralda-Cleopatra.zip",
+      "skin_name": "Cleopatra",
+      "splash_file": "Esmeralda-Cleopatra.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-blazing-shadow",
+      "portrait_file": "Esmeralda-Blazing-Shadow.png",
+      "script_file": "Esmeralda-Blazing-Shadow.zip",
+      "skin_name": "Blazing Shadow",
+      "splash_file": "Esmeralda-Blazing-Shadow.png",
+      "tag_id": "blazing-bounties",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-the-foreseer",
+      "portrait_file": "Esmeralda-The-Foreseer.png",
+      "script_file": "Esmeralda-The-Foreseer.zip",
+      "skin_name": "The Foreseer",
+      "splash_file": "Esmeralda-The-Foreseer.png",
+      "tag_id": "dawning-stars",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-light-envoy",
+      "portrait_file": "Esmeralda-Light-Envoy.png",
+      "script_file": "Esmeralda-Light-Envoy.zip",
+      "skin_name": "Light Envoy",
+      "splash_file": "Esmeralda-Light-Envoy.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-astral-muse",
+      "portrait_file": "Esmeralda-Astral-Muse.png",
+      "script_file": "Esmeralda-Astral-Muse.zip",
+      "skin_name": "Astral Muse",
+      "splash_file": "Esmeralda-Astral-Muse.png",
+      "tag_id": "allstar-2024",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-petal-s-razor",
+      "portrait_file": "Esmeralda-Petal-s-Razor.png",
+      "script_file": "Esmeralda-Petal-s-Razor.zip",
+      "skin_name": "Petal's Razor",
+      "splash_file": "Esmeralda-Petal-s-Razor.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-scene-stealer-painted-01",
+      "portrait_file": "Esmeralda-Scene-Stealer.png",
+      "script_file": "Esmeralda-Scene-Stealer.zip",
+      "skin_name": "Scene Stealer",
+      "splash_file": "Esmeralda - Scene Stealer.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "esmeralda-stellar-muse-painted-01",
+      "portrait_file": "Esmeralda-Stellar-Muse.png",
+      "script_file": "Esmeralda-Stellar-Muse.zip",
+      "skin_name": "Stellar Muse",
+      "splash_file": "Esmeralda - Stellar Muse.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 81,
+    "name": "Esmeralda",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "slug": "esmeralda"
+  },
+  "release_tag": "visual-esmeralda",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

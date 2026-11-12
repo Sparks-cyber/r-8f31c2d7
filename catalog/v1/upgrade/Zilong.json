@@ -1,0 +1,877 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Zilong",
+  "role": "Fighter/Assassin",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Elite Warrior",
+      "Splash_url": "Zilong-Elite-Warrior.png",
+      "script": "Zilong-Elite-Warrior-Backup.zip",
+      "Portrait_url": "Zilong-Elite-Warrior.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Elite-Warrior-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Elite-Warrior-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Elite-Warrior-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Elite-Warrior-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Elite-Warrior-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Elite-Warrior-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Elite-Warrior-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Elite-Warrior-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Elite-Warrior-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Elite-Warrior-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Glorious General",
+      "Splash_url": "Zilong-Glorious-General.png",
+      "script": "Zilong-Glorious-General-Backup.zip",
+      "Portrait_url": "Zilong-Glorious-General.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Glorious-General-Elite-Warrior.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Glorious-General-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Glorious-General-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Glorious-General-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Glorious-General-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Glorious-General-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Glorious-General-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Glorious-General-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Glorious-General-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Glorious-General-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Eastern Warrior",
+      "Splash_url": "Zilong-Eastern-Warrior.png",
+      "script": "Zilong-Eastern-Warrior-Backup.zip",
+      "Portrait_url": "Zilong-Eastern-Warrior.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Eastern-Warrior-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Eastern-Warrior-Glorious-General.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Eastern-Warrior-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Eastern-Warrior-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Eastern-Warrior-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Eastern-Warrior-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Eastern-Warrior-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Eastern-Warrior-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Eastern-Warrior-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Eastern-Warrior-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Blazing Lancer",
+      "Splash_url": "Zilong-Blazing-Lancer.png",
+      "script": "Zilong-Blazing-Lancer-Backup.zip",
+      "Portrait_url": "Zilong-Blazing-Lancer.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Blazing-Lancer-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Blazing-Lancer-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Blazing-Lancer-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Blazing-Lancer-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Blazing-Lancer-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Blazing-Lancer-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Blazing-Lancer-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Blazing-Lancer-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Blazing-Lancer-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Blazing-Lancer-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Changbanpo Commander",
+      "Splash_url": "Zilong-Changbanpo-Commander.png",
+      "script": "Zilong-Changbanpo-Commander-Backup.zip",
+      "Portrait_url": "Zilong-Changbanpo-Commander.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Changbanpo-Commander-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Changbanpo-Commander-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Changbanpo-Commander-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Changbanpo-Commander-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Changbanpo-Commander-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Changbanpo-Commander-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Changbanpo-Commander-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Changbanpo-Commander-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Changbanpo-Commander-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Changbanpo-Commander-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Zilong-Christmas-Carnival.png",
+      "script": "Zilong-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Zilong-Christmas-Carnival.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Christmas-Carnival-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Christmas-Carnival-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Christmas-Carnival-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Christmas-Carnival-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Christmas-Carnival-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Christmas-Carnival-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Christmas-Carnival-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Christmas-Carnival-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Christmas-Carnival-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Christmas-Carnival-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Loyal Spear",
+      "Splash_url": "Zilong-Loyal-Spear.png",
+      "script": "Zilong-Loyal-Spear-Backup.zip",
+      "Portrait_url": "Zilong-Loyal-Spear.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Loyal-Spear-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Loyal-Spear-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Loyal-Spear-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Loyal-Spear-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Loyal-Spear-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Loyal-Spear-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Loyal-Spear-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Loyal-Spear-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Loyal-Spear-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Loyal-Spear-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Summer Waves",
+      "Splash_url": "Zilong-Summer-Waves.png",
+      "script": "Zilong-Summer-Waves-Backup.zip",
+      "Portrait_url": "Zilong-Summer-Waves.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Summer-Waves-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Summer-Waves-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Summer-Waves-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Summer-Waves-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Summer-Waves-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Summer-Waves-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Summer-Waves-Loyal-Spear.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Summer-Waves-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Summer-Waves-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Summer-Waves-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Empyrean Paladin",
+      "Splash_url": "Zilong-Empyrean-Paladin.png",
+      "script": "Zilong-Empyrean-Paladin-Backup.zip",
+      "Portrait_url": "Zilong-Empyrean-Paladin.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Empyrean-Paladin-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Empyrean-Paladin-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Empyrean-Paladin-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Empyrean-Paladin-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Empyrean-Paladin-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Empyrean-Paladin-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Empyrean-Paladin-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Empyrean-Paladin-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Empyrean-Paladin-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Empyrean-Paladin-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Empyrean-Paladin-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Storm Rider",
+      "Splash_url": "Zilong-Storm-Rider.png",
+      "script": "Zilong-Storm-Rider-Backup.zip",
+      "Portrait_url": "Zilong-Storm-Rider.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Storm-Rider-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Storm-Rider-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Storm-Rider-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Storm-Rider-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Storm-Rider-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Storm-Rider-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Storm-Rider-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Storm-Rider-Summer-Waves.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Storm-Rider-Dragon-of-Prosperity.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Storm-Rider-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Dragon of Prosperity",
+      "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+      "script": "Zilong-Dragon-of-Prosperity-Backup.zip",
+      "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Dragon-of-Prosperity-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Dragon-of-Prosperity-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Dragon-of-Prosperity-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Dragon-of-Prosperity-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Dragon-of-Prosperity-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Dragon-of-Prosperity-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Dragon-of-Prosperity-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Dragon-of-Prosperity-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Dragon-of-Prosperity-Storm-Rider.zip"
+        },
+        {
+          "name": "Ascendant of Flame",
+          "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+          "Splash_url": "Zilong-Ascendant-of-Flame.png",
+          "script": "Zilong-Dragon-of-Prosperity-Ascendant-of-Flame.zip"
+        }
+      ]
+    },
+    {
+      "name": "Create",
+      "Default_name": "Ascendant of Flame",
+      "Splash_url": "Zilong-Ascendant-of-Flame.png",
+      "script": "Zilong-Ascendant-of-Flame-Backup.zip",
+      "Portrait_url": "Zilong-Ascendant-of-Flame.png",
+      "Tags": [
+        "Create.png"
+      ],
+      "targets": [
+        {
+          "name": "Elite Warrior",
+          "Portrait_url": "Zilong-Elite-Warrior.png",
+          "Splash_url": "Zilong-Elite-Warrior.png",
+          "script": "Zilong-Ascendant-of-Flame-Elite-Warrior.zip"
+        },
+        {
+          "name": "Glorious General",
+          "Portrait_url": "Zilong-Glorious-General.png",
+          "Splash_url": "Zilong-Glorious-General.png",
+          "script": "Zilong-Ascendant-of-Flame-Glorious-General.zip"
+        },
+        {
+          "name": "Eastern Warrior",
+          "Portrait_url": "Zilong-Eastern-Warrior.png",
+          "Splash_url": "Zilong-Eastern-Warrior.png",
+          "script": "Zilong-Ascendant-of-Flame-Eastern-Warrior.zip"
+        },
+        {
+          "name": "Blazing Lancer",
+          "Portrait_url": "Zilong-Blazing-Lancer.png",
+          "Splash_url": "Zilong-Blazing-Lancer.png",
+          "script": "Zilong-Ascendant-of-Flame-Blazing-Lancer.zip"
+        },
+        {
+          "name": "Changbanpo Commander",
+          "Portrait_url": "Zilong-Changbanpo-Commander.png",
+          "Splash_url": "Zilong-Changbanpo-Commander.png",
+          "script": "Zilong-Ascendant-of-Flame-Changbanpo-Commander.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Zilong-Christmas-Carnival.png",
+          "Splash_url": "Zilong-Christmas-Carnival.png",
+          "script": "Zilong-Ascendant-of-Flame-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Loyal Spear",
+          "Portrait_url": "Zilong-Loyal-Spear.png",
+          "Splash_url": "Zilong-Loyal-Spear.png",
+          "script": "Zilong-Ascendant-of-Flame-Loyal-Spear.zip"
+        },
+        {
+          "name": "Summer Waves",
+          "Portrait_url": "Zilong-Summer-Waves.png",
+          "Splash_url": "Zilong-Summer-Waves.png",
+          "script": "Zilong-Ascendant-of-Flame-Summer-Waves.zip"
+        },
+        {
+          "name": "Storm Rider",
+          "Portrait_url": "Zilong-Storm-Rider.png",
+          "Splash_url": "Zilong-Storm-Rider.png",
+          "script": "Zilong-Ascendant-of-Flame-Storm-Rider.zip"
+        },
+        {
+          "name": "Dragon of Prosperity",
+          "Portrait_url": "Zilong-Dragon-of-Prosperity.png",
+          "Splash_url": "Zilong-Dragon-of-Prosperity.png",
+          "script": "Zilong-Ascendant-of-Flame-Dragon-of-Prosperity.zip"
+        }
+      ]
+    }
+  ]
+}

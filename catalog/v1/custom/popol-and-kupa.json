@@ -1,0 +1,60 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-kiba",
+      "portrait_file": "Popol & Kupa - Kiba.png",
+      "script_file": "Popol-Kupa-Kiba.zip",
+      "skin_name": "Kiba",
+      "splash_file": "Popol & Kupa - Kiba.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-sasuke-and-sakura",
+      "portrait_file": "Popol & Kupa - Sasuke & Sakura.png",
+      "script_file": "Popol-Kupa-Sasuke-Sakura.zip",
+      "skin_name": "Sasuke & Sakura",
+      "splash_file": "Popol & Kupa - Sasuke & Sakura.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-steve-and-dog",
+      "portrait_file": "Popol and Kupa - Steve & Dog.png",
+      "script_file": "Popol-and-Kupa-Steve-Dog.zip",
+      "skin_name": "Steve & Dog",
+      "splash_file": "Popol and Kupa - Steve & Dog.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-xavier-and-kagura",
+      "portrait_file": "Popol & Kupa - Xavier & Kagura.png",
+      "script_file": "Popol-Kupa-Xavier-Kagura.zip",
+      "skin_name": "Xavier & Kagura",
+      "splash_file": "Popol & Kupa - Xavier & Kagura.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 94,
+    "name": "Popol and Kupa",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "popol-and-kupa"
+  },
+  "release_tag": "custom-popol-and-kupa",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

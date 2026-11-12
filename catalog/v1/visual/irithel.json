@@ -1,0 +1,126 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "irithel-backup",
+      "portrait_file": "Irithel-Default.png",
+      "script_file": "Irithel-Backup.zip",
+      "skin_name": "Jungle Heart",
+      "splash_file": "Irithel-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-silver-cyclone",
+      "portrait_file": "Irithel-Silver-Cyclone.png",
+      "script_file": "Irithel-Silver-Cyclone.zip",
+      "skin_name": "Silver Cyclone",
+      "splash_file": "Irithel-Silver-Cyclone.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-hellfire",
+      "portrait_file": "Irithel-Hellfire.png",
+      "script_file": "Irithel-Hellfire.zip",
+      "skin_name": "Hellfire",
+      "splash_file": "Irithel-Hellfire.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-nightarrow",
+      "portrait_file": "Irithel-Nightarrow.png",
+      "script_file": "Irithel-Nightarrow.zip",
+      "skin_name": "Nightarrow",
+      "splash_file": "Irithel-Nightarrow.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-sagittarius",
+      "portrait_file": "Irithel-Sagittarius.png",
+      "script_file": "Irithel-Sagittarius.zip",
+      "skin_name": "Sagittarius",
+      "splash_file": "Irithel-Sagittarius.png",
+      "tag_id": "zodiac",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-astral-wanderer",
+      "portrait_file": "Irithel-Astral-Wanderer.png",
+      "script_file": "Irithel-Astral-Wanderer.zip",
+      "skin_name": "Astral Wanderer",
+      "splash_file": "Irithel-Astral-Wanderer.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-monster-sp-rider",
+      "portrait_file": "Irithel-Monster-SP-Rider.png",
+      "script_file": "Irithel-Monster-SP-Rider.zip",
+      "skin_name": "Monster SP Rider",
+      "splash_file": "Irithel-Monster-SP-Rider.png",
+      "tag_id": "ducati",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-checkered-knight",
+      "portrait_file": "Irithel-Checkered-Knight.png",
+      "script_file": "Irithel-Checkered-Knight.zip",
+      "skin_name": "Checkered Knight",
+      "splash_file": "Irithel-Checkered-Knight.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-ice-spike-painted-01",
+      "portrait_file": "Irithel-Ice-Spike.png",
+      "script_file": "Irithel-Ice-Spike.zip",
+      "skin_name": "Ice Spike",
+      "splash_file": "Irithel-Ice-Spike.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-neon-knight-painted-01",
+      "portrait_file": "Irithel-Neon-Knight.png",
+      "script_file": "Irithel-Neon-Knight.zip",
+      "skin_name": "Neon Knight",
+      "splash_file": "Irithel - Neon Knight.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "irithel-rosy-knight-painted-02",
+      "portrait_file": "Irithel-Rosy-Knight.png",
+      "script_file": "Irithel-Rosy-Knight.zip",
+      "skin_name": "Rosy Knight",
+      "splash_file": "Irithel - Rosy Knight.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 43,
+    "name": "Irithel",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "irithel"
+  },
+  "release_tag": "visual-irithel",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

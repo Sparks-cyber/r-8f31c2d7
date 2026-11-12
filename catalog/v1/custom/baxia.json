@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "baxia-bumblebee",
+      "portrait_file": "Baxia - Bumblebee.png",
+      "script_file": "Baxia-Bumblebee.zip",
+      "skin_name": "Bumblebee",
+      "splash_file": "Baxia - Bumblebee.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    }
+  ],
+  "hero": {
+    "id": 87,
+    "name": "Baxia",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "baxia"
+  },
+  "release_tag": "custom-baxia",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,105 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "roger-eren",
+      "portrait_file": "Roger - Eren.png",
+      "script_file": "Roger-Eren.zip",
+      "skin_name": "Eren",
+      "splash_file": "Roger - Eren.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "roger-exorcist",
+      "portrait_file": "Roger - Exorcist.png",
+      "script_file": "Roger-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Roger - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "roger-megumi-fushiguro",
+      "portrait_file": "Roger - Megumi Fushiguro.png",
+      "script_file": "Roger-Megumi-Fushiguro.zip",
+      "skin_name": "Megumi Fushiguro",
+      "splash_file": "Roger - Megumi Fushiguro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "roger-naruto",
+      "portrait_file": "Roger - Naruto.png",
+      "script_file": "Roger-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Roger - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "roger-naruto-kcm",
+      "portrait_file": "Roger - Naruto Kcm.png",
+      "script_file": "Roger-Naruto-Kcm.zip",
+      "skin_name": "Naruto Kcm",
+      "splash_file": "Roger - Naruto Kcm.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "roger-porco",
+      "portrait_file": "Roger - Porco.png",
+      "script_file": "Roger-Porco.zip",
+      "skin_name": "Porco",
+      "splash_file": "Roger - Porco.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "roger-toxic-dragon",
+      "portrait_file": "Roger - Toxic Dragon.png",
+      "script_file": "Roger-Toxic-Dragon.zip",
+      "skin_name": "Toxic Dragon",
+      "splash_file": "Roger - Toxic Dragon.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "roger-yuji-itadori",
+      "portrait_file": "Roger - Yuji Itadori.png",
+      "script_file": "Roger-Yuji-Itadori.zip",
+      "skin_name": "Yuji Itadori",
+      "splash_file": "Roger - Yuji Itadori.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 39,
+    "name": "Roger",
+    "roles": [
+      "Fighter",
+      "Marksman"
+    ],
+    "slug": "roger"
+  },
+  "release_tag": "custom-roger",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

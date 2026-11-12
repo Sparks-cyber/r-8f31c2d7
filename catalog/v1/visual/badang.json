@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "badang-backup",
+      "portrait_file": "Badang-Default.png",
+      "script_file": "Badang-Backup.zip",
+      "skin_name": "Tribal Warrior",
+      "splash_file": "Badang-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "badang-ironfists",
+      "portrait_file": "Badang-Ironfists.png",
+      "script_file": "Badang-Ironfists.zip",
+      "skin_name": "Ironfists",
+      "splash_file": "Badang-Ironfists.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "badang-susanoo",
+      "portrait_file": "Badang-Susanoo.png",
+      "script_file": "Badang-Susanoo.zip",
+      "skin_name": "Susanoo",
+      "splash_file": "Badang-Susanoo.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "badang-leo",
+      "portrait_file": "Badang-Leo.png",
+      "script_file": "Badang-Leo.zip",
+      "skin_name": "Leo",
+      "splash_file": "Badang-Leo.png",
+      "tag_id": "zodiac",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "badang-fist-of-zen",
+      "portrait_file": "Badang-Fist-of-Zen.png",
+      "script_file": "Badang-Fist-of-Zen.zip",
+      "skin_name": "Fist of Zen",
+      "splash_file": "Badang-Fist-of-Zen.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "badang-pegasus-seiya",
+      "portrait_file": "Badang-Pegasus-Seiya.png",
+      "script_file": "Badang-Pegasus-Seiya.zip",
+      "skin_name": "Pegasus Seiya",
+      "splash_file": "Badang-Pegasus-Seiya.png",
+      "tag_id": "saint-seiya",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "badang-sagittarius-seiya",
+      "portrait_file": "Badang-Sagittarius-Seiya.png",
+      "script_file": "Badang-Sagittarius-Seiya.zip",
+      "skin_name": "Sagittarius Seiya",
+      "splash_file": "Badang-Sagittarius-Seiya.png",
+      "tag_id": "saint-seiya",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "badang-steel-arms",
+      "portrait_file": "Badang-Steel-Arms.png",
+      "script_file": "Badang-Steel-Arms.zip",
+      "skin_name": "Steel Arms",
+      "splash_file": "Badang-Steel-Arms.png",
+      "tag_id": "epic",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "badang-quantum-commando",
+      "portrait_file": "Badang-Quantum-Commando.png",
+      "script_file": "Badang-Quantum-Commando.zip",
+      "skin_name": "Quantum Commando",
+      "splash_file": "Badang-Quantum-Commando.png",
+      "tag_id": "mpl",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 77,
+    "name": "Badang",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "badang"
+  },
+  "release_tag": "visual-badang",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

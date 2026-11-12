@@ -1,0 +1,719 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Karrie",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Rising Star",
+      "Splash_url": "Karrie-Rising-Star.png",
+      "script": "Karrie-Rising-Star-Backup.zip",
+      "Portrait_url": "Karrie-Rising-Star.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Rising-Star-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Rising-Star-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Rising-Star-Jester.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Rising-Star-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Rising-Star-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Rising-Star-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Ice Talon",
+          "Portrait_url": "Karrie-Ice-Talon.png",
+          "Splash_url": "Karrie-Ice-Talon.png",
+          "script": "Karrie-Rising-Star-Ice-Talon.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Rising-Star-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Rising-Star-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Bladed Mantis",
+      "Splash_url": "Karrie-Bladed-Mantis.png",
+      "script": "Karrie-Bladed-Mantis-Backup.zip",
+      "Portrait_url": "Karrie-Bladed-Mantis.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Bladed-Mantis-Rising-Star.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Bladed-Mantis-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Bladed-Mantis-Jester.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Bladed-Mantis-Hawkwatch.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Bladed-Mantis-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Bladed-Mantis-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Bladed-Mantis-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Ice Talon",
+          "Portrait_url": "Karrie-Ice-Talon.png",
+          "Splash_url": "Karrie-Ice-Talon.png",
+          "script": "Karrie-Bladed-Mantis-Ice-Talon.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Bladed-Mantis-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Bladed-Mantis-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dragon Queen",
+      "Splash_url": "Karrie-Dragon-Queen.png",
+      "script": "Karrie-Dragon-Queen-Backup.zip",
+      "Portrait_url": "Karrie-Dragon-Queen.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Dragon-Queen-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Dragon-Queen-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Dragon-Queen-Jester.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Dragon-Queen-Hawkwatch.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Dragon-Queen-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Dragon-Queen-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Dragon-Queen-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Ice Talon",
+          "Portrait_url": "Karrie-Ice-Talon.png",
+          "Splash_url": "Karrie-Ice-Talon.png",
+          "script": "Karrie-Dragon-Queen-Ice-Talon.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Dragon-Queen-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Dragon-Queen-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Jester",
+      "Splash_url": "Karrie-Jester.png",
+      "script": "Karrie-Jester-Backup.zip",
+      "Portrait_url": "Karrie-Jester.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Jester-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Jester-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Jester-Dragon-Queen.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Jester-Hawkwatch.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Jester-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Jester-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Jester-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Ice Talon",
+          "Portrait_url": "Karrie-Ice-Talon.png",
+          "Splash_url": "Karrie-Ice-Talon.png",
+          "script": "Karrie-Jester-Ice-Talon.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Jester-Breath-of-Naraka.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Hawkwatch",
+      "Splash_url": "Karrie-Hawkwatch.png",
+      "script": "Karrie-Hawkwatch-Backup.zip",
+      "Portrait_url": "Karrie-Hawkwatch.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Hawkwatch-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Hawkwatch-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Hawkwatch-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Hawkwatch-Jester.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Hawkwatch-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Hawkwatch-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Hawkwatch-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Ice Talon",
+          "Portrait_url": "Karrie-Ice-Talon.png",
+          "Splash_url": "Karrie-Ice-Talon.png",
+          "script": "Karrie-Hawkwatch-Ice-Talon.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Hawkwatch-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Hawkwatch-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Gill-Girl",
+      "Splash_url": "Karrie-Gill-Girl.png",
+      "script": "Karrie-Gill-Girl-Backup.zip",
+      "Portrait_url": "Karrie-Gill-Girl.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Gill-Girl-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Gill-Girl-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Gill-Girl-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Gill-Girl-Jester.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Gill-Girl-Hawkwatch.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Gill-Girl-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Gill-Girl-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Ice Talon",
+          "Portrait_url": "Karrie-Ice-Talon.png",
+          "Splash_url": "Karrie-Ice-Talon.png",
+          "script": "Karrie-Gill-Girl-Ice-Talon.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Gill-Girl-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Gill-Girl-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Annual Starlight",
+      "Default_name": "Neon Lightwheel",
+      "Splash_url": "Karrie-Neon-Lightwheel.png",
+      "script": "Karrie-Neon-Lightwheel-Backup.zip",
+      "Portrait_url": "Karrie-Neon-Lightwheel.png",
+      "Tags": [
+        "Annual Starlight.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Neon-Lightwheel-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Neon-Lightwheel-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Neon-Lightwheel-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Neon-Lightwheel-Jester.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Neon-Lightwheel-Hawkwatch.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Neon-Lightwheel-Gill-Girl.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Neon-Lightwheel-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Ice Talon",
+          "Portrait_url": "Karrie-Ice-Talon.png",
+          "Splash_url": "Karrie-Ice-Talon.png",
+          "script": "Karrie-Neon-Lightwheel-Ice-Talon.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Neon-Lightwheel-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Neon-Lightwheel-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Wheel of Justice",
+      "Splash_url": "Karrie-Wheel-of-Justice.png",
+      "script": "Karrie-Wheel-of-Justice-Backup.zip",
+      "Portrait_url": "Karrie-Wheel-of-Justice.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Wheel-of-Justice-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Wheel-of-Justice-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Wheel-of-Justice-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Wheel-of-Justice-Jester.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Wheel-of-Justice-Hawkwatch.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Wheel-of-Justice-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Wheel-of-Justice-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Wheel-of-Justice-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Wheel-of-Justice-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Ice Talon",
+      "Splash_url": "Karrie-Ice-Talon.png",
+      "script": "Karrie-Ice-Talon-Backup.zip",
+      "Portrait_url": "Karrie-Ice-Talon.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Ice-Talon-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Ice-Talon-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Ice-Talon-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Ice-Talon-Jester.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Ice-Talon-Hawkwatch.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Ice-Talon-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Ice-Talon-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Ice-Talon-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Breath of Naraka",
+          "Portrait_url": "Karrie-Breath-of-Naraka.png",
+          "Splash_url": "Karrie-Breath-of-Naraka.png",
+          "script": "Karrie-Ice-Talon-Breath-of-Naraka.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Ice-Talon-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Kishin Densetsu",
+      "Default_name": "Breath of Naraka",
+      "Splash_url": "Karrie-Breath-of-Naraka.png",
+      "script": "Karrie-Breath-of-Naraka-Backup.zip",
+      "Portrait_url": "Karrie-Breath-of-Naraka.png",
+      "Tags": [
+        "Kishin Densetsu.png"
+      ],
+      "targets": [
+        {
+          "name": "Rising Star",
+          "Portrait_url": "Karrie-Rising-Star.png",
+          "Splash_url": "Karrie-Rising-Star.png",
+          "script": "Karrie-Breath-of-Naraka-Rising-Star.zip"
+        },
+        {
+          "name": "Bladed Mantis",
+          "Portrait_url": "Karrie-Bladed-Mantis.png",
+          "Splash_url": "Karrie-Bladed-Mantis.png",
+          "script": "Karrie-Breath-of-Naraka-Bladed-Mantis.zip"
+        },
+        {
+          "name": "Dragon Queen",
+          "Portrait_url": "Karrie-Dragon-Queen.png",
+          "Splash_url": "Karrie-Dragon-Queen.png",
+          "script": "Karrie-Breath-of-Naraka-Dragon-Queen.zip"
+        },
+        {
+          "name": "Jester",
+          "Portrait_url": "Karrie-Jester.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Breath-of-Naraka-Jester.zip"
+        },
+        {
+          "name": "Hawkwatch",
+          "Portrait_url": "Karrie-Hawkwatch.png",
+          "Splash_url": "Karrie-Hawkwatch.png",
+          "script": "Karrie-Breath-of-Naraka-Hawkwatch.zip"
+        },
+        {
+          "name": "Gill-Girl",
+          "Portrait_url": "Karrie-Gill-Girl.png",
+          "Splash_url": "Karrie-Gill-Girl.png",
+          "script": "Karrie-Breath-of-Naraka-Gill-Girl.zip"
+        },
+        {
+          "name": "Neon Lightwheel",
+          "Portrait_url": "Karrie-Neon-Lightwheel.png",
+          "Splash_url": "Karrie-Neon-Lightwheel.png",
+          "script": "Karrie-Breath-of-Naraka-Neon-Lightwheel.zip"
+        },
+        {
+          "name": "Wheel of Justice",
+          "Portrait_url": "Karrie-Wheel-of-Justice.png",
+          "Splash_url": "Karrie-Wheel-of-Justice.png",
+          "script": "Karrie-Breath-of-Naraka-Wheel-of-Justice.zip"
+        },
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Breath-of-Naraka-Fool-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Fool Skin 11",
+      "Splash_url": "Karrie-Fool.png",
+      "script": "Karrie-Fool-Skin-11-Backup.zip",
+      "Portrait_url": "Karrie-Fool.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Fool Painted 01",
+          "Portrait_url": "Karrie-Fool.png",
+          "Splash_url": "Karrie-Jester.png",
+          "script": "Karrie-Fool-Skin-11-Fool-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

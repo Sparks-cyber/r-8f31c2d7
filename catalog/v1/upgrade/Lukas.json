@@ -1,0 +1,32 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Lukas",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Ardent Roar",
+      "Splash_url": "Lukas-Ardent-Roar.png",
+      "script": "Lukas-Ardent-Roar-Backup.zip",
+      "Portrait_url": "Lukas-Ardent-Roar.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Naruto Uzumaki",
+          "Portrait_url": "Lukas-Naruto-Uzumaki.png",
+          "Splash_url": "Lukas-Naruto-Uzumaki.png",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          },
+          "script": "Lukas-Ardent-Roar-Naruto-Uzumaki.zip"
+        }
+      ]
+    }
+  ]
+}

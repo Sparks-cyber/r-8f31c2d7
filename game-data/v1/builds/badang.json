@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 77,
+    "slug": "badang",
+    "name": "Badang"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "badang-community-5889",
+      "name": "Community Build 5889",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "thunderbelt",
+        "toughboots",
+        "rosegoldmeteor",
+        "dominanceice",
+        "demonhuntersword",
+        "corrosionscythe"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "wildernessblessing",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "Build ni fokus kepada damage Thunder Belt. Jadi fokus untuk kumpulkan stack supaya damage lebih sakit.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5889,
+      "source_created_at": "2026-02-21T15:41:50.000Z",
+      "likes": 11,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "badang-community-5546",
+      "name": "Community Build 5546",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "corrosionscythe",
+        "demonhuntersword",
+        "goldenstaff",
+        "maleficroar",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "swift",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "Fast attack, works in conjunction with passive ability.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5546,
+      "source_created_at": "2026-02-08T12:17:51.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "badang-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "Roaming/EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

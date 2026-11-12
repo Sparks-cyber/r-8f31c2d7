@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 4,
+    "slug": "alice",
+    "name": "Alice"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "alice-community-5441",
+      "name": "Community Build 5441",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "magicboots",
+        "oracle",
+        "bruteforcebreastplate",
+        "dominanceice",
+        "antiquecuirass",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "vitality",
+        "bravesmite",
+        "tenacity"
+      ],
+      "situational_items": [],
+      "notes": "The last item can be swapped to Queen's Winge (If you want to suck a lot of blood.)\nPart 2 of Embel's section can be changed to Festival of Blood (In the event that you don't encounter any high-damage dealers.)",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5441,
+      "source_created_at": "2026-02-04T06:27:24.000Z",
+      "likes": 10,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "alice-community-5541",
+      "name": "Community Build 5541",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "guardianhelmet",
+        "oracle",
+        "dominanceice",
+        "radiantarmor",
+        "bruteforcebreastplate"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "support",
+      "talent_ids": [
+        "inspire",
+        "bargainhunter",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "1. Battle Spell: Vengeance (สเปลหลัก ใช้ทุกเกม!)\nทำอะไร? สะท้อนความเสียหายกลับศัตรู + ลดดาเมจจาก Ult ของ Alice ได้ 85%! (ศัตรูตีคุณ → พวกเขาตายก่อน)\nทำไมมือใหม่ใช้? EXP Lane โดนกังค์บ่อย Spell นี้ช่วยรอดชีวิต + ไฟต์ชนะง่าย\nทางเลือก: Flicker (หนี/ไล่) ถ้ากลัวตายเร็ว\n2. Emblem: Support (เอ็มเบลมสนับสนุน – ง่ายสุดสำหรับมือใหม่)\nเลือก: Inspire (ลดคูลดาวน์สกิล 5%) > Bargain Hunter (ไอเทมถูกขึ้นต้นเกม) > Brave Smite (ฟื้นเลือดหลังกิล)\nทำอะไร? ทำให้สกิล Alice ใช้บ่อยขึ้น + รักษาตัวดี จุดโฟกัส: HP + CDR + Magic Power\nทำไม? Alice ต้องการคูลดาวน์ต่ำเพื่อดูดเลือดวนๆ ไม่ใช่ดาเมจเยอะ มือใหม่เซ็ตนี้รอดทุกเลน!\n3. Item Build: \"ไม่ตาย + ดูดเลือด\" (ซื้อตามลำดับนี้เลย!)\nซื้อทีละชิ้น เริ่มจากถูกๆ ก่อนนะครับ:\nTough Boots (รองเท้าแรก): ลด CC (สตั๊น/สโลว์) 30% + ทนเวท – ช่วยไม่ตายตอนต้นเกม\nGuardian Helmet (หลัก!): +HP เยอะ + ฟื้นเลือดช้าๆ – ฟาร์มชิลๆ ไม่ต้องรีเทิร์นฐานบ่อย\nOracle: เพิ่มการฟื้นเลือด/โล่ 25% – ดูดเลือด Alice แรงขึ้น 3 เท่า!\nDominance Ice: ชะลอศัตรู + ลดมานา – ไฟต์เลน/ทีม ศัตรูยิงช้า\nRadiant Armor: สะท้อนเวท + ฟื้นเลือด – ป้องกันเมจศัตรู\nTwilight Armor หรือ Brute Force Breastplate: เพิ่ม HP + ความเร็ว – ยืนไฟต์นานสุด\nปรับตามศัตรูง่ายๆ:\nศัตรู AD เยอะ: Dominance Ice 2 ชิ้น\nเมจ Burst: Winter Truncheon (แช่แข็งตัวเอง)\nต้นเกมอ่อน → Mid เกมแข็งแกร่ง!\n4. Skill Order & Combo (อัพสกิล + คอมโบง่ายๆ)\nอัพสกิล: S1 (ลูก orb ไล่/หนี) > S2 (หมุนดูดเลือด) > Ult | เลเวล 1: S2 ก่อน\nคอมโบเลน (Poke): S2 2 ครั้ง (เก็บสแต็ค) → ตีปกติ → S1 โยน orb\nคอมโบทีมไฟต์ (หลัก!): S1 วาง orb → Ult (กับดักศัตรู + ลดดาเมจ 50%) → S2 หมุนดูดเลือด → ตีปกติวนๆ\nกดค้าง Passive (Blood Banquet) เสมอ = ดูดเลือดไม่หยุด!\n5. Tips เล่นง่ายสำหรับมือใหม่ (ทำตามนี้ Carry แน่นอน!)\nต้นเกม (เลเวล 1-4): ฟาร์มมินเนียน/เต่าให้ไว อย่าไล่ฆ่า! ใช้ S2 เก็บสแต็คดูดเลือด รอเลเวล 4 Ult แล้วกังค์มิท/โกล\nกลางเกม (5-12): ช่วยทีม Objective (Lord/Turtle) ใช้ Ult เปิดไฟต์\nท้ายเกม: Ult ไล่ Marksman/เมจหลังทีมศัตรู → ดูดเลือด 1v3 ได้!\nอย่าทำ: อย่าลุยเดี่ยวต้นเกม | ทำ: รักษาสแต็ค Passive 1 ลูกเสมอ\nแพ้เลนไหน? Cici/X.Borg (ซื้อ Dominance Ice) | ชนะ: Chou/Paquito\nWin ด้วย: ฟาร์มไว + ยืนนาน = ทีมคุณชนะ!\n\nผิดพลาดประการได้ก็ต้องขออภัยมานะที่นี้ด้วยขอบคุณครับ",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5541,
+      "source_created_at": "2026-02-08T11:07:30.000Z",
+      "likes": 8,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "alice-companion-baseline",
+      "name": "Companion Mage/Tank Baseline",
+      "lane": "EXP Lane/Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

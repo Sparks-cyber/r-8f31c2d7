@@ -1,0 +1,156 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hanabi-backup",
+      "portrait_file": "Hanabi-Default.png",
+      "script_file": "Hanabi-Backup.zip",
+      "skin_name": "Scarlet Flower",
+      "splash_file": "Hanabi-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-resplendent-iris",
+      "portrait_file": "Hanabi-Resplendent-Iris.png",
+      "script_file": "Hanabi-Resplendent-Iris.zip",
+      "skin_name": "Resplendent Iris",
+      "splash_file": "Hanabi-Resplendent-Iris.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-viper",
+      "portrait_file": "Hanabi-Viper.png",
+      "script_file": "Hanabi-Viper.zip",
+      "skin_name": "Viper",
+      "splash_file": "Hanabi-Viper.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-v-e-n-o-m-nephila",
+      "portrait_file": "Hanabi-V-E-N-O-M-Nephila.png",
+      "script_file": "Hanabi-V-E-N-O-M-Nephila.zip",
+      "skin_name": "V.E.N.O.M. Nephila",
+      "splash_file": "Hanabi-V-E-N-O-M-Nephila.png",
+      "tag_id": "venom",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-fiery-moth",
+      "portrait_file": "Hanabi-Fiery-Moth.png",
+      "script_file": "Hanabi-Fiery-Moth.zip",
+      "skin_name": "Fiery Moth",
+      "splash_file": "Hanabi-Fiery-Moth.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-rakshesha",
+      "portrait_file": "Hanabi-Rakshesha.png",
+      "script_file": "Hanabi-Rakshesha.zip",
+      "skin_name": "Rakshesha",
+      "splash_file": "Hanabi-Rakshesha.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-field-op",
+      "portrait_file": "Hanabi-Field-Op.png",
+      "script_file": "Hanabi-Field-Op.zip",
+      "skin_name": "Field Op",
+      "splash_file": "Hanabi-Field-Op.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-riverland-phoenix",
+      "portrait_file": "Hanabi-Riverland-Phoenix.png",
+      "script_file": "Hanabi-Riverland-Phoenix.zip",
+      "skin_name": "Riverland Phoenix",
+      "splash_file": "Hanabi-Riverland-Phoenix.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-moonlit-ninja",
+      "portrait_file": "Hanabi-Moonlit-Ninja.png",
+      "script_file": "Hanabi-Moonlit-Ninja.zip",
+      "skin_name": "Moonlit Ninja",
+      "splash_file": "Hanabi-Moonlit-Ninja.png",
+      "tag_id": "allstar",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-vessel-of-rage",
+      "portrait_file": "Hanabi-Vessel-of-Rage.png",
+      "script_file": "Hanabi-Vessel-of-Rage.zip",
+      "skin_name": "Vessel of Rage",
+      "splash_file": "Hanabi-Vessel-of-Rage.png",
+      "tag_id": "soul-vessels",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-chic-glamour",
+      "portrait_file": "Hanabi-Chic-Glamour.png",
+      "script_file": "Hanabi-Chic-Glamour.zip",
+      "skin_name": "Chic Glamour",
+      "splash_file": "Hanabi-Chic-Glamour.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-neonscape-icon",
+      "portrait_file": "Hanabi-Neonscape-Icon.png",
+      "script_file": "Hanabi-Neonscape-Icon.zip",
+      "skin_name": "Neonscape Icon",
+      "splash_file": "Hanabi-Neonscape-Icon.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-twin-crescent",
+      "portrait_file": "Hanabi-Twin-Crescent.png",
+      "script_file": "Hanabi-Twin-Crescent.zip",
+      "skin_name": "Twin Crescent",
+      "splash_file": "Hanabi-Twin-Crescent.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-emerald-viper-painted-01",
+      "portrait_file": "Hanabi-Emerald-Viper.png",
+      "script_file": "Hanabi-Emerald-Viper.zip",
+      "skin_name": "Emerald Viper",
+      "splash_file": "Hanabi - Emerald Viper.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 60,
+    "name": "Hanabi",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "hanabi"
+  },
+  "release_tag": "visual-hanabi",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

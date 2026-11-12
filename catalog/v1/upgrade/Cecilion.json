@@ -1,0 +1,341 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Cecilion",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Wisteria Count",
+      "Splash_url": "Cecilion-Wisteria-Count.png",
+      "script": "Cecilion-Wisteria-Count-Backup.zip",
+      "Portrait_url": "Cecilion-Wisteria-Count.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "The Illusionist",
+          "Portrait_url": "Cecilion-The-Illusionist.png",
+          "Splash_url": "Cecilion-The-Illusionist.png",
+          "script": "Cecilion-Wisteria-Count-The-Illusionist.zip"
+        },
+        {
+          "name": "Phantom Count",
+          "Portrait_url": "Cecilion-Phantom-Count.png",
+          "Splash_url": "Cecilion-Phantom-Count.png",
+          "script": "Cecilion-Wisteria-Count-Phantom-Count.zip"
+        },
+        {
+          "name": "Stargazer",
+          "Portrait_url": "Cecilion-Stargazer.png",
+          "Splash_url": "Cecilion-Stargazer.png",
+          "script": "Cecilion-Wisteria-Count-Stargazer.zip"
+        },
+        {
+          "name": "Crimson Wings",
+          "Portrait_url": "Cecilion-Crimson-Wings.png",
+          "Splash_url": "Cecilion-Crimson-Wings.png",
+          "script": "Cecilion-Wisteria-Count-Crimson-Wings.zip"
+        },
+        {
+          "name": "Hisoka",
+          "Portrait_url": "Cecilion-Hisoka.png",
+          "Splash_url": "Cecilion-Hisoka.png",
+          "script": "Cecilion-Wisteria-Count-Hisoka.zip"
+        },
+        {
+          "name": "Vessel of Gluttony",
+          "Portrait_url": "Cecilion-Vessel-of-Gluttony.png",
+          "Splash_url": "Cecilion-Vessel-of-Gluttony.png",
+          "script": "Cecilion-Wisteria-Count-Vessel-of-Gluttony.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "The Illusionist",
+      "Splash_url": "Cecilion-The-Illusionist.png",
+      "script": "Cecilion-The-Illusionist-Backup.zip",
+      "Portrait_url": "Cecilion-The-Illusionist.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Count",
+          "Portrait_url": "Cecilion-Wisteria-Count.png",
+          "Splash_url": "Cecilion-Wisteria-Count.png",
+          "script": "Cecilion-The-Illusionist-Wisteria-Count.zip"
+        },
+        {
+          "name": "Phantom Count",
+          "Portrait_url": "Cecilion-Phantom-Count.png",
+          "Splash_url": "Cecilion-Phantom-Count.png",
+          "script": "Cecilion-The-Illusionist-Phantom-Count.zip"
+        },
+        {
+          "name": "Stargazer",
+          "Portrait_url": "Cecilion-Stargazer.png",
+          "Splash_url": "Cecilion-Stargazer.png",
+          "script": "Cecilion-The-Illusionist-Stargazer.zip"
+        },
+        {
+          "name": "Crimson Wings",
+          "Portrait_url": "Cecilion-Crimson-Wings.png",
+          "Splash_url": "Cecilion-Crimson-Wings.png",
+          "script": "Cecilion-The-Illusionist-Crimson-Wings.zip"
+        },
+        {
+          "name": "Hisoka",
+          "Portrait_url": "Cecilion-Hisoka.png",
+          "Splash_url": "Cecilion-Hisoka.png",
+          "script": "Cecilion-The-Illusionist-Hisoka.zip"
+        },
+        {
+          "name": "Vessel of Gluttony",
+          "Portrait_url": "Cecilion-Vessel-of-Gluttony.png",
+          "Splash_url": "Cecilion-Vessel-of-Gluttony.png",
+          "script": "Cecilion-The-Illusionist-Vessel-of-Gluttony.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Phantom Count",
+      "Splash_url": "Cecilion-Phantom-Count.png",
+      "script": "Cecilion-Phantom-Count-Backup.zip",
+      "Portrait_url": "Cecilion-Phantom-Count.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Count",
+          "Portrait_url": "Cecilion-Wisteria-Count.png",
+          "Splash_url": "Cecilion-Wisteria-Count.png",
+          "script": "Cecilion-Phantom-Count-Wisteria-Count.zip"
+        },
+        {
+          "name": "The Illusionist",
+          "Portrait_url": "Cecilion-The-Illusionist.png",
+          "Splash_url": "Cecilion-The-Illusionist.png",
+          "script": "Cecilion-Phantom-Count-The-Illusionist.zip"
+        },
+        {
+          "name": "Stargazer",
+          "Portrait_url": "Cecilion-Stargazer.png",
+          "Splash_url": "Cecilion-Stargazer.png",
+          "script": "Cecilion-Phantom-Count-Stargazer.zip"
+        },
+        {
+          "name": "Crimson Wings",
+          "Portrait_url": "Cecilion-Crimson-Wings.png",
+          "Splash_url": "Cecilion-Crimson-Wings.png",
+          "script": "Cecilion-Phantom-Count-Crimson-Wings.zip"
+        },
+        {
+          "name": "Hisoka",
+          "Portrait_url": "Cecilion-Hisoka.png",
+          "Splash_url": "Cecilion-Hisoka.png",
+          "script": "Cecilion-Phantom-Count-Hisoka.zip"
+        },
+        {
+          "name": "Vessel of Gluttony",
+          "Portrait_url": "Cecilion-Vessel-of-Gluttony.png",
+          "Splash_url": "Cecilion-Vessel-of-Gluttony.png",
+          "script": "Cecilion-Phantom-Count-Vessel-of-Gluttony.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Stargazer",
+      "Splash_url": "Cecilion-Stargazer.png",
+      "script": "Cecilion-Stargazer-Backup.zip",
+      "Portrait_url": "Cecilion-Stargazer.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Count",
+          "Portrait_url": "Cecilion-Wisteria-Count.png",
+          "Splash_url": "Cecilion-Wisteria-Count.png",
+          "script": "Cecilion-Stargazer-Wisteria-Count.zip"
+        },
+        {
+          "name": "The Illusionist",
+          "Portrait_url": "Cecilion-The-Illusionist.png",
+          "Splash_url": "Cecilion-The-Illusionist.png",
+          "script": "Cecilion-Stargazer-The-Illusionist.zip"
+        },
+        {
+          "name": "Phantom Count",
+          "Portrait_url": "Cecilion-Phantom-Count.png",
+          "Splash_url": "Cecilion-Phantom-Count.png",
+          "script": "Cecilion-Stargazer-Phantom-Count.zip"
+        },
+        {
+          "name": "Crimson Wings",
+          "Portrait_url": "Cecilion-Crimson-Wings.png",
+          "Splash_url": "Cecilion-Crimson-Wings.png",
+          "script": "Cecilion-Stargazer-Crimson-Wings.zip"
+        },
+        {
+          "name": "Hisoka",
+          "Portrait_url": "Cecilion-Hisoka.png",
+          "Splash_url": "Cecilion-Hisoka.png",
+          "script": "Cecilion-Stargazer-Hisoka.zip"
+        },
+        {
+          "name": "Vessel of Gluttony",
+          "Portrait_url": "Cecilion-Vessel-of-Gluttony.png",
+          "Splash_url": "Cecilion-Vessel-of-Gluttony.png",
+          "script": "Cecilion-Stargazer-Vessel-of-Gluttony.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Crimson Wings",
+      "Splash_url": "Cecilion-Crimson-Wings.png",
+      "script": "Cecilion-Crimson-Wings-Backup.zip",
+      "Portrait_url": "Cecilion-Crimson-Wings.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Count",
+          "Portrait_url": "Cecilion-Wisteria-Count.png",
+          "Splash_url": "Cecilion-Wisteria-Count.png",
+          "script": "Cecilion-Crimson-Wings-Wisteria-Count.zip"
+        },
+        {
+          "name": "The Illusionist",
+          "Portrait_url": "Cecilion-The-Illusionist.png",
+          "Splash_url": "Cecilion-The-Illusionist.png",
+          "script": "Cecilion-Crimson-Wings-The-Illusionist.zip"
+        },
+        {
+          "name": "Phantom Count",
+          "Portrait_url": "Cecilion-Phantom-Count.png",
+          "Splash_url": "Cecilion-Phantom-Count.png",
+          "script": "Cecilion-Crimson-Wings-Phantom-Count.zip"
+        },
+        {
+          "name": "Stargazer",
+          "Portrait_url": "Cecilion-Stargazer.png",
+          "Splash_url": "Cecilion-Stargazer.png",
+          "script": "Cecilion-Crimson-Wings-Stargazer.zip"
+        },
+        {
+          "name": "Hisoka",
+          "Portrait_url": "Cecilion-Hisoka.png",
+          "Splash_url": "Cecilion-Hisoka.png",
+          "script": "Cecilion-Crimson-Wings-Hisoka.zip"
+        },
+        {
+          "name": "Vessel of Gluttony",
+          "Portrait_url": "Cecilion-Vessel-of-Gluttony.png",
+          "Splash_url": "Cecilion-Vessel-of-Gluttony.png",
+          "script": "Cecilion-Crimson-Wings-Vessel-of-Gluttony.zip"
+        }
+      ]
+    },
+    {
+      "name": "HUNTER×HUNTER",
+      "Default_name": "Hisoka",
+      "Splash_url": "Cecilion-Hisoka.png",
+      "script": "Cecilion-Hisoka-Backup.zip",
+      "Portrait_url": "Cecilion-Hisoka.png",
+      "Tags": [
+        "Hunter x Hunter.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Count",
+          "Portrait_url": "Cecilion-Wisteria-Count.png",
+          "Splash_url": "Cecilion-Wisteria-Count.png",
+          "script": "Cecilion-Hisoka-Wisteria-Count.zip"
+        },
+        {
+          "name": "The Illusionist",
+          "Portrait_url": "Cecilion-The-Illusionist.png",
+          "Splash_url": "Cecilion-The-Illusionist.png",
+          "script": "Cecilion-Hisoka-The-Illusionist.zip"
+        },
+        {
+          "name": "Phantom Count",
+          "Portrait_url": "Cecilion-Phantom-Count.png",
+          "Splash_url": "Cecilion-Phantom-Count.png",
+          "script": "Cecilion-Hisoka-Phantom-Count.zip"
+        },
+        {
+          "name": "Stargazer",
+          "Portrait_url": "Cecilion-Stargazer.png",
+          "Splash_url": "Cecilion-Stargazer.png",
+          "script": "Cecilion-Hisoka-Stargazer.zip"
+        },
+        {
+          "name": "Crimson Wings",
+          "Portrait_url": "Cecilion-Crimson-Wings.png",
+          "Splash_url": "Cecilion-Crimson-Wings.png",
+          "script": "Cecilion-Hisoka-Crimson-Wings.zip"
+        },
+        {
+          "name": "Vessel of Gluttony",
+          "Portrait_url": "Cecilion-Vessel-of-Gluttony.png",
+          "Splash_url": "Cecilion-Vessel-of-Gluttony.png",
+          "script": "Cecilion-Hisoka-Vessel-of-Gluttony.zip"
+        }
+      ]
+    },
+    {
+      "name": "Soul Vessels",
+      "Default_name": "Vessel of Gluttony",
+      "Splash_url": "Cecilion-Vessel-of-Gluttony.png",
+      "script": "Cecilion-Vessel-of-Gluttony-Backup.zip",
+      "Portrait_url": "Cecilion-Vessel-of-Gluttony.png",
+      "Tags": [
+        "Soul Vessels.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Count",
+          "Portrait_url": "Cecilion-Wisteria-Count.png",
+          "Splash_url": "Cecilion-Wisteria-Count.png",
+          "script": "Cecilion-Vessel-of-Gluttony-Wisteria-Count.zip"
+        },
+        {
+          "name": "The Illusionist",
+          "Portrait_url": "Cecilion-The-Illusionist.png",
+          "Splash_url": "Cecilion-The-Illusionist.png",
+          "script": "Cecilion-Vessel-of-Gluttony-The-Illusionist.zip"
+        },
+        {
+          "name": "Phantom Count",
+          "Portrait_url": "Cecilion-Phantom-Count.png",
+          "Splash_url": "Cecilion-Phantom-Count.png",
+          "script": "Cecilion-Vessel-of-Gluttony-Phantom-Count.zip"
+        },
+        {
+          "name": "Stargazer",
+          "Portrait_url": "Cecilion-Stargazer.png",
+          "Splash_url": "Cecilion-Stargazer.png",
+          "script": "Cecilion-Vessel-of-Gluttony-Stargazer.zip"
+        },
+        {
+          "name": "Crimson Wings",
+          "Portrait_url": "Cecilion-Crimson-Wings.png",
+          "Splash_url": "Cecilion-Crimson-Wings.png",
+          "script": "Cecilion-Vessel-of-Gluttony-Crimson-Wings.zip"
+        },
+        {
+          "name": "Hisoka",
+          "Portrait_url": "Cecilion-Hisoka.png",
+          "Splash_url": "Cecilion-Hisoka.png",
+          "script": "Cecilion-Vessel-of-Gluttony-Hisoka.zip"
+        }
+      ]
+    }
+  ]
+}

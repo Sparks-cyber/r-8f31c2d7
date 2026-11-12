@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "franco-backup",
+      "portrait_file": "Franco-Default.png",
+      "script_file": "Franco-Backup.zip",
+      "skin_name": "Frozen Warrior",
+      "splash_file": "Franco-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "franco-masterchef",
+      "portrait_file": "Franco-Masterchef.png",
+      "script_file": "Franco-Masterchef.zip",
+      "skin_name": "Masterchef",
+      "splash_file": "Franco-Masterchef.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "franco-apocalypse",
+      "portrait_file": "Franco-Apocalypse.png",
+      "script_file": "Franco-Apocalypse.zip",
+      "skin_name": "Apocalypse",
+      "splash_file": "Franco-Apocalypse.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "franco-locomotive",
+      "portrait_file": "Franco-Locomotive.png",
+      "script_file": "Franco-Locomotive.zip",
+      "skin_name": "Locomotive",
+      "splash_file": "Franco-Locomotive.png",
+      "tag_id": "s9",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "franco-wheatfield-nightmare",
+      "portrait_file": "Franco-Wheatfield-Nightmare.png",
+      "script_file": "Franco-Wheatfield-Nightmare.zip",
+      "skin_name": "Wheatfield Nightmare",
+      "splash_file": "Franco-Wheatfield-Nightmare.png",
+      "tag_id": "halloween",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "franco-valhalla-ruler",
+      "portrait_file": "Franco-Valhalla-Ruler.png",
+      "script_file": "Franco-Valhalla-Ruler.zip",
+      "skin_name": "Valhalla Ruler",
+      "splash_file": "Franco-Valhalla-Ruler.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "franco-blazing-axe",
+      "portrait_file": "Franco-Blazing-Axe.png",
+      "script_file": "Franco-Blazing-Axe.zip",
+      "skin_name": "Blazing Axe",
+      "splash_file": "Franco-Blazing-Axe.png",
+      "tag_id": "blazing-bounties",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "franco-bone-crusher",
+      "portrait_file": "Franco-Bone-Crusher.png",
+      "script_file": "Franco-Bone-Crusher.zip",
+      "skin_name": "Bone Crusher",
+      "splash_file": "Franco-Bone-Crusher.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "franco-king-of-hell",
+      "portrait_file": "Franco-King-of-Hell.png",
+      "script_file": "Franco-King-of-Hell.zip",
+      "skin_name": "King of Hell",
+      "splash_file": "Franco-King-of-Hell.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "franco-quantum-vanguard",
+      "portrait_file": "Franco-Quantum-Vanguard.png",
+      "script_file": "Franco-Quantum-Vanguard.zip",
+      "skin_name": "Quantum Vanguard",
+      "splash_file": "Franco-Quantum-Vanguard.png",
+      "tag_id": "mpl",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "franco-captain-of-the-lost",
+      "portrait_file": "Franco-Captain-of-the-Lost.png",
+      "script_file": null,
+      "skin_name": "Captain of the Lost",
+      "splash_file": "Franco-Captain-of-the-Lost.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "franco-luminous-nightmare",
+      "portrait_file": "Franco-Luminous-Nightmare.png",
+      "script_file": "Franco-Luminous-Nightmare.zip",
+      "skin_name": "Luminous Nightmare",
+      "splash_file": "Franco-Luminous-Nightmare.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 10,
+    "name": "Franco",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "franco"
+  },
+  "release_tag": "visual-franco",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

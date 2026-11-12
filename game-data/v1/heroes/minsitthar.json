@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 74,
+    "slug": "minsitthar",
+    "name": "Minsitthar",
+    "skin_name": "Courageous Warrior",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane",
+      "Roaming"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Initiator",
+      "Crowd Control"
+    ],
+    "region": "Vonetis Sea",
+    "release_date": "2018",
+    "resource": "Mana",
+    "short_description": "A young king that led the people of Mahar Pura to victory against invaders.",
+    "brief": "A prince of the Vonetis Sea's Mahar Pura, good at fighting and winning. He was expelled by his father because of a heretical love affair he had. When his brother raised the flag of rebellion, Minsitthar, who was in exile, returned to his motherland, put down the rebellion and became the new king.",
+    "story": "I stood under the towering castle wall, it was just another day in my commonplace life as a noteless maid.\nA sudden baby cry shook the sun but the birth of a prince could not awaken my stranding life.\nI stood under the towering castle wall, praises and blessings came to my ears: Some wished him to be benevolent; some wished him to be brave; some wished him to have a great future...\nI have seen so many royals and nobles in my life, their authorities are like knives at my throat.\nJust like this moment, I am waiting for my masters to punish me as my senility made me break the dishes.\nA little figure stands in front of me with a short wooden sword — the praised prince is protecting me just like he swore to protect his subjects.\nNow I wish so much he could grow up safely and bring warmth to people like the sun over Mahar Pura.\n\nKneeling on the cracked farmland, I prayed for the rain to save our dying crops, parched mouth, and despairing hearts.\nBut what came before the rain was our savior in golden armor, he brought us food and relieved our suffering.\nWhen he looked down at his subjects, I could see a whole world in the depth of his eyes, a world that was as beautiful as a landscape.\nWhen he raised his eyes, he noticed the figure of a little rosewood flower, which made the world in his eyes jump with joy.\nLater, I was told that our savior, the crown prince of our kingdom, fell in love with a civilian girl.\nHe shook off his royal trifles and chased free life with the girl. However, free life is not all about the starry sky and love.\nIt also means paddy, sack clothes, and hard work within fields.\nThis time, the prince finally got the chance to see the truth of the world and the lives of his fellow subjects.\n\nI marched to the battlefield with my comrades as the enemy warships once again broke through our naval defenses.\nThe black waves flooded from the horizon toward us and soon turned into millions of blades.\nMy comrades, my brothers, were pierced by the blades. They told me to bring their last smile back to our hometown.\nThe black clouds poured out from enemy ships, covering the sun. We fought for our lives desperately but no hope could be seen.\nSuddenly, a golden light split across the gloomy sky, driving away all the darkness on the battlefield.\nI recognized the Sacred Spear in the comer's hand. That was our crown prince! The sun of Mahar Pura!\nHe blocked all the enemy attacks with his tough body.\nHe blew the horn to rally the desperate soldiers.\nTorches gathered from all over the battlefield and formed a wildfire.\nUnder his leadership, we wrapped up all the darkness and pushed them back to where they came from.\nLater, we knelt before our new king and swore to be his feet and spear. May Mahar Pura shine forever.\n\nI met him again at a very old age. He returned to the palace and basked in the radiance of the crown again.\nI was told he once put aside his duties and lived a farmer's life with his true love. However, he couldn't turn a blind eye to the bitterness of his people.\nHe left his rosewood flower garden, reforged his Sacred Spear, and went back to the brutal battlefield.\nNow I live behind the castle walls, free from the sound of battle horns. Thanks to warriors like him, I can still pour wine with care and respect.\nI offer him the cup of wine, he looks down, there's loneliness in his eyes.\nBut the bright sun still shines upon the unvarying land of Mahar Pura as always.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 4,
+    "control": 8,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2698,
+    "health_growth": 198,
+    "health_regen": 7.4,
+    "health_regen_growth": 0.4143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 121,
+    "physical_attack_growth": 9.21,
+    "magic_power": 0,
+    "physical_defense": 23,
+    "physical_defense_growth": 4.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.07,
+    "attack_speed_growth": 0.0329,
+    "attack_speed_ratio": 0.8,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Minsitthar0",
+      "name": "Mark of the King",
+      "description": "Minsitthar's Basic Attacks and skills apply a stack of <highlight>Mark of the King</highlight>, up to 5 stacks. Upon reaching max stacks, the next attack detonates all <highlight>Mark of the King</highlight> stacks, dealing <physicalDamage>Physical Damage</physicalDamage> equal to 400<scaleHP> (+6% Total HP)</scaleHP> of Minsitthar's Max HP and stunning the target for 0.8s while healing Minsitthar for 400<scaleHP> (+6% Total HP)</scaleHP> HP. Can only trigger once every 6s on the same target.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8a08e978ceeacea5127e4503de0611b.png",
+      "video_url": null
+    },
+    {
+      "id": "Minsitthar1",
+      "name": "Spear of Glory",
+      "description": "Minsitthar thrusts forward with the Spear of Glory, dealing 175/200/225/250/275/300<scaleAD> (+40% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing enemies hit by 30%. Enemy heroes hit by the tip of the spear will be stunned for 0.6s. After a short delay, Minsitthar pulls back the spear, dealing 175<scaleAD> (+40% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to all enemies along the way and dragging enemy heroes hit to him.",
+      "flavor_text": null,
+      "cost": "95/105/115/125/135/145",
+      "cooldown": "13/12.2/11.4/10.6/9.8/9",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b6b93437d70ecd419f9f836e05842008.png",
+      "video_url": null
+    },
+    {
+      "id": "Minsitthar2",
+      "name": "Shield Assault",
+      "description": "Minsitthar awakens the power in his shield and releases it, dealing 100/120/140/160/180/200<scaleAD> (+45% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to all enemies in a rectangular area and slowing them by 80% (decaying rapidly over 2s). Meanwhile, he enters <highlight>Phalanx</highlight> state for 3s, reducing damage taken from the front by 25/30/35/40/45/50% and enhancing his Basic Attack to swiftly strike an area in front of him for 100/120/140/160/180/200<scaleAD> (+45% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> per hit.",
+      "flavor_text": null,
+      "cost": "50/55/60/65/70/75",
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "Reduce DMG",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3c57f1f179d03eba8a27d72cc4e6702.png",
+      "video_url": null
+    },
+    {
+      "id": "Minsitthar3",
+      "name": "King's Calling",
+      "description": "Minsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field and deal <scaleAD> (+40% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to them.<br/>Enemies in the field are slowed by 20% and cannot use movement skills.",
+      "flavor_text": "Where will I be?",
+      "cost": "150/200/250",
+      "cooldown": "60/55/50",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1da161bc8087d39ae7e3e50febef4f0.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Minsitthar0",
+      "sequence": "Minsitthar1-Minsitthar3-Minsitthar2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Minsitthar should use his 1st Skill to pull in multiple enemies before using his Ultimate to restrict their movement, and then use his 2nd Skill's enhanced Basic Attacks to deal AOE damage."
+    },
+    {
+      "id": "Minsitthar1",
+      "sequence": "Minsitthar1-Minsitthar2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Minsitthar should use his 1st Skill to pull the enemy to him and slow them with his 2nd Skill, before unleashing his enhanced Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Minsitthar works best with high damage Marksmen, such as Melissa and Hanabi, because he can create more opportunities for them to deal damage.",
+      "heroes": [
+        {
+          "id": 114,
+          "slug": "melissa",
+          "name": "Melissa"
+        },
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Minsitthar is strong against heroes that rely on mobility skills since his Ultimate disables them. Minsitthar can instantly negate the advantages of heroes like Lancelot, Benedetta and Arlott.",
+      "heroes": [
+        {
+          "id": 97,
+          "slug": "benedetta",
+          "name": "Benedetta"
+        },
+        {
+          "id": 120,
+          "slug": "arlott",
+          "name": "Arlott"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Minsitthar is countered by heroes with high Movement Speed, such as Zilong and Aulus, who can easily dodge his 1st Skill and run out of his Ultimate.",
+      "heroes": [
+        {
+          "id": 16,
+          "slug": "zilong",
+          "name": "Zilong"
+        },
+        {
+          "id": 108,
+          "slug": "aulus",
+          "name": "Aulus"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Minsitthar-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Minsitthar-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a18fa300eb0de4324601c116eab655c.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a18fa300eb0de4324601c116eab655c.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/minsitthar.json",
+    "visual_catalog": "catalog/v1/visual/minsitthar.json",
+    "upgrade_catalog": "catalog/v1/upgrade/minsitthar.json"
+  }
+}

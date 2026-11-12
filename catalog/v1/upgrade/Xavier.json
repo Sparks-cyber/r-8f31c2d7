@@ -1,0 +1,161 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Xavier",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Verdict of Light",
+      "Splash_url": "Xavier-Verdict-of-Light.png",
+      "script": "Xavier-Verdict-of-Light-Backup.zip",
+      "Portrait_url": "Xavier-Verdict-of-Light.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Hardlight Artificer",
+          "Portrait_url": "Xavier-Hardlight-Artificer.png",
+          "Splash_url": "Xavier-Hardlight-Artificer.png",
+          "script": "Xavier-Verdict-of-Light-Hardlight-Artificer.zip"
+        },
+        {
+          "name": "Beyond the Clouds Xavier",
+          "Portrait_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+          "Splash_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+          "script": "Xavier-Verdict-of-Light-Beyond-the-Clouds-Xavier.zip"
+        },
+        {
+          "name": "Lightwave Artificer Painted 01",
+          "Portrait_url": "Xavier-Lightwave-Artificer.png",
+          "Splash_url": "Xavier-Hardlight-Artificer.png",
+          "script": "Xavier-Verdict-of-Light-Lightwave-Artificer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "Default_name": "Satoru Gojo",
+      "Splash_url": "Xavier-Satoru-Gojo.png",
+      "script": "Xavier-Satoru-Gojo-Backup.zip",
+      "Portrait_url": "Xavier-Satoru-Gojo.png",
+      "Tags": [
+        "Jujutsu Kaisen.png"
+      ],
+      "targets": [
+        {
+          "name": "Verdict of Light",
+          "Portrait_url": "Xavier-Verdict-of-Light.png",
+          "Splash_url": "Xavier-Verdict-of-Light.png",
+          "script": "Xavier-Satoru-Gojo-Verdict-of-Light.zip"
+        },
+        {
+          "name": "Hardlight Artificer",
+          "Portrait_url": "Xavier-Hardlight-Artificer.png",
+          "Splash_url": "Xavier-Hardlight-Artificer.png",
+          "script": "Xavier-Satoru-Gojo-Hardlight-Artificer.zip"
+        },
+        {
+          "name": "Beyond the Clouds Xavier",
+          "Portrait_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+          "Splash_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+          "script": "Xavier-Satoru-Gojo-Beyond-the-Clouds-Xavier.zip"
+        },
+        {
+          "name": "Lightwave Artificer Painted 01",
+          "Portrait_url": "Xavier-Lightwave-Artificer.png",
+          "Splash_url": "Xavier-Hardlight-Artificer.png",
+          "script": "Xavier-Satoru-Gojo-Lightwave-Artificer-Painted-01.zip"
+        },
+        {
+          "name": "Holotech Artificer",
+          "Portrait_url": "Xavier-Holotech-Artificer.png",
+          "Splash_url": "Xavier - Holotech Artificer.jpg",
+          "script": "Xavier-Satoru-Gojo-Holotech-Artificer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Hardlight Artificer",
+      "Splash_url": "Xavier-Hardlight-Artificer.png",
+      "script": "Xavier-Hardlight-Artificer-Backup.zip",
+      "Portrait_url": "Xavier-Hardlight-Artificer.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Verdict of Light",
+          "Portrait_url": "Xavier-Verdict-of-Light.png",
+          "Splash_url": "Xavier-Verdict-of-Light.png",
+          "script": "Xavier-Hardlight-Artificer-Verdict-of-Light.zip"
+        },
+        {
+          "name": "Beyond the Clouds Xavier",
+          "Portrait_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+          "Splash_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+          "script": "Xavier-Hardlight-Artificer-Beyond-the-Clouds-Xavier.zip"
+        }
+      ]
+    },
+    {
+      "name": "Clouds",
+      "Default_name": "Beyond the Clouds Xavier",
+      "Splash_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+      "script": "Xavier-Beyond-the-Clouds-Xavier-Backup.zip",
+      "Portrait_url": "Xavier-Beyond-the-Clouds-Xavier.png",
+      "Tags": [
+        "Beyond the Clouds.png"
+      ],
+      "targets": [
+        {
+          "name": "Verdict of Light",
+          "Portrait_url": "Xavier-Verdict-of-Light.png",
+          "Splash_url": "Xavier-Verdict-of-Light.png",
+          "script": "Xavier-Beyond-the-Clouds-Xavier-Verdict-of-Light.zip"
+        },
+        {
+          "name": "Hardlight Artificer",
+          "Portrait_url": "Xavier-Hardlight-Artificer.png",
+          "Splash_url": "Xavier-Hardlight-Artificer.png",
+          "script": "Xavier-Beyond-the-Clouds-Xavier-Hardlight-Artificer.zip"
+        },
+        {
+          "name": "Lightwave Artificer Painted 01",
+          "Portrait_url": "Xavier-Lightwave-Artificer.png",
+          "Splash_url": "Xavier-Hardlight-Artificer.png",
+          "script": "Xavier-Beyond-the-Clouds-Xavier-Lightwave-Artificer-Painted-01.zip"
+        },
+        {
+          "name": "Holotech Artificer",
+          "Portrait_url": "Xavier-Holotech-Artificer.png",
+          "Splash_url": "Xavier - Holotech Artificer.jpg",
+          "script": "Xavier-Beyond-the-Clouds-Xavier-Holotech-Artificer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Lightwave Artificer Skin 05",
+      "Splash_url": "Xavier-Lightwave-Artificer.png",
+      "script": "Xavier-Lightwave-Artificer-Skin-05-Backup.zip",
+      "Portrait_url": "Xavier-Lightwave-Artificer.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Lightwave Artificer Painted 01",
+          "Portrait_url": "Xavier-Lightwave-Artificer.png",
+          "Splash_url": "Xavier-Hardlight-Artificer.png",
+          "script": "Xavier-Lightwave-Artificer-Skin-05-Lightwave-Artificer-Painted-01.zip"
+        },
+        {
+          "name": "Holotech Artificer",
+          "Portrait_url": "Xavier-Holotech-Artificer.png",
+          "Splash_url": "Xavier - Holotech Artificer.jpg",
+          "script": "Xavier-Lightwave-Artificer-Skin-05-Holotech-Artificer.zip"
+        }
+      ]
+    }
+  ]
+}

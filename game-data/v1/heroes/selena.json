@@ -1,0 +1,293 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 63,
+    "slug": "selena",
+    "name": "Selena",
+    "skin_name": "Abyssal Witch",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming",
+      "Mid Lane"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Initiator",
+      "Finisher"
+    ],
+    "region": "Abyss",
+    "release_date": "10 July 2018",
+    "resource": "Mana",
+    "short_description": "Dark Elf girl who fell into the Abyss.",
+    "brief": "The Dark Elf Selena had been dependent on her sister Karina since childhood. Selena maintained her innocent nature under the protection of her sister, until she discovered the dirty things her sister Karina had done for her. She thought that she had become a burden for her sister. In order to gain more power, she dedicated herself to the Abyss, but did not want to be completely controlled by the Abyss and ultimately became a horrifying demon.",
+    "story": "In the Southern Moniyan Empire, a bottomless abyss is carved into a barren landscape-As if an ancient demon used a powerful blade to permanently scar the Land of Dawn. The local populace call this place the Abyss. In ancient times, this was the realm of the God of Darkness. In recent times, in the god's absense, its followers yearn for its return. The demons who dwelled in the darkest depths of the Abyss tirelessly schemed to strengthen their power over the darkness. Many misguided believers offered sacrifices to the Abyss, unknowingly feeding the demons, formed of dark energy in its purest form, always lurking in the darkness waiting to devour the carcasses for sacrifices. They then used the sacrifices to breed the \"Abyssal Demons,\" demonic creatures formed by the purest dark energy, which could perfectly blend into the darkness to wait and engulf the prey.\r\n\r\nOne day, Selena, a young dark elf, was sacrificed by fanatic dark elves in exchange for dark energy. Elves being the demon's favorite sacrifice, Selena was mercilessly thrown into the Abyss. The Abyssal Demons filled Selena with pain and despair, which coursed through every vein of her body. Just as Selena was about to be consumed by the darkness, a miracle happened. A mysterious, warm-blue light enveloped her and appeared to be battling with the darkness for control over her body. When Selena woke, she found herself still lying in the Abyss, but her skin was now exuding some strange blue glow, and her once lavender eyes were filled with a majestic scarlet glow. It was the Abyss Demon resting within her. The demons frantically wondered what happened.\r\n\r\nThe God of Darkness then spoke: \"This dark elf is special. A great power dwells within, inherited from her ancestry, from her blood.\" An ancient and deep voice echoed through the minds of the demons, \"Leave this girl to me. She will become the new master of the darkness!\" The Demons obeyed the commands and left Selena as she was. When Selena stood before the demonic inhabitants of the Abyss, with the Abyssal Demons at her side, she had completely forgotten her past. Selena quickly discovered that she could manipulate the dark magic of the Abyss. She could absorb the power of the Abyss into her body to transform herself into a full demon, capable of tearing her enemies into shreds. The God of Darkness appointed her as its voice, giving Selena uncontested rule over the demons of the Abyss. Even Alice, the proud Queen of Blood, felt unsettled when she laid eyes upon this dark elf girl. Alice could sense a terrifying power slumbering within this mischievous maiden.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 7,
+    "control": 10,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2401,
+    "health_growth": 184,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 110,
+    "physical_attack_growth": 6.71,
+    "magic_power": 0,
+    "physical_defense": 15,
+    "physical_defense_growth": 3.1429,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.3
+  },
+  "abilities": [
+    {
+      "id": "Selena0",
+      "name": "Symbiosis",
+      "description": "Selena can switch freely between her two forms.<br/><br/><highlight>Elven Form</highlight>: Selena applies <highlight>Abyssal Mark</highlight> when her skills deal damage. Marks last 8s and can stack up to 2 times.<br/><br/><highlight>Abyssal Form</highlight>: Selena's Basic Attacks become melee and deal <scaleAP> (+25% Total Magic Power)</scaleAP> additional <magicDamage>Magic Damage</magicDamage>. Her skills deal 240-450<scaleAP> (+40% Total Magic Power)</scaleAP> additional <magicDamage>Magic Damage</magicDamage> to enemies with <highlight>Abyssal Mark</highlight> and consume their mark stacks by 1. This damage is increased to 250% against Creeps.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32860acd4d3f0f6e34c80e70db4f3963.png",
+      "video_url": null
+    },
+    {
+      "id": "Selena1",
+      "name": "Abyssal Trap",
+      "description": "Selena summons an Abyssal Devil to lurk underground. The Abyssal Devil will attach itself to any enemy that approaches, inflicting a stack of <highlight>Abyssal Mark</highlight> and reducing their Movement Speed by 50% for 1s. The Abyssal Devil then explodes, dealing 350/390/430/470/510/550<scaleAP> (+150% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in the area and reducing their Movement Speed by 50% for 1s.<br/><br/>Each additional Abyssal Devil on an enemy increases the final damage by 50%.<br/><br/>Each Abyssal Devil can lurk up to 60s and up to 3 Abyssal Devils can exist at the same time.",
+      "flavor_text": "The iron will of the Abyss befalls.",
+      "cost": "70/75/80/85/90/95",
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_62637c2435b75abec80321bb1544fc30.png",
+      "video_url": null
+    },
+    {
+      "id": "Selena12",
+      "name": "Soul Eater",
+      "description": "Selena strengthens her claws with the power of the Abyss, causing the next Basic Attack to dash to a target and deal an additional 200/230/260/290/320/350<scaleAP> (+130% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> while granting her a 300/320/340/360/380/400<scaleAP> (+150% Total Magic Power)</scaleAP> shield.</br></br>If this damage detonates an <highlight>Abyssal Mark</highlight>, <highlight>Garotte's</highlight> cooldown will reset.",
+      "flavor_text": "The iron will of the Abyss befalls.",
+      "cost": null,
+      "cooldown": "6/5.5/5/4.5/4/3.5",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": null
+        },
+        {
+          "name": "Shield",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e672c608df7806e99148d0176149a316.png",
+      "video_url": null
+    },
+    {
+      "id": "Selena2",
+      "name": "Abyssal Arrow",
+      "description": "Selena fires an abyssal wraith in the target direction that stops when it hits an enemy hero, Creep, or Summon, dealing 250/280/310/340/370/400<scaleAP> (+20% Total Magic Power)</scaleAP> to 500/560/620/680/740/800<scaleAP> (+40% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the target hit and stunning them for 0.5s to 2.5s while revealing their locations (the damage and stun duration increase with the wraith's travel distance).<br/><br/>The wraith will pick up <highlight>Abyssal Trap</highlight> as it travels over it and will apply the <highlight>trap</highlight> to the enemy target upon stunning them.<br/><br/>If the wraith stuns an enemy for 0.9s or longer, Selena will gain 60% Movement Speed for 2s.",
+      "flavor_text": null,
+      "cost": "80/90/100/110/120/130",
+      "cooldown": "12",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abd29236983e4d3d1bfd361b2e242111.png",
+      "video_url": null
+    },
+    {
+      "id": "Selena22",
+      "name": "Garotte",
+      "description": "Selena charges in the target direction, dealing 150/190/230/270/310/350<scaleAP> (+50% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in her path.</br></br>If this skill's damage detonates an <highlight>Abyssal Mark</highlight>, its cooldown will reset.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12/11.4/10.8/10.2/9.6/9",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": null
+        },
+        {
+          "name": "Burst",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32860acd4d3f0f6e34c80e70db4f3963.png",
+      "video_url": null
+    },
+    {
+      "id": "Selena3",
+      "name": "Primal Darkness",
+      "description": "<highlight>Passive</highlight>: Selena gains 5 Magic Power.<br><br><highlight>Active</highlight>: Selena enters Abyssal Form and gains 20/30/40/50% Movement Speed for 0.8s. This also immediately resets the cooldown of <highlight>Soul Eater</highlight> and <highlight>Garotte</highlight>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "5.5",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": null
+        },
+        {
+          "name": "Speed Up",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_beba48ddc774a4267f72ba8a93666998.png",
+      "video_url": null
+    },
+    {
+      "id": "Selena32",
+      "name": "Blessing of the Moon Goddess",
+      "description": "<highlight>Passive</highlight>: Selena gains 5 Magic Power.<br><br><highlight>Active</highlight>: Selena enters Abyssal Form and gains 20/30/40/50% Movement Speed for 0.8s. This also immediately resets the cooldown of <highlight>Abyssal Trap</highlight> and <highlight>Abyssal Arrow</highlight>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "5.5",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": null
+        },
+        {
+          "name": "Speed Up",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2a0d728e05af9460c1cfa97bd0acd56.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Selena0",
+      "sequence": "Selena1-Selena2-Selena3-Selena22-Selena12-Selena22",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Stay in Elven Form to cast her 1st and 2nd skill combo to catch the enemy hero in distance. Then cast her Ultimate to enter her Abyssal Form. Follow with her 2nd and 1st skill combo to close in and finish off the target, then cast her 2nd Skill to dash away."
+    },
+    {
+      "id": "Selena1",
+      "sequence": "Selena2-Selena1",
+      "name": "LANING COMBOS",
+      "description": "Elven Form Selena can use her 2nd Skill to stun the enemy, then use her 1st Skill to poke enemies and deal damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Selena works well with ranged heroes that can deal high burst damage, such as Xavier and Beatrix.",
+      "heroes": [
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        },
+        {
+          "id": 105,
+          "slug": "beatrix",
+          "name": "Beatrix"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Selena is strong against squishy heroes with poor Mobility, simply because it's hard for them to dodge her 2nd Skill. Such as Gord and Layla.",
+      "heroes": [
+        {
+          "id": 23,
+          "slug": "gord",
+          "name": "Gord"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "But Selena is weak against heroes that can resist or remove her CC abilities, such as Hanabi and Wanwan.",
+      "heroes": [
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        },
+        {
+          "id": 89,
+          "slug": "wanwan",
+          "name": "Wanwan"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Selena-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Selena-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4ce7dbe0cbcbaf4c2fcc47bd96780b35.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4ce7dbe0cbcbaf4c2fcc47bd96780b35.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": null
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/selena.json",
+    "visual_catalog": "catalog/v1/visual/selena.json",
+    "upgrade_catalog": "catalog/v1/upgrade/selena.json"
+  }
+}

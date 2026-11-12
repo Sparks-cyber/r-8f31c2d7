@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 32,
+    "slug": "johnson",
+    "name": "Johnson"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "johnson-community-5628",
+      "name": "Community Build 5628",
+      "lane": "Roam",
+      "equipment_ids": [
+        "skypiercer",
+        "arcaneboots",
+        "divineglaive",
+        "holycrystal",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "petrify",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "inspire",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Sekali tabrak ilang wok, dijamin ke hero tipis2",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5628,
+      "source_created_at": "2026-02-11T05:17:41.000Z",
+      "likes": 9,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "johnson-community-6681",
+      "name": "Community Build 6681",
+      "lane": "Roam",
+      "equipment_ids": [
+        "bladearmor",
+        "dominanceice",
+        "magicboots",
+        "fleetingtime",
+        "antiquecuirass",
+        "chastisepauldron"
+      ],
+      "battle_spell_id": "sprint",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "firmness",
+        "tenacity",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "for exp lane johnson, play safe and freeze lane until lvl 3 and then zone the enemy, when at level 4, take turtle and try to rotate as much as you can like a roamer but also clear your lane",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6681,
+      "source_created_at": "2026-03-24T23:40:44.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "johnson-companion-baseline",
+      "name": "Companion Tank/Support Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

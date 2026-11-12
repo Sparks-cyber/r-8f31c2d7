@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 94,
+    "slug": "popol-and-kupa",
+    "name": "Popol and Kupa",
+    "skin_name": "Icefield Companions",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle",
+      "Gold Lane"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Mixed",
+    "specialties": [
+      "Push",
+      "Burst"
+    ],
+    "region": "Northern Vale",
+    "release_date": "21 April 2020",
+    "resource": "Mana",
+    "short_description": "Boy and an Icefield Wolf, partners who understand each other well.",
+    "brief": "Popol is a naughty boy who has ambitions and lofty ideals but is not understood. In order to prove himself, he went alone to hunt down the Icefield Dire Wolves, but accidentally fell into a trap. There was also an Dire Wolf called Kupa inside the trap. After a long time together, they developed a friendship and fought against a group of vultures together. Later, Popol and Kupa became the closest partners in the Ice Field.",
+    "story": "The Feldans are an ordinary nomad tribe found in the middle of Northern Vale. Like most of the local people, they reside near the forest and live a peaceful and slow-paced life, as experienced hunters.\r\n\r\nBut there was one exception. Popol, a naughty boy who had been known as the expert prankster and the little adventurer of the tribe, always seemed to be at the center of attention. Unlike the other quiet and composed Northern Valers, he was full of vigor and imagination. Thanks to the warrior tradition of Northern Vale, Popol mastered the art of spear-throwing since his childhood. He often joined the adults in their hunting and return with a cart full of prey.\r\n\r\nListening to the adults singing songs about legendary heroes after drinking, was his favorite pastime. He dreamt of becoming one of them and have his name sung by others like Popol, the Fearless.\r\n\r\nHowever, his tribesmen didn't take his ambition seriously and laughed about it as if it were some childish daydream. Popol apparently couldn't stand that. In order to impress the others, he pulled all kinds of well-schemed pranks on them, resulting only in the villagers, especially kids, seeing him as a freak and staying away from him.\r\n\r\nThe more alienated he was, the more eager he became to draw their attention by pulling even more pranks. However, that kept achieving the opposite effects. In the end, he had no friends left.\r\n\r\nAlone and desperate, he decided to do something extraordinary to reverse his image once and for all.\r\n\r\nOn a dark night, Popol left the village and ventured into the mountains. He planned to kill a ferocious frost wolf all by himself to impress the others.\r\n\r\nHe stumbled into the thick forest and investigated his surroundings curiously. As expected, he lost orientation in the dark and fell into a trap.\r\n\r\nThe first thing he saw at the bottom of the hole was a pair of glowing blue eyes, which scared him off his feet. But when the moonlight shone into the trap, he saw the owner of the eyes - a trapped frost wolf, whom he later gave the name Kupa. One of it's front feet was clamped and hurt by a beast trap and due to starvation, it could barely move.\r\n\r\nPopol could have killed Kupa then and there, but when he raised his spear, he saw the same loneliness in Kupa's eyes. If he killed Kupa, he would be completely alone in the darkness of the trap. Hesitantly, he put down the spear and tried to help Kupa.\r\n\r\nAt first, they were defensive and hostile towards each other. But in time, the two lonely souls finally lowered their guard and regarded the other as the same kind. The beast trap became the bridge of their friendship. And perhaps due to their loneliness, Popol treated Kupa as a listener and playmate. He even playfully threw a snowball on its head.\r\n\r\nBut at this point, Kupa was almost starving to death. Popol hesitated for a while, before sharing the food he carried, with the dying Kupa.\r\n\r\nHowever, Popol decided to feed Kupa and Kupa was eventually saved from starvation. In Kupa's mind, all humans were cold and ruthless like the hunters. It was usually always a life-and-death situation between them and the frost wolves. But Popol was different. Having been hunted alone in the forest since it was born, Kupa felt kindness and warmth for the first time from Popol.\r\n\r\nDays passed, and the two formed a subtle friendship. Unfortunately, there wasn't much food or rats left for them to survive. And to make it even worse, their first visitors were not people coming to rescue them, but a group of vultures. They flocked to the trap and began to attack. Popol threw his spear at the vultures, but he couldn't fend them off, while Kupa could only fight aimlessly with one free paw.\r\n\r\nUnder the continuous harassment of the vultures, they were becoming the birds' meal. Ot was at this time of danger that Popol made a remarkable decision - he threw down the spear and with all his strength, tore open the beast trap, in order to help Kupa escape. With his back exposed, he was caught by a vulture and lifted off the trap in mid-air. Just as Popol lost all hope, a thundering roar broke out. Kupa leaped out of the pit and pounced on the vulture, freeing Popol from it's grasp.\r\n\r\nNow, with both fighting side by side, Popol and Kupa demonstrated incredible synergy and repelled all the vultures for good. Henceforth, they became the best partners in adventure.\r\n\r\nThey traveled the frozen lands and together, began a new chapter in the tale of their adventure.",
+    "recommended_skill_order": "4-1-2-3"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 5,
+    "control": 7,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 140,
+    "health_regen": 6.0,
+    "health_regen_growth": 0.2143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 100,
+    "physical_attack_growth": 7.0,
+    "magic_power": 0,
+    "physical_defense": 16,
+    "physical_defense_growth": 3.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "PopolandKupa0",
+      "name": "We Are Friends",
+      "description": "Kupa recovers 10% Max HP per second after not taking damage for 5s. When Kupa is killed, Popol can <highlight>Pray</highlight> for 3s to bring Kupa back to the battlefield. Cooldown: 30s.<br/>Every 3 consecutive attacks from Kupa will enhance Popol's next Basic Attack to deal <scaleAD> (+220% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. Kupa has 2500<scaleAD> (+1200% Total Physical Attack)</scaleAD> Max HP and inherits 100% of Popol's other attributes and passive equipment effects (excluding Jungling and Roaming equipment effects).<br/>Kupa deals an additional 120% damage against Creeps.",
+      "flavor_text": "Popol and Kupa always fight alongside each other.",
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae294efaf8078fdb791495649aac563d.png",
+      "video_url": null
+    },
+    {
+      "id": "PopolandKupa1",
+      "name": "Bite 'em, Kupa!",
+      "description": "Popol throws a spear at the target enemy, dealing 80/110/140/170<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> while simultaneously commanding Kupa to lunge at the target, dealing an additional 70/100/130/160<scaleAD> (+75% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. Kupa will continue to attack the target for 3s.<br/><highlight>Alpha Wolf Form</highlight>: Kupa stuns the enemy for 1s and bites them 3 times in quick succession.",
+      "flavor_text": null,
+      "cost": "50/60/70/80",
+      "cooldown": "7/6.4/6.2/5.8/5.2",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e643949b1a1f58f30614b08b446a3f85.png",
+      "video_url": null
+    },
+    {
+      "id": "PopolandKupa12",
+      "name": "Bite 'em, Kupa!",
+      "description": "Popol throws a spear at the target enemy, dealing 80/110/140/170<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> while simultaneously commanding Kupa to lunge at the target, dealing an additional 70/100/130/160<scaleAD> (+75% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. Kupa will continue to attack the target for 3s.</br></br><higlight>Alpha Wolf Form</highlight>: Kupa stuns the enemy for 1s and bites them 3 times in quick succession.",
+      "flavor_text": null,
+      "cost": "50/60/70/80",
+      "cooldown": "7/6.4/6.2/5.8/5.2",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": null
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ccfd9569e5240ea46584ec0b1db669e8.png",
+      "video_url": null
+    },
+    {
+      "id": "PopolandKupa2",
+      "name": "Kupa, Help!",
+      "description": "Popol summons Kupa back to his side, gaining a 240/270/300/330<scaleAD> (+200% Extra Physical Attack)</scaleAD> shield while dealing 240/270/300/330<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies and slowing them by 35% for 0.5s. Kupa will then assist Popol to attack nearby enemies for 3s.<br/><highlight>Alpha Wolf Form</highlight>: Kupa darts back to Popol, knocking nearby enemies airborne for 0.2s. The shield and damage are increased to 125%.",
+      "flavor_text": null,
+      "cost": "50/60/70/80",
+      "cooldown": "5.5",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e90afefec90b007f23efd1d8a89f0dd.png",
+      "video_url": null
+    },
+    {
+      "id": "PopolandKupa22",
+      "name": "Kupa, Help!",
+      "description": "Popol summons Kupa back to his side, gaining a 240/270/300/330<scaleAD> (+200% Extra Physical Attack)</scaleAD> shield while dealing 240/270/300/330<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies and slowing them by 35% for 0.5s. Kupa will then assist Popol to attack nearby enemies for 3s.</br></br><highlight>Alpha Wolf Form</highlight>: Kupa darts back to Popol, knocking nearby enemies airborne for 0.2s. The shield and damage are increased to 125%.",
+      "flavor_text": null,
+      "cost": "50/60/70/80",
+      "cooldown": "5.5",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        },
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_247d588d97c1dffa73391a55002ed308.png",
+      "video_url": null
+    },
+    {
+      "id": "PopolandKupa3",
+      "name": "Popol's Surprise",
+      "description": "Popol sets a trap at the target location that will detonate after a short delay once triggered, dealing 70/80/90/100<scaleAP> (+20% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the enemy that steps on it, immobilizing them for 1s, and creating a frost zone for 4s. Enemies in the frost zone will have their Movement Speed reduced by 20%.<br/>Popol gains a trap charge every 22/20/18/16s (up to 3). Up to 3 traps can exist at the same time on the battlefield, each lasting up to 60s.",
+      "flavor_text": null,
+      "cost": "50",
+      "cooldown": "1.5",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": null
+        },
+        {
+          "name": "CC",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae294efaf8078fdb791495649aac563d.png",
+      "video_url": null
+    },
+    {
+      "id": "PopolandKupa4",
+      "name": "We Are Angry!",
+      "description": "Popol and Kupa enter the Enraged state for 12s, gaining 15% extra Movement Speed and increasing their Attack Speed to 1.3/1.5/1.7 times.<br/>Kupa turns into <highlight>Alpha Wolf Form</highlight>, gaining 1500/2500/3500 extra Max HP, fully restoring its HP, while <highlight>enhancing</highlight> its other skills.",
+      "flavor_text": null,
+      "cost": "100/120/140",
+      "cooldown": "38/35/32",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bdd55dca8cccb8db6059ed36a7bf4150.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "PopolandKupa0",
+      "sequence": "PopolandKupa4-PopolandKupa12-AA-PopolandKupa22",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, boost Attack Speed with their Ultimate and control enemies with the enhanced 1st Skill for heavy damage. When enemies are close, use the enhanced 2nd Skill for protection."
+    },
+    {
+      "id": "PopolandKupa1",
+      "sequence": "PopolandKupa1-AA-PopolandKupa4-PopolandKupa12-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, poke enemies with the 1st Skill and get more Attack Speed with their Ultimate when enemies are low on HP. Then control and kill the enemies with the enhanced 1st Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Popol and Kupa are best with Fighters that can charge into enemies' midst and ensure the survival of Popol and Kupa after controlling and killing enemies. For example, Alpha and Khaleed.",
+      "heroes": [
+        {
+          "id": 28,
+          "slug": "alpha",
+          "name": "Alpha"
+        },
+        {
+          "id": 98,
+          "slug": "khaleed",
+          "name": "Khaleed"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Kupa is powerful in combat, especially against Marksmen with lower sustainability such as Lesley and Brody.",
+      "heroes": [
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        },
+        {
+          "id": 100,
+          "slug": "brody",
+          "name": "Brody"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "But since Popol and Kupa don't have any Blink skills\nand Popol is quite squishy, they are at the mercy of more agile Assassins like Gusion and Karina.",
+      "heroes": [
+        {
+          "id": 56,
+          "slug": "gusion",
+          "name": "Gusion"
+        },
+        {
+          "id": 8,
+          "slug": "karina",
+          "name": "Karina"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Popol-and-Kupa-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Popol-and-Kupa-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_555eb8df475f57d6f01a1f2a2675671c.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_555eb8df475f57d6f01a1f2a2675671c.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/popol-and-kupa.json",
+    "visual_catalog": "catalog/v1/visual/popol-and-kupa.json",
+    "upgrade_catalog": "catalog/v1/upgrade/popol-and-kupa.json"
+  }
+}

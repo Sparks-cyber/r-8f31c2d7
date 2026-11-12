@@ -1,0 +1,204 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "alucard-exorcist",
+      "portrait_file": "Alucard - Exorcist.png",
+      "script_file": "Alucard-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Alucard - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-finn",
+      "portrait_file": "Alucard - Finn.png",
+      "script_file": "Alucard-Finn.zip",
+      "skin_name": "Finn",
+      "splash_file": "Alucard - Finn.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-gon",
+      "portrait_file": "Alucard - Gon.png",
+      "script_file": "Alucard-Gon.zip",
+      "skin_name": "Gon",
+      "splash_file": "Alucard - Gon.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-ichigo",
+      "portrait_file": "Alucard - Ichigo.png",
+      "script_file": "Alucard-Ichigo.zip",
+      "skin_name": "Ichigo",
+      "splash_file": "Alucard - Ichigo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-ichigo-v2",
+      "portrait_file": "Alucard - Ichigo V2.png",
+      "script_file": "Alucard-Ichigo-V2.zip",
+      "skin_name": "Ichigo V2",
+      "splash_file": "Alucard - Ichigo V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-ken",
+      "portrait_file": "Alucard - Ken.png",
+      "script_file": "Alucard-Ken.zip",
+      "skin_name": "Ken",
+      "splash_file": "Alucard - Ken.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-kirito",
+      "portrait_file": "Alucard - Kirito.png",
+      "script_file": "Alucard-Kirito.zip",
+      "skin_name": "Kirito",
+      "splash_file": "Alucard - Kirito.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-kyo-kusanagi",
+      "portrait_file": "Alucard - Kyo Kusanagi.png",
+      "script_file": "Alucard-Kyo-Kusanagi.zip",
+      "skin_name": "Kyo Kusanagi",
+      "splash_file": "Alucard - Kyo Kusanagi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-legend-2nd-form",
+      "portrait_file": "Alucard - Legend 2nd Form.png",
+      "script_file": "Alucard-Legend-2nd-Form.zip",
+      "skin_name": "Legend 2nd Form",
+      "splash_file": "Alucard - Legend 2nd Form.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-legend-old",
+      "portrait_file": "Alucard - Legend Old.png",
+      "script_file": "Alucard-Legend-Old.zip",
+      "skin_name": "Legend Old",
+      "splash_file": "Alucard - Legend Old.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-levi",
+      "portrait_file": "Alucard - Levi.png",
+      "script_file": "Alucard-Levi.zip",
+      "skin_name": "Levi",
+      "splash_file": "Alucard - Levi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-rengoku",
+      "portrait_file": "Alucard - Rengoku.png",
+      "script_file": "Alucard-Rengoku.zip",
+      "skin_name": "Rengoku",
+      "splash_file": "Alucard - Rengoku.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-sasuke",
+      "portrait_file": "Alucard - Sasuke.png",
+      "script_file": "Alucard-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Alucard - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-shanks",
+      "portrait_file": "Alucard - Shanks.png",
+      "script_file": "Alucard-Shanks.zip",
+      "skin_name": "Shanks",
+      "splash_file": "Alucard - Shanks.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-steve-777daa",
+      "portrait_file": "Alucard - Steve (777daa).png",
+      "script_file": "Alucard-Steve-777daa.zip",
+      "skin_name": "Steve (777daa)",
+      "splash_file": "Alucard - Steve (777daa).png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-tanjiro",
+      "portrait_file": "Alucard - Tanjiro.png",
+      "script_file": "Alucard-Tanjiro.zip",
+      "skin_name": "Tanjiro",
+      "splash_file": "Alucard - Tanjiro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-yuta",
+      "portrait_file": "Alucard - Yuta.png",
+      "script_file": "Alucard-Yuta.zip",
+      "skin_name": "Yuta",
+      "splash_file": "Alucard - Yuta.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 7,
+    "name": "Alucard",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "alucard"
+  },
+  "release_tag": "custom-alucard",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

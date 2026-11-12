@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 44,
+    "slug": "grock",
+    "name": "Grock"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "grock-community-5925",
+      "name": "Community Build 5925",
+      "lane": "Roam",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "chastisepauldron",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "agility",
+        "tenacity",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "penjelasan build \n1.tough boots cocok untuk mengurangi CC dan tidak diganti \n2.dominance ice cocok untuk musuh yang memiliki heal\n3.antique cuirass cocok untuk mengurangi damage musuh di awal game \n4. athena's Shield/Radiant Armor cocok untuk mage bruss tapi jika mage musuh memiliki damage terus menerus boleh diganti dengan Radiant Armor\n5.chaatise/black armor cocok untuk counter mm trinety jika mm memiliki damage critical di anjurkan menggunakan black armor \n6.imortality wajib digunakan untuk letgame jika imortal pecah atau sudah dipakan boleh di ganti dengan item counter lain",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5925,
+      "source_created_at": "2026-02-23T08:53:01.000Z",
+      "likes": 8,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "grock-community-6519",
+      "name": "Community Build 6519",
+      "lane": "Roam",
+      "equipment_ids": [
+        "warriorboots",
+        "bladearmor",
+        "guardianhelmet",
+        "dominanceice",
+        "thunderbelt",
+        "chastisepauldron"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "vitality",
+        "wildernessblessing",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "rock grock rock grock, roam, flicker",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6519,
+      "source_created_at": "2026-03-15T09:13:20.000Z",
+      "likes": 5,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "grock-companion-baseline",
+      "name": "Companion Tank/Fighter Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

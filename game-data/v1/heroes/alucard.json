@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 7,
+    "slug": "alucard",
+    "name": "Alucard",
+    "skin_name": "Demon Hunter",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "2016",
+    "resource": null,
+    "short_description": "Demon hunter who detests the darkness.",
+    "brief": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
+    "story": "The last great war is a glorious memory for the Moniyans. The powerful Light's Order, together with the Imperial Border Guards, wiped out the demonic strongholds at the Moniyan and the Barren Lands pass, driving the fiends back to the hinterlands of the Forsaken Wastes. But for young Alucard, the war was nothing but a terrible memory of pain and misery. His father's second regiment suffered heavy losses due to a rash lone advance. Alucard's father disappeared in the battle and was later declared dead by the Light's Order.\n\nAs they had disobeyed orders, the second regiment was not honored and praised for their sacrifice but labeled \"disobedient\" and criticized for their lack of discipline. This was a huge blow to Alucard, who had always regarded his father as a hero and role model. Facing shame and ridicule everywhere he went, the flames of revenge burned within his chest, and he became determined to bring honor to his father's name and eliminate all the demons in the Land of Dawn. And so, he left his hometown and journeyed to the ancient and mysterious Monastery of Light. As the orphaned son of a dead soldier, Alucard was soon accepted into the Monastery of Light.\n\nIn the following years, Alucard studied a range of combat skills in the Monastery of Light. With his natural talent and undying determination, he soon became the most promising student among his peers. During his training, Tigreal, The Commander of the Light's Order, who had once fought in the second regiment with his father, often visited Alucard in the Monastery of Light, teaching him various advanced combat skills and telling him of his father's heroic deeds.\n\nTigreal was already famous throughout the Empire at that time, and Alucard respected him greatly, regarding him as an elder brother of sorts. However, whenever he mentioned his father's final battle, Tigreal always fell silent, his eyes filled with a wave of complex emotions. Alucard was skeptical of the idea that his father had died in battle. He was convinced that his father was still alive and was waiting for him somewhere.\n\nAt the age of eighteen, Alucard finally completed all of his studies and formal preparations. Encouraged by Tigreal, he became the monastery's Arbiter of Light. He was ordered to go forth and eliminate the demons and heretics hidden throughout the world, and so he picked up his father's old sword, given to him by Tigreal, and set off. In his father's name, and fueled by his deep hatred of demons, Alucard soon became the greatest demon hunter in the world.\n\nAn unforeseen incident occurred during a demon hunting operation on the border of the Barren Lands. Alucard was injured by a magic blade, sustaining a wound that could not be healed. Darkness poured into his body from the wound, and his arm began to undergo a strange transformation... In order to prevent the mutation from spreading throughout his whole body, Alucard asked an old smith to help him forge a pair of gauntlets. This was no ordinary smith — he was a survivor of that fated battle, a member of the Light's Order who covered his allies' retreat along with Alucard's father.\n\nHe recognized the huge sword in Alucard's hand. After learning who he was, the old man told Alucard that the reason the second regiment was forced so deep into enemy territory was that the high-level knights at that time were greedy for glory and too impulsive, which led to the second regiment finding itself trapped in a tight encirclement. In a moment of desperation, Alucard's father led some soldiers to cover the retreat of the main force headed by Tigreal, and was then swarmed by a tide of demons and disappeared. He was the only survivor rescued by Alucard's father.\n\nAfter learning the truth, Alucard returned to the capital and questioned Tigreal about the battle and why he hadn't told him what had really happened that day. Seeing the anger gripping Alucard, Tigreal confessed the guilt he felt for abandoning his allies and the silence he was forced to maintain at the behest of his family. He expressed his willingness to make up for it in any way he could, claiming that he would give his own life if he had to. However, before Tigreal, who was once like a brother to him, the young Alucard was entangled in a web of confusion. He couldn't bear to kill Tigreal, but he couldn't forgive him either.\n\nFor the sake of his father's honor, Alucard asked the Empire to reveal the truth of the second regiment and restore his father's name. However, the knights of that battle had become some of the most powerful figures in the Empire. They refused Alucard's request and drove him out of the capital. On top of this, the puritanical Monastery of Light was strongly against Alucard's unnatural right hand, repeatedly making trouble for him and even calling him a heretic. For the longest time, Alucard's deep hatred of the demons and his desire to regain his father's honor had spurred him on in his mission to serve as the Arbiter of Light. But now, faced with the Empire that had betrayed his father, and a church that treated him with scorn, Alucard made an unthinkable decision: To betray the Monastery of Light and fight for himself.\n\nIn the following years, Alucard began wandering the Land of Dawn, annihilating demons everywhere he went on his own terms and searching for clues as to his father's whereabouts. His demonic right hand not only brought him great strength, but also became an unstable element which he was forced to hide under his heavy armor every day.\n\nAfter a string of epic battles, Alucard became known as one of the most legendary fighters in Moniyan. Soon, everyone knew that wherever demons ran rampant, the demon hunter with the dark right hand would no doubt descend from the sky and leave none alive.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 5,
+    "control": 1,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2443,
+    "health_growth": 225,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 123,
+    "physical_attack_growth": 8.64,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 4.6429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.13,
+    "attack_speed_growth": 0.0293,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Alucard0",
+      "name": "Pursuit",
+      "description": "After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal <scaleAD> (+125% Total Physical Attack)</scaleAD> Physical Damage.<br/><highlight>Demon Hunter</highlight>: Alucard deals 10% extra damage to Creeps.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51d252e4e734a49c0a8a2a00a8ba99b4.png",
+      "video_url": null
+    },
+    {
+      "id": "Alucard1",
+      "name": "Groundsplitter",
+      "description": "Alucard rolls to the target location and slams his blade on the ground, dealing 270/290/310/330/350/370<scaleAD> (+85% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and slowing them by 40% for 2s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8.5/8.1/7.7/7.3/6.9/6.5",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7862dada550b5e9258bbefafee78a296.png",
+      "video_url": null
+    },
+    {
+      "id": "Alucard2",
+      "name": "Whirling Smash",
+      "description": "Alucard launches a whirling slash, dealing 345/390/435/480/525/570<scaleAD> (+120% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6/5.6/5.2/4.8/4.4/4",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9a0e6ddbddbf009ebb0736e320170fa.png",
+      "video_url": null
+    },
+    {
+      "id": "Alucard3",
+      "name": "Fission Wave",
+      "description": "<highlight>Passive</highlight>: Alucard permanently gains 10/20/30% Hybrid Lifesteal.<br/><br/><highlight>Active</highlight>: Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and Hybrid Defense by 10/15/20. Alucard gains 10/15/20 Hybrid Defense and reduces the cooldown of his other skills to 50% for 6s.<br/><br/><highlight>Use Again</highlight>: Alucard releases a shockwave in the target direction, dealing 400/550/700<scaleAD> (+200% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "40/35/30",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d4325e672bb7b7a1add8501525684e19.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Alucard0",
+      "sequence": "Alucard3-AA-Alucard1-AA-Alucard2-AA-Alucard3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Alucard can cast his ULTIMATE to increase Lifesteal and mark enemies and then switch between 1st Skill and 2nd Skill\nto follow Basic Attacks. Finally, use his ULTIMATE again for reaping kills."
+    },
+    {
+      "id": "Alucard1",
+      "sequence": "Alucard1-AA-Alucard2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Alucard can use his 1st Skill to deal damage and slow enemies first, and follow it with Basic Attacks for strikes. Then, he can use his 2nd Skill and follow it with Basic Attacks for more strikes."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "He's best with heroes with crowd control, such as Gatotkaca and Xavier, which makes up for his lack of powerful control abilities.",
+      "heroes": [
+        {
+          "id": 41,
+          "slug": "gatotkaca",
+          "name": "Gatotkaca"
+        },
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Alucard has great chase abilities and damage resistance, making him powerful against squishy Assassins like Harley and Aamon.",
+      "heroes": [
+        {
+          "id": 42,
+          "slug": "harley",
+          "name": "Harley"
+        },
+        {
+          "id": 109,
+          "slug": "aamon",
+          "name": "Aamon"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "But he can be countered by heroes with powerful control abilities like Franco and Johnson. If controlled, Alucard won't be able to steal HP\nand can be easily eliminated.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 32,
+          "slug": "johnson",
+          "name": "Johnson"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Alucard-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Alucard-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c9a8a8b1bb1fed4190f3168d44810ce3.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c9a8a8b1bb1fed4190f3168d44810ce3.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/alucard.json",
+    "visual_catalog": "catalog/v1/visual/alucard.json",
+    "upgrade_catalog": "catalog/v1/upgrade/alucard.json"
+  }
+}

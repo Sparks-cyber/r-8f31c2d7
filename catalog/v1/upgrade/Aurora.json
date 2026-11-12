@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Aurora",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Nature's Throne",
+      "Splash_url": "Aurora-Nature-s-Throne.png",
+      "script": "Aurora-Nature-s-Throne-Backup.zip",
+      "Portrait_url": "Aurora-Nature-s-Throne.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Heartbreak Empress",
+          "Portrait_url": "Aurora-Heartbreak-Empress.png",
+          "Splash_url": "Aurora-Heartbreak-Empress.png",
+          "script": "Aurora-Nature-s-Throne-Heartbreak-Empress.zip"
+        },
+        {
+          "name": "Foxy Lady",
+          "Portrait_url": "Aurora-Foxy-Lady.png",
+          "Splash_url": "Aurora-Foxy-Lady.png",
+          "script": "Aurora-Nature-s-Throne-Foxy-Lady.zip"
+        },
+        {
+          "name": "Aquarius",
+          "Portrait_url": "Aurora-Aquarius.png",
+          "Splash_url": "Aurora-Aquarius.png",
+          "script": "Aurora-Nature-s-Throne-Aquarius.zip"
+        },
+        {
+          "name": "Kula Diamond",
+          "Portrait_url": "Aurora-Kula-Diamond.png",
+          "Splash_url": "Aurora-Kula-Diamond.png",
+          "script": "Aurora-Nature-s-Throne-Kula-Diamond.zip"
+        },
+        {
+          "name": "Veil of the Celestials",
+          "Portrait_url": "Aurora-Veil-of-the-Celestials.png",
+          "Splash_url": "Aurora-Veil-of-the-Celestials.png",
+          "script": "Aurora-Nature-s-Throne-Veil-of-the-Celestials.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Heartbreak Empress",
+      "Splash_url": "Aurora-Heartbreak-Empress.png",
+      "script": "Aurora-Heartbreak-Empress-Backup.zip",
+      "Portrait_url": "Aurora-Heartbreak-Empress.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Nature's Throne",
+          "Portrait_url": "Aurora-Nature-s-Throne.png",
+          "Splash_url": "Aurora-Nature-s-Throne.png",
+          "script": "Aurora-Heartbreak-Empress-Nature-s-Throne.zip"
+        },
+        {
+          "name": "Foxy Lady",
+          "Portrait_url": "Aurora-Foxy-Lady.png",
+          "Splash_url": "Aurora-Foxy-Lady.png",
+          "script": "Aurora-Heartbreak-Empress-Foxy-Lady.zip"
+        },
+        {
+          "name": "Aquarius",
+          "Portrait_url": "Aurora-Aquarius.png",
+          "Splash_url": "Aurora-Aquarius.png",
+          "script": "Aurora-Heartbreak-Empress-Aquarius.zip"
+        },
+        {
+          "name": "Kula Diamond",
+          "Portrait_url": "Aurora-Kula-Diamond.png",
+          "Splash_url": "Aurora-Kula-Diamond.png",
+          "script": "Aurora-Heartbreak-Empress-Kula-Diamond.zip"
+        },
+        {
+          "name": "Veil of the Celestials",
+          "Portrait_url": "Aurora-Veil-of-the-Celestials.png",
+          "Splash_url": "Aurora-Veil-of-the-Celestials.png",
+          "script": "Aurora-Heartbreak-Empress-Veil-of-the-Celestials.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lunar Festival",
+      "Default_name": "Foxy Lady",
+      "Splash_url": "Aurora-Foxy-Lady.png",
+      "script": "Aurora-Foxy-Lady-Backup.zip",
+      "Portrait_url": "Aurora-Foxy-Lady.png",
+      "Tags": [
+        "Lunar Fest.png"
+      ],
+      "targets": [
+        {
+          "name": "Nature's Throne",
+          "Portrait_url": "Aurora-Nature-s-Throne.png",
+          "Splash_url": "Aurora-Nature-s-Throne.png",
+          "script": "Aurora-Foxy-Lady-Nature-s-Throne.zip"
+        },
+        {
+          "name": "Heartbreak Empress",
+          "Portrait_url": "Aurora-Heartbreak-Empress.png",
+          "Splash_url": "Aurora-Heartbreak-Empress.png",
+          "script": "Aurora-Foxy-Lady-Heartbreak-Empress.zip"
+        },
+        {
+          "name": "Aquarius",
+          "Portrait_url": "Aurora-Aquarius.png",
+          "Splash_url": "Aurora-Aquarius.png",
+          "script": "Aurora-Foxy-Lady-Aquarius.zip"
+        },
+        {
+          "name": "Kula Diamond",
+          "Portrait_url": "Aurora-Kula-Diamond.png",
+          "Splash_url": "Aurora-Kula-Diamond.png",
+          "script": "Aurora-Foxy-Lady-Kula-Diamond.zip"
+        },
+        {
+          "name": "Veil of the Celestials",
+          "Portrait_url": "Aurora-Veil-of-the-Celestials.png",
+          "Splash_url": "Aurora-Veil-of-the-Celestials.png",
+          "script": "Aurora-Foxy-Lady-Veil-of-the-Celestials.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Aquarius",
+      "Splash_url": "Aurora-Aquarius.png",
+      "script": "Aurora-Aquarius-Backup.zip",
+      "Portrait_url": "Aurora-Aquarius.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Nature's Throne",
+          "Portrait_url": "Aurora-Nature-s-Throne.png",
+          "Splash_url": "Aurora-Nature-s-Throne.png",
+          "script": "Aurora-Aquarius-Nature-s-Throne.zip"
+        },
+        {
+          "name": "Heartbreak Empress",
+          "Portrait_url": "Aurora-Heartbreak-Empress.png",
+          "Splash_url": "Aurora-Heartbreak-Empress.png",
+          "script": "Aurora-Aquarius-Heartbreak-Empress.zip"
+        },
+        {
+          "name": "Foxy Lady",
+          "Portrait_url": "Aurora-Foxy-Lady.png",
+          "Splash_url": "Aurora-Foxy-Lady.png",
+          "script": "Aurora-Aquarius-Foxy-Lady.zip"
+        },
+        {
+          "name": "Kula Diamond",
+          "Portrait_url": "Aurora-Kula-Diamond.png",
+          "Splash_url": "Aurora-Kula-Diamond.png",
+          "script": "Aurora-Aquarius-Kula-Diamond.zip"
+        },
+        {
+          "name": "Veil of the Celestials",
+          "Portrait_url": "Aurora-Veil-of-the-Celestials.png",
+          "Splash_url": "Aurora-Veil-of-the-Celestials.png",
+          "script": "Aurora-Aquarius-Veil-of-the-Celestials.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Kula Diamond",
+      "Splash_url": "Aurora-Kula-Diamond.png",
+      "script": "Aurora-Kula-Diamond-Backup.zip",
+      "Portrait_url": "Aurora-Kula-Diamond.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Nature's Throne",
+          "Portrait_url": "Aurora-Nature-s-Throne.png",
+          "Splash_url": "Aurora-Nature-s-Throne.png",
+          "script": "Aurora-Kula-Diamond-Nature-s-Throne.zip"
+        },
+        {
+          "name": "Heartbreak Empress",
+          "Portrait_url": "Aurora-Heartbreak-Empress.png",
+          "Splash_url": "Aurora-Heartbreak-Empress.png",
+          "script": "Aurora-Kula-Diamond-Heartbreak-Empress.zip"
+        },
+        {
+          "name": "Foxy Lady",
+          "Portrait_url": "Aurora-Foxy-Lady.png",
+          "Splash_url": "Aurora-Foxy-Lady.png",
+          "script": "Aurora-Kula-Diamond-Foxy-Lady.zip"
+        },
+        {
+          "name": "Aquarius",
+          "Portrait_url": "Aurora-Aquarius.png",
+          "Splash_url": "Aurora-Aquarius.png",
+          "script": "Aurora-Kula-Diamond-Aquarius.zip"
+        },
+        {
+          "name": "Veil of the Celestials",
+          "Portrait_url": "Aurora-Veil-of-the-Celestials.png",
+          "Splash_url": "Aurora-Veil-of-the-Celestials.png",
+          "script": "Aurora-Kula-Diamond-Veil-of-the-Celestials.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Veil of the Celestials",
+      "Splash_url": "Aurora-Veil-of-the-Celestials.png",
+      "script": "Aurora-Veil-of-the-Celestials-Backup.zip",
+      "Portrait_url": "Aurora-Veil-of-the-Celestials.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Nature's Throne",
+          "Portrait_url": "Aurora-Nature-s-Throne.png",
+          "Splash_url": "Aurora-Nature-s-Throne.png",
+          "script": "Aurora-Veil-of-the-Celestials-Nature-s-Throne.zip"
+        },
+        {
+          "name": "Heartbreak Empress",
+          "Portrait_url": "Aurora-Heartbreak-Empress.png",
+          "Splash_url": "Aurora-Heartbreak-Empress.png",
+          "script": "Aurora-Veil-of-the-Celestials-Heartbreak-Empress.zip"
+        },
+        {
+          "name": "Foxy Lady",
+          "Portrait_url": "Aurora-Foxy-Lady.png",
+          "Splash_url": "Aurora-Foxy-Lady.png",
+          "script": "Aurora-Veil-of-the-Celestials-Foxy-Lady.zip"
+        },
+        {
+          "name": "Aquarius",
+          "Portrait_url": "Aurora-Aquarius.png",
+          "Splash_url": "Aurora-Aquarius.png",
+          "script": "Aurora-Veil-of-the-Celestials-Aquarius.zip"
+        },
+        {
+          "name": "Kula Diamond",
+          "Portrait_url": "Aurora-Kula-Diamond.png",
+          "Splash_url": "Aurora-Kula-Diamond.png",
+          "script": "Aurora-Veil-of-the-Celestials-Kula-Diamond.zip"
+        }
+      ]
+    }
+  ]
+}

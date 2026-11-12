@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 80,
+    "slug": "guinevere",
+    "name": "Guinevere",
+    "skin_name": "Ms. Violet",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Burst",
+      "Magic Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "21 February 2019",
+    "resource": null,
+    "short_description": "Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.",
+    "brief": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic. The household wanted her to marry into another household with a higher status. Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot.",
+    "story": "The Baroque family is one of the few nobles on the Land of Dawn. The most prestigious skill of theirs, fencing, the family's forte, discourages countless opponents from even thinking about attacking. In addition, beauty and wisdom are also the most perfect genetic signs of the Baroque family, just like the eternal beauty and love of Violet.\r\n\r\nWorld-famous as Baroque family's fencing is, young Guinevere doesn't like it at all. Just like other girls, she is naturally fond of gorgeous things. From youth, she was sent to the Magic Academy. Relying on her own sensitive spiritual perception and anti-gravity magic, when Guinevere was 10 years old, she successfully combined mental perception with super energy and invented multiple magic effects — magic superpower. Such a breakthrough made Guinevere more passionate about magic, and she often experimented with her new magic on her brother, Lancelot. No matter how Lancelot hides, he will be found by his sister. Therefore, Lancelot is often caught in an unknown thrill. In his childhood, his sister was always causing him a headache. But anyhow, Lancelot still loves Guinevere. He always shows a smile to his beloved sister. But every time when Lancelot thinks of his little sister's magic experiment, he would wear a bitter smile.\r\n\r\nRecently, something has been plaguing Guinevere, making her uneasy. It is said that the Paxley nobles who have a very high magical status have proposed marriage to the Baroque family. Guinevere is undoubtedly the most suitable choice and Guinevere's father seems to be very willing with the marriage. But the reluctant Guinevere suddenly thinks of an idea — She hopes to find her brother Lancelot…",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 5,
+    "control": 7,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2350,
+    "health_growth": 209,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 126,
+    "physical_attack_growth": 9.21,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 3.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.14,
+    "attack_speed_growth": 0.0321,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Guinevere0",
+      "name": "Super Magic",
+      "description": "Guinevere deals 25% extra damage to airborne enemies and deals <scaleAD> (+80% Total Physical Attack)</scaleAD> <scaleAP>(+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> with her Basic Attacks. <br/>Guinevere builds Super Magic each time she deals damage. Once fully charged, her next Basic Attack becomes guided, dealing 80<scaleAD> (+100% Total Physical Attack)</scaleAD> <scaleAP>(+120% Total Magic Power)</scaleAP> <magicDamage>Magic damage</magicDamage> on hit and restoring <scaleHP>80 plus 8% of her lost HP</scaleHP>.<br/>Enemies hit by Guinevere's skills or enhanced Basic Attack will be marked for 5s. Those with 3 marks will be knocked airborne when hit by her Violet Requiem.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb87aa7f520dc67fcde6852598c241ca.png",
+      "video_url": null
+    },
+    {
+      "id": "Guinevere1",
+      "name": "Energy Wave",
+      "description": "Guinevere releases an energy orb in the target direction, dealing 300/345/390/435/480/525<scaleAP> (+125% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and slowing enemies by 25% for 1.2s.<br/>Successfully hitting an enemy reduces all her skill cooldowns by 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_193275791eb7f707158fc5e277a29016.png",
+      "video_url": null
+    },
+    {
+      "id": "Guinevere2",
+      "name": "Spatial Migration",
+      "description": "Guinevere leaps to the target location, dealing 250/280/310/340/370/400<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. Enemy heroes and Creeps hit will be knocked airborne for 1s and take 125/140/155/170/185/200<scaleAP> (+50% Total Magic Power)</scaleAP> additional <magicDamage>Magic Damage</magicDamage>.<br/><highlight>Use Again</highlight>: Guinevere blinks toward the target direction and leaves an illusion behind. If the illusion takes damage by hero, it restores Super Magic for Guinevere and explodes after 1.5s, dealing 100<scaleAP> (+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "17/16.4/15.8/15.2/14.6/14",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5cd1df58957fa20b29e9c77d5b2067a9.png",
+      "video_url": null
+    },
+    {
+      "id": "Guinevere3",
+      "name": "Violet Requiem",
+      "description": "Guinevere creates a force field around her, gaining Control Immunity while attacking nearby enemies 11 times within 2s, dealing 880/1100/1320<scaleAP> (+385% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> in total.<br/>Airborne enemies hit will be knocked airborne again, up to 8 additional times.",
+      "flavor_text": "Violet Requiem, where is my dear friend?",
+      "cost": null,
+      "cooldown": "52/46/40",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ad5e6561bec9562a72584c18191a76a.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Guinevere0",
+      "sequence": "Guinevere2-Guinevere3-Guinevere1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Guinevere can use her 2nd Skill to knock the enemy team airborne and follow with her Ultimate to deal damage while keeping them airborne. She can then use the dash of her 2nd Skill to dodge the incoming damage, or she can choose to use her 1st Skill to deal more damage for a full damage combo."
+    },
+    {
+      "id": "Guinevere1",
+      "sequence": "Guinevere1-AA-Guinevere2-Guinevere3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Guinevere should use her 1st Skill and her enhanced Basic Attacks to clear out the Minions and poke enemy heroes. When enemy heroes' HP is low, user Guinevere's 2nd Skill to close in on them and knock them airborne. Follow up with her Ultimate to try to finish them off."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Guinevere works best with heroes with good single-target CC that will give her a better environment to farm and deal damage, such as Franco and Hylos.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 49,
+          "slug": "hylos",
+          "name": "Hylos"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Guinevere is strong against heroes with poor sustainability or who are simply weak in the early game. This is because Guinevere can easily deliver her poking combo and escape. Heroes like Zilong and Silvanna are good examples here.",
+      "heroes": [
+        {
+          "id": 16,
+          "slug": "zilong",
+          "name": "Zilong"
+        },
+        {
+          "id": 90,
+          "slug": "silvanna",
+          "name": "Silvanna"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "But Guinevere is countered by heroes with CC immunities or strong CC skills. Since she needs to chain her CC to unleash her full damage potential, such as Badang and Chou.",
+      "heroes": [
+        {
+          "id": 77,
+          "slug": "badang",
+          "name": "Badang"
+        },
+        {
+          "id": 26,
+          "slug": "chou",
+          "name": "Chou"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Guinevere-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Guinevere-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5acbfb73c47c25d4689f93c3c950fc8f.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5acbfb73c47c25d4689f93c3c950fc8f.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/guinevere.json",
+    "visual_catalog": "catalog/v1/visual/guinevere.json",
+    "upgrade_catalog": "catalog/v1/upgrade/guinevere.json"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "natan-cellector",
+      "portrait_file": "Natan - Cellector.png",
+      "script_file": "Natan-Cellector.zip",
+      "skin_name": "Cellector",
+      "splash_file": "Natan - Cellector.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "natan-entropy-flames",
+      "portrait_file": "Natan - Entropy Flames.png",
+      "script_file": "Natan-Entropy-Flames.zip",
+      "skin_name": "Entropy Flames",
+      "splash_file": "Natan - Entropy Flames.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 107,
+    "name": "Natan",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "natan"
+  },
+  "release_tag": "custom-natan",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

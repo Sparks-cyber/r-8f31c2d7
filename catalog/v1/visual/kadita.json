@@ -1,0 +1,107 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "kadita-backup",
+      "portrait_file": "Kadita-Default.png",
+      "script_file": "Kadita-Backup.zip",
+      "skin_name": "Ocean Goddess",
+      "splash_file": "Kadita-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-atlantean-princess",
+      "portrait_file": "Kadita-Atlantean-Princess.png",
+      "script_file": "Kadita-Atlantean-Princess.zip",
+      "skin_name": "Atlantean Princess",
+      "splash_file": "Kadita-Atlantean-Princess.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-white-robin",
+      "portrait_file": "Kadita-White-Robin.png",
+      "script_file": "Kadita-White-Robin.zip",
+      "skin_name": "White Robin",
+      "splash_file": "Kadita-White-Robin.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-hydromancer",
+      "portrait_file": "Kadita-Hydromancer.png",
+      "script_file": "Kadita-Hydromancer.zip",
+      "skin_name": "Hydromancer",
+      "splash_file": "Kadita-Hydromancer.png",
+      "tag_id": "mpl",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-heart-of-the-sea",
+      "portrait_file": "Kadita-Heart-of-the-Sea.png",
+      "script_file": "Kadita-Heart-of-the-Sea.zip",
+      "skin_name": "Heart of the Sea",
+      "splash_file": "Kadita-Heart-of-the-Sea.png",
+      "tag_id": "create",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-maiden-of-the-tide",
+      "portrait_file": "Kadita-Maiden-of-the-Tide.png",
+      "script_file": "Kadita-Maiden-of-the-Tide.zip",
+      "skin_name": "Maiden of the Tide",
+      "splash_file": "Kadita-Maiden-of-the-Tide.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-violet-orchid-painted-01",
+      "portrait_file": "Kadita-Violet-Orchid.png",
+      "script_file": "Kadita-Violet-Orchid.zip",
+      "skin_name": "Violet Orchid",
+      "splash_file": "Kadita - Violet Orchid.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-lady-of-the-tide-painted-01",
+      "portrait_file": "Kadita-Lady-of-the-Tide.png",
+      "script_file": "Kadita-Lady-of-the-Tide.zip",
+      "skin_name": "Lady of the Tide",
+      "splash_file": "Kadita - Lady of the Tide.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "kadita-muse-of-the-tide-painted-02",
+      "portrait_file": "Kadita-Muse-of-the-Tide.png",
+      "script_file": "Kadita-Muse-of-the-Tide.zip",
+      "skin_name": "Muse of the Tide",
+      "splash_file": "Kadita-Muse-of-the-Tide.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 75,
+    "name": "Kadita",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "slug": "kadita"
+  },
+  "release_tag": "visual-kadita",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,347 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Ling",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Fiery Dance",
+      "Splash_url": "Ling-Fiery-Dance.png",
+      "script": "Ling-Fiery-Dance-Backup.zip",
+      "Portrait_url": "Ling-Fiery-Dance.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Street Punk",
+          "Portrait_url": "Ling-Street-Punk.png",
+          "Splash_url": "Ling-Street-Punk.png",
+          "script": "Ling-Fiery-Dance-Street-Punk.zip"
+        },
+        {
+          "name": "Night Shade",
+          "Portrait_url": "Ling-Night-Shade.png",
+          "Splash_url": "Ling-Night-Shade.png",
+          "script": "Ling-Fiery-Dance-Night-Shade.zip"
+        },
+        {
+          "name": "Cosmo Guard",
+          "Portrait_url": "Ling-Cosmo-Guard.png",
+          "Splash_url": "Ling-Cosmo-Guard.png",
+          "script": "Ling-Fiery-Dance-Cosmo-Guard.zip"
+        },
+        {
+          "name": "Serene Plume",
+          "Portrait_url": "Ling-Serene-Plume.png",
+          "Splash_url": "Ling-Serene-Plume.png",
+          "script": "Ling-Fiery-Dance-Serene-Plume.zip"
+        },
+        {
+          "name": "M-World Ling",
+          "Portrait_url": "Ling-M-World-Ling.png",
+          "Splash_url": "Ling-M-World-Ling.png",
+          "script": "Ling-Fiery-Dance-M-World-Ling.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Street Punk",
+      "Splash_url": "Ling-Street-Punk.png",
+      "script": "Ling-Street-Punk-Backup.zip",
+      "Portrait_url": "Ling-Street-Punk.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Dance",
+          "Portrait_url": "Ling-Fiery-Dance.png",
+          "Splash_url": "Ling-Fiery-Dance.png",
+          "script": "Ling-Street-Punk-Fiery-Dance.zip"
+        },
+        {
+          "name": "Night Shade",
+          "Portrait_url": "Ling-Night-Shade.png",
+          "Splash_url": "Ling-Night-Shade.png",
+          "script": "Ling-Street-Punk-Night-Shade.zip"
+        },
+        {
+          "name": "Cosmo Guard",
+          "Portrait_url": "Ling-Cosmo-Guard.png",
+          "Splash_url": "Ling-Cosmo-Guard.png",
+          "script": "Ling-Street-Punk-Cosmo-Guard.zip"
+        },
+        {
+          "name": "Serene Plume",
+          "Portrait_url": "Ling-Serene-Plume.png",
+          "Splash_url": "Ling-Serene-Plume.png",
+          "script": "Ling-Street-Punk-Serene-Plume.zip"
+        },
+        {
+          "name": "M-World Ling",
+          "Portrait_url": "Ling-M-World-Ling.png",
+          "Splash_url": "Ling-M-World-Ling.png",
+          "script": "Ling-Street-Punk-M-World-Ling.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Tamer",
+      "Default_name": "Night Shade",
+      "Splash_url": "Ling-Night-Shade.png",
+      "script": "Ling-Night-Shade-Backup.zip",
+      "Portrait_url": "Ling-Night-Shade.png",
+      "Tags": [
+        "Dragon Tamer.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Dance",
+          "Portrait_url": "Ling-Fiery-Dance.png",
+          "Splash_url": "Ling-Fiery-Dance.png",
+          "script": "Ling-Night-Shade-Fiery-Dance.zip"
+        },
+        {
+          "name": "Street Punk",
+          "Portrait_url": "Ling-Street-Punk.png",
+          "Splash_url": "Ling-Street-Punk.png",
+          "script": "Ling-Night-Shade-Street-Punk.zip"
+        },
+        {
+          "name": "Serene Plume",
+          "Portrait_url": "Ling-Serene-Plume.png",
+          "Splash_url": "Ling-Serene-Plume.png",
+          "script": "Ling-Night-Shade-Serene-Plume.zip"
+        },
+        {
+          "name": "M-World Ling",
+          "Portrait_url": "Ling-M-World-Ling.png",
+          "Splash_url": "Ling-M-World-Ling.png",
+          "script": "Ling-Night-Shade-M-World-Ling.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Cosmo Guard",
+      "Splash_url": "Ling-Cosmo-Guard.png",
+      "script": "Ling-Cosmo-Guard-Backup.zip",
+      "Portrait_url": "Ling-Cosmo-Guard.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Dance",
+          "Portrait_url": "Ling-Fiery-Dance.png",
+          "Splash_url": "Ling-Fiery-Dance.png",
+          "script": "Ling-Cosmo-Guard-Fiery-Dance.zip"
+        },
+        {
+          "name": "Street Punk",
+          "Portrait_url": "Ling-Street-Punk.png",
+          "Splash_url": "Ling-Street-Punk.png",
+          "script": "Ling-Cosmo-Guard-Street-Punk.zip"
+        },
+        {
+          "name": "Night Shade",
+          "Portrait_url": "Ling-Night-Shade.png",
+          "Splash_url": "Ling-Night-Shade.png",
+          "script": "Ling-Cosmo-Guard-Night-Shade.zip"
+        },
+        {
+          "name": "Serene Plume",
+          "Portrait_url": "Ling-Serene-Plume.png",
+          "Splash_url": "Ling-Serene-Plume.png",
+          "script": "Ling-Cosmo-Guard-Serene-Plume.zip"
+        },
+        {
+          "name": "M-World Ling",
+          "Portrait_url": "Ling-M-World-Ling.png",
+          "Splash_url": "Ling-M-World-Ling.png",
+          "script": "Ling-Cosmo-Guard-M-World-Ling.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Serene Plume",
+      "Splash_url": "Ling-Serene-Plume.png",
+      "script": "Ling-Serene-Plume-Backup.zip",
+      "Portrait_url": "Ling-Serene-Plume.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Dance",
+          "Portrait_url": "Ling-Fiery-Dance.png",
+          "Splash_url": "Ling-Fiery-Dance.png",
+          "script": "Ling-Serene-Plume-Fiery-Dance.zip"
+        },
+        {
+          "name": "Street Punk",
+          "Portrait_url": "Ling-Street-Punk.png",
+          "Splash_url": "Ling-Street-Punk.png",
+          "script": "Ling-Serene-Plume-Street-Punk.zip"
+        },
+        {
+          "name": "Night Shade",
+          "Portrait_url": "Ling-Night-Shade.png",
+          "Splash_url": "Ling-Night-Shade.png",
+          "script": "Ling-Serene-Plume-Night-Shade.zip"
+        },
+        {
+          "name": "Cosmo Guard",
+          "Portrait_url": "Ling-Cosmo-Guard.png",
+          "Splash_url": "Ling-Cosmo-Guard.png",
+          "script": "Ling-Serene-Plume-Cosmo-Guard.zip"
+        },
+        {
+          "name": "M-World Ling",
+          "Portrait_url": "Ling-M-World-Ling.png",
+          "Splash_url": "Ling-M-World-Ling.png",
+          "script": "Ling-Serene-Plume-M-World-Ling.zip"
+        }
+      ]
+    },
+    {
+      "name": "M-World",
+      "Default_name": "M-World Ling",
+      "Splash_url": "Ling-M-World-Ling.png",
+      "script": "Ling-M-World-Ling-Backup.zip",
+      "Portrait_url": "Ling-M-World-Ling.png",
+      "Tags": [
+        "M-World.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Dance",
+          "Portrait_url": "Ling-Fiery-Dance.png",
+          "Splash_url": "Ling-Fiery-Dance.png",
+          "script": "Ling-M-World-Ling-Fiery-Dance.zip"
+        },
+        {
+          "name": "Street Punk",
+          "Portrait_url": "Ling-Street-Punk.png",
+          "Splash_url": "Ling-Street-Punk.png",
+          "script": "Ling-M-World-Ling-Street-Punk.zip"
+        },
+        {
+          "name": "Night Shade",
+          "Portrait_url": "Ling-Night-Shade.png",
+          "Splash_url": "Ling-Night-Shade.png",
+          "script": "Ling-M-World-Ling-Night-Shade.zip"
+        },
+        {
+          "name": "Cosmo Guard",
+          "Portrait_url": "Ling-Cosmo-Guard.png",
+          "Splash_url": "Ling-Cosmo-Guard.png",
+          "script": "Ling-M-World-Ling-Cosmo-Guard.zip"
+        },
+        {
+          "name": "Serene Plume",
+          "Portrait_url": "Ling-Serene-Plume.png",
+          "Splash_url": "Ling-Serene-Plume.png",
+          "script": "Ling-M-World-Ling-Serene-Plume.zip"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu Panda",
+      "Default_name": "Lord Shen",
+      "Splash_url": "Ling-Lord-Shen.png",
+      "script": "Ling-Lord-Shen-Backup.zip",
+      "Portrait_url": "Ling-Lord-Shen.png",
+      "Tags": [
+        "Kung Fu Panda.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Dance",
+          "Portrait_url": "Ling-Fiery-Dance.png",
+          "Splash_url": "Ling-Fiery-Dance.png",
+          "script": "Ling-Lord-Shen-Fiery-Dance.zip"
+        },
+        {
+          "name": "Street Punk",
+          "Portrait_url": "Ling-Street-Punk.png",
+          "Splash_url": "Ling-Street-Punk.png",
+          "script": "Ling-Lord-Shen-Street-Punk.zip"
+        },
+        {
+          "name": "Night Shade",
+          "Portrait_url": "Ling-Night-Shade.png",
+          "Splash_url": "Ling-Night-Shade.png",
+          "script": "Ling-Lord-Shen-Night-Shade.zip"
+        },
+        {
+          "name": "Cosmo Guard",
+          "Portrait_url": "Ling-Cosmo-Guard.png",
+          "Splash_url": "Ling-Cosmo-Guard.png",
+          "script": "Ling-Lord-Shen-Cosmo-Guard.zip"
+        },
+        {
+          "name": "Serene Plume",
+          "Portrait_url": "Ling-Serene-Plume.png",
+          "Splash_url": "Ling-Serene-Plume.png",
+          "script": "Ling-Lord-Shen-Serene-Plume.zip"
+        },
+        {
+          "name": "M-World Ling",
+          "Portrait_url": "Ling-M-World-Ling.png",
+          "Splash_url": "Ling-M-World-Ling.png",
+          "script": "Ling-Lord-Shen-M-World-Ling.zip"
+        }
+      ]
+    },
+    {
+      "name": "Neobeast 2",
+      "Default_name": "Neobeast Ling",
+      "Splash_url": "Ling-Neobeast-Ling.png",
+      "script": "Ling-Neobeast-Ling-Backup.zip",
+      "Portrait_url": "Ling-Neobeast-Ling.png",
+      "Tags": [
+        "NeoBeasts.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Dance",
+          "Portrait_url": "Ling-Fiery-Dance.png",
+          "Splash_url": "Ling-Fiery-Dance.png",
+          "script": "Ling-Neobeast-Ling-Fiery-Dance.zip"
+        },
+        {
+          "name": "Street Punk",
+          "Portrait_url": "Ling-Street-Punk.png",
+          "Splash_url": "Ling-Street-Punk.png",
+          "script": "Ling-Neobeast-Ling-Street-Punk.zip"
+        },
+        {
+          "name": "Night Shade",
+          "Portrait_url": "Ling-Night-Shade.png",
+          "Splash_url": "Ling-Night-Shade.png",
+          "script": "Ling-Neobeast-Ling-Night-Shade.zip"
+        },
+        {
+          "name": "Cosmo Guard",
+          "Portrait_url": "Ling-Cosmo-Guard.png",
+          "Splash_url": "Ling-Cosmo-Guard.png",
+          "script": "Ling-Neobeast-Ling-Cosmo-Guard.zip"
+        },
+        {
+          "name": "Serene Plume",
+          "Portrait_url": "Ling-Serene-Plume.png",
+          "Splash_url": "Ling-Serene-Plume.png",
+          "script": "Ling-Neobeast-Ling-Serene-Plume.zip"
+        },
+        {
+          "name": "M-World Ling",
+          "Portrait_url": "Ling-M-World-Ling.png",
+          "Splash_url": "Ling-M-World-Ling.png",
+          "script": "Ling-Neobeast-Ling-M-World-Ling.zip"
+        }
+      ]
+    }
+  ]
+}

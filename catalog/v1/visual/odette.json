@@ -1,0 +1,146 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "odette-backup",
+      "portrait_file": "Odette-Default.png",
+      "script_file": "Odette-Backup.zip",
+      "skin_name": "Swan Princess",
+      "splash_file": "Odette-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "odette-black-swan",
+      "portrait_file": "Odette-Black-Swan.png",
+      "script_file": "Odette-Black-Swan.zip",
+      "skin_name": "Black Swan",
+      "splash_file": "Odette-Black-Swan.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "odette-christmas-carnival",
+      "portrait_file": "Odette-Christmas-Carnival.png",
+      "script_file": "Odette-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Odette-Christmas-Carnival.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "odette-mermaid-princess",
+      "portrait_file": "Odette-Mermaid-Princess.png",
+      "script_file": "Odette-Mermaid-Princess.zip",
+      "skin_name": "Mermaid Princess",
+      "splash_file": "Odette-Mermaid-Princess.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "odette-butterfly-goddess",
+      "portrait_file": "Odette-Butterfly-Goddess.png",
+      "script_file": "Odette-Butterfly-Goddess.zip",
+      "skin_name": "Butterfly Goddess",
+      "splash_file": "Odette-Butterfly-Goddess.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "odette-virgo",
+      "portrait_file": "Odette-Virgo.png",
+      "script_file": "Odette-Virgo.zip",
+      "skin_name": "Virgo",
+      "splash_file": "Odette-Virgo.png",
+      "tag_id": "zodiac",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "odette-auspicious-charm",
+      "portrait_file": "Odette-Auspicious-Charm.png",
+      "script_file": "Odette-Auspicious-Charm.zip",
+      "skin_name": "Auspicious Charm",
+      "splash_file": "Odette-Auspicious-Charm.png",
+      "tag_id": "lunar-fest",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "odette-sage-of-the-currents",
+      "portrait_file": "Odette-Sage-of-the-Currents.png",
+      "script_file": "Odette-Sage-of-the-Currents.zip",
+      "skin_name": "Sage of the Currents",
+      "splash_file": "Odette-Sage-of-the-Currents.png",
+      "tag_id": "create",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "odette-wisdom-of-the-stars",
+      "portrait_file": "Odette-Wisdom-of-the-Stars.png",
+      "script_file": "Odette-Wisdom-of-the-Stars.zip",
+      "skin_name": "Wisdom of the Stars",
+      "splash_file": "Odette-Wisdom-of-the-Stars.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "odette-song-of-devotion",
+      "portrait_file": "Odette-Song-of-Devotion.png",
+      "script_file": "Odette-Song-of-Devotion.zip",
+      "skin_name": "Song of Devotion",
+      "splash_file": "Odette-Song-of-Devotion.png",
+      "tag_id": "special",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "odette-butterfly-faerie",
+      "portrait_file": "Odette-Butterfly-Faerie.png",
+      "script_file": "Odette-Butterfly-Faerie.zip",
+      "skin_name": "Butterfly Faerie",
+      "splash_file": "Odette-Butterfly-Faerie.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "odette-wisdom-of-hearts-painted-01",
+      "portrait_file": "Odette-Wisdom-of-Hearts.png",
+      "script_file": "Odette-Wisdom-of-Hearts.zip",
+      "skin_name": "Wisdom of Hearts",
+      "splash_file": "Odette-Wisdom-of-Hearts.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "odette-wisdom-of-devotion-painted-02",
+      "portrait_file": "Odette-Wisdom-of-Devotion.png",
+      "script_file": "Odette-Wisdom-of-Devotion.zip",
+      "skin_name": "Wisdom of Devotion",
+      "splash_file": "Odette - Wisdom of Devotion.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 46,
+    "name": "Odette",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "odette"
+  },
+  "release_tag": "visual-odette",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

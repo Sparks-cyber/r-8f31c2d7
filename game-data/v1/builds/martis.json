@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 58,
+    "slug": "martis",
+    "name": "Martis"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "martis-community-5650",
+      "name": "Community Build 5650",
+      "lane": "Jungle, Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "skypiercer",
+        "waraxe",
+        "queenswings",
+        "bladeofdespair",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "agility",
+        "festivalofblood",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "f",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5650,
+      "source_created_at": "2026-02-12T01:08:08.000Z",
+      "likes": 7,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "martis-community-5316",
+      "name": "Community Build 5316",
+      "lane": "Jungle, Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "waraxe",
+        "seahalberd",
+        "queenswings",
+        "bladeofdespair",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "MARTEEZNUTS",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5316,
+      "source_created_at": "2026-01-31T04:13:30.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "martis-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

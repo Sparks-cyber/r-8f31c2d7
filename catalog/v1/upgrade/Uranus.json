@@ -1,0 +1,269 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Uranus",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Ancient Soul",
+      "Splash_url": "Uranus-Ancient-Soul.png",
+      "script": "Uranus-Ancient-Soul-Backup.zip",
+      "Portrait_url": "Uranus-Ancient-Soul.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Mech Protector",
+          "Portrait_url": "Uranus-Mech-Protector.png",
+          "Splash_url": "Uranus-Mech-Protector.png",
+          "script": "Uranus-Ancient-Soul-Mech-Protector.zip"
+        },
+        {
+          "name": "Video-Game Dominator",
+          "Portrait_url": "Uranus-Video-Game-Dominator.png",
+          "Splash_url": "Uranus-Video-Game-Dominator.png",
+          "script": "Uranus-Ancient-Soul-Video-Game-Dominator.zip"
+        },
+        {
+          "name": "Celestial Bastion",
+          "Portrait_url": "Uranus-Celestial-Bastion.png",
+          "Splash_url": "Uranus-Celestial-Bastion.png",
+          "script": "Uranus-Ancient-Soul-Celestial-Bastion.zip"
+        },
+        {
+          "name": "Earthen Relic",
+          "Portrait_url": "Uranus-Earthen-Relic.png",
+          "Splash_url": "Uranus-Earthen-Relic.png",
+          "script": "Uranus-Ancient-Soul-Earthen-Relic.zip"
+        },
+        {
+          "name": "Fortune Machine",
+          "Portrait_url": "Uranus-Fortune-Machine.png",
+          "Splash_url": "Uranus-Fortune-Machine.png",
+          "script": "Uranus-Ancient-Soul-Fortune-Machine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Rising",
+      "Default_name": "Mech Protector",
+      "Splash_url": "Uranus-Mech-Protector.png",
+      "script": "Uranus-Mech-Protector-Backup.zip",
+      "Portrait_url": "Uranus-Mech-Protector.png",
+      "Tags": [
+        "Rising.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancient Soul",
+          "Portrait_url": "Uranus-Ancient-Soul.png",
+          "Splash_url": "Uranus-Ancient-Soul.png",
+          "script": "Uranus-Mech-Protector-Ancient-Soul.zip"
+        },
+        {
+          "name": "Video-Game Dominator",
+          "Portrait_url": "Uranus-Video-Game-Dominator.png",
+          "Splash_url": "Uranus-Video-Game-Dominator.png",
+          "script": "Uranus-Mech-Protector-Video-Game-Dominator.zip"
+        },
+        {
+          "name": "Pinball Machine",
+          "Portrait_url": "Uranus-Pinball-Machine.png",
+          "Splash_url": "Uranus-Pinball-Machine.png",
+          "script": "Uranus-Mech-Protector-Pinball-Machine.zip"
+        },
+        {
+          "name": "Celestial Bastion",
+          "Portrait_url": "Uranus-Celestial-Bastion.png",
+          "Splash_url": "Uranus-Celestial-Bastion.png",
+          "script": "Uranus-Mech-Protector-Celestial-Bastion.zip"
+        },
+        {
+          "name": "Earthen Relic",
+          "Portrait_url": "Uranus-Earthen-Relic.png",
+          "Splash_url": "Uranus-Earthen-Relic.png",
+          "script": "Uranus-Mech-Protector-Earthen-Relic.zip"
+        },
+        {
+          "name": "Fortune Machine",
+          "Portrait_url": "Uranus-Fortune-Machine.png",
+          "Splash_url": "Uranus-Fortune-Machine.png",
+          "script": "Uranus-Mech-Protector-Fortune-Machine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Video-Game Dominator",
+      "Splash_url": "Uranus-Video-Game-Dominator.png",
+      "script": "Uranus-Video-Game-Dominator-Backup.zip",
+      "Portrait_url": "Uranus-Video-Game-Dominator.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancient Soul",
+          "Portrait_url": "Uranus-Ancient-Soul.png",
+          "Splash_url": "Uranus-Ancient-Soul.png",
+          "script": "Uranus-Video-Game-Dominator-Ancient-Soul.zip"
+        },
+        {
+          "name": "Mech Protector",
+          "Portrait_url": "Uranus-Mech-Protector.png",
+          "Splash_url": "Uranus-Mech-Protector.png",
+          "script": "Uranus-Video-Game-Dominator-Mech-Protector.zip"
+        },
+        {
+          "name": "Pinball Machine",
+          "Portrait_url": "Uranus-Pinball-Machine.png",
+          "Splash_url": "Uranus-Pinball-Machine.png",
+          "script": "Uranus-Video-Game-Dominator-Pinball-Machine.zip"
+        },
+        {
+          "name": "Earthen Relic",
+          "Portrait_url": "Uranus-Earthen-Relic.png",
+          "Splash_url": "Uranus-Earthen-Relic.png",
+          "script": "Uranus-Video-Game-Dominator-Earthen-Relic.zip"
+        },
+        {
+          "name": "Fortune Machine",
+          "Portrait_url": "Uranus-Fortune-Machine.png",
+          "Splash_url": "Uranus-Fortune-Machine.png",
+          "script": "Uranus-Video-Game-Dominator-Fortune-Machine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Pinball Machine",
+      "Splash_url": "Uranus-Pinball-Machine.png",
+      "script": "Uranus-Pinball-Machine-Backup.zip",
+      "Portrait_url": "Uranus-Pinball-Machine.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancient Soul",
+          "Portrait_url": "Uranus-Ancient-Soul.png",
+          "Splash_url": "Uranus-Ancient-Soul.png",
+          "script": "Uranus-Pinball-Machine-Ancient-Soul.zip"
+        },
+        {
+          "name": "Video-Game Dominator",
+          "Portrait_url": "Uranus-Video-Game-Dominator.png",
+          "Splash_url": "Uranus-Video-Game-Dominator.png",
+          "script": "Uranus-Pinball-Machine-Video-Game-Dominator.zip"
+        },
+        {
+          "name": "Celestial Bastion",
+          "Portrait_url": "Uranus-Celestial-Bastion.png",
+          "Splash_url": "Uranus-Celestial-Bastion.png",
+          "script": "Uranus-Pinball-Machine-Celestial-Bastion.zip"
+        },
+        {
+          "name": "Earthen Relic",
+          "Portrait_url": "Uranus-Earthen-Relic.png",
+          "Splash_url": "Uranus-Earthen-Relic.png",
+          "script": "Uranus-Pinball-Machine-Earthen-Relic.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Celestial Bastion",
+      "Splash_url": "Uranus-Celestial-Bastion.png",
+      "script": "Uranus-Celestial-Bastion-Backup.zip",
+      "Portrait_url": "Uranus-Celestial-Bastion.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancient Soul",
+          "Portrait_url": "Uranus-Ancient-Soul.png",
+          "Splash_url": "Uranus-Ancient-Soul.png",
+          "script": "Uranus-Celestial-Bastion-Ancient-Soul.zip"
+        },
+        {
+          "name": "Mech Protector",
+          "Portrait_url": "Uranus-Mech-Protector.png",
+          "Splash_url": "Uranus-Mech-Protector.png",
+          "script": "Uranus-Celestial-Bastion-Mech-Protector.zip"
+        },
+        {
+          "name": "Video-Game Dominator",
+          "Portrait_url": "Uranus-Video-Game-Dominator.png",
+          "Splash_url": "Uranus-Video-Game-Dominator.png",
+          "script": "Uranus-Celestial-Bastion-Video-Game-Dominator.zip"
+        },
+        {
+          "name": "Pinball Machine",
+          "Portrait_url": "Uranus-Pinball-Machine.png",
+          "Splash_url": "Uranus-Pinball-Machine.png",
+          "script": "Uranus-Celestial-Bastion-Pinball-Machine.zip"
+        },
+        {
+          "name": "Earthen Relic",
+          "Portrait_url": "Uranus-Earthen-Relic.png",
+          "Splash_url": "Uranus-Earthen-Relic.png",
+          "script": "Uranus-Celestial-Bastion-Earthen-Relic.zip"
+        },
+        {
+          "name": "Fortune Machine",
+          "Portrait_url": "Uranus-Fortune-Machine.png",
+          "Splash_url": "Uranus-Fortune-Machine.png",
+          "script": "Uranus-Celestial-Bastion-Fortune-Machine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Earthen Relic",
+      "Splash_url": "Uranus-Earthen-Relic.png",
+      "script": "Uranus-Earthen-Relic-Backup.zip",
+      "Portrait_url": "Uranus-Earthen-Relic.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Ancient Soul",
+          "Portrait_url": "Uranus-Ancient-Soul.png",
+          "Splash_url": "Uranus-Ancient-Soul.png",
+          "script": "Uranus-Earthen-Relic-Ancient-Soul.zip"
+        },
+        {
+          "name": "Mech Protector",
+          "Portrait_url": "Uranus-Mech-Protector.png",
+          "Splash_url": "Uranus-Mech-Protector.png",
+          "script": "Uranus-Earthen-Relic-Mech-Protector.zip"
+        },
+        {
+          "name": "Video-Game Dominator",
+          "Portrait_url": "Uranus-Video-Game-Dominator.png",
+          "Splash_url": "Uranus-Video-Game-Dominator.png",
+          "script": "Uranus-Earthen-Relic-Video-Game-Dominator.zip"
+        },
+        {
+          "name": "Pinball Machine",
+          "Portrait_url": "Uranus-Pinball-Machine.png",
+          "Splash_url": "Uranus-Pinball-Machine.png",
+          "script": "Uranus-Earthen-Relic-Pinball-Machine.zip"
+        },
+        {
+          "name": "Celestial Bastion",
+          "Portrait_url": "Uranus-Celestial-Bastion.png",
+          "Splash_url": "Uranus-Celestial-Bastion.png",
+          "script": "Uranus-Earthen-Relic-Celestial-Bastion.zip"
+        },
+        {
+          "name": "Fortune Machine",
+          "Portrait_url": "Uranus-Fortune-Machine.png",
+          "Splash_url": "Uranus-Fortune-Machine.png",
+          "script": "Uranus-Earthen-Relic-Fortune-Machine.zip"
+        }
+      ]
+    }
+  ]
+}

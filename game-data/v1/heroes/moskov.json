@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 31,
+    "slug": "moskov",
+    "name": "Moskov",
+    "skin_name": "Spear of Quiescence",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Finisher",
+      "Chase"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "2017",
+    "resource": "Mana",
+    "short_description": "A warrior of the desert that embraced the darkness to seek his revenger.",
+    "brief": "Once a valiant and fearless desert warrior, Moskov met his end on the battlefield against his rival Khaleed. But in death, his soul encountered a great vortex of darkness buried beneath the sand by the desert tyrant Khufra. For centuries, the Vortex incited discord among the desert tribes and harvested the dark energy borne from their bloodshed. Though the Vortex's insidious influence trapped the desert in a cycle of strife and anguish, the Vortex itself sought to be freed. Tempted with the promise of revenge, Moskov extracted the core of the vortex, the Spear of Quiescence, and was reborn in the power of the darkness. Now he roams the sands, seeking revenge upon Khufra in the name of the desert.",
+    "story": "Are you awake, lamb?\n\nI guess you are an exception among this pitiful flock.\n\nDo you wish to know why you're here?\n\nThen remain silent and listen...\n\nWhen you were still among the living, your name was Moskov, though it hardly matters now.\n\nYes, you're dead. Countless spears pierced your innards as your enemies pinned you to the sand. Your blood flowed freely, seeping into the earth and staining the sands a dark crimson. But there was defiance in your bones. Even in death, you refused to crumble; unwilling to admit failure.\n\nYes, you failed. That battle was the end of your tribe. Your rival, Khaleed, brought a force three times your own, if not more. Yet you did not flee, for the blood feud between your two tribes had reached a point of no return. Quite the tragic hero you are.\n\nIn your final moments, you must have thought that this death was befitting of a desert warrior. You fought for your tribe with your life. Surely the golden sands will carry you to the halls of glory and etch your name in the annals of history...\n\nPathetic.\n\nLook around you. This is your so-called golden halls of glory. There is nothing here but a great vortex of darkness. It lurks under the desert's surface, voraciously corrupting every single grain of sand, turning everything profane. Beneath your feet lies a mountain of bones, the countless remains of your ancestors. Above you, their tortured spirits wail in agony, filled with pain, despair, and resentment. Yet, they can never escape this all-consuming vortex. They are doomed to be devoured by the darkness; to be sustenance for the insatiable.\n\nIn the end, they become a part of me.\n\nWho am I?\n\nI am a weapon. A weapon of pure darkness.\n\nIt is not difficult to explain. In this world, where there is birth, there is death; where there is light, there is darkness. I am the core of this vortex of darkness. War, death, and anguish are what I feed upon. Deep down, you have already known this for quite some time. Due to the incessant feuds between the desert tribes, you were taught from a young age to be a fearless warrior. Everything you knew pertained to battle, and you and Khaleed were destined to fight to the death — but have you ever wondered why?\n\nI can see the rage in your eyes. It's all dawning on you now, isn't it.\n\nYes, you are all nothing but fodder to me. Mere lambs, born to be slaughtered. And I grow stronger with every offering, spreading my influence to more and more tribes, and plunging them into war and chaos. All to ensure that this cycle of violence is passed down through the generations.\n\nSave your strength. Your once hot blood has long since cooled. Your mighty body has stiffened, and your rage is now nothing more than the lament of a helpless soul. I am right here before you, yet you can do nothing.\n\nBut do not be mistaken. I am not the mastermind of your fate. While you mindlessly killed each other in your pens, the shepherd remained afar, drinking your blood and harvesting your flesh. He was once the king of the desert, a ruthless tyrant, but now slumbers far, far away under the Ruins of Tivacan. Before he went into slumber, he buried me here to gather power for his return.\n\nThe world should have been mine to conquer. I should be the one to plunge this world into darkness. Yet, here I am, trapped in this desert, like a caged beast being fattened up. I suppose our fates are not so different. No matter how powerful I become, I remain but a pawn. The vessel of another. And now, he is about to awaken...\n\nCurse him!\n\nYou wish to seek revenge, do you not?\n\nVery well, your anger is admirable, and your blood is starting to boil once more. You are the first to desire to escape your pen after learning the truth. I see your soul searing with fury. Your pride, your pain, your hatred... they are trying to awaken your body. With such a remarkable determination, you will surely bring eternal silence to this noisy desert...\n\nCome! Come before me. Extricate me from this damned vortex. Set me free, and let me see the light once more.\n\nHate! For being forgotten by history. For the humiliation of being someone's pawn. For your sullied honor. Let all the hatred of the desert flow into you.\n\nBurn! A vengeful soul burns the brightest. Return to the battlefield once more. With the darkness, I will reshape your body. I will grant you limitless power. I will give you your revenge!\n\nGo! Embrace the darkness and silence this desert for eternity.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 2,
+    "offense": 6,
+    "control": 6,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2380,
+    "health_growth": 140,
+    "health_regen": 6.4,
+    "health_regen_growth": 0.2143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 125,
+    "physical_attack_growth": 12.5,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 4.2143,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.01,
+    "attack_speed_growth": 0.0057,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "Moskov0",
+      "name": "Spear of Quiescence",
+      "description": "Moskov's Basic Attacks can penetrate the target and deal <scaleAD> (+68% Total Physical Attack)</scaleAD>-<scaleAD> (+110% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies behind them (scales with hero level). Each Basic Attack hit reduces the cooldowns of <highlight>Abyss Walker</highlight> by 0.8s and <highlight>Spear of Misery</highlight> by 0.8s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 100.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_598dfa238e4987c45419783b299aa4fc.png",
+      "video_url": null
+    },
+    {
+      "id": "Moskov1",
+      "name": "Abyss Walker",
+      "description": "Moskov teleports to the target location, increasing his Attack Speed to 1.15/1.2/1.25/1.3/1.35/1.4 times for 3s. Meanwhile, his Basic Attack deals <scaleAD> (+10% Total Physical Attack)</scaleAD> more damage to enemies behind the primary target.",
+      "flavor_text": null,
+      "cost": "50/55/60/65/70/75",
+      "cooldown": "10/9.6/9.2/8.8/8.4/8",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ad0a57328e772be2fa70550692507a86.png",
+      "video_url": null
+    },
+    {
+      "id": "Moskov2",
+      "name": "Spear of Misery",
+      "description": "Moskov launches a powerful strike at the target enemy hero or Creep, dealing 300/330/360/390/420/450<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>, knocking them back, and revealing their position for 2s.<br/><br/>If the target collides with an enemy hero when knocked back, they'll both take 200/215/230/245/260/275<scaleAD> (+30% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and be stunned for 1.2s. If the enemy is knocked into a wall, they will also be stunned for the same duration.",
+      "flavor_text": null,
+      "cost": "90",
+      "cooldown": "12",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_108c7b9f3ac11309bbcdf0bf1b185d46.png",
+      "video_url": null
+    },
+    {
+      "id": "Moskov3",
+      "name": "Spear of Destruction",
+      "description": "After a short delay, Moskov throws the <highlight>Spear of Destruction</highlight> in the target direction, dealing 340/420/500<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in its path and to the first enemy hero hit. Upon hitting an enemy hero, the spear pierces them, dealing 10% extra <physicalDamage>Physical Damage</physicalDamage> to enemies behind them. The target and enemies hit by the piercing damage will be slowed by 50% for 1s (the slow duration scales with the spear's travel time, up to 3s).<br/><br/>When <highlight>Spear of Destruction</highlight> hits the first enemy hero, it creates a shadow behind them and refreshes the cooldown of <highlight>Abyss Walker</highlight>.<br/><br/><highlight>Use Again</highlight>: Moskov casts <highlight>Abyss Walker</highlight> from the shadow's location (shares the same cooldown as the skill).",
+      "flavor_text": null,
+      "cost": "130/150/170",
+      "cooldown": "55/50/45",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Teleport",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f51734d9a49d298d05e1dc81d8e740c2.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Moskov0",
+      "sequence": "Moskov3-Moskov2-Moskov1-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Moskov's Ultimate to slow a target, then activate it again to blink behind them and use his 2nd Skill to knock them into a stun before finishing them off with Basic Attacks."
+    },
+    {
+      "id": "Moskov1",
+      "sequence": "Moskov1-Moskov2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Moskov's 1st Skill to blink to a position to stun the target with his 2nd Skill, then get in as many Basic Attacks as possible to reduce the cooldown of his skills."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Moskov works well with heroes like Atlas and Gatotkaca who can CC groups of enemies so he can focus on maximizing the damage of his piercing AOE.",
+      "heroes": [
+        {
+          "id": 117,
+          "slug": "fredrinn",
+          "name": "Fredrinn"
+        },
+        {
+          "id": 41,
+          "slug": "gatotkaca",
+          "name": "Gatotkaca"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Moskov's 1st Skill provides a blink effect, making him a threat to fighters with poor mobility like Thamuz and Balmond.",
+      "heroes": [
+        {
+          "id": 72,
+          "slug": "thamuz",
+          "name": "Thamuz"
+        },
+        {
+          "id": 2,
+          "slug": "balmond",
+          "name": "Balmond"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Moskov is countered by heroes with high mobility, such as Lancelot and Natalia, who can quickly close the gap and take him out.",
+      "heroes": [
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        },
+        {
+          "id": 24,
+          "slug": "natalia",
+          "name": "Natalia"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Moskov-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Moskov-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_843f1c2c3a1b2d4da2fc2ec73cf47cfa.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_843f1c2c3a1b2d4da2fc2ec73cf47cfa.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/moskov.json",
+    "visual_catalog": "catalog/v1/visual/moskov.json",
+    "upgrade_catalog": "catalog/v1/upgrade/moskov.json"
+  }
+}

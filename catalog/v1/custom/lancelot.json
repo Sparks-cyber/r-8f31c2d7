@@ -1,0 +1,137 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "lancelot-flash",
+      "portrait_file": "Lancelot - Flash.png",
+      "script_file": "Lancelot-Flash.zip",
+      "skin_name": "Flash",
+      "splash_file": "Lancelot - Flash.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-kakashi",
+      "portrait_file": "Lancelot - Kakashi.png",
+      "script_file": "Lancelot-Kakashi.zip",
+      "skin_name": "Kakashi",
+      "splash_file": "Lancelot - Kakashi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-kakashi2",
+      "portrait_file": "Lancelot - Kakashi2.png",
+      "script_file": "Lancelot-Kakashi2.zip",
+      "skin_name": "Kakashi2",
+      "splash_file": "Lancelot - Kakashi2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-killua",
+      "portrait_file": "Lancelot - Killua.png",
+      "script_file": "Lancelot-Killua.zip",
+      "skin_name": "Killua",
+      "splash_file": "Lancelot - Killua.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-kirigakure-saizo",
+      "portrait_file": "Lancelot - Kirigakure Saizo.png",
+      "script_file": "Lancelot-Kirigakure-Saizo.zip",
+      "skin_name": "Kirigakure Saizo",
+      "splash_file": "Lancelot - Kirigakure Saizo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-levi",
+      "portrait_file": "Lancelot - Levi.png",
+      "script_file": "Lancelot-Levi.zip",
+      "skin_name": "Levi",
+      "splash_file": "Lancelot - Levi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-mikasa",
+      "portrait_file": "Lancelot - Mikasa.png",
+      "script_file": "Lancelot-Mikasa.zip",
+      "skin_name": "Mikasa",
+      "splash_file": "Lancelot - Mikasa.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-namikaze-minato",
+      "portrait_file": "Lancelot - Namikaze Minato.png",
+      "script_file": "Lancelot-Namikaze-Minato.zip",
+      "skin_name": "Namikaze Minato",
+      "splash_file": "Lancelot - Namikaze Minato.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-sasuke",
+      "portrait_file": "Lancelot - Sasuke.png",
+      "script_file": "Lancelot-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Lancelot - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-shanks",
+      "portrait_file": "Lancelot - Shanks.png",
+      "script_file": "Lancelot-Shanks.zip",
+      "skin_name": "Shanks",
+      "splash_file": "Lancelot - Shanks.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "lancelot-zenitsu",
+      "portrait_file": "Lancelot - Zenitsu.png",
+      "script_file": "Lancelot-Zenitsu.zip",
+      "skin_name": "Zenitsu",
+      "splash_file": "Lancelot - Zenitsu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 47,
+    "name": "Lancelot",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "lancelot"
+  },
+  "release_tag": "custom-lancelot",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

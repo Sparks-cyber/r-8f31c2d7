@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 2,
+    "slug": "balmond",
+    "name": "Balmond",
+    "skin_name": "Bloody Beast",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Damage",
+      "Regen"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "2016",
+    "resource": null,
+    "short_description": "The leader of the Orc Legion.",
+    "brief": "Balmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons. During a battle, he consumed the blood of a Blood Demon and went into a rage. This aroused Alice's interest, so she signed a contract with Balmond on the condition of returning the Stormeye Wasteland. Balmond, and his Orc army have since fought for the Demons.",
+    "story": "The Orcs are a race with a long history and perhaps the most common of those in the Land of Dawn. Throughout the mists of time, they have served under Lord of Abyss as they fought throughout the fierce of Endless War; and also engaged mankind in savage battle during the Golden Era. A series of successive defeats left the once strong United Demi-humans divided instead into Orcs, Minotaurs, and Centaurs, among other peoples. It also left them bereft of their home, forced into exile, and the southern lands where they eked out a meagre [sic] existence.\n\nDespite all this, it seemed fate had not yet finished toying with this ancient race. As the Abyss encroach once more powerful demons emerged again from the south presenting a perilous threat to their declining Orc populations. Under the demons' oppression the Orcs were made to split into several small clans scattered throughout the vast expanse of the roaring wilderness, exploited to the utmost.\n\nBalmond was born in a traditional orc tribe within the Roaring Wilderness, and from a young age his father had always taught him all kinds of combat skills. Along with this, he would also regale him tiles of the Orcs' former glories; how they once resided in their homeland in the north of Lantis Mountains and their millennia of fierce battles waged against the elves and humans. He hoped that Balmond would, one day, be able to become a true Orc leader and return them to their former glory.\n\nOver twenty years later, Balmond had grown into a mighty Orc under his father's teaching. And during this time, the demons' brutality had instilled Balmond with deep, dark memories, only making him yearn even more for the day when the Orcs could return to power, bringing back their once-formidable kingdom. To this end the young Balmond not only trained relentlessly, but also dedicated himself to studying all kinds of ancient Orc tomes, which gifted him with an astute strategic knowledge.\n\nBut this was when the flames of war were just beginning to kindle. In order to amass the strength required to attack the Empire, the terrible demons invaded the Orc tribes tirelessly, plundering and pillaging their resources causing the Orcs unspeakable suffering. Prior to this the Orcs were powerless to resist the demon forces, and had no choice but to submit to preserve the peace, however short-lived it may be. But this time, Balmond led the warriors of his clan into battle and slayed the demon leader who had come to rob them of their resources, in doing so sparking the Orc rebellion. The Orc race had taken enough of the demons' oppression, and now each tribe lent Balmond their strength: they were no longer scattered clans, instead becoming a truly powerful force to be reckoned with. The rebellion spread throughout the Roaring Wilderness like wildfire.\n\nUnder Balmond's command, the fierce Orc warriors successfully fought back the demon armies that came to suppress them, dealing a heavy blow.\n\nThis gigantic counterattack launched by the Orcs shocked the demons, enraging Lord Lava, Thamuz. He dispatched numerous terrible troops formed of Blood Demons and Fiends to the Roaring Wilderness, as he would never stand for resistance against his demons within the Wretched Expanse.\n\nDespite the disparity in power, a relentless fight to the death between the Orcs and demons was raged, yet the latter surged like tidal waves and things began to take a turn for the worse for the Orcs. Their power waned by the day, their defensive lines shrinking until they were entirely surrounded.\n\nTo protect his race from extinction, Balmond decided he would fight right to the bitter end, and led an effort to break through their ranks. In this blazing battle the demons again flooded in, their numbers seemingly infinite, and the bodies of Orc warriors were strewn all around as they advanced. Balmond shook with fury: and cast aside his now-blunted battleax as he gripped a demon by the neck to bite at its throat, severing its head with his teeth.\n\nYet this attack sent copious amounts of demon blood flowing into Balmond's body, which resulted in an incredible transformation. It fueled him as he went utterly berserk, with unimaginable power that he wielded to break through the enemy lines. The Orcs were showered in demon blood, igniting a fearsome battle power within them that shook their demon oppressors to their core. New possibilities had presented themselves, and this caused them to change their plans on wiping out the Orcs.\n\nTo this end, the cunning Alice managed to track down Balmond and present him with an offer: once the Empire had been defeated, the entire Roaring Wilderness would be returned to the Orc peoples in exchange for Balmond's loyalty to the demons. In order to preserve the power of his Orc brethren, Balmond reached an agreement with Alice, and his forces swore loyalty to the Abyss. They would then serve as the demons' vanguard forces as they stormed Azrya.\n\nHowever, even Alice could never have imagined that an even greater plan had been brewing deep in Balmond's mind. First, he would command the demon forces to breach the Moonlit Forest and occupy the elven kingdom, where he would build his strength steadily.\n\nFollowing that, the union of the Orcs and the revival of their kingdom that they'd yearned for over millennia would finally come to be.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 3,
+    "control": 2,
+    "difficulty": 1
+  },
+  "attributes": {
+    "health": 2736,
+    "health_growth": 246,
+    "health_regen": 9.4,
+    "health_regen_growth": 0.6,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 119,
+    "physical_attack_growth": 8.43,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 4.6429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.06,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Balmond0",
+      "name": "Bloodthirst",
+      "description": "Balmond recovers 5% Max HP after killing a minion or creep, and 10% Max HP on a kill or assist.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a9aa00dcaf998c9636e1dbb874a225c5.png",
+      "video_url": null
+    },
+    {
+      "id": "Balmond1",
+      "name": "Soul Lock",
+      "description": "Balmond charges in the target direction for a set distance or until he hits an enemy hero, dealing 150/175/200/225/250/275<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the way. The enemy hero hit will be knocked back slightly, and have their Movement Speed reduced by 40% for 3s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8bfe9cffa391a97995c46977e95d4be8.png",
+      "video_url": null
+    },
+    {
+      "id": "Balmond2",
+      "name": "Cyclone Sweep",
+      "description": "Balmond gains 15% Movement Speed and spins with his axe for 3s, dealing 30/35/40/45/50/55<scaleHP> (+1.3% Total HP)</scaleHP> <scaleAD> (+25% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> per hit to nearby enemies up to 14 times.<br/><br/>Each hit reduces the target's Physical Defense by 5% (up to 40%).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5120ddf10175a28628b37ddb846df631.png",
+      "video_url": null
+    },
+    {
+      "id": "Balmond3",
+      "name": "Lethal Counter",
+      "description": "Balmond unleashes a huge strike in the target direction (this skill can only be interrupted by Suppression), dealing <trueDamage>True Damage</trueDamage> equal to 150<scaleAD> (+70% Total Physical Attack)</scaleAD> plus 30/37.5/45% of the target's lost HP.<br/><br/>This skill only deals up to 1000/1500/2000 damage to non-hero units.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "34/29/24",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0a7365234448da509cb88a0baf2b92dd.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Balmond0",
+      "sequence": "Balmond1-Balmond2-Balmond3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies."
+    },
+    {
+      "id": "Balmond1",
+      "sequence": "Balmond1-Balmond2-AA-Balmond3",
+      "name": "LANING COMBOS",
+      "description": "Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Balmond is best with Support heroes that can boost his Mobility and Survivability. Examples include Angela and Rafaela.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Balmond is strong against squishy heroes who lack the ability to escape once he closes the gap on them, such as Layla and Eudora.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Balmond is countered by ranged heroes who can deal damage to Balmond outside of his attack range, such as Lesley and Irithel.",
+      "heroes": [
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        },
+        {
+          "id": 43,
+          "slug": "irithel",
+          "name": "Irithel"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Balmond-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Balmond-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8f49801963afcd9b7c6fe6f59153ccc0.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8f49801963afcd9b7c6fe6f59153ccc0.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": null
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/balmond.json",
+    "visual_catalog": "catalog/v1/visual/balmond.json",
+    "upgrade_catalog": "catalog/v1/upgrade/balmond.json"
+  }
+}

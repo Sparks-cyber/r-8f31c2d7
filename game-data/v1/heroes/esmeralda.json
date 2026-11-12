@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 81,
+    "slug": "esmeralda",
+    "name": "Esmeralda",
+    "skin_name": "Astrologer",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Mixed",
+    "specialties": [
+      "Regen",
+      "Mixed Damage"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "3 April 2019",
+    "resource": "Mana",
+    "short_description": "A mysterious astrologer.",
+    "brief": "Born into a family of Agelta astrologers, she is the greatest astrologers on the Land of Dawn. Through the treasure star-moon box, she learned the fact that the tyrant Khufra was about to wake up. The re-sealing of Khufra became her new mission as an astrologer.",
+    "story": "The astrologers, who have constantly been observing astrospace, possess the occult abilities to explain and predict everything in the world, including both about their processes and results. To become an astrologer, candidates should pass rigorous assessments, which will test both their willpower and astrological abilities. Going down the generations, the elders finally select Esmeralda, a young girl living in the Western Desert, to be a new successor in the Land of Dawn.\n\nAfter becoming the successor of the astrologers, Esmeralda guards the Starmoon Casket that has been passed down for generations. With the hope of opening it and gaining the mysterious power from the ancient times, Esmeralda leaves off to the Minos Labyrinth to find secrets of the Starmoon Casket. But unfortunately, on her way to the Minos Labyrinth, the ground suddenly shakes and the desert falls into pieces, followed by a black sandstorm. All of a sudden, the Starmoon Casket opens and a stream of mysterious power fills in Esmeralda. Under the protection of the mysterious power, Esmeralda gets no harm and feels old memories flashing back through her mind. She feels the Starmoon Casket is calling for her, reminding her that Khufra, the ruthless tyrant of the Western Desert long ago, has recovered himself. Following the lead of the Starmoon Casket, Esmeralda changes direction to the deep desert, where there stands an ancient city. After the Starmoon Casket opens, two streams of power coming from it begin centering around Esmeralda - Frostmoon, enriched with magic, and Stardust, filled with great power. Impressed by the might of the Starmoon Casket, which was only spoken of in tales before, Esmeralda recalls the memories from the first generation of astrologers. When Esmeralda approaches the ancient city, she vaguely feels an unknown love story between Khufra and some astrologers. Seeing the end of their love, Esmeralda somehow feels sad and sorry. But it's her mission to seal Khufra and return the peace to the Western Desert.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 9,
+    "offense": 3,
+    "control": 6,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2573,
+    "health_growth": 191,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 114,
+    "physical_attack_growth": 5.5,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 3.8571,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.1429,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 2.5
+  },
+  "abilities": [
+    {
+      "id": "Esmeralda0",
+      "name": "Starmoon Casket",
+      "description": "Esmeralda manipulates Stardust and Frostmoon: Stardust deals Physical Damage while Frostmoon deals Magic Damage and gives the target a shield equal to 135% of Frostmoon's damage dealt. Each Basic Attack deals <scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and 100<scaleAP> (+75% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.<br/>The damage dealt by Esmeralda ignores all shield effects and gradually converts her shield into HP.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fde2b66e35d103d9e71272a6d61381e8.png",
+      "video_url": null
+    },
+    {
+      "id": "Esmeralda1",
+      "name": "Frostmoon Shield",
+      "description": "Esmeralda gains 400/500/600/700/800/900<scaleAP> (+150% Total Magic Power)</scaleAP> Shield and 40% Movement Speed which rapidly decays over its duration for 4s. Meanwhile, she gradually transforms the shields of her nearby enemies into her own shield, capped at 50% of her Max HP.",
+      "flavor_text": null,
+      "cost": "40/48/56/64/72/80",
+      "cooldown": "8.5",
+      "tags": [
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_00253b3e2e77dce506b07fe23755fe26.png",
+      "video_url": null
+    },
+    {
+      "id": "Esmeralda2",
+      "name": "Stardust Dance",
+      "description": "Esmeralda waves Stardust and Frostmoon, dealing 240/280/320/360/400/440<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and 300/350/400/450/500/550<scaleAP> (+120% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies. Each time she deals damage to a hero, the cooldown of <highlight>Frostmoon Shield</highlight> is reduced by 1.5s (damaging non-hero units grants a 0.5s reduction) and the enemy's Movement Speed is reduced by 10% for 1.5s.",
+      "flavor_text": null,
+      "cost": "35/42/49/56/63/70",
+      "cooldown": "4.5/4.3/4.1/3.9/3.7/3.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fd62ea376ea37da799123a8db3d853d9.png",
+      "video_url": null
+    },
+    {
+      "id": "Esmeralda3",
+      "name": "Falling Starmoon",
+      "description": "Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Frostmoon. The longer this skill is channeled, the longer the cast range.<br/><br/><highlight>Use Again</highlight>: Esmeralda casts Stardust at the target location, dealing 350/500/650<scaleAD> (+90% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>, and then blinks to the target location and casts Frostmoon, dealing 350/500/650<scaleAP> (+140% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and immobilizing enemies in the area for 1s.",
+      "flavor_text": null,
+      "cost": "100/150/200",
+      "cooldown": "30/25/20",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d95dd7c4b01c3a234a79ace93433a2c.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Esmeralda0",
+      "sequence": "Esmeralda3-Esmeralda1-Esmeralda2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, enter the fight using Esmeralda's Ultimate, then use her 1st Skill to gain Movement Speed and steal the shields of nearby enemies, before finishing them off with her 2nd Skill and Basic Attacks."
+    },
+    {
+      "id": "Esmeralda1",
+      "sequence": "Esmeralda1-Esmeralda2-AA-Esmeralda1-Esmeralda2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Esmeralda's 1st Skill to approach the enemy and hit them with her 2nd Skill followed by Basic Attacks. Her 1st Skill should be up again soon thanks to the CD reduction from her 2nd Skill, so use her 1st Skill again for Movement Speed and shields, and continue using her 2nd Skill and Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Esmeralda works best with heroes that can pull enemies together like Atlas and Tigreal to allow her to hit more targets with her Ultimate.",
+      "heroes": [
+        {
+          "id": 93,
+          "slug": "atlas",
+          "name": "Atlas"
+        },
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Esmeralda works well against heroes with shields, like Akai and Lolita, because her skills not only ignore their shields, but she also converts them into her own.",
+      "heroes": [
+        {
+          "id": 9,
+          "slug": "akai",
+          "name": "Akai"
+        },
+        {
+          "id": 20,
+          "slug": "lolita",
+          "name": "Lolita"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Esmeralda is countered by highly mobile Marksmen, such as Karrie and Lesley, because she lacks the burst damage to finish them off quickly and can't keep up with their mobility.",
+      "heroes": [
+        {
+          "id": 40,
+          "slug": "karrie",
+          "name": "Karrie"
+        },
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Esmeralda-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Esmeralda-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_980e6419f7763a9dd26818312d73cc6d.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_980e6419f7763a9dd26818312d73cc6d.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/esmeralda.json",
+    "visual_catalog": "catalog/v1/visual/esmeralda.json",
+    "upgrade_catalog": "catalog/v1/upgrade/esmeralda.json"
+  }
+}

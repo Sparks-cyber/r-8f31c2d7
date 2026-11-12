@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 20,
+    "slug": "lolita",
+    "name": "Lolita"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "lolita-community-6826",
+      "name": "Community Build 6826",
+      "lane": "Roam",
+      "equipment_ids": [
+        "toughboots",
+        "flaskoftheoasis",
+        "dominanceice",
+        "oracle",
+        "bloodwings",
+        "immortality"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "support",
+      "talent_ids": [
+        "inspire",
+        "pullyourselftogether",
+        "focusingmark"
+      ],
+      "situational_items": [],
+      "notes": "So good 👍",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6826,
+      "source_created_at": "2026-03-30T15:16:05.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lolita-community-5877",
+      "name": "Community Build 5877",
+      "lane": "Roam",
+      "equipment_ids": [
+        "warriorboots",
+        "thunderbelt",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "tenacity",
+        "firmness",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "Mi equipamiento comun que uso, claro que lo cambio dependiendo de la situacion pero esa es la base",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5877,
+      "source_created_at": "2026-02-20T21:51:44.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lolita-companion-baseline",
+      "name": "Companion Support/Tank Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

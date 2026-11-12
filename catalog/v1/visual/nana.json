@@ -1,0 +1,126 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "nana-backup",
+      "portrait_file": "Nana-Default.png",
+      "script_file": "Nana-Backup.zip",
+      "skin_name": "Sweet Leonin",
+      "splash_file": "Nana-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "nana-clockwork-maid",
+      "portrait_file": "Nana-Clockwork-Maid.png",
+      "script_file": "Nana-Clockwork-Maid.zip",
+      "skin_name": "Clockwork Maid",
+      "splash_file": "Nana-Clockwork-Maid.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "nana-graveyard-party",
+      "portrait_file": "Nana-Graveyard-Party.png",
+      "script_file": "Nana-Graveyard-Party.zip",
+      "skin_name": "Graveyard Party",
+      "splash_file": "Nana-Graveyard-Party.png",
+      "tag_id": "s1",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "nana-slumber-party",
+      "portrait_file": "Nana-Slumber-Party.png",
+      "script_file": "Nana-Slumber-Party.zip",
+      "skin_name": "Slumber Party",
+      "splash_file": "Nana-Slumber-Party.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "nana-wind-fairy",
+      "portrait_file": "Nana-Wind-Fairy.png",
+      "script_file": "Nana-Wind-Fairy.zip",
+      "skin_name": "Wind Fairy",
+      "splash_file": "Nana-Wind-Fairy.png",
+      "tag_id": "mpl",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "nana-mecha-baby",
+      "portrait_file": "Nana-Mecha-Baby.png",
+      "script_file": "Nana-Mecha-Baby.zip",
+      "skin_name": "Mecha Baby",
+      "splash_file": "Nana-Mecha-Baby.png",
+      "tag_id": "epic",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "nana-summer-fun",
+      "portrait_file": "Nana-Summer-Fun.png",
+      "script_file": "Nana-Summer-Fun.zip",
+      "skin_name": "Summer Fun",
+      "splash_file": "Nana-Summer-Fun.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "nana-aqua-pura",
+      "portrait_file": "Nana-Aqua-Pura.png",
+      "script_file": "Nana-Aqua-Pura.zip",
+      "skin_name": "Aqua Pura",
+      "splash_file": "Nana-Aqua-Pura.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "nana-cyclone-clash",
+      "portrait_file": "Nana-Cyclone-Clash.png",
+      "script_file": "Nana-Cyclone-Clash.zip",
+      "skin_name": "Cyclone Clash",
+      "splash_file": "Nana-Cyclone-Clash.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "nana-mistbender-nana",
+      "portrait_file": "Nana-Mistbender.png",
+      "script_file": "Nana-Mistbender-Nana.zip",
+      "skin_name": "Mistbender Nana",
+      "splash_file": "Nana-Mistbender-Nana.png",
+      "tag_id": "mistbenders",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "nana-stardust-dreamer",
+      "portrait_file": "Nana-Stardust-Dreamer.png",
+      "script_file": "Nana-Stardust-Dreamer.zip",
+      "skin_name": "Stardust Dreamer",
+      "splash_file": "Nana-Stardust-Dreamer.png",
+      "tag_id": "epic-10th",
+      "tier": "Deluxe"
+    }
+  ],
+  "hero": {
+    "id": 5,
+    "name": "Nana",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "nana"
+  },
+  "release_tag": "visual-nana",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

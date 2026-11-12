@@ -1,0 +1,358 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "johnson-airplane",
+      "portrait_file": "Johnson - Airplane.png",
+      "script_file": "Johnson-Airplane.zip",
+      "skin_name": "Airplane",
+      "splash_file": "Johnson - Airplane.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Memes & Novelty"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-balmond",
+      "portrait_file": "Johnson - Balmond.png",
+      "script_file": "Johnson-Balmond.zip",
+      "skin_name": "Balmond",
+      "splash_file": "Johnson - Balmond.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-balmond-ads",
+      "portrait_file": "Johnson - Balmond Ads.png",
+      "script_file": "Johnson-Balmond-Ads.zip",
+      "skin_name": "Balmond Ads",
+      "splash_file": "Johnson - Balmond Ads.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-bamblebee",
+      "portrait_file": "Johnson - Bamblebee.png",
+      "script_file": "Johnson-Bamblebee.zip",
+      "skin_name": "Bamblebee",
+      "splash_file": "Johnson - Bamblebee.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-banana-boat",
+      "portrait_file": "Johnson - Banana Boat.png",
+      "script_file": "Johnson-Banana-Boat.zip",
+      "skin_name": "Banana Boat",
+      "splash_file": "Johnson - Banana Boat.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-brimob",
+      "portrait_file": "Johnson - Brimob.png",
+      "script_file": "Johnson-Brimob.zip",
+      "skin_name": "Brimob",
+      "splash_file": "Johnson - Brimob.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-chibi",
+      "portrait_file": "Johnson - Chibi.png",
+      "script_file": "Johnson-Chibi.zip",
+      "skin_name": "Chibi",
+      "splash_file": "Johnson - Chibi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-chou-richkid",
+      "portrait_file": "Johnson - Chou Richkid.png",
+      "script_file": "Johnson-Chou-Richkid.zip",
+      "skin_name": "Chou Richkid",
+      "splash_file": "Johnson - Chou Richkid.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-cj-gta",
+      "portrait_file": "Johnson - CJ GTA.png",
+      "script_file": "Johnson-CJ-GTA.zip",
+      "skin_name": "CJ GTA",
+      "splash_file": "Johnson - CJ GTA.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-f15-eagle",
+      "portrait_file": "Johnson - F15 Eagle.png",
+      "script_file": "Johnson-F15-Eagle.zip",
+      "skin_name": "F15 Eagle",
+      "splash_file": "Johnson - F15 Eagle.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-gojek",
+      "portrait_file": "Johnson - Gojek.png",
+      "script_file": "Johnson-Gojek.zip",
+      "skin_name": "Gojek",
+      "splash_file": "Johnson - Gojek.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-horeg-demo",
+      "portrait_file": "Johnson - Horeg Demo.png",
+      "script_file": "Johnson-Horeg-Demo.zip",
+      "skin_name": "Horeg Demo",
+      "splash_file": "Johnson - Horeg Demo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-horeg-pocong",
+      "portrait_file": "Johnson - Horeg Pocong.png",
+      "script_file": "Johnson-Horeg-Pocong.zip",
+      "skin_name": "Horeg Pocong",
+      "splash_file": "Johnson - Horeg Pocong.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-koboom",
+      "portrait_file": "Johnson - Koboom.png",
+      "script_file": "Johnson-Koboom.zip",
+      "skin_name": "Koboom",
+      "splash_file": "Johnson - Koboom.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-megatron",
+      "portrait_file": "Johnson - Megatron.png",
+      "script_file": "Johnson-Megatron.zip",
+      "skin_name": "Megatron",
+      "splash_file": "Johnson - Megatron.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-mr-bean",
+      "portrait_file": "Johnson - MR Bean.png",
+      "script_file": "Johnson-MR-Bean.zip",
+      "skin_name": "MR Bean",
+      "splash_file": "Johnson - MR Bean.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-naruto",
+      "portrait_file": "Johnson - Naruto.png",
+      "script_file": "Johnson-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Johnson - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-ocong",
+      "portrait_file": "Johnson - Ocong.png",
+      "script_file": "Johnson-Ocong.zip",
+      "skin_name": "Ocong",
+      "splash_file": "Johnson - Ocong.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-paquito-rocketman",
+      "portrait_file": "Johnson - Paquito Rocketman.png",
+      "script_file": "Johnson-Paquito-Rocketman.zip",
+      "skin_name": "Paquito Rocketman",
+      "splash_file": "Johnson - Paquito Rocketman.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-pedicab",
+      "portrait_file": "Johnson - Pedicab.png",
+      "script_file": "Johnson-Pedicab.zip",
+      "skin_name": "Pedicab",
+      "splash_file": "Johnson - Pedicab.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-philippine-jeepney",
+      "portrait_file": "Johnson - Philippine Jeepney.png",
+      "script_file": "Johnson-Philippine-Jeepney.zip",
+      "skin_name": "Philippine Jeepney",
+      "splash_file": "Johnson - Philippine Jeepney.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-pou",
+      "portrait_file": "Johnson - Pou.png",
+      "script_file": "Johnson-Pou.zip",
+      "skin_name": "Pou",
+      "splash_file": "Johnson - Pou.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-roger-and-moskov",
+      "portrait_file": "Johnson - Roger & Moskov.png",
+      "script_file": "Johnson-Roger-Moskov.zip",
+      "skin_name": "Roger & Moskov",
+      "splash_file": "Johnson - Roger & Moskov.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-scooter",
+      "portrait_file": "Johnson - Scooter.png",
+      "script_file": "Johnson-Scooter.zip",
+      "skin_name": "Scooter",
+      "splash_file": "Johnson - Scooter.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-street-vendor",
+      "portrait_file": "Johnson - Street Vendor.png",
+      "script_file": "Johnson-Street-Vendor.zip",
+      "skin_name": "Street Vendor",
+      "splash_file": "Johnson - Street Vendor.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-train-legend",
+      "portrait_file": "Johnson - Train Legend.png",
+      "script_file": "Johnson-Train-Legend.zip",
+      "skin_name": "Train Legend",
+      "splash_file": "Johnson - Train Legend.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-truck",
+      "portrait_file": "Johnson - Truck.png",
+      "script_file": "Johnson-Truck.zip",
+      "skin_name": "Truck",
+      "splash_file": "Johnson - Truck.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-truck-kontainer",
+      "portrait_file": "Johnson - Truck Kontainer.png",
+      "script_file": "Johnson-Truck-Kontainer.zip",
+      "skin_name": "Truck Kontainer",
+      "splash_file": "Johnson - Truck Kontainer.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-ultraman",
+      "portrait_file": "Johnson - Ultraman.png",
+      "script_file": "Johnson-Ultraman.zip",
+      "skin_name": "Ultraman",
+      "splash_file": "Johnson - Ultraman.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Movies & TV"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-wheelchair",
+      "portrait_file": "Johnson - Wheelchair.png",
+      "script_file": "Johnson-Wheelchair.zip",
+      "skin_name": "Wheelchair",
+      "splash_file": "Johnson - Wheelchair.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Memes & Novelty"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-yacht",
+      "portrait_file": "Johnson - Yacht.png",
+      "script_file": "Johnson-Yacht.zip",
+      "skin_name": "Yacht",
+      "splash_file": "Johnson - Yacht.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 32,
+    "name": "Johnson",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "slug": "johnson"
+  },
+  "release_tag": "custom-johnson",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

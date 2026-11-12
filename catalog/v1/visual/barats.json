@@ -1,0 +1,87 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "barats-backup",
+      "portrait_file": "Barats-Default.png",
+      "script_file": "Barats-Backup.zip",
+      "skin_name": "Dino Rider",
+      "splash_file": "Barats-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "barats-armored-lizard",
+      "portrait_file": "Barats-Armored-Lizard.png",
+      "script_file": "Barats-Armored-Lizard.zip",
+      "skin_name": "Armored Lizard",
+      "splash_file": "Barats-Armored-Lizard.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "barats-toy-rex",
+      "portrait_file": "Barats-Toy-Rex.png",
+      "script_file": "Barats-Toy-Rex.zip",
+      "skin_name": "Toy Rex",
+      "splash_file": "Barats-Toy-Rex.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "barats-baratstein",
+      "portrait_file": "Barats-Baratstein.png",
+      "script_file": "Barats-Baratstein.zip",
+      "skin_name": "Baratstein",
+      "splash_file": "Barats-Baratstein.png",
+      "tag_id": "halloween",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "barats-war-chief",
+      "portrait_file": "Barats-War-Chief.png",
+      "script_file": "Barats-War-Chief.zip",
+      "skin_name": "War Chief",
+      "splash_file": "Barats-War-Chief.png",
+      "tag_id": "s26",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "barats-sunken-predator",
+      "portrait_file": "Barats-Sunken-Predator.png",
+      "script_file": "Barats-Sunken-Predator.zip",
+      "skin_name": "Sunken Predator",
+      "splash_file": "Barats-Sunken-Predator.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "barats-scalding-predator-painted-01",
+      "portrait_file": "Barats-Scalding-Predator.png",
+      "script_file": "Barats-Scalding-Predator.zip",
+      "skin_name": "Scalding Predator",
+      "splash_file": "Barats-Scalding-Predator.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 99,
+    "name": "Barats",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "slug": "barats"
+  },
+  "release_tag": "visual-barats",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

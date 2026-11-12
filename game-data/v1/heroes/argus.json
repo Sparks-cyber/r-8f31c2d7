@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 45,
+    "slug": "argus",
+    "name": "Argus",
+    "skin_name": "Dark Angel",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "region": "Abyss",
+    "release_date": "2017",
+    "resource": null,
+    "short_description": "The angel who fell from light into darkness.",
+    "brief": "Argus and Rafaela are a pair of twin angels. Yet the angels of legend are all female, making Argus something of an outcast. While the Monastery of Light utilizes his powers to eradicate all heresy, it's never even acknowledged his existence. While Argus despises humankind, holding it in the utmost disdain, he once came into possession of a demonic blade in the midst of a battle and at that moment realized that he too was a son of man. That he was orphaned when his parents were slain by other humans. Under the demonic blade's curse he was overcome by resentment, falling into a demonic state himself as he became the Dark Angel.",
+    "story": "Argus and his sister, Rafaela, were raised by their mother. Both children were blessed with flawless looks and a promising bloodline; yet in these lands, he as treated very differently to his sister.\n\nExaltation, flowers, glory and respect…\n\nArgus was never accepted, instead rejected from the day of his birth. This was all down to the age-old legend that pervaded the Land of Dawn, dictating that all angels were female–moreover, that those chosen by the Lord of Light to birth angels could only give birth to baby girls. Argus’ identity and origins were matters buried secret by the Monastery of Light, kept even from Argus himself.\n\nTo upload its orthodoxy, the Sacrists tasked with maintaining the Monastery of Light’s legitimacy acted with incredible unity: taking Rafaela as a representative who would face the masses, while Argus was kept hidden in the shadows, never to be a representative of the Light, barred from the glory so rightfully his.\n\nAll those who strove to maintain this twisted orthodoxy were split between a fear that Argus would grow to become an outcast, and yearning for the power he held. Without exception, every single one longed that this young man with the Lord of Light’s bloodline flowing in his veins could be at one with his sister, to resist the power of the Abyss.\n\nIn fact, Argus’ faith in the Light held strong for many years, just as resilient as that old his sister Rafaela. He cherished her, and cared little as to who of them bathed in more glory: for Argus, its significance would always pale in comparison to the importance of defending what’s right. Nonetheless, there always a matter of contention between the sibling: their attitudes toward humanity.\n\nWith the end of Golden Era, a monstrous Abyssal fissure had once more been rent within the Land of Dawn, and from its depths dark energies surged forth again. It was the general belief that the abyssal demons were behind it all, a notion shared by Rafaela, and she blamed all demonkind and the Abyss for woes of the world. Argus, on the other hand, begged to differ. In his eyes it was humankind who were to blame for the Endless War’s resurgence, for their chaos and malice presented the demons with an opportunity they then exploited. Argus sneered at the thought of associating with humankind, forever holding them in bitter contempt.\n\nRafaela was always prone to forgive those humans who strayed from the path of righteousness, as she believed they could change and be bathed in the Light once more. In stark contrast, Argus considered such people as naught but lost causes, dead leaves on the tree of mortality to be pruned before they tainted the trunk. It was precisely this division between the two siblings that exacerbated the fear others held in him.\n\nOne day upon the battlefield, Argus set after a horde of demons that fled his pursuit. His sister had urged him to fall back instead, yet he valiantly forged onward. It was then that he was snared in the abyssal demons’ trap, and they set upon him in an ambush, but he felt no fear at all. On the contrary, he exploited this ambush to his advantage.\n\nArgus’ keen mind was just as formidable as his physical strength, and with it he turned the tables on his foes by allowing himself to be taken deep into their camp. He wiped out a huge chunk of their number, both demons and the humans that sided with them. Before setting off once more he decided to steal away the legendary demonic sword that was kept in the area, but as he grasped its hilt a barrage of strange memories surged into his mind–\n\nSoft rays of moonlight and the aroma of flowers caress a man and a woman as they exchange vows. But a second later, she’s swept away by a number of Sacrists who hold her down, forcing her to imbibe holy water.\n\nFrom that day forth she becomes pregnant, her belly swelling by the day. As she grows in size, her face grows ever more haggard. She longs for her lovers, yearns for innocent times past. Two years into the three years of pregnancy one must pass through to bear the Lord of Light’s child, she can finally take it no more; she flees from the Monastery of Light into the arms of her long-lost lover, and they live happily together. For a time.\n\nSuch blissful content is all too often short-lived. The Sacrists track the couple down, and slay the man where he stands: for in the eyes of the orthodoxy, he has stained the sacred bloodline of the Lord of Light. With this they take the woman back to the Monastery.\n\nShe is consumed by pure despair, wishing only to join her lover to death. However, each attempt to take her life is quickly shut down. A year later she dies from the exertion of child birth, but leaves behind twins–a boy and a girl. The newborn girl glows with a holy luminance from head to toe, yet the eyes of the boy bear a striking resemblance to his late mother’s lover.\n\nThe Sacrists prepare to end the boy’s life. Yet just as they move to do so, he’s engulfed in a radiant glow that emanates from his sister, and they cannot leave a single scratch upon him. It’s seen as a miracle by the Sacrists, a belief strengthened by the fact the infant boy holds a power just as strong as his sister’s. they never raise a hand against him again.\n\nIt was then that the memories came to a sharp halt, and Argus came to. He finally understood why the Monastery of Light had endeavored to cover up his true identity; he finally realized why he was the only male angel.\n\nFor he was no holy being, but instead, a member of those he detested the most: a son of man. Furthermore, his fellow humans had known of this and hence slain his parents to exploit his power as their own. They had stolen from him.\n\nDemonic sword in hand, he ignored the pleadings of his sister and left her behind.\n\nLittle did he know that the reason his blade possessed such a monumental power, the reason it imparted those lost memories to him, was because it was cursed by the God of Destruction: Cyd. His mind was tainted by this malevolent curse, awakening within him a cruel brutality. Argus was driven by his own rage.\n\nArgus focused his seething fury upon all of mankind, and when Rafaela came for him once more several months later, she was faced with a fearful sight. His graceful wings in all their shimmering radiance were nowhere to be seen. Instead, there sprouted from his back a pair of dark wings that emanated forth a crashing aura of darkness and despair.\n\nIt seemed to her that Argus had, for reasons unknown, lost himself to the darkness, welcomed its embrace. Countless humans had been slaughtered by his hand. Despite all of this. He was still her flesh and blood, her brother: and she couldn’t bear to raise her sword against him.\n\nEach sibling watched the other from afar. Argus knew that having learned the truth of his past, there was no way he could ever go back. He clenched his demonic blade tight, turning and leaving her behind.\n\nThe angel had abandoned all he once had. And so holiness severed its bond with him forever.\n\nOnce, human blood had flown within him, and he was blessed by the Gods themselves, once, he had lived for naught but the Light, for peace. From that day on, however, it was an endless curse that accompanied him instead, a fated curse bequeathed by the God of Destruction.\n\nNow, he’s Argus: the only Dark Angel in this world.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 7,
+    "offense": 5,
+    "control": 5,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2600,
+    "health_growth": 183,
+    "health_regen": 8.0,
+    "health_regen_growth": 0.4,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 120,
+    "physical_attack_growth": 8.0,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.09,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 1.9
+  },
+  "abilities": [
+    {
+      "id": "Argus0",
+      "name": "Warmonger",
+      "description": "When Argus' Meteoric Sword reaches 100 <highlight>Malice Energy</highlight>, his next Basic Attack unleashes <highlight>Demonic Slash</highlight>, dealing 80<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and recovering 100<scaleAD> (+10% Total Physical Attack)</scaleAD> HP.<br/>This attack ignores 30% of the target's Physical Defense.<br/><br/>Argus's Meteoric Sword gains 5 <highlight>Malice Energy</highlight> per second and 25 Energy per Basic Attack (critical strikes grant an additional 25 Energy). The Energy cap is 200. Each <highlight>Demonic Slash</highlight> consumes 100 Energy.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f8a28cd195d4ec474f361daee0d0de6c.png",
+      "video_url": null
+    },
+    {
+      "id": "Argus1",
+      "name": "Demonic Grip",
+      "description": "<highlight>First Cast</highlight>: Argus stretches out a demonic hand in the target direction, dealing 125/150/175/200/225/250<scaleAD> (+60% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the first enemy hero or creep hit, stunning them for 0.7s. Both Argus and the target are pulled toward each other, then the target is slowed by 40% for 2s.<br/>If no enemy is hit, Argus pulls himself toward the hand's destination instead.<br/><br/><highlight>Use Again</highlight>: Argus dashes and performs a wide slash, dealing 175/200/225/250/275/300<scaleAD> (+100% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Debuff",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b90caeb8b5854f2585f4c9af760e026a.png",
+      "video_url": null
+    },
+    {
+      "id": "Argus2",
+      "name": "Meteoric Sword",
+      "description": "After a short charge, Argus thrusts his Meteoric Sword in the target direction, dealing 60/84/108/132/156/180<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. The charge time decreases as Attack Speed increases.<br/>If an enemy hero is hit, he immediately gains 100 <highlight>Malice Energy</highlight> and becomes enhanced for 3s.<br/><br/>While enhanced, he gains 30% Attack Speed, and <highlight>Demonic Slash</highlight> restores 50 <highlight>Malice Energy</highlight>.<br/><br/><diminish>Meteoric Sword counts as a Basic Attack, can trigger Attack Effects, and can Crit.</diminish>",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79110528884ec6365c2e9395dc1bc11b.png",
+      "video_url": null
+    },
+    {
+      "id": "Argus3",
+      "name": "Eternal Evil",
+      "description": "Argus removes all control effects, dealing 150/225/300<scaleAD> (+50% Total Physical Attack)</scaleAD> <scaleAD>Physical Attack</scaleAD> to nearby enemies and gaining <highlight>Death Immunity</highlight> for 4s. When the state ends, he converts all damage dealt to heroes during this duration into HP.<br/>Passive: If Argus takes fatal damage while <highlight>Eternal Evil</highlight> is not on cooldown, <highlight>Eternal Evil</highlight> triggers automatically but only grants <highlight>Death Immunity</highlight> for 3s.",
+      "flavor_text": "Battlefield is my playground and I think nothing of life and death.",
+      "cost": null,
+      "cooldown": "42/38.5/35",
+      "tags": [
+        {
+          "name": "Death Immunity",
+          "rgb": "177,157,96"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_41fe2a5e02169da266ce942372ad1e91.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Argus0",
+      "sequence": "Argus1-Argus2-AA-Argus1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Argus's 1st Skill to close in on the opponent and slow them with his 2nd Skill while hitting with Basic Attacks. If the enemy tries to run, use the second cast of his 1st Skill to chase."
+    },
+    {
+      "id": "Argus1",
+      "sequence": "Argus1-Argus1-Argus2-AA-Argus3-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Argus's 1st Skill to pull himself towards the enemy formation, then use the skill again to dash into their backline. Next, slow the enemy with his 2nd Skill and use Basic Attacks until his HP is low, then pop his Ultimate and continue the assault with Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Argus works well with utility Supports like Angela and Rafaela who can provide extra Movement Speed and CC to allow Argus to stick to his targets and dish out maximum damage.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Argus counters heroes with poor mobility who cannot escape his attacks once he closes in, such as Gord and Aurora.",
+      "heroes": [
+        {
+          "id": 23,
+          "slug": "gord",
+          "name": "Gord"
+        },
+        {
+          "id": 36,
+          "slug": "aurora",
+          "name": "Aurora"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Argus is countered by Tanks with high Physical Defense, like Gatotkaca and Tigreal, because a lot of his damage comes from Basic Attacks.",
+      "heroes": [
+        {
+          "id": 41,
+          "slug": "gatotkaca",
+          "name": "Gatotkaca"
+        },
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Argus-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Argus-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_802afa50ffd43d553c3b924d111249c1.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_802afa50ffd43d553c3b924d111249c1.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/argus.json",
+    "visual_catalog": "catalog/v1/visual/argus.json",
+    "upgrade_catalog": "catalog/v1/upgrade/argus.json"
+  }
+}

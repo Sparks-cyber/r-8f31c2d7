@@ -1,0 +1,743 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Lancelot",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Super Sword",
+      "Splash_url": "Lancelot-Super-Sword.png",
+      "script": "Lancelot-Super-Sword-Backup.zip",
+      "Portrait_url": "Lancelot-Super-Sword.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Super-Sword-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Super-Sword-Dark-Earl.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Super-Sword-Swordmaster.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Super-Sword-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Super-Sword-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Super-Sword-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Lancelot-Christmas-Carnival.png",
+      "script": "Lancelot-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Lancelot-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Christmas-Carnival-Super-Sword.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Christmas-Carnival-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Christmas-Carnival-Dark-Earl.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Christmas-Carnival-Floral-Knight.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Christmas-Carnival-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Christmas-Carnival-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Christmas-Carnival-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Christmas-Carnival-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Christmas-Carnival-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Royal Matador",
+      "Splash_url": "Lancelot-Royal-Matador.png",
+      "script": "Lancelot-Royal-Matador-Backup.zip",
+      "Portrait_url": "Lancelot-Royal-Matador.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Royal-Matador-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Royal-Matador-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Royal-Matador-Dark-Earl.zip"
+        },
+        {
+          "name": "Pisces",
+          "Portrait_url": "Lancelot-Pisces.png",
+          "Splash_url": "Lancelot-Pisces.png",
+          "script": "Lancelot-Royal-Matador-Pisces.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Royal-Matador-Floral-Knight.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Royal-Matador-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Royal-Matador-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Royal-Matador-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Royal-Matador-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Royal-Matador-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dark Earl",
+      "Splash_url": "Lancelot-Dark-Earl.png",
+      "script": "Lancelot-Dark-Earl-Backup.zip",
+      "Portrait_url": "Lancelot-Dark-Earl.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Dark-Earl-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Dark-Earl-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Dark-Earl-Royal-Matador.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Dark-Earl-Floral-Knight.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Dark-Earl-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Dark-Earl-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Dark-Earl-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Dark-Earl-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Dark-Earl-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Pisces",
+      "Splash_url": "Lancelot-Pisces.png",
+      "script": "Lancelot-Pisces-Backup.zip",
+      "Portrait_url": "Lancelot-Pisces.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Pisces-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Pisces-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Pisces-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Pisces-Dark-Earl.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Pisces-Floral-Knight.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Pisces-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Pisces-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Pisces-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Pisces-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Pisces-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Floral Knight",
+      "Splash_url": "Lancelot-Floral-Knight.png",
+      "script": "Lancelot-Floral-Knight-Backup.zip",
+      "Portrait_url": "Lancelot-Floral-Knight.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Floral-Knight-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Floral-Knight-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Floral-Knight-Dark-Earl.zip"
+        },
+        {
+          "name": "Pisces",
+          "Portrait_url": "Lancelot-Pisces.png",
+          "Splash_url": "Lancelot-Pisces.png",
+          "script": "Lancelot-Floral-Knight-Pisces.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Floral-Knight-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Floral-Knight-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Floral-Knight-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Floral-Knight-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Floral-Knight-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dawning Stars",
+      "Default_name": "Swordmaster",
+      "Splash_url": "Lancelot-Swordmaster.png",
+      "script": "Lancelot-Swordmaster-Backup.zip",
+      "Portrait_url": "Lancelot-Swordmaster.png",
+      "Tags": [
+        "Dawning Stars.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Swordmaster-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Swordmaster-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Swordmaster-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Swordmaster-Dark-Earl.zip"
+        },
+        {
+          "name": "Pisces",
+          "Portrait_url": "Lancelot-Pisces.png",
+          "Splash_url": "Lancelot-Pisces.png",
+          "script": "Lancelot-Swordmaster-Pisces.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Swordmaster-Floral-Knight.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Swordmaster-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Swordmaster-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Swordmaster-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Swordmaster-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "Default_name": "Bren Esports",
+      "Splash_url": "Lancelot-Bren-Esports.png",
+      "script": "Lancelot-Bren-Esports-Backup.zip",
+      "Portrait_url": "Lancelot-Bren-Esports.png",
+      "Tags": [
+        "Champion.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Bren-Esports-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Bren-Esports-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Bren-Esports-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Bren-Esports-Dark-Earl.zip"
+        },
+        {
+          "name": "Pisces",
+          "Portrait_url": "Lancelot-Pisces.png",
+          "Splash_url": "Lancelot-Pisces.png",
+          "script": "Lancelot-Bren-Esports-Pisces.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Bren-Esports-Swordmaster.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Bren-Esports-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Bren-Esports-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Bren-Esports-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Tamer",
+      "Default_name": "Empyrean Flame",
+      "Splash_url": "Lancelot-Empyrean-Flame.png",
+      "script": "Lancelot-Empyrean-Flame-Backup.zip",
+      "Portrait_url": "Lancelot-Empyrean-Flame.png",
+      "Tags": [
+        "Dragon Tamer.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Empyrean-Flame-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Empyrean-Flame-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Empyrean-Flame-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Empyrean-Flame-Dark-Earl.zip"
+        },
+        {
+          "name": "Pisces",
+          "Portrait_url": "Lancelot-Pisces.png",
+          "Splash_url": "Lancelot-Pisces.png",
+          "script": "Lancelot-Empyrean-Flame-Pisces.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Empyrean-Flame-Floral-Knight.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Empyrean-Flame-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Empyrean-Flame-Bren-Esports.zip"
+        },
+        {
+          "name": "Marques of Blades",
+          "Portrait_url": "Lancelot-Marques-of-Blades.png",
+          "Splash_url": "Lancelot-Marques-of-Blades.png",
+          "script": "Lancelot-Empyrean-Flame-Marques-of-Blades.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Empyrean-Flame-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Marques of Blades",
+      "Splash_url": "Lancelot-Marques-of-Blades.png",
+      "script": "Lancelot-Marques-of-Blades-Backup.zip",
+      "Portrait_url": "Lancelot-Marques-of-Blades.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Marques-of-Blades-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Marques-of-Blades-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Marques-of-Blades-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Marques-of-Blades-Dark-Earl.zip"
+        },
+        {
+          "name": "Pisces",
+          "Portrait_url": "Lancelot-Pisces.png",
+          "Splash_url": "Lancelot-Pisces.png",
+          "script": "Lancelot-Marques-of-Blades-Pisces.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Marques-of-Blades-Floral-Knight.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Marques-of-Blades-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Marques-of-Blades-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Marques-of-Blades-Empyrean-Flame.zip"
+        },
+        {
+          "name": "Guardian of the Shrine",
+          "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+          "script": "Lancelot-Marques-of-Blades-Guardian-of-the-Shrine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Kishin Densetsu",
+      "Default_name": "Guardian of the Shrine",
+      "Splash_url": "Lancelot-Guardian-of-the-Shrine.png",
+      "script": "Lancelot-Guardian-of-the-Shrine-Backup.zip",
+      "Portrait_url": "Lancelot-Guardian-of-the-Shrine.png",
+      "Tags": [
+        "Kishin Densetsu.png"
+      ],
+      "targets": [
+        {
+          "name": "Super Sword",
+          "Portrait_url": "Lancelot-Super-Sword.png",
+          "Splash_url": "Lancelot-Super-Sword.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Super-Sword.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Lancelot-Christmas-Carnival.png",
+          "Splash_url": "Lancelot-Christmas-Carnival.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Royal Matador",
+          "Portrait_url": "Lancelot-Royal-Matador.png",
+          "Splash_url": "Lancelot-Royal-Matador.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Royal-Matador.zip"
+        },
+        {
+          "name": "Dark Earl",
+          "Portrait_url": "Lancelot-Dark-Earl.png",
+          "Splash_url": "Lancelot-Dark-Earl.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Dark-Earl.zip"
+        },
+        {
+          "name": "Pisces",
+          "Portrait_url": "Lancelot-Pisces.png",
+          "Splash_url": "Lancelot-Pisces.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Pisces.zip"
+        },
+        {
+          "name": "Floral Knight",
+          "Portrait_url": "Lancelot-Floral-Knight.png",
+          "Splash_url": "Lancelot-Floral-Knight.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Floral-Knight.zip"
+        },
+        {
+          "name": "Swordmaster",
+          "Portrait_url": "Lancelot-Swordmaster.png",
+          "Splash_url": "Lancelot-Swordmaster.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Swordmaster.zip"
+        },
+        {
+          "name": "Bren Esports",
+          "Portrait_url": "Lancelot-Bren-Esports.png",
+          "Splash_url": "Lancelot-Bren-Esports.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Bren-Esports.zip"
+        },
+        {
+          "name": "Empyrean Flame",
+          "Portrait_url": "Lancelot-Empyrean-Flame.png",
+          "Splash_url": "Lancelot-Empyrean-Flame.png",
+          "script": "Lancelot-Guardian-of-the-Shrine-Empyrean-Flame.zip"
+        }
+      ]
+    }
+  ]
+}

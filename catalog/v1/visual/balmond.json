@@ -1,0 +1,126 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "balmond-backup",
+      "portrait_file": "Balmond-Default.png",
+      "script_file": "Balmond-Backup.zip",
+      "skin_name": "Bloody Beast",
+      "splash_file": "Balmond-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-power-source",
+      "portrait_file": "Balmond-Power-Source.png",
+      "script_file": "Balmond-Power-Source.zip",
+      "skin_name": "Power Source",
+      "splash_file": "Balmond-Power-Source.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-ghoul-s-fury",
+      "portrait_file": "Balmond-Ghoul-s-Fury.png",
+      "script_file": "Balmond-Ghoul-s-Fury.zip",
+      "skin_name": "Ghoul's Fury",
+      "splash_file": "Balmond-Ghoul-s-Fury.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-savage-hunter",
+      "portrait_file": "Balmond-Savage-Hunter.png",
+      "script_file": "Balmond-Savage-Hunter.zip",
+      "skin_name": "Savage Hunter",
+      "splash_file": "Balmond-Savage-Hunter.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-god-of-mountains",
+      "portrait_file": "Balmond-God-of-Mountains.png",
+      "script_file": "Balmond-God-of-Mountains.zip",
+      "skin_name": "God of Mountains",
+      "splash_file": "Balmond-God-of-Mountains.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-savage-pointguard",
+      "portrait_file": "Balmond-Savage-Pointguard.png",
+      "script_file": "Balmond-Savage-Pointguard.zip",
+      "skin_name": "Savage Pointguard",
+      "splash_file": "Balmond-Savage-Pointguard.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-bioroid",
+      "portrait_file": "Balmond-Bioroid.png",
+      "script_file": "Balmond-Bioroid.zip",
+      "skin_name": "Bioroid",
+      "splash_file": "Balmond-Bioroid.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-infernal-warlord",
+      "portrait_file": "Balmond-Infernal-Warlord.png",
+      "script_file": "Balmond-Infernal-Warlord.zip",
+      "skin_name": "Infernal Warlord",
+      "splash_file": "Balmond-Infernal-Warlord.png",
+      "tag_id": "epic",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-razor-edge",
+      "portrait_file": "Balmond-Razor-Edge.png",
+      "script_file": "Balmond-Razor-Edge.zip",
+      "skin_name": "Razor Edge",
+      "splash_file": "Balmond-Razor-Edge.png",
+      "tag_id": "epic",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-mighty-pointguard",
+      "portrait_file": "Balmond-Mighty-Pointguard.png",
+      "script_file": "Balmond-Mighty-Pointguard.zip",
+      "skin_name": "Mighty Pointguard",
+      "splash_file": "Balmond-Mighty-Pointguard.png",
+      "tag_id": "starlight-star",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-vulcan-lionheart",
+      "portrait_file": "Balmond-Vulcan-Lionheart.png",
+      "script_file": "Balmond-Vulcan-Lionheart.zip",
+      "skin_name": "Vulcan Lionheart",
+      "splash_file": "Balmond-Vulcan-Lionheart.png",
+      "tag_id": "collector",
+      "tier": "Exquisite"
+    }
+  ],
+  "hero": {
+    "id": 2,
+    "name": "Balmond",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "balmond"
+  },
+  "release_tag": "visual-balmond",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

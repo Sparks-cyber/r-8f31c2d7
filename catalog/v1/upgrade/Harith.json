@@ -1,0 +1,479 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Harith",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Savannah Cat",
+      "Splash_url": "Harith-Savannah-Cat.png",
+      "script": "Harith-Savannah-Cat-Backup.zip",
+      "Portrait_url": "Harith-Savannah-Cat.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Stardust",
+          "Portrait_url": "Harith-Stardust.png",
+          "Splash_url": "Harith-Stardust.png",
+          "script": "Harith-Savannah-Cat-Stardust.zip"
+        },
+        {
+          "name": "Fashion Expert",
+          "Portrait_url": "Harith-Fashion-Expert.png",
+          "Splash_url": "Harith-Fashion-Expert.png",
+          "script": "Harith-Savannah-Cat-Fashion-Expert.zip"
+        },
+        {
+          "name": "Lightborn - Inspirer",
+          "Portrait_url": "Harith-Lightborn-Inspirer.png",
+          "Splash_url": "Harith-Lightborn-Inspirer.png",
+          "script": "Harith-Savannah-Cat-Lightborn-Inspirer.zip"
+        },
+        {
+          "name": "EVOS Legends",
+          "Portrait_url": "Harith-EVOS-Legends.png",
+          "Splash_url": "Harith-EVOS-Legends.png",
+          "script": "Harith-Savannah-Cat-EVOS-Legends.zip"
+        },
+        {
+          "name": "Psychic",
+          "Portrait_url": "Harith-Psychic.png",
+          "Splash_url": "Harith-Psychic.png",
+          "script": "Harith-Savannah-Cat-Psychic.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Harith-Christmas-Carnival.png",
+          "Splash_url": "Harith-Christmas-Carnival.png",
+          "script": "Harith-Savannah-Cat-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Killua",
+          "Portrait_url": "Harith-Killua.png",
+          "Splash_url": "Harith-Killua.png",
+          "script": "Harith-Savannah-Cat-Killua.zip"
+        },
+        {
+          "name": "Wayfarer",
+          "Portrait_url": "Harith-Wayfarer.png",
+          "Splash_url": "Harith - Wayfarer.jpg",
+          "script": "Harith-Savannah-Cat-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Stardust",
+      "Splash_url": "Harith-Stardust.png",
+      "script": "Harith-Stardust-Backup.zip",
+      "Portrait_url": "Harith-Stardust.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Savannah Cat",
+          "Portrait_url": "Harith-Savannah-Cat.png",
+          "Splash_url": "Harith-Savannah-Cat.png",
+          "script": "Harith-Stardust-Savannah-Cat.zip"
+        },
+        {
+          "name": "Fashion Expert",
+          "Portrait_url": "Harith-Fashion-Expert.png",
+          "Splash_url": "Harith-Fashion-Expert.png",
+          "script": "Harith-Stardust-Fashion-Expert.zip"
+        },
+        {
+          "name": "Lightborn - Inspirer",
+          "Portrait_url": "Harith-Lightborn-Inspirer.png",
+          "Splash_url": "Harith-Lightborn-Inspirer.png",
+          "script": "Harith-Stardust-Lightborn-Inspirer.zip"
+        },
+        {
+          "name": "EVOS Legends",
+          "Portrait_url": "Harith-EVOS-Legends.png",
+          "Splash_url": "Harith-EVOS-Legends.png",
+          "script": "Harith-Stardust-EVOS-Legends.zip"
+        },
+        {
+          "name": "Psychic",
+          "Portrait_url": "Harith-Psychic.png",
+          "Splash_url": "Harith-Psychic.png",
+          "script": "Harith-Stardust-Psychic.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Harith-Christmas-Carnival.png",
+          "Splash_url": "Harith-Christmas-Carnival.png",
+          "script": "Harith-Stardust-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Killua",
+          "Portrait_url": "Harith-Killua.png",
+          "Splash_url": "Harith-Killua.png",
+          "script": "Harith-Stardust-Killua.zip"
+        }
+      ]
+    },
+    {
+      "name": "515",
+      "Default_name": "Fashion Expert",
+      "Splash_url": "Harith-Fashion-Expert.png",
+      "script": "Harith-Fashion-Expert-Backup.zip",
+      "Portrait_url": "Harith-Fashion-Expert.png",
+      "Tags": [
+        "515.png"
+      ],
+      "targets": [
+        {
+          "name": "Savannah Cat",
+          "Portrait_url": "Harith-Savannah-Cat.png",
+          "Splash_url": "Harith-Savannah-Cat.png",
+          "script": "Harith-Fashion-Expert-Savannah-Cat.zip"
+        },
+        {
+          "name": "Stardust",
+          "Portrait_url": "Harith-Stardust.png",
+          "Splash_url": "Harith-Stardust.png",
+          "script": "Harith-Fashion-Expert-Stardust.zip"
+        },
+        {
+          "name": "Lightborn - Inspirer",
+          "Portrait_url": "Harith-Lightborn-Inspirer.png",
+          "Splash_url": "Harith-Lightborn-Inspirer.png",
+          "script": "Harith-Fashion-Expert-Lightborn-Inspirer.zip"
+        },
+        {
+          "name": "EVOS Legends",
+          "Portrait_url": "Harith-EVOS-Legends.png",
+          "Splash_url": "Harith-EVOS-Legends.png",
+          "script": "Harith-Fashion-Expert-EVOS-Legends.zip"
+        },
+        {
+          "name": "Psychic",
+          "Portrait_url": "Harith-Psychic.png",
+          "Splash_url": "Harith-Psychic.png",
+          "script": "Harith-Fashion-Expert-Psychic.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Harith-Christmas-Carnival.png",
+          "Splash_url": "Harith-Christmas-Carnival.png",
+          "script": "Harith-Fashion-Expert-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Killua",
+          "Portrait_url": "Harith-Killua.png",
+          "Splash_url": "Harith-Killua.png",
+          "script": "Harith-Fashion-Expert-Killua.zip"
+        },
+        {
+          "name": "Wayfarer",
+          "Portrait_url": "Harith-Wayfarer.png",
+          "Splash_url": "Harith - Wayfarer.jpg",
+          "script": "Harith-Fashion-Expert-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lightborn",
+      "Default_name": "Lightborn - Inspirer",
+      "Splash_url": "Harith-Lightborn-Inspirer.png",
+      "script": "Harith-Lightborn-Inspirer-Backup.zip",
+      "Portrait_url": "Harith-Lightborn-Inspirer.png",
+      "Tags": [
+        "Lightborn.png"
+      ],
+      "targets": [
+        {
+          "name": "Savannah Cat",
+          "Portrait_url": "Harith-Savannah-Cat.png",
+          "Splash_url": "Harith-Savannah-Cat.png",
+          "script": "Harith-Lightborn-Inspirer-Savannah-Cat.zip"
+        },
+        {
+          "name": "Stardust",
+          "Portrait_url": "Harith-Stardust.png",
+          "Splash_url": "Harith-Stardust.png",
+          "script": "Harith-Lightborn-Inspirer-Stardust.zip"
+        },
+        {
+          "name": "Fashion Expert",
+          "Portrait_url": "Harith-Fashion-Expert.png",
+          "Splash_url": "Harith-Fashion-Expert.png",
+          "script": "Harith-Lightborn-Inspirer-Fashion-Expert.zip"
+        },
+        {
+          "name": "EVOS Legends",
+          "Portrait_url": "Harith-EVOS-Legends.png",
+          "Splash_url": "Harith-EVOS-Legends.png",
+          "script": "Harith-Lightborn-Inspirer-EVOS-Legends.zip"
+        },
+        {
+          "name": "Psychic",
+          "Portrait_url": "Harith-Psychic.png",
+          "Splash_url": "Harith-Psychic.png",
+          "script": "Harith-Lightborn-Inspirer-Psychic.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Harith-Christmas-Carnival.png",
+          "Splash_url": "Harith-Christmas-Carnival.png",
+          "script": "Harith-Lightborn-Inspirer-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Killua",
+          "Portrait_url": "Harith-Killua.png",
+          "Splash_url": "Harith-Killua.png",
+          "script": "Harith-Lightborn-Inspirer-Killua.zip"
+        },
+        {
+          "name": "Wayfarer",
+          "Portrait_url": "Harith-Wayfarer.png",
+          "Splash_url": "Harith - Wayfarer.jpg",
+          "script": "Harith-Lightborn-Inspirer-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "Default_name": "EVOS Legends",
+      "Splash_url": "Harith-EVOS-Legends.png",
+      "script": "Harith-EVOS-Legends-Backup.zip",
+      "Portrait_url": "Harith-EVOS-Legends.png",
+      "Tags": [
+        "Champion.png"
+      ],
+      "targets": [
+        {
+          "name": "Savannah Cat",
+          "Portrait_url": "Harith-Savannah-Cat.png",
+          "Splash_url": "Harith-Savannah-Cat.png",
+          "script": "Harith-EVOS-Legends-Savannah-Cat.zip"
+        },
+        {
+          "name": "Stardust",
+          "Portrait_url": "Harith-Stardust.png",
+          "Splash_url": "Harith-Stardust.png",
+          "script": "Harith-EVOS-Legends-Stardust.zip"
+        },
+        {
+          "name": "Fashion Expert",
+          "Portrait_url": "Harith-Fashion-Expert.png",
+          "Splash_url": "Harith-Fashion-Expert.png",
+          "script": "Harith-EVOS-Legends-Fashion-Expert.zip"
+        },
+        {
+          "name": "Lightborn - Inspirer",
+          "Portrait_url": "Harith-Lightborn-Inspirer.png",
+          "Splash_url": "Harith-Lightborn-Inspirer.png",
+          "script": "Harith-EVOS-Legends-Lightborn-Inspirer.zip"
+        },
+        {
+          "name": "Psychic",
+          "Portrait_url": "Harith-Psychic.png",
+          "Splash_url": "Harith-Psychic.png",
+          "script": "Harith-EVOS-Legends-Psychic.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Harith-Christmas-Carnival.png",
+          "Splash_url": "Harith-Christmas-Carnival.png",
+          "script": "Harith-EVOS-Legends-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Killua",
+          "Portrait_url": "Harith-Killua.png",
+          "Splash_url": "Harith-Killua.png",
+          "script": "Harith-EVOS-Legends-Killua.zip"
+        },
+        {
+          "name": "Wayfarer",
+          "Portrait_url": "Harith-Wayfarer.png",
+          "Splash_url": "Harith - Wayfarer.jpg",
+          "script": "Harith-EVOS-Legends-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Psychic",
+      "Splash_url": "Harith-Psychic.png",
+      "script": "Harith-Psychic-Backup.zip",
+      "Portrait_url": "Harith-Psychic.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Savannah Cat",
+          "Portrait_url": "Harith-Savannah-Cat.png",
+          "Splash_url": "Harith-Savannah-Cat.png",
+          "script": "Harith-Psychic-Savannah-Cat.zip"
+        },
+        {
+          "name": "Stardust",
+          "Portrait_url": "Harith-Stardust.png",
+          "Splash_url": "Harith-Stardust.png",
+          "script": "Harith-Psychic-Stardust.zip"
+        },
+        {
+          "name": "Fashion Expert",
+          "Portrait_url": "Harith-Fashion-Expert.png",
+          "Splash_url": "Harith-Fashion-Expert.png",
+          "script": "Harith-Psychic-Fashion-Expert.zip"
+        },
+        {
+          "name": "Lightborn - Inspirer",
+          "Portrait_url": "Harith-Lightborn-Inspirer.png",
+          "Splash_url": "Harith-Lightborn-Inspirer.png",
+          "script": "Harith-Psychic-Lightborn-Inspirer.zip"
+        },
+        {
+          "name": "EVOS Legends",
+          "Portrait_url": "Harith-EVOS-Legends.png",
+          "Splash_url": "Harith-EVOS-Legends.png",
+          "script": "Harith-Psychic-EVOS-Legends.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Harith-Christmas-Carnival.png",
+          "Splash_url": "Harith-Christmas-Carnival.png",
+          "script": "Harith-Psychic-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Killua",
+          "Portrait_url": "Harith-Killua.png",
+          "Splash_url": "Harith-Killua.png",
+          "script": "Harith-Psychic-Killua.zip"
+        },
+        {
+          "name": "Wayfarer",
+          "Portrait_url": "Harith-Wayfarer.png",
+          "Splash_url": "Harith - Wayfarer.jpg",
+          "script": "Harith-Psychic-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Harith-Christmas-Carnival.png",
+      "script": "Harith-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Harith-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Savannah Cat",
+          "Portrait_url": "Harith-Savannah-Cat.png",
+          "Splash_url": "Harith-Savannah-Cat.png",
+          "script": "Harith-Christmas-Carnival-Savannah-Cat.zip"
+        },
+        {
+          "name": "Stardust",
+          "Portrait_url": "Harith-Stardust.png",
+          "Splash_url": "Harith-Stardust.png",
+          "script": "Harith-Christmas-Carnival-Stardust.zip"
+        },
+        {
+          "name": "Fashion Expert",
+          "Portrait_url": "Harith-Fashion-Expert.png",
+          "Splash_url": "Harith-Fashion-Expert.png",
+          "script": "Harith-Christmas-Carnival-Fashion-Expert.zip"
+        },
+        {
+          "name": "Lightborn - Inspirer",
+          "Portrait_url": "Harith-Lightborn-Inspirer.png",
+          "Splash_url": "Harith-Lightborn-Inspirer.png",
+          "script": "Harith-Christmas-Carnival-Lightborn-Inspirer.zip"
+        },
+        {
+          "name": "EVOS Legends",
+          "Portrait_url": "Harith-EVOS-Legends.png",
+          "Splash_url": "Harith-EVOS-Legends.png",
+          "script": "Harith-Christmas-Carnival-EVOS-Legends.zip"
+        },
+        {
+          "name": "Psychic",
+          "Portrait_url": "Harith-Psychic.png",
+          "Splash_url": "Harith-Psychic.png",
+          "script": "Harith-Christmas-Carnival-Psychic.zip"
+        },
+        {
+          "name": "Killua",
+          "Portrait_url": "Harith-Killua.png",
+          "Splash_url": "Harith-Killua.png",
+          "script": "Harith-Christmas-Carnival-Killua.zip"
+        },
+        {
+          "name": "Wayfarer",
+          "Portrait_url": "Harith-Wayfarer.png",
+          "Splash_url": "Harith - Wayfarer.jpg",
+          "script": "Harith-Christmas-Carnival-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "HUNTER×HUNTER",
+      "Default_name": "Killua",
+      "Splash_url": "Harith-Killua.png",
+      "script": "Harith-Killua-Backup.zip",
+      "Portrait_url": "Harith-Killua.png",
+      "Tags": [
+        "Hunter x Hunter.png"
+      ],
+      "targets": [
+        {
+          "name": "Savannah Cat",
+          "Portrait_url": "Harith-Savannah-Cat.png",
+          "Splash_url": "Harith-Savannah-Cat.png",
+          "script": "Harith-Killua-Savannah-Cat.zip"
+        },
+        {
+          "name": "Stardust",
+          "Portrait_url": "Harith-Stardust.png",
+          "Splash_url": "Harith-Stardust.png",
+          "script": "Harith-Killua-Stardust.zip"
+        },
+        {
+          "name": "Fashion Expert",
+          "Portrait_url": "Harith-Fashion-Expert.png",
+          "Splash_url": "Harith-Fashion-Expert.png",
+          "script": "Harith-Killua-Fashion-Expert.zip"
+        },
+        {
+          "name": "Lightborn - Inspirer",
+          "Portrait_url": "Harith-Lightborn-Inspirer.png",
+          "Splash_url": "Harith-Lightborn-Inspirer.png",
+          "script": "Harith-Killua-Lightborn-Inspirer.zip"
+        },
+        {
+          "name": "EVOS Legends",
+          "Portrait_url": "Harith-EVOS-Legends.png",
+          "Splash_url": "Harith-EVOS-Legends.png",
+          "script": "Harith-Killua-EVOS-Legends.zip"
+        },
+        {
+          "name": "Psychic",
+          "Portrait_url": "Harith-Psychic.png",
+          "Splash_url": "Harith-Psychic.png",
+          "script": "Harith-Killua-Psychic.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Harith-Christmas-Carnival.png",
+          "Splash_url": "Harith-Christmas-Carnival.png",
+          "script": "Harith-Killua-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Wayfarer",
+          "Portrait_url": "Harith-Wayfarer.png",
+          "Splash_url": "Harith - Wayfarer.jpg",
+          "script": "Harith-Killua-Wayfarer.zip"
+        }
+      ]
+    }
+  ]
+}

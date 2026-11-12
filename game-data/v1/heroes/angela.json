@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 55,
+    "slug": "angela",
+    "name": "Angela",
+    "skin_name": "Bunnylove",
+    "roles": [
+      "Support"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Guard",
+      "Support"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "6 February 2018",
+    "resource": "Mana",
+    "short_description": "Artificial human made in Laboratory 1718.",
+    "brief": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "story": "Dr. Baker was one of the founders of Lab 1718, an institution created with the aim of bringing peace to the world. But as his co-founders fell deeper and deeper into their depraved human weaponization experiments, Dr. Baker felt he had no choice but to leave and pursue a new project. Renouncing the questionable ethics of human experimentation, he endeavored to create a new kind of lifeform, solely from a mechanical skeleton, puppet strings, and synthetic skin, and finally, a new generation of artificial life was born. Dr. Baker firmly believed that love and hope were the greatest inventions of mankind, so he programmed the world's most moving stories into the heart of his new creation.\r\n\r\nOne bright morning, Peace Android Prototype 1 awakened from her bed, and Dr. Baker bestowed upon this adorable mechanical angel, the name Angela. Angela followed Dr. Baker's tutelage, studying hard to understand the world, and hoping to meet the doctor's high expectations. However, their peaceful life together was soon cut short. When the mad scientists of Lab 1718 heard rumors that Dr. Baker had created a living soul outside of a human body, they couldn't believe it. They convinced themselves that Baker had betrayed them, keeping this knowledge to himself before fleeing, and so they ordered Dr. Baker's past creations, Alpha and Beta, to hunt down Dr. Baker and Angela. As their pursuers were just about to close in on them, Dr. Baker placed Angela into a flight capsule, instructing her to seek out his good friend Dr. Rooney.\r\n\r\nHowever, the flight capsule was struck down in a terrible thunderstorm, and landed in a remote corner of the Land of Dawn. Emerging from the wreckage, Angela began her journey to find Dr. Rooney and save her father.",
+    "recommended_skill_order": "3-2-1-0-1/1"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 2,
+    "control": 5,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2300,
+    "health_growth": 136,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 7.21,
+    "magic_power": 0,
+    "physical_defense": 15,
+    "physical_defense_growth": 3.8571,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 0.99,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.9
+  },
+  "abilities": [
+    {
+      "id": "Angela0",
+      "name": "Smart Heart",
+      "description": "Angela gains 5% extra Movement Speed for 4s each time she casts a skill (up to 30%). When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a43559c89c118c816b669fa49b45e76f.png",
+      "video_url": null
+    },
+    {
+      "id": "Angela1",
+      "name": "Love Waves",
+      "description": "Angela sends <highlight>Love Waves</highlight> in the target direction, dealing 170/200/230/260/290/320<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies hit, revealing their positions briefly, and applying a stack of <highlight>Lover's Mark</highlight> (up to 5 stacks). Each stack of <highlight>Lover's Mark</highlight> increases the damage by 20% and slows enemies hit by 8% for 3s.<br/><br/><highlight>Love Waves</highlight> also restore 150/160/170/180/190/200<scaleAP> (+75% Total Magic Power)</scaleAP> HP to allied heroes hit. Angela can store up to 5 charges of this skill and the recharge time is affected by Cooldown Reduction.<br/><br/><highlight>When attached to allies, this skill's cooldown is reduced by 60%.</highlight>",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "8",
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6f7b56ae09ae397b07ad30d8c94164ae.png",
+      "video_url": null
+    },
+    {
+      "id": "Angela2",
+      "name": "Puppet-on-a-String",
+      "description": "Angela launches a <highlight>Puppet String</highlight> at the target enemy, dealing 300/330/360/390/420/450<scaleAP> (+40% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and gradually slowing them by up to 80%. If the enemy is still connected to the string after 3s, they'll be immobilized for 1.5s and dealt 450/495/540/585/630/675<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.<br/><br/>Each stack of <highlight>Lover's Mark</highlight> increases the final damage by 20%.",
+      "flavor_text": null,
+      "cost": "90/95/100/105/110/115",
+      "cooldown": "13/12.4/11.8/11.2/10.6/10",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f32c780347021165ab869944f1c981c.png",
+      "video_url": null
+    },
+    {
+      "id": "Angela3",
+      "name": "Heartguard",
+      "description": "Angela begins channeling, applying a 600/800/1000<scaleAP> (+150% Total Magic Power)</scaleAP> shield to the target allied hero regardless of distance. After the channeling is complete, she attaches herself to the allied hero for 20s, during which she can cast skills at zero Mana cost.<br>Angela can cast this skill again to cancel the channeling or detach herself from the allied hero. The attaching state will end early if the allied hero is killed.",
+      "flavor_text": null,
+      "cost": "100/150/200",
+      "cooldown": "60",
+      "tags": [
+        {
+          "name": "Attach",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1c3f421da66e26aa3e0d8749f9f39de.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Angela0",
+      "sequence": "Angela3-Angela1-Angela2-Angela1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Angela's Ultimate first to attach to a strong ally, and use her 1st Skill to deal damage or heal allies when needed. When enemies try to close in, CC them with her 2nd Skill, and follow up with her 1st Skill for sustained damage."
+    },
+    {
+      "id": "Angela1",
+      "sequence": "Angela1-Angela2-Angela1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Angela's 1st Skill to constantly poke the enemy. When their HP is low, use her 2nd Skill to CC the target, then continue to deal damage with her 1st Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Angela works best with highly mobile Assassins such as Lancelot and Aamon since she can provide CC and heals while increasing their mobility even further.",
+      "heroes": [
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        },
+        {
+          "id": 109,
+          "slug": "aamon",
+          "name": "Aamon"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Angela counters heroes with low mobility, such as Uranus and Belerick, by slowing them even further and speeding up her allies.",
+      "heroes": [
+        {
+          "id": 59,
+          "slug": "uranus",
+          "name": "Uranus"
+        },
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Angela is countered by nimble Assassins with burst damage, such as Ling and Harley.",
+      "heroes": [
+        {
+          "id": 84,
+          "slug": "ling",
+          "name": "Ling"
+        },
+        {
+          "id": 42,
+          "slug": "harley",
+          "name": "Harley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Angela-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Angela-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_187b8452435b469e8867e8fb2d387a5b.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_187b8452435b469e8867e8fb2d387a5b.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/angela.json",
+    "visual_catalog": "catalog/v1/visual/angela.json",
+    "upgrade_catalog": "catalog/v1/upgrade/angela.json"
+  }
+}

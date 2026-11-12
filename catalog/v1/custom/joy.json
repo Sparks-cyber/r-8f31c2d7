@@ -1,0 +1,60 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "joy-kakashi",
+      "portrait_file": "Joy - Kakashi.png",
+      "script_file": "Joy-Kakashi.zip",
+      "skin_name": "Kakashi",
+      "splash_file": "Joy - Kakashi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "joy-killua",
+      "portrait_file": "Joy - Killua.png",
+      "script_file": "Joy-Killua.zip",
+      "skin_name": "Killua",
+      "splash_file": "Joy - Killua.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "joy-music-only-in-another-life-replace-ulti",
+      "portrait_file": "Joy - MUSIC ONLY . In Another Life (REPLACE ULTI).png",
+      "script_file": "Joy-MUSIC-ONLY-In-Another-Life-REPLACE-ULTI.zip",
+      "skin_name": "MUSIC ONLY . In Another Life (REPLACE ULTI)",
+      "splash_file": "Joy - MUSIC ONLY . In Another Life (REPLACE ULTI).png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "joy-summer",
+      "portrait_file": "Joy - Summer.png",
+      "script_file": "Joy-Summer.zip",
+      "skin_name": "Summer",
+      "splash_file": "Joy - Summer.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 118,
+    "name": "Joy",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "joy"
+  },
+  "release_tag": "custom-joy",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

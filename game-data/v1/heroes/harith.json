@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 73,
+    "slug": "harith",
+    "name": "Harith",
+    "skin_name": "Time Traveler",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane",
+      "Jungle"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "November 2018",
+    "resource": "Mana",
+    "short_description": "Leonin boy who came to the Moniyan Empire from Azrya.",
+    "brief": "Legends say that an ancient race of elves reside in the Land of Dawn's Enchanted Forest. The stories often depict this cat-like race as small in stature, agile, playful, independent, and highly intelligent. However, few are aware of the longstanding alliance between the Leonin Elves and the Moon Elves.",
+    "story": "Legends say that an ancient race of elves reside in the Land of Dawn's Enchanted Forest. The stories often depict this cat-like race as small in stature, agile, playful, independent, and highly intelligent. However, few are aware of the longstanding alliance between the Leonin Elves and the Moon Elves.\r\n\r\nFrom a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic.\r\n\r\nHarith arrived at the Moniyan Empire, where he joined armies to fight off the invading orc tribes. Proving himself in battle, Harith gained the recognition of Tigreal, who came to appreciate Harith's lovely spirit and strong abilities. People say, Harith was given the rank of lieutenant and will soon be appointed as an Imperial Master of Magic of the Moniyan Empire. With that said, Harith has imperial authorization to use magic to control space and time to unlock the Secrets of Dawn to seal away evil and protect justice.\r\n\r\nFull of excitement and fervor, Harith also knew that once he is appointed the title of Master of Magic that he will become a target of public criticism. Committed to his dream of becoming his people's leader in magic, Harith fearlessly marched forward alone. Over time, Harith discovered that his life was consumed by his mission and by the empire. Harith slowly grew lonely and reclusive. Even when he met his fellow Leonin, Nana, he was unable to maintain a normal conversation. Despite Nana showing signs of affection towards him, he could not express his feelings, believing that the best way to protect her from criticism was for him be alone. After all, whenever the empire needed magical assistance, the Master of Magic was on the job to seal away the dangers of evil.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 5,
+    "control": 1,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 160,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 114,
+    "physical_attack_growth": 5.21,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.1
+  },
+  "abilities": [
+    {
+      "id": "Harith0",
+      "name": "Key Insight",
+      "description": "Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f5ef9a005278e374f023e9279989be02.png",
+      "video_url": null
+    },
+    {
+      "id": "Harith1",
+      "name": "Synchro Fission",
+      "description": "Harith creates a phantom of himself in a distant location. Harith and his phantom will then release <highlight>Synchro Fission</highlight> toward each other, dealing 150/180/210/240/270/300<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to all enemy units on the path.<br><br>When the 2 energy waves collide, an explosion occurs, dealing 450/540/630/720/810/900<scaleAP> (+180% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to all enemies in the area.<br>This skill deals 60% extra damage to creeps (up to 1500 damage).",
+      "flavor_text": null,
+      "cost": "50/55/60/65/70/75",
+      "cooldown": "5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f23c4399892794ed73e58a29352273c.png",
+      "video_url": null
+    },
+    {
+      "id": "Harith2",
+      "name": "Chrono Dash",
+      "description": "Harith dashes towards the target direction, gaining a 120/150/180/210/240/270<scaleAP> (+120% Total Magic Power)</scaleAP> shield and enhancing his next Basic Attack. Harith's enhanced Basic Attack deals 200/230/260/290/320/350<scaleAD> (+100% Total Physical Attack)</scaleAD><scaleAP>(+70% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and slows enemies by 40%. Hitting an enemy with Harith's enhanced Basic Attack reduces the cooldown of <highlight>Chrono Dash</highlight> by 3s. This shield can stack up to 3 times.<br><br>The enhanced Basic Attack deals 50/60/70/80/90/100<scaleAD> (+100% Total Physical Attack)</scaleAD><scaleAP>(+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to Turrets.",
+      "flavor_text": null,
+      "cost": "40/43/46/49/52/55",
+      "cooldown": "9.3",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a0db4fd70a127b1733a6fc10261d4c5.png",
+      "video_url": null
+    },
+    {
+      "id": "Harith3",
+      "name": "Zaman Force",
+      "description": "Harith uses his Key to summon the Zaman Force, creating a multidimensional rift. Upon appearance, it reduces the cooldown of <highlight>Chrono Dash</highlight> by 4s. The rift continuously slows enemy heroes in the area by 40%.<br/><br/>When Harith comes into contact with the rift using <highlight>Chrono Dash</highlight>, he absorbs its energy, reducing the cooldown of <highlight>Synchro Fission</highlight> by 1s and <highlight>Chrono Dash</highlight> by 3s. Harith gains 15% Resilience while on the rift.",
+      "flavor_text": "\"They say geniuses recognize one another!\", a quote from Harley.",
+      "cost": "120/160/200",
+      "cooldown": "40/35/30",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47c6f8c53a894420ae9c8ae05a81fa47.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Harith0",
+      "sequence": "Harith2-Harith3-Harith1-Harith2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, first use Harith's 2nd Skill to get close to the enemy, then follow up with the Ultimate, and start spamming his 1st and 2nd Skill. Dashing through the Ultimate not only reduces his skill cooldowns, but also allows Harith to get multiple enhanced Basic Attacks from his 2nd Skill."
+    },
+    {
+      "id": "Harith1",
+      "sequence": "Harith2-AA-Harith1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, approach the enemy with Harith's 2nd Skill, hit them with an enhanced Basic Attack, then use his 1st Skill to chip away their HP."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Harith pairs well with heroes who have AOE CC and can make it harder for enemies to escape his Ultimate's range, such as Minsitthar and Minotaur.",
+      "heroes": [
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        },
+        {
+          "id": 19,
+          "slug": "minotaur",
+          "name": "Minotaur"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Harith is a very agile hero and his Ultimate reduces the duration of control effects, so he is excellent at countering heroes who rely on CC and have relatively long casting animations, like Belerick and Johnson.",
+      "heroes": [
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        },
+        {
+          "id": 32,
+          "slug": "johnson",
+          "name": "Johnson"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Harith is countered by heroes who can quickly escape from his Ultimate, such as Novaria and Pharsa.",
+      "heroes": [
+        {
+          "id": 119,
+          "slug": "novaria",
+          "name": "Novaria"
+        },
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Harith-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Harith-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1dcef05408b7c644298bab812517de3.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1dcef05408b7c644298bab812517de3.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/harith.json",
+    "visual_catalog": "catalog/v1/visual/harith.json",
+    "upgrade_catalog": "catalog/v1/upgrade/harith.json"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "rafaela-backup",
+      "portrait_file": "Rafaela-Default.png",
+      "script_file": "Rafaela-Backup.zip",
+      "skin_name": "Wings of Holiness",
+      "splash_file": "Rafaela-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-fertility-goddess",
+      "portrait_file": "Rafaela-Fertility-Goddess.png",
+      "script_file": "Rafaela-Fertility-Goddess.zip",
+      "skin_name": "Fertility Goddess",
+      "splash_file": "Rafaela-Fertility-Goddess.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-flower-fairy",
+      "portrait_file": "Rafaela-Flower-Fairy.png",
+      "script_file": "Rafaela-Flower-Fairy.zip",
+      "skin_name": "Flower Fairy",
+      "splash_file": "Rafaela-Flower-Fairy.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-biomedic",
+      "portrait_file": "Rafaela-Biomedic.png",
+      "script_file": "Rafaela-Biomedic.zip",
+      "skin_name": "Biomedic",
+      "splash_file": "Rafaela-Biomedic.png",
+      "tag_id": "mpl",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-s-a-b-e-r-savior",
+      "portrait_file": "Rafaela-S-A-B-E-R-Savior.png",
+      "script_file": "Rafaela-S-A-B-E-R-Savior.zip",
+      "skin_name": "S.A.B.E.R. Savior",
+      "splash_file": "Rafaela-S-A-B-E-R-Savior.png",
+      "tag_id": "saber",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-star-chaser",
+      "portrait_file": "Rafaela-Star-Chaser.png",
+      "script_file": "Rafaela-Star-Chaser.zip",
+      "skin_name": "Star Chaser",
+      "splash_file": "Rafaela-Star-Chaser.png",
+      "tag_id": "s18",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-angelic-sonata",
+      "portrait_file": "Rafaela-Angelic-Sonata.png",
+      "script_file": "Rafaela-Angelic-Sonata.zip",
+      "skin_name": "Angelic Sonata",
+      "splash_file": "Rafaela-Angelic-Sonata.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-seraphic-selfie",
+      "portrait_file": "Rafaela-Seraphic-Selfie.png",
+      "script_file": "Rafaela-Seraphic-Selfie.zip",
+      "skin_name": "Seraphic Selfie",
+      "splash_file": "Rafaela-Seraphic-Selfie.png",
+      "tag_id": "as",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-bloom-of-abundance",
+      "portrait_file": "Rafaela-Bloom-of-Abundance.png",
+      "script_file": "Rafaela-Bloom-of-Abundance.zip",
+      "skin_name": "Bloom of Abundance",
+      "splash_file": "Rafaela-Bloom-of-Abundance.png",
+      "tag_id": "lunar-fest",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 14,
+    "name": "Rafaela",
+    "roles": [
+      "Support"
+    ],
+    "slug": "rafaela"
+  },
+  "release_tag": "visual-rafaela",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

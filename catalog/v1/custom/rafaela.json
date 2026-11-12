@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "rafaela-arcade",
+      "portrait_file": "Rafaela - Arcade.png",
+      "script_file": "Rafaela-Arcade.zip",
+      "skin_name": "Arcade",
+      "splash_file": "Rafaela - Arcade.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "rafaela-summer",
+      "portrait_file": "Rafaela - Summer.png",
+      "script_file": "Rafaela-Summer.zip",
+      "skin_name": "Summer",
+      "splash_file": "Rafaela - Summer.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 14,
+    "name": "Rafaela",
+    "roles": [
+      "Support"
+    ],
+    "slug": "rafaela"
+  },
+  "release_tag": "custom-rafaela",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

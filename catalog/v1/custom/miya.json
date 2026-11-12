@@ -1,0 +1,49 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "miya-phoenix-goddess",
+      "portrait_file": "Miya - Phoenix Goddess.png",
+      "script_file": "Miya-Phoenix-Goddess.zip",
+      "skin_name": "Phoenix Goddess",
+      "splash_file": "Miya - Phoenix Goddess.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "miya-saber",
+      "portrait_file": "Miya - Saber.png",
+      "script_file": "Miya-Saber.zip",
+      "skin_name": "Saber",
+      "splash_file": "Miya - Saber.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "miya-stun",
+      "portrait_file": "Miya - Stun.png",
+      "script_file": "Miya-Stun.zip",
+      "skin_name": "Stun",
+      "splash_file": "Miya - Stun.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 1,
+    "name": "Miya",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "miya"
+  },
+  "release_tag": "custom-miya",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

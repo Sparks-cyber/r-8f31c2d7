@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 104,
+    "slug": "gloo",
+    "name": "Gloo",
+    "skin_name": "Swamp Spirits",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming",
+      "EXP Lane"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Regen",
+      "Control"
+    ],
+    "region": "Azrya Woodlands",
+    "release_date": "16 April 2021",
+    "resource": "Mana",
+    "short_description": "A mysterious creature that can split into many smaller ones.",
+    "brief": "During a huge war waged in the Barren Lands, the Moniyan Empire's Second Regiment was almost entirely annihilated. Among the sea of corpses strewn all around, a Moniyan soldier had managed to survive; yet lost every one of his comrades, and was left to walk back to his homeland alone.",
+    "story": "During a huge war waged in the Barren Lands, the Moniyan Empire's Second Regiment was almost entirely annihilated. Among the sea of corpses strewn all around, a Moniyan soldier had managed to survive; yet lost every one of his comrades, and was left to walk back to his homeland alone.\r\n\r\nDark clouds shroud the Barren Lands year in, year out. Without the sun, moon and stars to guide his path, this solitary survivor lost his way and strayed into the Shadow Swamp.\r\n\r\nBoth the earth and water found within the forests of the Shadow Swamp are corrupted by the Abyss, leaving the place moist and putrid. The man's extreme hunger and fatigue, together with the endless forest that surrounded him, plunged him into darkness and despair.\r\n\r\nJust as he was about to pass out, a most peculiar feeling wrenched him back to consciousness: a sticky sensation spread upon his back, and then he lost all control of his limbs which ran wildly of their own accord.\r\n\r\nHe would describe this moment in his memoirs as feeling like he was but a wooden puppet, like those played by the Moniyan children. He was manipulated by some invisible force, nimbly darting through the forest at an unbelievable speed.\r\n\r\nThe man was about to lose consciousness when the body he no longer controlled came to a halt. Coming to himself, he watched with wide eyes at what laid before him...\r\n\r\nThere he saw the ruins of a great vine-entangled temple, weathered by the wind and frost yet still grand and imposing. These ancient temple ruins stuck out like a sore thumb within their Shadow Swamp surroundings.\r\n\r\nThe strange sensation that ran down his back faded away as he stopped, yet it was just then that he caught sight of something small that hopped into the nearby bushes, seemingly in hiding.\r\n\r\nCould that thing be behind all of this? The soldier was determined to get to the bottom of it all, and ploughed ahead in the direction the figure had taken. From the vegetation there emanated a loud rustling, and it seemed some kind of violent struggle was taking place within.\r\n\r\nAnd so as the soldier crept over stealthily, reaching out to push aside a branch, there appeared before him a little critter about the size of a coal briquette; he prepared to catch it and study it more closely, yet before he could make a move, countless others had emerged from all around. They stacked together in an orderly fashion, and in a little over ten seconds the creature no bigger than a lump of coal had transformed into a mighty beast. This struck terror into the heart of the poor Moniyan soldier who fainted on the spot. But when he awakened once more[,] he found himself no longer within the swamp, instead upon the border of the Barren Lands and the Empire.\r\n\r\nUpon returning to the empire[,] he regaled those all around with this tale. The Moniyan citizens held much respect for this veteran, yet dismissed his story as merely the hallucinations of a man racked by fatigue while having narrowly escaped death.\r\n\r\nAfter all, even the most learned scholars in Moniyan had never even heard of such a creature. There was little the soldier could do but write his experiences down on paper instead, that evidence to be uncovered in later ages could perhaps prove his sanity.\r\n\r\nAs luck would have it, he didn't have to wait quite so long. This dream of his was realized while he was still alive and well.\r\n\r\nWhen the Elven text \"Azrya\" reached the Academy of Magic, a student from the Moniyan Empire read records within of a faction called the Gloo--records which conformed directly with the experiences of that Moniyan soldier he'd read before.\r\n\r\nThe curious student sought the dean of the Ulturia School, Eudora, who having glanced over the soldier's writings confirmed that they indeed described a Gloo encounter.\r\n\r\nHaving heard it from Eudora, mankind became aware of Gloo--peculiar beings with peculiar ways of living. Through a mysterious secretion, once just one of their number had attached to any living being, they could then begin to completely enshroud it.\r\n\r\nWhat's more, this gel-like outer coating of theirs acted as a cognizant organ that allowed unique neural networks to function among individual “Goos” which formed the larger sensation “Gloo”. Of these beings some would hold higher roles within the network, commanding all the others when they combined into one form. Through merging in different number[,] they were able to control their size and shape at will.\r\n\r\nGoos were found to be intelligent and pure beings, proud of their 'group wisdom' they shared which was mostly used to pull pranks on the neighboring Elves. When she heard of the Moniyan soldier's bizarre adventure, she realized what had happened: a group of Goos must had wandered out too far, and so they latched on to him as a larger organism to hitch a ride back home.\r\n\r\nSince its birth, the Goos had never ventured out of Azrya, instead guarding over the forests and the mysterious old temple. They had never initiated any kind of battle, at the most taking on the form of a terrifying beast to scare away any outsiders who broke into their territory by accident. Even the Elves who lived not far from them knew little of their kind.\r\n\r\nPerhaps the greatest of Goo’s intelligence could be seen in their residing within the deep expanses of the forests, living in peaceful harmony with the rest of the world.\r\n\r\nHowever, the Abyss changed everything.\r\n\r\nTaking shelter in the ancient temple, Goos strove to hang on to their rationality and faith, to avoid becoming like those Dark Elves nearby who had fallen to its clutches. But a deep and dark corruption spread into them and their forest home as the Abyss exerted its power.\r\n\r\nEudora was by no means unaware of Goo’s predicament. At the end of the Moniyan soldier's writings she left a few sentences.\r\n\r\n\"The Abyss is a catastrophe. It strikes division among the factions, and breeds pure hatred. But maybe, just maybe, this is a chance for us: a chance for every soul across these lands to come together once more, to stand as one.\"\r\n\r\nWhen the fates of all the peoples become interlinked together, where will the gentle Gloo head to next?",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 10,
+    "offense": 3,
+    "control": 10,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2819,
+    "health_growth": 240,
+    "health_regen": 12.4,
+    "health_regen_growth": 0.6,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 120,
+    "physical_attack_growth": 6.43,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 3.3571,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 0.98,
+    "attack_speed_growth": 0.0079,
+    "attack_speed_ratio": 0.8,
+    "critical_damage": 2.0,
+    "movement_speed": 245,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Gloo0",
+      "name": "Stick, Stick",
+      "description": "Enemies gain a stack of <highlight>Sticky</highlight> each time they're hit by Gloo's skills, decreasing their Movement Speed by 3% for 6s. Stacks up to 5.<br/>Each stack of <highlight>Sticky</highlight> on an enemy reduces their damage dealt to Gloo by 4%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d78367e0a6c4f3269f64ddfad7f96d7.png",
+      "video_url": null
+    },
+    {
+      "id": "Gloo1",
+      "name": "Slam, Slam",
+      "description": "Gloo reaches out and slams the ground, dealing 80<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the enemy.<br/>At the final location, a <highlight>Goo</highlight> is left behind that explodes after 3s to deal 250/280/310/340/370/400<scaleHP> (+12% Extra Max HP)</scaleHP> <magicDamage>Magic Damage</magicDamage> to nearby enemies and immobilize them for 1s. If Gloo touches the <highlight>Goo</highlight>, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5/3.2/3.9/4.6/5.3/6% of Max HP if the explosion hits an enemy (doubled if it hits an enemy hero).",
+      "flavor_text": null,
+      "cost": "25/30/35/40/45/50",
+      "cooldown": "10/9.2/8.4/7.6/6.8/6",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+      "video_url": null
+    },
+    {
+      "id": "Gloo2",
+      "name": "Spread, Spread",
+      "description": "Gloo splits into Goos, dealing 100/120/140/160/180/200<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in a fan-shaped area and immobilizing them for 0.5s. While split, Gloo gains 10% Movement Speed and deals 80<scaleAP> (+15% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> every 0.25s to enemies it touches, lasting 4s.<br/>If this skill hits a <highlight>Goo</highlight>, Gloo will charge over to merge with it, dragging enemies in its path in the same direction for a distance.",
+      "flavor_text": null,
+      "cost": "80/88/96/104/112/120",
+      "cooldown": "12/11.6/11.2/10.8/10.4/10",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_975a075bf3dc864116d9fd55ce33aedc.png",
+      "video_url": null
+    },
+    {
+      "id": "Gloo3",
+      "name": "Grab, Grab",
+      "description": "Unlocked when any enemy hero has full <highlight>Sticky</highlight> stacks. Gloo attaches itself to the target enemy hero for up to 9s, recovering 20/25/30% of its Max HP. For the duration, its Basic Attacks are converted to deal 30<scaleAP> (+50% Total Magic Power)</scaleAP> <scaleHP> (+6% Extra Max HP)</scaleHP> <magicDamage>Magic Damage</magicDamage>, and it transfers 80% of the damage it receives (excluding damage from turrets) to its host. If the target dies while attached, this skill's cooldown is reduced to 5s.",
+      "flavor_text": "One is all. (All is one.)",
+      "cost": "150",
+      "cooldown": "50",
+      "tags": [
+        {
+          "name": "Attach",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8fe70f4873f1fc49155b072aa5f7c121.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Gloo0",
+      "sequence": "Gloo1-Gloo2-Gloo1-Gloo3-Gloo3-Gloo1-Gloo2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Gloo can use his 1st + 2nd skill combo to close in on the enemy and immobilize them. Then his 1st Skill and Ultimate to add more Sticky stacks to enemy heroes, and attach himself with his Ultimate to the enemy hero with max Sticky stacks. Once ready, Gloo can use the combo to deal damage and move the host out of position. Finally, he can use the refreshed 1st Skill and his Basic Attacks to finish off the host."
+    },
+    {
+      "id": "Gloo1",
+      "sequence": "Gloo1-Gloo2-Gloo1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Gloo should use his 1st Skill to attack the target enemy and create a Goo, then he can use his 2nd Skill to target the Goo to bring the target to its location and trigger an explosion. Touching the Goo will also reset Gloo's 1st Skill, allowing him to use it again to deal damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Gloo works best with high burst damage heroes, as they can quickly take down the enemy hero that he brings back with his Ultimate. Like Eudora and Saber.",
+      "heroes": [
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        },
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Gloo is strong against Mage heroes without good CC. Because he can easily attach himself to them, and take them where he wants them to go. Such as Cecilion and Chang'e.",
+      "heroes": [
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        },
+        {
+          "id": 61,
+          "slug": "chang-e",
+          "name": "Chang'e"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Gloo is countered by Marksman heroes with good mobility. It's difficult for Gloo to attach himself to them, and he can easily be killed if he tries. Such as Karrie and Lesley.",
+      "heroes": [
+        {
+          "id": 40,
+          "slug": "karrie",
+          "name": "Karrie"
+        },
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Gloo-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Gloo-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_693d2f621f5c5ff0060dc80c952abdda.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/7257d4ee30eff4d5bc5726027eee5f96.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/gloo.json",
+    "visual_catalog": "catalog/v1/visual/gloo.json",
+    "upgrade_catalog": "catalog/v1/upgrade/gloo.json"
+  }
+}

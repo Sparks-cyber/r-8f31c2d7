@@ -1,0 +1,161 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Hanzo",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "The Pale Phantom",
+      "Splash_url": "Hanzo-The-Pale-Phantom.png",
+      "script": "Hanzo-The-Pale-Phantom-Backup.zip",
+      "Portrait_url": "Hanzo-The-Pale-Phantom.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Undead King",
+          "Portrait_url": "Hanzo-Undead-King.png",
+          "Splash_url": "Hanzo-Undead-King.png",
+          "script": "Hanzo-The-Pale-Phantom-Undead-King.zip"
+        },
+        {
+          "name": "Insidious Tutor",
+          "Portrait_url": "Hanzo-Insidious-Tutor.png",
+          "Splash_url": "Hanzo-Insidious-Tutor.png",
+          "script": "Hanzo-The-Pale-Phantom-Insidious-Tutor.zip"
+        },
+        {
+          "name": "Soulfire Netherlord",
+          "Portrait_url": "Hanzo-Soulfire-Netherlord.png",
+          "Splash_url": "Hanzo-Soulfire-Netherlord.png",
+          "script": "Hanzo-The-Pale-Phantom-Soulfire-Netherlord.zip"
+        },
+        {
+          "name": "Evil Tutor Painted 01",
+          "Portrait_url": "Hanzo-Evil-Tutor.png",
+          "Splash_url": "Hanzo-Insidious-Tutor.png",
+          "script": "Hanzo-The-Pale-Phantom-Evil-Tutor-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Undead King",
+      "Splash_url": "Hanzo-Undead-King.png",
+      "script": "Hanzo-Undead-King-Backup.zip",
+      "Portrait_url": "Hanzo-Undead-King.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "The Pale Phantom",
+          "Portrait_url": "Hanzo-The-Pale-Phantom.png",
+          "Splash_url": "Hanzo-The-Pale-Phantom.png",
+          "script": "Hanzo-Undead-King-The-Pale-Phantom.zip"
+        },
+        {
+          "name": "Insidious Tutor",
+          "Portrait_url": "Hanzo-Insidious-Tutor.png",
+          "Splash_url": "Hanzo-Insidious-Tutor.png",
+          "script": "Hanzo-Undead-King-Insidious-Tutor.zip"
+        },
+        {
+          "name": "Soulfire Netherlord",
+          "Portrait_url": "Hanzo-Soulfire-Netherlord.png",
+          "Splash_url": "Hanzo-Soulfire-Netherlord.png",
+          "script": "Hanzo-Undead-King-Soulfire-Netherlord.zip"
+        },
+        {
+          "name": "Evil Tutor Painted 01",
+          "Portrait_url": "Hanzo-Evil-Tutor.png",
+          "Splash_url": "Hanzo-Insidious-Tutor.png",
+          "script": "Hanzo-Undead-King-Evil-Tutor-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Insidious Tutor",
+      "Splash_url": "Hanzo-Insidious-Tutor.png",
+      "script": "Hanzo-Insidious-Tutor-Backup.zip",
+      "Portrait_url": "Hanzo-Insidious-Tutor.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "The Pale Phantom",
+          "Portrait_url": "Hanzo-The-Pale-Phantom.png",
+          "Splash_url": "Hanzo-The-Pale-Phantom.png",
+          "script": "Hanzo-Insidious-Tutor-The-Pale-Phantom.zip"
+        },
+        {
+          "name": "Undead King",
+          "Portrait_url": "Hanzo-Undead-King.png",
+          "Splash_url": "Hanzo-Undead-King.png",
+          "script": "Hanzo-Insidious-Tutor-Undead-King.zip"
+        },
+        {
+          "name": "Soulfire Netherlord",
+          "Portrait_url": "Hanzo-Soulfire-Netherlord.png",
+          "Splash_url": "Hanzo-Soulfire-Netherlord.png",
+          "script": "Hanzo-Insidious-Tutor-Soulfire-Netherlord.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Soulfire Netherlord",
+      "Splash_url": "Hanzo-Soulfire-Netherlord.png",
+      "script": "Hanzo-Soulfire-Netherlord-Backup.zip",
+      "Portrait_url": "Hanzo-Soulfire-Netherlord.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "The Pale Phantom",
+          "Portrait_url": "Hanzo-The-Pale-Phantom.png",
+          "Splash_url": "Hanzo-The-Pale-Phantom.png",
+          "script": "Hanzo-Soulfire-Netherlord-The-Pale-Phantom.zip"
+        },
+        {
+          "name": "Undead King",
+          "Portrait_url": "Hanzo-Undead-King.png",
+          "Splash_url": "Hanzo-Undead-King.png",
+          "script": "Hanzo-Soulfire-Netherlord-Undead-King.zip"
+        },
+        {
+          "name": "Insidious Tutor",
+          "Portrait_url": "Hanzo-Insidious-Tutor.png",
+          "Splash_url": "Hanzo-Insidious-Tutor.png",
+          "script": "Hanzo-Soulfire-Netherlord-Insidious-Tutor.zip"
+        },
+        {
+          "name": "Evil Tutor Painted 01",
+          "Portrait_url": "Hanzo-Evil-Tutor.png",
+          "Splash_url": "Hanzo-Insidious-Tutor.png",
+          "script": "Hanzo-Soulfire-Netherlord-Evil-Tutor-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Evil Tutor Skin 05",
+      "Splash_url": "Hanzo-Evil-Tutor.png",
+      "script": "Hanzo-Evil-Tutor-Skin-05-Backup.zip",
+      "Portrait_url": "Hanzo-Evil-Tutor.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Evil Tutor Painted 01",
+          "Portrait_url": "Hanzo-Evil-Tutor.png",
+          "Splash_url": "Hanzo-Insidious-Tutor.png",
+          "script": "Hanzo-Evil-Tutor-Skin-05-Evil-Tutor-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

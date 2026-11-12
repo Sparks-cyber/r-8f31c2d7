@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "lukas-orochi-chris",
+      "portrait_file": "Lukas - Orochi Chris.png",
+      "script_file": "Lukas-Orochi-Chris.zip",
+      "skin_name": "Orochi Chris",
+      "splash_file": "Lukas - Orochi Chris.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 127,
+    "name": "Lukas",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "lukas"
+  },
+  "release_tag": "custom-lukas",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 100,
+    "slug": "brody",
+    "name": "Brody"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "brody-community-5975",
+      "name": "Community Build 5975",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "warriorboots",
+        "bladeoftheheptaseas",
+        "skypiercer",
+        "hunterstrike",
+        "maleficroar",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "Did you like it?",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5975,
+      "source_created_at": "2026-02-24T15:38:53.000Z",
+      "likes": 4,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "brody-community-6790",
+      "name": "Community Build 6790",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "bladeoftheheptaseas",
+        "toughboots",
+        "skypiercer",
+        "maleficgun",
+        "rosegoldmeteor",
+        "seahalberd"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "tenacity",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "Piercer Check",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6790,
+      "source_created_at": "2026-03-29T14:08:04.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "brody-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

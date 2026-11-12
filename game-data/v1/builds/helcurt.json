@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 51,
+    "slug": "helcurt",
+    "name": "Helcurt"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "helcurt-community-6011",
+      "name": "Community Build 6011",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "bladeoftheheptaseas",
+        "rapidboots",
+        "demonhuntersword",
+        "maleficroar",
+        "hunterstrike",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Oneshot",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6011,
+      "source_created_at": "2026-02-25T01:18:22.000Z",
+      "likes": 10,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "helcurt-community-6348",
+      "name": "Community Build 6348",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "skypiercer",
+        "hunterstrike",
+        "maleficroar",
+        "bladeofdespair",
+        "endlessbattle"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "This build is for roam Helcurt",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6348,
+      "source_created_at": "2026-03-09T12:49:37.000Z",
+      "likes": 7,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "helcurt-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

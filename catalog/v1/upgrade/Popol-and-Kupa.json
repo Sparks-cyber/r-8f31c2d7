@@ -1,0 +1,95 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Popol and Kupa",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Hunting Pals",
+      "Splash_url": "Popol-and-Kupa-Hunting-Pals.png",
+      "script": "Popol-and-Kupa-Hunting-Pals-Backup.zip",
+      "Portrait_url": "Popol-and-Kupa-Hunting-Pals.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Proto Stalker",
+          "Portrait_url": "Popol-and-Kupa-Proto-Stalker.png",
+          "Splash_url": "Popol and Kupa - Proto Stalker.png",
+          "script": "Popol-and-Kupa-Hunting-Pals-Proto-Stalker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Tribal Howl",
+      "Splash_url": "Popol-and-Kupa-Tribal-Howl.png",
+      "script": "Popol-and-Kupa-Tribal-Howl-Backup.zip",
+      "Portrait_url": "Popol-and-Kupa-Tribal-Howl.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Proto Stalker",
+          "Portrait_url": "Popol-and-Kupa-Proto-Stalker.png",
+          "Splash_url": "Popol and Kupa - Proto Stalker.png",
+          "script": "Popol-and-Kupa-Tribal-Howl-Proto-Stalker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Trouble Makers",
+      "Splash_url": "Popol-and-Kupa-Trouble-Makers.png",
+      "script": "Popol-and-Kupa-Trouble-Makers-Backup.zip",
+      "Portrait_url": "Popol-and-Kupa-Trouble-Makers.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Proto Stalker",
+          "Portrait_url": "Popol-and-Kupa-Proto-Stalker.png",
+          "Splash_url": "Popol and Kupa - Proto Stalker.png",
+          "script": "Popol-and-Kupa-Trouble-Makers-Proto-Stalker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Transformers",
+      "Default_name": "Soundwave & Ravage",
+      "Splash_url": "Popol-and-Kupa-Soundwave-Ravage.png",
+      "script": "Popol-and-Kupa-Soundwave-Ravage-Backup.zip",
+      "Portrait_url": "Popol-and-Kupa-Soundwave-Ravage.png",
+      "Tags": [
+        "Transformers.png"
+      ],
+      "targets": [
+        {
+          "name": "Proto Stalker",
+          "Portrait_url": "Popol-and-Kupa-Proto-Stalker.png",
+          "Splash_url": "Popol and Kupa - Proto Stalker.png",
+          "script": "Popol-and-Kupa-Soundwave-Ravage-Proto-Stalker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Spirit of the Brush",
+      "Splash_url": "Popol-and-Kupa-Spirit-of-the-Brush.png",
+      "script": "Popol-and-Kupa-Spirit-of-the-Brush-Backup.zip",
+      "Portrait_url": "Popol-and-Kupa-Spirit-of-the-Brush.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Proto Stalker",
+          "Portrait_url": "Popol-and-Kupa-Proto-Stalker.png",
+          "Splash_url": "Popol and Kupa - Proto Stalker.png",
+          "script": "Popol-and-Kupa-Spirit-of-the-Brush-Proto-Stalker.zip"
+        }
+      ]
+    }
+  ]
+}

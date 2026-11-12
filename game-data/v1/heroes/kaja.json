@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 62,
+    "slug": "kaja",
+    "name": "Kaja",
+    "skin_name": "Nazar King",
+    "roles": [
+      "Support",
+      "Fighter"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Control",
+      "Charge"
+    ],
+    "region": "Vonetis Sea",
+    "release_date": "25 April 2018",
+    "resource": "Mana",
+    "short_description": "Leader of Nazar who guards the Celestial Palace.",
+    "brief": "Living in the Celestial Palace where the gods inhabit, he is the leader of the Nazar who is responsible for guarding the Celestial Palace. Being the incarnation of the Eagle Angel, he resists the Empire's invasion of the Celestial Palace holding a divine whip.",
+    "story": "The Celestial Palace, home of the gods, was once a bustling city patrolled by innumerable Nazar guardians. Any demon who dared approach the city would be overwhelmed by their unrivaled flying speed and bound by their frightening lightning whips which would strip their victims of all magical abilities. No demon could escape when pursued by these divine warriors, and thus perpetual peace was maintained in the Celestial Palace.\r\n\r\nAs their leader, Kaja was able to refine the power of lighting into pure energy to control as he so desired, inflicting catastrophic damage to all enemies who faced him, and was charged with directly protecting the ruler of the city. Countless eons ago, after the city's ruler created the Nazar guardians and departed, the city gradually fell into a state of ruin. When Uranus was activated, the ruler of the Celestial Palace handed down new orders to the Nazar — to drive the evil demons from the city and rebuild the Celestial Palace in anticipation of the master's return.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 6,
+    "control": 6,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2609,
+    "health_growth": 210,
+    "health_regen": 10.4,
+    "health_regen_growth": 0.6,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 120,
+    "physical_attack_growth": 7.0,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 3.7857,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.1429,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 270,
+    "attack_range": 4.0
+  },
+  "abilities": [
+    {
+      "id": "Kaja0",
+      "name": "Wrath Sanction",
+      "description": "Kaja achieves Wrath Sanction every 6s. His next Basic Attack will send lightning at enemies, dealing <magicDamage>Magic Damage</magicDamage> equal to 100<scaleAP> (+100% Total Magic Power)</scaleAP> plus 4% of targets' Max HP and <highlight>paralyzing</highlight> them. The lightning will jump to enemies nearby as well (up to 3 times).<br/><br/>Increases damage by 200% of targets' Max HP on Minions and Creeps.<br/><br/><highlight>Paralyze</highlight>: Slows enemy heroes and summons while reducing their damage by 2.5% (up to 6 stacks) for 5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_886fc87f5a6bb8be73d7ff0f1265368d.png",
+      "video_url": null
+    },
+    {
+      "id": "Kaja1",
+      "name": "Ring of Order",
+      "description": "Kaja releases a Ringed Electric Blade that quickly expands and contracts, dealing 135/165/195/225/255/285<scaleAP> (+70% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies hit on its way out and back and <highlight>paralyzing</highlight> them. Enemies hit will also have their positions revealed briefly.<br/>Each time Electric Blade deals damage, Kaja restores 100 HP (decays to 30% after multiple hits).",
+      "flavor_text": null,
+      "cost": "50/55/60/65/70/75",
+      "cooldown": "5.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_17653d39e18c367eb027863afa142fe8.png",
+      "video_url": null
+    },
+    {
+      "id": "Kaja2",
+      "name": "Lightning Bomb",
+      "description": "Kaja dashes in the target direction while leaving 3 Lightning Bombs along the way. The Bombs will explode upon enemy contact, dealing 150/180/210/240/270/300<scaleAP> (+35% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the enemies and <highlight>paralyzing</highlight> them.",
+      "flavor_text": null,
+      "cost": "65/70/75/80/85/90",
+      "cooldown": "13/12.4/11.8/11.2/10.6/10",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4e4ae951469d8f7ea8719442a8830a7.png",
+      "video_url": null
+    },
+    {
+      "id": "Kaja3",
+      "name": "Divine Judgment",
+      "description": "Kaja deals 200/350/500<scaleAP> (+100% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to a designated enemy hero, suppresses and <highlight>paralyzes</highlight> them for 1.5s.<br/><br/>During the suppression, Kaja can drag the enemy hero along with him.",
+      "flavor_text": null,
+      "cost": "150/200/250",
+      "cooldown": "60",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_97e2b721acd4d9ce8180dafdebd0954f.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Kaja0",
+      "sequence": "Kaja3-Kaja2-Kaja1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, look for opportunities to use Kaja's Ultimate to suppress an important target, then use his 2nd Skill to pull them into his team and finish them off with his 1st Skill."
+    },
+    {
+      "id": "Kaja1",
+      "sequence": "AA-Kaja1-Kaja3-Kaja2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Kaja's enhanced Basic Attacks and 1st Skill to wear down the enemy while stacking paralyze. Look for a chance to grab the enemy with Kaja's Ultimate then use his 2nd Skill to pull them out of position and into the bombs left by the 2nd Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Kaja works best with high burst damage heroes like Eudora and Aamon that can quickly kill a target suppressed by his Ultimate.",
+      "heroes": [
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        },
+        {
+          "id": 109,
+          "slug": "aamon",
+          "name": "Aamon"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Kaja counters Assassins that rely on constant movement, such as Fanny and Lancelot, as his Ultimate will instantly shutdown their mobility.",
+      "heroes": [
+        {
+          "id": 17,
+          "slug": "fanny",
+          "name": "Fanny"
+        },
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Kaja is countered by Marksmen or Mages with long range like Layla and Pharsa because the short range of his Ultimate will put him at the mercy of their attacks.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kaja-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kaja-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1a0b70adda2acee8c950dd0982b45e5c.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1a0b70adda2acee8c950dd0982b45e5c.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/kaja.json",
+    "visual_catalog": "catalog/v1/visual/kaja.json",
+    "upgrade_catalog": "catalog/v1/upgrade/kaja.json"
+  }
+}

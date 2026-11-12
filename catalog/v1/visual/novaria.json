@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "novaria-backup",
+      "portrait_file": "Novaria-Default.png",
+      "script_file": "Novaria-Backup.zip",
+      "skin_name": "Star Rebel",
+      "splash_file": "Novaria-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "novaria-void-star",
+      "portrait_file": "Novaria-Void-Star.png",
+      "script_file": "Novaria-Void-Star.zip",
+      "skin_name": "Void Star",
+      "splash_file": "Novaria-Void-Star.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "novaria-sugar-glaze",
+      "portrait_file": "Novaria-Sugar-Glaze.png",
+      "script_file": "Novaria-Sugar-Glaze.zip",
+      "skin_name": "Sugar Glaze",
+      "splash_file": "Novaria-Sugar-Glaze.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "novaria-dragonsworn",
+      "portrait_file": "Novaria-Dragonsworn.png",
+      "script_file": "Novaria-Dragonsworn.zip",
+      "skin_name": "Dragonsworn",
+      "splash_file": "Novaria-Dragonsworn.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "novaria-lunar-scion",
+      "portrait_file": "Novaria-Lunar-Scion.png",
+      "script_file": "Novaria-Lunar-Scion.zip",
+      "skin_name": "Lunar Scion",
+      "splash_file": "Novaria-Lunar-Scion.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "novaria-aqua-glaze",
+      "portrait_file": "Novaria-Aqua-Glaze.png",
+      "script_file": "Novaria-Aqua-Glaze.zip",
+      "skin_name": "Aqua Glaze",
+      "splash_file": "Novaria-Aqua-Glaze.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "novaria-honey-glaze-painted-01",
+      "portrait_file": "Novaria-Honey-Glaze.png",
+      "script_file": "Novaria-Honey-Glaze.zip",
+      "skin_name": "Honey Glaze",
+      "splash_file": "Novaria-Honey-Glaze.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 119,
+    "name": "Novaria",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "novaria"
+  },
+  "release_tag": "visual-novaria",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

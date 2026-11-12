@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 68,
+    "slug": "lunox",
+    "name": "Lunox",
+    "skin_name": "Twilight Goddess",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Burst",
+      "Damage"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "2018",
+    "resource": "Mana",
+    "short_description": "A miraculous creature born in Twilight Orb.",
+    "brief": "Lunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the \"Twilight Orbs.\"",
+    "story": "As the final battle started, the Twillight Orb devoured the energies within the Mage and opened, from which stepped out a girl, who was surrounded by the power of Chaos and Order. Her eyes are deep as the ancient lake.\r\n\r\nThe mysterious atmosphere she created then put all of the heroes into dreamland… The power of Chaos and Order have been struggling against each other since the ancient time, and the struggle had driven the world into desperation. Lunox, the mysterious maiden, is the one who survived the desperation. With her unique talent, she can project her dream into reality and change it.\r\n\r\nOne day, a sound whispered to her and told her to balance the two powers with her dreamland ability. But the cost would be hunger than ever. For the world she loves, she accepted this fate, channeled the two powers into dreamland and became one of the \"Twilight Orb\", at the cost of falling into an endless sleep. But the sound also told Lunox that one day, she will wake up to proceed with her fate - to find other Twilight Orbs that are forgotten by history.",
+    "recommended_skill_order": "4-1-2-3"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 9,
+    "control": 2,
+    "difficulty": 9
+  },
+  "attributes": {
+    "health": 2440,
+    "health_growth": 165,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 6.21,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.01,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 5.0
+  },
+  "abilities": [
+    {
+      "id": "Lunox0",
+      "name": "Dreamland Twist",
+      "description": "Lunox is twisted by the powers of Chaos and Order.<br/>When Lunox uses <highlight>Power of Order</highlight>, she gains 0.5% of Spell Vamp for every 1% of <magicDamage>Magic Penetration</magicDamage>. <br/>When Lunox uses <highlight>Power of Chaos</highlight>, she gains 0.5% of <magicDamage>Magic Penetration</magicDamage> for every 1% of Spell Vamp.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_664a96f964b628fff553bf11064a9367.png",
+      "video_url": null
+    },
+    {
+      "id": "Lunox1",
+      "name": "Starlight Pulse",
+      "description": "Lunox summons a rain of starlight upon nearby enemies, dealing 200/230/260/290/320/350<scaleAP> (+110% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. The starlight then returns to Lunox, each restoring 75/80/85/90/95/100<scaleAP> (+30% Total Magic Power)</scaleAP> HP to her. The HP restored is doubled when hitting enemy heroes.<br/><br/>This skill shares cooldown with <highlight>Chaos Assault</highlight>. Grants one stack of <highlight>Power of Order</highlight> after use and ends the Power of Chaos enhanced state.",
+      "flavor_text": null,
+      "cost": "30/35/40/45/50/55",
+      "cooldown": "2",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acf846262a6ad486ce0a7bc52ea7adeb.png",
+      "video_url": null
+    },
+    {
+      "id": "Lunox2",
+      "name": "Chaos Assault ",
+      "description": "Lunox unleashes Chaos Energy at an enemy, dealing <magicDamage>Magic Damage</magicDamage> equal to 250/270/290/310/330/350<scaleAP> (+120% Total Magic Power)</scaleAP> plus 2.5/3/3.5/4/4.5/5% of the target's Max HP (1.5/1.8/2.1/2.4/2.7/3% of Max HP against Creeps).<br/><br/>This skill shares cooldown with <highlight>Starlight Pulse</highlight>. Grants one stack of <highlight>Power of Chaos</highlight> after use.",
+      "flavor_text": null,
+      "cost": "30/35/40/45/50/55",
+      "cooldown": "2",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1785f547a0d65857cdd756fd248932ed.png",
+      "video_url": null
+    },
+    {
+      "id": "Lunox3",
+      "name": "Cosmic Fission",
+      "description": "When Lunox uses the power of Order and Chaos, she will deal 300/340/380/420/460/500<scaleAP> (+150% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the targets along the way and slow them by 40% for 2s.",
+      "flavor_text": null,
+      "cost": "70/80/90/100/110/120",
+      "cooldown": "10/9.5/9/8.5/8/7.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d67ac23319eff91169044a7d89484d77.png",
+      "video_url": null
+    },
+    {
+      "id": "Lunox4",
+      "name": "Order & Chaos",
+      "description": "Lunox is twisted by the powers of Chaos and Order.<br/><br/>When Lunox uses <highlight>Power of Order</highlight>, she gains <highlight>Brilliance</highlight> and becomes invincible while dealing continuous damage to nearby enemies. <br/><br/>When Lunox uses <highlight>Power of Chaos</highlight>, she gains <highlight>Darkening</highlight> and can blink in a target direction and greatly reduces the cooldown of <highlight>Chaos Assault</highlight> for a brief period.",
+      "flavor_text": null,
+      "cost": "120/160/200",
+      "cooldown": "30/26/22",
+      "tags": [
+        {
+          "name": "Invincible",
+          "rgb": "177,157,96"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89f09bb6c7f9eece05e75759ca7eedef.png",
+      "video_url": null
+    },
+    {
+      "id": "Lunox42",
+      "name": "Power of Order: Brilliance",
+      "description": "Lunox extends the Light Barrier, becomes invincible for 2.5s, and gains 30% extra Movement Speed while dealing 100/120/140<scaleAP> (+50% Total Magic Damage)</scaleAP> <magicDamage>Magic Damage</magicDamage> every 0.5s to nearby enemies.",
+      "flavor_text": null,
+      "cost": "120/160/200",
+      "cooldown": "30/26/22",
+      "tags": [
+        {
+          "name": "Invincible",
+          "rgb": null
+        },
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_664a96f964b628fff553bf11064a9367.png",
+      "video_url": null
+    },
+    {
+      "id": "Lunox43",
+      "name": "Power of Order: Darkening",
+      "description": "Lunox blinks in the target direction, dealing 250/350/450<scaleAP> (+100% Total Magic Damage)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies, slowing them by 30% for 4s.</br></br>For the next 4s, Lunox enhances her <highlight>Power of Chaos</highlight> to greatly reduce the cooldown of <highlight>Chaos Assault</highlight> (unaffected by CD Reduction), but using <highlight>Starlight Pulse</highlight> will end this enhanced state.",
+      "flavor_text": null,
+      "cost": "120/160/200",
+      "cooldown": "30/26/22",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": null
+        },
+        {
+          "name": "Burst",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acf846262a6ad486ce0a7bc52ea7adeb.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Lunox0",
+      "sequence": "Lunox3-Lunox2-Lunox1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Lunox's 3rd Skill to slow the opponent and her 2nd Skill to poke. When she takes damage, use her 1st Skill to heal back up."
+    },
+    {
+      "id": "Lunox1",
+      "sequence": "Lunox3-Lunox2-Lunox42-Lunox2-Lunox1-Lunox43",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Lunox's 3rd Skill to slow enemies first and follow up with her 2nd Skill to gain the Power of Chaos, then activate her Darkening Ultimate and spam her 2nd Skill for a lot of damage. Afterwards, use her 1st Skill to gain the Power of Order, then activate her Brilliance Ultimate to become invincible and deal damage to nearby enemies."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Lunox is best paired with heroes with strong CC abilities like Franco and Minotaur. While Lunox lacks hard CC, if she can spam her skills on a stationary target, she can deal a ton of damage.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 19,
+          "slug": "minotaur",
+          "name": "Minotaur"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Lunox counters heroes that lack burst damage and healing, such as Yve and Lylia, because Lunox can use her self-healing to get the upper hand in a trade.",
+      "heroes": [
+        {
+          "id": 101,
+          "slug": "yve",
+          "name": "Yve"
+        },
+        {
+          "id": 86,
+          "slug": "lylia",
+          "name": "Lylia"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Lunox is countered by heroes with high mobility since her 2nd Skill has limited range and she lacks CC. Nimble heroes like Nolan and Ling can get in and out of her range all too easily.",
+      "heroes": [
+        {
+          "id": 122,
+          "slug": "nolan",
+          "name": "Nolan"
+        },
+        {
+          "id": 84,
+          "slug": "ling",
+          "name": "Ling"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lunox-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lunox-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8cd47d47126be5496fecb45304368069.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8cd47d47126be5496fecb45304368069.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/lunox.json",
+    "visual_catalog": "catalog/v1/visual/lunox.json",
+    "upgrade_catalog": "catalog/v1/upgrade/lunox.json"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 38,
+    "slug": "vexana",
+    "name": "Vexana",
+    "skin_name": "Shimmer of Hope",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Poke",
+      "Control"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "2017",
+    "resource": "Mana",
+    "short_description": "The young duchess guarding Necrokeep.",
+    "brief": "Vexana was the majestic ruler of Necrokeep, the gentle mother of the undead, but also the only glimmer of light that penetrated the Mist, bringing hope to this cursed land shunned by both life and death.",
+    "story": "Princess Vexana Gaius had never set foot out of Lumina City, nor did she have any desire to do so. The Moniyan capital was warm, opulent, and bursting with life. A ghastly fortress in the southern hinterlands was the last place she intended to spend the rest of her life in.\r\n\r\nOn the other hand, she knew she was bound to her father's will. Duke Atticus of Ridgeburg had offered the House of Gaius a union through marriage, and Lord Gaius deemed Vexana the most suitable match. And now, she had found herself alone in her carriage on a long ride south.\r\n\r\nShe glanced over the letter the Duke sent to introduce her to her future home:\r\n\r\nThese are the southern lands blessed by the old gods, where rainstorms come and go, and silvery grass bathes in the moonlight's glow.\r\n\r\nVexana admired the Duke's thoughtfulness, but those poetic words did little to soothe her unease.\r\n\r\nTo make matters worse, Vexana didn't even meet her host upon her arrival at Ridgeburg. She was told that Duke Atticus had left the castle the day before, on an urgent quest to cleanse a demonic infestation along the border.\r\n\r\nDEMONS? Vexana's queasiness turned into slow, creeping dread. She could hardly make sense of her misfortune. Looking around at the damp, dingy walls of the castle, she thought of her pastel, sunlit room in Lumina City. She had warm baths, lavish banquets, and maidens attending to her every need. Now, all she had was a grim-looking knight named Leomord, who she thought was better suited patrolling the brigs than her hallway.\r\n\r\nStill, she held on to hope. Perhaps, if she wrote to her father about the conditions of her new home, he might change his mind. Indeed, it would be ill-advised to have a poor girl like her take charge of such a dreadfully staggering fortress. As she was drafting her letter, her peace was disrupted by a commotion outside.\r\n\r\nApparently, a pile of thorns had been laid at the castle gate. The residents must be trying to intimidate me! Vexana shivered at the thought. She immediately demanded for Ser Leomord to find the culprits. But to their surprise, the miscreants were just... a group of barefooted kids.\r\n\r\nAccording to the Kids, those thorns were called Moonlight Grass. Despite their horrendous appearance, the herbs could help calm one's mind when properly brewed. The folks of Ridgeburg sympathized with Vexana's plight and simply intended to offer her comfort, though it evidently didn't go as well as they planned.\r\n\r\nPerhaps I judged these people too harshly. Vexana let out a sigh of relief, and her lips cracked ever so slightly to reveal a shy smile. She patted the kids' heads and thanked them for their kindness. One more week, she thought. Maybe I could last one more week in this soggy pile of rocks.\r\n\r\nSo one week passed, two weeks, and then three...\r\n\r\nAtticus' letters were the only company she had on her lonely nights in this strange land. With every stroke of his quill, she couldn't help but feel his pain... and his longing for home. After all, that was precisely what she was going through herself. She wished for nothing more than to ease his grief, and perhaps, for him to do the same for her as well. More than she cared to admit, She had grown a strange affection for the man she had never even met.\r\n\r\nAnd then the letters suddenly stopped, dashing whatever hope Vexana had secretly harbored in her heart. She didn't fall back into her previous panic and anxiety, though; she now had the company of Ridgeburg and its people—her people.\r\n\r\nTwo years passed in a flash. The soft and immature northern princess grew into a capable and decisive southern duchess. Walking across the muddy streets, solving one problem after another, grand or small— Vexana no longer wanted to leave. With Atticus gone, she was the city's greatest and only hope.\r\n\r\nUntil that day, as if fate had heard her thoughts, the herald came knocking on her door—\r\n\r\n\"The Duke has returned!\"\r\n\r\nVexana's heart skipped a beat, and then pounded against her chest so loud it drowned out the cheers that had erupted on the streets. For two long years she'd waited for this day, except, upon seeing Atticus' face for the first time, she felt only a cold shiver run down her spine.\r\n\r\nIn his letters, the Duke sounded lively and spirited, but the man that stood before her was anything but. His gaze was hollow and empty, his face a picture of resignation...\r\n\r\nThe wedding was soon set up again, and nobles and commoners alike in Pentaga all gathered in Ridgeburg to watch this long-awaited union join in holy matrimony. With a bouquet in hand, the gorgeous bride had her eyes set on no one but her groom, as he opened the box that held their wedding ring.\r\n\r\nHowever, instead of a ring, a pair of magic wings spun out of the box, followed by a wicked voice resonating through the holy walls:\r\n\r\nEmbrace the world of death!\r\n\r\nEveryone in the hall gasped in horror as Duke Atticus and his men writhed and twisted, their bodies slowly resembling those of the demons of the Abyss. The sworn protectors of the city became its ruin, as they set off to ravage everything within their sight.\r\n\r\nVexana froze as a raging Atticus lunged at her, his sword raised high—\r\n\r\n\"STOP!\"\r\n\r\nThe lumbering beast stopped in his tracks, as if Vexana's voice rekindled a flame within it that had long died out. The bride reached out, to his heart and whatever was left of him inside. \"Atticus, please... this isn't you.\"\r\n\r\nAnd with a touch, Atticus seemingly managed to regain a trace of consciousness and froze. Battling the demon he'd become, for the sake of his people and his own, Atticus ordered Ser Leomord to pierce his heart.\r\n\r\nWith his dying breath, Atticus entrusted Ridgeburg to Vexana and unveiled the dark secret hidden to all but the royal family of Ridgeburg...\r\n\r\nEons ago, during the Endless War, the agony and resentment of the hundreds of thousands of dying warriors condensed into a frightful curse. It could lay waste to anything with the stench of the Abyss magic, but those without would also suffer a fate worse than death.\r\n\r\n\"The Mist... if there is no other choice—\"\r\n\r\n\"Atticus stared deeply into his fiancé's eyes; his demon hands reached out to her gentle face. A mix of emotions flashed in his eyes. Regret, gratitude, and serenity. Until the inevitable claws of death snatched him from her arms.\r\n\r\nInside the city, the demon knights attacked everyone in sight; outside, more demon forces were on their way.\r\n\r\nIn desperation, Vexana lifted Atticus's scepter; the magic power that ran deep in her blood exploded—she chose to forever guard this city!\r\n\r\nA dark fog surged into the sky and swallowed the whole of Ridgeburg. Every city folk who came into contact with the fog wailed in agony, their skin losing color in an instant. The demon knights withered into ashes, while those outside the gates turned and scurried back into the Abyss.\r\n\r\nVexana could almost feel her spirit escape her body. Amidst the chaos unfolding before her, she fell to her knees, her heart heavy with guilt. The residents, however, came and surrounded their young duchess, not with blame or hatred but to thank her for saving them from the Abyss's grasp...\r\n\r\nThe black fog had since shrouded Ridgeburg for a hundred years. As the once formidable fortress gradually fell into rot, its name was forgotten, and people came to know it as Necrokeep, the land of the undead and home of the restless souls.\r\n\r\nIn the early morning, the children would push open the crumbling door to the school; and when night fell, the whole family would sit around a half-collapsed dining table, the food on the plate long turned into dust. It was all pointless, but only in this way could they feel a semblance of life.\r\n\r\nNot even once had Vexana thought of leaving again.\r\n\r\nShe had since fully embraced her role as the ruler of the city, yet to the dwellers of Necrokeep, she was also the gentle mother who loved and cared for them all.\r\n\r\nVexana firmly believed that one day, she would find a way to revert the curse... and her people would have a taste of life once again.\r\n\r\nThese are the southern lands blessed by the old gods, where rainstorms come and go, and silvery grass bathes in the moonlight's glow.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 2,
+    "offense": 9,
+    "control": 5,
+    "difficulty": 1
+  },
+  "attributes": {
+    "health": 2380,
+    "health_growth": 155,
+    "health_regen": 7.6,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 112,
+    "physical_attack_growth": 5.79,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 4.8
+  },
+  "abilities": [
+    {
+      "id": "Vexana0",
+      "name": "Nether Touch",
+      "description": "Vexana and the <highlight>Eternal Guard</highlight> inflict <highlight>Nether Curse</highlight> on enemies hit. The Curse lasts 5s and will cause the affected enemy to explode upon death, dealing 108-500<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies (base damage scales with level).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4a772fea90f7fef17b012afc119091a7.png",
+      "video_url": null
+    },
+    {
+      "id": "Vexana1",
+      "name": "Deathly Grasp",
+      "description": "Vexana unleashes a <highlight>Deathly Grasp</highlight> in the target direction, dealing 200/220/240/260/280/300<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in its path. The projectile stops upon hitting an enemy hero, terrifying them and knocking them back, then it explodes, dealing 200/220/240/260/280/300<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies and terrifying them for 1s.",
+      "flavor_text": null,
+      "cost": "80/90/100/110/120/130",
+      "cooldown": "14/13.4/12.88/12.2/11.6/11",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_306fd329581b6ea4590086598d250df1.png",
+      "video_url": null
+    },
+    {
+      "id": "Vexana2",
+      "name": "Cursed Blast",
+      "description": "Vexana marks the target area with the power of the undead, striking it after a 0.8s delay and dealing 580/634/689/743/797/850<scaleAP> (+165% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies hit.",
+      "flavor_text": null,
+      "cost": "60/68/76/84/92/100",
+      "cooldown": "7/6.7/6.4/6.1/5.8/5.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0142fc0def21fe074ec6feb4a24fa07.png",
+      "video_url": null
+    },
+    {
+      "id": "Vexana3",
+      "name": "Eternal Guard",
+      "description": "Vexana summons an <highlight>Eternal Guard</highlight> at the target location, dealing 480/600/720<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies hit and knocking them airborne for 0.6s. The <highlight>Eternal Guard</highlight> then joins Vexana in battle for 15s. Each of the Eternal Guard's attacks deals 200/250/300<scaleAP> (+40% Total Magic Power)</scaleAP> plus 5% of the target's Max HP as <magicDamage>Magic Damage</magicDamage> to enemies in a large area.",
+      "flavor_text": null,
+      "cost": "120/160/200",
+      "cooldown": "60/53/46",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": 100.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a95d813fc47cb5ec048784dacd7b46e.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Vexana0",
+      "sequence": "Vexana3-Vexana2-Vexana1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Initiate teamfights with CC or follow up after other CC. Use her Ultimate when enemies are gathered, follow up with 2nd and 1st Skill combo for CC and damage."
+    },
+    {
+      "id": "Vexana1",
+      "sequence": "Vexana1-Vexana2",
+      "name": "LANING COMBOS",
+      "description": "Terrify enemy with 1st Skill and follow up with 2nd Skill for guaranteed damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Heroes with powerful CC such as Atlas or\nhigh damage output like Beatrix to burst down enemies.",
+      "heroes": [
+        {
+          "id": 93,
+          "slug": "atlas",
+          "name": "Atlas"
+        },
+        {
+          "id": 105,
+          "slug": "beatrix",
+          "name": "Beatrix"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Backline DPS heroes such as Layla, Irithel and Xavier.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 43,
+          "slug": "irithel",
+          "name": "Irithel"
+        },
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Mobile Assassins such as Saber, Aamon and Karina.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 109,
+          "slug": "aamon",
+          "name": "Aamon"
+        },
+        {
+          "id": 8,
+          "slug": "karina",
+          "name": "Karina"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Vexana-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Vexana-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f1a01e297d30d147c16342efc357275e.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f1a01e297d30d147c16342efc357275e.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/vexana.json",
+    "visual_catalog": "catalog/v1/visual/vexana.json",
+    "upgrade_catalog": "catalog/v1/upgrade/vexana.json"
+  }
+}

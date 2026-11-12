@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 88,
+    "slug": "masha",
+    "name": "Masha",
+    "skin_name": "Wild-oats Fist",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Push",
+      "Damage"
+    ],
+    "region": "Northern Vale",
+    "release_date": "17 September 2019",
+    "resource": null,
+    "short_description": "Guardian of the Direbears.",
+    "brief": "Leader of the Sami people who lives in the Northern Vale. After the wandering pirates of the Frozen Ocean began to invade the Northern Vale. Masha fought constantly with the pirates, and insisted on finding the Direbears, who had been scattered by the pirate invasion, to protect the land.",
+    "story": "There was a land in the far north called Northern Vale, which was covered by winter snow all year round. It was also known as the land closest to the Frozen Sea. In their long history, the Sarmi Tribe and the Bears shared their land. Having a common ancestor, they never attacked each other and lived in harmony. As time passed, they developed a spiritual bond. Such peace was maintained for a long time.\n\nNobody would have thought that the perilous natural environment of the Northern Vale would still invite invaders to this land. Large numbers of pirates from the Frozen Sea came to the Northern Vale. They brought not only endless plunder but also bitter wars. Formidable as they were, the pirates pillaged and occupied this land. As if that was not enough, the invaders started to hunt the Bears. Every tribe of Northern Vale was threatened by those invaders - some of them were conquered, some of them were expelled from their homes, having to struggle homeless in the cold. As the leader of Sarmi Tribe, Masha protected her tribal from waves of attacks. As a tribal hunter, she had a great talent in battle, and this was the reason why she could defend the dignity of the Northern Vale.\n\nShe never forgot the vow of Sarmi - to \"Protect the Bears!\" She endeavored to find the Bears. But when she found the habitat of the Bears, she found only death and signs of violence everywhere. Suddenly, Marsha heard a loud roar. It was a familiar roar. As expected, there was a group of invaders trying to hunt down the Bear King, who was constantly saying \"Beast Power\". They launched attacks with their advanced weapons and unique hunting skills. The Bear King tried to protect the injured little bears by shielding them with his body, though he had been badly hurt by those iron spears. Masha dashed into the battlefield to assist the Bear King, but was in vain. The Bear King perceiving Masha's intentions, decided to divert the attention of those hunters by moving away. Masha understood the purpose of the Bear King and rescued the little bears and ran into the mountains.\n\nShe used her own cloth to bind the wounds sustained by the bears and placed them safely in a secret cave. She went back to assist the Bear King who was gravely injured. Those hunters beat him down and tried to capture him. This irritated Masha who descended upon them and tore them up while attempting to save the Bear King. The Bear King then mustered all his remaining strength and unleashed his final \"Beast Power\". Masha and the Bear King fought together and let the hunters pay in blood for their invasion. It was the first time the Sarmi and the Bears fought together, and the victory belonged to all of Northern Vale. What Masha didn't expect was that the Bear King was down to his final moments. Masha could feel the grateful trust from the Bear King's eyes. It seemed that the King was showing his deepest respect for what she had done. Finally, the King closed his eyes and endowed Masha with powerful energy. Masha felt this energy coursing through her body and she realized that this was the \"Beast Power\". Her body became extremely powerful. It seemed that she could withstand any kind of attack with this body and could beat any opponent with her superb attack speed.\n\nMasha successfully saved the little bears, in hopes that the bears would rise again in future. From that day onwards, Marsha vowed to guard the Northern Vale with her \"Beast Power\" and no invaders would escape the wrath of her wild fists.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 7,
+    "control": 3,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2043,
+    "health_growth": 165,
+    "health_regen": 3.8,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 91,
+    "physical_attack_growth": 9.71,
+    "magic_power": 0,
+    "physical_defense": 15,
+    "physical_defense_growth": 2.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 3.7143,
+    "attack_speed": 0.96,
+    "attack_speed_growth": 0.035,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 1.6
+  },
+  "abilities": [
+    {
+      "id": "Masha0",
+      "name": "Ancient Strength",
+      "description": "Blessed by the Bear King, Masha has 3 HP bars and won't die until all of them are depleted. She can ignore an instance of damage and remove all Control effects on herself each time she loses an HP bar. When Masha only has two HP bars left, skills will only require 50% of their original HP Cost to cast. When Masha only has one HP bar left, she doesn't need to spend HP to cast skills.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_11fea6d6964fce2e229664f69b8b74a0.png",
+      "video_url": null
+    },
+    {
+      "id": "Masha1",
+      "name": "Wild Power",
+      "description": "<highlight>Passive</highlight>: Masha gains <highlight>Power of the Wild</highlight> which causes her Basic Attacks to deal extra <physicalDamage>Physical Damage</physicalDamage> equal to 2<scaleAD> (+1% Extra Physical Attack)</scaleAD>% of the target's Max HP (up to 60/72/84/96/108/120 against Creeps and doesn't take effect on Turrets or Base).<br/><highlight>Active</highlight>: Masha spends 24/22.4/20.8/19.2/17.6/16% HP to increase her Movement Speed by 60% for 1.5s. She also increases the extra <physicalDamage>Physical Damage</physicalDamage> from <highlight>Power of the Wild</highlight> by 3/3.6/4.2/4.8/5.4/6<scaleAD> (+1% Extra Physical Attack)</scaleAD>% of the target's Max HP and gains 50% extra Attack Speed for her next two Basic Attacks.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
+      "video_url": null
+    },
+    {
+      "id": "Masha2",
+      "name": "Howl Shock",
+      "description": "Masha spends 24/22.2/20.8/19.2/17.6/16% HP to roar at enemies, dealing 200/220/240/260/280/300<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and reducing their Attack Speed by 50% for 2s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
+      "video_url": null
+    },
+    {
+      "id": "Masha3",
+      "name": "Thunderclap",
+      "description": "Masha spends 34/29/24% HP to lunge at an enemy hero (immune to control effects during the lunge), dealing 400/450/500<scaleAD> (+220% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>, slowing them by 25% for 2s, and knocking back nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "35",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
+      "video_url": null
+    },
+    {
+      "id": "Masha4",
+      "name": "Life Recovery",
+      "description": "Masha gains Energy when dealing damage to enemies and extra Energy when dealing damage with Wild Power.<br/><br/>After leaving combat for 3s, Masha can activate this skill to spend half a full bar of Energy to recover a full HP bar. Masha is invincible while casting this skill.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "0",
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Invincible",
+          "rgb": "177,157,96"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_13f8eb8f71c22d308124486b630def4c.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Masha0",
+      "sequence": "Masha1-Masha2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Masha's 1st Skill to close the gap with the enemy and slow them with her 2nd Skill to engage. Follow up with Basic Attacks for more damage."
+    },
+    {
+      "id": "Masha1",
+      "sequence": "Masha3-Masha1-AA-Masha3-Masha2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, charge into an enemy with Masha's Ultimate, then use her 1st Skill followed by Basic Attacks to deal more damage. Whenever she loses an HP bar, use her Ultimate again to charge at the target and slow them with her 2nd Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Masha can maximize her effectiveness and damage when paired with utility Supports that provide extra Movement Speed and CC, such as Angela and Rafaela.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Masha works well against Marksmen with low mobility, such as Ixia and Layla, as she can easily chase them down using her Ultimate.",
+      "heroes": [
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Masha is countered by Fighters with strong Regen capabilities like Cici and Thamuz, because they can outlast Masha in a prolonged fight due to her comparatively lower Regen.",
+      "heroes": [
+        {
+          "id": 123,
+          "slug": "cici",
+          "name": "Cici"
+        },
+        {
+          "id": 72,
+          "slug": "thamuz",
+          "name": "Thamuz"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Masha-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Masha-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59893811b0123dc6babca117f5ead017.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59893811b0123dc6babca117f5ead017.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/masha.json",
+    "visual_catalog": "catalog/v1/visual/masha.json",
+    "upgrade_catalog": "catalog/v1/upgrade/masha.json"
+  }
+}

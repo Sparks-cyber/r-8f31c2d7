@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 16,
+    "slug": "zilong",
+    "name": "Zilong",
+    "skin_name": "Spear of Dragon",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "9 September 2016",
+    "resource": "Mana",
+    "short_description": "Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power.",
+    "brief": "Zilong was taken in by the Tianyin Swordmaster Sect when he was just a child. Although the Sect was famous for their mastery of the \"Jian,\" Zilong chose to take up the spear. Without a teacher, he practiced the basics of the spear day in and day out with unwavering determination. After leaving the Sect, he became a disciple of the Great Dragon under the guidance of Baxia, the Mystic Tortoise, and trained at the Dragon Altar. But with the changing of the times, the spirit of the Cloud Dragon appeared on the tip of his spear one day to the surprise of his peers. That was when everyone, including Zilong, realized he had become one with the Cloud Dragon of the Oriental Fighters and inherited the Great Dragon Spear.\r\n\r\nEven though the spear is known as the \"King of Weapons,\" Zilong had no desire for power. No matter where he was or who he was supposed to be, Zilong was content to protect his homeland with a spear in hand. As long as he still breathed, there would be peace in the Cadia Riverlands.",
+    "story": "\"Why do you train with the spear?\" Duan Meng asked Zilong in front of the other disciples.\r\n\r\nThis was the Tianyin Swordmaster Sect, after all, known as the zenith of swordsmanship in all of the Cadia Riverlands. Duan Meng had roamed the Cadia Riverlands as an assassin to perfect his skills, becoming one with his sword, and was unrivaled soon after joining the Sect.\r\n\r\nZilong was different. Even though he had been a disciple of the Sect since childhood, he trained only in the spear. As wave after wave of disciples advanced their training from twigs to wooden swords to blades of steel, Zilong continued practicing the basic spear moves: thrust, parry, shuttle.\r\n\r\n\"Why do I practice the spear?\" Zilong contemplated while lowering his eyes, as his body continued to move on its own.\"I don't know.\"\r\n\r\nZilong had never thought about it. Picking up a spear was as natural as breathing to him. Does one need a reason to breathe? The onlooking disciples thought Zilong was disrespectful to Duan Meng and chided him. \"Then can you stop practicing in the middle of the night? We can't rest with you making a racket.\"\r\n\r\n\"It is my fault. Please accept my apology.\"\r\nZilong's response was so sincere that the mob lost interest and gradually dispersed. He changed his routine after the incident—he ventured further out to train so nobody would be disturbed no matter how late it was.\r\n\r\nRain or shine, Zilong maintained his training. The Sect did not keep any manuals of spear techniques, so Zilong could only repeat the same basic movements, a thousand times, a hundred thousand times...\r\n\r\nFrom behind Duan Meng, Master Longma answered his question. \"He has the will, but not the talent...\"\r\n\r\nIndeed, he did not fit.\r\n\r\nThe Tianyin Swordmaster Sect had no place for Zilong. Thus, Zilong packed his bags and left the Sect. He had arrived alone and would depart alone. As he looked back at the mountain where the disciples used to train, he couldn't help but wonder\r\n\r\n—Why did he choose the spear?\r\n\r\nFor Zilong, training with the spear was no different than eating and sleeping. The spear was simply a natural part of his life. When he trained, his mind was clear, and as long as he held the spear, the days felt normal.\r\n\r\nIt was only when his old friend Ling, and Baxia, the Mystic Tortoise of the Oriental Fighters, came looking for Zilong that he suddenly remembered why he chose the spear. It was when Ling's life was in danger during a mission for the Finch Sect. At that time, Zilong felt an extra weight on the spear that he had swung countless times. But it was not a physical weight... it was something else, something deep inside. And as if something had taken over him, with a fiery resolve and clear mind, he managed to save Ling.\r\n\r\nBaxia came here specifically for Zilong. He talked about how Zilong was the chosen successor of the Cloud Dragon, and Ling was inextricably linked to the Vermillion Bird. Since the time of the Endless War, the Four Immortals went into deep slumber and their power has been passed down amongst the disciples of the Great Dragon. When a mortal is chosen by an Immortal, they become an Oriental Fighter and take on the duty of protecting the Cadia Riverlands.\r\n\r\nAs Baxia told the ancient tale, Zilong listened and pondered, then finally understood why he picked up the spear back then and followed Baxia and Ling into the Dragon Altar.\r\n\r\nBaxia took them in as disciples in place of his master and the three of them became like brothers, watching over the Dragon Altar together.\r\n\r\nLing was the most talented. He was ethereal and swift with the sword like the wind, and his progress was rapid. Zilong continued to train silently like his time in the Tianyin Swordmaster Sect: carrying out each motion with unwavering determination. Ling would often seek out Zilong to spar and exchange techniques with him, but Zilong never won once.\r\n\r\n\"You've been swinging that spear day in and day out without making any progress. What are you training for?\"\r\n\r\nLing asked after finishing their sparring one day.\r\n\r\n\"Do I need a reason to master the spear?\" Zilong seemed to have returned to the time when he was in the Tianyin Swordmaster Sect.\r\n\r\n\"Everything we do has a reason. Whether it's to chase fame, fortune, life, death... There's always a reason.\"\r\n\r\n\"Then what are you chasing?\"\r\n\r\nZilong thought for sure that Ling would give him an answer that could guide his own path, but Ling simply leaped into the air and disappeared behind the roof tiles.\r\n\r\nZilong did not get an answer. Ling stood across from him and drew his sword.\r\n\r\nOn that day, Ling touched the Black Dragon seal in the Dragon Altar and Baxia was forced to confront him. Unable to stop the fight and unwilling to hurt either side, Zilong drew a small portion of the Cloud Dragon's power in desperation. His spear soared like a dragon and exuded overwhelming strength, and Zilong was able to deflect Ling and Baxia's attacks with one swing.\r\n\r\nZilong, who had never won a sparring match against his brothers, sent both of them staggering backward. Surrounded by green silhouettes, Zilong fell into a trance.\r\n\r\nWhile his mind was still a blur, he saw Baxia standing in front of him, looking at Ling warily. He then shifted his eyes to Ling, who looked at him coldly.\r\n\r\n\"For the mission.\"This was Ling's answer: \"For the Finch Sect, the harder the mission, the sharper the blade that completes it. That's all.\"\r\n\r\nNight came. As the sword and spear came into contact, Ling turned and departed.\r\n\r\nZilong wanted Ling to stay; he wanted to tell Baxia that there was no need to worry, but it was as if he was caught in a vast illusion. Then, a majestic voice echoed across heaven and earth.\r\n\r\n\"Why do you practice the spear?\"\r\n\r\nThe scene when he drew his spear played over and over in Zilong's mind until he finally was able to answer that question.\r\n\r\n\"For me.\"\r\n\r\n\"What is 'me'?\"\r\n\r\n\"The spear is me, and I am the spear. I will follow my heart and protect what's dear to me.\"\r\n\r\nA long sigh can be heard, partly of approval, and partly of resignation.\r\n\r\n\"When the mind is clear, the spirit is whole. Continue on the path of the righteous and protect this world.\"\r\n\r\n—the Cloud Dragon's parting words.\r\n\r\nZilong opened his eyes as power surged around him before settling down.\r\n\r\nHe thanked Baxia who had been watching over him and looked towards the direction that Ling went. He knew that Ling would return one day, and he had prepared his answer.\r\n\r\nSaving one person or protecting this land... both are one and the same. He would protect heaven and earth wherever his spear was needed, as long as he still breathed, and keep the Cadia Riverlands safe.\r\n\r\nTranquillity returned to the Dragon Altar and Zilong picked up the spear, practicing the most basic moves...\r\n\r\nAs in many years past, and many more to come.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 2,
+    "offense": 5,
+    "control": 6,
+    "difficulty": 1
+  },
+  "attributes": {
+    "health": 2689,
+    "health_growth": 202,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 123,
+    "physical_attack_growth": 9.0,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 4.6429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.0236,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 265,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Zilong0",
+      "name": "Dragon Flurry",
+      "description": "After dealing damage to 3 times with Basic Attacks or skills, Zilong triggers <highlight>Dragon Flurry</highlight> on the next Basic Attack, hitting the target 3 times. Each hit deals 80<scaleAD> (+30% Total Physical Attack)</scaleAD> Basic Attack damage and heals himself for 50<scaleAD> (+20% Total Physical Attack)</scaleAD> HP.<br><br>Zilong's Basic Attack deal 100<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.<br><br>If the target's HP is below 50%, all damage dealt by Zilong's skills ans Basic Attacks is increased by 30.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 50.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_588b6273f7a0153bebe86f7ed6bb7e18.png",
+      "video_url": null
+    },
+    {
+      "id": "Zilong1",
+      "name": "Spear Flip",
+      "description": "Zilong flings the target enemy over his head, dealing 250/270/290/310/330/350<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": "80/85/90/95/100/105",
+      "cooldown": "12/11.5/11/10.5/10/9.5",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_effcecb9dba41aa5fa1c34edad4d7e17.png",
+      "video_url": null
+    },
+    {
+      "id": "Zilong2",
+      "name": "Spear Strike",
+      "description": "Zilong lunges at the target enemy, dealing 250/290/330/370/410/450<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and reducing their Physical Defense by 15/18/21/24/27/30 for 2s. He then launches a Basic Attack on the same target.<br/><br/>The cooldown of <highlight>Spear Strike</highlight> is reset each time Zilong kills an enemy.",
+      "flavor_text": null,
+      "cost": "40",
+      "cooldown": "12/11.4/10.8/10.2/9.6/9",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_61e9af7beef08d70233d34f98cafb3e3.png",
+      "video_url": null
+    },
+    {
+      "id": "Zilong3",
+      "name": "Supreme Warrior",
+      "description": "Zilong removes all slow effects on himself and gains 40% Movement Speed, 35/45/55% Attack Speed, and Slow Immunity for 7.5s.<br/><br/>For the duration, he can trigger <highlight>Dragon Flurry</highlight> after every 2 Basic Attacks (instead of the previous 3).",
+      "flavor_text": null,
+      "cost": "120/140/160",
+      "cooldown": "35/31/27",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ed8776fe35d9d7b2db410549e95759cd.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Zilong0",
+      "sequence": "Zilong3-Zilong2-Zilong1-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, activate Zilong's Ultimate to gain Movement and Attack Speed bonus before charging at the target enemy with his 2nd Skill. Cast his 1st Skill after closing in on the enemy and follow up with Basic Attacks to trigger the Passive effects."
+    },
+    {
+      "id": "Zilong1",
+      "sequence": "Zilong2-Zilong1-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Zilong should use his 2nd Skill to close in on the target enemy and lower their Defenses, then lift the target over his back with his 1st Skill, and spam Basic Attacks to trigger more Passive effects."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Zilong works best with heroes with strong defensive abilities that can hold off enemy attacks while he solos the lane, such as Pharsa and Hanabi.",
+      "heroes": [
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        },
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "The immunity to Slow effects that Zilong gets from his Ultimate makes him strong against squishy heroes without CC skills, such as Layla and Lylia.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 86,
+          "slug": "lylia",
+          "name": "Lylia"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Zilong is still vulnerable to non-slow CC skills, making him weak against heroes with powerful single-target CC skills, such as Franco and Nana.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 5,
+          "slug": "nana",
+          "name": "Nana"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zilong-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zilong-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_90df181873c42df22049aa056662a934.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_90df181873c42df22049aa056662a934.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/zilong.json",
+    "visual_catalog": "catalog/v1/visual/zilong.json",
+    "upgrade_catalog": "catalog/v1/upgrade/zilong.json"
+  }
+}

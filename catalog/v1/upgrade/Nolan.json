@@ -1,0 +1,161 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Nolan",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Voidwalker",
+      "Splash_url": "Nolan-Voidwalker.png",
+      "script": "Nolan-Voidwalker-Backup.zip",
+      "Portrait_url": "Nolan-Voidwalker.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Fashion Mogul",
+          "Portrait_url": "Nolan-Fashion-Mogul.png",
+          "Splash_url": "Nolan-Fashion-Mogul.png",
+          "script": "Nolan-Voidwalker-Fashion-Mogul.zip"
+        },
+        {
+          "name": "The Navigator",
+          "Portrait_url": "Nolan-The-Navigator.png",
+          "Splash_url": "Nolan-The-Navigator.png",
+          "script": "Nolan-Voidwalker-The-Navigator.zip"
+        },
+        {
+          "name": "Spectral Strider",
+          "Portrait_url": "Nolan-Spectral-Strider.png",
+          "Splash_url": "Nolan-Spectral-Strider.png",
+          "script": "Nolan-Voidwalker-Spectral-Strider.zip"
+        },
+        {
+          "name": "Fashion Tycoon",
+          "Portrait_url": "Nolan-Fashion-Tycoon.png",
+          "Splash_url": "Nolan-Fashion-Tycoon.png",
+          "script": "Nolan-Voidwalker-Fashion-Tycoon.zip"
+        },
+        {
+          "name": "Fashion Magnate",
+          "Portrait_url": "Nolan-Fashion-Magnate.png",
+          "Splash_url": "Nolan-Fashion-Magnate.png",
+          "script": "Nolan-Voidwalker-Fashion-Magnate.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Fashion Mogul",
+      "Splash_url": "Nolan-Fashion-Mogul.png",
+      "script": "Nolan-Fashion-Mogul-Backup.zip",
+      "Portrait_url": "Nolan-Fashion-Mogul.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Voidwalker",
+          "Portrait_url": "Nolan-Voidwalker.png",
+          "Splash_url": "Nolan-Voidwalker.png",
+          "script": "Nolan-Fashion-Mogul-Voidwalker.zip"
+        },
+        {
+          "name": "The Navigator",
+          "Portrait_url": "Nolan-The-Navigator.png",
+          "Splash_url": "Nolan-The-Navigator.png",
+          "script": "Nolan-Fashion-Mogul-The-Navigator.zip"
+        },
+        {
+          "name": "Spectral Strider",
+          "Portrait_url": "Nolan-Spectral-Strider.png",
+          "Splash_url": "Nolan-Spectral-Strider.png",
+          "script": "Nolan-Fashion-Mogul-Spectral-Strider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Sea",
+      "Default_name": "The Navigator",
+      "Splash_url": "Nolan-The-Navigator.png",
+      "script": "Nolan-The-Navigator-Backup.zip",
+      "Portrait_url": "Nolan-The-Navigator.png",
+      "Tags": [
+        "Nexus Sea.png"
+      ],
+      "targets": [
+        {
+          "name": "Voidwalker",
+          "Portrait_url": "Nolan-Voidwalker.png",
+          "Splash_url": "Nolan-Voidwalker.png",
+          "script": "Nolan-The-Navigator-Voidwalker.zip"
+        },
+        {
+          "name": "Fashion Mogul",
+          "Portrait_url": "Nolan-Fashion-Mogul.png",
+          "Splash_url": "Nolan-Fashion-Mogul.png",
+          "script": "Nolan-The-Navigator-Fashion-Mogul.zip"
+        },
+        {
+          "name": "Spectral Strider",
+          "Portrait_url": "Nolan-Spectral-Strider.png",
+          "Splash_url": "Nolan-Spectral-Strider.png",
+          "script": "Nolan-The-Navigator-Spectral-Strider.zip"
+        },
+        {
+          "name": "Fashion Tycoon",
+          "Portrait_url": "Nolan-Fashion-Tycoon.png",
+          "Splash_url": "Nolan-Fashion-Tycoon.png",
+          "script": "Nolan-The-Navigator-Fashion-Tycoon.zip"
+        },
+        {
+          "name": "Fashion Magnate",
+          "Portrait_url": "Nolan-Fashion-Magnate.png",
+          "Splash_url": "Nolan-Fashion-Magnate.png",
+          "script": "Nolan-The-Navigator-Fashion-Magnate.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Spectral Strider",
+      "Splash_url": "Nolan-Spectral-Strider.png",
+      "script": "Nolan-Spectral-Strider-Backup.zip",
+      "Portrait_url": "Nolan-Spectral-Strider.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Voidwalker",
+          "Portrait_url": "Nolan-Voidwalker.png",
+          "Splash_url": "Nolan-Voidwalker.png",
+          "script": "Nolan-Spectral-Strider-Voidwalker.zip"
+        },
+        {
+          "name": "Fashion Mogul",
+          "Portrait_url": "Nolan-Fashion-Mogul.png",
+          "Splash_url": "Nolan-Fashion-Mogul.png",
+          "script": "Nolan-Spectral-Strider-Fashion-Mogul.zip"
+        },
+        {
+          "name": "The Navigator",
+          "Portrait_url": "Nolan-The-Navigator.png",
+          "Splash_url": "Nolan-The-Navigator.png",
+          "script": "Nolan-Spectral-Strider-The-Navigator.zip"
+        },
+        {
+          "name": "Fashion Tycoon",
+          "Portrait_url": "Nolan-Fashion-Tycoon.png",
+          "Splash_url": "Nolan-Fashion-Tycoon.png",
+          "script": "Nolan-Spectral-Strider-Fashion-Tycoon.zip"
+        },
+        {
+          "name": "Fashion Magnate",
+          "Portrait_url": "Nolan-Fashion-Magnate.png",
+          "Splash_url": "Nolan-Fashion-Magnate.png",
+          "script": "Nolan-Spectral-Strider-Fashion-Magnate.zip"
+        }
+      ]
+    }
+  ]
+}

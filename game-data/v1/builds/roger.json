@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 39,
+    "slug": "roger",
+    "name": "Roger"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "roger-community-6233",
+      "name": "Community Build 6233",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "haasclaws",
+        "corrosionscythe",
+        "bladeofdespair",
+        "berserkersfury"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "no 1 build",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6233,
+      "source_created_at": "2026-03-04T14:10:38.000Z",
+      "likes": 0,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "roger-companion-baseline",
+      "name": "Companion Fighter/Marksman Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

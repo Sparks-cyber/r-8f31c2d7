@@ -1,0 +1,347 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Khufra",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Desert Owl",
+      "Splash_url": "Khufra-Desert-Owl.png",
+      "script": "Khufra-Desert-Owl-Backup.zip",
+      "Portrait_url": "Khufra-Desert-Owl.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Gentleman Thief",
+          "Portrait_url": "Khufra-Gentleman-Thief.png",
+          "Splash_url": "Khufra-Gentleman-Thief.png",
+          "script": "Khufra-Desert-Owl-Gentleman-Thief.zip"
+        },
+        {
+          "name": "Volcanic Overlord",
+          "Portrait_url": "Khufra-Volcanic-Overlord.png",
+          "Splash_url": "Khufra-Volcanic-Overlord.png",
+          "script": "Khufra-Desert-Owl-Volcanic-Overlord.zip"
+        },
+        {
+          "name": "Iron Hook",
+          "Portrait_url": "Khufra-Iron-Hook.png",
+          "Splash_url": "Khufra-Iron-Hook.png",
+          "script": "Khufra-Desert-Owl-Iron-Hook.zip"
+        },
+        {
+          "name": "Cursed Scroll",
+          "Portrait_url": "Khufra-Cursed-Scroll.png",
+          "Splash_url": "Khufra-Cursed-Scroll.png",
+          "script": "Khufra-Desert-Owl-Cursed-Scroll.zip"
+        },
+        {
+          "name": "Classic Crook",
+          "Portrait_url": "Khufra-Classic-Crook.png",
+          "Splash_url": "Khufra - Classic Crook.jpg",
+          "script": "Khufra-Desert-Owl-Classic-Crook.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Apophis",
+      "Splash_url": "Khufra-Apophis.png",
+      "script": "Khufra-Apophis-Backup.zip",
+      "Portrait_url": "Khufra-Apophis.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Desert Owl",
+          "Portrait_url": "Khufra-Desert-Owl.png",
+          "Splash_url": "Khufra-Desert-Owl.png",
+          "script": "Khufra-Apophis-Desert-Owl.zip"
+        },
+        {
+          "name": "Gentleman Thief",
+          "Portrait_url": "Khufra-Gentleman-Thief.png",
+          "Splash_url": "Khufra-Gentleman-Thief.png",
+          "script": "Khufra-Apophis-Gentleman-Thief.zip"
+        },
+        {
+          "name": "Volcanic Overlord",
+          "Portrait_url": "Khufra-Volcanic-Overlord.png",
+          "Splash_url": "Khufra-Volcanic-Overlord.png",
+          "script": "Khufra-Apophis-Volcanic-Overlord.zip"
+        },
+        {
+          "name": "Dreadful Clown",
+          "Portrait_url": "Khufra-Dreadful-Clown.png",
+          "Splash_url": "Khufra-Dreadful-Clown.png",
+          "script": "Khufra-Apophis-Dreadful-Clown.zip"
+        },
+        {
+          "name": "Cursed Scroll",
+          "Portrait_url": "Khufra-Cursed-Scroll.png",
+          "Splash_url": "Khufra-Cursed-Scroll.png",
+          "script": "Khufra-Apophis-Cursed-Scroll.zip"
+        },
+        {
+          "name": "Classic Crook",
+          "Portrait_url": "Khufra-Classic-Crook.png",
+          "Splash_url": "Khufra - Classic Crook.jpg",
+          "script": "Khufra-Apophis-Classic-Crook.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Gentleman Thief",
+      "Splash_url": "Khufra-Gentleman-Thief.png",
+      "script": "Khufra-Gentleman-Thief-Backup.zip",
+      "Portrait_url": "Khufra-Gentleman-Thief.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Desert Owl",
+          "Portrait_url": "Khufra-Desert-Owl.png",
+          "Splash_url": "Khufra-Desert-Owl.png",
+          "script": "Khufra-Gentleman-Thief-Desert-Owl.zip"
+        },
+        {
+          "name": "Apophis",
+          "Portrait_url": "Khufra-Apophis.png",
+          "Splash_url": "Khufra-Apophis.png",
+          "script": "Khufra-Gentleman-Thief-Apophis.zip"
+        },
+        {
+          "name": "Volcanic Overlord",
+          "Portrait_url": "Khufra-Volcanic-Overlord.png",
+          "Splash_url": "Khufra-Volcanic-Overlord.png",
+          "script": "Khufra-Gentleman-Thief-Volcanic-Overlord.zip"
+        },
+        {
+          "name": "Dreadful Clown",
+          "Portrait_url": "Khufra-Dreadful-Clown.png",
+          "Splash_url": "Khufra-Dreadful-Clown.png",
+          "script": "Khufra-Gentleman-Thief-Dreadful-Clown.zip"
+        },
+        {
+          "name": "Iron Hook",
+          "Portrait_url": "Khufra-Iron-Hook.png",
+          "Splash_url": "Khufra-Iron-Hook.png",
+          "script": "Khufra-Gentleman-Thief-Iron-Hook.zip"
+        },
+        {
+          "name": "Cursed Scroll",
+          "Portrait_url": "Khufra-Cursed-Scroll.png",
+          "Splash_url": "Khufra-Cursed-Scroll.png",
+          "script": "Khufra-Gentleman-Thief-Cursed-Scroll.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Volcanic Overlord",
+      "Splash_url": "Khufra-Volcanic-Overlord.png",
+      "script": "Khufra-Volcanic-Overlord-Backup.zip",
+      "Portrait_url": "Khufra-Volcanic-Overlord.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Desert Owl",
+          "Portrait_url": "Khufra-Desert-Owl.png",
+          "Splash_url": "Khufra-Desert-Owl.png",
+          "script": "Khufra-Volcanic-Overlord-Desert-Owl.zip"
+        },
+        {
+          "name": "Apophis",
+          "Portrait_url": "Khufra-Apophis.png",
+          "Splash_url": "Khufra-Apophis.png",
+          "script": "Khufra-Volcanic-Overlord-Apophis.zip"
+        },
+        {
+          "name": "Gentleman Thief",
+          "Portrait_url": "Khufra-Gentleman-Thief.png",
+          "Splash_url": "Khufra-Gentleman-Thief.png",
+          "script": "Khufra-Volcanic-Overlord-Gentleman-Thief.zip"
+        },
+        {
+          "name": "Dreadful Clown",
+          "Portrait_url": "Khufra-Dreadful-Clown.png",
+          "Splash_url": "Khufra-Dreadful-Clown.png",
+          "script": "Khufra-Volcanic-Overlord-Dreadful-Clown.zip"
+        },
+        {
+          "name": "Iron Hook",
+          "Portrait_url": "Khufra-Iron-Hook.png",
+          "Splash_url": "Khufra-Iron-Hook.png",
+          "script": "Khufra-Volcanic-Overlord-Iron-Hook.zip"
+        },
+        {
+          "name": "Cursed Scroll",
+          "Portrait_url": "Khufra-Cursed-Scroll.png",
+          "Splash_url": "Khufra-Cursed-Scroll.png",
+          "script": "Khufra-Volcanic-Overlord-Cursed-Scroll.zip"
+        },
+        {
+          "name": "Classic Crook",
+          "Portrait_url": "Khufra-Classic-Crook.png",
+          "Splash_url": "Khufra - Classic Crook.jpg",
+          "script": "Khufra-Volcanic-Overlord-Classic-Crook.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dreadful Clown",
+      "Splash_url": "Khufra-Dreadful-Clown.png",
+      "script": "Khufra-Dreadful-Clown-Backup.zip",
+      "Portrait_url": "Khufra-Dreadful-Clown.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Desert Owl",
+          "Portrait_url": "Khufra-Desert-Owl.png",
+          "Splash_url": "Khufra-Desert-Owl.png",
+          "script": "Khufra-Dreadful-Clown-Desert-Owl.zip"
+        },
+        {
+          "name": "Apophis",
+          "Portrait_url": "Khufra-Apophis.png",
+          "Splash_url": "Khufra-Apophis.png",
+          "script": "Khufra-Dreadful-Clown-Apophis.zip"
+        },
+        {
+          "name": "Gentleman Thief",
+          "Portrait_url": "Khufra-Gentleman-Thief.png",
+          "Splash_url": "Khufra-Gentleman-Thief.png",
+          "script": "Khufra-Dreadful-Clown-Gentleman-Thief.zip"
+        },
+        {
+          "name": "Volcanic Overlord",
+          "Portrait_url": "Khufra-Volcanic-Overlord.png",
+          "Splash_url": "Khufra-Volcanic-Overlord.png",
+          "script": "Khufra-Dreadful-Clown-Volcanic-Overlord.zip"
+        },
+        {
+          "name": "Iron Hook",
+          "Portrait_url": "Khufra-Iron-Hook.png",
+          "Splash_url": "Khufra-Iron-Hook.png",
+          "script": "Khufra-Dreadful-Clown-Iron-Hook.zip"
+        },
+        {
+          "name": "Cursed Scroll",
+          "Portrait_url": "Khufra-Cursed-Scroll.png",
+          "Splash_url": "Khufra-Cursed-Scroll.png",
+          "script": "Khufra-Dreadful-Clown-Cursed-Scroll.zip"
+        },
+        {
+          "name": "Classic Crook",
+          "Portrait_url": "Khufra-Classic-Crook.png",
+          "Splash_url": "Khufra - Classic Crook.jpg",
+          "script": "Khufra-Dreadful-Clown-Classic-Crook.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Iron Hook",
+      "Splash_url": "Khufra-Iron-Hook.png",
+      "script": "Khufra-Iron-Hook-Backup.zip",
+      "Portrait_url": "Khufra-Iron-Hook.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Desert Owl",
+          "Portrait_url": "Khufra-Desert-Owl.png",
+          "Splash_url": "Khufra-Desert-Owl.png",
+          "script": "Khufra-Iron-Hook-Desert-Owl.zip"
+        },
+        {
+          "name": "Apophis",
+          "Portrait_url": "Khufra-Apophis.png",
+          "Splash_url": "Khufra-Apophis.png",
+          "script": "Khufra-Iron-Hook-Apophis.zip"
+        },
+        {
+          "name": "Gentleman Thief",
+          "Portrait_url": "Khufra-Gentleman-Thief.png",
+          "Splash_url": "Khufra-Gentleman-Thief.png",
+          "script": "Khufra-Iron-Hook-Gentleman-Thief.zip"
+        },
+        {
+          "name": "Volcanic Overlord",
+          "Portrait_url": "Khufra-Volcanic-Overlord.png",
+          "Splash_url": "Khufra-Volcanic-Overlord.png",
+          "script": "Khufra-Iron-Hook-Volcanic-Overlord.zip"
+        },
+        {
+          "name": "Dreadful Clown",
+          "Portrait_url": "Khufra-Dreadful-Clown.png",
+          "Splash_url": "Khufra-Dreadful-Clown.png",
+          "script": "Khufra-Iron-Hook-Dreadful-Clown.zip"
+        },
+        {
+          "name": "Cursed Scroll",
+          "Portrait_url": "Khufra-Cursed-Scroll.png",
+          "Splash_url": "Khufra-Cursed-Scroll.png",
+          "script": "Khufra-Iron-Hook-Cursed-Scroll.zip"
+        },
+        {
+          "name": "Classic Crook",
+          "Portrait_url": "Khufra-Classic-Crook.png",
+          "Splash_url": "Khufra - Classic Crook.jpg",
+          "script": "Khufra-Iron-Hook-Classic-Crook.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Cursed Scroll",
+      "Splash_url": "Khufra-Cursed-Scroll.png",
+      "script": "Khufra-Cursed-Scroll-Backup.zip",
+      "Portrait_url": "Khufra-Cursed-Scroll.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Desert Owl",
+          "Portrait_url": "Khufra-Desert-Owl.png",
+          "Splash_url": "Khufra-Desert-Owl.png",
+          "script": "Khufra-Cursed-Scroll-Desert-Owl.zip"
+        },
+        {
+          "name": "Apophis",
+          "Portrait_url": "Khufra-Apophis.png",
+          "Splash_url": "Khufra-Apophis.png",
+          "script": "Khufra-Cursed-Scroll-Apophis.zip"
+        },
+        {
+          "name": "Volcanic Overlord",
+          "Portrait_url": "Khufra-Volcanic-Overlord.png",
+          "Splash_url": "Khufra-Volcanic-Overlord.png",
+          "script": "Khufra-Cursed-Scroll-Volcanic-Overlord.zip"
+        },
+        {
+          "name": "Dreadful Clown",
+          "Portrait_url": "Khufra-Dreadful-Clown.png",
+          "Splash_url": "Khufra-Dreadful-Clown.png",
+          "script": "Khufra-Cursed-Scroll-Dreadful-Clown.zip"
+        },
+        {
+          "name": "Classic Crook",
+          "Portrait_url": "Khufra-Classic-Crook.png",
+          "Splash_url": "Khufra - Classic Crook.jpg",
+          "script": "Khufra-Cursed-Scroll-Classic-Crook.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "catalog_version": "2026.11.03.120000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "lukas-backup",
+      "portrait_file": "Lukas-Default.png",
+      "script_file": "Lukas-Backup.zip",
+      "skin_name": "Beast of Light",
+      "splash_file": "Lukas-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "lukas-ardent-roar",
+      "portrait_file": "Lukas-Ardent-Roar.png",
+      "script_file": "Lukas-Ardent-Roar.zip",
+      "skin_name": "Ardent Roar",
+      "splash_file": "Lukas-Ardent-Roar.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "lukas-naruto-uzumaki",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      },
+      "portrait_file": "Lukas-Naruto-Uzumaki.png",
+      "script_file": "Lukas-Naruto-Uzumaki.zip",
+      "skin_name": "Naruto Uzumaki",
+      "splash_file": "Lukas-Naruto-Uzumaki.png",
+      "tag_id": "naruto-shippuden",
+      "tier": "grand"
+    }
+  ],
+  "hero": {
+    "id": 127,
+    "name": "Lukas",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "lukas"
+  },
+  "release_tag": "visual-lukas",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

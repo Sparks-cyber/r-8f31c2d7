@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "balmond-big-smoke",
+      "portrait_file": "Balmond - Big Smoke.png",
+      "script_file": "Balmond-Big-Smoke.zip",
+      "skin_name": "Big Smoke",
+      "splash_file": "Balmond - Big Smoke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Memes & Novelty"
+    },
+    {
+      "enabled": true,
+      "id": "balmond-exorcist",
+      "portrait_file": "Balmond - Exorcist.png",
+      "script_file": "Balmond-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Balmond - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 2,
+    "name": "Balmond",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "balmond"
+  },
+  "release_tag": "custom-balmond",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

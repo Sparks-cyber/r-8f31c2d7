@@ -1,0 +1,126 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "akai-backup",
+      "portrait_file": "Akai-Default.png",
+      "script_file": "Akai-Backup.zip",
+      "skin_name": "Panda Warrior",
+      "splash_file": "Akai-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "akai-summer-party",
+      "portrait_file": "Akai-Summer-Party.png",
+      "script_file": "Akai-Summer-Party.zip",
+      "skin_name": "Summer Party",
+      "splash_file": "Akai-Summer-Party.png",
+      "tag_id": "summer",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "akai-monk",
+      "portrait_file": "Akai-Monk.png",
+      "script_file": "Akai-Monk.zip",
+      "skin_name": "Monk",
+      "splash_file": "Akai-Monk.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "akai-akazonae-samurai",
+      "portrait_file": "Akai-Akazonae-Samurai.png",
+      "script_file": "Akai-Akazonae-Samurai.zip",
+      "skin_name": "Akazonae Samurai",
+      "splash_file": "Akai-Akazonae-Samurai.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "akai-imperial-assassin",
+      "portrait_file": "Akai-Imperial-Assassin.png",
+      "script_file": "Akai-Imperial-Assassin.zip",
+      "skin_name": "Imperial Assassin",
+      "splash_file": "Akai-Imperial-Assassin.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "akai-stream-recluse",
+      "portrait_file": "Akai-Stream-Recluse.png",
+      "script_file": "Akai-Stream-Recluse.zip",
+      "skin_name": "Stream Recluse",
+      "splash_file": "Akai-Stream-Recluse.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "akai-street-enforcer",
+      "portrait_file": "Akai-Street-Enforcer.png",
+      "script_file": "Akai-Street-Enforcer.zip",
+      "skin_name": "Street Enforcer",
+      "splash_file": "Akai-Street-Enforcer.png",
+      "tag_id": "s19",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "akai-kung-fu-panda",
+      "portrait_file": "Akai-Kung-Fu-Panda.png",
+      "script_file": "Akai-Kung-Fu-Panda.zip",
+      "skin_name": "Kung Fu Panda",
+      "splash_file": "Akai-Kung-Fu-Panda.png",
+      "tag_id": "kung-fu-panda",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "akai-pumpkin-brawler",
+      "portrait_file": "Akai-Pumpkin-Brawler.png",
+      "script_file": "Akai-Pumpkin-Brawler.zip",
+      "skin_name": "Pumpkin Brawler",
+      "splash_file": "Akai-Pumpkin-Brawler.png",
+      "tag_id": "halloween",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "akai-marvelous-maestro",
+      "portrait_file": "Akai-Marvelous-Maestro.png",
+      "script_file": "Akai-Marvelous-Maestro.zip",
+      "skin_name": "Marvelous Maestro",
+      "splash_file": "Akai-Marvelous-Maestro.png",
+      "tag_id": "8th-anniversary",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "akai-kung-fu-monk-painted-01",
+      "portrait_file": "Akai-Kung-Fu-Monk.png",
+      "script_file": "Akai-Kung-Fu-Monk.zip",
+      "skin_name": "Kung Fu Monk",
+      "splash_file": "Akai - Kung Fu Monk.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 9,
+    "name": "Akai",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "akai"
+  },
+  "release_tag": "visual-akai",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

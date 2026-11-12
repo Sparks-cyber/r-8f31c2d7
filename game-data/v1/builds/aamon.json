@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 109,
+    "slug": "aamon",
+    "name": "Aamon"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "aamon-community-6442",
+      "name": "Community Build 6442",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "skypiercer",
+        "windtalker",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "seasonedhunter",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "This build is very effective,you can snowball early and with windtalker you jungle farm and minion clear becomes faster",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6442,
+      "source_created_at": "2026-03-12T12:49:36.000Z",
+      "likes": 8,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "aamon-community-6911",
+      "name": "Community Build 6911",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "holycrystal",
+        "bloodwings",
+        "featherofheaven",
+        "divineglaive",
+        "concentratedenergy"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "agility",
+        "wildernessblessing",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "A luxury hybrid build , combining high mobility, damage, penetration and strong vampirism, become a tank killer in the late game",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6911,
+      "source_created_at": "2026-04-06T17:37:48.000Z",
+      "likes": 7,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "aamon-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

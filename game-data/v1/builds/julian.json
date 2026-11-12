@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 116,
+    "slug": "julian",
+    "name": "Julian"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "julian-community-6897",
+      "name": "Community Build 6897",
+      "lane": "Jungle, Exp Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "clockofdestiny",
+        "concentratedenergy",
+        "bruteforcebreastplate",
+        "holycrystal",
+        "queenswings"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "Hybrid Build for One-shot kill Character(not dying instantly)",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6897,
+      "source_created_at": "2026-04-06T03:40:22.000Z",
+      "likes": 12,
+      "dislikes": 3,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "julian-community-6319",
+      "name": "Community Build 6319",
+      "lane": "Jungle, Exp Lane",
+      "equipment_ids": [
+        "divineglaive",
+        "oracle",
+        "concentratedenergy",
+        "icequeenwand",
+        "corrosionscythe",
+        "haasclaws"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "swift",
+        "festivalofblood",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "Terizla: \"Remember son, dying is gay\"\n\nJulian: *almost dying wakes up and kills the enemy returning to full health* \"who said I was dying?\"",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6319,
+      "source_created_at": "2026-03-08T01:44:28.000Z",
+      "likes": 12,
+      "dislikes": 8,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "julian-companion-baseline",
+      "name": "Companion Assassin/Fighter Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

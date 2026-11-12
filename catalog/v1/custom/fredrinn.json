@@ -1,0 +1,61 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "fredrinn-bernard-bear",
+      "portrait_file": "Fredrinn - Bernard Bear.png",
+      "script_file": "Fredrinn-Bernard-Bear.zip",
+      "skin_name": "Bernard Bear",
+      "splash_file": "Fredrinn - Bernard Bear.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "fredrinn-cid-kagenou",
+      "portrait_file": "Fredrinn - Cid Kagenou.png",
+      "script_file": "Fredrinn-Cid-Kagenou.zip",
+      "skin_name": "Cid Kagenou",
+      "splash_file": "Fredrinn - Cid Kagenou.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "fredrinn-exorcist",
+      "portrait_file": "Fredrinn - Exorcist.png",
+      "script_file": "Fredrinn-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Fredrinn - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "fredrinn-sasuke",
+      "portrait_file": "Fredrinn - Sasuke.png",
+      "script_file": "Fredrinn-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Fredrinn - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 117,
+    "name": "Fredrinn",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "slug": "fredrinn"
+  },
+  "release_tag": "custom-fredrinn",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Carmilla",
+  "role": "Support/Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Wisteria Countess",
+      "Splash_url": "Carmilla-Wisteria-Countess.png",
+      "script": "Carmilla-Wisteria-Countess-Backup.zip",
+      "Portrait_url": "Carmilla-Wisteria-Countess.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Magician Girl",
+          "Portrait_url": "Carmilla-Magician-Girl.png",
+          "Splash_url": "Carmilla-Magician-Girl.png",
+          "script": "Carmilla-Wisteria-Countess-Magician-Girl.zip"
+        },
+        {
+          "name": "Phantom Countess",
+          "Portrait_url": "Carmilla-Phantom-Countess.png",
+          "Splash_url": "Carmilla-Phantom-Countess.png",
+          "script": "Carmilla-Wisteria-Countess-Phantom-Countess.zip"
+        },
+        {
+          "name": "Astral Arcana",
+          "Portrait_url": "Carmilla-Astral-Arcana.png",
+          "Splash_url": "Carmilla-Astral-Arcana.png",
+          "script": "Carmilla-Wisteria-Countess-Astral-Arcana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Magician Girl",
+      "Splash_url": "Carmilla-Magician-Girl.png",
+      "script": "Carmilla-Magician-Girl-Backup.zip",
+      "Portrait_url": "Carmilla-Magician-Girl.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Countess",
+          "Portrait_url": "Carmilla-Wisteria-Countess.png",
+          "Splash_url": "Carmilla-Wisteria-Countess.png",
+          "script": "Carmilla-Magician-Girl-Wisteria-Countess.zip"
+        },
+        {
+          "name": "Phantom Countess",
+          "Portrait_url": "Carmilla-Phantom-Countess.png",
+          "Splash_url": "Carmilla-Phantom-Countess.png",
+          "script": "Carmilla-Magician-Girl-Phantom-Countess.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Phantom Countess",
+      "Splash_url": "Carmilla-Phantom-Countess.png",
+      "script": "Carmilla-Phantom-Countess-Backup.zip",
+      "Portrait_url": "Carmilla-Phantom-Countess.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Countess",
+          "Portrait_url": "Carmilla-Wisteria-Countess.png",
+          "Splash_url": "Carmilla-Wisteria-Countess.png",
+          "script": "Carmilla-Phantom-Countess-Wisteria-Countess.zip"
+        },
+        {
+          "name": "Magician Girl",
+          "Portrait_url": "Carmilla-Magician-Girl.png",
+          "Splash_url": "Carmilla-Magician-Girl.png",
+          "script": "Carmilla-Phantom-Countess-Magician-Girl.zip"
+        },
+        {
+          "name": "Astral Arcana",
+          "Portrait_url": "Carmilla-Astral-Arcana.png",
+          "Splash_url": "Carmilla-Astral-Arcana.png",
+          "script": "Carmilla-Phantom-Countess-Astral-Arcana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Astral Arcana",
+      "Splash_url": "Carmilla-Astral-Arcana.png",
+      "script": "Carmilla-Astral-Arcana-Backup.zip",
+      "Portrait_url": "Carmilla-Astral-Arcana.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Wisteria Countess",
+          "Portrait_url": "Carmilla-Wisteria-Countess.png",
+          "Splash_url": "Carmilla-Wisteria-Countess.png",
+          "script": "Carmilla-Astral-Arcana-Wisteria-Countess.zip"
+        },
+        {
+          "name": "Magician Girl",
+          "Portrait_url": "Carmilla-Magician-Girl.png",
+          "Splash_url": "Carmilla-Magician-Girl.png",
+          "script": "Carmilla-Astral-Arcana-Magician-Girl.zip"
+        },
+        {
+          "name": "Phantom Countess",
+          "Portrait_url": "Carmilla-Phantom-Countess.png",
+          "Splash_url": "Carmilla-Phantom-Countess.png",
+          "script": "Carmilla-Astral-Arcana-Phantom-Countess.zip"
+        }
+      ]
+    }
+  ]
+}

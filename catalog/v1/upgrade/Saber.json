@@ -1,0 +1,471 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Saber",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Golden Flash",
+      "Splash_url": "Saber-Golden-Flash.png",
+      "script": "Saber-Golden-Flash-Backup.zip",
+      "Portrait_url": "Saber-Golden-Flash.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Force Warrior",
+          "Portrait_url": "Saber-Force-Warrior.png",
+          "Splash_url": "Saber-Force-Warrior.png",
+          "script": "Saber-Golden-Flash-Force-Warrior.zip"
+        },
+        {
+          "name": "Codename - Storm",
+          "Portrait_url": "Saber-Codename-Storm.png",
+          "Splash_url": "Saber-Codename-Storm.png",
+          "script": "Saber-Golden-Flash-Codename-Storm.zip"
+        },
+        {
+          "name": "Fullmetal Ronin",
+          "Portrait_url": "Saber-Fullmetal-Ronin.png",
+          "Splash_url": "Saber-Fullmetal-Ronin.png",
+          "script": "Saber-Golden-Flash-Fullmetal-Ronin.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Regulator",
+          "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+          "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+          "script": "Saber-Golden-Flash-S-A-B-E-R-Regulator.zip"
+        },
+        {
+          "name": "Onimaru",
+          "Portrait_url": "Saber-Onimaru.png",
+          "Splash_url": "Saber-Onimaru.png",
+          "script": "Saber-Golden-Flash-Onimaru.zip"
+        },
+        {
+          "name": "Silver Edge",
+          "Portrait_url": "Saber-Silver-Edge.png",
+          "Splash_url": "Saber-Silver-Edge.png",
+          "script": "Saber-Golden-Flash-Silver-Edge.zip"
+        },
+        {
+          "name": "Iron Hound",
+          "Portrait_url": "Saber-Iron-Hound.png",
+          "Splash_url": "Saber-Iron-Hound.png",
+          "script": "Saber-Golden-Flash-Iron-Hound.zip"
+        },
+        {
+          "name": "Hound of Steel",
+          "Portrait_url": "Saber-Hound-of-Steel.png",
+          "Splash_url": "Saber-Hound-of-Steel.png",
+          "script": "Saber-Golden-Flash-Steel-of-Hound.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Force Warrior",
+      "Splash_url": "Saber-Force-Warrior.png",
+      "script": "Saber-Force-Warrior-Backup.zip",
+      "Portrait_url": "Saber-Force-Warrior.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Flash",
+          "Portrait_url": "Saber-Golden-Flash.png",
+          "Splash_url": "Saber-Golden-Flash.png",
+          "script": "Saber-Force-Warrior-Golden-Flash.zip"
+        },
+        {
+          "name": "Codename - Storm",
+          "Portrait_url": "Saber-Codename-Storm.png",
+          "Splash_url": "Saber-Codename-Storm.png",
+          "script": "Saber-Force-Warrior-Codename-Storm.zip"
+        },
+        {
+          "name": "Fullmetal Ronin",
+          "Portrait_url": "Saber-Fullmetal-Ronin.png",
+          "Splash_url": "Saber-Fullmetal-Ronin.png",
+          "script": "Saber-Force-Warrior-Fullmetal-Ronin.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Regulator",
+          "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+          "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+          "script": "Saber-Force-Warrior-S-A-B-E-R-Regulator.zip"
+        },
+        {
+          "name": "Onimaru",
+          "Portrait_url": "Saber-Onimaru.png",
+          "Splash_url": "Saber-Onimaru.png",
+          "script": "Saber-Force-Warrior-Onimaru.zip"
+        },
+        {
+          "name": "Silver Edge",
+          "Portrait_url": "Saber-Silver-Edge.png",
+          "Splash_url": "Saber-Silver-Edge.png",
+          "script": "Saber-Force-Warrior-Silver-Edge.zip"
+        },
+        {
+          "name": "Iron Hound",
+          "Portrait_url": "Saber-Iron-Hound.png",
+          "Splash_url": "Saber-Iron-Hound.png",
+          "script": "Saber-Force-Warrior-Iron-Hound.zip"
+        },
+        {
+          "name": "Hound of Steel",
+          "Portrait_url": "Saber-Hound-of-Steel.png",
+          "Splash_url": "Saber-Hound-of-Steel.png",
+          "script": "Saber-Force-Warrior-Steel-of-Hound.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Codename - Storm",
+      "Splash_url": "Saber-Codename-Storm.png",
+      "script": "Saber-Codename-Storm-Backup.zip",
+      "Portrait_url": "Saber-Codename-Storm.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Flash",
+          "Portrait_url": "Saber-Golden-Flash.png",
+          "Splash_url": "Saber-Golden-Flash.png",
+          "script": "Saber-Codename-Storm-Golden-Flash.zip"
+        },
+        {
+          "name": "Force Warrior",
+          "Portrait_url": "Saber-Force-Warrior.png",
+          "Splash_url": "Saber-Force-Warrior.png",
+          "script": "Saber-Codename-Storm-Force-Warrior.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Regulator",
+          "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+          "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+          "script": "Saber-Codename-Storm-S-A-B-E-R-Regulator.zip"
+        },
+        {
+          "name": "Onimaru",
+          "Portrait_url": "Saber-Onimaru.png",
+          "Splash_url": "Saber-Onimaru.png",
+          "script": "Saber-Codename-Storm-Onimaru.zip"
+        },
+        {
+          "name": "Silver Edge",
+          "Portrait_url": "Saber-Silver-Edge.png",
+          "Splash_url": "Saber-Silver-Edge.png",
+          "script": "Saber-Codename-Storm-Silver-Edge.zip"
+        },
+        {
+          "name": "Iron Hound",
+          "Portrait_url": "Saber-Iron-Hound.png",
+          "Splash_url": "Saber-Iron-Hound.png",
+          "script": "Saber-Codename-Storm-Iron-Hound.zip"
+        },
+        {
+          "name": "Hound of Steel",
+          "Portrait_url": "Saber-Hound-of-Steel.png",
+          "Splash_url": "Saber-Hound-of-Steel.png",
+          "script": "Saber-Codename-Storm-Steel-of-Hound.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Fullmetal Ronin",
+      "Splash_url": "Saber-Fullmetal-Ronin.png",
+      "script": "Saber-Fullmetal-Ronin-Backup.zip",
+      "Portrait_url": "Saber-Fullmetal-Ronin.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Flash",
+          "Portrait_url": "Saber-Golden-Flash.png",
+          "Splash_url": "Saber-Golden-Flash.png",
+          "script": "Saber-Fullmetal-Ronin-Golden-Flash.zip"
+        },
+        {
+          "name": "Force Warrior",
+          "Portrait_url": "Saber-Force-Warrior.png",
+          "Splash_url": "Saber-Force-Warrior.png",
+          "script": "Saber-Fullmetal-Ronin-Force-Warrior.zip"
+        },
+        {
+          "name": "Codename - Storm",
+          "Portrait_url": "Saber-Codename-Storm.png",
+          "Splash_url": "Saber-Codename-Storm.png",
+          "script": "Saber-Fullmetal-Ronin-Codename-Storm.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Regulator",
+          "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+          "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+          "script": "Saber-Fullmetal-Ronin-S-A-B-E-R-Regulator.zip"
+        },
+        {
+          "name": "Onimaru",
+          "Portrait_url": "Saber-Onimaru.png",
+          "Splash_url": "Saber-Onimaru.png",
+          "script": "Saber-Fullmetal-Ronin-Onimaru.zip"
+        },
+        {
+          "name": "Silver Edge",
+          "Portrait_url": "Saber-Silver-Edge.png",
+          "Splash_url": "Saber-Silver-Edge.png",
+          "script": "Saber-Fullmetal-Ronin-Silver-Edge.zip"
+        },
+        {
+          "name": "Iron Hound",
+          "Portrait_url": "Saber-Iron-Hound.png",
+          "Splash_url": "Saber-Iron-Hound.png",
+          "script": "Saber-Fullmetal-Ronin-Iron-Hound.zip"
+        },
+        {
+          "name": "Hound of Steel",
+          "Portrait_url": "Saber-Hound-of-Steel.png",
+          "Splash_url": "Saber-Hound-of-Steel.png",
+          "script": "Saber-Fullmetal-Ronin-Steel-of-Hound.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.A.B.E.R.",
+      "Default_name": "S.A.B.E.R. Regulator",
+      "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+      "script": "Saber-S-A-B-E-R-Regulator-Backup.zip",
+      "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+      "Tags": [
+        "SABER.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Flash",
+          "Portrait_url": "Saber-Golden-Flash.png",
+          "Splash_url": "Saber-Golden-Flash.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Golden-Flash.zip"
+        },
+        {
+          "name": "Force Warrior",
+          "Portrait_url": "Saber-Force-Warrior.png",
+          "Splash_url": "Saber-Force-Warrior.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Force-Warrior.zip"
+        },
+        {
+          "name": "Codename - Storm",
+          "Portrait_url": "Saber-Codename-Storm.png",
+          "Splash_url": "Saber-Codename-Storm.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Codename-Storm.zip"
+        },
+        {
+          "name": "Fullmetal Ronin",
+          "Portrait_url": "Saber-Fullmetal-Ronin.png",
+          "Splash_url": "Saber-Fullmetal-Ronin.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Fullmetal-Ronin.zip"
+        },
+        {
+          "name": "Onimaru",
+          "Portrait_url": "Saber-Onimaru.png",
+          "Splash_url": "Saber-Onimaru.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Onimaru.zip"
+        },
+        {
+          "name": "Silver Edge",
+          "Portrait_url": "Saber-Silver-Edge.png",
+          "Splash_url": "Saber-Silver-Edge.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Silver-Edge.zip"
+        },
+        {
+          "name": "Iron Hound",
+          "Portrait_url": "Saber-Iron-Hound.png",
+          "Splash_url": "Saber-Iron-Hound.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Iron-Hound.zip"
+        },
+        {
+          "name": "Hound of Steel",
+          "Portrait_url": "Saber-Hound-of-Steel.png",
+          "Splash_url": "Saber-Hound-of-Steel.png",
+          "script": "Saber-S-A-B-E-R-Regulator-Steel-of-Hound.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Onimaru",
+      "Splash_url": "Saber-Onimaru.png",
+      "script": "Saber-Onimaru-Backup.zip",
+      "Portrait_url": "Saber-Onimaru.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Flash",
+          "Portrait_url": "Saber-Golden-Flash.png",
+          "Splash_url": "Saber-Golden-Flash.png",
+          "script": "Saber-Onimaru-Golden-Flash.zip"
+        },
+        {
+          "name": "Force Warrior",
+          "Portrait_url": "Saber-Force-Warrior.png",
+          "Splash_url": "Saber-Force-Warrior.png",
+          "script": "Saber-Onimaru-Force-Warrior.zip"
+        },
+        {
+          "name": "Codename - Storm",
+          "Portrait_url": "Saber-Codename-Storm.png",
+          "Splash_url": "Saber-Codename-Storm.png",
+          "script": "Saber-Onimaru-Codename-Storm.zip"
+        },
+        {
+          "name": "Fullmetal Ronin",
+          "Portrait_url": "Saber-Fullmetal-Ronin.png",
+          "Splash_url": "Saber-Fullmetal-Ronin.png",
+          "script": "Saber-Onimaru-Fullmetal-Ronin.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Regulator",
+          "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+          "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+          "script": "Saber-Onimaru-S-A-B-E-R-Regulator.zip"
+        },
+        {
+          "name": "Silver Edge",
+          "Portrait_url": "Saber-Silver-Edge.png",
+          "Splash_url": "Saber-Silver-Edge.png",
+          "script": "Saber-Onimaru-Silver-Edge.zip"
+        },
+        {
+          "name": "Iron Hound",
+          "Portrait_url": "Saber-Iron-Hound.png",
+          "Splash_url": "Saber-Iron-Hound.png",
+          "script": "Saber-Onimaru-Iron-Hound.zip"
+        },
+        {
+          "name": "Hound of Steel",
+          "Portrait_url": "Saber-Hound-of-Steel.png",
+          "Splash_url": "Saber-Hound-of-Steel.png",
+          "script": "Saber-Onimaru-Steel-of-Hound.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Silver Edge",
+      "Splash_url": "Saber-Silver-Edge.png",
+      "script": "Saber-Silver-Edge-Backup.zip",
+      "Portrait_url": "Saber-Silver-Edge.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Golden Flash",
+          "Portrait_url": "Saber-Golden-Flash.png",
+          "Splash_url": "Saber-Golden-Flash.png",
+          "script": "Saber-Silver-Edge-Golden-Flash.zip"
+        },
+        {
+          "name": "Force Warrior",
+          "Portrait_url": "Saber-Force-Warrior.png",
+          "Splash_url": "Saber-Force-Warrior.png",
+          "script": "Saber-Silver-Edge-Force-Warrior.zip"
+        },
+        {
+          "name": "Codename - Storm",
+          "Portrait_url": "Saber-Codename-Storm.png",
+          "Splash_url": "Saber-Codename-Storm.png",
+          "script": "Saber-Silver-Edge-Codename-Storm.zip"
+        },
+        {
+          "name": "Fullmetal Ronin",
+          "Portrait_url": "Saber-Fullmetal-Ronin.png",
+          "Splash_url": "Saber-Fullmetal-Ronin.png",
+          "script": "Saber-Silver-Edge-Fullmetal-Ronin.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Regulator",
+          "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+          "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+          "script": "Saber-Silver-Edge-S-A-B-E-R-Regulator.zip"
+        },
+        {
+          "name": "Onimaru",
+          "Portrait_url": "Saber-Onimaru.png",
+          "Splash_url": "Saber-Onimaru.png",
+          "script": "Saber-Silver-Edge-Onimaru.zip"
+        },
+        {
+          "name": "Iron Hound",
+          "Portrait_url": "Saber-Iron-Hound.png",
+          "Splash_url": "Saber-Iron-Hound.png",
+          "script": "Saber-Silver-Edge-Iron-Hound.zip"
+        },
+        {
+          "name": "Hound of Steel",
+          "Portrait_url": "Saber-Hound-of-Steel.png",
+          "Splash_url": "Saber-Hound-of-Steel.png",
+          "script": "Saber-Silver-Edge-Steel-of-Hound.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Iron Hound",
+      "Splash_url": "Saber-Iron-Hound.png",
+      "script": "Saber-Iron-Hound-Backup.zip",
+      "Portrait_url": "Saber-Iron-Hound.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Flash",
+          "Portrait_url": "Saber-Golden-Flash.png",
+          "Splash_url": "Saber-Golden-Flash.png",
+          "script": "Saber-Iron-Hound-Golden-Flash.zip"
+        },
+        {
+          "name": "Force Warrior",
+          "Portrait_url": "Saber-Force-Warrior.png",
+          "Splash_url": "Saber-Force-Warrior.png",
+          "script": "Saber-Iron-Hound-Force-Warrior.zip"
+        },
+        {
+          "name": "Codename - Storm",
+          "Portrait_url": "Saber-Codename-Storm.png",
+          "Splash_url": "Saber-Codename-Storm.png",
+          "script": "Saber-Iron-Hound-Codename-Storm.zip"
+        },
+        {
+          "name": "Fullmetal Ronin",
+          "Portrait_url": "Saber-Fullmetal-Ronin.png",
+          "Splash_url": "Saber-Fullmetal-Ronin.png",
+          "script": "Saber-Iron-Hound-Fullmetal-Ronin.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Regulator",
+          "Portrait_url": "Saber-S-A-B-E-R-Regulator.png",
+          "Splash_url": "Saber-S-A-B-E-R-Regulator.png",
+          "script": "Saber-Iron-Hound-S-A-B-E-R-Regulator.zip"
+        },
+        {
+          "name": "Onimaru",
+          "Portrait_url": "Saber-Onimaru.png",
+          "Splash_url": "Saber-Onimaru.png",
+          "script": "Saber-Iron-Hound-Onimaru.zip"
+        },
+        {
+          "name": "Silver Edge",
+          "Portrait_url": "Saber-Silver-Edge.png",
+          "Splash_url": "Saber-Silver-Edge.png",
+          "script": "Saber-Iron-Hound-Silver-Edge.zip"
+        }
+      ]
+    }
+  ]
+}

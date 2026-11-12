@@ -1,0 +1,599 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Franco",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Special",
+      "Default_name": "Masterchef",
+      "Splash_url": "Franco-Masterchef.png",
+      "script": "Franco-Masterchef-Backup.zip",
+      "Portrait_url": "Franco-Masterchef.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-Masterchef-Apocalypse.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-Masterchef-Locomotive.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Masterchef-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Valhalla Ruler",
+          "Portrait_url": "Franco-Valhalla-Ruler.png",
+          "Splash_url": "Franco-Valhalla-Ruler.png",
+          "script": "Franco-Masterchef-Valhalla-Ruler.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-Masterchef-Blazing-Axe.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-Masterchef-Bone-Crusher.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Masterchef-King-of-Hell.zip"
+        },
+        {
+          "name": "Quantum Vanguard",
+          "Portrait_url": "Franco-Quantum-Vanguard.png",
+          "Splash_url": "Franco-Quantum-Vanguard.png",
+          "script": "Franco-Masterchef-Quantum-Vanguard.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Masterchef-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Apocalypse",
+      "Splash_url": "Franco-Apocalypse.png",
+      "script": "Franco-Apocalypse-Backup.zip",
+      "Portrait_url": "Franco-Apocalypse.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-Apocalypse-Masterchef.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-Apocalypse-Locomotive.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Apocalypse-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Valhalla Ruler",
+          "Portrait_url": "Franco-Valhalla-Ruler.png",
+          "Splash_url": "Franco-Valhalla-Ruler.png",
+          "script": "Franco-Apocalypse-Valhalla-Ruler.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-Apocalypse-Blazing-Axe.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-Apocalypse-Bone-Crusher.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Apocalypse-King-of-Hell.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Apocalypse-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Locomotive",
+      "Splash_url": "Franco-Locomotive.png",
+      "script": "Franco-Locomotive-Backup.zip",
+      "Portrait_url": "Franco-Locomotive.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-Locomotive-Masterchef.zip"
+        },
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-Locomotive-Apocalypse.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Locomotive-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Valhalla Ruler",
+          "Portrait_url": "Franco-Valhalla-Ruler.png",
+          "Splash_url": "Franco-Valhalla-Ruler.png",
+          "script": "Franco-Locomotive-Valhalla-Ruler.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-Locomotive-Blazing-Axe.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-Locomotive-Bone-Crusher.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Locomotive-King-of-Hell.zip"
+        },
+        {
+          "name": "Quantum Vanguard",
+          "Portrait_url": "Franco-Quantum-Vanguard.png",
+          "Splash_url": "Franco-Quantum-Vanguard.png",
+          "script": "Franco-Locomotive-Quantum-Vanguard.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Locomotive-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Wheatfield Nightmare",
+      "Splash_url": "Franco-Wheatfield-Nightmare.png",
+      "script": "Franco-Wheatfield-Nightmare-Backup.zip",
+      "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-Wheatfield-Nightmare-Masterchef.zip"
+        },
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-Wheatfield-Nightmare-Apocalypse.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-Wheatfield-Nightmare-Locomotive.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-Wheatfield-Nightmare-Blazing-Axe.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-Wheatfield-Nightmare-Bone-Crusher.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Wheatfield-Nightmare-King-of-Hell.zip"
+        },
+        {
+          "name": "Quantum Vanguard",
+          "Portrait_url": "Franco-Quantum-Vanguard.png",
+          "Splash_url": "Franco-Quantum-Vanguard.png",
+          "script": "Franco-Wheatfield-Nightmare-Quantum-Vanguard.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Valhalla Ruler",
+      "Splash_url": "Franco-Valhalla-Ruler.png",
+      "script": "Franco-Valhalla-Ruler-Backup.zip",
+      "Portrait_url": "Franco-Valhalla-Ruler.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-Valhalla-Ruler-Masterchef.zip"
+        },
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-Valhalla-Ruler-Apocalypse.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-Valhalla-Ruler-Locomotive.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Valhalla-Ruler-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-Valhalla-Ruler-Blazing-Axe.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-Valhalla-Ruler-Bone-Crusher.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Valhalla-Ruler-King-of-Hell.zip"
+        },
+        {
+          "name": "Quantum Vanguard",
+          "Portrait_url": "Franco-Quantum-Vanguard.png",
+          "Splash_url": "Franco-Quantum-Vanguard.png",
+          "script": "Franco-Valhalla-Ruler-Quantum-Vanguard.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Valhalla-Ruler-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Bounties",
+      "Default_name": "Blazing Axe",
+      "Splash_url": "Franco-Blazing-Axe.png",
+      "script": "Franco-Blazing-Axe-Backup.zip",
+      "Portrait_url": "Franco-Blazing-Axe.png",
+      "Tags": [
+        "Blazing Bounties.png"
+      ],
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-Blazing-Axe-Masterchef.zip"
+        },
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-Blazing-Axe-Apocalypse.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-Blazing-Axe-Locomotive.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Blazing-Axe-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Valhalla Ruler",
+          "Portrait_url": "Franco-Valhalla-Ruler.png",
+          "Splash_url": "Franco-Valhalla-Ruler.png",
+          "script": "Franco-Blazing-Axe-Valhalla-Ruler.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-Blazing-Axe-Bone-Crusher.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Blazing-Axe-King-of-Hell.zip"
+        },
+        {
+          "name": "Quantum Vanguard",
+          "Portrait_url": "Franco-Quantum-Vanguard.png",
+          "Splash_url": "Franco-Quantum-Vanguard.png",
+          "script": "Franco-Blazing-Axe-Quantum-Vanguard.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Blazing-Axe-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Bone Crusher",
+      "Splash_url": "Franco-Bone-Crusher.png",
+      "script": "Franco-Bone-Crusher-Backup.zip",
+      "Portrait_url": "Franco-Bone-Crusher.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-Bone-Crusher-Masterchef.zip"
+        },
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-Bone-Crusher-Apocalypse.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-Bone-Crusher-Locomotive.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Bone-Crusher-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Valhalla Ruler",
+          "Portrait_url": "Franco-Valhalla-Ruler.png",
+          "Splash_url": "Franco-Valhalla-Ruler.png",
+          "script": "Franco-Bone-Crusher-Valhalla-Ruler.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-Bone-Crusher-Blazing-Axe.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Bone-Crusher-King-of-Hell.zip"
+        },
+        {
+          "name": "Quantum Vanguard",
+          "Portrait_url": "Franco-Quantum-Vanguard.png",
+          "Splash_url": "Franco-Quantum-Vanguard.png",
+          "script": "Franco-Bone-Crusher-Quantum-Vanguard.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Bone-Crusher-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "King of Hell",
+      "Splash_url": "Franco-King-of-Hell.png",
+      "script": "Franco-King-of-Hell-Backup.zip",
+      "Portrait_url": "Franco-King-of-Hell.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-King-of-Hell-Masterchef.zip"
+        },
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-King-of-Hell-Apocalypse.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-King-of-Hell-Locomotive.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-King-of-Hell-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Valhalla Ruler",
+          "Portrait_url": "Franco-Valhalla-Ruler.png",
+          "Splash_url": "Franco-Valhalla-Ruler.png",
+          "script": "Franco-King-of-Hell-Valhalla-Ruler.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-King-of-Hell-Blazing-Axe.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-King-of-Hell-Bone-Crusher.zip"
+        },
+        {
+          "name": "Quantum Vanguard",
+          "Portrait_url": "Franco-Quantum-Vanguard.png",
+          "Splash_url": "Franco-Quantum-Vanguard.png",
+          "script": "Franco-King-of-Hell-Quantum-Vanguard.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-King-of-Hell-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Quantum Vanguard",
+      "Splash_url": "Franco-Quantum-Vanguard.png",
+      "script": "Franco-Quantum-Vanguard-Backup.zip",
+      "Portrait_url": "Franco-Quantum-Vanguard.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Masterchef",
+          "Portrait_url": "Franco-Masterchef.png",
+          "Splash_url": "Franco-Masterchef.png",
+          "script": "Franco-Quantum-Vanguard-Masterchef.zip"
+        },
+        {
+          "name": "Apocalypse",
+          "Portrait_url": "Franco-Apocalypse.png",
+          "Splash_url": "Franco-Apocalypse.png",
+          "script": "Franco-Quantum-Vanguard-Apocalypse.zip"
+        },
+        {
+          "name": "Locomotive",
+          "Portrait_url": "Franco-Locomotive.png",
+          "Splash_url": "Franco-Locomotive.png",
+          "script": "Franco-Quantum-Vanguard-Locomotive.zip"
+        },
+        {
+          "name": "Wheatfield Nightmare",
+          "Portrait_url": "Franco-Wheatfield-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Quantum-Vanguard-Wheatfield-Nightmare.zip"
+        },
+        {
+          "name": "Valhalla Ruler",
+          "Portrait_url": "Franco-Valhalla-Ruler.png",
+          "Splash_url": "Franco-Valhalla-Ruler.png",
+          "script": "Franco-Quantum-Vanguard-Valhalla-Ruler.zip"
+        },
+        {
+          "name": "Blazing Axe",
+          "Portrait_url": "Franco-Blazing-Axe.png",
+          "Splash_url": "Franco-Blazing-Axe.png",
+          "script": "Franco-Quantum-Vanguard-Blazing-Axe.zip"
+        },
+        {
+          "name": "Bone Crusher",
+          "Portrait_url": "Franco-Bone-Crusher.png",
+          "Splash_url": "Franco-Bone-Crusher.png",
+          "script": "Franco-Quantum-Vanguard-Bone-Crusher.zip"
+        },
+        {
+          "name": "King of Hell",
+          "Portrait_url": "Franco-King-of-Hell.png",
+          "Splash_url": "Franco-King-of-Hell.png",
+          "script": "Franco-Quantum-Vanguard-King-of-Hell.zip"
+        },
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Quantum-Vanguard-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Luminous Nightmare Skin 10",
+      "Splash_url": "Franco-Luminous-Nightmare.png",
+      "script": "Franco-Luminous-Nightmare-Skin-10-Backup.zip",
+      "Portrait_url": "Franco-Luminous-Nightmare.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Luminous Nightmare Painted 01",
+          "Portrait_url": "Franco-Luminous-Nightmare.png",
+          "Splash_url": "Franco-Wheatfield-Nightmare.png",
+          "script": "Franco-Luminous-Nightmare-Skin-10-Luminous-Nightmare-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

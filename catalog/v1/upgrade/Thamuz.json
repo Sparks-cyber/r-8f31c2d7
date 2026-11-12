@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Thamuz",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Lord of Wraith",
+      "Splash_url": "Thamuz-Lord-of-Wraith.png",
+      "script": "Thamuz-Lord-of-Wraith-Backup.zip",
+      "Portrait_url": "Thamuz-Lord-of-Wraith.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Liquid Fire",
+          "Portrait_url": "Thamuz-Liquid-Fire.png",
+          "Splash_url": "Thamuz-Liquid-Fire.png",
+          "script": "Thamuz-Lord-of-Wraith-Liquid-Fire.zip"
+        },
+        {
+          "name": "Abyssal Reaper",
+          "Portrait_url": "Thamuz-Abyssal-Reaper.png",
+          "Splash_url": "Thamuz-Abyssal-Reaper.png",
+          "script": "Thamuz-Lord-of-Wraith-Abyssal-Reaper.zip"
+        },
+        {
+          "name": "General Kai",
+          "Portrait_url": "Thamuz-General-Kai.png",
+          "Splash_url": "Thamuz-General-Kai.png",
+          "script": "Thamuz-Lord-of-Wraith-General-Kai.zip"
+        },
+        {
+          "name": "Sanctified Flame",
+          "Portrait_url": "Thamuz-Sanctified-Flame.png",
+          "Splash_url": "Thamuz-Sanctified-Flame.png",
+          "script": "Thamuz-Lord-of-Wraith-Sanctified-Flame.zip"
+        },
+        {
+          "name": "The Annihilator",
+          "Portrait_url": "Thamuz-The-Annihilator.png",
+          "Splash_url": "Thamuz-Nexus-Sea.png",
+          "script": "Thamuz-Lord-of-Wraith-The-Annihilator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Liquid Fire",
+      "Splash_url": "Thamuz-Liquid-Fire.png",
+      "script": "Thamuz-Liquid-Fire-Backup.zip",
+      "Portrait_url": "Thamuz-Liquid-Fire.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Lord of Wraith",
+          "Portrait_url": "Thamuz-Lord-of-Wraith.png",
+          "Splash_url": "Thamuz-Lord-of-Wraith.png",
+          "script": "Thamuz-Liquid-Fire-Lord-of-Wraith.zip"
+        },
+        {
+          "name": "Abyssal Reaper",
+          "Portrait_url": "Thamuz-Abyssal-Reaper.png",
+          "Splash_url": "Thamuz-Abyssal-Reaper.png",
+          "script": "Thamuz-Liquid-Fire-Abyssal-Reaper.zip"
+        },
+        {
+          "name": "General Kai",
+          "Portrait_url": "Thamuz-General-Kai.png",
+          "Splash_url": "Thamuz-General-Kai.png",
+          "script": "Thamuz-Liquid-Fire-General-Kai.zip"
+        },
+        {
+          "name": "Sanctified Flame",
+          "Portrait_url": "Thamuz-Sanctified-Flame.png",
+          "Splash_url": "Thamuz-Sanctified-Flame.png",
+          "script": "Thamuz-Liquid-Fire-Sanctified-Flame.zip"
+        },
+        {
+          "name": "The Annihilator",
+          "Portrait_url": "Thamuz-The-Annihilator.png",
+          "Splash_url": "Thamuz-Nexus-Sea.png",
+          "script": "Thamuz-Liquid-Fire-The-Annihilator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Abyssal Reaper",
+      "Splash_url": "Thamuz-Abyssal-Reaper.png",
+      "script": "Thamuz-Abyssal-Reaper-Backup.zip",
+      "Portrait_url": "Thamuz-Abyssal-Reaper.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Lord of Wraith",
+          "Portrait_url": "Thamuz-Lord-of-Wraith.png",
+          "Splash_url": "Thamuz-Lord-of-Wraith.png",
+          "script": "Thamuz-Abyssal-Reaper-Lord-of-Wraith.zip"
+        },
+        {
+          "name": "Liquid Fire",
+          "Portrait_url": "Thamuz-Liquid-Fire.png",
+          "Splash_url": "Thamuz-Liquid-Fire.png",
+          "script": "Thamuz-Abyssal-Reaper-Liquid-Fire.zip"
+        },
+        {
+          "name": "General Kai",
+          "Portrait_url": "Thamuz-General-Kai.png",
+          "Splash_url": "Thamuz-General-Kai.png",
+          "script": "Thamuz-Abyssal-Reaper-General-Kai.zip"
+        },
+        {
+          "name": "Sanctified Flame",
+          "Portrait_url": "Thamuz-Sanctified-Flame.png",
+          "Splash_url": "Thamuz-Sanctified-Flame.png",
+          "script": "Thamuz-Abyssal-Reaper-Sanctified-Flame.zip"
+        },
+        {
+          "name": "The Annihilator",
+          "Portrait_url": "Thamuz-The-Annihilator.png",
+          "Splash_url": "Thamuz-Nexus-Sea.png",
+          "script": "Thamuz-Abyssal-Reaper-The-Annihilator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu Panda",
+      "Default_name": "General Kai",
+      "Splash_url": "Thamuz-General-Kai.png",
+      "script": "Thamuz-General-Kai-Backup.zip",
+      "Portrait_url": "Thamuz-General-Kai.png",
+      "Tags": [
+        "Kung Fu Panda.png"
+      ],
+      "targets": [
+        {
+          "name": "Lord of Wraith",
+          "Portrait_url": "Thamuz-Lord-of-Wraith.png",
+          "Splash_url": "Thamuz-Lord-of-Wraith.png",
+          "script": "Thamuz-General-Kai-Lord-of-Wraith.zip"
+        },
+        {
+          "name": "Liquid Fire",
+          "Portrait_url": "Thamuz-Liquid-Fire.png",
+          "Splash_url": "Thamuz-Liquid-Fire.png",
+          "script": "Thamuz-General-Kai-Liquid-Fire.zip"
+        },
+        {
+          "name": "Abyssal Reaper",
+          "Portrait_url": "Thamuz-Abyssal-Reaper.png",
+          "Splash_url": "Thamuz-Abyssal-Reaper.png",
+          "script": "Thamuz-General-Kai-Abyssal-Reaper.zip"
+        },
+        {
+          "name": "Sanctified Flame",
+          "Portrait_url": "Thamuz-Sanctified-Flame.png",
+          "Splash_url": "Thamuz-Sanctified-Flame.png",
+          "script": "Thamuz-General-Kai-Sanctified-Flame.zip"
+        },
+        {
+          "name": "The Annihilator",
+          "Portrait_url": "Thamuz-The-Annihilator.png",
+          "Splash_url": "Thamuz-Nexus-Sea.png",
+          "script": "Thamuz-General-Kai-The-Annihilator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Sanctified Flame",
+      "Splash_url": "Thamuz-Sanctified-Flame.png",
+      "script": "Thamuz-Sanctified-Flame-Backup.zip",
+      "Portrait_url": "Thamuz-Sanctified-Flame.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Lord of Wraith",
+          "Portrait_url": "Thamuz-Lord-of-Wraith.png",
+          "Splash_url": "Thamuz-Lord-of-Wraith.png",
+          "script": "Thamuz-Sanctified-Flame-Lord-of-Wraith.zip"
+        },
+        {
+          "name": "Liquid Fire",
+          "Portrait_url": "Thamuz-Liquid-Fire.png",
+          "Splash_url": "Thamuz-Liquid-Fire.png",
+          "script": "Thamuz-Sanctified-Flame-Liquid-Fire.zip"
+        },
+        {
+          "name": "Abyssal Reaper",
+          "Portrait_url": "Thamuz-Abyssal-Reaper.png",
+          "Splash_url": "Thamuz-Abyssal-Reaper.png",
+          "script": "Thamuz-Sanctified-Flame-Abyssal-Reaper.zip"
+        },
+        {
+          "name": "General Kai",
+          "Portrait_url": "Thamuz-General-Kai.png",
+          "Splash_url": "Thamuz-General-Kai.png",
+          "script": "Thamuz-Sanctified-Flame-General-Kai.zip"
+        },
+        {
+          "name": "The Annihilator",
+          "Portrait_url": "Thamuz-The-Annihilator.png",
+          "Splash_url": "Thamuz-Nexus-Sea.png",
+          "script": "Thamuz-Sanctified-Flame-The-Annihilator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Sea",
+      "Default_name": "The Annihilator",
+      "Splash_url": "Thamuz-Nexus-Sea.png",
+      "script": "Thamuz-The-Annihilator-Backup.zip",
+      "Portrait_url": "Thamuz-The-Annihilator.png",
+      "Tags": [
+        "Nexus Sea.png"
+      ],
+      "targets": [
+        {
+          "name": "Lord of Wraith",
+          "Portrait_url": "Thamuz-Lord-of-Wraith.png",
+          "Splash_url": "Thamuz-Lord-of-Wraith.png",
+          "script": "Thamuz-The-Annihilator-Lord-of-Wraith.zip"
+        },
+        {
+          "name": "Liquid Fire",
+          "Portrait_url": "Thamuz-Liquid-Fire.png",
+          "Splash_url": "Thamuz-Liquid-Fire.png",
+          "script": "Thamuz-The-Annihilator-Liquid-Fire.zip"
+        },
+        {
+          "name": "Abyssal Reaper",
+          "Portrait_url": "Thamuz-Abyssal-Reaper.png",
+          "Splash_url": "Thamuz-Abyssal-Reaper.png",
+          "script": "Thamuz-The-Annihilator-Abyssal-Reaper.zip"
+        },
+        {
+          "name": "General Kai",
+          "Portrait_url": "Thamuz-General-Kai.png",
+          "Splash_url": "Thamuz-General-Kai.png",
+          "script": "Thamuz-The-Annihilator-General-Kai.zip"
+        },
+        {
+          "name": "Sanctified Flame",
+          "Portrait_url": "Thamuz-Sanctified-Flame.png",
+          "Splash_url": "Thamuz-Sanctified-Flame.png",
+          "script": "Thamuz-The-Annihilator-Sanctified-Flame.zip"
+        }
+      ]
+    }
+  ]
+}

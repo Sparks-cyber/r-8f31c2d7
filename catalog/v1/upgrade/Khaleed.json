@@ -1,0 +1,125 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Khaleed",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Prince of Sand",
+      "Splash_url": "Khaleed-Prince-of-Sand.png",
+      "script": "Khaleed-Prince-of-Sand-Backup.zip",
+      "Portrait_url": "Khaleed-Prince-of-Sand.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Crescent Scimitar",
+          "Portrait_url": "Khaleed-Crescent-Scimitar.png",
+          "Splash_url": "Khaleed-Crescent-Scimitar.png",
+          "script": "Khaleed-Prince-of-Sand-Crescent-Scimitar.zip"
+        },
+        {
+          "name": "Wave Strider",
+          "Portrait_url": "Khaleed-Wave-Strider.png",
+          "Splash_url": "Khaleed-Wave-Strider.png",
+          "script": "Khaleed-Prince-of-Sand-Wave-Strider.zip"
+        },
+        {
+          "name": "Desert Salamander",
+          "Portrait_url": "Khaleed-Desert-Salamander.png",
+          "Splash_url": "Khaleed-Desert-Salamander.png",
+          "script": "Khaleed-Prince-of-Sand-Desert-Salamander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Crescent Scimitar",
+      "Splash_url": "Khaleed-Crescent-Scimitar.png",
+      "script": "Khaleed-Crescent-Scimitar-Backup.zip",
+      "Portrait_url": "Khaleed-Crescent-Scimitar.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Prince of Sand",
+          "Portrait_url": "Khaleed-Prince-of-Sand.png",
+          "Splash_url": "Khaleed-Prince-of-Sand.png",
+          "script": "Khaleed-Crescent-Scimitar-Prince-of-Sand.zip"
+        },
+        {
+          "name": "Wave Strider",
+          "Portrait_url": "Khaleed-Wave-Strider.png",
+          "Splash_url": "Khaleed-Wave-Strider.png",
+          "script": "Khaleed-Crescent-Scimitar-Wave-Strider.zip"
+        },
+        {
+          "name": "Desert Salamander",
+          "Portrait_url": "Khaleed-Desert-Salamander.png",
+          "Splash_url": "Khaleed-Desert-Salamander.png",
+          "script": "Khaleed-Crescent-Scimitar-Desert-Salamander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Wave Strider",
+      "Splash_url": "Khaleed-Wave-Strider.png",
+      "script": "Khaleed-Wave-Strider-Backup.zip",
+      "Portrait_url": "Khaleed-Wave-Strider.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Prince of Sand",
+          "Portrait_url": "Khaleed-Prince-of-Sand.png",
+          "Splash_url": "Khaleed-Prince-of-Sand.png",
+          "script": "Khaleed-Wave-Strider-Prince-of-Sand.zip"
+        },
+        {
+          "name": "Crescent Scimitar",
+          "Portrait_url": "Khaleed-Crescent-Scimitar.png",
+          "Splash_url": "Khaleed-Crescent-Scimitar.png",
+          "script": "Khaleed-Wave-Strider-Crescent-Scimitar.zip"
+        },
+        {
+          "name": "Desert Salamander",
+          "Portrait_url": "Khaleed-Desert-Salamander.png",
+          "Splash_url": "Khaleed-Desert-Salamander.png",
+          "script": "Khaleed-Wave-Strider-Desert-Salamander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Desert Salamander",
+      "Splash_url": "Khaleed-Desert-Salamander.png",
+      "script": "Khaleed-Desert-Salamander-Backup.zip",
+      "Portrait_url": "Khaleed-Desert-Salamander.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Prince of Sand",
+          "Portrait_url": "Khaleed-Prince-of-Sand.png",
+          "Splash_url": "Khaleed-Prince-of-Sand.png",
+          "script": "Khaleed-Desert-Salamander-Prince-of-Sand.zip"
+        },
+        {
+          "name": "Crescent Scimitar",
+          "Portrait_url": "Khaleed-Crescent-Scimitar.png",
+          "Splash_url": "Khaleed-Crescent-Scimitar.png",
+          "script": "Khaleed-Desert-Salamander-Crescent-Scimitar.zip"
+        },
+        {
+          "name": "Wave Strider",
+          "Portrait_url": "Khaleed-Wave-Strider.png",
+          "Splash_url": "Khaleed-Wave-Strider.png",
+          "script": "Khaleed-Desert-Salamander-Wave-Strider.zip"
+        }
+      ]
+    }
+  ]
+}

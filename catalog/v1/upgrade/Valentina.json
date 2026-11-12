@@ -1,0 +1,179 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Valentina",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Twilight Charmer",
+      "Splash_url": "Valentina-Twilight-Charmer.png",
+      "script": "Valentina-Twilight-Charmer-Backup.zip",
+      "Portrait_url": "Valentina-Twilight-Charmer.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Archmagister",
+          "Portrait_url": "Valentina-Archmagister.png",
+          "Splash_url": "Valentina-Archmagister.png",
+          "script": "Valentina-Twilight-Charmer-Archmagister.zip"
+        },
+        {
+          "name": "Dark Nexus",
+          "Portrait_url": "Valentina-Dark-Nexus.png",
+          "Splash_url": "Valentina-Dark-Nexus.png",
+          "script": "Valentina-Twilight-Charmer-Dark-Nexus.zip"
+        },
+        {
+          "name": "Digital Echantress",
+          "Portrait_url": "Valentina-Digital-Echantress.png",
+          "Splash_url": "Valentina-Digital-Echantress.png",
+          "script": "Valentina-Twilight-Charmer-Digital-Echantress.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Archmagister",
+      "Splash_url": "Valentina-Archmagister.png",
+      "script": "Valentina-Archmagister-Backup.zip",
+      "Portrait_url": "Valentina-Archmagister.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Twilight Charmer",
+          "Portrait_url": "Valentina-Twilight-Charmer.png",
+          "Splash_url": "Valentina-Twilight-Charmer.png",
+          "script": "Valentina-Archmagister-Twilight-Charmer.zip"
+        },
+        {
+          "name": "Cyber Agent",
+          "Portrait_url": "Valentina-Cyber-Agent.png",
+          "Splash_url": "Valentina-Cyber-Agent.png",
+          "script": "Valentina-Archmagister-Cyber-Agent.zip"
+        },
+        {
+          "name": "Dark Nexus",
+          "Portrait_url": "Valentina-Dark-Nexus.png",
+          "Splash_url": "Valentina-Dark-Nexus.png",
+          "script": "Valentina-Archmagister-Dark-Nexus.zip"
+        },
+        {
+          "name": "Digital Echantress",
+          "Portrait_url": "Valentina-Digital-Echantress.png",
+          "Splash_url": "Valentina-Digital-Echantress.png",
+          "script": "Valentina-Archmagister-Digital-Echantress.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Cyber Agent",
+      "Splash_url": "Valentina-Cyber-Agent.png",
+      "script": "Valentina-Cyber-Agent-Backup.zip",
+      "Portrait_url": "Valentina-Cyber-Agent.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Twilight Charmer",
+          "Portrait_url": "Valentina-Twilight-Charmer.png",
+          "Splash_url": "Valentina-Twilight-Charmer.png",
+          "script": "Valentina-Cyber-Agent-Twilight-Charmer.zip"
+        },
+        {
+          "name": "Archmagister",
+          "Portrait_url": "Valentina-Archmagister.png",
+          "Splash_url": "Valentina-Archmagister.png",
+          "script": "Valentina-Cyber-Agent-Archmagister.zip"
+        },
+        {
+          "name": "Dark Nexus",
+          "Portrait_url": "Valentina-Dark-Nexus.png",
+          "Splash_url": "Valentina-Dark-Nexus.png",
+          "script": "Valentina-Cyber-Agent-Dark-Nexus.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Celestial Judicator",
+      "Splash_url": "Valentina-Celestial-Judicator.png",
+      "script": "Valentina-Celestial-Judicator-Backup.zip",
+      "Portrait_url": "Valentina-Celestial-Judicator.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Twilight Charmer",
+          "Portrait_url": "Valentina-Twilight-Charmer.png",
+          "Splash_url": "Valentina-Twilight-Charmer.png",
+          "script": "Valentina-Celestial-Judicator-Twilight-Charmer.zip"
+        },
+        {
+          "name": "Archmagister",
+          "Portrait_url": "Valentina-Archmagister.png",
+          "Splash_url": "Valentina-Archmagister.png",
+          "script": "Valentina-Celestial-Judicator-Archmagister.zip"
+        },
+        {
+          "name": "Cyber Agent",
+          "Portrait_url": "Valentina-Cyber-Agent.png",
+          "Splash_url": "Valentina-Cyber-Agent.png",
+          "script": "Valentina-Celestial-Judicator-Cyber-Agent.zip"
+        },
+        {
+          "name": "Dark Nexus",
+          "Portrait_url": "Valentina-Dark-Nexus.png",
+          "Splash_url": "Valentina-Dark-Nexus.png",
+          "script": "Valentina-Celestial-Judicator-Dark-Nexus.zip"
+        },
+        {
+          "name": "Digital Echantress",
+          "Portrait_url": "Valentina-Digital-Echantress.png",
+          "Splash_url": "Valentina-Digital-Echantress.png",
+          "script": "Valentina-Celestial-Judicator-Digital-Echantress.zip"
+        }
+      ]
+    },
+    {
+      "name": "MSC 2024",
+      "Default_name": "Dark Nexus",
+      "Splash_url": "Valentina-Dark-Nexus.png",
+      "script": "Valentina-Dark-Nexus-Backup.zip",
+      "Portrait_url": "Valentina-Dark-Nexus.png",
+      "Tags": [
+        "MSC 2024.png"
+      ],
+      "targets": [
+        {
+          "name": "Twilight Charmer",
+          "Portrait_url": "Valentina-Twilight-Charmer.png",
+          "Splash_url": "Valentina-Twilight-Charmer.png",
+          "script": "Valentina-Dark-Nexus-Twilight-Charmer.zip"
+        },
+        {
+          "name": "Archmagister",
+          "Portrait_url": "Valentina-Archmagister.png",
+          "Splash_url": "Valentina-Archmagister.png",
+          "script": "Valentina-Dark-Nexus-Archmagister.zip"
+        },
+        {
+          "name": "Cyber Agent",
+          "Portrait_url": "Valentina-Cyber-Agent.png",
+          "Splash_url": "Valentina-Cyber-Agent.png",
+          "script": "Valentina-Dark-Nexus-Cyber-Agent.zip"
+        },
+        {
+          "name": "Digital Echantress",
+          "Portrait_url": "Valentina-Digital-Echantress.png",
+          "Splash_url": "Valentina-Digital-Echantress.png",
+          "script": "Valentina-Dark-Nexus-Digital-Echantress.zip"
+        }
+      ]
+    }
+  ]
+}

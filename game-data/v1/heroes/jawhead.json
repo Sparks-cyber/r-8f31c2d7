@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 54,
+    "slug": "jawhead",
+    "name": "Jawhead",
+    "skin_name": "Steel Sweetheart",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "January 2018",
+    "resource": "Mana",
+    "short_description": "Intelligent robot used to protect little Ailee.",
+    "brief": "This intelligent robot developed by Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter little Ailee after their disappearance.",
+    "story": "Clandestine organizations have existed throughout the many ages of the Land of Dawn's history. No one knows the true purpose of these organizations, but one thing is for sure: whenever a crisis is at hand, mysterious figures emerge from the shadows to restore order to the world.\n\nProfessor Henry and his wife worked for the Dawn Council, known for its research in cutting-edge technology, providing an endless and varied stream of high-tech products to government agencies and mysterious, anonymous clients. But when they finally finished developing the \"SMART-01\", all this changed, as their new creation was more intelligent and powerful than any android the world had seen before. It was designed so that once a genetically matched host controlled him, he could act according to the controller's consciousness. The leaders of the Dawn Council saw the potential of this technology for warfare and ordered the Henrys to transfer the technology to selected government agencies for a mass production program. The Henrys refused.\n\nAfter ordering their Prototype One to destroy all of the experiment's data, the Henrys mysteriously disappeared. To this day, little Ailee has no knowledge of these events. All she knows and cares about is that this special robot has always been there to protect and accompany her, and that he calls her \"Honey\" like her father once did, while she affectionately calls him \"Jawhead\" in return. The only clue left behind by her parents was a pocket watch she carries with her wherever she goes. Eventually, Ailee decides to journey with her robot friend to track down her parents' whereabouts...",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 3,
+    "control": 6,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2658,
+    "health_growth": 223,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.5143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 119,
+    "physical_attack_growth": 8.21,
+    "magic_power": 0,
+    "physical_defense": 24,
+    "physical_defense_growth": 4.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.13,
+    "attack_speed_growth": 0.0193,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 255,
+    "attack_range": 1.5
+  },
+  "abilities": [
+    {
+      "id": "Jawhead0",
+      "name": "Mecha Suppression",
+      "description": "Each time Jawhead deals damage to an enemy hero or a Creep, he inflicts a stack of Mecha Suppression on them for 3s (up to 6 stacks). Each stack of Mecha Suppression increases all damage dealt to the target by 2% (limited to 50% for Creeps).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_be1d9f5cde5273770efe9549f6d374e0.png",
+      "video_url": null
+    },
+    {
+      "id": "Jawhead1",
+      "name": "Smart Missiles",
+      "description": "Jawhead launches up to 12 missiles at random nearby enemies over 5s, each missile dealing 135/160/185/210/235/260<scaleAD> (+30% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the enemy hit.",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "5/4.7/4.4/4.1/3.8/3.5",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e71b01ad4b25441dc2874018c16771.png",
+      "video_url": null
+    },
+    {
+      "id": "Jawhead2",
+      "name": "Ejector",
+      "description": "Jawhead gains 30% Movement Speed and a 500/600/700/800/900/1000<scaleAD> (+100% Total Physical Attack)</scaleAD> shield for 5s.<br/><br/><highlight>Use Again</highlight>: Jawhead flings the nearest unit (prioritizes heroes) to the target location, dealing 300/340/380/420/460/500<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the area and stunning them for 0.5s. Can be used on allied heroes and they will not take damage.",
+      "flavor_text": null,
+      "cost": "80/90/100/110/120/130",
+      "cooldown": "15/14.4/13.8/13.2/12.6/12",
+      "tags": [
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8e015be6d7c3f44d07c7821c86d340e.png",
+      "video_url": null
+    },
+    {
+      "id": "Jawhead3",
+      "name": "Unstoppable Force",
+      "description": "Jawhead charges into the target enemy hero, dealing 350/475/600<scaleAD> (+150% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.",
+      "flavor_text": null,
+      "cost": "120/150/180",
+      "cooldown": "35/30/25",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b206f68d351dbf04a3e211903b345985.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Jawhead0",
+      "sequence": "Jawhead2-Jawhead1-Jawhead3-Jawhead2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Jawhead's 2nd Skill for the Movement Speed and start up his 1st Skill then immediately charge into a target using his Ultimate. Finally, use his 2nd Skill to toss the enemy back."
+    },
+    {
+      "id": "Jawhead1",
+      "sequence": "Jawhead2-Jawhead1-AA-Jawhead2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Jawhead's 2nd Skill to get close to the enemy, then follow up with his 1st Skill and Basic Attacks to deal continuous damage. When the enemy tries to run, use his 2nd Skill again to toss them back."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Jawhead works best with heroes that benefit from a quick engage like Odette and Belerick because he can throw them into the enemy for a surprise attack.",
+      "heroes": [
+        {
+          "id": 46,
+          "slug": "odette",
+          "name": "Odette"
+        },
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Jawhead counters squishy heroes with no defensive skills that he can burst down after connecting with his Ultimate, such as Saber and Eudora.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Jawhead is countered by heroes with high sustained damage or high survivability, like Edith and Thamuz, because they can survive Jawhead's burst damage and beat him in a prolonged battle.",
+      "heroes": [
+        {
+          "id": 111,
+          "slug": "edith",
+          "name": "Edith"
+        },
+        {
+          "id": 72,
+          "slug": "thamuz",
+          "name": "Thamuz"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Jawhead-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Jawhead-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a48e93159c30c31e05dcd6cf7f53c07c.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a48e93159c30c31e05dcd6cf7f53c07c.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": null
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/jawhead.json",
+    "visual_catalog": "catalog/v1/visual/jawhead.json",
+    "upgrade_catalog": "catalog/v1/upgrade/jawhead.json"
+  }
+}

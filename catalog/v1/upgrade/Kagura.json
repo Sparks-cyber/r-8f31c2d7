@@ -1,0 +1,813 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Kagura",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Flower Season",
+      "Splash_url": "Kagura-Flower-Season.png",
+      "script": "Kagura-Flower-Season-Backup.zip",
+      "Portrait_url": "Kagura-Flower-Season.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Flower-Season-Cherry-Witch.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Flower-Season-Summer-Festival.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Flower-Season-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Flower-Season-Rainy-Walk.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Flower-Season-Water-Lily.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Flower-Season-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Flower-Season-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Flower-Season-Jade-Blossom.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Flower-Season-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Flower-Season-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Flower-Season-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Cherry Witch",
+      "Splash_url": "Kagura-Cherry-Witch.png",
+      "script": "Kagura-Cherry-Witch-Backup.zip",
+      "Portrait_url": "Kagura-Cherry-Witch.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Cherry-Witch-Flower-Season.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Cherry-Witch-Summer-Festival.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Cherry-Witch-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Cherry-Witch-Rainy-Walk.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Cherry-Witch-Water-Lily.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Cherry-Witch-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Cherry-Witch-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Cherry-Witch-Jade-Blossom.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Cherry-Witch-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Cherry-Witch-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Summer Festival",
+      "Splash_url": "Kagura-Summer-Festival.png",
+      "script": "Kagura-Summer-Festival-Backup.zip",
+      "Portrait_url": "Kagura-Summer-Festival.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Summer-Festival-Flower-Season.zip"
+        },
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Summer-Festival-Cherry-Witch.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Summer-Festival-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Summer-Festival-Rainy-Walk.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Summer-Festival-Water-Lily.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Summer-Festival-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Summer-Festival-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Summer-Festival-Jade-Blossom.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Summer-Festival-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Summer-Festival-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Dragon Maiden",
+      "Splash_url": "Kagura-Dragon-Maiden.png",
+      "script": "Kagura-Dragon-Maiden-Backup.zip",
+      "Portrait_url": "Kagura-Dragon-Maiden.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Dragon-Maiden-Flower-Season.zip"
+        },
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Dragon-Maiden-Cherry-Witch.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Dragon-Maiden-Summer-Festival.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Dragon-Maiden-Rainy-Walk.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Dragon-Maiden-Water-Lily.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Dragon-Maiden-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Dragon-Maiden-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Dragon-Maiden-Jade-Blossom.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Dragon-Maiden-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Dragon-Maiden-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Dragon-Maiden-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Rainy Walk",
+      "Splash_url": "Kagura-Rainy-Walk.png",
+      "script": "Kagura-Rainy-Walk-Backup.zip",
+      "Portrait_url": "Kagura-Rainy-Walk.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Rainy-Walk-Flower-Season.zip"
+        },
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Rainy-Walk-Cherry-Witch.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Rainy-Walk-Summer-Festival.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Rainy-Walk-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Rainy-Walk-Water-Lily.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Rainy-Walk-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Rainy-Walk-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Rainy-Walk-Jade-Blossom.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Rainy-Walk-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Rainy-Walk-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Rainy-Walk-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Annual StarLight",
+      "Default_name": "Water Lily",
+      "Splash_url": "Kagura-Water-Lily.png",
+      "script": "Kagura-Water-Lily-Backup.zip",
+      "Portrait_url": "Kagura-Water-Lily.png",
+      "Tags": [
+        "Annual Starlight.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Water-Lily-Flower-Season.zip"
+        },
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Water-Lily-Cherry-Witch.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Water-Lily-Summer-Festival.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Water-Lily-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Water-Lily-Rainy-Walk.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Water-Lily-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Water-Lily-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Water-Lily-Jade-Blossom.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Water-Lily-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Water-Lily-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Water-Lily-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Exorcists",
+      "Default_name": "Exorcist Kagura",
+      "Splash_url": "Kagura-Exorcist-Kagura.png",
+      "script": "Kagura-Exorcist-Kagura-Backup.zip",
+      "Portrait_url": "Kagura-Exorcist.png",
+      "Tags": [
+        "Exorcists.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Exorcist-Kagura-Flower-Season.zip"
+        },
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Exorcist-Kagura-Cherry-Witch.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Exorcist-Kagura-Summer-Festival.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Exorcist-Kagura-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Exorcist-Kagura-Rainy-Walk.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Exorcist-Kagura-Water-Lily.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Exorcist-Kagura-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Exorcist-Kagura-Jade-Blossom.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Exorcist-Kagura-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Exorcist-Kagura-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Exorcist-Kagura-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clouds",
+      "Default_name": "Beyond the Clouds Kagura",
+      "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+      "script": "Kagura-Beyond-the-Clouds-Kagura-Backup.zip",
+      "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+      "Tags": [
+        "Beyond the Clouds.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Flower-Season.zip"
+        },
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Cherry-Witch.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Summer-Festival.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Rainy-Walk.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Water-Lily.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Jade Blossom",
+          "Portrait_url": "Kagura-Jade-Blossom.png",
+          "Splash_url": "Kagura-Jade-Blossom.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Jade-Blossom.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Beyond-the-Clouds-Kagura-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Jade Blossom",
+      "Splash_url": "Kagura-Jade-Blossom.png",
+      "script": "Kagura-Jade-Blossom-Backup.zip",
+      "Portrait_url": "Kagura-Jade-Blossom.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Season",
+          "Portrait_url": "Kagura-Flower-Season.png",
+          "Splash_url": "Kagura-Flower-Season.png",
+          "script": "Kagura-Jade-Blossom-Flower-Season.zip"
+        },
+        {
+          "name": "Cherry Witch",
+          "Portrait_url": "Kagura-Cherry-Witch.png",
+          "Splash_url": "Kagura-Cherry-Witch.png",
+          "script": "Kagura-Jade-Blossom-Cherry-Witch.zip"
+        },
+        {
+          "name": "Summer Festival",
+          "Portrait_url": "Kagura-Summer-Festival.png",
+          "Splash_url": "Kagura-Summer-Festival.png",
+          "script": "Kagura-Jade-Blossom-Summer-Festival.zip"
+        },
+        {
+          "name": "Dragon Maiden",
+          "Portrait_url": "Kagura-Dragon-Maiden.png",
+          "Splash_url": "Kagura-Dragon-Maiden.png",
+          "script": "Kagura-Jade-Blossom-Dragon-Maiden.zip"
+        },
+        {
+          "name": "Rainy Walk",
+          "Portrait_url": "Kagura-Rainy-Walk.png",
+          "Splash_url": "Kagura-Rainy-Walk.png",
+          "script": "Kagura-Jade-Blossom-Rainy-Walk.zip"
+        },
+        {
+          "name": "Water Lily",
+          "Portrait_url": "Kagura-Water-Lily.png",
+          "Splash_url": "Kagura-Water-Lily.png",
+          "script": "Kagura-Jade-Blossom-Water-Lily.zip"
+        },
+        {
+          "name": "Exorcist Kagura",
+          "Portrait_url": "Kagura-Exorcist.png",
+          "Splash_url": "Kagura-Exorcist-Kagura.png",
+          "script": "Kagura-Jade-Blossom-Exorcist-Kagura.zip"
+        },
+        {
+          "name": "Beyond the Clouds Kagura",
+          "Portrait_url": "Kagura-Beyond-the-Clouds.png",
+          "Splash_url": "Kagura-Beyond-the-Clouds-Kagura.png",
+          "script": "Kagura-Jade-Blossom-Beyond-the-Clouds-Kagura.zip"
+        },
+        {
+          "name": "Amethyst Wizard",
+          "Portrait_url": "Kagura-Amethyst-Wizard.png",
+          "Splash_url": "Kagura-Amethyst-Wizard.png",
+          "script": "Kagura-Jade-Blossom-Amethyst-Wizard.zip"
+        },
+        {
+          "name": "Pink Summer Festival",
+          "Portrait_url": "Kagura-Pink-Summer-Festival.png",
+          "Splash_url": "Kagura-Pink-Summer-Festival.png",
+          "script": "Kagura-Jade-Blossom-Pink-Summer-Festival.zip"
+        },
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Jade-Blossom-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Lady Parasol",
+      "Splash_url": "Kagura-Lady-Parasol.png",
+      "script": "Kagura-Lady-Parasol-Backup.zip",
+      "Portrait_url": "Kagura-Lady-Parasol.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Feast of Eternity",
+          "Portrait_url": "Kagura-Feast-of-Eternity.png",
+          "Splash_url": "Kagura-Feast-of-Eternity.png",
+          "script": "Kagura-Lady-Parasol-Feast-of-Eternity.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "available",
+            "embedded": true,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v2",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    }
+  ]
+}

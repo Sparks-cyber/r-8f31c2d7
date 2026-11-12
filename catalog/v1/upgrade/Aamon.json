@@ -1,0 +1,185 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Aamon",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Night's Edge",
+      "Splash_url": "Aamon-Night-s-Edge.png",
+      "script": "Aamon-Night-s-Edge-Backup.zip",
+      "Portrait_url": "Aamon-Night-s-Edge.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Noble Crest",
+          "Portrait_url": "Aamon-Noble-Crest.png",
+          "Splash_url": "Aamon-Noble-Crest.png",
+          "script": "Aamon-Night-s-Edge-Noble-Crest.zip"
+        },
+        {
+          "name": "Cyber Assassin",
+          "Portrait_url": "Aamon-Cyber-Assassin.png",
+          "Splash_url": "Aamon-Cyber-Assassin.png",
+          "script": "Aamon-Night-s-Edge-Cyber-Assassin.zip"
+        },
+        {
+          "name": "Vessel of Deceit",
+          "Portrait_url": "Aamon-Vessel-of-Deceit.png",
+          "Splash_url": "Aamon-Vessel-of-Deceit.png",
+          "script": "Aamon-Night-s-Edge-Vessel-of-Deceit.zip"
+        },
+        {
+          "name": "Soul Reaver",
+          "Portrait_url": "Aamon-Soul-Reaver.png",
+          "Splash_url": "Aamon-Soul-Reaver.png",
+          "script": "Aamon-Night-s-Edge-Soul-Reaver.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Noble Crest",
+      "Splash_url": "Aamon-Noble-Crest.png",
+      "script": "Aamon-Noble-Crest-Backup.zip",
+      "Portrait_url": "Aamon-Noble-Crest.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Night's Edge",
+          "Portrait_url": "Aamon-Night-s-Edge.png",
+          "Splash_url": "Aamon-Night-s-Edge.png",
+          "script": "Aamon-Noble-Crest-Night-s-Edge.zip"
+        },
+        {
+          "name": "Cyber Assassin",
+          "Portrait_url": "Aamon-Cyber-Assassin.png",
+          "Splash_url": "Aamon-Cyber-Assassin.png",
+          "script": "Aamon-Noble-Crest-Cyber-Assassin.zip"
+        },
+        {
+          "name": "Vessel of Deceit",
+          "Portrait_url": "Aamon-Vessel-of-Deceit.png",
+          "Splash_url": "Aamon-Vessel-of-Deceit.png",
+          "script": "Aamon-Noble-Crest-Vessel-of-Deceit.zip"
+        },
+        {
+          "name": "Soul Reaver",
+          "Portrait_url": "Aamon-Soul-Reaver.png",
+          "Splash_url": "Aamon-Soul-Reaver.png",
+          "script": "Aamon-Noble-Crest-Soul-Reaver.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Cyber Assassin",
+      "Splash_url": "Aamon-Cyber-Assassin.png",
+      "script": "Aamon-Cyber-Assassin-Backup.zip",
+      "Portrait_url": "Aamon-Cyber-Assassin.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Night's Edge",
+          "Portrait_url": "Aamon-Night-s-Edge.png",
+          "Splash_url": "Aamon-Night-s-Edge.png",
+          "script": "Aamon-Cyber-Assassin-Night-s-Edge.zip"
+        },
+        {
+          "name": "Noble Crest",
+          "Portrait_url": "Aamon-Noble-Crest.png",
+          "Splash_url": "Aamon-Noble-Crest.png",
+          "script": "Aamon-Cyber-Assassin-Noble-Crest.zip"
+        },
+        {
+          "name": "Vessel of Deceit",
+          "Portrait_url": "Aamon-Vessel-of-Deceit.png",
+          "Splash_url": "Aamon-Vessel-of-Deceit.png",
+          "script": "Aamon-Cyber-Assassin-Vessel-of-Deceit.zip"
+        },
+        {
+          "name": "Soul Reaver",
+          "Portrait_url": "Aamon-Soul-Reaver.png",
+          "Splash_url": "Aamon-Soul-Reaver.png",
+          "script": "Aamon-Cyber-Assassin-Soul-Reaver.zip"
+        }
+      ]
+    },
+    {
+      "name": "Soul Vessels",
+      "Default_name": "Vessel of Deceit",
+      "Splash_url": "Aamon-Vessel-of-Deceit.png",
+      "script": "Aamon-Vessel-of-Deceit-Backup.zip",
+      "Portrait_url": "Aamon-Vessel-of-Deceit.png",
+      "Tags": [
+        "Soul Vessels.png"
+      ],
+      "targets": [
+        {
+          "name": "Night's Edge",
+          "Portrait_url": "Aamon-Night-s-Edge.png",
+          "Splash_url": "Aamon-Night-s-Edge.png",
+          "script": "Aamon-Vessel-of-Deceit-Night-s-Edge.zip"
+        },
+        {
+          "name": "Noble Crest",
+          "Portrait_url": "Aamon-Noble-Crest.png",
+          "Splash_url": "Aamon-Noble-Crest.png",
+          "script": "Aamon-Vessel-of-Deceit-Noble-Crest.zip"
+        },
+        {
+          "name": "Cyber Assassin",
+          "Portrait_url": "Aamon-Cyber-Assassin.png",
+          "Splash_url": "Aamon-Cyber-Assassin.png",
+          "script": "Aamon-Vessel-of-Deceit-Cyber-Assassin.zip"
+        },
+        {
+          "name": "Soul Reaver",
+          "Portrait_url": "Aamon-Soul-Reaver.png",
+          "Splash_url": "Aamon-Soul-Reaver.png",
+          "script": "Aamon-Vessel-of-Deceit-Soul-Reaver.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Soul Reaver",
+      "Splash_url": "Aamon-Soul-Reaver.png",
+      "script": "Aamon-Soul-Reaver-Backup.zip",
+      "Portrait_url": "Aamon-Soul-Reaver.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Night's Edge",
+          "Portrait_url": "Aamon-Night-s-Edge.png",
+          "Splash_url": "Aamon-Night-s-Edge.png",
+          "script": "Aamon-Soul-Reaver-Night-s-Edge.zip"
+        },
+        {
+          "name": "Noble Crest",
+          "Portrait_url": "Aamon-Noble-Crest.png",
+          "Splash_url": "Aamon-Noble-Crest.png",
+          "script": "Aamon-Soul-Reaver-Noble-Crest.zip"
+        },
+        {
+          "name": "Cyber Assassin",
+          "Portrait_url": "Aamon-Cyber-Assassin.png",
+          "Splash_url": "Aamon-Cyber-Assassin.png",
+          "script": "Aamon-Soul-Reaver-Cyber-Assassin.zip"
+        },
+        {
+          "name": "Vessel of Deceit",
+          "Portrait_url": "Aamon-Vessel-of-Deceit.png",
+          "Splash_url": "Aamon-Vessel-of-Deceit.png",
+          "script": "Aamon-Soul-Reaver-Vessel-of-Deceit.zip"
+        }
+      ]
+    }
+  ]
+}

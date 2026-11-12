@@ -1,0 +1,116 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "sun-backup",
+      "portrait_file": "Sun-Default.png",
+      "script_file": "Sun-Backup.zip",
+      "skin_name": "Monkey King",
+      "splash_file": "Sun-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "sun-battle-buddha",
+      "portrait_file": "Sun-Battle-Buddha.png",
+      "script_file": "Sun-Battle-Buddha.zip",
+      "skin_name": "Battle Buddha",
+      "splash_file": "Sun-Battle-Buddha.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "sun-rock-star",
+      "portrait_file": "Sun-Rock-Star.png",
+      "script_file": "Sun-Rock-Star.zip",
+      "skin_name": "Rock Star",
+      "splash_file": "Sun-Rock-Star.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "sun-street-legend",
+      "portrait_file": "Sun-Street-Legend.png",
+      "script_file": "Sun-Street-Legend.zip",
+      "skin_name": "Street Legend",
+      "splash_file": "Sun-Street-Legend.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "sun-simian-curse",
+      "portrait_file": "Sun-Simian-Curse.png",
+      "script_file": "Sun-Simian-Curse.zip",
+      "skin_name": "Simian Curse",
+      "splash_file": "Sun-Simian-Curse.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "sun-celestial-outlaw",
+      "portrait_file": "Sun-Celestial-Outlaw.png",
+      "script_file": "Sun-Celestial-Outlaw.zip",
+      "skin_name": "Celestial Outlaw",
+      "splash_file": "Sun-Celestial-Outlaw.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "sun-spring-blessings",
+      "portrait_file": "Sun-Spring-Blessings.png",
+      "script_file": "Sun-Spring-Blessings.zip",
+      "skin_name": "Spring Blessings",
+      "splash_file": "Sun-Spring-Blessings.png",
+      "tag_id": "lunar-fest",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "sun-wicked-flames",
+      "portrait_file": "Sun-Wicked-Flames.png",
+      "script_file": "Sun-Wicked-Flames.zip",
+      "skin_name": "Wicked Flames",
+      "splash_file": "Sun-Wicked-Flames.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "sun-queller-of-chaos",
+      "portrait_file": "Sun-Queller-of-Chaos.png",
+      "script_file": "Sun-Queller-of-Chaos.zip",
+      "skin_name": "Queller of Chaos",
+      "splash_file": "Sun-Queller-of-Chaos.png",
+      "tag_id": "annual-starlight",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "sun-celestial-rebel",
+      "portrait_file": "Sun-Celestial-Rebel.png",
+      "script_file": "Sun-Celestial-Rebel.zip",
+      "skin_name": "Celestial Rebel",
+      "splash_file": "Sun-Celestial-Rebel.png",
+      "tag_id": "collector",
+      "tier": "Exquisite"
+    }
+  ],
+  "hero": {
+    "id": 27,
+    "name": "Sun",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "sun"
+  },
+  "release_tag": "visual-sun",
+  "schema_version": 1,
+  "updated_at": "2026-10-27T16:05:22.315443Z"
+}

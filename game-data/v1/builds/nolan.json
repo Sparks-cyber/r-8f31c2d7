@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 122,
+    "slug": "nolan",
+    "name": "Nolan"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "nolan-community-5371",
+      "name": "Community Build 5371",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "magicboots",
+        "bladeoftheheptaseas",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "agility",
+        "seasonedhunter",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "SLOT GUIDE FOR NOLAN\n\nICE RETRIBUTION IS RECOMMENDED\n\nCOMBO = S2 - BA - S1 - S3\n\n1st - BOOTS\n\n2nd and 3rd - CORE ITEMS (NON-NEGOTIABLE)\n\n4th - AMPLIFIER (BOD/ SKYPIERCER)\n\n5th - COUNTER (MALEFIC ROAR/ SEA HALBERD)\n\n6th - SURVIVAL ITEM (IMMORTALITY/ WINTER CROWN/ ROSE GOLD)",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5371,
+      "source_created_at": "2026-02-01T16:24:34.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "nolan-community-5367",
+      "name": "Community Build 5367",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "bladeoftheheptaseas",
+        "magicboots",
+        "maleficroar",
+        "bladeofdespair",
+        "hunterstrike",
+        "greatdragonspear"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "lethalignition",
+        "seasonedhunter"
+      ],
+      "situational_items": [],
+      "notes": "BELI SEPATU BOOTS, STELAH ITU BELI HEPTASIS AGAR LEBIH CEPAT LAGI FARMINGNYA, LALU JADI KAN SEPATU, MID GAME FOKUS FARMING DAN CULIK BACKLINE MUSUH AGAR TIM LEBIH AMAN JIKA ADA PERTEMPURAN, TAPI JIKA BELUM BISA CULIK BACKLIN MUSUH LALU ADA PERTEMPURAN AMBIL LAH JALUR SENDIRI JANGAN LANGSUNG MASUK KE WAR DAN FOKUS CARI MM & MAGE MUSUH AGAR TIM LAWAN TIDAK ADA BACKLINE, SETELAH ITU JIKA ITEM SUDAH JADI SAMPAI DI MELEFIC ROAR BELI SEA HALBERD JIKA ADA MUSUH YANG HEAL NYA DERES, LALU JUAL HEPTASIS DAN BELI BLADE OF DESPAIR, LALU JIKA SUDAH JADI SEMUA ITEM BELI LAH ROSE GOLD.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5367,
+      "source_created_at": "2026-02-01T14:24:55.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "nolan-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

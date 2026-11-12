@@ -1,0 +1,65 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "obsidia-backup",
+      "portrait_file": "Obsidia-Default.png",
+      "script_file": "Obsidia-Backup.zip",
+      "skin_name": "Sovereign of Dark's End",
+      "splash_file": "Obsidia-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "obsidia-undying-remnants",
+      "portrait_file": null,
+      "script_file": "Obsidia-Undying-Remnants.zip",
+      "skin_name": "Undying Remnants",
+      "splash_file": "Obsidia-Undying-Remnants.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "obsidia-magitech-wraith",
+      "portrait_file": "Obsidia-Magitech-Wraith.png",
+      "script_file": "Obsidia-Magitech-Wraith.zip",
+      "skin_name": "Magitech Wraith",
+      "splash_file": "Obsidia-Magitech-Wraith.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "obsidia-imperatrix-arashi",
+      "portrait_file": null,
+      "script_file": "Obsidia-Imperatrix-Arashi.zip",
+      "skin_name": "Imperatrix Arashi",
+      "splash_file": "Obsidia-Imperatrix-Arashi.png",
+      "tag_id": "the-aspirants",
+      "tier": "Grand",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      }
+    }
+  ],
+  "hero": {
+    "id": 130,
+    "name": "Obsidia",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "obsidia"
+  },
+  "release_tag": "visual-obsidia",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

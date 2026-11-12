@@ -1,0 +1,67 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "mathilda-backup",
+      "portrait_file": "Mathilda-Default.png",
+      "script_file": "Mathilda-Backup.zip",
+      "skin_name": "Swift Plume",
+      "splash_file": "Mathilda-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "mathilda-unrestrained-delight",
+      "portrait_file": "Mathilda-Unrestrained-Delight.png",
+      "script_file": "Mathilda-Unrestrained-Delight.zip",
+      "skin_name": "Unrestrained Delight",
+      "splash_file": "Mathilda-Unrestrained-Delight.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "mathilda-floral-crown",
+      "portrait_file": "Mathilda-Floral-Crown.png",
+      "script_file": "Mathilda-Floral-Crown.zip",
+      "skin_name": "Floral Crown",
+      "splash_file": "Mathilda-Floral-Crown.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "mathilda-dream-groove",
+      "portrait_file": "Mathilda-Dream-Groove.png",
+      "script_file": "Mathilda-Dream-Groove.zip",
+      "skin_name": "Dream Groove",
+      "splash_file": "Mathilda-Dream-Groove.png",
+      "tag_id": "mpl",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "mathilda-dreambound-pixie",
+      "portrait_file": "Mathilda-Dreambound-Pixie.png",
+      "script_file": "Mathilda-Dreambound-Pixie.zip",
+      "skin_name": "Dreambound Pixie",
+      "splash_file": "Mathilda-Dreambound-Pixie.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 102,
+    "name": "Mathilda",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "slug": "mathilda"
+  },
+  "release_tag": "visual-mathilda",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

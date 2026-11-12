@@ -1,0 +1,97 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "terizla-backup",
+      "portrait_file": "Terizla-Default.png",
+      "script_file": "Terizla-Backup.zip",
+      "skin_name": "Executioner",
+      "splash_file": "Terizla-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "terizla-abyss-guard",
+      "portrait_file": "Terizla-Abyss-Guard.png",
+      "script_file": "Terizla-Abyss-Guard.zip",
+      "skin_name": "Abyss Guard",
+      "splash_file": "Terizla-Abyss-Guard.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "terizla-flare",
+      "portrait_file": "Terizla-Flare.png",
+      "script_file": "Terizla-Flare.zip",
+      "skin_name": "Flare",
+      "splash_file": "Terizla-Flare.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "terizla-hammer-giant",
+      "portrait_file": "Terizla-Hammer-Giant.png",
+      "script_file": "Terizla-Hammer-Giant.zip",
+      "skin_name": "Hammer Giant",
+      "splash_file": "Terizla-Hammer-Giant.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "terizla-rustwreck",
+      "portrait_file": "Terizla-Rustwreck.png",
+      "script_file": "Terizla-Rustwreck.zip",
+      "skin_name": "Rustwreck",
+      "splash_file": "Terizla-Rustwreck.png",
+      "tag_id": "s22",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "terizla-flames-of-judgement",
+      "portrait_file": "Terizla-Flames-of-Judgement.png",
+      "script_file": "Terizla-Flames-of-Judgement.zip",
+      "skin_name": "Flames of Judgement",
+      "splash_file": "Terizla-Flames-of-Judgement.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "terizla-soulblight-tyrant",
+      "portrait_file": "Terizla-Soulblight-Tyrant.png",
+      "script_file": "Terizla-Soulblight-Tyrant.zip",
+      "skin_name": "Soulblight Tyrant",
+      "splash_file": "Terizla-Soulblight-Tyrant.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "terizla-ember-flare-painted-01",
+      "portrait_file": "Terizla-Ember-Flare.png",
+      "script_file": "Terizla-Ember-Flare.zip",
+      "skin_name": "Ember Flare",
+      "splash_file": "Terizla - Ember Flare.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 82,
+    "name": "Terizla",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "slug": "terizla"
+  },
+  "release_tag": "visual-terizla",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

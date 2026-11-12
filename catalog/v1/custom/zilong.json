@@ -1,0 +1,61 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "zilong-chucky",
+      "portrait_file": "Zilong - Chucky.png",
+      "script_file": "Zilong-Chucky.zip",
+      "skin_name": "Chucky",
+      "splash_file": "Zilong - Chucky.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-darth-vader",
+      "portrait_file": "Zilong - Darth Vader.png",
+      "script_file": "Zilong-Darth-Vader.zip",
+      "skin_name": "Darth Vader",
+      "splash_file": "Zilong - Darth Vader.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Movies & TV"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-maeda-keiji",
+      "portrait_file": "Zilong - Maeda Keiji.png",
+      "script_file": "Zilong-Maeda-Keiji.zip",
+      "skin_name": "Maeda Keiji",
+      "splash_file": "Zilong - Maeda Keiji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-sasuke",
+      "portrait_file": "Zilong - Sasuke.png",
+      "script_file": "Zilong-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Zilong - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 16,
+    "name": "Zilong",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "zilong"
+  },
+  "release_tag": "custom-zilong",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

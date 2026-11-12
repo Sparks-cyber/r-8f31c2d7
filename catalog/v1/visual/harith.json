@@ -1,0 +1,146 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "harith-backup",
+      "portrait_file": "Harith-Default.png",
+      "script_file": "Harith-Backup.zip",
+      "skin_name": "Time Traveler",
+      "splash_file": "Harith-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "harith-savannah-cat",
+      "portrait_file": "Harith-Savannah-Cat.png",
+      "script_file": "Harith-Savannah-Cat.zip",
+      "skin_name": "Savannah Cat",
+      "splash_file": "Harith-Savannah-Cat.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "harith-stardust",
+      "portrait_file": "Harith-Stardust.png",
+      "script_file": "Harith-Stardust.zip",
+      "skin_name": "Stardust",
+      "splash_file": "Harith-Stardust.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "harith-fashion-expert",
+      "portrait_file": "Harith-Fashion-Expert.png",
+      "script_file": "Harith-Fashion-Expert.zip",
+      "skin_name": "Fashion Expert",
+      "splash_file": "Harith-Fashion-Expert.png",
+      "tag_id": "stun",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harith-lightborn-inspirer",
+      "portrait_file": "Harith-Lightborn-Inspirer.png",
+      "script_file": "Harith-Lightborn-Inspirer.zip",
+      "skin_name": "Lightborn - Inspirer",
+      "splash_file": "Harith-Lightborn-Inspirer.png",
+      "tag_id": "lightborn",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "harith-evos-legends",
+      "portrait_file": "Harith-EVOS-Legends.png",
+      "script_file": "Harith-EVOS-Legends.zip",
+      "skin_name": "EVOS Legends",
+      "splash_file": "Harith-EVOS-Legends.png",
+      "tag_id": "champion",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "harith-psychic",
+      "portrait_file": "Harith-Psychic.png",
+      "script_file": "Harith-Psychic.zip",
+      "skin_name": "Psychic",
+      "splash_file": "Harith-Psychic.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "harith-christmas-carnival",
+      "portrait_file": "Harith-Christmas-Carnival.png",
+      "script_file": "Harith-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Harith-Christmas-Carnival.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harith-killua",
+      "portrait_file": "Harith-Killua.png",
+      "script_file": "Harith-Killua.zip",
+      "skin_name": "Killua",
+      "splash_file": "Harith-Killua.png",
+      "tag_id": "hunter-x-hunter",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "harith-rebel-emberfang",
+      "portrait_file": "Harith-Rebel-Emberfang.png",
+      "script_file": "Harith-Rebel-Emberfang.zip",
+      "skin_name": "Rebel Emberfang",
+      "splash_file": "Harith-Rebel-Emberfang.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harith-wayfarer-painted-01",
+      "portrait_file": "Harith-Wayfarer.png",
+      "script_file": "Harith-Wayfarer.zip",
+      "skin_name": "Wayfarer",
+      "splash_file": "Harith - Wayfarer.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "harith-ashen-emberfang-painted-01",
+      "portrait_file": null,
+      "script_file": null,
+      "skin_name": "Ashen Emberfang",
+      "splash_file": "Harith-Ashen-Emberfang.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "harith-lunar-emberfang-painted-02",
+      "portrait_file": null,
+      "script_file": null,
+      "skin_name": "Lunar Emberfang",
+      "splash_file": "Harith-Lunar-Emberfang.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 73,
+    "name": "Harith",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "harith"
+  },
+  "release_tag": "visual-harith",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

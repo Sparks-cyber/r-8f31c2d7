@@ -1,0 +1,3967 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.08.09.134445",
+  "category": {
+    "id": "battle-emotes",
+    "title": "Battle Emotes",
+    "kind": "emote"
+  },
+  "updated_at": "2026-08-09T13:44:45+00:00",
+  "data": [
+    {
+      "id": "default",
+      "name": "Default",
+      "description": "Restore the original battle emote, icon, and sound files.",
+      "image": "/Effects/Emotes/Genius.png",
+      "script": "/Effects/Emote/Genius!.zip"
+    },
+    {
+      "id": "am-i-scary",
+      "name": "Am I Scary",
+      "description": "Show off Am I Scary as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Am%20I%20Scary.png",
+      "script": "/Effects/Emote/Am%20I%20Scary.zip"
+    },
+    {
+      "id": "fire-master",
+      "name": "Fire Master",
+      "description": "Fire Master delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Fire%20Master.png",
+      "script": "/Effects/Emote/Fire%20Master.zip"
+    },
+    {
+      "id": "2024-my-hero-winner",
+      "name": "2024 MY HERO WINNER",
+      "description": "2024 MY HERO WINNER is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/2024%20MY%20HERO%20WINNER.png",
+      "script": "/Effects/Emote/2024%20MY%20HERO%20WINNER.zip"
+    },
+    {
+      "id": "515-for-just-you-and-me",
+      "name": "515 For Just YOU and ME",
+      "description": "Show off 515 For Just YOU and ME as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/515%20For%20Just%20YOU%20and%20ME.png",
+      "script": "/Effects/Emote/515%20For%20Just%20YOU%20and%20ME.zip"
+    },
+    {
+      "id": "515-ling",
+      "name": "515 Ling",
+      "description": "515 Ling adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/515%20Ling.png",
+      "script": "/Effects/Emote/515%20Ling.zip"
+    },
+    {
+      "id": "515-wanwan",
+      "name": "515 Wanwan",
+      "description": "Use 515 Wanwan to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/515%20Wanwan.png",
+      "script": "/Effects/Emote/515%20Wanwan.zip"
+    },
+    {
+      "id": "515-yin",
+      "name": "515 Yin",
+      "description": "515 Yin delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/515%20Yin.png",
+      "script": "/Effects/Emote/515%20Yin.zip"
+    },
+    {
+      "id": "515-zilong",
+      "name": "515 Zilong",
+      "description": "Share the mood with 515 Zilong, an animated emote made for battle.",
+      "image": "/Effects/Emotes/515%20Zilong.png",
+      "script": "/Effects/Emote/515%20Zilong.zip"
+    },
+    {
+      "id": "5555-play-together",
+      "name": "5555 Play together",
+      "description": "5555 Play together adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/5555%20Play%20together.png",
+      "script": "/Effects/Emote/5555%2C%20Play%20together!.zip"
+    },
+    {
+      "id": "7th-anniversary-revelry",
+      "name": "7th Anniversary Revelry",
+      "description": "7th Anniversary Revelry adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/7th%20Anniversary%20Revelry.png",
+      "script": "/Effects/Emote/7th%20Anniversary%20Revelry.zip"
+    },
+    {
+      "id": "abyss-twin",
+      "name": "Abyss Twin",
+      "description": "Abyss Twin adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Abyss%20Twin.png",
+      "script": "/Effects/Emote/Abyss%20Twin.zip"
+    },
+    {
+      "id": "ae-id2021",
+      "name": "AE-ID2021",
+      "description": "AE-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/AE-ID2021.png",
+      "script": "/Effects/Emote/AE-ID%402021.zip"
+    },
+    {
+      "id": "ae-id2022",
+      "name": "AE-ID2022",
+      "description": "AE-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/AE-ID2022.png",
+      "script": "/Effects/Emote/AE-ID%402022.zip"
+    },
+    {
+      "id": "ahaha",
+      "name": "Ahaha",
+      "description": "Ahaha captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Ahaha.png",
+      "script": "/Effects/Emote/Ahaha.zip"
+    },
+    {
+      "id": "al-kyuubi",
+      "name": "Al-Kyuubi",
+      "description": "Al-Kyuubi brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Al-Kyuubi.png",
+      "script": "/Effects/Emote/Al-Kyuubi.zip"
+    },
+    {
+      "id": "ali-emote-bertindak-segera",
+      "name": "Ali Emote Bertindak Segera",
+      "description": "Show off Ali Emote Bertindak Segera as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Ali%20Emote%20Bertindak%20Segera.png",
+      "script": "/Effects/Emote/Ali%20Emote%20Bertindak%20Segera.zip"
+    },
+    {
+      "id": "alicia-emote-gg",
+      "name": "Alicia Emote GG",
+      "description": "Alicia Emote GG adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Alicia%20Emote%20GG.png",
+      "script": "/Effects/Emote/Alicia%20Emote%20GG.zip"
+    },
+    {
+      "id": "all-eyes-on-me",
+      "name": "All Eyes on Me",
+      "description": "Use All Eyes on Me to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/All%20Eyes%20on%20Me.png",
+      "script": "/Effects/Emote/All%20Eyes%20on%20Me.zip"
+    },
+    {
+      "id": "all-in-us",
+      "name": "All in us",
+      "description": "All in us delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/All%20in%20us.png",
+      "script": "/Effects/Emote/All%20in%20us!.zip"
+    },
+    {
+      "id": "almost",
+      "name": "Almost",
+      "description": "Share the mood with Almost, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Almost.png",
+      "script": "/Effects/Emote/Almost!.zip"
+    },
+    {
+      "id": "alter-ego",
+      "name": "Alter Ego",
+      "description": "Alter Ego brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Alter%20Ego.png",
+      "script": "/Effects/Emote/Alter%20Ego.zip"
+    },
+    {
+      "id": "angry",
+      "name": "Angry",
+      "description": "Angry captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Angry.png",
+      "script": "/Effects/Emote/Angry!.zip"
+    },
+    {
+      "id": "anyone-there",
+      "name": "Anyone There",
+      "description": "Use Anyone There to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Anyone%20There.png",
+      "script": "/Effects/Emote/Anyone%20There!.zip"
+    },
+    {
+      "id": "apbr-ph2025",
+      "name": "APBR-PH2025",
+      "description": "APBR-PH2025 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/APBR-PH2025.png",
+      "script": "/Effects/Emote/APBR-PH%402025.zip"
+    },
+    {
+      "id": "apologize",
+      "name": "Apologize",
+      "description": "Share the mood with Apologize, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Apologize.png",
+      "script": "/Effects/Emote/Apologize.zip"
+    },
+    {
+      "id": "are-you-kidding",
+      "name": "Are You Kidding",
+      "description": "Are You Kidding brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Are%20You%20Kidding.png",
+      "script": "/Effects/Emote/Are%20You%20Kidding.zip"
+    },
+    {
+      "id": "are-you-okay",
+      "name": "Are you okay",
+      "description": "Show off Are you okay as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Are%20you%20okay.png",
+      "script": "/Effects/Emote/Are%20you%20okay.zip"
+    },
+    {
+      "id": "arhans-throw",
+      "name": "Arhans Throw",
+      "description": "Arhans Throw adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Arhans%20Throw.png",
+      "script": "/Effects/Emote/Arhan's%20Throw.zip"
+    },
+    {
+      "id": "art-is-an-explosion",
+      "name": "Art is an Explosion",
+      "description": "Use Art is an Explosion to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Art%20is%20an%20Explosion.png",
+      "script": "/Effects/Emote/Art%20is%20an%20Explosion!.zip"
+    },
+    {
+      "id": "art-of-ice",
+      "name": "Art of Ice",
+      "description": "Art of Ice delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Art%20of%20Ice.png",
+      "script": "/Effects/Emote/Art%20of%20Ice.zip"
+    },
+    {
+      "id": "astral-warriors-move-out",
+      "name": "Astral warriors move out",
+      "description": "Share the mood with Astral warriors move out, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Astral%20warriors%20move%20out.png",
+      "script": "/Effects/Emote/Astral%20warriors%2C%20move%20out!.zip"
+    },
+    {
+      "id": "aura-id2021",
+      "name": "AURA-ID2021",
+      "description": "AURA-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/AURA-ID2021.png",
+      "script": "/Effects/Emote/AURA-ID%402021.zip"
+    },
+    {
+      "id": "aura-id2022",
+      "name": "AURA-ID2022",
+      "description": "AURA-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/AURA-ID2022.png",
+      "script": "/Effects/Emote/AURA-ID%402022.zip"
+    },
+    {
+      "id": "aurafire",
+      "name": "AURAFIRE",
+      "description": "AURAFIRE adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/AURAFIRE.png",
+      "script": "/Effects/Emote/AURAFIRE.zip"
+    },
+    {
+      "id": "aurora-avalanche",
+      "name": "Aurora - Avalanche",
+      "description": "Use Aurora - Avalanche to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Aurora%20-%20Avalanche.png",
+      "script": "/Effects/Emote/Aurora%20-%20Avalanche.zip"
+    },
+    {
+      "id": "aurora-cracked",
+      "name": "Aurora - Cracked",
+      "description": "Aurora - Cracked delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Aurora%20-%20Cracked.png",
+      "script": "/Effects/Emote/Aurora%20-%20Cracked.zip"
+    },
+    {
+      "id": "aurora-elegant",
+      "name": "Aurora - Elegant",
+      "description": "Share the mood with Aurora - Elegant, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Aurora%20-%20Elegant.png",
+      "script": "/Effects/Emote/Aurora%20-%20Elegant.zip"
+    },
+    {
+      "id": "aurora-frozen",
+      "name": "Aurora - Frozen",
+      "description": "Aurora - Frozen brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Aurora%20-%20Frozen.png",
+      "script": "/Effects/Emote/Aurora%20-%20Frozen.zip"
+    },
+    {
+      "id": "autobots-roll-out",
+      "name": "Autobots roll out",
+      "description": "Show off Autobots roll out as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Autobots%20roll%20out.png",
+      "script": "/Effects/Emote/Autobots%2C%20roll%20out!.zip"
+    },
+    {
+      "id": "awesome",
+      "name": "Awesome",
+      "description": "Awesome is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Awesome.png",
+      "script": "/Effects/Emote/Awesome.zip"
+    },
+    {
+      "id": "awesome-2",
+      "name": "Awesome (2)",
+      "description": "Awesome (2) is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Awesome%20(2).png",
+      "script": "/Effects/Emote/Awesome%20(2).zip"
+    },
+    {
+      "id": "back-off",
+      "name": "Back Off",
+      "description": "Back Off delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Back%20Off.png",
+      "script": "/Effects/Emote/Back%20Off!.zip"
+    },
+    {
+      "id": "badge-of-glory",
+      "name": "Badge of Glory",
+      "description": "Badge of Glory is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Badge%20of%20Glory.png",
+      "script": "/Effects/Emote/Badge%20of%20Glory.zip"
+    },
+    {
+      "id": "bambang-pamungkas",
+      "name": "Bambang Pamungkas",
+      "description": "Bambang Pamungkas brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Bambang%20Pamungkas.png",
+      "script": "/Effects/Emote/Bambang%20Pamungkas.zip"
+    },
+    {
+      "id": "bdlm3",
+      "name": "BDLM3",
+      "description": "Show off BDLM3 as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/BDLM3.png",
+      "script": "/Effects/Emote/BDL%40M3.zip"
+    },
+    {
+      "id": "be-happy",
+      "name": "Be happy",
+      "description": "Be happy captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Be%20happy.png",
+      "script": "/Effects/Emote/Be%20happy!.zip"
+    },
+    {
+      "id": "be-patient",
+      "name": "Be Patient",
+      "description": "Use Be Patient to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Be%20Patient.png",
+      "script": "/Effects/Emote/Be%20Patient.zip"
+    },
+    {
+      "id": "be-patient-babe",
+      "name": "Be Patient Babe",
+      "description": "Be Patient Babe delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Be%20Patient%20Babe.png",
+      "script": "/Effects/Emote/Be%20Patient%2C%20Babe.zip"
+    },
+    {
+      "id": "believe-in-victoryminsitt-mini",
+      "name": "Believe In VictoryMinsitt Mini",
+      "description": "Believe In VictoryMinsitt Mini is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Believe%20In%20VictoryMinsitt%20Mini.png",
+      "script": "/Effects/Emote/Believe%20In%20Victory%40Minsitt%20Mini.zip"
+    },
+    {
+      "id": "best-of-the-day",
+      "name": "Best of the Day",
+      "description": "Best of the Day is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Best%20of%20the%20Day.png",
+      "script": "/Effects/Emote/Best%20of%20the%20Day.zip"
+    },
+    {
+      "id": "bigetron-alpha",
+      "name": "Bigetron Alpha",
+      "description": "Show off Bigetron Alpha as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Bigetron%20Alpha.png",
+      "script": "/Effects/Emote/Bigetron%20Alpha.zip"
+    },
+    {
+      "id": "bioroid-here",
+      "name": "Bioroid Here",
+      "description": "Bioroid Here adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Bioroid%20Here.png",
+      "script": "/Effects/Emote/Bioroid%20Here.zip"
+    },
+    {
+      "id": "bitter-smile",
+      "name": "Bitter Smile",
+      "description": "Bitter Smile captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Bitter%20Smile.png",
+      "script": "/Effects/Emote/Bitter%20Smile.zip"
+    },
+    {
+      "id": "biubiubiu",
+      "name": "Biubiubiu",
+      "description": "Biubiubiu delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Biubiubiu.png",
+      "script": "/Effects/Emote/Biubiubiu~.zip"
+    },
+    {
+      "id": "black-ph2021",
+      "name": "BLACK-PH2021",
+      "description": "BLACK-PH2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/BLACK-PH2021.png",
+      "script": "/Effects/Emote/BLACK-PH%402021.zip"
+    },
+    {
+      "id": "blckm3",
+      "name": "BLCKM3",
+      "description": "BLCKM3 brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/BLCKM3.png",
+      "script": "/Effects/Emote/BLCK%40M3.zip"
+    },
+    {
+      "id": "bleh",
+      "name": "Bleh",
+      "description": "Show off Bleh as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Bleh.png",
+      "script": "/Effects/Emote/Bleh!.zip"
+    },
+    {
+      "id": "blooming-fireworks",
+      "name": "Blooming Fireworks",
+      "description": "Blooming Fireworks adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Blooming%20Fireworks.png",
+      "script": "/Effects/Emote/Blooming%20Fireworks.zip"
+    },
+    {
+      "id": "bored",
+      "name": "Bored",
+      "description": "Bored captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Bored.png",
+      "script": "/Effects/Emote/Bored.zip"
+    },
+    {
+      "id": "bravest-fighter",
+      "name": "Bravest Fighter",
+      "description": "Bravest Fighter is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Bravest%20Fighter.png",
+      "script": "/Effects/Emote/Bravest%20Fighter.zip"
+    },
+    {
+      "id": "bren-ph2021",
+      "name": "Bren-PH2021",
+      "description": "Bren-PH2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/Bren-PH2021.png",
+      "script": "/Effects/Emote/Bren-PH%402021.zip"
+    },
+    {
+      "id": "bring-it",
+      "name": "Bring it",
+      "description": "Bring it delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Bring%20it.png",
+      "script": "/Effects/Emote/Bring%20it!.zip"
+    },
+    {
+      "id": "bring-it-on",
+      "name": "Bring it on",
+      "description": "Bring it on delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Bring%20it%20on.png",
+      "script": "/Effects/Emote/Bring%20it%20on!.zip"
+    },
+    {
+      "id": "btkm3",
+      "name": "BTKM3",
+      "description": "BTKM3 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/BTKM3.png",
+      "script": "/Effects/Emote/BTK%40M3.zip"
+    },
+    {
+      "id": "btr-id2021",
+      "name": "BTR-ID2021",
+      "description": "BTR-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/BTR-ID2021.png",
+      "script": "/Effects/Emote/BTR-ID%402021.zip"
+    },
+    {
+      "id": "btr-id2022",
+      "name": "BTR-ID2022",
+      "description": "BTR-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/BTR-ID2022.png",
+      "script": "/Effects/Emote/BTR-ID%402022.zip"
+    },
+    {
+      "id": "bumblebee-reporting-for-duty",
+      "name": "Bumblebee reporting for duty",
+      "description": "Share the mood with Bumblebee reporting for duty, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Bumblebee%20reporting%20for%20duty.png",
+      "script": "/Effects/Emote/Bumblebee%20reporting%20for%20duty!.zip"
+    },
+    {
+      "id": "burn-it-up",
+      "name": "Burn it up",
+      "description": "Burn it up brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Burn%20it%20up.png",
+      "script": "/Effects/Emote/Burn%20it%20up!.zip"
+    },
+    {
+      "id": "bye-bye",
+      "name": "Bye bye",
+      "description": "Show off Bye bye as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Bye%20bye.png",
+      "script": "/Effects/Emote/Bye%20bye!.zip"
+    },
+    {
+      "id": "byeee",
+      "name": "Byeee",
+      "description": "Byeee adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Byeee.png",
+      "script": "/Effects/Emote/Byeee!.zip"
+    },
+    {
+      "id": "captain-chrono",
+      "name": "Captain Chrono",
+      "description": "Use Captain Chrono to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Captain%20Chrono.png",
+      "script": "/Effects/Emote/Captain%20Chrono.zip"
+    },
+    {
+      "id": "carnival-revelry",
+      "name": "Carnival Revelry",
+      "description": "Carnival Revelry adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Carnival%20Revelry.png",
+      "script": "/Effects/Emote/Carnival%20Revelry.zip"
+    },
+    {
+      "id": "carry-me-to-the-end",
+      "name": "Carry Me to the End",
+      "description": "Share the mood with Carry Me to the End, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Carry%20Me%20to%20the%20End.png",
+      "script": "/Effects/Emote/Carry%20Me%20to%20the%20End.zip"
+    },
+    {
+      "id": "carryminati-awesome",
+      "name": "CarryMinati - Awesome",
+      "description": "CarryMinati - Awesome is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/CarryMinati%20-%20Awesome.png",
+      "script": "/Effects/Emote/CarryMinati%20-%20Awesome.zip"
+    },
+    {
+      "id": "carryminati-youre-legendary",
+      "name": "CarryMinati - Youre Legendary",
+      "description": "CarryMinati - Youre Legendary is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/CarryMinati%20-%20Youre%20Legendary.png",
+      "script": "/Effects/Emote/CarryMinati%20-%20You're%20Legendary!.zip"
+    },
+    {
+      "id": "catch-me",
+      "name": "Catch me",
+      "description": "Catch me delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Catch%20me.png",
+      "script": "/Effects/Emote/Catch%20me!.zip"
+    },
+    {
+      "id": "caught-em-all",
+      "name": "Caught Em All",
+      "description": "Use Caught Em All to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Caught%20Em%20All.png",
+      "script": "/Effects/Emote/Caught%20'Em%20All.zip"
+    },
+    {
+      "id": "cheers",
+      "name": "Cheers",
+      "description": "Cheers adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Cheers.png",
+      "script": "/Effects/Emote/Cheers.zip"
+    },
+    {
+      "id": "cheers-to-us",
+      "name": "Cheers to Us",
+      "description": "Cheers to Us adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Cheers%20to%20Us.png",
+      "script": "/Effects/Emote/Cheers%20to%20Us.zip"
+    },
+    {
+      "id": "chill",
+      "name": "Chill",
+      "description": "Chill captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Chill.png",
+      "script": "/Effects/Emote/Chill.zip"
+    },
+    {
+      "id": "chills",
+      "name": "Chills",
+      "description": "Chills captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Chills.png",
+      "script": "/Effects/Emote/Chills.zip"
+    },
+    {
+      "id": "chooxtv",
+      "name": "ChooxTv",
+      "description": "ChooxTv adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/ChooxTv.png",
+      "script": "/Effects/Emote/ChooxTv.zip"
+    },
+    {
+      "id": "clenched-fist",
+      "name": "Clenched Fist",
+      "description": "Clenched Fist delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Clenched%20Fist.png",
+      "script": "/Effects/Emote/Clenched%20Fist.zip"
+    },
+    {
+      "id": "close-friend",
+      "name": "Close Friend",
+      "description": "Close Friend delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Close%20Friend.png",
+      "script": "/Effects/Emote/Close%20Friend.zip"
+    },
+    {
+      "id": "collector-exclusive-battle-emote",
+      "name": "Collector Exclusive Battle Emote",
+      "description": "Share the mood with Collector Exclusive Battle Emote, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Collector%20Exclusive%20Battle%20Emote.png",
+      "script": "/Effects/Emote/Collector%20Exclusive%20Battle%20Emote.zip"
+    },
+    {
+      "id": "come-fight",
+      "name": "Come  Fight",
+      "description": "Come  Fight delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Come%20%20Fight.png",
+      "script": "/Effects/Emote/Come%20%26%20Fight!.zip"
+    },
+    {
+      "id": "come-hit-me",
+      "name": "Come  Hit Me",
+      "description": "Show off Come  Hit Me as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Come%20%20Hit%20Me.png",
+      "script": "/Effects/Emote/Come%20%26%20Hit%20Me!.zip"
+    },
+    {
+      "id": "come-and-get-me",
+      "name": "Come and Get Me",
+      "description": "Come and Get Me adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Come%20and%20Get%20Me.png",
+      "script": "/Effects/Emote/Come%20and%20Get%20Me.zip"
+    },
+    {
+      "id": "come-at-me",
+      "name": "Come at Me",
+      "description": "Come at Me delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Come%20at%20Me.png",
+      "script": "/Effects/Emote/Come%20at%20Me.zip"
+    },
+    {
+      "id": "come-catch-me",
+      "name": "Come Catch Me",
+      "description": "Come Catch Me delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Come%20Catch%20Me.png",
+      "script": "/Effects/Emote/Come%20Catch%20Me!.zip"
+    },
+    {
+      "id": "come-get-some",
+      "name": "Come Get Some",
+      "description": "Share the mood with Come Get Some, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Come%20Get%20Some.png",
+      "script": "/Effects/Emote/Come%20Get%20Some!.zip"
+    },
+    {
+      "id": "come-on-efe-warriors",
+      "name": "Come on Efe Warriors",
+      "description": "Come on Efe Warriors brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Come%20on%20Efe%20Warriors.png",
+      "script": "/Effects/Emote/Come%20on%2C%20Efe%20Warriors!.zip"
+    },
+    {
+      "id": "coming-soon",
+      "name": "Coming Soon",
+      "description": "Show off Coming Soon as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Coming%20Soon.png",
+      "script": "/Effects/Emote/Coming%20Soon.zip"
+    },
+    {
+      "id": "confused",
+      "name": "Confused",
+      "description": "Confused captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Confused.png",
+      "script": "/Effects/Emote/Confused.zip"
+    },
+    {
+      "id": "cool-summer",
+      "name": "Cool Summer",
+      "description": "Cool Summer adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Cool%20Summer.png",
+      "script": "/Effects/Emote/Cool%20Summer.zip"
+    },
+    {
+      "id": "craftsmans-spirit",
+      "name": "Craftsmans Spirit",
+      "description": "Craftsmans Spirit delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Craftsmans%20Spirit.png",
+      "script": "/Effects/Emote/Craftsman%E2%80%99s%20Spirit.zip"
+    },
+    {
+      "id": "credit-badge",
+      "name": "Credit Badge",
+      "description": "Share the mood with Credit Badge, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Credit%20Badge.png",
+      "script": "/Effects/Emote/Credit%20Badge.zip"
+    },
+    {
+      "id": "crush-mo-ko-noh",
+      "name": "Crush mo ko noh",
+      "description": "Crush mo ko noh brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Crush%20mo%20ko%20noh.png",
+      "script": "/Effects/Emote/Crush%20mo%20ko%20noh.zip"
+    },
+    {
+      "id": "crying",
+      "name": "Crying",
+      "description": "Crying captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Crying.png",
+      "script": "/Effects/Emote/Crying.zip"
+    },
+    {
+      "id": "cyber-blade",
+      "name": "Cyber Blade",
+      "description": "Cyber Blade adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Cyber%20Blade.png",
+      "script": "/Effects/Emote/Cyber%20Blade.zip"
+    },
+    {
+      "id": "d",
+      "name": "D",
+      "description": "Use D to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/D.png",
+      "script": "/Effects/Emote/(D).zip"
+    },
+    {
+      "id": "dance-together",
+      "name": "Dance Together",
+      "description": "Dance Together adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Dance%20Together.png",
+      "script": "/Effects/Emote/Dance%20Together.zip"
+    },
+    {
+      "id": "dawnbreak",
+      "name": "Dawnbreak",
+      "description": "Share the mood with Dawnbreak, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Dawnbreak.png",
+      "script": "/Effects/Emote/Dawnbreak.zip"
+    },
+    {
+      "id": "deadly-strike",
+      "name": "Deadly Strike",
+      "description": "Deadly Strike delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Deadly%20Strike.png",
+      "script": "/Effects/Emote/Deadly%20Strike.zip"
+    },
+    {
+      "id": "deadly-venom",
+      "name": "Deadly Venom",
+      "description": "Deadly Venom delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Deadly%20Venom.png",
+      "script": "/Effects/Emote/Deadly%20Venom.zip"
+    },
+    {
+      "id": "definitely",
+      "name": "Definitely",
+      "description": "Definitely adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Definitely.png",
+      "script": "/Effects/Emote/Definitely!.zip"
+    },
+    {
+      "id": "definitely-not-napping",
+      "name": "Definitely Not Napping",
+      "description": "Use Definitely Not Napping to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Definitely%20Not%20Napping.png",
+      "script": "/Effects/Emote/Definitely%20Not%20Napping!.zip"
+    },
+    {
+      "id": "delicious",
+      "name": "Delicious",
+      "description": "Delicious delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Delicious.png",
+      "script": "/Effects/Emote/Delicious.zip"
+    },
+    {
+      "id": "delighted",
+      "name": "Delighted",
+      "description": "Delighted captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Delighted.png",
+      "script": "/Effects/Emote/Delighted.zip"
+    },
+    {
+      "id": "destructive-force",
+      "name": "Destructive Force",
+      "description": "Destructive Force brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Destructive%20Force.png",
+      "script": "/Effects/Emote/Destructive%20Force.zip"
+    },
+    {
+      "id": "dewa-id2024",
+      "name": "DEWA-ID2024",
+      "description": "DEWA-ID2024 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/DEWA-ID2024.png",
+      "script": "/Effects/Emote/DEWA-ID%402024.zip"
+    },
+    {
+      "id": "diavel-v4-rider",
+      "name": "Diavel V4 Rider",
+      "description": "Diavel V4 Rider adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Diavel%20V4%20Rider.png",
+      "script": "/Effects/Emote/Diavel%20V4%20Rider.zip"
+    },
+    {
+      "id": "distressed",
+      "name": "Distressed",
+      "description": "Use Distressed to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Distressed.png",
+      "script": "/Effects/Emote/Distressed.zip"
+    },
+    {
+      "id": "do-as-i-command",
+      "name": "Do as I command",
+      "description": "Do as I command delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Do%20as%20I%20command.png",
+      "script": "/Effects/Emote/Do%20as%20I%20command!.zip"
+    },
+    {
+      "id": "doge",
+      "name": "Doge",
+      "description": "Share the mood with Doge, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Doge.png",
+      "script": "/Effects/Emote/Doge.zip"
+    },
+    {
+      "id": "dont-infuriate-me",
+      "name": "Dont Infuriate Me",
+      "description": "Dont Infuriate Me brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Dont%20Infuriate%20Me.png",
+      "script": "/Effects/Emote/Don't%20Infuriate%20Me.zip"
+    },
+    {
+      "id": "dont-make-me",
+      "name": "Dont make me",
+      "description": "Show off Dont make me as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Dont%20make%20me.png",
+      "script": "/Effects/Emote/Don't%20make%20me.zip"
+    },
+    {
+      "id": "double-kawaii",
+      "name": "Double Kawaii",
+      "description": "Double Kawaii adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Double%20Kawaii.png",
+      "script": "/Effects/Emote/Double%20Kawaii!.zip"
+    },
+    {
+      "id": "driven-determination",
+      "name": "Driven Determination",
+      "description": "Use Driven Determination to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Driven%20Determination.png",
+      "script": "/Effects/Emote/Driven%20Determination.zip"
+    },
+    {
+      "id": "dum-dum-dum",
+      "name": "Dum Dum Dum",
+      "description": "Dum Dum Dum delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Dum%20Dum%20Dum.png",
+      "script": "/Effects/Emote/Dum%20Dum%20Dum.zip"
+    },
+    {
+      "id": "dyrroth-angry",
+      "name": "Dyrroth - Angry",
+      "description": "Dyrroth - Angry captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Dyrroth%20-%20Angry.png",
+      "script": "/Effects/Emote/Dyrroth%20-%20Angry.zip"
+    },
+    {
+      "id": "dyrroth-crying",
+      "name": "Dyrroth - Crying",
+      "description": "Dyrroth - Crying captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Dyrroth%20-%20Crying.png",
+      "script": "/Effects/Emote/Dyrroth%20-%20Crying.zip"
+    },
+    {
+      "id": "dyrroth-hahaha",
+      "name": "Dyrroth - Hahaha",
+      "description": "Dyrroth - Hahaha captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Dyrroth%20-%20Hahaha.png",
+      "script": "/Effects/Emote/Dyrroth%20-%20Hahaha.zip"
+    },
+    {
+      "id": "dyrroth-youre-too-weak",
+      "name": "Dyrroth - Youre Too Weak",
+      "description": "Dyrroth - Youre Too Weak adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Dyrroth%20-%20Youre%20Too%20Weak.png",
+      "script": "/Effects/Emote/Dyrroth%20-%20You're%20Too%20Weak.zip"
+    },
+    {
+      "id": "easy-peasy",
+      "name": "Easy Peasy",
+      "description": "Use Easy Peasy to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Easy%20Peasy.png",
+      "script": "/Effects/Emote/Easy%20Peasy.zip"
+    },
+    {
+      "id": "echo-ph2021",
+      "name": "Echo-PH2021",
+      "description": "Echo-PH2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/Echo-PH2021.png",
+      "script": "/Effects/Emote/Echo-PH%402021.zip"
+    },
+    {
+      "id": "echo-ph2022",
+      "name": "ECHO-PH2022",
+      "description": "ECHO-PH2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/ECHO-PH2022.png",
+      "script": "/Effects/Emote/ECHO-PH%402022.zip"
+    },
+    {
+      "id": "embarrassed",
+      "name": "Embarrassed",
+      "description": "Embarrassed captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Embarrassed.png",
+      "script": "/Effects/Emote/Embarrassed.zip"
+    },
+    {
+      "id": "escape",
+      "name": "Escape",
+      "description": "Show off Escape as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Escape.png",
+      "script": "/Effects/Emote/Escape.zip"
+    },
+    {
+      "id": "eudaemon",
+      "name": "Eudaemon",
+      "description": "Eudaemon adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Eudaemon.png",
+      "script": "/Effects/Emote/Eudaemon.zip"
+    },
+    {
+      "id": "even-the-abyss-bugs-are-better",
+      "name": "Even the Abyss Bugs Are Better",
+      "description": "Use Even the Abyss Bugs Are Better to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Even%20the%20Abyss%20Bugs%20Are%20Better.png",
+      "script": "/Effects/Emote/Even%20the%20Abyss%20Bugs%20Are%20Better%E2%80%A6.zip"
+    },
+    {
+      "id": "everything-is-under-my-control",
+      "name": "Everything is under my control",
+      "description": "Everything is under my control delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Everything%20is%20under%20my%20control.png",
+      "script": "/Effects/Emote/Everything%20is%20under%20my%20control!.zip"
+    },
+    {
+      "id": "evos-legends",
+      "name": "EVOS Legends",
+      "description": "EVOS Legends is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/EVOS%20Legends.png",
+      "script": "/Effects/Emote/EVOS%20Legends.zip"
+    },
+    {
+      "id": "evos-id2021",
+      "name": "EVOS-ID2021",
+      "description": "EVOS-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/EVOS-ID2021.png",
+      "script": "/Effects/Emote/EVOS-ID%402021.zip"
+    },
+    {
+      "id": "evos-id2022",
+      "name": "EVOS-ID2022",
+      "description": "EVOS-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/EVOS-ID2022.png",
+      "script": "/Effects/Emote/EVOS-ID%402022.zip"
+    },
+    {
+      "id": "evosm3",
+      "name": "EVOSM3",
+      "description": "EVOSM3 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/EVOSM3.png",
+      "script": "/Effects/Emote/EVOS%40M3.zip"
+    },
+    {
+      "id": "extra-magic",
+      "name": "Extra Magic",
+      "description": "Use Extra Magic to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Extra%20Magic.png",
+      "script": "/Effects/Emote/Extra%20Magic.zip"
+    },
+    {
+      "id": "fair-enough",
+      "name": "Fair Enough",
+      "description": "Fair Enough delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Fair%20Enough.png",
+      "script": "/Effects/Emote/Fair%20Enough.zip"
+    },
+    {
+      "id": "febri-hariyadi",
+      "name": "Febri Hariyadi",
+      "description": "Share the mood with Febri Hariyadi, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Febri%20Hariyadi.png",
+      "script": "/Effects/Emote/Febri%20Hariyadi.zip"
+    },
+    {
+      "id": "feel-energetic",
+      "name": "Feel Energetic",
+      "description": "Feel Energetic brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Feel%20Energetic.png",
+      "script": "/Effects/Emote/Feel%20Energetic!.zip"
+    },
+    {
+      "id": "festival-of-lights-and-water-2025",
+      "name": "Festival of Lights and Water 2025",
+      "description": "Festival of Lights and Water 2025 adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Festival%20of%20Lights%20and%20Water%202025.png",
+      "script": "/Effects/Emote/Festival%20of%20Lights%20and%20Water%202025.zip"
+    },
+    {
+      "id": "final-verdict",
+      "name": "Final Verdict",
+      "description": "Final Verdict adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Final%20Verdict.png",
+      "script": "/Effects/Emote/Final%20Verdict.zip"
+    },
+    {
+      "id": "finger-heart",
+      "name": "Finger Heart",
+      "description": "Use Finger Heart to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Finger%20Heart.png",
+      "script": "/Effects/Emote/Finger%20Heart.zip"
+    },
+    {
+      "id": "first-order-jet-trooper",
+      "name": "First Order Jet Trooper",
+      "description": "Share the mood with First Order Jet Trooper, an animated emote made for battle.",
+      "image": "/Effects/Emotes/First%20Order%20Jet%20Trooper.png",
+      "script": "/Effects/Emote/First%20Order%20Jet%20Trooper.zip"
+    },
+    {
+      "id": "fist-of-glory",
+      "name": "Fist of Glory",
+      "description": "Fist of Glory is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Fist%20of%20Glory.png",
+      "script": "/Effects/Emote/Fist%20of%20Glory.zip"
+    },
+    {
+      "id": "flawless",
+      "name": "Flawless",
+      "description": "Flawless is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Flawless.png",
+      "script": "/Effects/Emote/Flawless.zip"
+    },
+    {
+      "id": "flcn-ph2025",
+      "name": "FLCN-PH2025",
+      "description": "FLCN-PH2025 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/FLCN-PH2025.png",
+      "script": "/Effects/Emote/FLCN-PH%402025.zip"
+    },
+    {
+      "id": "follow-me",
+      "name": "Follow me",
+      "description": "Use Follow me to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Follow%20me.png",
+      "script": "/Effects/Emote/Follow%20me!.zip"
+    },
+    {
+      "id": "for-real",
+      "name": "For Real",
+      "description": "For Real delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/For%20Real.png",
+      "script": "/Effects/Emote/For%20Real!.zip"
+    },
+    {
+      "id": "freedom",
+      "name": "Freedom",
+      "description": "Share the mood with Freedom, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Freedom.png",
+      "script": "/Effects/Emote/Freedom!.zip"
+    },
+    {
+      "id": "fuming-mad",
+      "name": "Fuming Mad",
+      "description": "Fuming Mad brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Fuming%20Mad.png",
+      "script": "/Effects/Emote/Fuming%20Mad.zip"
+    },
+    {
+      "id": "furious",
+      "name": "Furious",
+      "description": "Furious captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Furious.png",
+      "script": "/Effects/Emote/Furious.zip"
+    },
+    {
+      "id": "gallop-to-victory",
+      "name": "Gallop to Victory",
+      "description": "Gallop to Victory is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Gallop%20to%20Victory.png",
+      "script": "/Effects/Emote/Gallop%20to%20Victory.zip"
+    },
+    {
+      "id": "geek-fam",
+      "name": "GEEK FAM",
+      "description": "GEEK FAM is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/GEEK%20FAM.png",
+      "script": "/Effects/Emote/GEEK%20FAM.zip"
+    },
+    {
+      "id": "geek-id2021",
+      "name": "GEEK-ID2021",
+      "description": "GEEK-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/GEEK-ID2021.png",
+      "script": "/Effects/Emote/GEEK-ID%402021.zip"
+    },
+    {
+      "id": "geek-id2022",
+      "name": "GEEK-ID2022",
+      "description": "GEEK-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/GEEK-ID2022.png",
+      "script": "/Effects/Emote/GEEK-ID%402022.zip"
+    },
+    {
+      "id": "genflix-aerowolf",
+      "name": "Genflix Aerowolf",
+      "description": "Genflix Aerowolf brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Genflix%20Aerowolf.png",
+      "script": "/Effects/Emote/Genflix%20Aerowolf.zip"
+    },
+    {
+      "id": "gentle-step-twin-lion-fists",
+      "name": "Gentle Step Twin Lion Fists",
+      "description": "Gentle Step Twin Lion Fists delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Gentle%20Step%20Twin%20Lion%20Fists.png",
+      "script": "/Effects/Emote/Gentle%20Step%20Twin%20Lion%20Fists.zip"
+    },
+    {
+      "id": "getgetaw",
+      "name": "GetGetAw",
+      "description": "Use GetGetAw to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/GetGetAw.png",
+      "script": "/Effects/Emote/GetGetAw!.zip"
+    },
+    {
+      "id": "give-it-a-shout",
+      "name": "Give it a shout",
+      "description": "Give it a shout delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Give%20it%20a%20shout.png",
+      "script": "/Effects/Emote/Give%20it%20a%20shout!.zip"
+    },
+    {
+      "id": "glorious-msc",
+      "name": "Glorious MSC",
+      "description": "Glorious MSC is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/Glorious%20MSC.png",
+      "script": "/Effects/Emote/Glorious%20MSC.zip"
+    },
+    {
+      "id": "glorious-msc-2022",
+      "name": "Glorious MSC 2022",
+      "description": "Glorious MSC 2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/Glorious%20MSC%202022.png",
+      "script": "/Effects/Emote/Glorious%20MSC%202022.zip"
+    },
+    {
+      "id": "glorious-msc-2023",
+      "name": "Glorious MSC 2023",
+      "description": "Glorious MSC 2023 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/Glorious%20MSC%202023.png",
+      "script": "/Effects/Emote/Glorious%20MSC%202023.zip"
+    },
+    {
+      "id": "glory-to-malaysia",
+      "name": "Glory to Malaysia",
+      "description": "Glory to Malaysia is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Glory%20to%20Malaysia.png",
+      "script": "/Effects/Emote/Glory%20to%20Malaysia!.zip"
+    },
+    {
+      "id": "goal",
+      "name": "Goal",
+      "description": "Use Goal to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Goal.png",
+      "script": "/Effects/Emote/Goal!.zip"
+    },
+    {
+      "id": "golden-fist",
+      "name": "Golden Fist",
+      "description": "Golden Fist delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Golden%20Fist.png",
+      "script": "/Effects/Emote/Golden%20Fist.zip"
+    },
+    {
+      "id": "golden-flash",
+      "name": "Golden flash",
+      "description": "Share the mood with Golden flash, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Golden%20flash.png",
+      "script": "/Effects/Emote/Golden%20flash.zip"
+    },
+    {
+      "id": "good-boy",
+      "name": "Good boy",
+      "description": "Good boy brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Good%20boy.png",
+      "script": "/Effects/Emote/Good%20boy~.zip"
+    },
+    {
+      "id": "good-crazy",
+      "name": "Good Crazy",
+      "description": "Show off Good Crazy as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Good%20Crazy.png",
+      "script": "/Effects/Emote/Good%20Crazy.zip"
+    },
+    {
+      "id": "good-job",
+      "name": "Good job",
+      "description": "Good job is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Good%20job.png",
+      "script": "/Effects/Emote/Good%20job!.zip"
+    },
+    {
+      "id": "good-job-2",
+      "name": "Good Job (2)",
+      "description": "Good Job (2) is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Good%20Job%20(2).png",
+      "script": "/Effects/Emote/Good%20Job!%20(2).zip"
+    },
+    {
+      "id": "good-kid-2025",
+      "name": "Good Kid 2025",
+      "description": "Good Kid 2025 delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Good%20Kid%202025.png",
+      "script": "/Effects/Emote/Good%20Kid%202025.zip"
+    },
+    {
+      "id": "gosu-general",
+      "name": "Gosu General",
+      "description": "Share the mood with Gosu General, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Gosu%20General.png",
+      "script": "/Effects/Emote/Gosu%20General.zip"
+    },
+    {
+      "id": "got-a-problem",
+      "name": "Got a Problem",
+      "description": "Got a Problem brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Got%20a%20Problem.png",
+      "script": "/Effects/Emote/Got%20a%20Problem.zip"
+    },
+    {
+      "id": "got-em",
+      "name": "Got Em",
+      "description": "Show off Got Em as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Got%20Em.png",
+      "script": "/Effects/Emote/Got%20'Em!.zip"
+    },
+    {
+      "id": "got-u",
+      "name": "Got-U",
+      "description": "Got-U adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Got-U.png",
+      "script": "/Effects/Emote/Got-U!.zip"
+    },
+    {
+      "id": "gotcha",
+      "name": "Gotcha",
+      "description": "Use Gotcha to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Gotcha.png",
+      "script": "/Effects/Emote/Gotcha!.zip"
+    },
+    {
+      "id": "granger-loves-salute",
+      "name": "Granger Loves Salute",
+      "description": "Granger Loves Salute delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Granger%20Loves%20Salute.png",
+      "script": "/Effects/Emote/Granger%20Love's%20Salute.zip"
+    },
+    {
+      "id": "great-captain-ruby",
+      "name": "Great Captain Ruby",
+      "description": "Great Captain Ruby is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Great%20Captain%20Ruby.png",
+      "script": "/Effects/Emote/Great%20Captain%20Ruby.zip"
+    },
+    {
+      "id": "growl",
+      "name": "Growl",
+      "description": "Growl brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Growl.png",
+      "script": "/Effects/Emote/Growl.zip"
+    },
+    {
+      "id": "guardian-eye",
+      "name": "Guardian Eye",
+      "description": "Show off Guardian Eye as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Guardian%20Eye.png",
+      "script": "/Effects/Emote/Guardian%20Eye.zip"
+    },
+    {
+      "id": "guiding-arrow",
+      "name": "Guiding Arrow",
+      "description": "Guiding Arrow adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Guiding%20Arrow.png",
+      "script": "/Effects/Emote/Guiding%20Arrow.zip"
+    },
+    {
+      "id": "guitar-hero",
+      "name": "Guitar Hero",
+      "description": "Use Guitar Hero to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Guitar%20Hero.png",
+      "script": "/Effects/Emote/Guitar%20Hero.zip"
+    },
+    {
+      "id": "gunslinger-girl",
+      "name": "Gunslinger Girl",
+      "description": "Gunslinger Girl delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Gunslinger%20Girl.png",
+      "script": "/Effects/Emote/Gunslinger%20Girl.zip"
+    },
+    {
+      "id": "gut-punch",
+      "name": "Gut Punch",
+      "description": "Gut Punch delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Gut%20Punch.png",
+      "script": "/Effects/Emote/Gut%20Punch.zip"
+    },
+    {
+      "id": "gxm3",
+      "name": "GXM3",
+      "description": "GXM3 brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/GXM3.png",
+      "script": "/Effects/Emote/GX%40M3.zip"
+    },
+    {
+      "id": "h-e-r-l-e-k-i-n-g",
+      "name": "H E R L E K I N G",
+      "description": "Show off H E R L E K I N G as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/H%20E%20R%20L%20E%20K%20I%20N%20G.png",
+      "script": "/Effects/Emote/H%20E%20R%20L%20E%20K%20I%20N%20G.zip"
+    },
+    {
+      "id": "ha-got-one",
+      "name": "Ha Got one",
+      "description": "Ha Got one adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Ha%20Got%20one.png",
+      "script": "/Effects/Emote/Ha!%20Got%20one!.zip"
+    },
+    {
+      "id": "hahaha",
+      "name": "Hahaha",
+      "description": "Hahaha captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Hahaha.png",
+      "script": "/Effects/Emote/Hahaha!.zip"
+    },
+    {
+      "id": "hahaha-2",
+      "name": "Hahaha (2)",
+      "description": "Hahaha (2) captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Hahaha%20(2).png",
+      "script": "/Effects/Emote/Hahaha!%20(2).zip"
+    },
+    {
+      "id": "happy-5th-anniversary",
+      "name": "Happy 5th Anniversary",
+      "description": "Happy 5th Anniversary adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Happy%205th%20Anniversary.png",
+      "script": "/Effects/Emote/Happy%205th%20Anniversary!.zip"
+    },
+    {
+      "id": "happy-8th-anniversary",
+      "name": "Happy 8th Anniversary",
+      "description": "Happy 8th Anniversary adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Happy%208th%20Anniversary.png",
+      "script": "/Effects/Emote/Happy%208th%20Anniversary!.zip"
+    },
+    {
+      "id": "happy-diwali",
+      "name": "Happy Diwali",
+      "description": "Happy Diwali captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20Diwali.png",
+      "script": "/Effects/Emote/Happy%20Diwali!.zip"
+    },
+    {
+      "id": "happy-diwali-2",
+      "name": "Happy Diwali (2)",
+      "description": "Happy Diwali (2) captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20Diwali%20(2).png",
+      "script": "/Effects/Emote/Happy%20Diwali!%20(2).zip"
+    },
+    {
+      "id": "happy-easter",
+      "name": "Happy Easter",
+      "description": "Happy Easter captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20Easter.png",
+      "script": "/Effects/Emote/Happy%20Easter.zip"
+    },
+    {
+      "id": "happy-independence-day",
+      "name": "Happy Independence Day",
+      "description": "Happy Independence Day captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20Independence%20Day.png",
+      "script": "/Effects/Emote/Happy%20Independence%20Day!.zip"
+    },
+    {
+      "id": "happy-independence-day-2",
+      "name": "Happy Independence Day (2)",
+      "description": "Happy Independence Day (2) captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20Independence%20Day%20(2).png",
+      "script": "/Effects/Emote/Happy%20Independence%20Day!%20(2).zip"
+    },
+    {
+      "id": "happy-new-year",
+      "name": "Happy New Year",
+      "description": "Happy New Year captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20New%20Year.png",
+      "script": "/Effects/Emote/Happy%20New%20Year!.zip"
+    },
+    {
+      "id": "happy-new-year-2",
+      "name": "Happy New Year (2)",
+      "description": "Happy New Year (2) captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20New%20Year%20(2).png",
+      "script": "/Effects/Emote/Happy%20New%20Year!%20(2).zip"
+    },
+    {
+      "id": "happy-ramadan",
+      "name": "Happy Ramadan",
+      "description": "Happy Ramadan adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Happy%20Ramadan.png",
+      "script": "/Effects/Emote/Happy%20Ramadan.zip"
+    },
+    {
+      "id": "happy-spring-festival",
+      "name": "Happy Spring Festival",
+      "description": "Happy Spring Festival adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Happy%20Spring%20Festival.png",
+      "script": "/Effects/Emote/Happy%20Spring%20Festival!.zip"
+    },
+    {
+      "id": "happy-spring-festival-2",
+      "name": "Happy Spring Festival (2)",
+      "description": "Happy Spring Festival (2) adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Happy%20Spring%20Festival%20(2).png",
+      "script": "/Effects/Emote/Happy%20Spring%20Festival!%20(2).zip"
+    },
+    {
+      "id": "happy-valentine",
+      "name": "Happy Valentine",
+      "description": "Happy Valentine captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Happy%20Valentine.png",
+      "script": "/Effects/Emote/Happy%20Valentine!.zip"
+    },
+    {
+      "id": "harmonia",
+      "name": "Harmonia",
+      "description": "Harmonia brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Harmonia.png",
+      "script": "/Effects/Emote/Harmonia.zip"
+    },
+    {
+      "id": "harvest",
+      "name": "Harvest",
+      "description": "Show off Harvest as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Harvest.png",
+      "script": "/Effects/Emote/Harvest.zip"
+    },
+    {
+      "id": "have-a-snack",
+      "name": "Have a Snack",
+      "description": "Have a Snack adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Have%20a%20Snack.png",
+      "script": "/Effects/Emote/Have%20a%20Snack.zip"
+    },
+    {
+      "id": "heart-broken",
+      "name": "Heart Broken",
+      "description": "Use Heart Broken to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Heart%20Broken.png",
+      "script": "/Effects/Emote/Heart%20Broken.zip"
+    },
+    {
+      "id": "heartbreaking",
+      "name": "Heartbreaking",
+      "description": "Heartbreaking delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Heartbreaking.png",
+      "script": "/Effects/Emote/Heartbreaking.zip"
+    },
+    {
+      "id": "heartthrob",
+      "name": "Heartthrob",
+      "description": "Share the mood with Heartthrob, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Heartthrob.png",
+      "script": "/Effects/Emote/Heartthrob.zip"
+    },
+    {
+      "id": "heh-heh",
+      "name": "HEH HEH",
+      "description": "HEH HEH brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/HEH%20HEH.png",
+      "script": "/Effects/Emote/HEH%20HEH.zip"
+    },
+    {
+      "id": "heh-heh-ollie",
+      "name": "Heh Heh - Ollie",
+      "description": "Show off Heh Heh - Ollie as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Heh%20Heh%20-%20Ollie.png",
+      "script": "/Effects/Emote/Heh%20Heh%20-%20Ollie.zip"
+    },
+    {
+      "id": "hehe",
+      "name": "Hehe",
+      "description": "Hehe adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Hehe.png",
+      "script": "/Effects/Emote/Hehe.zip"
+    },
+    {
+      "id": "hehe-see-ya",
+      "name": "Hehe See Ya",
+      "description": "Use Hehe See Ya to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Hehe%20See%20Ya.png",
+      "script": "/Effects/Emote/Hehe%2C%20See%20Ya.zip"
+    },
+    {
+      "id": "hello",
+      "name": "Hello",
+      "description": "Hello delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Hello.png",
+      "script": "/Effects/Emote/Hello!.zip"
+    },
+    {
+      "id": "hello-po",
+      "name": "Hello Po",
+      "description": "Share the mood with Hello Po, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Hello%20Po.png",
+      "script": "/Effects/Emote/Hello%20Po!.zip"
+    },
+    {
+      "id": "here-i-am",
+      "name": "Here I am",
+      "description": "Here I am brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Here%20I%20am.png",
+      "script": "/Effects/Emote/Here%20I%20am.zip"
+    },
+    {
+      "id": "here-i-come",
+      "name": "Here I come",
+      "description": "Show off Here I come as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Here%20I%20come.png",
+      "script": "/Effects/Emote/Here%20I%20come!.zip"
+    },
+    {
+      "id": "here-to-help",
+      "name": "Here to Help",
+      "description": "Here to Help adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Here%20to%20Help.png",
+      "script": "/Effects/Emote/Here%20to%20Help.zip"
+    },
+    {
+      "id": "hey-everyone",
+      "name": "Hey Everyone",
+      "description": "Use Hey Everyone to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Hey%20Everyone.png",
+      "script": "/Effects/Emote/Hey%20Everyone!.zip"
+    },
+    {
+      "id": "hi",
+      "name": "Hi",
+      "description": "Hi delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Hi.png",
+      "script": "/Effects/Emote/Hi!.zip"
+    },
+    {
+      "id": "hi-2",
+      "name": "Hi (2)",
+      "description": "Share the mood with Hi (2), an animated emote made for battle.",
+      "image": "/Effects/Emotes/Hi%20(2).png",
+      "script": "/Effects/Emote/Hi!%20(2).zip"
+    },
+    {
+      "id": "hide-and-seek",
+      "name": "Hide-and-Seek",
+      "description": "Hide-and-Seek brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Hide-and-Seek.png",
+      "script": "/Effects/Emote/Hide-and-Seek.zip"
+    },
+    {
+      "id": "high-five",
+      "name": "High Five",
+      "description": "Show off High Five as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/High%20Five.png",
+      "script": "/Effects/Emote/High%20Five!.zip"
+    },
+    {
+      "id": "hirara-got-you",
+      "name": "Hirara Got You",
+      "description": "Hirara Got You adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Hirara%20Got%20You.png",
+      "script": "/Effects/Emote/Hirara%20Got%20You!.zip"
+    },
+    {
+      "id": "hit",
+      "name": "Hit",
+      "description": "Use Hit to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Hit.png",
+      "script": "/Effects/Emote/Hit!.zip"
+    },
+    {
+      "id": "hiya",
+      "name": "Hiya",
+      "description": "Hiya delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Hiya.png",
+      "script": "/Effects/Emote/Hiya!.zip"
+    },
+    {
+      "id": "hmph-you-scared",
+      "name": "Hmph You Scared",
+      "description": "Hmph You Scared captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Hmph%20You%20Scared.png",
+      "script": "/Effects/Emote/Hmph!%20You%20Scared.zip"
+    },
+    {
+      "id": "ho-ho",
+      "name": "Ho Ho",
+      "description": "Ho Ho brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Ho%20Ho.png",
+      "script": "/Effects/Emote/Ho~%20Ho~.zip"
+    },
+    {
+      "id": "hot-summer",
+      "name": "Hot Summer",
+      "description": "Hot Summer adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Hot%20Summer.png",
+      "script": "/Effects/Emote/Hot%20Summer.zip"
+    },
+    {
+      "id": "hurry-up",
+      "name": "Hurry Up",
+      "description": "Hurry Up adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Hurry%20Up.png",
+      "script": "/Effects/Emote/Hurry%20Up.zip"
+    },
+    {
+      "id": "huuuuug",
+      "name": "Huuuuug",
+      "description": "Use Huuuuug to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Huuuuug.png",
+      "script": "/Effects/Emote/Huuuuug%20~.zip"
+    },
+    {
+      "id": "i-appreciate-you",
+      "name": "I appreciate you.",
+      "description": "I appreciate you. delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/I%20appreciate%20you..png",
+      "script": "/Effects/Emote/I%20appreciate%20you.zip"
+    },
+    {
+      "id": "i-declare-you-the-strongest",
+      "name": "I Declare You The Strongest",
+      "description": "Share the mood with I Declare You The Strongest, an animated emote made for battle.",
+      "image": "/Effects/Emotes/I%20Declare%20You%20The%20Strongest.png",
+      "script": "/Effects/Emote/I%20Declare%20You%20The%20Strongest.zip"
+    },
+    {
+      "id": "i-have-the-high-ground",
+      "name": "I have the high ground",
+      "description": "I have the high ground brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/I%20have%20the%20high%20ground.png",
+      "script": "/Effects/Emote/I%20have%20the%20high%20ground.zip"
+    },
+    {
+      "id": "i-will-be-back",
+      "name": "I Will be Back",
+      "description": "Show off I Will be Back as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/I%20Will%20be%20Back.png",
+      "script": "/Effects/Emote/I%20Will%20be%20Back!.zip"
+    },
+    {
+      "id": "ic3-fr0gz",
+      "name": "Ic3_fr0Gz",
+      "description": "Ic3_fr0Gz adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Ic3_fr0Gz.png",
+      "script": "/Effects/Emote/Ic3_fr0Gz.zip"
+    },
+    {
+      "id": "im-the-dragon-warrior",
+      "name": "Im the Dragon Warrior",
+      "description": "Use Im the Dragon Warrior to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Im%20the%20Dragon%20Warrior.png",
+      "script": "/Effects/Emote/I'm%20the%20Dragon%20Warrior.zip"
+    },
+    {
+      "id": "im-the-fifth-hokage",
+      "name": "Im the Fifth Hokage",
+      "description": "Im the Fifth Hokage delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Im%20the%20Fifth%20Hokage.png",
+      "script": "/Effects/Emote/I'm%20the%20Fifth%20Hokage.zip"
+    },
+    {
+      "id": "im-the-queen",
+      "name": "Im the Queen",
+      "description": "Share the mood with Im the Queen, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Im%20the%20Queen.png",
+      "script": "/Effects/Emote/I'm%20the%20Queen.zip"
+    },
+    {
+      "id": "imminent-peril",
+      "name": "Imminent Peril",
+      "description": "Imminent Peril brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Imminent%20Peril.png",
+      "script": "/Effects/Emote/Imminent%20Peril.zip"
+    },
+    {
+      "id": "impressive",
+      "name": "Impressive",
+      "description": "Show off Impressive as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Impressive.png",
+      "script": "/Effects/Emote/Impressive.zip"
+    },
+    {
+      "id": "independence-day-indonesia-2023",
+      "name": "Independence Day Indonesia 2023",
+      "description": "Independence Day Indonesia 2023 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Independence%20Day%20Indonesia%202023.png",
+      "script": "/Effects/Emote/Independence%20Day%20Indonesia%202023.zip"
+    },
+    {
+      "id": "interstellar-power",
+      "name": "Interstellar Power",
+      "description": "Use Interstellar Power to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Interstellar%20Power.png",
+      "script": "/Effects/Emote/Interstellar%20Power.zip"
+    },
+    {
+      "id": "invincible-champion",
+      "name": "Invincible Champion",
+      "description": "Invincible Champion is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Invincible%20Champion.png",
+      "script": "/Effects/Emote/Invincible%20Champion.zip"
+    },
+    {
+      "id": "itll-all-be-fine",
+      "name": "Itll all be fine.",
+      "description": "Share the mood with Itll all be fine., an animated emote made for battle.",
+      "image": "/Effects/Emotes/Itll%20all%20be%20fine..png",
+      "script": "/Effects/Emote/It'll%20all%20be%20fine.zip"
+    },
+    {
+      "id": "itll-work",
+      "name": "Itll work",
+      "description": "Itll work brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Itll%20work.png",
+      "script": "/Effects/Emote/It'll%20work.zip"
+    },
+    {
+      "id": "its-my-turn",
+      "name": "Its My Turn",
+      "description": "Show off Its My Turn as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Its%20My%20Turn.png",
+      "script": "/Effects/Emote/It's%20My%20Turn.zip"
+    },
+    {
+      "id": "its-your-turn",
+      "name": "Its your turn.",
+      "description": "Its your turn. adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Its%20your%20turn..png",
+      "script": "/Effects/Emote/It's%20your%20turn.zip"
+    },
+    {
+      "id": "ive-got-an-idea",
+      "name": "Ive Got an Idea",
+      "description": "Use Ive Got an Idea to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Ive%20Got%20an%20Idea.png",
+      "script": "/Effects/Emote/I've%20Got%20an%20Idea!.zip"
+    },
+    {
+      "id": "jeetega-india",
+      "name": "Jeetega India",
+      "description": "Jeetega India delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Jeetega%20India.png",
+      "script": "/Effects/Emote/Jeetega%20India.zip"
+    },
+    {
+      "id": "jess-sisca",
+      "name": "Jess  Sisca",
+      "description": "Share the mood with Jess  Sisca, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Jess%20%20Sisca.png",
+      "script": "/Effects/Emote/Jess%20%26%20Sisca.zip"
+    },
+    {
+      "id": "jess-no-limit",
+      "name": "Jess No Limit",
+      "description": "Jess No Limit brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Jess%20No%20Limit.png",
+      "script": "/Effects/Emote/Jess%20No%20Limit.zip"
+    },
+    {
+      "id": "jugamos-en-equipo",
+      "name": "Jugamos en equipo",
+      "description": "Show off Jugamos en equipo as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Jugamos%20en%20equipo.png",
+      "script": "/Effects/Emote/%C2%BFJugamos%20en%20equipo.zip"
+    },
+    {
+      "id": "just-a-bit-more",
+      "name": "Just a Bit More",
+      "description": "Just a Bit More adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Just%20a%20Bit%20More.png",
+      "script": "/Effects/Emote/Just%20a%20Bit%20More.zip"
+    },
+    {
+      "id": "just-a-little-hobby",
+      "name": "Just a little hobby.",
+      "description": "Use Just a little hobby. to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Just%20a%20little%20hobby..png",
+      "script": "/Effects/Emote/Just%20a%20little%20hobby.zip"
+    },
+    {
+      "id": "just-in-time",
+      "name": "Just in Time",
+      "description": "Just in Time delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Just%20in%20Time.png",
+      "script": "/Effects/Emote/Just%20in%20Time.zip"
+    },
+    {
+      "id": "just-smile",
+      "name": "Just Smile",
+      "description": "Just Smile captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Just%20Smile.png",
+      "script": "/Effects/Emote/Just%20Smile.zip"
+    },
+    {
+      "id": "kai-has-returned",
+      "name": "Kai Has Returned",
+      "description": "Kai Has Returned brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Kai%20Has%20Returned.png",
+      "script": "/Effects/Emote/Kai%20Has%20Returned.zip"
+    },
+    {
+      "id": "kena-pancing-ke",
+      "name": "Kena Pancing Ke",
+      "description": "Show off Kena Pancing Ke as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Kena%20Pancing%20Ke.png",
+      "script": "/Effects/Emote/Kena%20Pancing%20Ke.zip"
+    },
+    {
+      "id": "keydm3",
+      "name": "KeydM3",
+      "description": "KeydM3 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/KeydM3.png",
+      "script": "/Effects/Emote/Keyd%40M3.zip"
+    },
+    {
+      "id": "kim-kurniawan",
+      "name": "Kim Kurniawan",
+      "description": "Use Kim Kurniawan to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Kim%20Kurniawan.png",
+      "script": "/Effects/Emote/Kim%20Kurniawan.zip"
+    },
+    {
+      "id": "knights-honor",
+      "name": "Knights Honor",
+      "description": "Knights Honor delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Knights%20Honor.png",
+      "script": "/Effects/Emote/Knight's%20Honor.zip"
+    },
+    {
+      "id": "la-la-la",
+      "name": "La-la-la",
+      "description": "Share the mood with La-la-la, an animated emote made for battle.",
+      "image": "/Effects/Emotes/La-la-la.png",
+      "script": "/Effects/Emote/La-la-la.zip"
+    },
+    {
+      "id": "laid-back",
+      "name": "Laid Back",
+      "description": "Laid Back brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Laid%20Back.png",
+      "script": "/Effects/Emote/Laid%20Back.zip"
+    },
+    {
+      "id": "laughing",
+      "name": "Laughing",
+      "description": "Laughing captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Laughing.png",
+      "script": "/Effects/Emote/Laughing.zip"
+    },
+    {
+      "id": "let-me-show-you-something",
+      "name": "Let me show you something",
+      "description": "Let me show you something adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Let%20me%20show%20you%20something.png",
+      "script": "/Effects/Emote/Let%20me%20show%20you%20something!.zip"
+    },
+    {
+      "id": "let-me-think",
+      "name": "Let me think.",
+      "description": "Use Let me think. to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Let%20me%20think..png",
+      "script": "/Effects/Emote/Let%20me%20think.zip"
+    },
+    {
+      "id": "lets-do-this",
+      "name": "Lets do this",
+      "description": "Lets do this delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Lets%20do%20this.png",
+      "script": "/Effects/Emote/Let's%20do%20this!.zip"
+    },
+    {
+      "id": "lets-fight",
+      "name": "Lets Fight",
+      "description": "Lets Fight delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Lets%20Fight.png",
+      "script": "/Effects/Emote/Let's%20Fight!.zip"
+    },
+    {
+      "id": "lets-go",
+      "name": "Lets go",
+      "description": "Lets go brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Lets%20go.png",
+      "script": "/Effects/Emote/Let's%20go!.zip"
+    },
+    {
+      "id": "lets-go-on-a-date",
+      "name": "Lets Go on a Date",
+      "description": "Show off Lets Go on a Date as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Lets%20Go%20on%20a%20Date.png",
+      "script": "/Effects/Emote/Let's%20Go%20on%20a%20Date!.zip"
+    },
+    {
+      "id": "lets-go-tetra",
+      "name": "Lets Go Tetra",
+      "description": "Lets Go Tetra adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Lets%20Go%20Tetra.png",
+      "script": "/Effects/Emote/Let's%20Go%2C%20Tetra!.zip"
+    },
+    {
+      "id": "lets-have-dessert-together",
+      "name": "Lets have dessert together",
+      "description": "Lets have dessert together adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Lets%20have%20dessert%20together.png",
+      "script": "/Effects/Emote/Let's%20have%20dessert%20together.zip"
+    },
+    {
+      "id": "lets-settle-this",
+      "name": "Lets Settle This",
+      "description": "Lets Settle This delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Lets%20Settle%20This.png",
+      "script": "/Effects/Emote/Let's%20Settle%20This.zip"
+    },
+    {
+      "id": "light-for-you",
+      "name": "Light for you",
+      "description": "Share the mood with Light for you, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Light%20for%20you.png",
+      "script": "/Effects/Emote/Light%20for%20you.zip"
+    },
+    {
+      "id": "lightning-glow",
+      "name": "Lightning Glow",
+      "description": "Lightning Glow brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Lightning%20Glow.png",
+      "script": "/Effects/Emote/Lightning%20Glow.zip"
+    },
+    {
+      "id": "like-i-care",
+      "name": "Like I Care",
+      "description": "Show off Like I Care as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Like%20I%20Care.png",
+      "script": "/Effects/Emote/Like%20I%20Care.zip"
+    },
+    {
+      "id": "lmao",
+      "name": "LMAO",
+      "description": "LMAO adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/LMAO.png",
+      "script": "/Effects/Emote/LMAO!.zip"
+    },
+    {
+      "id": "lol",
+      "name": "LOL",
+      "description": "Use LOL to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/LOL.png",
+      "script": "/Effects/Emote/LOL.zip"
+    },
+    {
+      "id": "long-live-malaysia",
+      "name": "Long Live Malaysia",
+      "description": "Long Live Malaysia delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Long%20Live%20Malaysia.png",
+      "script": "/Effects/Emote/Long%20Live%20Malaysia!.zip"
+    },
+    {
+      "id": "long-legged",
+      "name": "Long-Legged",
+      "description": "Share the mood with Long-Legged, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Long-Legged.png",
+      "script": "/Effects/Emote/Long-Legged.zip"
+    },
+    {
+      "id": "looking-forward",
+      "name": "Looking Forward",
+      "description": "Looking Forward brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Looking%20Forward.png",
+      "script": "/Effects/Emote/Looking%20Forward.zip"
+    },
+    {
+      "id": "looking-good-right",
+      "name": "Looking Good Right",
+      "description": "Show off Looking Good Right as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Looking%20Good%20Right.png",
+      "script": "/Effects/Emote/Looking%20Good%2C%20Right.zip"
+    },
+    {
+      "id": "looks-decide-everything",
+      "name": "Looks Decide Everything",
+      "description": "Looks Decide Everything adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Looks%20Decide%20Everything.png",
+      "script": "/Effects/Emote/Looks%20Decide%20Everything!.zip"
+    },
+    {
+      "id": "love-7-6",
+      "name": "Love 7.6",
+      "description": "Use Love 7.6 to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Love%207.6.png",
+      "script": "/Effects/Emote/Love%207.6.zip"
+    },
+    {
+      "id": "love-cuddle",
+      "name": "Love Cuddle",
+      "description": "Love Cuddle delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Love%20Cuddle.png",
+      "script": "/Effects/Emote/Love%20Cuddle!.zip"
+    },
+    {
+      "id": "love-it",
+      "name": "Love It",
+      "description": "Share the mood with Love It, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Love%20It.png",
+      "script": "/Effects/Emote/Love%20It.zip"
+    },
+    {
+      "id": "love-them-all",
+      "name": "Love Them All",
+      "description": "Love Them All brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Love%20Them%20All.png",
+      "script": "/Effects/Emote/Love%20Them%20All.zip"
+    },
+    {
+      "id": "love-ya",
+      "name": "Love ya",
+      "description": "Show off Love ya as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Love%20ya.png",
+      "script": "/Effects/Emote/Love%20Ya.zip"
+    },
+    {
+      "id": "love-ya-2",
+      "name": "Love Ya (2)",
+      "description": "Love Ya (2) adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Love%20Ya%20(2).png",
+      "script": "/Effects/Emote/Love%20Ya!%20(2).zip"
+    },
+    {
+      "id": "love-ya-3",
+      "name": "Love Ya (3)",
+      "description": "Use Love Ya (3) to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Love%20Ya%20(3).png",
+      "script": "/Effects/Emote/Love%20ya!.zip"
+    },
+    {
+      "id": "love-ya-too",
+      "name": "Love ya too",
+      "description": "Love ya too delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Love%20ya%20too.png",
+      "script": "/Effects/Emote/Love%20ya%20too!.zip"
+    },
+    {
+      "id": "love-you-too",
+      "name": "Love You Too",
+      "description": "Share the mood with Love You Too, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Love%20You%20Too.png",
+      "script": "/Effects/Emote/Love%20You%20Too!.zip"
+    },
+    {
+      "id": "m1-champion-battle-emote",
+      "name": "M1 Champion Battle Emote",
+      "description": "M1 Champion Battle Emote is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M1%20Champion%20Battle%20Emote.png",
+      "script": "/Effects/Emote/M1%20Champion%20Battle%20Emote.zip"
+    },
+    {
+      "id": "m1-glory",
+      "name": "M1 Glory",
+      "description": "M1 Glory is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M1%20Glory.png",
+      "script": "/Effects/Emote/M1%20Glory.zip"
+    },
+    {
+      "id": "m2-champion-battle-emote",
+      "name": "M2 Champion Battle Emote",
+      "description": "M2 Champion Battle Emote is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M2%20Champion%20Battle%20Emote.png",
+      "script": "/Effects/Emote/M2%20Champion%20Battle%20Emote.zip"
+    },
+    {
+      "id": "m2-glory",
+      "name": "M2 Glory",
+      "description": "M2 Glory is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M2%20Glory.png",
+      "script": "/Effects/Emote/M2%20Glory.zip"
+    },
+    {
+      "id": "m3-champion-battle-emote",
+      "name": "M3 Champion Battle Emote",
+      "description": "M3 Champion Battle Emote is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M3%20Champion%20Battle%20Emote.png",
+      "script": "/Effects/Emote/M3%20Champion%20Battle%20Emote.zip"
+    },
+    {
+      "id": "m3-glory",
+      "name": "M3 Glory",
+      "description": "M3 Glory is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M3%20Glory.png",
+      "script": "/Effects/Emote/M3%20Glory.zip"
+    },
+    {
+      "id": "m3-savage-howl",
+      "name": "M3 Savage Howl",
+      "description": "M3 Savage Howl is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M3%20Savage%20Howl.png",
+      "script": "/Effects/Emote/M3%20Savage%20Howl.zip"
+    },
+    {
+      "id": "m4-burmese-python",
+      "name": "M4 Burmese Python",
+      "description": "M4 Burmese Python is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M4%20Burmese%20Python.png",
+      "script": "/Effects/Emote/M4%20Burmese%20Python.zip"
+    },
+    {
+      "id": "m4-champion-battle-emote",
+      "name": "M4 Champion Battle Emote",
+      "description": "M4 Champion Battle Emote is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M4%20Champion%20Battle%20Emote.png",
+      "script": "/Effects/Emote/M4%20Champion%20Battle%20Emote.zip"
+    },
+    {
+      "id": "m4-glory",
+      "name": "M4 Glory",
+      "description": "M4 Glory is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M4%20Glory.png",
+      "script": "/Effects/Emote/M4%20Glory.zip"
+    },
+    {
+      "id": "m4-light-chasers-will",
+      "name": "M4 Light Chasers Will",
+      "description": "M4 Light Chasers Will is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M4%20Light%20Chasers%20Will.png",
+      "script": "/Effects/Emote/M4%20Light%20Chaser's%20Will.zip"
+    },
+    {
+      "id": "m5-champion-cheers",
+      "name": "M5 Champion Cheers",
+      "description": "M5 Champion Cheers is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M5%20Champion%20Cheers.png",
+      "script": "/Effects/Emote/M5%20Champion%20Cheers.zip"
+    },
+    {
+      "id": "m5-glory",
+      "name": "M5 Glory",
+      "description": "M5 Glory is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M5%20Glory.png",
+      "script": "/Effects/Emote/M5%20Glory.zip"
+    },
+    {
+      "id": "m5-prime",
+      "name": "M5 Prime",
+      "description": "M5 Prime is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M5%20Prime.png",
+      "script": "/Effects/Emote/M5%20Prime.zip"
+    },
+    {
+      "id": "m6-champion",
+      "name": "M6 Champion",
+      "description": "M6 Champion is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M6%20Champion.png",
+      "script": "/Effects/Emote/M6%20Champion.zip"
+    },
+    {
+      "id": "m6-champion-battle-emote",
+      "name": "M6 Champion Battle Emote",
+      "description": "M6 Champion Battle Emote is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M6%20Champion%20Battle%20Emote.png",
+      "script": "/Effects/Emote/M6%20Champion%20Battle%20Emote.zip"
+    },
+    {
+      "id": "m6-greetings",
+      "name": "M6 Greetings",
+      "description": "M6 Greetings is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M6%20Greetings.png",
+      "script": "/Effects/Emote/M6%20Greetings.zip"
+    },
+    {
+      "id": "m7-glory",
+      "name": "M7 Glory",
+      "description": "M7 Glory is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M7%20Glory.png",
+      "script": "/Effects/Emote/M7%20Glory.zip"
+    },
+    {
+      "id": "m7-prime",
+      "name": "M7 Prime",
+      "description": "M7 Prime is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M7%20Prime.png",
+      "script": "/Effects/Emote/M7%20Prime.zip"
+    },
+    {
+      "id": "m7-rise-gatot",
+      "name": "M7 Rise Gatot",
+      "description": "M7 Rise Gatot is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/M7%20Rise%20Gatot.png",
+      "script": "/Effects/Emote/M7%20Rise%20Gatot.zip"
+    },
+    {
+      "id": "mabarsatsetnodrama",
+      "name": "MabarSatsetNoDrama",
+      "description": "MabarSatsetNoDrama adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/MabarSatsetNoDrama.png",
+      "script": "/Effects/Emote/MabarSatsetNoDrama.zip"
+    },
+    {
+      "id": "magic-chess-second-anniversary",
+      "name": "Magic Chess Second Anniversary",
+      "description": "Magic Chess Second Anniversary adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Magic%20Chess%20Second%20Anniversary.png",
+      "script": "/Effects/Emote/Magic%20Chess%20Second%20Anniversary!.zip"
+    },
+    {
+      "id": "malaysia-boleh",
+      "name": "Malaysia Boleh",
+      "description": "Malaysia Boleh delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Malaysia%20Boleh.png",
+      "script": "/Effects/Emote/Malaysia%20Boleh.zip"
+    },
+    {
+      "id": "manly-romance",
+      "name": "Manly Romance",
+      "description": "Share the mood with Manly Romance, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Manly%20Romance.png",
+      "script": "/Effects/Emote/Manly%20Romance.zip"
+    },
+    {
+      "id": "marionette",
+      "name": "Marionette",
+      "description": "Marionette brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Marionette.png",
+      "script": "/Effects/Emote/Marionette.zip"
+    },
+    {
+      "id": "mastermind",
+      "name": "Mastermind",
+      "description": "Show off Mastermind as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Mastermind.png",
+      "script": "/Effects/Emote/Mastermind.zip"
+    },
+    {
+      "id": "may-the-force-be-with-you",
+      "name": "May the force be with you.",
+      "description": "May the force be with you. adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/May%20the%20force%20be%20with%20you..png",
+      "script": "/Effects/Emote/May%20the%20force%20be%20with%20you.zip"
+    },
+    {
+      "id": "mcl-champion",
+      "name": "MCL Champion",
+      "description": "MCL Champion is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/MCL%20Champion.png",
+      "script": "/Effects/Emote/MCL%20Champion!.zip"
+    },
+    {
+      "id": "mcl-season-champion-emote",
+      "name": "MCL Season Champion Emote",
+      "description": "MCL Season Champion Emote is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/MCL%20Season%20Champion%20Emote.png",
+      "script": "/Effects/Emote/MCL%20Season%20Champion%20Emote.zip"
+    },
+    {
+      "id": "me-grimlock-king",
+      "name": "Me Grimlock King",
+      "description": "Share the mood with Me Grimlock King, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Me%20Grimlock%20King.png",
+      "script": "/Effects/Emote/Me%20Grimlock%20King!.zip"
+    },
+    {
+      "id": "melancholy",
+      "name": "Melancholy",
+      "description": "Melancholy brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Melancholy.png",
+      "script": "/Effects/Emote/Melancholy.zip"
+    },
+    {
+      "id": "meow",
+      "name": "Meow",
+      "description": "Show off Meow as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Meow.png",
+      "script": "/Effects/Emote/Meow.zip"
+    },
+    {
+      "id": "merry-christmas",
+      "name": "Merry Christmas",
+      "description": "Merry Christmas adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Merry%20Christmas.png",
+      "script": "/Effects/Emote/Merry%20Christmas!.zip"
+    },
+    {
+      "id": "merry-christmas-2",
+      "name": "Merry Christmas (2)",
+      "description": "Use Merry Christmas (2) to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Merry%20Christmas%20(2).png",
+      "script": "/Effects/Emote/Merry%20Christmas!%20(2).zip"
+    },
+    {
+      "id": "merry-christmas-3",
+      "name": "Merry Christmas (3)",
+      "description": "Merry Christmas (3) delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Merry%20Christmas%20(3).png",
+      "script": "/Effects/Emote/Merry%20Christmas!%20(3).zip"
+    },
+    {
+      "id": "mira-sayang-its-ok",
+      "name": "Mira Sayang its OK",
+      "description": "Share the mood with Mira Sayang its OK, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Mira%20Sayang%20its%20OK.png",
+      "script": "/Effects/Emote/Mira%20Sayang%2C%20it's%20OK.zip"
+    },
+    {
+      "id": "miss-you",
+      "name": "Miss You",
+      "description": "Miss You brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Miss%20You.png",
+      "script": "/Effects/Emote/Miss%20You.zip"
+    },
+    {
+      "id": "mlbb",
+      "name": "MLBB",
+      "description": "Show off MLBB as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/MLBB.png",
+      "script": "/Effects/Emote/MLBB!.zip"
+    },
+    {
+      "id": "mock",
+      "name": "Mock",
+      "description": "Mock adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Mock.png",
+      "script": "/Effects/Emote/Mock.zip"
+    },
+    {
+      "id": "monster-sp-rider",
+      "name": "Monster SP Rider",
+      "description": "Use Monster SP Rider to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Monster%20SP%20Rider.png",
+      "script": "/Effects/Emote/Monster%20SP%20Rider.zip"
+    },
+    {
+      "id": "moonlit-blossom",
+      "name": "Moonlit Blossom",
+      "description": "Moonlit Blossom delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Moonlit%20Blossom.png",
+      "script": "/Effects/Emote/Moonlit%20Blossom.zip"
+    },
+    {
+      "id": "mro-be-no-1",
+      "name": "MRO - Be No.1",
+      "description": "Share the mood with MRO - Be No.1, an animated emote made for battle.",
+      "image": "/Effects/Emotes/MRO%20-%20Be%20No.1.png",
+      "script": "/Effects/Emote/MRO%20-%20Be%20No.1.zip"
+    },
+    {
+      "id": "mro-thats-me-alright",
+      "name": "MRO - Thats Me Alright",
+      "description": "MRO - Thats Me Alright brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/MRO%20-%20Thats%20Me%20Alright.png",
+      "script": "/Effects/Emote/MRO%20-%20That's%20Me%2C%20Alright.zip"
+    },
+    {
+      "id": "msc-legends-return",
+      "name": "MSC Legends Return",
+      "description": "MSC Legends Return is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/MSC%20Legends%20Return.png",
+      "script": "/Effects/Emote/MSC%20Legends%20Return.zip"
+    },
+    {
+      "id": "mvgm3",
+      "name": "MvGM3",
+      "description": "MvGM3 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/MvGM3.png",
+      "script": "/Effects/Emote/MvG%40M3.zip"
+    },
+    {
+      "id": "my-arrows-never-miss",
+      "name": "My arrows never miss",
+      "description": "Use My arrows never miss to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/My%20arrows%20never%20miss.png",
+      "script": "/Effects/Emote/My%20arrows%20never%20miss.zip"
+    },
+    {
+      "id": "my-bad",
+      "name": "My bad",
+      "description": "My bad delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/My%20bad.png",
+      "script": "/Effects/Emote/My%20bad!.zip"
+    },
+    {
+      "id": "my-specialty",
+      "name": "My Specialty",
+      "description": "Share the mood with My Specialty, an animated emote made for battle.",
+      "image": "/Effects/Emotes/My%20Specialty.png",
+      "script": "/Effects/Emote/My%20Specialty.zip"
+    },
+    {
+      "id": "my-time-will-come",
+      "name": "My Time will Come",
+      "description": "My Time will Come brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/My%20Time%20will%20Come.png",
+      "script": "/Effects/Emote/My%20Time%20will%20Come!.zip"
+    },
+    {
+      "id": "my-turn",
+      "name": "My Turn",
+      "description": "Show off My Turn as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/My%20Turn.png",
+      "script": "/Effects/Emote/My%20Turn.zip"
+    },
+    {
+      "id": "mythic",
+      "name": "Mythic",
+      "description": "Mythic adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Mythic.png",
+      "script": "/Effects/Emote/Mythic.zip"
+    },
+    {
+      "id": "nanas-wink",
+      "name": "Nanas Wink",
+      "description": "Use Nanas Wink to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Nanas%20Wink.png",
+      "script": "/Effects/Emote/Nana's%20Wink.zip"
+    },
+    {
+      "id": "national-heroes-day",
+      "name": "National Heroes Day",
+      "description": "National Heroes Day delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/National%20Heroes%20Day.png",
+      "script": "/Effects/Emote/National%20Heroes%20Day.zip"
+    },
+    {
+      "id": "navi-id2025",
+      "name": "NAVI-ID2025",
+      "description": "NAVI-ID2025 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/NAVI-ID2025.png",
+      "script": "/Effects/Emote/NAVI-ID%402025.zip"
+    },
+    {
+      "id": "navim3",
+      "name": "NAVIM3",
+      "description": "NAVIM3 brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/NAVIM3.png",
+      "script": "/Effects/Emote/NAVI%40M3.zip"
+    },
+    {
+      "id": "never-miss",
+      "name": "Never Miss",
+      "description": "Show off Never Miss as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Never%20Miss.png",
+      "script": "/Effects/Emote/Never%20Miss.zip"
+    },
+    {
+      "id": "new-year-fest-2024",
+      "name": "New Year Fest 2024",
+      "description": "New Year Fest 2024 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/New%20Year%20Fest%202024.png",
+      "script": "/Effects/Emote/New%20Year%20Fest%202024.zip"
+    },
+    {
+      "id": "next",
+      "name": "NEXT",
+      "description": "Use NEXT to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/NEXT.png",
+      "script": "/Effects/Emote/NEXT!.zip"
+    },
+    {
+      "id": "nice-job",
+      "name": "Nice Job",
+      "description": "Nice Job delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Nice%20Job.png",
+      "script": "/Effects/Emote/Nice%20Job!.zip"
+    },
+    {
+      "id": "nice-one",
+      "name": "Nice One",
+      "description": "Share the mood with Nice One, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Nice%20One.png",
+      "script": "/Effects/Emote/Nice%20One.zip"
+    },
+    {
+      "id": "nice-throw-mate",
+      "name": "Nice throw mate",
+      "description": "Nice throw mate brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Nice%20throw%20mate.png",
+      "script": "/Effects/Emote/Nice%20throw%20mate!.zip"
+    },
+    {
+      "id": "no-no",
+      "name": "No  No",
+      "description": "Show off No  No as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/No%20%20No.png",
+      "script": "/Effects/Emote/No%20~%20No%20~~.zip"
+    },
+    {
+      "id": "no-way",
+      "name": "No Way",
+      "description": "No Way adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/No%20Way.png",
+      "script": "/Effects/Emote/No%20Way.zip"
+    },
+    {
+      "id": "no-worries",
+      "name": "No Worries",
+      "description": "Use No Worries to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/No%20Worries.png",
+      "script": "/Effects/Emote/No%20Worries.zip"
+    },
+    {
+      "id": "no-no-2",
+      "name": "No-No",
+      "description": "No-No delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/No-No.png",
+      "script": "/Effects/Emote/No-No.zip"
+    },
+    {
+      "id": "not-even-close",
+      "name": "Not Even Close",
+      "description": "Share the mood with Not Even Close, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Not%20Even%20Close.png",
+      "script": "/Effects/Emote/Not%20Even%20Close.zip"
+    },
+    {
+      "id": "not-good-enough",
+      "name": "Not good enough",
+      "description": "Not good enough brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Not%20good%20enough.png",
+      "script": "/Effects/Emote/Not%20good%20enough.zip"
+    },
+    {
+      "id": "nothing-happened",
+      "name": "Nothing Happened",
+      "description": "Show off Nothing Happened as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Nothing%20Happened.png",
+      "script": "/Effects/Emote/Nothing%20Happened.zip"
+    },
+    {
+      "id": "nxpe-ph2021",
+      "name": "NXPE-PH2021",
+      "description": "NXPE-PH2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/NXPE-PH2021.png",
+      "script": "/Effects/Emote/NXPE-PH%402021.zip"
+    },
+    {
+      "id": "nxpe-ph2022",
+      "name": "NXPE-PH2022",
+      "description": "NXPE-PH2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/NXPE-PH2022.png",
+      "script": "/Effects/Emote/NXPE-PH%402022.zip"
+    },
+    {
+      "id": "off-we-go",
+      "name": "Off We Go",
+      "description": "Off We Go delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Off%20We%20Go.png",
+      "script": "/Effects/Emote/Off%20We%20Go!.zip"
+    },
+    {
+      "id": "oh-my-midas-touch",
+      "name": "Oh My Midas Touch",
+      "description": "Share the mood with Oh My Midas Touch, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Oh%20My%20Midas%20Touch.png",
+      "script": "/Effects/Emote/Oh%2C%20My%20Midas%20Touch.zip"
+    },
+    {
+      "id": "oh-really",
+      "name": "Oh Really",
+      "description": "Oh Really brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Oh%20Really.png",
+      "script": "/Effects/Emote/Oh%20Really.zip"
+    },
+    {
+      "id": "ok-ke-tu",
+      "name": "Ok ke tu",
+      "description": "Show off Ok ke tu as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Ok%20ke%20tu.png",
+      "script": "/Effects/Emote/Ok%20ke%20tu.zip"
+    },
+    {
+      "id": "omg-ph2022",
+      "name": "OMG-PH2022",
+      "description": "OMG-PH2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/OMG-PH2022.png",
+      "script": "/Effects/Emote/OMG-PH%402022.zip"
+    },
+    {
+      "id": "on-the-other-side-of-the-sea",
+      "name": "On the other side of the sea",
+      "description": "Use On the other side of the sea to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/On%20the%20other%20side%20of%20the%20sea.png",
+      "script": "/Effects/Emote/On%20the%20other%20side%20of%20the%20sea.zip"
+    },
+    {
+      "id": "one-strike",
+      "name": "One Strike",
+      "description": "One Strike delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/One%20Strike.png",
+      "script": "/Effects/Emote/One%20Strike!.zip"
+    },
+    {
+      "id": "onic-esports",
+      "name": "ONIC ESPORTS",
+      "description": "ONIC ESPORTS is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/ONIC%20ESPORTS.png",
+      "script": "/Effects/Emote/ONIC%20ESPORTS.zip"
+    },
+    {
+      "id": "onic-phm3",
+      "name": "ONIC PHM3",
+      "description": "ONIC PHM3 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/ONIC%20PHM3.png",
+      "script": "/Effects/Emote/ONIC%20PH%40M3.zip"
+    },
+    {
+      "id": "onic-id2021",
+      "name": "ONIC-ID2021",
+      "description": "ONIC-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/ONIC-ID2021.png",
+      "script": "/Effects/Emote/ONIC-ID%402021.zip"
+    },
+    {
+      "id": "onic-id2022",
+      "name": "ONIC-ID2022",
+      "description": "ONIC-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/ONIC-ID2022.png",
+      "script": "/Effects/Emote/ONIC-ID%402022.zip"
+    },
+    {
+      "id": "onic-ph2021",
+      "name": "Onic-PH2021",
+      "description": "Onic-PH2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/Onic-PH2021.png",
+      "script": "/Effects/Emote/Onic-PH%402021.zip"
+    },
+    {
+      "id": "onic-ph2022",
+      "name": "ONIC-PH2022",
+      "description": "ONIC-PH2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/ONIC-PH2022.png",
+      "script": "/Effects/Emote/ONIC-PH%402022.zip"
+    },
+    {
+      "id": "onic-antimage",
+      "name": "Onic.Antimage",
+      "description": "Share the mood with Onic.Antimage, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Onic.Antimage.png",
+      "script": "/Effects/Emote/Onic.Antimage.zip"
+    },
+    {
+      "id": "onic-psychoo",
+      "name": "Onic.Psychoo",
+      "description": "Onic.Psychoo brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Onic.Psychoo.png",
+      "script": "/Effects/Emote/Onic.Psychoo.zip"
+    },
+    {
+      "id": "onic-sasa",
+      "name": "Onic.Sasa",
+      "description": "Show off Onic.Sasa as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Onic.Sasa.png",
+      "script": "/Effects/Emote/Onic.Sasa.zip"
+    },
+    {
+      "id": "onic-udil",
+      "name": "Onic.Udil",
+      "description": "Onic.Udil adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Onic.Udil.png",
+      "script": "/Effects/Emote/Onic.Udil.zip"
+    },
+    {
+      "id": "onicm3",
+      "name": "ONICM3",
+      "description": "Use ONICM3 to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/ONICM3.png",
+      "script": "/Effects/Emote/ONIC%40M3.zip"
+    },
+    {
+      "id": "onlooker",
+      "name": "Onlooker",
+      "description": "Onlooker delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Onlooker.png",
+      "script": "/Effects/Emote/Onlooker.zip"
+    },
+    {
+      "id": "oops",
+      "name": "Oops",
+      "description": "Oops captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Oops.png",
+      "script": "/Effects/Emote/Oops.zip"
+    },
+    {
+      "id": "ouch",
+      "name": "Ouch",
+      "description": "Ouch brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Ouch.png",
+      "script": "/Effects/Emote/Ouch!.zip"
+    },
+    {
+      "id": "our-song",
+      "name": "Our Song",
+      "description": "Our Song adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Our%20Song.png",
+      "script": "/Effects/Emote/Our%20Song.zip"
+    },
+    {
+      "id": "oura-mantap-lekku",
+      "name": "Oura Mantap Lekku",
+      "description": "Oura Mantap Lekku adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Oura%20Mantap%20Lekku.png",
+      "script": "/Effects/Emote/Oura%20Mantap%20Lekku!.zip"
+    },
+    {
+      "id": "p",
+      "name": "P",
+      "description": "Use P to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/P.png",
+      "script": "/Effects/Emote/P.zip"
+    },
+    {
+      "id": "pami",
+      "name": "Pami",
+      "description": "Pami delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Pami.png",
+      "script": "/Effects/Emote/Pami.zip"
+    },
+    {
+      "id": "panigale-v4s-rider",
+      "name": "Panigale V4S Rider",
+      "description": "Share the mood with Panigale V4S Rider, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Panigale%20V4S%20Rider.png",
+      "script": "/Effects/Emote/Panigale%20V4S%20Rider.zip"
+    },
+    {
+      "id": "pantang-mundur",
+      "name": "Pantang Mundur",
+      "description": "Pantang Mundur brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Pantang%20Mundur.png",
+      "script": "/Effects/Emote/Pantang%20Mundur.zip"
+    },
+    {
+      "id": "paranoid",
+      "name": "Paranoid",
+      "description": "Paranoid captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Paranoid.png",
+      "script": "/Effects/Emote/Paranoid.zip"
+    },
+    {
+      "id": "past-nightmare",
+      "name": "Past Nightmare",
+      "description": "Past Nightmare adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Past%20Nightmare.png",
+      "script": "/Effects/Emote/Past%20Nightmare.zip"
+    },
+    {
+      "id": "peak-of-life",
+      "name": "Peak of Life",
+      "description": "Use Peak of Life to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Peak%20of%20Life.png",
+      "script": "/Effects/Emote/Peak%20of%20Life.zip"
+    },
+    {
+      "id": "pegasus-meteor-fist",
+      "name": "Pegasus Meteor Fist",
+      "description": "Pegasus Meteor Fist delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Pegasus%20Meteor%20Fist.png",
+      "script": "/Effects/Emote/Pegasus%20Meteor%20Fist.zip"
+    },
+    {
+      "id": "penalize",
+      "name": "Penalize",
+      "description": "Share the mood with Penalize, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Penalize.png",
+      "script": "/Effects/Emote/Penalize.zip"
+    },
+    {
+      "id": "phoenix-illusion-demon-fist",
+      "name": "Phoenix Illusion Demon Fist",
+      "description": "Phoenix Illusion Demon Fist delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Phoenix%20Illusion%20Demon%20Fist.png",
+      "script": "/Effects/Emote/Phoenix%20Illusion%20Demon%20Fist.zip"
+    },
+    {
+      "id": "piece-of-cake",
+      "name": "Piece of cake",
+      "description": "Show off Piece of cake as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Piece%20of%20cake.png",
+      "script": "/Effects/Emote/Piece%20of%20cake!.zip"
+    },
+    {
+      "id": "piece-of-cake-2",
+      "name": "Piece of cake (2)",
+      "description": "Piece of cake (2) adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Piece%20of%20cake%20(2).png",
+      "script": "/Effects/Emote/Piece%20of%20cake!%20(2).zip"
+    },
+    {
+      "id": "pinastar",
+      "name": "PinAStar",
+      "description": "Use PinAStar to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/PinAStar.png",
+      "script": "/Effects/Emote/PinAStar.zip"
+    },
+    {
+      "id": "pleasant-surprise",
+      "name": "Pleasant Surprise",
+      "description": "Pleasant Surprise captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Pleasant%20Surprise.png",
+      "script": "/Effects/Emote/Pleasant%20Surprise.zip"
+    },
+    {
+      "id": "power",
+      "name": "Power",
+      "description": "Share the mood with Power, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Power.png",
+      "script": "/Effects/Emote/Power!.zip"
+    },
+    {
+      "id": "power-geyser",
+      "name": "Power Geyser",
+      "description": "Power Geyser brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Power%20Geyser.png",
+      "script": "/Effects/Emote/Power%20Geyser!.zip"
+    },
+    {
+      "id": "pretty-good-huh",
+      "name": "Pretty Good Huh",
+      "description": "Show off Pretty Good Huh as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Pretty%20Good%20Huh.png",
+      "script": "/Effects/Emote/Pretty%20Good%2C%20Huh.zip"
+    },
+    {
+      "id": "pretty-please",
+      "name": "Pretty Please",
+      "description": "Pretty Please adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Pretty%20Please.png",
+      "script": "/Effects/Emote/Pretty%20Please.zip"
+    },
+    {
+      "id": "princess-has-arrived",
+      "name": "Princess has arrived",
+      "description": "Use Princess has arrived to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Princess%20has%20arrived.png",
+      "script": "/Effects/Emote/Princess%20has%20arrived.zip"
+    },
+    {
+      "id": "pumping-iron",
+      "name": "Pumping Iron",
+      "description": "Pumping Iron delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Pumping%20Iron.png",
+      "script": "/Effects/Emote/Pumping%20Iron.zip"
+    },
+    {
+      "id": "punch-down",
+      "name": "Punch down",
+      "description": "Punch down delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Punch%20down.png",
+      "script": "/Effects/Emote/Punch%20down!.zip"
+    },
+    {
+      "id": "ramadan-generosity",
+      "name": "Ramadan Generosity",
+      "description": "Ramadan Generosity adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Ramadan%20Generosity.png",
+      "script": "/Effects/Emote/Ramadan%20Generosity.zip"
+    },
+    {
+      "id": "rank-up",
+      "name": "Rank Up",
+      "description": "Rank Up is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Rank%20Up.png",
+      "script": "/Effects/Emote/Rank%20Up!.zip"
+    },
+    {
+      "id": "ravage-eject",
+      "name": "Ravage Eject",
+      "description": "Ravage Eject adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Ravage%20Eject.png",
+      "script": "/Effects/Emote/Ravage%20Eject!.zip"
+    },
+    {
+      "id": "rbg-id2021",
+      "name": "RBG-ID2021",
+      "description": "RBG-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/RBG-ID2021.png",
+      "script": "/Effects/Emote/RBG-ID%402021.zip"
+    },
+    {
+      "id": "rbl-id2022",
+      "name": "RBL-ID2022",
+      "description": "RBL-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/RBL-ID2022.png",
+      "script": "/Effects/Emote/RBL-ID%402022.zip"
+    },
+    {
+      "id": "ready-for-the-explosion",
+      "name": "Ready for the explosion",
+      "description": "Share the mood with Ready for the explosion, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Ready%20for%20the%20explosion.png",
+      "script": "/Effects/Emote/Ready%20for%20the%20explosion!.zip"
+    },
+    {
+      "id": "ready-fire",
+      "name": "Ready... Fire",
+      "description": "Ready... Fire brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Ready...%20Fire.png",
+      "script": "/Effects/Emote/Ready...%20Fire!.zip"
+    },
+    {
+      "id": "really-like-it",
+      "name": "Really Like It",
+      "description": "Show off Really Like It as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Really%20Like%20It.png",
+      "script": "/Effects/Emote/Really%20Like%20It.zip"
+    },
+    {
+      "id": "realmeow-m7",
+      "name": "realmeow M7",
+      "description": "realmeow M7 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/realmeow%20M7.png",
+      "script": "/Effects/Emote/realmeow%20M7.zip"
+    },
+    {
+      "id": "recruitment-elite",
+      "name": "Recruitment Elite",
+      "description": "Use Recruitment Elite to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Recruitment%20Elite.png",
+      "script": "/Effects/Emote/Recruitment%20Elite.zip"
+    },
+    {
+      "id": "red-card",
+      "name": "Red Card",
+      "description": "Red Card delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Red%20Card.png",
+      "script": "/Effects/Emote/Red%20Card!.zip"
+    },
+    {
+      "id": "redm3",
+      "name": "REDM3",
+      "description": "Share the mood with REDM3, an animated emote made for battle.",
+      "image": "/Effects/Emotes/REDM3.png",
+      "script": "/Effects/Emote/RED%40M3.zip"
+    },
+    {
+      "id": "reluctant",
+      "name": "Reluctant",
+      "description": "Reluctant captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Reluctant.png",
+      "script": "/Effects/Emote/Reluctant.zip"
+    },
+    {
+      "id": "reserved-string",
+      "name": "Reserved String",
+      "description": "Show off Reserved String as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Reserved%20String.png",
+      "script": "/Effects/Emote/Reserved%20String.zip"
+    },
+    {
+      "id": "reverse-all",
+      "name": "Reverse All",
+      "description": "Reverse All adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Reverse%20All.png",
+      "script": "/Effects/Emote/Reverse%20All!.zip"
+    },
+    {
+      "id": "righteous-retribution",
+      "name": "Righteous Retribution",
+      "description": "Righteous Retribution delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Righteous%20Retribution.png",
+      "script": "/Effects/Emote/Righteous%20Retribution!.zip"
+    },
+    {
+      "id": "rik-rey-bon-om-touk-2025",
+      "name": "Rik Rey Bon Om Touk 2025",
+      "description": "Rik Rey Bon Om Touk 2025 delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Rik%20Rey%20Bon%20Om%20Touk%202025.png",
+      "script": "/Effects/Emote/Rik%20Rey%20Bon%20Om%20Touk%202025.zip"
+    },
+    {
+      "id": "roger-that",
+      "name": "Roger That",
+      "description": "Share the mood with Roger That, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Roger%20That.png",
+      "script": "/Effects/Emote/Roger%20That!.zip"
+    },
+    {
+      "id": "rolling-in-gold",
+      "name": "Rolling in Gold",
+      "description": "Rolling in Gold brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Rolling%20in%20Gold.png",
+      "script": "/Effects/Emote/Rolling%20in%20Gold.zip"
+    },
+    {
+      "id": "rora-ph2025",
+      "name": "RORA-PH2025",
+      "description": "RORA-PH2025 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/RORA-PH2025.png",
+      "script": "/Effects/Emote/RORA-PH%402025.zip"
+    },
+    {
+      "id": "rozan-sh-ry-ha",
+      "name": "Rozan Sh Ry Ha",
+      "description": "Rozan Sh Ry Ha adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Rozan%20Sh%20Ry%20Ha.png",
+      "script": "/Effects/Emote/Rozan%20Sh%C5%8D%20Ry%C5%AB%20Ha.zip"
+    },
+    {
+      "id": "rrq-hoshi",
+      "name": "RRQ Hoshi",
+      "description": "RRQ Hoshi is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/RRQ%20Hoshi.png",
+      "script": "/Effects/Emote/RRQ%20Hoshi.zip"
+    },
+    {
+      "id": "rrq-id2021",
+      "name": "RRQ-ID2021",
+      "description": "RRQ-ID2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/RRQ-ID2021.png",
+      "script": "/Effects/Emote/RRQ-ID%402021.zip"
+    },
+    {
+      "id": "rrq-id2022",
+      "name": "RRQ-ID2022",
+      "description": "RRQ-ID2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/RRQ-ID2022.png",
+      "script": "/Effects/Emote/RRQ-ID%402022.zip"
+    },
+    {
+      "id": "rrq-lemon",
+      "name": "RRQ.Lemon",
+      "description": "RRQ.Lemon brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/RRQ.Lemon.png",
+      "script": "/Effects/Emote/RRQ.Lemon.zip"
+    },
+    {
+      "id": "rrq-lemon-2",
+      "name": "RRQ.Lemon 2",
+      "description": "Show off RRQ.Lemon 2 as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/RRQ.Lemon%202.png",
+      "script": "/Effects/Emote/RRQ.Lemon%202.zip"
+    },
+    {
+      "id": "rrqm3",
+      "name": "RRQM3",
+      "description": "RRQM3 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/RRQM3.png",
+      "script": "/Effects/Emote/RRQ%40M3.zip"
+    },
+    {
+      "id": "rsg-ph2021",
+      "name": "RSG-PH2021",
+      "description": "RSG-PH2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/RSG-PH2021.png",
+      "script": "/Effects/Emote/RSG-PH%402021.zip"
+    },
+    {
+      "id": "rsgm3",
+      "name": "RSGM3",
+      "description": "RSGM3 delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/RSGM3.png",
+      "script": "/Effects/Emote/RSG%40M3.zip"
+    },
+    {
+      "id": "s8ul-mortal-stop-me-if-you-can",
+      "name": "S8UL MortaL - Stop me if you can",
+      "description": "Share the mood with S8UL MortaL - Stop me if you can, an animated emote made for battle.",
+      "image": "/Effects/Emotes/S8UL%20MortaL%20-%20Stop%20me%20if%20you%20can.png",
+      "script": "/Effects/Emote/S8UL%20MortaL%20-%20Stop%20me%20if%20you%20can.zip"
+    },
+    {
+      "id": "sahur-sahur",
+      "name": "Sahur sahur",
+      "description": "Sahur sahur brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Sahur%20sahur.png",
+      "script": "/Effects/Emote/Sahur%2C%20sahur!.zip"
+    },
+    {
+      "id": "sanction-whip",
+      "name": "Sanction Whip",
+      "description": "Show off Sanction Whip as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Sanction%20Whip.png",
+      "script": "/Effects/Emote/Sanction%20Whip.zip"
+    },
+    {
+      "id": "sassy-selena",
+      "name": "Sassy Selena",
+      "description": "Sassy Selena adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Sassy%20Selena.png",
+      "script": "/Effects/Emote/Sassy%20Selena.zip"
+    },
+    {
+      "id": "satria-bangkit",
+      "name": "Satria Bangkit",
+      "description": "Use Satria Bangkit to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Satria%20Bangkit.png",
+      "script": "/Effects/Emote/Satria%2C%20Bangkit!.zip"
+    },
+    {
+      "id": "say-cheese",
+      "name": "Say Cheese",
+      "description": "Say Cheese delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Say%20Cheese.png",
+      "script": "/Effects/Emote/Say%20Cheese!.zip"
+    },
+    {
+      "id": "scarlet-kiss",
+      "name": "Scarlet Kiss",
+      "description": "Share the mood with Scarlet Kiss, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Scarlet%20Kiss.png",
+      "script": "/Effects/Emote/Scarlet%20Kiss.zip"
+    },
+    {
+      "id": "search-for-enemy",
+      "name": "Search for Enemy",
+      "description": "Search for Enemy brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Search%20for%20Enemy.png",
+      "script": "/Effects/Emote/Search%20for%20Enemy.zip"
+    },
+    {
+      "id": "sedia",
+      "name": "Sedia",
+      "description": "Show off Sedia as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Sedia.png",
+      "script": "/Effects/Emote/Sedia!.zip"
+    },
+    {
+      "id": "see-through",
+      "name": "See Through",
+      "description": "See Through adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/See%20Through.png",
+      "script": "/Effects/Emote/See%20Through.zip"
+    },
+    {
+      "id": "see-you",
+      "name": "See You",
+      "description": "Use See You to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/See%20You.png",
+      "script": "/Effects/Emote/See%20You.zip"
+    },
+    {
+      "id": "seriously",
+      "name": "Seriously",
+      "description": "Seriously delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Seriously.png",
+      "script": "/Effects/Emote/Seriously!.zip"
+    },
+    {
+      "id": "seriously-2",
+      "name": "Seriously (2)",
+      "description": "Share the mood with Seriously (2), an animated emote made for battle.",
+      "image": "/Effects/Emotes/Seriously%20(2).png",
+      "script": "/Effects/Emote/Seriously.zip"
+    },
+    {
+      "id": "set1awanade-hahaha",
+      "name": "Set1awanade HAHAHA",
+      "description": "Set1awanade HAHAHA captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Set1awanade%20HAHAHA.png",
+      "script": "/Effects/Emote/Set1awanade%20HAHAHA!.zip"
+    },
+    {
+      "id": "share-the-love",
+      "name": "Share the Love",
+      "description": "Show off Share the Love as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Share%20the%20Love.png",
+      "script": "/Effects/Emote/Share%20the%20Love.zip"
+    },
+    {
+      "id": "shh",
+      "name": "Shh",
+      "description": "Shh captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Shh.png",
+      "script": "/Effects/Emote/Shh.zip"
+    },
+    {
+      "id": "shhh",
+      "name": "Shhh...",
+      "description": "Shhh... captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Shhh....png",
+      "script": "/Effects/Emote/Shhh.zip"
+    },
+    {
+      "id": "shhh-2",
+      "name": "Shhh... (2)",
+      "description": "Shhh... (2) captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Shhh...%20(2).png",
+      "script": "/Effects/Emote/Shhh%20(2).zip"
+    },
+    {
+      "id": "shifting-magician",
+      "name": "Shifting Magician",
+      "description": "Share the mood with Shifting Magician, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Shifting%20Magician.png",
+      "script": "/Effects/Emote/Shifting%20Magician.zip"
+    },
+    {
+      "id": "shiny-harper",
+      "name": "Shiny Harper",
+      "description": "Shiny Harper brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Shiny%20Harper.png",
+      "script": "/Effects/Emote/Shiny%20Harper.zip"
+    },
+    {
+      "id": "shoo",
+      "name": "Shoo",
+      "description": "Show off Shoo as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Shoo.png",
+      "script": "/Effects/Emote/Shoo.zip"
+    },
+    {
+      "id": "shoot",
+      "name": "Shoot",
+      "description": "Shoot delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Shoot.png",
+      "script": "/Effects/Emote/Shoot.zip"
+    },
+    {
+      "id": "signature-move",
+      "name": "Signature Move",
+      "description": "Use Signature Move to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Signature%20Move.png",
+      "script": "/Effects/Emote/Signature%20Move.zip"
+    },
+    {
+      "id": "silence",
+      "name": "Silence",
+      "description": "Silence delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Silence.png",
+      "script": "/Effects/Emote/Silence.zip"
+    },
+    {
+      "id": "sky-wee",
+      "name": "Sky Wee",
+      "description": "Share the mood with Sky Wee, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Sky%20Wee.png",
+      "script": "/Effects/Emote/Sky%20Wee.zip"
+    },
+    {
+      "id": "slacking-off",
+      "name": "Slacking Off",
+      "description": "Slacking Off brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Slacking%20Off.png",
+      "script": "/Effects/Emote/Slacking%20Off.zip"
+    },
+    {
+      "id": "sleep-tight",
+      "name": "Sleep Tight",
+      "description": "Show off Sleep Tight as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Sleep%20Tight.png",
+      "script": "/Effects/Emote/Sleep%20Tight.zip"
+    },
+    {
+      "id": "smgm3",
+      "name": "SMGM3",
+      "description": "SMGM3 adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/SMGM3.png",
+      "script": "/Effects/Emote/SMG%40M3.zip"
+    },
+    {
+      "id": "smile-killer",
+      "name": "Smile Killer",
+      "description": "Smile Killer captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Smile%20Killer.png",
+      "script": "/Effects/Emote/Smile%20Killer.zip"
+    },
+    {
+      "id": "so-annoying",
+      "name": "So Annoying",
+      "description": "So Annoying captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/So%20Annoying.png",
+      "script": "/Effects/Emote/So%20Annoying!.zip"
+    },
+    {
+      "id": "so-much-for-you",
+      "name": "So much for you",
+      "description": "Share the mood with So much for you, an animated emote made for battle.",
+      "image": "/Effects/Emotes/So%20much%20for%20you.png",
+      "script": "/Effects/Emote/So%20much%20for%20you.zip"
+    },
+    {
+      "id": "so-scared",
+      "name": "So Scared",
+      "description": "So Scared captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/So%20Scared.png",
+      "script": "/Effects/Emote/So%20Scared!.zip"
+    },
+    {
+      "id": "soaring-auspice",
+      "name": "Soaring Auspice",
+      "description": "Show off Soaring Auspice as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Soaring%20Auspice.png",
+      "script": "/Effects/Emote/Soaring%20Auspice.zip"
+    },
+    {
+      "id": "soloz",
+      "name": "Soloz",
+      "description": "Soloz adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Soloz.png",
+      "script": "/Effects/Emote/Soloz.zip"
+    },
+    {
+      "id": "soonm3",
+      "name": "SOONM3",
+      "description": "Use SOONM3 to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/SOONM3.png",
+      "script": "/Effects/Emote/SOON%40M3.zip"
+    },
+    {
+      "id": "special-agent",
+      "name": "Special Agent",
+      "description": "Special Agent delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Special%20Agent.png",
+      "script": "/Effects/Emote/Special%20Agent.zip"
+    },
+    {
+      "id": "speechless",
+      "name": "Speechless",
+      "description": "Speechless captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Speechless.png",
+      "script": "/Effects/Emote/Speechless.zip"
+    },
+    {
+      "id": "spiral-strangling",
+      "name": "Spiral Strangling",
+      "description": "Spiral Strangling brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Spiral%20Strangling.png",
+      "script": "/Effects/Emote/Spiral%20Strangling.zip"
+    },
+    {
+      "id": "spotless",
+      "name": "Spotless",
+      "description": "Spotless is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Spotless.png",
+      "script": "/Effects/Emote/Spotless.zip"
+    },
+    {
+      "id": "stare",
+      "name": "Stare",
+      "description": "Stare adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Stare.png",
+      "script": "/Effects/Emote/Stare.zip"
+    },
+    {
+      "id": "startled",
+      "name": "Startled",
+      "description": "Startled captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Startled.png",
+      "script": "/Effects/Emote/Startled.zip"
+    },
+    {
+      "id": "still-standing",
+      "name": "Still Standing",
+      "description": "Still Standing delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Still%20Standing.png",
+      "script": "/Effects/Emote/Still%20Standing.zip"
+    },
+    {
+      "id": "storm-is-coming",
+      "name": "Storm Is Coming",
+      "description": "Share the mood with Storm Is Coming, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Storm%20Is%20Coming.png",
+      "script": "/Effects/Emote/Storm%20Is%20Coming.zip"
+    },
+    {
+      "id": "strike",
+      "name": "Strike",
+      "description": "Strike delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Strike.png",
+      "script": "/Effects/Emote/Strike!.zip"
+    },
+    {
+      "id": "support-cheer",
+      "name": "Support Cheer",
+      "description": "Show off Support Cheer as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Support%20Cheer.png",
+      "script": "/Effects/Emote/Support%20Cheer.zip"
+    },
+    {
+      "id": "surprise",
+      "name": "Surprise",
+      "description": "Surprise captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Surprise.png",
+      "script": "/Effects/Emote/Surprise!.zip"
+    },
+    {
+      "id": "surprise-2",
+      "name": "Surprise (2)",
+      "description": "Surprise (2) captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Surprise%20(2).png",
+      "script": "/Effects/Emote/Surprise!%20(2).zip"
+    },
+    {
+      "id": "surprised-shot",
+      "name": "Surprised Shot",
+      "description": "Surprised Shot captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Surprised%20Shot.png",
+      "script": "/Effects/Emote/Surprised%20Shot.zip"
+    },
+    {
+      "id": "sweet-bear",
+      "name": "Sweet Bear",
+      "description": "Share the mood with Sweet Bear, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Sweet%20Bear.png",
+      "script": "/Effects/Emote/Sweet%20Bear.zip"
+    },
+    {
+      "id": "sweet-smile",
+      "name": "Sweet Smile",
+      "description": "Sweet Smile captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Sweet%20Smile.png",
+      "script": "/Effects/Emote/Sweet%20Smile.zip"
+    },
+    {
+      "id": "sweet-summer",
+      "name": "Sweet Summer",
+      "description": "Sweet Summer adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Sweet%20Summer.png",
+      "script": "/Effects/Emote/Sweet%20Summer.zip"
+    },
+    {
+      "id": "tai-coon",
+      "name": "Tai-coon",
+      "description": "Tai-coon adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Tai-coon.png",
+      "script": "/Effects/Emote/Tai-coon.zip"
+    },
+    {
+      "id": "take-aim",
+      "name": "Take Aim",
+      "description": "Use Take Aim to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Take%20Aim.png",
+      "script": "/Effects/Emote/Take%20Aim.zip"
+    },
+    {
+      "id": "take-the-hook",
+      "name": "Take the Hook",
+      "description": "Take the Hook delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Take%20the%20Hook.png",
+      "script": "/Effects/Emote/Take%20the%20Hook.zip"
+    },
+    {
+      "id": "take-this",
+      "name": "Take this",
+      "description": "Share the mood with Take this, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Take%20this.png",
+      "script": "/Effects/Emote/Take%20this!.zip"
+    },
+    {
+      "id": "tch",
+      "name": "Tch.",
+      "description": "Tch. brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Tch..png",
+      "script": "/Effects/Emote/Tch.zip"
+    },
+    {
+      "id": "tdkm3",
+      "name": "TdkM3",
+      "description": "Show off TdkM3 as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/TdkM3.png",
+      "script": "/Effects/Emote/Tdk%40M3.zip"
+    },
+    {
+      "id": "tea-time",
+      "name": "Tea Time",
+      "description": "Tea Time adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Tea%20Time.png",
+      "script": "/Effects/Emote/Tea%20Time.zip"
+    },
+    {
+      "id": "thank-you-for-wrapping-this-scarf-around-me",
+      "name": "Thank you for wrapping this scarf around me",
+      "description": "Use Thank you for wrapping this scarf around me to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Thank%20you%20for%20wrapping%20this%20scarf%20around%20me.png",
+      "script": "/Effects/Emote/Thank%20you%20for%20wrapping%20this%20scarf%20around%20me.zip"
+    },
+    {
+      "id": "the-great-harper",
+      "name": "The Great Harper",
+      "description": "The Great Harper is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/The%20Great%20Harper.png",
+      "script": "/Effects/Emote/The%20Great%20Harper.zip"
+    },
+    {
+      "id": "the-king-of-victory",
+      "name": "The King of Victory",
+      "description": "The King of Victory is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/The%20King%20of%20Victory.png",
+      "script": "/Effects/Emote/The%20King%20of%20Victory.zip"
+    },
+    {
+      "id": "the-mod-protects-you",
+      "name": "The Mod Protects You",
+      "description": "The Mod Protects You brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/The%20Mod%20Protects%20You.png",
+      "script": "/Effects/Emote/The%20Mod%20Protects%20You!.zip"
+    },
+    {
+      "id": "the-rolling-thunder",
+      "name": "The Rolling Thunder",
+      "description": "Show off The Rolling Thunder as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/The%20Rolling%20Thunder.png",
+      "script": "/Effects/Emote/The%20Rolling%20Thunder.zip"
+    },
+    {
+      "id": "the-throne-is-mine",
+      "name": "The Throne Is Mine",
+      "description": "The Throne Is Mine adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/The%20Throne%20Is%20Mine.png",
+      "script": "/Effects/Emote/The%20Throne%20Is%20Mine.zip"
+    },
+    {
+      "id": "there-is-nothing-left",
+      "name": "There Is Nothing Left",
+      "description": "Use There Is Nothing Left to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/There%20Is%20Nothing%20Left.png",
+      "script": "/Effects/Emote/There%20Is%20Nothing%20Left.zip"
+    },
+    {
+      "id": "these-are-good-eyes",
+      "name": "These Are Good Eyes",
+      "description": "These Are Good Eyes delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/These%20Are%20Good%20Eyes.png",
+      "script": "/Effects/Emote/These%20Are%20Good%20Eyes.zip"
+    },
+    {
+      "id": "this-is-bad",
+      "name": "This is bad",
+      "description": "Share the mood with This is bad, an animated emote made for battle.",
+      "image": "/Effects/Emotes/This%20is%20bad.png",
+      "script": "/Effects/Emote/This%20is%20bad.zip"
+    },
+    {
+      "id": "this-is-malaysia",
+      "name": "This Is Malaysia",
+      "description": "This Is Malaysia brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/This%20Is%20Malaysia.png",
+      "script": "/Effects/Emote/This%20Is%20Malaysia!.zip"
+    },
+    {
+      "id": "time-out",
+      "name": "Time-out",
+      "description": "Show off Time-out as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Time-out.png",
+      "script": "/Effects/Emote/Time-out.zip"
+    },
+    {
+      "id": "tlid-id2025",
+      "name": "TLID-ID2025",
+      "description": "TLID-ID2025 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/TLID-ID2025.png",
+      "script": "/Effects/Emote/TLID-ID%402025.zip"
+    },
+    {
+      "id": "tlph-ph2025",
+      "name": "TLPH-PH2025",
+      "description": "TLPH-PH2025 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/TLPH-PH2025.png",
+      "script": "/Effects/Emote/TLPH-PH%402025.zip"
+    },
+    {
+      "id": "tnc-ph2021",
+      "name": "TNC-PH2021",
+      "description": "TNC-PH2021 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/TNC-PH2021.png",
+      "script": "/Effects/Emote/TNC-PH%402021.zip"
+    },
+    {
+      "id": "tnc-ph2022",
+      "name": "TNC-PH2022",
+      "description": "TNC-PH2022 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/TNC-PH2022.png",
+      "script": "/Effects/Emote/TNC-PH%402022.zip"
+    },
+    {
+      "id": "togetherness",
+      "name": "Togetherness",
+      "description": "Togetherness adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Togetherness.png",
+      "script": "/Effects/Emote/Togetherness.zip"
+    },
+    {
+      "id": "tolong-aku-wei",
+      "name": "Tolong Aku Wei",
+      "description": "Show off Tolong Aku Wei as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Tolong%20Aku%20Wei.png",
+      "script": "/Effects/Emote/Tolong%20Aku%20Wei!.zip"
+    },
+    {
+      "id": "trendy-angel",
+      "name": "Trendy Angel",
+      "description": "Trendy Angel adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Trendy%20Angel.png",
+      "script": "/Effects/Emote/Trendy%20Angel.zip"
+    },
+    {
+      "id": "trendy-angel-2",
+      "name": "Trendy Angel (2)",
+      "description": "Use Trendy Angel (2) to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Trendy%20Angel%20(2).png",
+      "script": "/Effects/Emote/Trendy%20Angel%20(2).zip"
+    },
+    {
+      "id": "trickster",
+      "name": "Trickster",
+      "description": "Trickster delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Trickster.png",
+      "script": "/Effects/Emote/Trickster.zip"
+    },
+    {
+      "id": "troubled",
+      "name": "Troubled",
+      "description": "Troubled captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Troubled.png",
+      "script": "/Effects/Emote/Troubled.zip"
+    },
+    {
+      "id": "try-again",
+      "name": "Try again",
+      "description": "Try again brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Try%20again.png",
+      "script": "/Effects/Emote/Try%20again~.zip"
+    },
+    {
+      "id": "try-harder",
+      "name": "Try harder",
+      "description": "Show off Try harder as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Try%20harder.png",
+      "script": "/Effects/Emote/Try%20harder!.zip"
+    },
+    {
+      "id": "try-it",
+      "name": "Try It",
+      "description": "Try It adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Try%20It.png",
+      "script": "/Effects/Emote/Try%20It.zip"
+    },
+    {
+      "id": "try-me",
+      "name": "Try me",
+      "description": "Try me delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Try%20me.png",
+      "script": "/Effects/Emote/Try%20me.zip"
+    },
+    {
+      "id": "twis-ph2025",
+      "name": "TWIS-PH2025",
+      "description": "TWIS-PH2025 is a team-themed animated emote for showing support in battle.",
+      "image": "/Effects/Emotes/TWIS-PH2025.png",
+      "script": "/Effects/Emote/TWIS-PH%402025.zip"
+    },
+    {
+      "id": "u-want-candy",
+      "name": "U Want Candy",
+      "description": "Share the mood with U Want Candy, an animated emote made for battle.",
+      "image": "/Effects/Emotes/U%20Want%20Candy.png",
+      "script": "/Effects/Emote/U%20Want%20Candy.zip"
+    },
+    {
+      "id": "ugh",
+      "name": "Ugh",
+      "description": "Ugh brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Ugh.png",
+      "script": "/Effects/Emote/Ugh.zip"
+    },
+    {
+      "id": "uh-oh",
+      "name": "Uh-oh",
+      "description": "Show off Uh-oh as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Uh-oh.png",
+      "script": "/Effects/Emote/Uh-oh.zip"
+    },
+    {
+      "id": "understood",
+      "name": "Understood",
+      "description": "Understood adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Understood.png",
+      "script": "/Effects/Emote/Understood!.zip"
+    },
+    {
+      "id": "unnamed-emote",
+      "name": "Unnamed Emote",
+      "description": "Use Unnamed Emote to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Unnamed%20Emote.png",
+      "script": "/Effects/Emote/Unnamed%20Emote.zip"
+    },
+    {
+      "id": "very-good",
+      "name": "Very Good",
+      "description": "Very Good delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Very%20Good.png",
+      "script": "/Effects/Emote/Very%20Good!.zip"
+    },
+    {
+      "id": "victory-is-mine",
+      "name": "Victory is Mine",
+      "description": "Victory is Mine is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Victory%20is%20Mine.png",
+      "script": "/Effects/Emote/Victory%20is%20Mine.zip"
+    },
+    {
+      "id": "villains-sorrow",
+      "name": "Villains Sorrow",
+      "description": "Villains Sorrow brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/Villains%20Sorrow.png",
+      "script": "/Effects/Emote/Villain's%20Sorrow.zip"
+    },
+    {
+      "id": "watch-this",
+      "name": "Watch this",
+      "description": "Watch this delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Watch%20this.png",
+      "script": "/Effects/Emote/Watch%20this!.zip"
+    },
+    {
+      "id": "we-can-do-this",
+      "name": "We can do this.",
+      "description": "We can do this. adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/We%20can%20do%20this..png",
+      "script": "/Effects/Emote/We%20can%20do%20this.zip"
+    },
+    {
+      "id": "weapon-care",
+      "name": "Weapon Care",
+      "description": "Use Weapon Care to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Weapon%20Care.png",
+      "script": "/Effects/Emote/Weapon%20Care.zip"
+    },
+    {
+      "id": "welcome-to-my-realm",
+      "name": "Welcome to my realm",
+      "description": "Welcome to my realm delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Welcome%20to%20my%20realm.png",
+      "script": "/Effects/Emote/Welcome%20to%20my%20realm!.zip"
+    },
+    {
+      "id": "well-done",
+      "name": "Well done",
+      "description": "Well done is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Well%20done.png",
+      "script": "/Effects/Emote/Well%20done!.zip"
+    },
+    {
+      "id": "well-done-2",
+      "name": "Well done (2)",
+      "description": "Well done (2) is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Well%20done%20(2).png",
+      "script": "/Effects/Emote/Well%20done!%20(2).zip"
+    },
+    {
+      "id": "well-done-3",
+      "name": "Well done (3)",
+      "description": "Well done (3) is a confident animated reaction for victories and standout plays.",
+      "image": "/Effects/Emotes/Well%20done%20(3).png",
+      "script": "/Effects/Emote/Well%20done.zip"
+    },
+    {
+      "id": "well-fought",
+      "name": "Well Fought",
+      "description": "Well Fought adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Well%20Fought.png",
+      "script": "/Effects/Emote/Well%20Fought.zip"
+    },
+    {
+      "id": "were-done",
+      "name": "Were Done.",
+      "description": "Use Were Done. to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Were%20Done..png",
+      "script": "/Effects/Emote/We're%20Done.zip"
+    },
+    {
+      "id": "what",
+      "name": "What",
+      "description": "What delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/What.png",
+      "script": "/Effects/Emote/What!.zip"
+    },
+    {
+      "id": "what-a-beautiful-day",
+      "name": "What a Beautiful Day",
+      "description": "Share the mood with What a Beautiful Day, an animated emote made for battle.",
+      "image": "/Effects/Emotes/What%20a%20Beautiful%20Day.png",
+      "script": "/Effects/Emote/What%20a%20Beautiful%20Day!.zip"
+    },
+    {
+      "id": "what-a-shock",
+      "name": "What a Shock",
+      "description": "What a Shock brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/What%20a%20Shock.png",
+      "script": "/Effects/Emote/What%20a%20Shock.zip"
+    },
+    {
+      "id": "whats-going-on",
+      "name": "Whats Going On",
+      "description": "Show off Whats Going On as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Whats%20Going%20On.png",
+      "script": "/Effects/Emote/What's%20Going%20On.zip"
+    },
+    {
+      "id": "whisper",
+      "name": "Whisper",
+      "description": "Whisper adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Whisper.png",
+      "script": "/Effects/Emote/Whisper.zip"
+    },
+    {
+      "id": "wide-smile",
+      "name": "Wide Smile",
+      "description": "Wide Smile captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Wide%20Smile.png",
+      "script": "/Effects/Emote/Wide%20Smile.zip"
+    },
+    {
+      "id": "will-do",
+      "name": "Will Do",
+      "description": "Will Do delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Will%20Do.png",
+      "script": "/Effects/Emote/Will%20Do!.zip"
+    },
+    {
+      "id": "wish-you-an-abundant-year",
+      "name": "Wish You An Abundant Year",
+      "description": "Wish You An Abundant Year adds a festive animated touch to celebrations and match highlights.",
+      "image": "/Effects/Emotes/Wish%20You%20An%20Abundant%20Year.png",
+      "script": "/Effects/Emote/Wish%20You%20An%20Abundant%20Year!.zip"
+    },
+    {
+      "id": "wishing",
+      "name": "Wishing",
+      "description": "Wishing captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Wishing.png",
+      "script": "/Effects/Emote/Wishing.zip"
+    },
+    {
+      "id": "wizard-magic",
+      "name": "Wizard Magic",
+      "description": "Show off Wizard Magic as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Wizard%20Magic.png",
+      "script": "/Effects/Emote/Wizard%20Magic.zip"
+    },
+    {
+      "id": "woodskiy-ded",
+      "name": "WOODSKIY DED",
+      "description": "WOODSKIY DED adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/WOODSKIY%20DED.png",
+      "script": "/Effects/Emote/WOODSKIY%20DED.zip"
+    },
+    {
+      "id": "wow",
+      "name": "Wow",
+      "description": "Wow captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Wow.png",
+      "script": "/Effects/Emote/Wow!.zip"
+    },
+    {
+      "id": "wow-bida",
+      "name": "Wow Bida",
+      "description": "Wow Bida captures an expressive animated reaction for sharing your mood in battle.",
+      "image": "/Effects/Emotes/Wow%20Bida.png",
+      "script": "/Effects/Emote/Wow%2C%20Bida!.zip"
+    },
+    {
+      "id": "yay",
+      "name": "Yay",
+      "description": "Share the mood with Yay, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Yay.png",
+      "script": "/Effects/Emote/Yay!.zip"
+    },
+    {
+      "id": "ybig",
+      "name": "yBig",
+      "description": "yBig brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/yBig.png",
+      "script": "/Effects/Emote/yBig.zip"
+    },
+    {
+      "id": "yes-sir",
+      "name": "Yes Sir",
+      "description": "Show off Yes Sir as a playful animated reaction during battle.",
+      "image": "/Effects/Emotes/Yes%20Sir.png",
+      "script": "/Effects/Emote/Yes%2C%20Sir!.zip"
+    },
+    {
+      "id": "yo",
+      "name": "Yo",
+      "description": "Yo adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Yo.png",
+      "script": "/Effects/Emote/Yo!.zip"
+    },
+    {
+      "id": "yo-rap-star",
+      "name": "Yo Rap Star",
+      "description": "Use Yo Rap Star to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Yo%20Rap%20Star.png",
+      "script": "/Effects/Emote/Yo!%20Rap%20Star.zip"
+    },
+    {
+      "id": "you-dont-know-the-power-of-the-darkside",
+      "name": "You dont know the power of the darkside.",
+      "description": "You dont know the power of the darkside. delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/You%20dont%20know%20the%20power%20of%20the%20darkside..png",
+      "script": "/Effects/Emote/You%20don't%20know%20the%20power%20of%20the%20darkside.zip"
+    },
+    {
+      "id": "you-tell-them",
+      "name": "You tell them",
+      "description": "Share the mood with You tell them, an animated emote made for battle.",
+      "image": "/Effects/Emotes/You%20tell%20them.png",
+      "script": "/Effects/Emote/You%20tell%20them!.zip"
+    },
+    {
+      "id": "youre-finished",
+      "name": "Youre Finished",
+      "description": "Youre Finished delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Youre%20Finished.png",
+      "script": "/Effects/Emote/You're%20Finished!.zip"
+    },
+    {
+      "id": "youre-going-down",
+      "name": "Youre Going Down",
+      "description": "Youre Going Down delivers a bold animated challenge for intense battlefield moments.",
+      "image": "/Effects/Emotes/Youre%20Going%20Down.png",
+      "script": "/Effects/Emote/You're%20Going%20Down!.zip"
+    },
+    {
+      "id": "youre-so-strong",
+      "name": "Youre So Strong",
+      "description": "Youre So Strong adds personality and energy to quick battlefield reactions.",
+      "image": "/Effects/Emotes/Youre%20So%20Strong.png",
+      "script": "/Effects/Emote/You're%20So%20Strong!.zip"
+    },
+    {
+      "id": "yun-na-yon",
+      "name": "Yun na yon",
+      "description": "Use Yun na yon to make memorable moments stand out in battle.",
+      "image": "/Effects/Emotes/Yun%20na%20yon.png",
+      "script": "/Effects/Emote/Yun%20na%20'yon.zip"
+    },
+    {
+      "id": "zetians-recognition",
+      "name": "Zetians Recognition",
+      "description": "Zetians Recognition delivers an expressive animated response for match highlights.",
+      "image": "/Effects/Emotes/Zetians%20Recognition.png",
+      "script": "/Effects/Emote/Zetian's%20Recognition.zip"
+    },
+    {
+      "id": "zip-it",
+      "name": "Zip It",
+      "description": "Share the mood with Zip It, an animated emote made for battle.",
+      "image": "/Effects/Emotes/Zip%20It.png",
+      "script": "/Effects/Emote/Zip%20It!.zip"
+    },
+    {
+      "id": "zzz",
+      "name": "zzz",
+      "description": "zzz brings a lively animated expression to your in-match moments.",
+      "image": "/Effects/Emotes/zzz.png",
+      "script": "/Effects/Emote/zzz.zip"
+    }
+  ]
+}

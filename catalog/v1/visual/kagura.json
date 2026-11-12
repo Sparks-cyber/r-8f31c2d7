@@ -1,0 +1,165 @@
+{
+  "catalog_version": "2026.11.07.visual-fix-v1",
+  "data": [
+    {
+      "enabled": true,
+      "id": "kagura-backup",
+      "portrait_file": "Kagura-Default.png",
+      "script_file": "Kagura-Backup.zip",
+      "skin_name": "Onmyouji Master",
+      "splash_file": "Kagura-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-flower-season",
+      "portrait_file": "Kagura-Flower-Season.png",
+      "script_file": "Kagura-Flower-Season.zip",
+      "skin_name": "Flower Season",
+      "splash_file": "Kagura-Flower-Season.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-cherry-witch",
+      "portrait_file": "Kagura-Cherry-Witch.png",
+      "script_file": "Kagura-Cherry-Witch.zip",
+      "skin_name": "Cherry Witch",
+      "splash_file": "Kagura-Cherry-Witch.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-summer-festival",
+      "portrait_file": "Kagura-Summer-Festival.png",
+      "script_file": "Kagura-Summer-Festival.zip",
+      "skin_name": "Summer Festival",
+      "splash_file": "Kagura-Summer-Festival.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-dragon-maiden",
+      "portrait_file": "Kagura-Dragon-Maiden.png",
+      "script_file": "Kagura-Dragon-Maiden.zip",
+      "skin_name": "Dragon Maiden",
+      "splash_file": "Kagura-Dragon-Maiden.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-rainy-walk",
+      "portrait_file": "Kagura-Rainy-Walk.png",
+      "script_file": "Kagura-Rainy-Walk.zip",
+      "skin_name": "Rainy Walk",
+      "splash_file": "Kagura-Rainy-Walk.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-water-lily",
+      "portrait_file": "Kagura-Water-Lily.png",
+      "script_file": "Kagura-Water-Lily.zip",
+      "skin_name": "Water Lily",
+      "splash_file": "Kagura-Water-Lily.png",
+      "tag_id": "annual-starlight",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-exorcist-kagura",
+      "portrait_file": "Kagura-Exorcist.png",
+      "script_file": "Kagura-Exorcist-Kagura.zip",
+      "skin_name": "Exorcist Kagura",
+      "splash_file": "Kagura-Exorcist-Kagura.png",
+      "tag_id": "exorcists",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-beyond-the-clouds-kagura",
+      "portrait_file": "Kagura-Beyond-the-Clouds.png",
+      "script_file": "Kagura-Beyond-the-Clouds-Kagura.zip",
+      "skin_name": "Beyond the Clouds Kagura",
+      "splash_file": "Kagura-Beyond-the-Clouds-Kagura.png",
+      "tag_id": "beyond-the-clouds",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-jade-blossom",
+      "portrait_file": "Kagura-Jade-Blossom.png",
+      "script_file": "Kagura-Jade-Blossom.zip",
+      "skin_name": "Jade Blossom",
+      "splash_file": "Kagura-Jade-Blossom.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-lady-parasol",
+      "portrait_file": "Kagura-Lady-Parasol.png",
+      "script_file": "Kagura-Lady-Parasol.zip",
+      "skin_name": "Lady Parasol",
+      "splash_file": "Kagura-Lady-Parasol.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-feast-of-eternity",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      },
+      "portrait_file": "Kagura-Feast-of-Eternity.png",
+      "script_file": "Kagura-Feast-of-Eternity.zip",
+      "skin_name": "Feast of Eternity",
+      "splash_file": "Kagura-Feast-of-Eternity.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-amethyst-wizard",
+      "portrait_file": "Kagura-Amethyst-Wizard.png",
+      "script_file": "Kagura-Amethyst-Wizard.zip",
+      "skin_name": "Amethyst Wizard",
+      "splash_file": "Kagura-Amethyst-Wizard.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-pink-summer-festival",
+      "portrait_file": "Kagura-Pink-Summer-Festival.png",
+      "script_file": "Kagura-Pink-Summer-Festival.zip",
+      "skin_name": "Pink Summer Festival",
+      "splash_file": "Kagura-Pink-Summer-Festival.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 25,
+    "name": "Kagura",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "kagura"
+  },
+  "release_tag": "visual-kagura",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

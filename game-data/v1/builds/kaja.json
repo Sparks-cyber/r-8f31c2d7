@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 62,
+    "slug": "kaja",
+    "name": "Kaja"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "kaja-community-6234",
+      "name": "Community Build 6234",
+      "lane": "Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "corrosionscythe",
+        "goldenstaff",
+        "windtalker",
+        "windofnature",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "swift",
+        "wildernessblessing",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "Kaja exp lane build attack spade.cocok buat bully backline musuh🗿🗿🗿",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6234,
+      "source_created_at": "2026-03-04T14:33:59.000Z",
+      "likes": 6,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "kaja-community-6520",
+      "name": "Community Build 6520",
+      "lane": "Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "thunderbelt",
+        "bruteforcebreastplate",
+        "enchantedtalisman",
+        "icequeenwand",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [
+        "agility",
+        "wildernessblessing",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "SimuKh = Speedy + Kaja, roam, flicker",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6520,
+      "source_created_at": "2026-03-15T09:18:42.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "kaja-companion-baseline",
+      "name": "Companion Support/Fighter Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

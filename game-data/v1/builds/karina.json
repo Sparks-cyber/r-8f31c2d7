@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 8,
+    "slug": "karina",
+    "name": "Karina"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "karina-community-6397",
+      "name": "Community Build 6397",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "clockofdestiny",
+        "bruteforcebreastplate",
+        "chastisepauldron",
+        "queenswings",
+        "oracle"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "festivalofblood",
+        "inspire",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "Sustain Karina (Works most of the time if you succesfully snowball",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6397,
+      "source_created_at": "2026-03-11T04:53:18.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "karina-community-6065",
+      "name": "Community Build 6065",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "clockofdestiny",
+        "concentratedenergy",
+        "queenswings",
+        "holycrystal",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "seasonedhunter",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "Sustain and deal decent damage",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6065,
+      "source_created_at": "2026-02-27T03:59:35.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "karina-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

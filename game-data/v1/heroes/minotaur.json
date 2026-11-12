@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 19,
+    "slug": "minotaur",
+    "name": "Minotaur",
+    "skin_name": "Son of Minos",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Physical",
+    "specialties": [
+      "Crowd Control"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "14 October 2016",
+    "resource": null,
+    "short_description": "Minoan prince determined to restore his homeland.",
+    "brief": "In olden times, there was once a state named Minoa in Agelta Drylands. The prince in the state, Minotaur fatally injured his father in a fit of rage, after which he exiled himself to the Minoan Labyrinth in shame and regret. When he stepped out of the Labyrinth again, he found his state had long perished, his kin long gone. With his teeth set, Monitor embark on the path to restoring his homeland to its former glory.",
+    "story": "In olden times, the Minoans founded a mysterious and prosperous state named Minoa in Agelta Drylands.\n\nThe once-bustling Emerald Road connected Minoa with other western cities, creating a network of trade routes, while Minoa stood tall among all others with its advanced civilization and martial traditions.\n\nPrince Minotaur of Minoa was the most esteemed warrior back then. Passionate about fighting and often fueled by his rage, Minotaur would demonstrate terrifying bursts of strength in battle. Few were those who could even hope to last more than a few rounds against him.\n\nThe people grew to worship Minotaur, yet his father was deeply concerned about him. While reaping great success on the battlefield, Minotaur's savagery and impulsive behavior was unbecoming of the successor of the state.\n\nTo forge Minotaur into a suitable heir to the throne, the old king arranged for a special trial-one in which the prince must defeat a mysterious figure from foreign lands to qualify for the throne of Minoa.\n\nMinotaur accepted this unarmed duel without hesitation. He stepped onto the arena with his head held high and attempted to crush his opponent with brute force as he'd always done. However, his opponent this time was much tougher, and Minotaur had soon exhausted himself, losing his advantage.\n\nIn the end, the mysterious figure defeated the \"invincible\" Minotaur with measured counterattacks.\n\nThe crowd cheered for the strong and graceful victor, yet Minotaur was overwhelmed by rage and shame.\n\nAnd when the mysterious figure stretched out his hand to help Minotaur get back to his feet, Minotaur grabbed the unsuspecting hand and pinned the grabbed the unsuspecting hand and pinned the mysterious figure to the ground, before throwing a series of vicious punches at him.\n\nAs his fists were covered in blood and the mysterious figure stopped struggling, Minotaur tore off the latter's mask amidst the boos of the crowd-and that was when his whole body stiffened. The severely injured figure on the ground was actually his father!\n\nThe old king grasped Minotaur's hand with his last strength and uttered his final words of instruction to his son, \"You must learn to shoulder the responsibility as a king and continue the glory of Minoa...\"\n\nConsumed by shame and regret, Minotaur headed to the Minoan Labyrinth-the burial ground of the Minoan ancestors-and began his training and repentance.\n\nOver time, Minotaur gradually gained control over his rage and became able to tap into his raging powers at will.\n\nAs Minotaur thrust himself into this arduous training, an unexpected catastrophe struck. The entire Minoa. was flattened by the explosion of the Twilight Orb, and only Minotaur was left unharmed under the protection of the Labyrinth. Minotaur rushed toward the state amidst the tremors, wanting to find out what had happened, when a broken piece from the Twilight Orb plummeted into the Labyrinth and sealed it whole. Minotaur, who was half a step out of the Labyrinth, was sealed altogether and put into a deep slumber.\n\nThe catastrophe erased all traces of the Minoan civilization, leaving only the Minoan Labyrinth half-hidden in the sand. After countless days and nights, the broken piece from the Twilight Orb turned into Lunox and left.\n\nThe seal was then lifted. Time in the Labyrinth began to flow again, while Minotaur slowly opened his eyes....\n\nAldous, the guardian of the Labyrinth, told Minotaur his state had long turned into dust, and he and his memories were all that remained. Minotaur, however, would believe none of those.\n\nWith his father's final entrustment still fresh in his mind, the prince vowed to himself that he must find his lost kin and rebuild the Minoan civilization.\n\nIn the boundless sands, a set of hoof-prints extended into the horizon...",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 10,
+    "offense": 1,
+    "control": 8,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2859,
+    "health_growth": 249,
+    "health_regen": 8.8,
+    "health_regen_growth": 0.6,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 123,
+    "physical_attack_growth": 5.14,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 3.9286,
+    "magic_defense": 10,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 0.91,
+    "attack_speed_growth": 0.0186,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Minotaur0",
+      "name": "Rage Incarnate",
+      "description": "After casting a skill, Minotaur gains <highlight>Motivation</highlight>, recovering HP equal to 5 (+1*Hero Level)% of damage taken from enemy heroes by 3s.<br/><br/><highlight>Enraged State</highlight>: <highlight>Motivation</highlight> HP recovery is increased to 200%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4296561c81f79f3960c72c6d707a2f86.png",
+      "video_url": null
+    },
+    {
+      "id": "Minotaur1",
+      "name": "Despair Stomp",
+      "description": "Minotaur jumps to the target location, dealing 325/360/395/430/465/500<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the area and briefly knocking them airborne. Enemies hit will also be slowed by 40% while Minotaur enhances his Basic Attacks to deal 25<scaleHP> (+5% Total HP)</scaleHP> extra <physicalDamage>Physical Damage</physicalDamage> for 2s.<br/><br/><highlight>Enraged</highlight>: Increases the AOE range and the damage dealt by 25<scaleHP> (+5% Total HP)</scaleHP> <physicalDamage>Physical Damage</physicalDamage>",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12/11.5/11/10.5/10/9.5",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a902b3f75e08b180503d02796804baae.png",
+      "video_url": null
+    },
+    {
+      "id": "Minotaur2",
+      "name": "Motivation Roar",
+      "description": "Minotaur heals himself and the nearby ally with the lowest HP, recovering 220/240/260/280/300/320<scaleAP> (+60% Total Magic Power)</scaleAP> HP for both of them and healing himself for an additional 8% of his lost HP.<br/><br/><highlight>Enraged</highlight>: Minotaur heals himself and all nearby allied heroes.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.5/9/8.5/8/7.5",
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_72ead6458b2fd5fa001d4cc594ee37a8.png",
+      "video_url": null
+    },
+    {
+      "id": "Minotaur3",
+      "name": "Minoan Fury",
+      "description": "Minotaur enters <highlight>Enraged</highlight> state and smashes the ground 3 times. The first 2 hits deal 180/240/300<scaleAD> (+85% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies and slow them by 60%, while the final hit deals 200/250/300<trueDamage> (+85% Total Physical Attack)</trueDamage> <trueDamage>True Damage</trueDamage> and knocks targets airborne for 0.8s. Minotaur is immune to control effects during this attack.<br/><br/>The <highlight>Enraged</highlight> state lasts 12s and enhances Minotaur's skills for the duration.",
+      "flavor_text": "Rage grants me the power of destruction!",
+      "cost": null,
+      "cooldown": "60/55/50",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b1d72b921c47c7dcb68a25c4289412a.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Minotaur0",
+      "sequence": "Minotaur1-Minotaur3-Minotaur1-AA-Minotaur2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Minotaur's 1st Skill to jump in and knock enemies airborne, then use his Ultimate to keep them CC'd and enter Enraged state. Use his 1st Skill to knock enemies airborne again and continue with Basic Attacks. Use his 2nd Skill when he or his team needs healing."
+    },
+    {
+      "id": "Minotaur1",
+      "sequence": "Minotaur1-AA-Minotaur2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Minotaur's 1st Skill to knock the enemy airborne and reduce their Defense, then deal damage with his enhanced Basic Attacks. Use his 2nd Skill to heal him and his teammate to come out ahead in the trade."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Minotaur works best with burst damage Marksmen, such as Granger and Melissa, since his CC's give them more opportunities to deal damage.",
+      "heroes": [
+        {
+          "id": 79,
+          "slug": "granger",
+          "name": "Granger"
+        },
+        {
+          "id": 114,
+          "slug": "melissa",
+          "name": "Melissa"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Minotaur is strong against heroes that rely on chaining skills or attacks, like Paquito and Julian because he can interrupt their combos with his CC.",
+      "heroes": [
+        {
+          "id": 103,
+          "slug": "paquito",
+          "name": "Paquito"
+        },
+        {
+          "id": 116,
+          "slug": "julian",
+          "name": "Julian"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Minotaur is countered by long-range Marksmen like Layla and Lesley since his lack of speed makes him an easy target.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Minotaur-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Minotaur-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_db4fda77f902f3dde09d247498da23cc.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_db4fda77f902f3dde09d247498da23cc.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/minotaur.json",
+    "visual_catalog": "catalog/v1/visual/minotaur.json",
+    "upgrade_catalog": "catalog/v1/upgrade/minotaur.json"
+  }
+}

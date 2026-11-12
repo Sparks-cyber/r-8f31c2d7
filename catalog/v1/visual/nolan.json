@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.27.141500",
+  "data": [
+    {
+      "enabled": true,
+      "id": "nolan-backup",
+      "portrait_file": "Nolan-Default.png",
+      "script_file": "Nolan-Backup.zip",
+      "skin_name": "Cosmic Wayfinder",
+      "splash_file": "Nolan-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "nolan-voidwalker",
+      "portrait_file": "Nolan-Voidwalker.png",
+      "script_file": "Nolan-Voidwalker.zip",
+      "skin_name": "Voidwalker",
+      "splash_file": "Nolan-Voidwalker.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "nolan-fashion-mogul",
+      "portrait_file": "Nolan-Fashion-Mogul.png",
+      "script_file": "Nolan-Fashion-Mogul.zip",
+      "skin_name": "Fashion Mogul",
+      "splash_file": "Nolan-Fashion-Mogul.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "nolan-the-navigator",
+      "portrait_file": "Nolan-The-Navigator.png",
+      "script_file": "Nolan-The-Navigator.zip",
+      "skin_name": "The Navigator",
+      "splash_file": "Nolan-The-Navigator.png",
+      "tag_id": "nexus-sea",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "nolan-spectral-strider",
+      "portrait_file": "Nolan-Spectral-Strider.png",
+      "script_file": "Nolan-Spectral-Strider.zip",
+      "skin_name": "Spectral Strider",
+      "splash_file": "Nolan-Spectral-Strider.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "nolan-fashion-tycoon-painted-01",
+      "portrait_file": "Nolan-Fashion-Tycoon.png",
+      "script_file": "Nolan-Fashion-Tycoon.zip",
+      "skin_name": "Fashion Tycoon",
+      "splash_file": "Nolan-Fashion-Tycoon.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "nolan-fashion-magnate-painted-02",
+      "portrait_file": "Nolan-Fashion-Magnate.png",
+      "script_file": "Nolan-Fashion-Magnate.zip",
+      "skin_name": "Fashion Magnate",
+      "splash_file": "Nolan-Fashion-Magnate.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 122,
+    "name": "Nolan",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "nolan"
+  },
+  "release_tag": "visual-nolan",
+  "schema_version": 1,
+  "updated_at": "2026-10-27T14:15:00.000000Z"
+}

@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Terizla",
+  "role": "Fighter/Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Abyss Guard",
+      "Splash_url": "Terizla-Abyss-Guard.png",
+      "script": "Terizla-Abyss-Guard-Backup.zip",
+      "Portrait_url": "Terizla-Abyss-Guard.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Flare",
+          "Portrait_url": "Terizla-Flare.png",
+          "Splash_url": "Terizla-Flare.png",
+          "script": "Terizla-Abyss-Guard-Flare.zip"
+        },
+        {
+          "name": "Hammer Giant",
+          "Portrait_url": "Terizla-Hammer-Giant.png",
+          "Splash_url": "Terizla-Hammer-Giant.png",
+          "script": "Terizla-Abyss-Guard-Hammer-Giant.zip"
+        },
+        {
+          "name": "Rustwreck",
+          "Portrait_url": "Terizla-Rustwreck.png",
+          "Splash_url": "Terizla-Rustwreck.png",
+          "script": "Terizla-Abyss-Guard-Rustwreck.zip"
+        },
+        {
+          "name": "Flames of Judgement",
+          "Portrait_url": "Terizla-Flames-of-Judgement.png",
+          "Splash_url": "Terizla-Flames-of-Judgement.png",
+          "script": "Terizla-Abyss-Guard-Flames-of-Judgement.zip"
+        },
+        {
+          "name": "Soulblight Tyrant",
+          "Portrait_url": "Terizla-Soulblight-Tyrant.png",
+          "Splash_url": "Terizla-Soulblight-Tyrant.png",
+          "script": "Terizla-Abyss-Guard-Soulblight-Tyrant.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Flare",
+      "Splash_url": "Terizla-Flare.png",
+      "script": "Terizla-Flare-Backup.zip",
+      "Portrait_url": "Terizla-Flare.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyss Guard",
+          "Portrait_url": "Terizla-Abyss-Guard.png",
+          "Splash_url": "Terizla-Abyss-Guard.png",
+          "script": "Terizla-Flare-Abyss-Guard.zip"
+        },
+        {
+          "name": "Hammer Giant",
+          "Portrait_url": "Terizla-Hammer-Giant.png",
+          "Splash_url": "Terizla-Hammer-Giant.png",
+          "script": "Terizla-Flare-Hammer-Giant.zip"
+        },
+        {
+          "name": "Rustwreck",
+          "Portrait_url": "Terizla-Rustwreck.png",
+          "Splash_url": "Terizla-Rustwreck.png",
+          "script": "Terizla-Flare-Rustwreck.zip"
+        },
+        {
+          "name": "Flames of Judgement",
+          "Portrait_url": "Terizla-Flames-of-Judgement.png",
+          "Splash_url": "Terizla-Flames-of-Judgement.png",
+          "script": "Terizla-Flare-Flames-of-Judgement.zip"
+        },
+        {
+          "name": "Soulblight Tyrant",
+          "Portrait_url": "Terizla-Soulblight-Tyrant.png",
+          "Splash_url": "Terizla-Soulblight-Tyrant.png",
+          "script": "Terizla-Flare-Soulblight-Tyrant.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Hammer Giant",
+      "Splash_url": "Terizla-Hammer-Giant.png",
+      "script": "Terizla-Hammer-Giant-Backup.zip",
+      "Portrait_url": "Terizla-Hammer-Giant.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyss Guard",
+          "Portrait_url": "Terizla-Abyss-Guard.png",
+          "Splash_url": "Terizla-Abyss-Guard.png",
+          "script": "Terizla-Hammer-Giant-Abyss-Guard.zip"
+        },
+        {
+          "name": "Flare",
+          "Portrait_url": "Terizla-Flare.png",
+          "Splash_url": "Terizla-Flare.png",
+          "script": "Terizla-Hammer-Giant-Flare.zip"
+        },
+        {
+          "name": "Rustwreck",
+          "Portrait_url": "Terizla-Rustwreck.png",
+          "Splash_url": "Terizla-Rustwreck.png",
+          "script": "Terizla-Hammer-Giant-Rustwreck.zip"
+        },
+        {
+          "name": "Flames of Judgement",
+          "Portrait_url": "Terizla-Flames-of-Judgement.png",
+          "Splash_url": "Terizla-Flames-of-Judgement.png",
+          "script": "Terizla-Hammer-Giant-Flames-of-Judgement.zip"
+        },
+        {
+          "name": "Soulblight Tyrant",
+          "Portrait_url": "Terizla-Soulblight-Tyrant.png",
+          "Splash_url": "Terizla-Soulblight-Tyrant.png",
+          "script": "Terizla-Hammer-Giant-Soulblight-Tyrant.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Rustwreck",
+      "Splash_url": "Terizla-Rustwreck.png",
+      "script": "Terizla-Rustwreck-Backup.zip",
+      "Portrait_url": "Terizla-Rustwreck.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyss Guard",
+          "Portrait_url": "Terizla-Abyss-Guard.png",
+          "Splash_url": "Terizla-Abyss-Guard.png",
+          "script": "Terizla-Rustwreck-Abyss-Guard.zip"
+        },
+        {
+          "name": "Flare",
+          "Portrait_url": "Terizla-Flare.png",
+          "Splash_url": "Terizla-Flare.png",
+          "script": "Terizla-Rustwreck-Flare.zip"
+        },
+        {
+          "name": "Hammer Giant",
+          "Portrait_url": "Terizla-Hammer-Giant.png",
+          "Splash_url": "Terizla-Hammer-Giant.png",
+          "script": "Terizla-Rustwreck-Hammer-Giant.zip"
+        },
+        {
+          "name": "Flames of Judgement",
+          "Portrait_url": "Terizla-Flames-of-Judgement.png",
+          "Splash_url": "Terizla-Flames-of-Judgement.png",
+          "script": "Terizla-Rustwreck-Flames-of-Judgement.zip"
+        },
+        {
+          "name": "Soulblight Tyrant",
+          "Portrait_url": "Terizla-Soulblight-Tyrant.png",
+          "Splash_url": "Terizla-Soulblight-Tyrant.png",
+          "script": "Terizla-Rustwreck-Soulblight-Tyrant.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Flames of Judgement",
+      "Splash_url": "Terizla-Flames-of-Judgement.png",
+      "script": "Terizla-Flames-of-Judgement-Backup.zip",
+      "Portrait_url": "Terizla-Flames-of-Judgement.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyss Guard",
+          "Portrait_url": "Terizla-Abyss-Guard.png",
+          "Splash_url": "Terizla-Abyss-Guard.png",
+          "script": "Terizla-Flames-of-Judgement-Abyss-Guard.zip"
+        },
+        {
+          "name": "Flare",
+          "Portrait_url": "Terizla-Flare.png",
+          "Splash_url": "Terizla-Flare.png",
+          "script": "Terizla-Flames-of-Judgement-Flare.zip"
+        },
+        {
+          "name": "Hammer Giant",
+          "Portrait_url": "Terizla-Hammer-Giant.png",
+          "Splash_url": "Terizla-Hammer-Giant.png",
+          "script": "Terizla-Flames-of-Judgement-Hammer-Giant.zip"
+        },
+        {
+          "name": "Rustwreck",
+          "Portrait_url": "Terizla-Rustwreck.png",
+          "Splash_url": "Terizla-Rustwreck.png",
+          "script": "Terizla-Flames-of-Judgement-Rustwreck.zip"
+        },
+        {
+          "name": "Soulblight Tyrant",
+          "Portrait_url": "Terizla-Soulblight-Tyrant.png",
+          "Splash_url": "Terizla-Soulblight-Tyrant.png",
+          "script": "Terizla-Flames-of-Judgement-Soulblight-Tyrant.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Soulblight Tyrant",
+      "Splash_url": "Terizla-Soulblight-Tyrant.png",
+      "script": "Terizla-Soulblight-Tyrant-Backup.zip",
+      "Portrait_url": "Terizla-Soulblight-Tyrant.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Abyss Guard",
+          "Portrait_url": "Terizla-Abyss-Guard.png",
+          "Splash_url": "Terizla-Abyss-Guard.png",
+          "script": "Terizla-Soulblight-Tyrant-Abyss-Guard.zip"
+        },
+        {
+          "name": "Flare",
+          "Portrait_url": "Terizla-Flare.png",
+          "Splash_url": "Terizla-Flare.png",
+          "script": "Terizla-Soulblight-Tyrant-Flare.zip"
+        },
+        {
+          "name": "Hammer Giant",
+          "Portrait_url": "Terizla-Hammer-Giant.png",
+          "Splash_url": "Terizla-Hammer-Giant.png",
+          "script": "Terizla-Soulblight-Tyrant-Hammer-Giant.zip"
+        },
+        {
+          "name": "Rustwreck",
+          "Portrait_url": "Terizla-Rustwreck.png",
+          "Splash_url": "Terizla-Rustwreck.png",
+          "script": "Terizla-Soulblight-Tyrant-Rustwreck.zip"
+        },
+        {
+          "name": "Flames of Judgement",
+          "Portrait_url": "Terizla-Flames-of-Judgement.png",
+          "Splash_url": "Terizla-Flames-of-Judgement.png",
+          "script": "Terizla-Soulblight-Tyrant-Flames-of-Judgement.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "gloo-backup",
+      "portrait_file": "Gloo-Default.png",
+      "script_file": "Gloo-Backup.zip",
+      "skin_name": "Swamp Spirits",
+      "splash_file": "Gloo-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "gloo-verdant-enchanter",
+      "portrait_file": "Gloo-Verdant-Enchanter.png",
+      "script_file": "Gloo-Verdant-Enchanter.zip",
+      "skin_name": "Verdant Enchanter",
+      "splash_file": "Gloo-Verdant-Enchanter.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "gloo-jellyman",
+      "portrait_file": "Gloo-Jellyman.png",
+      "script_file": "Gloo-Jellyman.zip",
+      "skin_name": "Jellyman",
+      "splash_file": "Gloo-Jellyman.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "gloo-patrick",
+      "portrait_file": "Gloo-Patrick.png",
+      "script_file": "Gloo-Patrick.zip",
+      "skin_name": "Patrick",
+      "splash_file": "Gloo-Patrick.png",
+      "tag_id": "elite",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "gloo-abominable-snowgloo",
+      "portrait_file": "Gloo-Abominable-Snowgloo.png",
+      "script_file": "Gloo-Abominable-Snowgloo.zip",
+      "skin_name": "Abominable Snowgloo",
+      "splash_file": "Gloo-Abominable-Snowgloo.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    }
+  ],
+  "hero": {
+    "id": 104,
+    "name": "Gloo",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "gloo"
+  },
+  "release_tag": "visual-gloo",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

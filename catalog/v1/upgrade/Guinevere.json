@@ -1,0 +1,917 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Guinevere",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Fleur de Bleau",
+      "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+      "script": "Guinevere-Fleur-de-Bleau-Backup.zip",
+      "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Fleur-de-Bleau-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Fleur-de-Bleau-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Fleur-de-Bleau-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Fleur-de-Bleau-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Fleur-de-Bleau-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Fleur-de-Bleau-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Fleur-de-Bleau-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Fleur-de-Bleau-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Fleur-de-Bleau-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Fleur-de-Bleau-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Fleur-de-Bleau-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Fleur-de-Bleau-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Athena Asamiya",
+      "Splash_url": "Guinevere-Athena-Asamiya.png",
+      "script": "Guinevere-Athena-Asamiya-Backup.zip",
+      "Portrait_url": "Guinevere-Athena-Asamiya.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Athena-Asamiya-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Athena-Asamiya-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Athena-Asamiya-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Athena-Asamiya-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Athena-Asamiya-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Athena-Asamiya-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Athena-Asamiya-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Athena-Asamiya-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Athena-Asamiya-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Athena-Asamiya-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Athena-Asamiya-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Athena-Asamiya-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Lotus",
+      "Splash_url": "Guinevere-Lotus.png",
+      "script": "Guinevere-Lotus-Backup.zip",
+      "Portrait_url": "Guinevere-Lotus.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Lotus-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Lotus-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Lotus-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Lotus-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Lotus-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Lotus-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Lotus-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Lotus-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Lotus-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Lotus-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Lotus-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Lotus-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Amethyst Dance",
+      "Splash_url": "Guinevere-Amethyst-Dance.png",
+      "script": "Guinevere-Amethyst-Dance-Backup.zip",
+      "Portrait_url": "Guinevere-Amethyst-Dance.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Amethyst-Dance-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Amethyst-Dance-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Amethyst-Dance-Lotus.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Amethyst-Dance-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Amethyst-Dance-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Amethyst-Dance-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Amethyst-Dance-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Amethyst-Dance-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Amethyst-Dance-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Amethyst-Dance-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Amethyst-Dance-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Lady Crane",
+      "Splash_url": "Guinevere-Lady-Crane.png",
+      "script": "Guinevere-Lady-Crane-Backup.zip",
+      "Portrait_url": "Guinevere-Lady-Crane.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Lady-Crane-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Lady-Crane-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Lady-Crane-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Lady-Crane-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Lady-Crane-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Lady-Crane-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Lady-Crane-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Lady-Crane-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Lady-Crane-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Lady-Crane-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Lady-Crane-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Lady-Crane-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Sakura Wishes",
+      "Splash_url": "Guinevere-Sakura-Wishes.png",
+      "script": "Guinevere-Sakura-Wishes-Backup.zip",
+      "Portrait_url": "Guinevere-Sakura-Wishes.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Sakura-Wishes-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Sakura-Wishes-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Sakura-Wishes-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Sakura-Wishes-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Sakura-Wishes-Lady-Crane.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Sakura-Wishes-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Sakura-Wishes-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Sakura-Wishes-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Sakura-Wishes-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Sakura-Wishes-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Sakura-Wishes-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Sakura-Wishes-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Summer Breeze",
+      "Splash_url": "Guinevere-Summer-Breeze.png",
+      "script": "Guinevere-Summer-Breeze-Backup.zip",
+      "Portrait_url": "Guinevere-Summer-Breeze.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Summer-Breeze-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Summer-Breeze-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Summer-Breeze-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Summer-Breeze-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Summer-Breeze-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Summer-Breeze-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Summer-Breeze-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Summer-Breeze-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Summer-Breeze-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Summer-Breeze-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Summer-Breeze-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Summer-Breeze-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Psion of Tomorrow",
+      "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+      "script": "Guinevere-Psion-of-Tomorrow-Backup.zip",
+      "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Summer-Breeze.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Psion-of-Tomorrow-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Psion-of-Tomorrow-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Elegant Butterfly",
+      "Splash_url": "Guinevere-Elegant-Butterfly.png",
+      "script": "Guinevere-Elegant-Butterfly-Backup.zip",
+      "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Elegant-Butterfly-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Elegant-Butterfly-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Elegant-Butterfly-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Elegant-Butterfly-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Elegant-Butterfly-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Elegant-Butterfly-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Elegant-Butterfly-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Elegant-Butterfly-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Elegant-Butterfly-Twilight-Star.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Elegant-Butterfly-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Elegant-Butterfly-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Elegant-Butterfly-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Twilight Star",
+      "Splash_url": "Guinevere-Twilight-Star.png",
+      "script": "Guinevere-Twilight-Star-Backup.zip",
+      "Portrait_url": "Guinevere-Twilight-Star.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Twilight-Star-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Twilight-Star-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Twilight-Star-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Twilight-Star-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Twilight-Star-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Twilight-Star-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Twilight-Star-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Twilight-Star-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Twilight-Star-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 2)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+          "script": "Guinevere-Twilight-Star-Chun-Li-Outfit-2.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Twilight-Star-Scarlet-Dance.zip"
+        },
+        {
+          "name": "Chun-Li (Outfit 1)",
+          "Portrait_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "Splash_url": "Guinevere-Chun-Li-Outfit-1.png",
+          "script": "Guinevere-Twilight-Star-Chun-Li-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter",
+      "Default_name": "Chun-Li (Outfit 2)",
+      "Splash_url": "Guinevere-Chun-Li-Outfit-2.png",
+      "script": "Guinevere-Chun-Li-Outfit-2-Backup.zip",
+      "Portrait_url": "Guinevere-Chun-Li-Outfit-2.png",
+      "Tags": [
+        "Street Fighter.png"
+      ],
+      "targets": [
+        {
+          "name": "Fleur de Bleau",
+          "Portrait_url": "Guinevere-Fleur-de-Bleau.png",
+          "Splash_url": "Guinevere-Fleur-de-Bleau.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Fleur-de-Bleau.zip"
+        },
+        {
+          "name": "Athena Asamiya",
+          "Portrait_url": "Guinevere-Athena-Asamiya.png",
+          "Splash_url": "Guinevere-Athena-Asamiya.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Athena-Asamiya.zip"
+        },
+        {
+          "name": "Lotus",
+          "Portrait_url": "Guinevere-Lotus.png",
+          "Splash_url": "Guinevere-Lotus.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Lotus.zip"
+        },
+        {
+          "name": "Amethyst Dance",
+          "Portrait_url": "Guinevere-Amethyst-Dance.png",
+          "Splash_url": "Guinevere-Amethyst-Dance.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Amethyst-Dance.zip"
+        },
+        {
+          "name": "Lady Crane",
+          "Portrait_url": "Guinevere-Lady-Crane.png",
+          "Splash_url": "Guinevere-Lady-Crane.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Lady-Crane.zip"
+        },
+        {
+          "name": "Sakura Wishes",
+          "Portrait_url": "Guinevere-Sakura-Wishes.png",
+          "Splash_url": "Guinevere-Sakura-Wishes.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Sakura-Wishes.zip"
+        },
+        {
+          "name": "Summer Breeze",
+          "Portrait_url": "Guinevere-Summer-Breeze.png",
+          "Splash_url": "Guinevere-Summer-Breeze.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Summer-Breeze.zip"
+        },
+        {
+          "name": "Psion of Tomorrow",
+          "Portrait_url": "Guinevere-Psion-of-Tomorrow.png",
+          "Splash_url": "Guinevere-Psion-of-Tomorrow.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Psion-of-Tomorrow.zip"
+        },
+        {
+          "name": "Elegant Butterfly",
+          "Portrait_url": "Guinevere-Elegant-Butterfly.png",
+          "Splash_url": "Guinevere-Elegant-Butterfly.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Elegant-Butterfly.zip"
+        },
+        {
+          "name": "Twilight Star",
+          "Portrait_url": "Guinevere-Twilight-Star.png",
+          "Splash_url": "Guinevere-Twilight-Star.png",
+          "script": "Guinevere-Chun-Li-Outfit-2-Twilight-Star.zip"
+        },
+        {
+          "name": "Scarlet Dance",
+          "Portrait_url": "Guinevere-Scarlet-Dance.png",
+          "Splash_url": "Guinevere - Scarlet Dance.jpg",
+          "script": "Guinevere-Chun-Li-Outfit-2-Scarlet-Dance.zip"
+        }
+      ]
+    }
+  ]
+}

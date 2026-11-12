@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "chang-e-lily-pat",
+      "portrait_file": "Chang'e - Lily Pat.png",
+      "script_file": "Chang-e-Lily-Pat.zip",
+      "skin_name": "Lily Pat",
+      "splash_file": "Chang'e - Lily Pat.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-uzumaki-kushina",
+      "portrait_file": "Chang'e - Uzumaki Kushina.png",
+      "script_file": "Chang-e-Uzumaki-Kushina.zip",
+      "skin_name": "Uzumaki Kushina",
+      "splash_file": "Chang'e - Uzumaki Kushina.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 61,
+    "name": "Chang'e",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "chang-e"
+  },
+  "release_tag": "custom-chang-e",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,811 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Clint",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Summer",
+      "Default_name": "Sun n Sand",
+      "Splash_url": "Clint-Sun-n-Sand.png",
+      "script": "Clint-Sun-n-Sand-Backup.zip",
+      "Portrait_url": "Clint-Sun-n-Sand.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Sun-n-Sand-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Sun-n-Sand-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Sun-n-Sand-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Sun-n-Sand-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Sun-n-Sand-Operator-CL.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Sun-n-Sand-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Sun-n-Sand-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Sun-n-Sand-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Sun-n-Sand-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Sun-n-Sand-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Guns and Roses",
+      "Splash_url": "Clint-Guns-and-Roses.png",
+      "script": "Clint-Guns-and-Roses-Backup.zip",
+      "Portrait_url": "Clint-Guns-and-Roses.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Guns-and-Roses-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Guns-and-Roses-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Guns-and-Roses-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Guns-and-Roses-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Guns-and-Roses-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Guns-and-Roses-Operator-CL.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Guns-and-Roses-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Guns-and-Roses-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Guns-and-Roses-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Guns-and-Roses-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Guns-and-Roses-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Rock and Roll",
+      "Splash_url": "Clint-Rock-and-Roll.png",
+      "script": "Clint-Rock-and-Roll-Backup.zip",
+      "Portrait_url": "Clint-Rock-and-Roll.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Rock-and-Roll-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Rock-and-Roll-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Rock-and-Roll-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Rock-and-Roll-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Rock-and-Roll-Operator-CL.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Rock-and-Roll-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Rock-and-Roll-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Rock-and-Roll-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Rock-and-Roll-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Rock-and-Roll-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Badminton Champion",
+      "Splash_url": "Clint-Badminton-Champion.png",
+      "script": "Clint-Badminton-Champion-Backup.zip",
+      "Portrait_url": "Clint-Badminton-Champion.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Badminton-Champion-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Badminton-Champion-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Badminton-Champion-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Badminton-Champion-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Badminton-Champion-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Badminton-Champion-Operator-CL.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Badminton-Champion-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Badminton-Champion-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Badminton-Champion-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Badminton-Champion-Vessel-of-Ruin.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Witch Hunter",
+      "Splash_url": "Clint-Witch-Hunter.png",
+      "script": "Clint-Witch-Hunter-Backup.zip",
+      "Portrait_url": "Clint-Witch-Hunter.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Witch-Hunter-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Witch-Hunter-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Witch-Hunter-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Witch-Hunter-Badminton-Champion.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Witch-Hunter-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Witch-Hunter-Operator-CL.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Witch-Hunter-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Witch-Hunter-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Witch-Hunter-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Witch-Hunter-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Witch-Hunter-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "M2",
+      "Default_name": "Shadow Omen",
+      "Splash_url": "Clint-Shadow-Omen.png",
+      "script": "Clint-Shadow-Omen-Backup.zip",
+      "Portrait_url": "Clint-Shadow-Omen.png",
+      "Tags": [
+        "M2.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Shadow-Omen-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Shadow-Omen-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Shadow-Omen-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Shadow-Omen-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Shadow-Omen-Witch-Hunter.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Shadow-Omen-Operator-CL.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Shadow-Omen-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Shadow-Omen-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Shadow-Omen-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Shadow-Omen-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Operator CL",
+      "Splash_url": "Clint-Operator-CL.png",
+      "script": "Clint-Operator-CL-Backup.zip",
+      "Portrait_url": "Clint-Operator-CL.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Operator-CL-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Operator-CL-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Operator-CL-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Operator-CL-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Operator-CL-Shadow-Omen.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Operator-CL-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Operator-CL-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Operator-CL-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Operator-CL-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Operator-CL-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Crimson Blast",
+      "Splash_url": "Clint-Crimson-Blast.png",
+      "script": "Clint-Crimson-Blast-Backup.zip",
+      "Portrait_url": "Clint-Crimson-Blast.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Crimson-Blast-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Crimson-Blast-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Crimson-Blast-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Crimson-Blast-Badminton-Champion.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Crimson-Blast-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Crimson-Blast-Operator-CL.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Crimson-Blast-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Crimson-Blast-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Crimson-Blast-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Crimson-Blast-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Captain of the Reefs",
+      "Splash_url": "Clint-Captain-of-the-Reefs.png",
+      "script": "Clint-Captain-of-the-Reefs-Backup.zip",
+      "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Captain-of-the-Reefs-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Captain-of-the-Reefs-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Captain-of-the-Reefs-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Captain-of-the-Reefs-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Captain-of-the-Reefs-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Captain-of-the-Reefs-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Captain-of-the-Reefs-Operator-CL.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Captain-of-the-Reefs-Crimson-Blast.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Captain-of-the-Reefs-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Captain-of-the-Reefs-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Captain-of-the-Reefs-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Mythic 2024",
+      "Default_name": "Dragon's Maw",
+      "Splash_url": "Clint-Dragon-s-Maw.png",
+      "script": "Clint-Dragon-s-Maw-Backup.zip",
+      "Portrait_url": "Clint-Dragon-s-Maw.png",
+      "Tags": [
+        "Mythic 2024.png"
+      ],
+      "targets": [
+        {
+          "name": "Sun n Sand",
+          "Portrait_url": "Clint-Sun-n-Sand.png",
+          "Splash_url": "Clint-Sun-n-Sand.png",
+          "script": "Clint-Dragon-s-Maw-Sun-n-Sand.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Dragon-s-Maw-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Dragon-s-Maw-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Dragon-s-Maw-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Dragon-s-Maw-Shadow-Omen.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Dragon-s-Maw-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Dragon-s-Maw-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Vessel of Ruin",
+          "Portrait_url": "Clint-Vessel-of-Ruin.png",
+          "Splash_url": "Clint-Vessel-of-Ruin.png",
+          "script": "Clint-Dragon-s-Maw-Vessel-of-Ruin.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Dragon-s-Maw-Full-Smash.zip"
+        }
+      ]
+    },
+    {
+      "name": "Soul Vessels",
+      "Default_name": "Vessel of Ruin",
+      "Splash_url": "Clint-Vessel-of-Ruin.png",
+      "script": "Clint-Vessel-of-Ruin-Backup.zip",
+      "Portrait_url": "Clint-Vessel-of-Ruin.png",
+      "Tags": [
+        "Soul Vessels.png"
+      ],
+      "targets": [
+        {
+          "name": "Guns and Roses",
+          "Portrait_url": "Clint-Guns-and-Roses.png",
+          "Splash_url": "Clint-Guns-and-Roses.png",
+          "script": "Clint-Vessel-of-Ruin-Guns-and-Roses.zip"
+        },
+        {
+          "name": "Rock and Roll",
+          "Portrait_url": "Clint-Rock-and-Roll.png",
+          "Splash_url": "Clint-Rock-and-Roll.png",
+          "script": "Clint-Vessel-of-Ruin-Rock-and-Roll.zip"
+        },
+        {
+          "name": "Badminton Champion",
+          "Portrait_url": "Clint-Badminton-Champion.png",
+          "Splash_url": "Clint-Badminton-Champion.png",
+          "script": "Clint-Vessel-of-Ruin-Badminton-Champion.zip"
+        },
+        {
+          "name": "Witch Hunter",
+          "Portrait_url": "Clint-Witch-Hunter.png",
+          "Splash_url": "Clint-Witch-Hunter.png",
+          "script": "Clint-Vessel-of-Ruin-Witch-Hunter.zip"
+        },
+        {
+          "name": "Shadow Omen",
+          "Portrait_url": "Clint-Shadow-Omen.png",
+          "Splash_url": "Clint-Shadow-Omen.png",
+          "script": "Clint-Vessel-of-Ruin-Shadow-Omen.zip"
+        },
+        {
+          "name": "Operator CL",
+          "Portrait_url": "Clint-Operator-CL.png",
+          "Splash_url": "Clint-Operator-CL.png",
+          "script": "Clint-Vessel-of-Ruin-Operator-CL.zip"
+        },
+        {
+          "name": "Crimson Blast",
+          "Portrait_url": "Clint-Crimson-Blast.png",
+          "Splash_url": "Clint-Crimson-Blast.png",
+          "script": "Clint-Vessel-of-Ruin-Crimson-Blast.zip"
+        },
+        {
+          "name": "Captain of the Reefs",
+          "Portrait_url": "Clint-Captain-of-the-Reefs.png",
+          "Splash_url": "Clint-Captain-of-the-Reefs.png",
+          "script": "Clint-Vessel-of-Ruin-Captain-of-the-Reefs.zip"
+        },
+        {
+          "name": "Dragon's Maw",
+          "Portrait_url": "Clint-Dragon-s-Maw.png",
+          "Splash_url": "Clint-Dragon-s-Maw.png",
+          "script": "Clint-Vessel-of-Ruin-Dragon-s-Maw.zip"
+        },
+        {
+          "name": "Full Smash",
+          "Portrait_url": "Clint-Full-Smash.png",
+          "Splash_url": "Clint - Full Smash.jpg",
+          "script": "Clint-Vessel-of-Ruin-Full-Smash.zip"
+        }
+      ]
+    }
+  ]
+}

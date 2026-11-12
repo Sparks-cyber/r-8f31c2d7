@@ -1,0 +1,204 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "yin-aspirant",
+      "portrait_file": "Yin - Aspirant.png",
+      "script_file": "Yin-Aspirant.zip",
+      "skin_name": "Aspirant",
+      "splash_file": "Yin - Aspirant.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "yin-diavolo",
+      "portrait_file": "Yin - Diavolo.png",
+      "script_file": "Yin-Diavolo.zip",
+      "skin_name": "Diavolo",
+      "splash_file": "Yin - Diavolo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "yin-eren-hok",
+      "portrait_file": "Yin - Eren HOK.png",
+      "script_file": "Yin-Eren-HOK.zip",
+      "skin_name": "Eren HOK",
+      "splash_file": "Yin - Eren HOK.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-exorcist",
+      "portrait_file": "Yin - Exorcist.png",
+      "script_file": "Yin-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Yin - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "yin-gojo",
+      "portrait_file": "Yin - Gojo.png",
+      "script_file": "Yin-Gojo.zip",
+      "skin_name": "Gojo",
+      "splash_file": "Yin - Gojo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-kakashi",
+      "portrait_file": "Yin - Kakashi.png",
+      "script_file": "Yin-Kakashi.zip",
+      "skin_name": "Kakashi",
+      "splash_file": "Yin - Kakashi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-megumi",
+      "portrait_file": "Yin - Megumi.png",
+      "script_file": "Yin-Megumi.zip",
+      "skin_name": "Megumi",
+      "splash_file": "Yin - Megumi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-naruto",
+      "portrait_file": "Yin - Naruto.png",
+      "script_file": "Yin-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Yin - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-naruto-kcm",
+      "portrait_file": "Yin - Naruto KCM.png",
+      "script_file": "Yin-Naruto-KCM.zip",
+      "skin_name": "Naruto KCM",
+      "splash_file": "Yin - Naruto KCM.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-obito",
+      "portrait_file": "Yin - Obito.png",
+      "script_file": "Yin-Obito.zip",
+      "skin_name": "Obito",
+      "splash_file": "Yin - Obito.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-obito-v2",
+      "portrait_file": "Yin - Obito V2.png",
+      "script_file": "Yin-Obito-V2.zip",
+      "skin_name": "Obito V2",
+      "splash_file": "Yin - Obito V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-oggy",
+      "portrait_file": "Yin - Oggy.png",
+      "script_file": "Yin-Oggy.zip",
+      "skin_name": "Oggy",
+      "splash_file": "Yin - Oggy.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "yin-sukuna",
+      "portrait_file": "Yin - Sukuna.png",
+      "script_file": "Yin-Sukuna.zip",
+      "skin_name": "Sukuna",
+      "splash_file": "Yin - Sukuna.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-taro-sakamoto",
+      "portrait_file": "Yin - Taro Sakamoto.png",
+      "script_file": "Yin-Taro-Sakamoto.zip",
+      "skin_name": "Taro Sakamoto",
+      "splash_file": "Yin - Taro Sakamoto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "yin-ultraman",
+      "portrait_file": "Yin - Ultraman.png",
+      "script_file": "Yin-Ultraman.zip",
+      "skin_name": "Ultraman",
+      "splash_file": "Yin - Ultraman.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Movies & TV"
+    },
+    {
+      "enabled": true,
+      "id": "yin-yuji",
+      "portrait_file": "Yin - Yuji.png",
+      "script_file": "Yin-Yuji.zip",
+      "skin_name": "Yuji",
+      "splash_file": "Yin - Yuji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "yin-yuta",
+      "portrait_file": "Yin - Yuta.png",
+      "script_file": "Yin-Yuta.zip",
+      "skin_name": "Yuta",
+      "splash_file": "Yin - Yuta.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 113,
+    "name": "Yin",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "yin"
+  },
+  "release_tag": "custom-yin",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

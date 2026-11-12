@@ -1,0 +1,49 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "beatrix-aspirants",
+      "portrait_file": "Beatrix - Aspirants.png",
+      "script_file": "Beatrix-Aspirants.zip",
+      "skin_name": "Aspirants",
+      "splash_file": "Beatrix - Aspirants.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-collector",
+      "portrait_file": "Beatrix - Collector.png",
+      "script_file": "Beatrix-Collector.zip",
+      "skin_name": "Collector",
+      "splash_file": "Beatrix - Collector.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-frost-fire",
+      "portrait_file": "Beatrix - Frost Fire.png",
+      "script_file": "Beatrix-Frost-Fire.zip",
+      "skin_name": "Frost Fire",
+      "splash_file": "Beatrix - Frost Fire.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 105,
+    "name": "Beatrix",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "beatrix"
+  },
+  "release_tag": "custom-beatrix",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

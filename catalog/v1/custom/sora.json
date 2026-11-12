@@ -1,0 +1,25 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "sora-luffy",
+      "portrait_file": "Sora - Luffy.png",
+      "script_file": "Sora-Luffy.zip",
+      "skin_name": "Luffy",
+      "splash_file": "Sora - Luffy.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 131,
+    "name": "Sora",
+    "roles": [],
+    "slug": "sora"
+  },
+  "release_tag": "custom-sora",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

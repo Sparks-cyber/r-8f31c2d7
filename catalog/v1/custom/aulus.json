@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "aulus-rengoku",
+      "portrait_file": "Aulus - Rengoku.png",
+      "script_file": "Aulus-Rengoku.zip",
+      "skin_name": "Rengoku",
+      "splash_file": "Aulus - Rengoku.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "aulus-tanjiro",
+      "portrait_file": "Aulus - Tanjiro.png",
+      "script_file": "Aulus-Tanjiro.zip",
+      "skin_name": "Tanjiro",
+      "splash_file": "Aulus - Tanjiro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 108,
+    "name": "Aulus",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "aulus"
+  },
+  "release_tag": "custom-aulus",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

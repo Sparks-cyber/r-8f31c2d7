@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "khufra-backup",
+      "portrait_file": "Khufra-Default.png",
+      "script_file": "Khufra-Backup.zip",
+      "skin_name": "Desert Tyrant",
+      "splash_file": "Khufra-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-desert-owl",
+      "portrait_file": "Khufra-Desert-Owl.png",
+      "script_file": "Khufra-Desert-Owl.zip",
+      "skin_name": "Desert Owl",
+      "splash_file": "Khufra-Desert-Owl.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-apophis",
+      "portrait_file": "Khufra-Apophis.png",
+      "script_file": "Khufra-Apophis.zip",
+      "skin_name": "Apophis",
+      "splash_file": "Khufra-Apophis.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-gentleman-thief",
+      "portrait_file": "Khufra-Gentleman-Thief.png",
+      "script_file": "Khufra-Gentleman-Thief.zip",
+      "skin_name": "Gentleman Thief",
+      "splash_file": "Khufra-Gentleman-Thief.png",
+      "tag_id": "valentine",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-volcanic-overlord",
+      "portrait_file": "Khufra-Volcanic-Overlord.png",
+      "script_file": "Khufra-Volcanic-Overlord.zip",
+      "skin_name": "Volcanic Overlord",
+      "splash_file": "Khufra-Volcanic-Overlord.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-dreadful-clown",
+      "portrait_file": "Khufra-Dreadful-Clown.png",
+      "script_file": "Khufra-Dreadful-Clown.zip",
+      "skin_name": "Dreadful Clown",
+      "splash_file": "Khufra-Dreadful-Clown.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-iron-hook",
+      "portrait_file": "Khufra-Iron-Hook.png",
+      "script_file": "Khufra-Iron-Hook.zip",
+      "skin_name": "Iron Hook",
+      "splash_file": "Khufra-Iron-Hook.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-cursed-scroll",
+      "portrait_file": "Khufra-Cursed-Scroll.png",
+      "script_file": "Khufra-Cursed-Scroll.zip",
+      "skin_name": "Cursed Scroll",
+      "splash_file": "Khufra-Cursed-Scroll.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-classic-crook-painted-01",
+      "portrait_file": "Khufra-Classic-Crook.png",
+      "script_file": "Khufra-Classic-Crook.zip",
+      "skin_name": "Classic Crook",
+      "splash_file": "Khufra - Classic Crook.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 78,
+    "name": "Khufra",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "khufra"
+  },
+  "release_tag": "visual-khufra",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,97 @@
+{
+  "catalog_version": "2026.10.24.104806",
+  "data": [
+    {
+      "enabled": true,
+      "id": "bane-backup",
+      "portrait_file": "Bane-Default.png",
+      "script_file": "Bane-Backup.zip",
+      "skin_name": "Frozen King",
+      "splash_file": "Bane-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "bane-castle-master",
+      "portrait_file": "Bane-Castle-Master.png",
+      "script_file": "Bane-Castle-Master.zip",
+      "skin_name": "Castle Master",
+      "splash_file": "Bane-Castle-Master.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "bane-deep-sea-monster",
+      "portrait_file": "Bane-Deep-Sea-Monster.png",
+      "script_file": "Bane-Deep-Sea-Monster.zip",
+      "skin_name": "Deep Sea Monster",
+      "splash_file": "Bane-Deep-Sea-Monster.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "bane-warlord",
+      "portrait_file": "Bane-Warlord.png",
+      "script_file": "Bane-Warlord.zip",
+      "skin_name": "Warlord",
+      "splash_file": "Bane-Warlord.png",
+      "tag_id": "s11",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "bane-underworld-outlaw",
+      "portrait_file": "Bane-Underworld-Outlaw.png",
+      "script_file": "Bane-Underworld-Outlaw.zip",
+      "skin_name": "Underworld Outlaw",
+      "splash_file": "Bane-Underworld-Outlaw.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "bane-soul-defiler",
+      "portrait_file": "Bane-Soul-Defiler.png",
+      "script_file": "Bane-Soul-Defiler.zip",
+      "skin_name": "Soul Defiler",
+      "splash_file": "Bane-Soul-Defiler.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "bane-lord-of-scalding-seas",
+      "portrait_file": "Bane-Lord-of-Scalding-Seas.png",
+      "script_file": "Bane-Lord-of-Scalding-Seas.zip",
+      "skin_name": "Lord of Scalding Seas",
+      "splash_file": "Bane-Lord-of-Scalding-Seas.png",
+      "tag_id": "starlight-star",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "bane-mr-krabs",
+      "portrait_file": "Bane-Mr-Krabs.png",
+      "script_file": "Bane-Mr-Krabs.zip",
+      "skin_name": "Mr. Krabs",
+      "splash_file": "Bane-Mr-Krabs.png",
+      "tag_id": "spongebob-squarepants",
+      "tier": "exquisite"
+    }
+  ],
+  "hero": {
+    "id": 11,
+    "name": "Bane",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "slug": "bane"
+  },
+  "release_tag": "visual-bane",
+  "schema_version": 1,
+  "updated_at": "2026-10-24T10:48:06+00:00"
+}

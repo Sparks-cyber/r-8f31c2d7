@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 23,
+    "slug": "gord",
+    "name": "Gord"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "gord-community-6509",
+      "name": "Community Build 6509",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "magicboots",
+        "enchantedtalisman",
+        "glowingwand",
+        "lightningtruncheon",
+        "icequeenwand",
+        "fleetingtime"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "rupture",
+        "bargainhunter",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "top hero build",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6509,
+      "source_created_at": "2026-03-15T02:53:49.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "gord-community-5737",
+      "name": "Community Build 5737",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "skypiercer",
+        "glowingwand",
+        "arcaneboots",
+        "geniuswand",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "inspire",
+        "bargainhunter",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Build Bagus buat lawan musuh tebel (Fighter, Hyper Tank) selain tebel pun masih bagus.\n\nDamage ada, Main poke & burst bagus",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5737,
+      "source_created_at": "2026-02-16T10:09:57.000Z",
+      "likes": 2,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "gord-companion-baseline",
+      "name": "Companion Mage Baseline",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

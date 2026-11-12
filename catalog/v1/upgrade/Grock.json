@@ -1,0 +1,419 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Grock",
+  "role": "Tank/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Grave Guardian",
+      "Splash_url": "Grock-Grave-Guardian.png",
+      "script": "Grock-Grave-Guardian-Backup.zip",
+      "Portrait_url": "Grock-Grave-Guardian.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Castle Guard",
+          "Portrait_url": "Grock-Castle-Guard.png",
+          "Splash_url": "Grock-Castle-Guard.png",
+          "script": "Grock-Grave-Guardian-Castle-Guard.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Monitor Lizard",
+          "Portrait_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "Splash_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "script": "Grock-Grave-Guardian-V-E-N-O-M-Monitor-Lizard.zip"
+        },
+        {
+          "name": "Iceland Golem",
+          "Portrait_url": "Grock-Iceland-Golem.png",
+          "Splash_url": "Grock-Iceland-Golem.png",
+          "script": "Grock-Grave-Guardian-Iceland-Golem.zip"
+        },
+        {
+          "name": "Codename: Rhino",
+          "Portrait_url": "Grock-Codename-Rhino.png",
+          "Splash_url": "Grock-Codename-Rhino.png",
+          "script": "Grock-Grave-Guardian-Codename-Rhino.zip"
+        },
+        {
+          "name": "Ancient Golem",
+          "Portrait_url": "Grock-Ancient-Golem.png",
+          "Splash_url": "Grock-Ancient-Golem.png",
+          "script": "Grock-Grave-Guardian-Ancient-Golem.zip"
+        },
+        {
+          "name": "Wasteland Psycho",
+          "Portrait_url": "Grock-Wasteland-Psycho.png",
+          "Splash_url": "Grock-Wasteland-Psycho.png",
+          "script": "Grock-Grave-Guardian-Wasteland-Psycho.zip"
+        },
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Grave-Guardian-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Castle Guard",
+      "Splash_url": "Grock-Castle-Guard.png",
+      "script": "Grock-Castle-Guard-Backup.zip",
+      "Portrait_url": "Grock-Castle-Guard.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Grave Guardian",
+          "Portrait_url": "Grock-Grave-Guardian.png",
+          "Splash_url": "Grock-Grave-Guardian.png",
+          "script": "Grock-Castle-Guard-Grave-Guardian.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Monitor Lizard",
+          "Portrait_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "Splash_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "script": "Grock-Castle-Guard-V-E-N-O-M-Monitor-Lizard.zip"
+        },
+        {
+          "name": "Iceland Golem",
+          "Portrait_url": "Grock-Iceland-Golem.png",
+          "Splash_url": "Grock-Iceland-Golem.png",
+          "script": "Grock-Castle-Guard-Iceland-Golem.zip"
+        },
+        {
+          "name": "Codename: Rhino",
+          "Portrait_url": "Grock-Codename-Rhino.png",
+          "Splash_url": "Grock-Codename-Rhino.png",
+          "script": "Grock-Castle-Guard-Codename-Rhino.zip"
+        },
+        {
+          "name": "Ancient Golem",
+          "Portrait_url": "Grock-Ancient-Golem.png",
+          "Splash_url": "Grock-Ancient-Golem.png",
+          "script": "Grock-Castle-Guard-Ancient-Golem.zip"
+        },
+        {
+          "name": "Wasteland Psycho",
+          "Portrait_url": "Grock-Wasteland-Psycho.png",
+          "Splash_url": "Grock-Wasteland-Psycho.png",
+          "script": "Grock-Castle-Guard-Wasteland-Psycho.zip"
+        },
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Castle-Guard-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "V.E.N.O.M.",
+      "Default_name": "V.E.N.O.M. Monitor Lizard",
+      "Splash_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+      "script": "Grock-V-E-N-O-M-Monitor-Lizard-Backup.zip",
+      "Portrait_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+      "Tags": [
+        "VENOM.png"
+      ],
+      "targets": [
+        {
+          "name": "Grave Guardian",
+          "Portrait_url": "Grock-Grave-Guardian.png",
+          "Splash_url": "Grock-Grave-Guardian.png",
+          "script": "Grock-V-E-N-O-M-Monitor-Lizard-Grave-Guardian.zip"
+        },
+        {
+          "name": "Castle Guard",
+          "Portrait_url": "Grock-Castle-Guard.png",
+          "Splash_url": "Grock-Castle-Guard.png",
+          "script": "Grock-V-E-N-O-M-Monitor-Lizard-Castle-Guard.zip"
+        },
+        {
+          "name": "Iceland Golem",
+          "Portrait_url": "Grock-Iceland-Golem.png",
+          "Splash_url": "Grock-Iceland-Golem.png",
+          "script": "Grock-V-E-N-O-M-Monitor-Lizard-Iceland-Golem.zip"
+        },
+        {
+          "name": "Codename: Rhino",
+          "Portrait_url": "Grock-Codename-Rhino.png",
+          "Splash_url": "Grock-Codename-Rhino.png",
+          "script": "Grock-V-E-N-O-M-Monitor-Lizard-Codename-Rhino.zip"
+        },
+        {
+          "name": "Ancient Golem",
+          "Portrait_url": "Grock-Ancient-Golem.png",
+          "Splash_url": "Grock-Ancient-Golem.png",
+          "script": "Grock-V-E-N-O-M-Monitor-Lizard-Ancient-Golem.zip"
+        },
+        {
+          "name": "Wasteland Psycho",
+          "Portrait_url": "Grock-Wasteland-Psycho.png",
+          "Splash_url": "Grock-Wasteland-Psycho.png",
+          "script": "Grock-V-E-N-O-M-Monitor-Lizard-Wasteland-Psycho.zip"
+        },
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-V-E-N-O-M-Monitor-Lizard-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Iceland Golem",
+      "Splash_url": "Grock-Iceland-Golem.png",
+      "script": "Grock-Iceland-Golem-Backup.zip",
+      "Portrait_url": "Grock-Iceland-Golem.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Grave Guardian",
+          "Portrait_url": "Grock-Grave-Guardian.png",
+          "Splash_url": "Grock-Grave-Guardian.png",
+          "script": "Grock-Iceland-Golem-Grave-Guardian.zip"
+        },
+        {
+          "name": "Castle Guard",
+          "Portrait_url": "Grock-Castle-Guard.png",
+          "Splash_url": "Grock-Castle-Guard.png",
+          "script": "Grock-Iceland-Golem-Castle-Guard.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Monitor Lizard",
+          "Portrait_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "Splash_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "script": "Grock-Iceland-Golem-V-E-N-O-M-Monitor-Lizard.zip"
+        },
+        {
+          "name": "Codename: Rhino",
+          "Portrait_url": "Grock-Codename-Rhino.png",
+          "Splash_url": "Grock-Codename-Rhino.png",
+          "script": "Grock-Iceland-Golem-Codename-Rhino.zip"
+        },
+        {
+          "name": "Ancient Golem",
+          "Portrait_url": "Grock-Ancient-Golem.png",
+          "Splash_url": "Grock-Ancient-Golem.png",
+          "script": "Grock-Iceland-Golem-Ancient-Golem.zip"
+        },
+        {
+          "name": "Wasteland Psycho",
+          "Portrait_url": "Grock-Wasteland-Psycho.png",
+          "Splash_url": "Grock-Wasteland-Psycho.png",
+          "script": "Grock-Iceland-Golem-Wasteland-Psycho.zip"
+        },
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Iceland-Golem-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Codename: Rhino",
+      "Splash_url": "Grock-Codename-Rhino.png",
+      "script": "Grock-Codename-Rhino-Backup.zip",
+      "Portrait_url": "Grock-Codename-Rhino.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Grave Guardian",
+          "Portrait_url": "Grock-Grave-Guardian.png",
+          "Splash_url": "Grock-Grave-Guardian.png",
+          "script": "Grock-Codename-Rhino-Grave-Guardian.zip"
+        },
+        {
+          "name": "Castle Guard",
+          "Portrait_url": "Grock-Castle-Guard.png",
+          "Splash_url": "Grock-Castle-Guard.png",
+          "script": "Grock-Codename-Rhino-Castle-Guard.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Monitor Lizard",
+          "Portrait_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "Splash_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "script": "Grock-Codename-Rhino-V-E-N-O-M-Monitor-Lizard.zip"
+        },
+        {
+          "name": "Iceland Golem",
+          "Portrait_url": "Grock-Iceland-Golem.png",
+          "Splash_url": "Grock-Iceland-Golem.png",
+          "script": "Grock-Codename-Rhino-Iceland-Golem.zip"
+        },
+        {
+          "name": "Ancient Golem",
+          "Portrait_url": "Grock-Ancient-Golem.png",
+          "Splash_url": "Grock-Ancient-Golem.png",
+          "script": "Grock-Codename-Rhino-Ancient-Golem.zip"
+        },
+        {
+          "name": "Wasteland Psycho",
+          "Portrait_url": "Grock-Wasteland-Psycho.png",
+          "Splash_url": "Grock-Wasteland-Psycho.png",
+          "script": "Grock-Codename-Rhino-Wasteland-Psycho.zip"
+        },
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Codename-Rhino-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Ancient Golem",
+      "Splash_url": "Grock-Ancient-Golem.png",
+      "script": "Grock-Ancient-Golem-Backup.zip",
+      "Portrait_url": "Grock-Ancient-Golem.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Grave Guardian",
+          "Portrait_url": "Grock-Grave-Guardian.png",
+          "Splash_url": "Grock-Grave-Guardian.png",
+          "script": "Grock-Ancient-Golem-Grave-Guardian.zip"
+        },
+        {
+          "name": "Castle Guard",
+          "Portrait_url": "Grock-Castle-Guard.png",
+          "Splash_url": "Grock-Castle-Guard.png",
+          "script": "Grock-Ancient-Golem-Castle-Guard.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Monitor Lizard",
+          "Portrait_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "Splash_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "script": "Grock-Ancient-Golem-V-E-N-O-M-Monitor-Lizard.zip"
+        },
+        {
+          "name": "Iceland Golem",
+          "Portrait_url": "Grock-Iceland-Golem.png",
+          "Splash_url": "Grock-Iceland-Golem.png",
+          "script": "Grock-Ancient-Golem-Iceland-Golem.zip"
+        },
+        {
+          "name": "Codename: Rhino",
+          "Portrait_url": "Grock-Codename-Rhino.png",
+          "Splash_url": "Grock-Codename-Rhino.png",
+          "script": "Grock-Ancient-Golem-Codename-Rhino.zip"
+        },
+        {
+          "name": "Wasteland Psycho",
+          "Portrait_url": "Grock-Wasteland-Psycho.png",
+          "Splash_url": "Grock-Wasteland-Psycho.png",
+          "script": "Grock-Ancient-Golem-Wasteland-Psycho.zip"
+        },
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Ancient-Golem-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Wasteland Psycho",
+      "Splash_url": "Grock-Wasteland-Psycho.png",
+      "script": "Grock-Wasteland-Psycho-Backup.zip",
+      "Portrait_url": "Grock-Wasteland-Psycho.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Grave Guardian",
+          "Portrait_url": "Grock-Grave-Guardian.png",
+          "Splash_url": "Grock-Grave-Guardian.png",
+          "script": "Grock-Wasteland-Psycho-Grave-Guardian.zip"
+        },
+        {
+          "name": "Castle Guard",
+          "Portrait_url": "Grock-Castle-Guard.png",
+          "Splash_url": "Grock-Castle-Guard.png",
+          "script": "Grock-Wasteland-Psycho-Castle-Guard.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Monitor Lizard",
+          "Portrait_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "Splash_url": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+          "script": "Grock-Wasteland-Psycho-V-E-N-O-M-Monitor-Lizard.zip"
+        },
+        {
+          "name": "Iceland Golem",
+          "Portrait_url": "Grock-Iceland-Golem.png",
+          "Splash_url": "Grock-Iceland-Golem.png",
+          "script": "Grock-Wasteland-Psycho-Iceland-Golem.zip"
+        },
+        {
+          "name": "Codename: Rhino",
+          "Portrait_url": "Grock-Codename-Rhino.png",
+          "Splash_url": "Grock-Codename-Rhino.png",
+          "script": "Grock-Wasteland-Psycho-Codename-Rhino.zip"
+        },
+        {
+          "name": "Ancient Golem",
+          "Portrait_url": "Grock-Ancient-Golem.png",
+          "Splash_url": "Grock-Ancient-Golem.png",
+          "script": "Grock-Wasteland-Psycho-Ancient-Golem.zip"
+        },
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Wasteland-Psycho-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Tremor of the Deep",
+      "Splash_url": "Grock-Tremor-of-the-Deep.png",
+      "script": "Grock-Tremor-of-the-Deep-Backup.zip",
+      "Portrait_url": "Grock-Tremor-of-the-Deep.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Tremor-of-the-Deep-Colossus-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Exquisite",
+      "Default_name": "Titanic Illusion",
+      "Splash_url": "Grock-Titanic-Illusion.png",
+      "script": "Grock-Titanic-Illusion-Backup.zip",
+      "Portrait_url": "Grock-Titanic-Illusion.png",
+      "Tags": [
+        "Beta Unreleased.png"
+      ],
+      "targets": [
+        {
+          "name": "Colossus of Light",
+          "Portrait_url": "Grock-Colossus-of-Light.png",
+          "Splash_url": "Grock-Colossus-of-Light.png",
+          "script": "Grock-Titanic-Illusion-Colossus-of-Light.zip"
+        }
+      ]
+    }
+  ]
+}

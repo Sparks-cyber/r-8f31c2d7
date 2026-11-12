@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 126,
+    "slug": "suyou",
+    "name": "Suyou"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "suyou-community-6764",
+      "name": "Community Build 6764",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "magicboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "waraxe",
+        "oracle",
+        "seahalberd"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "impurerage",
+        "thrill",
+        "seasonedhunter"
+      ],
+      "situational_items": [],
+      "notes": "Pasti sakit",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6764,
+      "source_created_at": "2026-03-28T11:26:07.000Z",
+      "likes": 7,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "suyou-community-7151",
+      "name": "Community Build 7151",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "magicboots",
+        "hunterstrike",
+        "waraxe",
+        "maleficroar",
+        "bruteforcebreastplate",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "thrill",
+        "seasonedhunter",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "In the early game, he farms quickly and is suitable for those who play aggressively. Using this emblem has high snowball potential, as the marksman emblem has higher penetration than the assassin emblem.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7151,
+      "source_created_at": "2026-04-19T12:20:56.000Z",
+      "likes": 5,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "suyou-companion-baseline",
+      "name": "Companion Assassin/Fighter Baseline",
+      "lane": "Jungle/EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

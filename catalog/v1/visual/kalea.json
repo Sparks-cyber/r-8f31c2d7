@@ -1,0 +1,57 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "kalea-backup",
+      "portrait_file": "Kalea-Default.png",
+      "script_file": "Kalea-Backup.zip",
+      "skin_name": "Surging Wave",
+      "splash_file": "Kalea-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "kalea-shimmering-waves",
+      "portrait_file": "Kalea-Shimmering-Waves.png",
+      "script_file": "Kalea-Shimmering-Waves.zip",
+      "skin_name": "Shimmering Waves",
+      "splash_file": "Kalea-Shimmering-Waves.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "kalea-sakura-haruno",
+      "portrait_file": "Kalea-Sakura-Haruno.png",
+      "script_file": "Kalea-Sakura-Haruno.zip",
+      "skin_name": "Sakura Haruno",
+      "splash_file": "Kalea-Sakura-Haruno.png",
+      "tag_id": "naruto-shippuden",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "kalea-tideborn-sailor",
+      "portrait_file": "Kalea-Tideborn-Sailor.png",
+      "script_file": "Kalea-Tideborn-Sailor.zip",
+      "skin_name": "Tideborn Sailor",
+      "splash_file": "Kalea-Tideborn-Sailor.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 128,
+    "name": "Kalea",
+    "roles": [
+      "Support",
+      "Fighter"
+    ],
+    "slug": "kalea"
+  },
+  "release_tag": "visual-kalea",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

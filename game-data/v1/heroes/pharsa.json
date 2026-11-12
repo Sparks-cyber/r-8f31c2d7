@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 52,
+    "slug": "pharsa",
+    "name": "Pharsa",
+    "skin_name": "Wings of Vengeance",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "27 December 2017",
+    "resource": "Mana",
+    "short_description": "Crow Princess of Askati Forest.",
+    "brief": "As princess of the Crow Clan of Askati Forest, she was born with mutated blood. The mutation could gain her amazing abilities if she is awakened. When Alice invaded Askati Forest, the awakened Pharsa drove Alice away and lost her eyesight. After that, her lover turned himself into a crow to replace her eyes.",
+    "story": "The Crow people of Askati Forest are one of the oldest races to still exist in the Land of Dawn. This race was united by the Crow King, Osana, under whose venerable leadership they perfected the art of Sky Magic. This unique school of magic allows its wielder to transform into a bird, soar across the skies, and grants the ability to strike from enormous distances, however, only those who have had their blood \"awakened\" can use it.\n\nThe noble Princess Pharsa was born with an unknown type of blood which was said to hold enormous potential if awakened, but as hard as they tried, the baffled people of her tribe failed to unleash its true power. Soon enough, Pharsa’s special blood became a burden, as ill-intentioned opportunists from across the land sought to reap it for their own benefit. On the day of Pharsa’s wedding, the tyrannical witch, Alice invaded the Askati Forest, mercilessly slaying countless Crows and leaving a smoldering trail of ruin in her wake. Numbed to the core by the carnage surrounding her, Pharsa dropped Osana's ancient crown to the floor. Her appearance began to change, as unprecedented power coursed through her veins—her blood had been awakened. Pharsa’s eyes clouded over, as one side of her hair turned pure white, and she soared into the sky to unleash a torrential assault of horrifying magical power, fierce enough to drive Alice away.\n\nVerri, the love of her life, couldn’t bear to see his betrothed suffer a life of blindness alone, and chose to accompany Pharsa wherever she went, utilizing his own magic to become permanently linked to Pharsa, and allowing her to see through his eyes. Pharsa wishes her power had never been awakened, she wishes even more that her home had not been destroyed, but that witch took everything from her, and now it was time for revenge...",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 2,
+    "offense": 9,
+    "control": 5,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2320,
+    "health_growth": 145,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 109,
+    "physical_attack_growth": 6.43,
+    "magic_power": 0,
+    "physical_defense": 16,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 0.99,
+    "attack_speed_growth": 0.0093,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.7
+  },
+  "abilities": [
+    {
+      "id": "Pharsa0",
+      "name": "Spiritual Unity",
+      "description": "Every 5 to 8s (varies with <highlight>Feathered Air Strike</highlight> level), Verri enters the Hunting state and assists Pharsa on her next attack against an enemy hero, dealing extra <magicDamage>Magic Damage</magicDamage> equal to 8% of the target's Max HP (+ 1% for every 200 Magic Power owned) and slowing them by 60% for 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ebde3d94865d5d05527b4becf8099d61.png",
+      "video_url": null
+    },
+    {
+      "id": "Pharsa1",
+      "name": "Curse of Crow",
+      "description": "Pharsa unleashes a blast of magic at the target location, dealing 300/325/350/375/400/425<scaleAP> (+120% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies hit and marking them for 4s.<br/><br/>When Pharsa hits a marked enemy with a Basic Attack or active skill, the mark is consumed to stun them for 1s.<br/>Marked enemies have their position revealed.",
+      "flavor_text": null,
+      "cost": "60/66/72/78/84/90",
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f742fccb6bbc9436b3085a1ee4b740f7.png",
+      "video_url": null
+    },
+    {
+      "id": "Pharsa2",
+      "name": "Energy Impact",
+      "description": "Pharsa releases magic energy in the target direction, dealing 475/520/565/610/655/700<scaleAP> (+145% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies hit.",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "6.5/6.2/5.9/5.6/5.3/5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcf364fc10b2a3ee13ba23a6d56f7987.png",
+      "video_url": null
+    },
+    {
+      "id": "Pharsa3",
+      "name": "Feathered Air Strike",
+      "description": "<highlight>Passive</highlight>: Each level-up reduces <highlight>Spiritual Unity</highlight>'s interval by 1s.<br/><highlight>Active</highlight>: Pharsa takes flight for 8s and bombards the target location, dealing 530/700/870<scaleAP> (+160% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies within the area. This skill can be cast up to 4 times within the duration.",
+      "flavor_text": null,
+      "cost": "120/150/180",
+      "cooldown": "36/33/30",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0d9ce0152491c148821703d1e31d802.png",
+      "video_url": null
+    },
+    {
+      "id": "Pharsa4",
+      "name": "Wings by Wings",
+      "description": "Pharsa turns into mist and wraps herself around Verri, gaining 150% extra Movement Speed (decaying over time) and the ability to fly over terrain. This state lasts up to 5s or until she uses a Basic Attack or skills, or is controlled.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "23",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_566a1f86bd9177eb7b75f0fb0a0c762c.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Pharsa0",
+      "sequence": "Pharsa4-Pharsa1-Pharsa3-Pharsa2-Pharsa3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Pharsa can use her 4th Skill to get into an advantageous position to initiate a teamfight, followed by a damage combo with her 1st and 3rd skills and use her 2nd Skill when she wants to deal extra damage."
+    },
+    {
+      "id": "Pharsa1",
+      "sequence": "Pharsa1-Pharsa2-Pharsa3",
+      "name": "LANING COMBOS",
+      "description": "Pharsa should start with her 1st Skill to mark the enemy, follow up with her 2nd Skill to apply CC, and then cast her Ultimate to deal an insane amount of Magic Damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Pharsa is best with heroes who can CC the enemy so that her skills can hit them. Atlas and Franco are good examples of this.",
+      "heroes": [
+        {
+          "id": 93,
+          "slug": "atlas",
+          "name": "Atlas"
+        },
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Pharsa can deal high burst damage from a very long range. A great counter to enemy back-row heroes with poor Mobility, such as Layla, Hanabi and Xavier.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        },
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Pharsa should beware of any displacement ability skill. Heroes like Franco, Zilong and Minsitthar can easily interrupt Pharsa's Ultimate.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 16,
+          "slug": "zilong",
+          "name": "Zilong"
+        },
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Pharsa-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Pharsa-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_353d39f8ae9ea1454e34ad8546db8417.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_353d39f8ae9ea1454e34ad8546db8417.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/pharsa.json",
+    "visual_catalog": "catalog/v1/visual/pharsa.json",
+    "upgrade_catalog": "catalog/v1/upgrade/pharsa.json"
+  }
+}

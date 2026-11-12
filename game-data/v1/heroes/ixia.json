@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 121,
+    "slug": "ixia",
+    "name": "Ixia",
+    "skin_name": "Arclight Outlaw",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "8 July 2023",
+    "resource": "Mana",
+    "short_description": "The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a Starlium reactor.",
+    "brief": "Born into a tribe of Sand Hunters, Ixia was honed by the harsh desert environment into a cunning leader at a very young age. While most Sand Hunters are only concerned about plunder, Ixia was always had a fondness for inventing gadgets and believed science should not be a tool reserved only for the academics of Eruditio. Ixia has always lived by her own rules, like the ever shifting sands of the Agelta Drylands.",
+    "story": "This is a stick up, hands where I can see!\r\nPut away your gold, it's no use to me.\r\nBut those fine books, I'll take from your hands,\r\nNow head that way, before you get lost in these sands.\r\n\r\n— Ixia, Boss of Bad Soul (7 years old)\r\n\r\nThe entire place seemed like it was on the verge of coming down. Gravel blasted in through the cracks of the windows, pelting the mugs like bullets. But at this moment, the traveler would rather be braving the sandstorm outside than spend another second in Snakebone Tavern. The traveler had come from the Moniyan Empire, intending to take advantage of the Festival of Enlightenment to study in Eruditio. He couldn't believe his luck finding a place to spend the night this far out in the desert. That is, until a group of Sand Hunters sat down at the table beside him and began ranting about their last job. He wrapped himself tightly in his cloak and pretended to enjoy the gravelly soup in front of him, trying not to look like their next victim.\r\n\r\n\"That's enough booze... I ain't in the mood. You know, I don't regret shooting that brat, but now it's suddenly getting to me, like a sandworm crawling in my head. The last time we had a sandstorm this fierce was when Ixia was born. That was sixteen years ago, on a night so dark you couldn't even see your own gun in your hands. Her mother, the then boss of Bad Soul, had gotten lost in the desert and was about to go into labor. But as things would have it, a shooting star flew over Eruditio and lit the way to Ixia's birth.\r\n\r\nIxia was always a clever kid. She learned how to load a gun before she could even walk straight. Sigh... It's a pity she picked up such bad habits. She was only seven when she stole for the first time. And what was her plunder? A stack of books! Can you believe that? What kind of Sand Hunter steals books? And from then on, she would always target caravans bound for Eruditio, just to return with sacks of dusty books. She said she wanted to be an inventor... What a naive, little fool! She kept 'inventin' all these useless junk... A grill made out of a guitar, a desert swimming contraption.... Hell, my boy nearly drowned in that quicksand! And... Huh?! Who's making that noise?\"\r\n\r\nThe traveler pretended to choke on his soup to cover his sudden burst of laughter. An outlaw who loved to read? He had never heard of such a thing. Filled with curiosity about this Ixia person, the traveler silently moved his stool ever so closer to the rowdy table.\r\n\r\n\"Anyway, it had nothing to do with her inventions. I took that shot to uphold the ways of this land. I couldn't believe it when her mother passed leadership of Bad Soul to Ixia. She was shorter than my rifle, yet dared sit so high above her predecessors. I often ran into her while out on our hunts. She was fearless and a natural shot, and as her senior, I had planned to look out for her, but she looked down on us for taking from unarmed civilians! She even went out of her way to return everything we stole! A crook with a conscience... Ain't that rich! That girl really doesn't know what's best for her until she's facing down the barrel of a gun. I would have made my move long ago... If it wasn't for old nana's sake. That breathing thingy Ixia made cured grandma's snoring problem...\"\r\n\r\nThe traveler was taken back, for he had a keen interest in medical devices. Perhaps he could exchange knowledge with this Ixia—\r\n\r\nTHUMP! A knife came down and nearly split the table as the leader of the group angrily cleared his throat.\r\n\r\n\"Idiots! You deserve to have suffered under her thumb for all these years. Who cares about her inventions, or even dishonor amongst thieves? Ixia's biggest mistake was drawing the ire of Eruditio. Just think about it! When did the winds of this desert turn against us? The Eruditio Rangers have spent years trying to keep us down, yet grit and gunfire have seen us through the worst of it. But ever since they found out Ixia was inventing things, they thought we were looking to take what was theirs! They came to our lands, installed pumps and generators, and then lured our men into taking their so-called 'stable jobs'. Depravity, complete depravity! But Eruditio doesn't care about Ixia at all. During the last Festival of Enlightenment, drawn by their nonsense about equality and openness, she took that new invention of hers to the city for some exhibition. What a laugh! She was stopped by a guard before she could even get inside. They smashed her contraption and turned her into the laughingstock of these lands. Do you know what that guard said? 'Eruditio would never accept such a crude invention. Stop daydreaming and crawl back to the desert where you belong!'—\"\r\n\r\nBAM! The door of the tavern suddenly burst open, and the onslaught of wind and sand nearly threw the traveler off his stool.\r\n\r\n\"Those are my stories to tell.\"\r\n\r\nThe traveler adjusted his glasses just in time to see the figure pull out a pair of strange gadgets.\r\n\r\n\"But I'll give your widows something to tell!\"\r\n\r\nAnd that's when the bullets started flying. Arcing exquisitely around the traveler, Ixia's shots found their way to the three Sand Hunters behind him. The traveler dove under the table and held his mouth shut. He watched in terror as a pair of spiked boots approached and stopped right in front of his table.\r\n\r\n\"Bullets that can arc, inspired by the very sandworms of this desert. What do you think, stranger?\"\r\n\r\nWith great interest, Ixia bent down halfway and lifted the cloak that was tightly wrapped around the traveler, as if admiring a new invention.\r\n\r\n\"Hmm... The smell of shoe polish and leather. It hasn't dissipated even after traveling all this way, has it Mr. Moniyan shoemaker?\"\r\n\r\nAs Ixia keenly exposed his identity, the traveler's face flushed a bright red. The jig was up. How could a simple shoemaker ever hope to become an academic? Eruditio would definitely have mocked him the same way they mocked Ixia. He should just go home and put this terrible trip behind him.\r\n\r\nBut in the spur of the moment, the traveler summoned the courage to utter a question.\r\n\r\n\"D-D-Do you think I can become an academic at Eruditio?\"\r\n\r\n\"Heck if I know,\" Ixia shrugged as she grabbed the traveler's bag. \"But in this desert, no one can tell you which way is right or wrong. They say Sand Hunters can't be inventors, and inventors can't be outlaws.\" Ixia gave a sly smile, and took out a few books from the bag for herself. \"But who are they to define us?\"\r\n\r\nThe traveler was taken back by her words and become lost in his thoughts for a moment. Picking up her loot, Ixia was halfway out the door when she glanced back one last time.\r\n\r\n\"You have to make your own way, just like the ever-shifting sands.\"",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 7,
+    "control": 5,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 155,
+    "health_regen": 8.0,
+    "health_regen_growth": 0.2143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 100,
+    "physical_attack_growth": 7.5,
+    "magic_power": 0,
+    "physical_defense": 16,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 5.0
+  },
+  "abilities": [
+    {
+      "id": "Ixia0",
+      "name": "Siphon Starlium",
+      "description": "Ixia's Basic Attacks and skills apply a stack of <highlight>Starlium Charge</highlight> to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of <highlight>Starlium Charge</highlight>, the attack will consume the stacks and be replaced with <highlight>Siphon Starlium</highlight>, dealing <scaleAD> (+150% Total Physical Attack)</scaleAD> <scaleHP>(+200 Lifesteal)</scaleHP> plus (+10*Hero Level) <physicalDamage>Physical Damage</physicalDamage> to the target. Ixia recovers HP equal to the damage dealt by <highlight>Siphon Starlium</highlight> (only 10<scaleHP>(+150 Lifesteal)</scaleHP>% against non-hero units).<br/><highlight>Siphon Starlium</highlight> can trigger on all enemies in front of Ixia that are within her Basic Attack range, but it cannot Crit.<br/>Ixia's Basic Attacks cannot trigger Lifesteal.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0b28b73c43760afb3539979ea9d5c312.png",
+      "video_url": null
+    },
+    {
+      "id": "Ixia1",
+      "name": "Dual Beam",
+      "description": "Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing 100/130/160/190/220/250<scaleAD> (+70% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a rectangular area and slowing enemy heroes by 50%. Upon hitting an enemy hero, Ixia also gains 2 Movement Speed for s.<br/><br/>Enemies hit by both beams will take double damage.",
+      "flavor_text": null,
+      "cost": "40/45/50/55/60/65",
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8abf9eeb77d6cb3afccd0bd4bb9d772.png",
+      "video_url": null
+    },
+    {
+      "id": "Ixia2",
+      "name": "Star Helix",
+      "description": "Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies, and pulling enemies in range to the center line after a short delay and dealing 200/220/240/260/280/300<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": "65/70/75/80/85/90",
+      "cooldown": "11/10.6/10.2/9.8/9.4/9",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4f780b9ada962f9e52903d9ad5359fd.png",
+      "video_url": null
+    },
+    {
+      "id": "Ixia3",
+      "name": "Full Barrage",
+      "description": "Ixia reassembles her weapon into 6 smaller weapons and enters the <highlight>Barrage</highlight> state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and <highlight>Siphon Starlium</highlight> will fire simultaneously with her normal Basic Attacks.",
+      "flavor_text": null,
+      "cost": "120",
+      "cooldown": "42/36/30",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da280fb5742c603e295f58bf621d50c1.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Ixia0",
+      "sequence": "Ixia3-AA-Ixia2-Ixia1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Choose the perfect location that can secure herself and cast the Ultimate to rain down her attacks on as many enemies as possible. Keep tapping Basic Attack while using her 2nd Skill and 1st Skill to control enemies and deal extra damage."
+    },
+    {
+      "id": "Ixia1",
+      "sequence": "Ixia2-Ixia1-AA",
+      "name": "LANING COMBOS",
+      "description": "Ixia can pull enemies to the center line with her 2nd Skill and follow up with her 1st Skill to deal damage. Use the Movement Speed boost provided by her 1st Skill to chase down enemies."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "With her Ultimate, Ixia is capable of dealing impressive sustained damage. So she works best with heroes with area CC abilities, like Atlas and Vexana.",
+      "heroes": [
+        {
+          "id": 117,
+          "slug": "fredrinn",
+          "name": "Fredrinn"
+        },
+        {
+          "id": 11,
+          "slug": "bane",
+          "name": "Bane"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Ixia's skills make her a nice kiter. She works well against heroes with short ranges or poor Slow abilities, such as Fredrinn and Bane.",
+      "heroes": [
+        {
+          "id": 117,
+          "slug": "fredrinn",
+          "name": "Fredrinn"
+        },
+        {
+          "id": 11,
+          "slug": "bane",
+          "name": "Bane"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Ixia lacks survivability, that's why she can be countered by heroes with high burst damage or strong control abilities such as Saber and Aamon.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 109,
+          "slug": "aamon",
+          "name": "Aamon"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Ixia-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Ixia-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_48896a3cf0ee41c3d54c2b651ed926ea.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_48896a3cf0ee41c3d54c2b651ed926ea.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/ixia.json",
+    "visual_catalog": "catalog/v1/visual/ixia.json",
+    "upgrade_catalog": "catalog/v1/upgrade/ixia.json"
+  }
+}

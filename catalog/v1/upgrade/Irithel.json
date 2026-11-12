@@ -1,0 +1,425 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Irithel",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Silver Cyclone",
+      "Splash_url": "Irithel-Silver-Cyclone.png",
+      "script": "Irithel-Silver-Cyclone-Backup.zip",
+      "Portrait_url": "Irithel-Silver-Cyclone.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Hellfire",
+          "Portrait_url": "Irithel-Hellfire.png",
+          "Splash_url": "Irithel-Hellfire.png",
+          "script": "Irithel-Silver-Cyclone-Hellfire.zip"
+        },
+        {
+          "name": "Nightarrow",
+          "Portrait_url": "Irithel-Nightarrow.png",
+          "Splash_url": "Irithel-Nightarrow.png",
+          "script": "Irithel-Silver-Cyclone-Nightarrow.zip"
+        },
+        {
+          "name": "Sagittarius",
+          "Portrait_url": "Irithel-Sagittarius.png",
+          "Splash_url": "Irithel-Sagittarius.png",
+          "script": "Irithel-Silver-Cyclone-Sagittarius.zip"
+        },
+        {
+          "name": "Astral Wanderer",
+          "Portrait_url": "Irithel-Astral-Wanderer.png",
+          "Splash_url": "Irithel-Astral-Wanderer.png",
+          "script": "Irithel-Silver-Cyclone-Astral-Wanderer.zip"
+        },
+        {
+          "name": "Monster SP Rider",
+          "Portrait_url": "Irithel-Monster-SP-Rider.png",
+          "Splash_url": "Irithel-Monster-SP-Rider.png",
+          "script": "Irithel-Silver-Cyclone-Monster-SP-Rider.zip"
+        },
+        {
+          "name": "Checkered Knight",
+          "Portrait_url": "Irithel-Checkered-Knight.png",
+          "Splash_url": "Irithel-Checkered-Knight.png",
+          "script": "Irithel-Silver-Cyclone-Checkered-Knight.zip"
+        },
+        {
+          "name": "Neon Knight",
+          "Portrait_url": "Irithel-Neon-Knight.png",
+          "Splash_url": "Irithel - Neon Knight.jpg",
+          "script": "Irithel-Silver-Cyclone-Neon-Knight.zip"
+        },
+        {
+          "name": "Ice Spike",
+          "Portrait_url": "Irithel-Ice-Spike.png",
+          "Splash_url": "Irithel-Ice-Spike.png",
+          "script": "Irithel-Silver-Cyclone-Ice-Spike.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Hellfire",
+      "Splash_url": "Irithel-Hellfire.png",
+      "script": "Irithel-Hellfire-Backup.zip",
+      "Portrait_url": "Irithel-Hellfire.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Silver Cyclone",
+          "Portrait_url": "Irithel-Silver-Cyclone.png",
+          "Splash_url": "Irithel-Silver-Cyclone.png",
+          "script": "Irithel-Hellfire-Silver-Cyclone.zip"
+        },
+        {
+          "name": "Nightarrow",
+          "Portrait_url": "Irithel-Nightarrow.png",
+          "Splash_url": "Irithel-Nightarrow.png",
+          "script": "Irithel-Hellfire-Nightarrow.zip"
+        },
+        {
+          "name": "Sagittarius",
+          "Portrait_url": "Irithel-Sagittarius.png",
+          "Splash_url": "Irithel-Sagittarius.png",
+          "script": "Irithel-Hellfire-Sagittarius.zip"
+        },
+        {
+          "name": "Astral Wanderer",
+          "Portrait_url": "Irithel-Astral-Wanderer.png",
+          "Splash_url": "Irithel-Astral-Wanderer.png",
+          "script": "Irithel-Hellfire-Astral-Wanderer.zip"
+        },
+        {
+          "name": "Monster SP Rider",
+          "Portrait_url": "Irithel-Monster-SP-Rider.png",
+          "Splash_url": "Irithel-Monster-SP-Rider.png",
+          "script": "Irithel-Hellfire-Monster-SP-Rider.zip"
+        },
+        {
+          "name": "Checkered Knight",
+          "Portrait_url": "Irithel-Checkered-Knight.png",
+          "Splash_url": "Irithel-Checkered-Knight.png",
+          "script": "Irithel-Hellfire-Checkered-Knight.zip"
+        },
+        {
+          "name": "Neon Knight",
+          "Portrait_url": "Irithel-Neon-Knight.png",
+          "Splash_url": "Irithel - Neon Knight.jpg",
+          "script": "Irithel-Hellfire-Neon-Knight.zip"
+        },
+        {
+          "name": "Rosy Knight",
+          "Portrait_url": "Irithel-Rosy-Knight.png",
+          "Splash_url": "Irithel - Rosy Knight.jpg",
+          "script": "Irithel-Hellfire-Rosy-Knight.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Nightarrow",
+      "Splash_url": "Irithel-Nightarrow.png",
+      "script": "Irithel-Nightarrow-Backup.zip",
+      "Portrait_url": "Irithel-Nightarrow.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Silver Cyclone",
+          "Portrait_url": "Irithel-Silver-Cyclone.png",
+          "Splash_url": "Irithel-Silver-Cyclone.png",
+          "script": "Irithel-Nightarrow-Silver-Cyclone.zip"
+        },
+        {
+          "name": "Hellfire",
+          "Portrait_url": "Irithel-Hellfire.png",
+          "Splash_url": "Irithel-Hellfire.png",
+          "script": "Irithel-Nightarrow-Hellfire.zip"
+        },
+        {
+          "name": "Sagittarius",
+          "Portrait_url": "Irithel-Sagittarius.png",
+          "Splash_url": "Irithel-Sagittarius.png",
+          "script": "Irithel-Nightarrow-Sagittarius.zip"
+        },
+        {
+          "name": "Astral Wanderer",
+          "Portrait_url": "Irithel-Astral-Wanderer.png",
+          "Splash_url": "Irithel-Astral-Wanderer.png",
+          "script": "Irithel-Nightarrow-Astral-Wanderer.zip"
+        },
+        {
+          "name": "Checkered Knight",
+          "Portrait_url": "Irithel-Checkered-Knight.png",
+          "Splash_url": "Irithel-Checkered-Knight.png",
+          "script": "Irithel-Nightarrow-Checkered-Knight.zip"
+        },
+        {
+          "name": "Neon Knight",
+          "Portrait_url": "Irithel-Neon-Knight.png",
+          "Splash_url": "Irithel - Neon Knight.jpg",
+          "script": "Irithel-Nightarrow-Neon-Knight.zip"
+        },
+        {
+          "name": "Rosy Knight",
+          "Portrait_url": "Irithel-Rosy-Knight.png",
+          "Splash_url": "Irithel - Rosy Knight.jpg",
+          "script": "Irithel-Nightarrow-Rosy-Knight.zip"
+        },
+        {
+          "name": "Ice Spike",
+          "Portrait_url": "Irithel-Ice-Spike.png",
+          "Splash_url": "Irithel-Ice-Spike.png",
+          "script": "Irithel-Nightarrow-Ice-Spike.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Sagittarius",
+      "Splash_url": "Irithel-Sagittarius.png",
+      "script": "Irithel-Sagittarius-Backup.zip",
+      "Portrait_url": "Irithel-Sagittarius.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Silver Cyclone",
+          "Portrait_url": "Irithel-Silver-Cyclone.png",
+          "Splash_url": "Irithel-Silver-Cyclone.png",
+          "script": "Irithel-Sagittarius-Silver-Cyclone.zip"
+        },
+        {
+          "name": "Hellfire",
+          "Portrait_url": "Irithel-Hellfire.png",
+          "Splash_url": "Irithel-Hellfire.png",
+          "script": "Irithel-Sagittarius-Hellfire.zip"
+        },
+        {
+          "name": "Nightarrow",
+          "Portrait_url": "Irithel-Nightarrow.png",
+          "Splash_url": "Irithel-Nightarrow.png",
+          "script": "Irithel-Sagittarius-Nightarrow.zip"
+        },
+        {
+          "name": "Astral Wanderer",
+          "Portrait_url": "Irithel-Astral-Wanderer.png",
+          "Splash_url": "Irithel-Astral-Wanderer.png",
+          "script": "Irithel-Sagittarius-Astral-Wanderer.zip"
+        },
+        {
+          "name": "Checkered Knight",
+          "Portrait_url": "Irithel-Checkered-Knight.png",
+          "Splash_url": "Irithel-Checkered-Knight.png",
+          "script": "Irithel-Sagittarius-Checkered-Knight.zip"
+        },
+        {
+          "name": "Neon Knight",
+          "Portrait_url": "Irithel-Neon-Knight.png",
+          "Splash_url": "Irithel - Neon Knight.jpg",
+          "script": "Irithel-Sagittarius-Neon-Knight.zip"
+        },
+        {
+          "name": "Rosy Knight",
+          "Portrait_url": "Irithel-Rosy-Knight.png",
+          "Splash_url": "Irithel - Rosy Knight.jpg",
+          "script": "Irithel-Sagittarius-Rosy-Knight.zip"
+        },
+        {
+          "name": "Ice Spike",
+          "Portrait_url": "Irithel-Ice-Spike.png",
+          "Splash_url": "Irithel-Ice-Spike.png",
+          "script": "Irithel-Sagittarius-Ice-Spike.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Astral Wanderer",
+      "Splash_url": "Irithel-Astral-Wanderer.png",
+      "script": "Irithel-Astral-Wanderer-Backup.zip",
+      "Portrait_url": "Irithel-Astral-Wanderer.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Silver Cyclone",
+          "Portrait_url": "Irithel-Silver-Cyclone.png",
+          "Splash_url": "Irithel-Silver-Cyclone.png",
+          "script": "Irithel-Astral-Wanderer-Silver-Cyclone.zip"
+        },
+        {
+          "name": "Nightarrow",
+          "Portrait_url": "Irithel-Nightarrow.png",
+          "Splash_url": "Irithel-Nightarrow.png",
+          "script": "Irithel-Astral-Wanderer-Nightarrow.zip"
+        },
+        {
+          "name": "Sagittarius",
+          "Portrait_url": "Irithel-Sagittarius.png",
+          "Splash_url": "Irithel-Sagittarius.png",
+          "script": "Irithel-Astral-Wanderer-Sagittarius.zip"
+        },
+        {
+          "name": "Monster SP Rider",
+          "Portrait_url": "Irithel-Monster-SP-Rider.png",
+          "Splash_url": "Irithel-Monster-SP-Rider.png",
+          "script": "Irithel-Astral-Wanderer-Monster-SP-Rider.zip"
+        },
+        {
+          "name": "Checkered Knight",
+          "Portrait_url": "Irithel-Checkered-Knight.png",
+          "Splash_url": "Irithel-Checkered-Knight.png",
+          "script": "Irithel-Astral-Wanderer-Checkered-Knight.zip"
+        },
+        {
+          "name": "Neon Knight",
+          "Portrait_url": "Irithel-Neon-Knight.png",
+          "Splash_url": "Irithel - Neon Knight.jpg",
+          "script": "Irithel-Astral-Wanderer-Neon-Knight.zip"
+        },
+        {
+          "name": "Rosy Knight",
+          "Portrait_url": "Irithel-Rosy-Knight.png",
+          "Splash_url": "Irithel - Rosy Knight.jpg",
+          "script": "Irithel-Astral-Wanderer-Rosy-Knight.zip"
+        },
+        {
+          "name": "Ice Spike",
+          "Portrait_url": "Irithel-Ice-Spike.png",
+          "Splash_url": "Irithel-Ice-Spike.png",
+          "script": "Irithel-Astral-Wanderer-Ice-Spike.zip"
+        }
+      ]
+    },
+    {
+      "name": "Ducati",
+      "Default_name": "Monster SP Rider",
+      "Splash_url": "Irithel-Monster-SP-Rider.png",
+      "script": "Irithel-Monster-SP-Rider-Backup.zip",
+      "Portrait_url": "Irithel-Monster-SP-Rider.png",
+      "Tags": [
+        "Ducati.png"
+      ],
+      "targets": [
+        {
+          "name": "Silver Cyclone",
+          "Portrait_url": "Irithel-Silver-Cyclone.png",
+          "Splash_url": "Irithel-Silver-Cyclone.png",
+          "script": "Irithel-Monster-SP-Rider-Silver-Cyclone.zip"
+        },
+        {
+          "name": "Hellfire",
+          "Portrait_url": "Irithel-Hellfire.png",
+          "Splash_url": "Irithel-Hellfire.png",
+          "script": "Irithel-Monster-SP-Rider-Hellfire.zip"
+        },
+        {
+          "name": "Nightarrow",
+          "Portrait_url": "Irithel-Nightarrow.png",
+          "Splash_url": "Irithel-Nightarrow.png",
+          "script": "Irithel-Monster-SP-Rider-Nightarrow.zip"
+        },
+        {
+          "name": "Sagittarius",
+          "Portrait_url": "Irithel-Sagittarius.png",
+          "Splash_url": "Irithel-Sagittarius.png",
+          "script": "Irithel-Monster-SP-Rider-Sagittarius.zip"
+        },
+        {
+          "name": "Astral Wanderer",
+          "Portrait_url": "Irithel-Astral-Wanderer.png",
+          "Splash_url": "Irithel-Astral-Wanderer.png",
+          "script": "Irithel-Monster-SP-Rider-Astral-Wanderer.zip"
+        },
+        {
+          "name": "Checkered Knight",
+          "Portrait_url": "Irithel-Checkered-Knight.png",
+          "Splash_url": "Irithel-Checkered-Knight.png",
+          "script": "Irithel-Monster-SP-Rider-Checkered-Knight.zip"
+        },
+        {
+          "name": "Neon Knight",
+          "Portrait_url": "Irithel-Neon-Knight.png",
+          "Splash_url": "Irithel - Neon Knight.jpg",
+          "script": "Irithel-Monster-SP-Rider-Neon-Knight.zip"
+        },
+        {
+          "name": "Rosy Knight",
+          "Portrait_url": "Irithel-Rosy-Knight.png",
+          "Splash_url": "Irithel - Rosy Knight.jpg",
+          "script": "Irithel-Monster-SP-Rider-Rosy-Knight.zip"
+        },
+        {
+          "name": "Ice Spike",
+          "Portrait_url": "Irithel-Ice-Spike.png",
+          "Splash_url": "Irithel-Ice-Spike.png",
+          "script": "Irithel-Monster-SP-Rider-Ice-Spike.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Checkered Knight",
+      "Splash_url": "Irithel-Checkered-Knight.png",
+      "script": "Irithel-Checkered-Knight-Backup.zip",
+      "Portrait_url": "Irithel-Checkered-Knight.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Silver Cyclone",
+          "Portrait_url": "Irithel-Silver-Cyclone.png",
+          "Splash_url": "Irithel-Silver-Cyclone.png",
+          "script": "Irithel-Checkered-Knight-Silver-Cyclone.zip"
+        },
+        {
+          "name": "Hellfire",
+          "Portrait_url": "Irithel-Hellfire.png",
+          "Splash_url": "Irithel-Hellfire.png",
+          "script": "Irithel-Checkered-Knight-Hellfire.zip"
+        },
+        {
+          "name": "Nightarrow",
+          "Portrait_url": "Irithel-Nightarrow.png",
+          "Splash_url": "Irithel-Nightarrow.png",
+          "script": "Irithel-Checkered-Knight-Nightarrow.zip"
+        },
+        {
+          "name": "Sagittarius",
+          "Portrait_url": "Irithel-Sagittarius.png",
+          "Splash_url": "Irithel-Sagittarius.png",
+          "script": "Irithel-Checkered-Knight-Sagittarius.zip"
+        },
+        {
+          "name": "Astral Wanderer",
+          "Portrait_url": "Irithel-Astral-Wanderer.png",
+          "Splash_url": "Irithel-Astral-Wanderer.png",
+          "script": "Irithel-Checkered-Knight-Astral-Wanderer.zip"
+        },
+        {
+          "name": "Monster SP Rider",
+          "Portrait_url": "Irithel-Monster-SP-Rider.png",
+          "Splash_url": "Irithel-Monster-SP-Rider.png",
+          "script": "Irithel-Checkered-Knight-Monster-SP-Rider.zip"
+        },
+        {
+          "name": "Ice Spike",
+          "Portrait_url": "Irithel-Ice-Spike.png",
+          "Splash_url": "Irithel-Ice-Spike.png",
+          "script": "Irithel-Checkered-Knight-Ice-Spike.zip"
+        }
+      ]
+    }
+  ]
+}

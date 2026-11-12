@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hylos-dino",
+      "portrait_file": "Hylos - Dino.png",
+      "script_file": "Hylos-Dino.zip",
+      "skin_name": "Dino",
+      "splash_file": "Hylos - Dino.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "hylos-madara-rikudou",
+      "portrait_file": "Hylos - Madara Rikudou.png",
+      "script_file": "Hylos-Madara-Rikudou.zip",
+      "skin_name": "Madara Rikudou",
+      "splash_file": "Hylos - Madara Rikudou.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 49,
+    "name": "Hylos",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "hylos"
+  },
+  "release_tag": "custom-hylos",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

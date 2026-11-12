@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "karina-backup",
+      "portrait_file": "Karina-Default.png",
+      "script_file": "Karina-Backup.zip",
+      "skin_name": "Shadow Blade",
+      "splash_file": "Karina-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "karina-phantom-blade",
+      "portrait_file": "Karina-Phantom-Blade.png",
+      "script_file": "Karina-Phantom-Blade.zip",
+      "skin_name": "Phantom Blade",
+      "splash_file": "Karina-Phantom-Blade.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "karina-christmas-carnival",
+      "portrait_file": "Karina-Christmas-Carnival.png",
+      "script_file": "Karina-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Karina-Christmas-Carnival.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "karina-black-pearl",
+      "portrait_file": "Karina-Black-Pearl.png",
+      "script_file": "Karina-Black-Pearl.zip",
+      "skin_name": "Black Pearl",
+      "splash_file": "Karina-Black-Pearl.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "karina-spider-lily",
+      "portrait_file": "Karina-Spider-Lily.png",
+      "script_file": "Karina-Spider-Lily.zip",
+      "skin_name": "Spider Lily",
+      "splash_file": "Karina-Spider-Lily.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "karina-doom-duelist",
+      "portrait_file": "Karina-Doom-Duelist.png",
+      "script_file": "Karina-Doom-Duelist.zip",
+      "skin_name": "Doom Duelist",
+      "splash_file": "Karina-Doom-Duelist.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "karina-leona",
+      "portrait_file": "Karina-Leona.png",
+      "script_file": "Karina-Leona.zip",
+      "skin_name": "Leona",
+      "splash_file": "Karina-Leona.png",
+      "tag_id": "kof",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "karina-gemini-halo",
+      "portrait_file": "Karina-Gemini-Halo.png",
+      "script_file": "Karina-Gemini-Halo.zip",
+      "skin_name": "Gemini - Halo",
+      "splash_file": "Karina-Gemini-Halo.png",
+      "tag_id": "zodiac",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "karina-blood-moon",
+      "portrait_file": "Karina-Blood-Moon.png",
+      "script_file": "Karina-Blood-Moon.zip",
+      "skin_name": "Blood Moon",
+      "splash_file": "Karina-Blood-Moon.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "karina-keyforged-champion",
+      "portrait_file": "Karina-Keyforged-Champion.png",
+      "script_file": "Karina-Keyforged-Champion.zip",
+      "skin_name": "Keyforged Champion",
+      "splash_file": "Karina-Keyforged-Champion.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "karina-spider-lily-autumn",
+      "portrait_file": "Karina-Spider-Lily-Autumn.png",
+      "script_file": "Karina-Spider-Lily-Autumn.zip",
+      "skin_name": "Spider Lily - Autumn",
+      "splash_file": "Karina-Spider-Lily-Autumn.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "karina-spider-lily-winter-painted-01",
+      "portrait_file": "Karina-Spider-Lily-Winter.png",
+      "script_file": "Karina-Spider-Lily-Winter.zip",
+      "skin_name": "Spider Lily - Winter",
+      "splash_file": "Karina-Spider-Lily-Winter.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 8,
+    "name": "Karina",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "karina"
+  },
+  "release_tag": "visual-karina",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

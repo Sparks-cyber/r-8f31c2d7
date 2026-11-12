@@ -1,0 +1,233 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Bane",
+  "role": "Fighter/Mage",
+  "skins": [
+    {
+      "name": "Epic",
+      "Default_name": "Castle Master",
+      "Splash_url": "Bane-Castle-Master.png",
+      "script": "Bane-Castle-Master-Backup.zip",
+      "Portrait_url": "Bane-Castle-Master.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Mr. Krabs",
+          "Portrait_url": "Bane-Mr-Krabs.png",
+          "Splash_url": "Bane-Mr-Krabs.png",
+          "script": "Bane-Castle-Master-Mr-Krabs.zip"
+        },
+        {
+          "name": "Deep Sea Monster",
+          "Portrait_url": "Bane-Deep-Sea-Monster.png",
+          "Splash_url": "Bane-Deep-Sea-Monster.png",
+          "script": "Bane-Castle-Master-Deep-Sea-Monster.zip"
+        },
+        {
+          "name": "Warlord",
+          "Portrait_url": "Bane-Warlord.png",
+          "Splash_url": "Bane-Warlord.png",
+          "script": "Bane-Castle-Master-Warlord.zip"
+        },
+        {
+          "name": "Underworld Outlaw",
+          "Portrait_url": "Bane-Underworld-Outlaw.png",
+          "Splash_url": "Bane-Underworld-Outlaw.png",
+          "script": "Bane-Castle-Master-Underworld-Outlaw.zip"
+        },
+        {
+          "name": "Soul Defiler",
+          "Portrait_url": "Bane-Soul-Defiler.png",
+          "Splash_url": "Bane-Soul-Defiler.png",
+          "script": "Bane-Castle-Master-Soul-Defiler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Deep Sea Monster",
+      "Splash_url": "Bane-Deep-Sea-Monster.png",
+      "script": "Bane-Deep-Sea-Monster-Backup.zip",
+      "Portrait_url": "Bane-Deep-Sea-Monster.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Mr. Krabs",
+          "Portrait_url": "Bane-Mr-Krabs.png",
+          "Splash_url": "Bane-Mr-Krabs.png",
+          "script": "Bane-Deep-Sea-Monster-Mr-Krabs.zip"
+        },
+        {
+          "name": "Castle Master",
+          "Portrait_url": "Bane-Castle-Master.png",
+          "Splash_url": "Bane-Castle-Master.png",
+          "script": "Bane-Deep-Sea-Monster-Castle-Master.zip"
+        },
+        {
+          "name": "Warlord",
+          "Portrait_url": "Bane-Warlord.png",
+          "Splash_url": "Bane-Warlord.png",
+          "script": "Bane-Deep-Sea-Monster-Warlord.zip"
+        },
+        {
+          "name": "Underworld Outlaw",
+          "Portrait_url": "Bane-Underworld-Outlaw.png",
+          "Splash_url": "Bane-Underworld-Outlaw.png",
+          "script": "Bane-Deep-Sea-Monster-Underworld-Outlaw.zip"
+        },
+        {
+          "name": "Soul Defiler",
+          "Portrait_url": "Bane-Soul-Defiler.png",
+          "Splash_url": "Bane-Soul-Defiler.png",
+          "script": "Bane-Deep-Sea-Monster-Soul-Defiler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Warlord",
+      "Splash_url": "Bane-Warlord.png",
+      "script": "Bane-Warlord-Backup.zip",
+      "Portrait_url": "Bane-Warlord.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Mr. Krabs",
+          "Portrait_url": "Bane-Mr-Krabs.png",
+          "Splash_url": "Bane-Mr-Krabs.png",
+          "script": "Bane-Warlord-Mr-Krabs.zip"
+        },
+        {
+          "name": "Castle Master",
+          "Portrait_url": "Bane-Castle-Master.png",
+          "Splash_url": "Bane-Castle-Master.png",
+          "script": "Bane-Warlord-Castle-Master.zip"
+        },
+        {
+          "name": "Deep Sea Monster",
+          "Portrait_url": "Bane-Deep-Sea-Monster.png",
+          "Splash_url": "Bane-Deep-Sea-Monster.png",
+          "script": "Bane-Warlord-Deep-Sea-Monster.zip"
+        },
+        {
+          "name": "Underworld Outlaw",
+          "Portrait_url": "Bane-Underworld-Outlaw.png",
+          "Splash_url": "Bane-Underworld-Outlaw.png",
+          "script": "Bane-Warlord-Underworld-Outlaw.zip"
+        },
+        {
+          "name": "Soul Defiler",
+          "Portrait_url": "Bane-Soul-Defiler.png",
+          "Splash_url": "Bane-Soul-Defiler.png",
+          "script": "Bane-Warlord-Soul-Defiler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Underworld Outlaw",
+      "Splash_url": "Bane-Underworld-Outlaw.png",
+      "script": "Bane-Underworld-Outlaw-Backup.zip",
+      "Portrait_url": "Bane-Underworld-Outlaw.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Mr. Krabs",
+          "Portrait_url": "Bane-Mr-Krabs.png",
+          "Splash_url": "Bane-Mr-Krabs.png",
+          "script": "Bane-Underworld-Outlaw-Mr-Krabs.zip"
+        },
+        {
+          "name": "Castle Master",
+          "Portrait_url": "Bane-Castle-Master.png",
+          "Splash_url": "Bane-Castle-Master.png",
+          "script": "Bane-Underworld-Outlaw-Castle-Master.zip"
+        },
+        {
+          "name": "Deep Sea Monster",
+          "Portrait_url": "Bane-Deep-Sea-Monster.png",
+          "Splash_url": "Bane-Deep-Sea-Monster.png",
+          "script": "Bane-Underworld-Outlaw-Deep-Sea-Monster.zip"
+        },
+        {
+          "name": "Warlord",
+          "Portrait_url": "Bane-Warlord.png",
+          "Splash_url": "Bane-Warlord.png",
+          "script": "Bane-Underworld-Outlaw-Warlord.zip"
+        },
+        {
+          "name": "Soul Defiler",
+          "Portrait_url": "Bane-Soul-Defiler.png",
+          "Splash_url": "Bane-Soul-Defiler.png",
+          "script": "Bane-Underworld-Outlaw-Soul-Defiler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Soul Defiler",
+      "Splash_url": "Bane-Soul-Defiler.png",
+      "script": "Bane-Soul-Defiler-Backup.zip",
+      "Portrait_url": "Bane-Soul-Defiler.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Mr. Krabs",
+          "Portrait_url": "Bane-Mr-Krabs.png",
+          "Splash_url": "Bane-Mr-Krabs.png",
+          "script": "Bane-Soul-Defiler-Mr-Krabs.zip"
+        },
+        {
+          "name": "Castle Master",
+          "Portrait_url": "Bane-Castle-Master.png",
+          "Splash_url": "Bane-Castle-Master.png",
+          "script": "Bane-Soul-Defiler-Castle-Master.zip"
+        },
+        {
+          "name": "Deep Sea Monster",
+          "Portrait_url": "Bane-Deep-Sea-Monster.png",
+          "Splash_url": "Bane-Deep-Sea-Monster.png",
+          "script": "Bane-Soul-Defiler-Deep-Sea-Monster.zip"
+        },
+        {
+          "name": "Warlord",
+          "Portrait_url": "Bane-Warlord.png",
+          "Splash_url": "Bane-Warlord.png",
+          "script": "Bane-Soul-Defiler-Warlord.zip"
+        },
+        {
+          "name": "Underworld Outlaw",
+          "Portrait_url": "Bane-Underworld-Outlaw.png",
+          "Splash_url": "Bane-Underworld-Outlaw.png",
+          "script": "Bane-Soul-Defiler-Underworld-Outlaw.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Lord of Scalding Seas",
+      "Splash_url": "Bane-Lord-of-Scalding-Seas.png",
+      "script": "Bane-Lord-of-Scalding-Seas-Backup.zip",
+      "Portrait_url": "Bane-Lord-of-Scalding-Seas.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Mr. Krabs",
+          "Portrait_url": "Bane-Mr-Krabs.png",
+          "Splash_url": "Bane-Mr-Krabs.png",
+          "script": "Bane-Lord-of-Scalding-Seas-Mr-Krabs.zip"
+        }
+      ]
+    }
+  ]
+}

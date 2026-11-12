@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 31,
+    "slug": "moskov",
+    "name": "Moskov"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "moskov-community-6355",
+      "name": "Community Build 6355",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "haasclaws",
+        "windtalker",
+        "maleficgun",
+        "berserkersfury",
+        "rosegoldmeteor",
+        "demonhuntersword"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "swift",
+        "bargainhunter",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "CRITICAL ATTACK SPEED BUILD . HOPE YOU LIKE IT",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6355,
+      "source_created_at": "2026-03-10T00:15:22.000Z",
+      "likes": 17,
+      "dislikes": 5,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "moskov-community-5993",
+      "name": "Community Build 5993",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "corrosionscythe",
+        "goldenstaff",
+        "berserkersfury",
+        "greatdragonspear",
+        "demonhuntersword"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "swift",
+        "masterassassin",
+        "temporalreign"
+      ],
+      "situational_items": [],
+      "notes": "Hooo",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5993,
+      "source_created_at": "2026-02-24T16:17:45.000Z",
+      "likes": 6,
+      "dislikes": 3,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "moskov-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 93,
+    "slug": "atlas",
+    "name": "Atlas"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "atlas-community-7084",
+      "name": "Community Build 7084",
+      "lane": "Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "chastisepauldron",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "firmness",
+        "pullyourselftogether",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "play safe, full defense (Hybrid Defense)",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7084,
+      "source_created_at": "2026-04-16T18:23:55.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "atlas-community-5918",
+      "name": "Community Build 5918",
+      "lane": "Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "oracle",
+        "flaskoftheoasis",
+        "chastisepauldron",
+        "guardianhelmet",
+        "clockofdestiny"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "support",
+      "talent_ids": [
+        "bravesmite",
+        "vitality",
+        "bargainhunter"
+      ],
+      "situational_items": [],
+      "notes": "Reached Immortal by this emblem setup. Its easier to save strong carry in our team to win hard games. \nAlso it gives a surprise to enemy about being strong healer with cc too",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5918,
+      "source_created_at": "2026-02-23T04:00:44.000Z",
+      "likes": 2,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "atlas-companion-baseline",
+      "name": "Companion Tank Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "catalog_version": "2026.11.05.second-form-v2",
+  "data": [
+    {
+      "enabled": true,
+      "id": "fanny-backup",
+      "portrait_file": "Fanny-Default.png",
+      "script_file": "Fanny-Backup.zip",
+      "skin_name": "Blade Dancer",
+      "splash_file": "Fanny-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-campus-youth",
+      "portrait_file": "Fanny-Campus-Youth.png",
+      "script_file": "Fanny-Campus-Youth.zip",
+      "skin_name": "Campus Youth",
+      "splash_file": "Fanny-Campus-Youth.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-punk-princess",
+      "portrait_file": "Fanny-Punk-Princess.png",
+      "script_file": "Fanny-Punk-Princess.zip",
+      "skin_name": "Punk Princess",
+      "splash_file": "Fanny-Punk-Princess.png",
+      "tag_id": "s3",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-skylark",
+      "portrait_file": "Fanny-Skylark.png",
+      "script_file": "Fanny-Skylark.zip",
+      "skin_name": "Skylark",
+      "splash_file": "Fanny-Skylark.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-royal-cavalry",
+      "portrait_file": "Fanny-Royal-Cavalry.png",
+      "script_file": "Fanny-Royal-Cavalry.zip",
+      "skin_name": "Royal Cavalry",
+      "splash_file": "Fanny-Royal-Cavalry.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-summer-rescue",
+      "portrait_file": "Fanny-Summer-Rescue.png",
+      "script_file": "Fanny-Summer-Rescue.zip",
+      "skin_name": "Summer Rescue",
+      "splash_file": "Fanny-Summer-Rescue.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-lightborn-ranger",
+      "portrait_file": "Fanny-Lightborn-Ranger.png",
+      "script_file": "Fanny-Lightborn-Ranger.zip",
+      "skin_name": "Lightborn - Ranger",
+      "splash_file": "Fanny-Lightborn-Ranger.png",
+      "tag_id": "lightborn",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-christmas-carnival",
+      "portrait_file": "Fanny-Christmas-Carnival.png",
+      "script_file": "Fanny-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Fanny-Christmas-Carnival.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-imperial-warrior",
+      "portrait_file": "Fanny-Imperial-Warrior.png",
+      "script_file": "Fanny-Imperial-Warrior.zip",
+      "skin_name": "Imperial Warrior",
+      "splash_file": "Fanny-Imperial-Warrior.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-blade-of-kibou",
+      "portrait_file": "Fanny-Blade-of-Kibou.png",
+      "script_file": "Fanny-Blade-of-Kibou.zip",
+      "skin_name": "Blade of Kibou",
+      "splash_file": "Fanny-Blade-of-Kibou.png",
+      "tag_id": "the-aspirants",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-heart-afloat",
+      "portrait_file": "Fanny-Heart-Afloat.png",
+      "script_file": "Fanny-Heart-Afloat.zip",
+      "skin_name": "Heart Afloat",
+      "splash_file": "Fanny-Heart-Afloat.png",
+      "tag_id": "valentine",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-mikasa",
+      "portrait_file": "Fanny-Mikasa.png",
+      "script_file": "Fanny-Mikasa.zip",
+      "skin_name": "Mikasa",
+      "splash_file": "Fanny-Mikasa.png",
+      "tag_id": "attack-on-titan",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-p-ace-fanny",
+      "portrait_file": "Fanny-P-ACE.png",
+      "script_file": "Fanny-P-ACE-Fanny.zip",
+      "skin_name": "P.ACE Fanny",
+      "splash_file": "Fanny-P-ACE.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-galactic-starhawk",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      },
+      "portrait_file": "Fanny-Galactic-Starhawk.png",
+      "script_file": "Fanny-Galactic-Starhawk.zip",
+      "skin_name": "Galactic Starhawk",
+      "splash_file": "Fanny-Galactic-Starhawk.png",
+      "tag_id": "legend",
+      "tier": "grand"
+    }
+  ],
+  "hero": {
+    "id": 17,
+    "name": "Fanny",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "fanny"
+  },
+  "release_tag": "visual-fanny",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

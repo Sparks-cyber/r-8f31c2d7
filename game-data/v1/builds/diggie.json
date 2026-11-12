@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 48,
+    "slug": "diggie",
+    "name": "Diggie"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "diggie-community-5648",
+      "name": "Community Build 5648",
+      "lane": "Roam",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "lightningtruncheon",
+        "holycrystal",
+        "bloodwings",
+        "glowingwand"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "inspire",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Bisa pake flameshot juga klo mau lebih sakit\nDisclaimer: Ini build damage cuma buat have fun bukan buat main compe",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5648,
+      "source_created_at": "2026-02-12T01:02:20.000Z",
+      "likes": 7,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "diggie-companion-baseline",
+      "name": "Companion Support Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

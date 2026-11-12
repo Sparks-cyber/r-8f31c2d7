@@ -1,0 +1,95 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Joy",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Feline Ranger",
+      "Splash_url": "Joy-Feline-Ranger.png",
+      "script": "Joy-Feline-Ranger-Backup.zip",
+      "Portrait_url": "Joy-Feline-Ranger.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Royal Protector",
+          "Portrait_url": "Joy-Royal-Protector.png",
+          "Splash_url": "Joy-Royal-Protector.png",
+          "script": "Joy-Feline-Ranger-Royal-Protector.zip"
+        },
+        {
+          "name": "Exostar Scout",
+          "Portrait_url": "Joy-Exostar-Scout.png",
+          "Splash_url": "Joy-Exostar-Scout.png",
+          "script": "Joy-Feline-Ranger-Exostar-Scout.zip"
+        },
+        {
+          "name": "Exostar Ranger",
+          "Portrait_url": "Joy-Exostar-Ranger.png",
+          "Splash_url": "Joy-Exostar-Ranger.png",
+          "script": "Joy-Feline-Ranger-Exostar-Ranger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Royal Protector",
+      "Splash_url": "Joy-Royal-Protector.png",
+      "script": "Joy-Royal-Protector-Backup.zip",
+      "Portrait_url": "Joy-Royal-Protector.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Feline Ranger",
+          "Portrait_url": "Joy-Feline-Ranger.png",
+          "Splash_url": "Joy-Feline-Ranger.png",
+          "script": "Joy-Royal-Protector-Feline-Ranger.zip"
+        },
+        {
+          "name": "Exostar Scout",
+          "Portrait_url": "Joy-Exostar-Scout.png",
+          "Splash_url": "Joy-Exostar-Scout.png",
+          "script": "Joy-Royal-Protector-Exostar-Scout.zip"
+        },
+        {
+          "name": "Exostar Runner",
+          "Portrait_url": "Joy-Exostar-Runner.png",
+          "Splash_url": "Joy - Exostar Runner.jpg",
+          "script": "Joy-Royal-Protector-Exostar-Runner.zip"
+        },
+        {
+          "name": "Exostar Ranger",
+          "Portrait_url": "Joy-Exostar-Ranger.png",
+          "Splash_url": "Joy-Exostar-Ranger.png",
+          "script": "Joy-Royal-Protector-Exostar-Ranger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Exostar Scout",
+      "Splash_url": "Joy-Exostar-Scout.png",
+      "script": "Joy-Exostar-Scout-Backup.zip",
+      "Portrait_url": "Joy-Exostar-Scout.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Feline Ranger",
+          "Portrait_url": "Joy-Feline-Ranger.png",
+          "Splash_url": "Joy-Feline-Ranger.png",
+          "script": "Joy-Exostar-Scout-Feline-Ranger.zip"
+        },
+        {
+          "name": "Royal Protector",
+          "Portrait_url": "Joy-Royal-Protector.png",
+          "Splash_url": "Joy-Royal-Protector.png",
+          "script": "Joy-Exostar-Scout-Royal-Protector.zip"
+        }
+      ]
+    }
+  ]
+}

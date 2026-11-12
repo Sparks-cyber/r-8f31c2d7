@@ -1,0 +1,117 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "lolita-backup",
+      "portrait_file": "Lolita-Default.png",
+      "script_file": "Lolita-Backup.zip",
+      "skin_name": "Steel Elf",
+      "splash_file": "Lolita-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-soldier-in-training",
+      "portrait_file": "Lolita-Soldier-in-Training.png",
+      "script_file": "Lolita-Soldier-in-Training.zip",
+      "skin_name": "Soldier in Training",
+      "splash_file": "Lolita-Soldier-in-Training.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-impish-trickster",
+      "portrait_file": "Lolita-Impish-Trickster.png",
+      "script_file": "Lolita-Impish-Trickster.zip",
+      "skin_name": "Impish Trickster",
+      "splash_file": "Lolita-Impish-Trickster.png",
+      "tag_id": "halloween",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-lion-dance",
+      "portrait_file": "Lolita-Lion-Dance.png",
+      "script_file": "Lolita-Lion-Dance.zip",
+      "skin_name": "Lion Dance",
+      "splash_file": "Lolita-Lion-Dance.png",
+      "tag_id": "lunar-fest",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-special-op",
+      "portrait_file": "Lolita-Special-Op.png",
+      "script_file": "Lolita-Special-Op.zip",
+      "skin_name": "Special Op",
+      "splash_file": "Lolita-Special-Op.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-genki-slam",
+      "portrait_file": "Lolita-Genki-Slam.png",
+      "script_file": "Lolita-Genki-Slam.zip",
+      "skin_name": "Genki Slam",
+      "splash_file": "Lolita-Genki-Slam.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-starwatcher",
+      "portrait_file": "Lolita-Starwatcher.png",
+      "script_file": "Lolita-Starwatcher.zip",
+      "skin_name": "Starwatcher",
+      "splash_file": "Lolita-Starwatcher.png",
+      "tag_id": "rising",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-astro-mallet",
+      "portrait_file": "Lolita-Astro-Mallet.png",
+      "script_file": "Lolita-Astro-Mallet.zip",
+      "skin_name": "Astro Mallet",
+      "splash_file": "Lolita-Astro-Mallet.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-angelic-fan",
+      "portrait_file": "Lolita-Angelic-Fan.png",
+      "script_file": "Lolita-Angelic-Fan.zip",
+      "skin_name": "Angelic Fan",
+      "splash_file": "Lolita-Angelic-Fan.png",
+      "tag_id": "epic",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "lolita-pumpkin-smash",
+      "portrait_file": "Lolita-Pumpkin-Smash.png",
+      "script_file": "Lolita-Pumpkin-Smash.zip",
+      "skin_name": "Pumpkin Smash",
+      "splash_file": "Lolita-Pumpkin-Smash.png",
+      "tag_id": "halloween",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 20,
+    "name": "Lolita",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "slug": "lolita"
+  },
+  "release_tag": "visual-lolita",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

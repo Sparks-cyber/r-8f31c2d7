@@ -1,0 +1,41 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Kalea",
+  "role": "Support/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Shimmering Waves",
+      "Splash_url": "Kalea-Shimmering-Waves.png",
+      "script": "Kalea-Shimmering-Waves-Backup.zip",
+      "Portrait_url": "Kalea-Shimmering-Waves.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Sakura Haruno",
+          "Portrait_url": "Kalea-Sakura-Haruno.png",
+          "Splash_url": "Kalea-Sakura-Haruno.png",
+          "script": "Kalea-Shimmering-Waves-Sakura-Haruno.zip"
+        }
+      ]
+    },
+    {
+      "name": "Naruto",
+      "Default_name": "Sakura Haruno",
+      "Splash_url": "Kalea-Sakura-Haruno.png",
+      "script": "Kalea-Sakura-Haruno-Backup.zip",
+      "Portrait_url": "Kalea-Sakura-Haruno.png",
+      "Tags": [
+        "Naruto Shippuden.png"
+      ],
+      "targets": [
+        {
+          "name": "Shimmering Waves",
+          "Portrait_url": "Kalea-Shimmering-Waves.png",
+          "Splash_url": "Kalea-Shimmering-Waves.png",
+          "script": "Kalea-Sakura-Haruno-Shimmering-Waves.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Kadita",
+  "role": "Mage/Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Atlantean Princess",
+      "Splash_url": "Kadita-Atlantean-Princess.png",
+      "script": "Kadita-Atlantean-Princess-Backup.zip",
+      "Portrait_url": "Kadita-Atlantean-Princess.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "White Robin",
+          "Portrait_url": "Kadita-White-Robin.png",
+          "Splash_url": "Kadita-White-Robin.png",
+          "script": "Kadita-Atlantean-Princess-White-Robin.zip"
+        },
+        {
+          "name": "Hydromancer",
+          "Portrait_url": "Kadita-Hydromancer.png",
+          "Splash_url": "Kadita-Hydromancer.png",
+          "script": "Kadita-Atlantean-Princess-Hydromancer.zip"
+        },
+        {
+          "name": "Heart of the Sea",
+          "Portrait_url": "Kadita-Heart-of-the-Sea.png",
+          "Splash_url": "Kadita-Heart-of-the-Sea.png",
+          "script": "Kadita-Atlantean-Princess-Heart-of-the-Sea.zip"
+        },
+        {
+          "name": "Maiden of the Tide",
+          "Portrait_url": "Kadita-Maiden-of-the-Tide.png",
+          "Splash_url": "Kadita-Maiden-of-the-Tide.png",
+          "script": "Kadita-Atlantean-Princess-Maiden-of-the-Tide.zip"
+        },
+        {
+          "name": "Lady of the Tide",
+          "Portrait_url": "Kadita-Lady-of-the-Tide.png",
+          "Splash_url": "Kadita - Lady of the Tide.jpg",
+          "script": "Kadita-Atlantean-Princess-Lady-of-the-Tide.zip"
+        },
+        {
+          "name": "Muse of the Tide",
+          "Portrait_url": "Kadita-Muse-of-the-Tide.png",
+          "Splash_url": "Kadita-Muse-of-the-Tide.png",
+          "script": "Kadita-Atlantean-Princess-Muse-of-the-Tide.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "White Robin",
+      "Splash_url": "Kadita-White-Robin.png",
+      "script": "Kadita-White-Robin-Backup.zip",
+      "Portrait_url": "Kadita-White-Robin.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Atlantean Princess",
+          "Portrait_url": "Kadita-Atlantean-Princess.png",
+          "Splash_url": "Kadita-Atlantean-Princess.png",
+          "script": "Kadita-White-Robin-Atlantean-Princess.zip"
+        },
+        {
+          "name": "Hydromancer",
+          "Portrait_url": "Kadita-Hydromancer.png",
+          "Splash_url": "Kadita-Hydromancer.png",
+          "script": "Kadita-White-Robin-Hydromancer.zip"
+        },
+        {
+          "name": "Heart of the Sea",
+          "Portrait_url": "Kadita-Heart-of-the-Sea.png",
+          "Splash_url": "Kadita-Heart-of-the-Sea.png",
+          "script": "Kadita-White-Robin-Heart-of-the-Sea.zip"
+        },
+        {
+          "name": "Maiden of the Tide",
+          "Portrait_url": "Kadita-Maiden-of-the-Tide.png",
+          "Splash_url": "Kadita-Maiden-of-the-Tide.png",
+          "script": "Kadita-White-Robin-Maiden-of-the-Tide.zip"
+        },
+        {
+          "name": "Lady of the Tide",
+          "Portrait_url": "Kadita-Lady-of-the-Tide.png",
+          "Splash_url": "Kadita - Lady of the Tide.jpg",
+          "script": "Kadita-White-Robin-Lady-of-the-Tide.zip"
+        },
+        {
+          "name": "Muse of the Tide",
+          "Portrait_url": "Kadita-Muse-of-the-Tide.png",
+          "Splash_url": "Kadita-Muse-of-the-Tide.png",
+          "script": "Kadita-White-Robin-Muse-of-the-Tide.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Hydromancer",
+      "Splash_url": "Kadita-Hydromancer.png",
+      "script": "Kadita-Hydromancer-Backup.zip",
+      "Portrait_url": "Kadita-Hydromancer.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Atlantean Princess",
+          "Portrait_url": "Kadita-Atlantean-Princess.png",
+          "Splash_url": "Kadita-Atlantean-Princess.png",
+          "script": "Kadita-Hydromancer-Atlantean-Princess.zip"
+        },
+        {
+          "name": "White Robin",
+          "Portrait_url": "Kadita-White-Robin.png",
+          "Splash_url": "Kadita-White-Robin.png",
+          "script": "Kadita-Hydromancer-White-Robin.zip"
+        },
+        {
+          "name": "Heart of the Sea",
+          "Portrait_url": "Kadita-Heart-of-the-Sea.png",
+          "Splash_url": "Kadita-Heart-of-the-Sea.png",
+          "script": "Kadita-Hydromancer-Heart-of-the-Sea.zip"
+        },
+        {
+          "name": "Maiden of the Tide",
+          "Portrait_url": "Kadita-Maiden-of-the-Tide.png",
+          "Splash_url": "Kadita-Maiden-of-the-Tide.png",
+          "script": "Kadita-Hydromancer-Maiden-of-the-Tide.zip"
+        },
+        {
+          "name": "Lady of the Tide",
+          "Portrait_url": "Kadita-Lady-of-the-Tide.png",
+          "Splash_url": "Kadita - Lady of the Tide.jpg",
+          "script": "Kadita-Hydromancer-Lady-of-the-Tide.zip"
+        },
+        {
+          "name": "Muse of the Tide",
+          "Portrait_url": "Kadita-Muse-of-the-Tide.png",
+          "Splash_url": "Kadita-Muse-of-the-Tide.png",
+          "script": "Kadita-Hydromancer-Muse-of-the-Tide.zip"
+        }
+      ]
+    },
+    {
+      "name": "Create",
+      "Default_name": "Heart of the Sea",
+      "Splash_url": "Kadita-Heart-of-the-Sea.png",
+      "script": "Kadita-Heart-of-the-Sea-Backup.zip",
+      "Portrait_url": "Kadita-Heart-of-the-Sea.png",
+      "Tags": [
+        "Create.png"
+      ],
+      "targets": [
+        {
+          "name": "Atlantean Princess",
+          "Portrait_url": "Kadita-Atlantean-Princess.png",
+          "Splash_url": "Kadita-Atlantean-Princess.png",
+          "script": "Kadita-Heart-of-the-Sea-Atlantean-Princess.zip"
+        },
+        {
+          "name": "White Robin",
+          "Portrait_url": "Kadita-White-Robin.png",
+          "Splash_url": "Kadita-White-Robin.png",
+          "script": "Kadita-Heart-of-the-Sea-White-Robin.zip"
+        },
+        {
+          "name": "Hydromancer",
+          "Portrait_url": "Kadita-Hydromancer.png",
+          "Splash_url": "Kadita-Hydromancer.png",
+          "script": "Kadita-Heart-of-the-Sea-Hydromancer.zip"
+        },
+        {
+          "name": "Maiden of the Tide",
+          "Portrait_url": "Kadita-Maiden-of-the-Tide.png",
+          "Splash_url": "Kadita-Maiden-of-the-Tide.png",
+          "script": "Kadita-Heart-of-the-Sea-Maiden-of-the-Tide.zip"
+        },
+        {
+          "name": "Lady of the Tide",
+          "Portrait_url": "Kadita-Lady-of-the-Tide.png",
+          "Splash_url": "Kadita - Lady of the Tide.jpg",
+          "script": "Kadita-Heart-of-the-Sea-Lady-of-the-Tide.zip"
+        },
+        {
+          "name": "Muse of the Tide",
+          "Portrait_url": "Kadita-Muse-of-the-Tide.png",
+          "Splash_url": "Kadita-Muse-of-the-Tide.png",
+          "script": "Kadita-Heart-of-the-Sea-Muse-of-the-Tide.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Maiden of the Tide",
+      "Splash_url": "Kadita-Maiden-of-the-Tide.png",
+      "script": "Kadita-Maiden-of-the-Tide-Backup.zip",
+      "Portrait_url": "Kadita-Maiden-of-the-Tide.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Atlantean Princess",
+          "Portrait_url": "Kadita-Atlantean-Princess.png",
+          "Splash_url": "Kadita-Atlantean-Princess.png",
+          "script": "Kadita-Maiden-of-the-Tide-Atlantean-Princess.zip"
+        },
+        {
+          "name": "White Robin",
+          "Portrait_url": "Kadita-White-Robin.png",
+          "Splash_url": "Kadita-White-Robin.png",
+          "script": "Kadita-Maiden-of-the-Tide-White-Robin.zip"
+        },
+        {
+          "name": "Hydromancer",
+          "Portrait_url": "Kadita-Hydromancer.png",
+          "Splash_url": "Kadita-Hydromancer.png",
+          "script": "Kadita-Maiden-of-the-Tide-Hydromancer.zip"
+        },
+        {
+          "name": "Heart of the Sea",
+          "Portrait_url": "Kadita-Heart-of-the-Sea.png",
+          "Splash_url": "Kadita-Heart-of-the-Sea.png",
+          "script": "Kadita-Maiden-of-the-Tide-Heart-of-the-Sea.zip"
+        }
+      ]
+    }
+  ]
+}

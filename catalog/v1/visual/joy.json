@@ -1,0 +1,96 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "joy-backup",
+      "portrait_file": "Joy-Default.png",
+      "script_file": "Joy-Backup.zip",
+      "skin_name": "Flash of Miracle",
+      "splash_file": "Joy-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "joy-feline-ranger",
+      "portrait_file": "Joy-Feline-Ranger.png",
+      "script_file": "Joy-Feline-Ranger.zip",
+      "skin_name": "Feline Ranger",
+      "splash_file": "Joy-Feline-Ranger.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "joy-exostar-scout",
+      "portrait_file": "Joy-Exostar-Scout.png",
+      "script_file": "Joy-Exostar-Scout.zip",
+      "skin_name": "Exostar Scout",
+      "splash_file": "Joy-Exostar-Scout.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "joy-exostar-runner",
+      "portrait_file": "Joy-Exostar-Runner.png",
+      "script_file": "Joy-Exostar-Runner.zip",
+      "skin_name": "Exostar Runner",
+      "splash_file": "Joy-Exostar-Runner.png",
+      "tag_id": "starlight-star",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "joy-onic-ph",
+      "portrait_file": "Joy-ONIC-PH.png",
+      "script_file": "Joy-ONIC-PH.zip",
+      "skin_name": "ONIC PH",
+      "splash_file": "Joy-ONIC-PH.png",
+      "tag_id": "elite",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "joy-badlands-scrapper",
+      "portrait_file": "Joy-Badlands-Scrapper.png",
+      "script_file": "Joy-Badlands-Scrapper.zip",
+      "skin_name": "Badlands Scrapper",
+      "splash_file": "Joy-Badlands-Scrapper.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "joy-exostar-runner-painted-01",
+      "portrait_file": "Joy-Exostar-Runner.png",
+      "script_file": "Joy-Exostar-Runner.zip",
+      "skin_name": "Exostar Runner",
+      "splash_file": "Joy-Exostar-Runner.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "joy-exostar-ranger-painted-02",
+      "portrait_file": "Joy-Exostar-Ranger.png",
+      "script_file": "Joy-Exostar-Ranger.zip",
+      "skin_name": "Exostar Ranger",
+      "splash_file": "Joy-Exostar-Ranger.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    }
+  ],
+  "hero": {
+    "id": 118,
+    "name": "Joy",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "joy"
+  },
+  "release_tag": "visual-joy",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

@@ -1,0 +1,96 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hanzo-backup",
+      "portrait_file": "Hanzo-Default.png",
+      "script_file": "Hanzo-Backup.zip",
+      "skin_name": "Akuma Ninja",
+      "splash_file": "Hanzo-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-the-pale-phantom",
+      "portrait_file": "Hanzo-The-Pale-Phantom.png",
+      "script_file": "Hanzo-The-Pale-Phantom.zip",
+      "skin_name": "The Pale Phantom",
+      "splash_file": "Hanzo-The-Pale-Phantom.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-undead-king",
+      "portrait_file": "Hanzo-Undead-King.png",
+      "script_file": "Hanzo-Undead-King.zip",
+      "skin_name": "Undead King",
+      "splash_file": "Hanzo-Undead-King.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-insidious-tutor",
+      "portrait_file": "Hanzo-Insidious-Tutor.png",
+      "script_file": "Hanzo-Insidious-Tutor.zip",
+      "skin_name": "Insidious Tutor",
+      "splash_file": "Hanzo-Insidious-Tutor.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-soulfire-netherlord",
+      "portrait_file": "Hanzo-Soulfire-Netherlord.png",
+      "script_file": "Hanzo-Soulfire-Netherlord.zip",
+      "skin_name": "Soulfire Netherlord",
+      "splash_file": "Hanzo-Soulfire-Netherlord.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-evil-tutor",
+      "portrait_file": "Hanzo-Evil-Tutor.png",
+      "script_file": "Hanzo-Evil-Tutor.zip",
+      "skin_name": "Evil Tutor",
+      "splash_file": "Hanzo-Evil-Tutor.png",
+      "tag_id": "starlight-star",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-evil-tutor-painted-01",
+      "portrait_file": "Hanzo-Evil-Tutor.png",
+      "script_file": "Hanzo-Evil-Tutor.zip",
+      "skin_name": "Evil Tutor",
+      "splash_file": "Hanzo-Evil-Tutor.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-fangs-of-frenzy-painted-02",
+      "portrait_file": "Hanzo-Fangs-of-Frenzy.png",
+      "script_file": "Hanzo-Fangs-of-Frenzy.zip",
+      "skin_name": "Fangs of Frenzy",
+      "splash_file": "Hanzo-Fangs-of-Frenzy.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 69,
+    "name": "Hanzo",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "hanzo"
+  },
+  "release_tag": "visual-hanzo",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 92,
+    "slug": "carmilla",
+    "name": "Carmilla",
+    "skin_name": "Shadow of Twilight",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Crowd Control",
+      "Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "17 January 2020",
+    "resource": "Mana",
+    "short_description": "The girl who became a Blood Demon for love.",
+    "brief": "As a human, Carmilla fell in love with Cecilion, who was a Blood Demon, but cruel reality separated them, Carmilla had already guessed the identity of Cecilion. Even so, she wanted to be with Cecilion, so she chose to commit suicide. When she woke up, she found that she had become a Blood Demon, lying in the arms of her lover. From then on, the two of them stayed from the world together forever.",
+    "story": "Many years ago, Carmilla was born in the House Ansaac in the Castle Aberleen. As the only daughter of the Earl, she was loved by all her family since birth. When she grew up, her eminent family background coupled with her captivating beauty made her one of the most popular noble ladies around the Castle Aberleen, and maybe even the whole Empire. However, her royal origin was inevitably bound to the tragedy as was to become a political tool of her father Earl Anssac, consolidating power by betrothing her to another family of power.\n\nThough countless aristocrats tried to court Carmilla, none of them pleased her. Her innate pride made her refuse to bow down to mediocrity. What she wanted was someone who could connect with her soul. But, her father Earl Ansaac had already made his decision. As the threat of the abyss was getting closer, he knew that the new class of military-nobles would dominate the politics of the land. Thus, he had to establish good relations with them in order to sustain the social status of his family. However, a man who was a rather insignificant to the old Earl foiled this plan. This man was Cecilion, the best opera singer in the southern Empire. Carmilla became his most loyal audience since the first day he came to the Castle Aberleen. In Carmilla’s eyes, he was just so elegant and talented, but she could also read the melancholy and the mystery from his eyes. For every performance of Cecilion, Carmilla would sit in the right middle in the auditorium, quietly enjoying his song performance.\n\nOne day, as the curtains called, Cecilion and Carmilla's eyes met. The flames of passion ignited between them. And like a bolt of lightning cracking open the dark night sky, they instantly fell in love.\n\nThe days that followed were the happiest ones in Carmilla's life. When night fell, Cecilion dressed up and came to invite her to the opera house, singing songs he composed for her. And Carmilla watched his performance intently, never taking her eyes off him. When the performance ended, they dated at the backstage, dancing in the moonlight. And in the early morning, Cecilion would put a rose on Carmilla's windowsill that was nourished by the morning dew and leave quietly.\n\nAs time went by, Carmilla noticed something unusual about Cecilion. He lived in solitude and never had needless contact with others. His skin was always pale, even when he didn’t makeup; and it seemed that he always tried to avoid something. From his eyes, Carmilla could feel his desire for a normal life, and she could vaguely see that Cecilion might have some connection to the legendary blood demon species. Though Cecilion never talked about his origins with her, she still chose to believe in him, because she could feel his love was real. No matter he was man or blood demon, it was just about love between them, and Carmilla believed that she would always belong to Cecilion, and would spend the rest of her life with him.\n\nThough they loved each other so deeply, Carmilla’s father the Earl forbade her to marry this humble singer. He imprisoned her and forced her to marry Baron Tawil, the general of the imperial army, who was stationed near the Castle Aberleen. In order to make Carmilla forget Cecilion, the Earl even sent his men to close the opera house. In Cecilion’s mind, he knew that the love between the blood demon and mankind would never be true. Though he loved Carmilla, he finally decided to give up. At the day he left, he wrote a letter to her, in which he told her everything, about his origins, his story, and left it with a rose at her windowsill.\n\nCarmilla didn’t stop fighting, she was not willing to succumb to her father's will. But her heart broke when she read his parting letter. To Carmilla, it didn't matter what species he belonged to. She loved him, and without him, her life would become meaningless.\n\nShe stood at the window, watching the direction Cecilion left to. As the dawn was raising, she slit her wrist with a sharp dagger. The world fell into endless darkness. And Carmilla buried her love in her own way.\n\nWhen Carmilla awoke, she found herself once again in Cecilion’s arms. His eyes were full of kindness, and he was looking at her. Then she found that her touch was so cold, as if she was lifeless, and her skin looked just as pale as Cecilion's. She knew, her lover didn’t abandon her, he returned and revived her with his blood. These two lonely souls finally were together again and could live with each other forever.\n\nAfter that day, the people of Castle Aberleen never saw Cecilion or Carmilla again, only the legendary tales of the night, which passed from mouth to mouth over time. When night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time stood still.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 9,
+    "offense": 2,
+    "control": 8,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2528,
+    "health_growth": 227,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.4429,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 126,
+    "physical_attack_growth": 9.21,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 3.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.14,
+    "attack_speed_growth": 0.0321,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 255,
+    "attack_range": 1.6
+  },
+  "abilities": [
+    {
+      "id": "Carmilla0",
+      "name": "Vampire Pact",
+      "description": "Each time Carmilla deals damage to an enemy hero, she steals 6-13 Physical &amp; Magic Defense (scales with level) from them. The stolen Physical &amp; Magic Defense can stack up to 5 times and lasts 5s. However, Carmilla can only steal defense from the same enemy hero once every 3s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0260af174d1081a18480eee6545f98a6.png",
+      "video_url": null
+    },
+    {
+      "id": "Carmilla1",
+      "name": "Crimson Flower",
+      "description": "Carmilla summons three Crimson Flowers that circle around her for 5s, dealing 85/95/105/115/125/135<scaleAP> (+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> each time they hit an enemy and slowing them by 6% for 0.8s (the slow effect stacks up to 30%).<br/><br/>Carmilla recovers 45/54/63/72/81/90<scaleAP> (+21% Total Magic Power)</scaleAP> HP each time a Crimson Flower deals damage (only recovers 30% of that amount when hitting minions).",
+      "flavor_text": null,
+      "cost": "50/58/66/74/82/90",
+      "cooldown": "9",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51eb6dcde53d88c4994426b112c13fde.png",
+      "video_url": null
+    },
+    {
+      "id": "Carmilla2",
+      "name": "Bloodbath",
+      "description": "Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5s.<br/><br/><highlight>Use Again</highlight>: Carmilla unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing 150/180/210/240/270/300<scaleAP> (+120% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and stunning them for 0.6s. The damage and stun duration scale with the accumulation time (up to 100%).",
+      "flavor_text": null,
+      "cost": "85/100/115/130/145/160",
+      "cooldown": "11/10.2/9.4/8.6/7.8/7",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09ea2e1860eadfae10d82b2059fcef03.png",
+      "video_url": null
+    },
+    {
+      "id": "Carmilla3",
+      "name": "Curse of Blood",
+      "description": "Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8s, enemies still within the area will take 450/600/750<scaleAP> (+130% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>, and will be immobilized for 1s, slowed by 30% and linked for 5s.<br/><br/>When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link.",
+      "flavor_text": null,
+      "cost": "150/175/200",
+      "cooldown": "60/52/44",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6939ef4e88964687c16976197b94451.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Carmilla0",
+      "sequence": "Carmilla2-Carmilla1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Carmilla's 2nd Skill to get close to the opponent, then use her 1st Skill and stick to them to deal continuous damage."
+    },
+    {
+      "id": "Carmilla1",
+      "sequence": "Carmilla3-Carmilla2-Carmilla1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Carmilla's Ultimate to engage and slow enemies, then use her 2nd Skill to get close and CC a target, and follow up with her 1st Skill for continuous AOE damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Carmilla is best paired with sustained damage Mages with CC abilities like Cecilion and Aurora, as her Ultimate can greatly amplify their strengths.",
+      "heroes": [
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        },
+        {
+          "id": 36,
+          "slug": "aurora",
+          "name": "Aurora"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Carmilla counters melee Fighters with low durability, such as Dyrroth and Lapu-Lapu, because she can rapidly steal their Defenses with her 1st Skill and Passive while healing herself.",
+      "heroes": [
+        {
+          "id": 85,
+          "slug": "dyrroth",
+          "name": "Dyrroth"
+        },
+        {
+          "id": 37,
+          "slug": "lapu-lapu",
+          "name": "Lapu-Lapu"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Carmilla is countered by heroes that can ignore or remove her CC, such as Hanabi and Wanwan, since they can't be locked down by Carmilla's 2nd Skill or Ultimate.",
+      "heroes": [
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        },
+        {
+          "id": 89,
+          "slug": "wanwan",
+          "name": "Wanwan"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Carmilla-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Carmilla-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_08d58580aaeaab354c2d267d8746c42d.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_08d58580aaeaab354c2d267d8746c42d.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/carmilla.json",
+    "visual_catalog": "catalog/v1/visual/carmilla.json",
+    "upgrade_catalog": "catalog/v1/upgrade/carmilla.json"
+  }
+}

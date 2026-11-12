@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 70,
+    "slug": "belerick",
+    "name": "Belerick"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "belerick-community-6462",
+      "name": "Community Build 6462",
+      "lane": "Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "athenasshield",
+        "antiquecuirass",
+        "oracle",
+        "dominanceice",
+        "immortality"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "support",
+      "talent_ids": [
+        "tenacity",
+        "vitality",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "The antiq and athena are situational conditions if they have like a lot of physical and magic, but you can change it later, i use this boots to run fast and to catch people using my first ability faster. The oracle improves healing, and domi gives overall more defence and anti healing. imo is conditional too, if the enemy has a lot damage you should use it or if there is a hero counter to bele.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6462,
+      "source_created_at": "2026-03-13T03:27:24.000Z",
+      "likes": 6,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "belerick-community-5400",
+      "name": "Community Build 5400",
+      "lane": "Roam",
+      "equipment_ids": [
+        "warriorboots",
+        "guardianhelmet",
+        "bladearmor",
+        "cursedhelmet",
+        "immortality",
+        "athenasshield"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "swift",
+        "tenacity",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "The Unstoppable Juggernaut\n\"Build Full Tank Sustain yang mengutamakan ketahanan mutlak dan damage area pasif. Kombinasi HP Regen tinggi dan pertahanan ganda (Fisik/Magis) membuatmu sulit ditumbangkan, sementara efek bakar dari Cursed Helmet dan ledakan Concussive Blast memastikan kamu tetap memberikan tekanan visual dan damage nyata di tengah kerumunan lawan. Definisi tembok tim yang mandiri dan mematikan.\"",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5400,
+      "source_created_at": "2026-02-03T00:39:32.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "belerick-companion-baseline",
+      "name": "Companion Tank Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

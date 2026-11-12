@@ -1,0 +1,77 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Arlott",
+  "role": "Fighter/Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Wandering Spear",
+      "Splash_url": "Arlott-Wandering-Spear.png",
+      "script": "Arlott-Wandering-Spear-Backup.zip",
+      "Portrait_url": "Arlott-Wandering-Spear.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Fury of the Deep",
+          "Portrait_url": "Arlott-Fury-of-the-Deep.png",
+          "Splash_url": "Arlott-Fury-of-the-Deep.png",
+          "script": "Arlott-Wandering-Spear-Fury-of-the-Deep.zip"
+        },
+        {
+          "name": "Aeon of Twilight",
+          "Portrait_url": "Arlott-Aeon-of-Twilight.png",
+          "Splash_url": "Arlott-Aeon-of-Twilight.png",
+          "script": "Arlott-Wandering-Spear-Aeon-of-Twilight.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Fury of the Deep",
+      "Splash_url": "Arlott-Fury-of-the-Deep.png",
+      "script": "Arlott-Fury-of-the-Deep-Backup.zip",
+      "Portrait_url": "Arlott-Fury-of-the-Deep.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Wandering Spear",
+          "Portrait_url": "Arlott-Wandering-Spear.png",
+          "Splash_url": "Arlott-Wandering-Spear.png",
+          "script": "Arlott-Fury-of-the-Deep-Wandering-Spear.zip"
+        },
+        {
+          "name": "Aeon of Twilight",
+          "Portrait_url": "Arlott-Aeon-of-Twilight.png",
+          "Splash_url": "Arlott-Aeon-of-Twilight.png",
+          "script": "Arlott-Fury-of-the-Deep-Aeon-of-Twilight.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Aeon of Twilight",
+      "Splash_url": "Arlott-Aeon-of-Twilight.png",
+      "script": "Arlott-Aeon-of-Twilight-Backup.zip",
+      "Portrait_url": "Arlott-Aeon-of-Twilight.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Wandering Spear",
+          "Portrait_url": "Arlott-Wandering-Spear.png",
+          "Splash_url": "Arlott-Wandering-Spear.png",
+          "script": "Arlott-Aeon-of-Twilight-Wandering-Spear.zip"
+        },
+        {
+          "name": "Fury of the Deep",
+          "Portrait_url": "Arlott-Fury-of-the-Deep.png",
+          "Splash_url": "Arlott-Fury-of-the-Deep.png",
+          "script": "Arlott-Aeon-of-Twilight-Fury-of-the-Deep.zip"
+        }
+      ]
+    }
+  ]
+}

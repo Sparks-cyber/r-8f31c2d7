@@ -1,0 +1,116 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "leomord-backup",
+      "portrait_file": "Leomord-Default.png",
+      "script_file": "Leomord-Backup.zip",
+      "skin_name": "Sworn Sword",
+      "splash_file": "Leomord-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-hell-knight",
+      "portrait_file": "Leomord-Hell-Knight.png",
+      "script_file": "Leomord-Hell-Knight.zip",
+      "skin_name": "Hell Knight",
+      "splash_file": "Leomord-Hell-Knight.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-frostborn-paladin",
+      "portrait_file": "Leomord-Frostborn-Paladin.png",
+      "script_file": "Leomord-Frostborn-Paladin.zip",
+      "skin_name": "Frostborn Paladin",
+      "splash_file": "Leomord-Frostborn-Paladin.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-triumph-eagle",
+      "portrait_file": "Leomord-Triumph-Eagle.png",
+      "script_file": "Leomord-Triumph-Eagle.zip",
+      "skin_name": "Triumph - Eagle",
+      "splash_file": "Leomord-Triumph-Eagle.png",
+      "tag_id": "msc-2019",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-inferno-soul",
+      "portrait_file": "Leomord-Inferno-Soul.png",
+      "script_file": "Leomord-Inferno-Soul.zip",
+      "skin_name": "Inferno Soul",
+      "splash_file": "Leomord-Inferno-Soul.png",
+      "tag_id": "luckybox",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-jack-o-lantern",
+      "portrait_file": "Leomord-Jack-o-lantern.png",
+      "script_file": "Leomord-Jack-o-lantern.zip",
+      "skin_name": "Jack-o'-lantern",
+      "splash_file": "Leomord-Jack-o-lantern.png",
+      "tag_id": "halloween",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-shadow-knight",
+      "portrait_file": "Leomord-Shadow-Knight.png",
+      "script_file": "Leomord-Shadow-Knight.zip",
+      "skin_name": "Shadow Knight",
+      "splash_file": "Leomord-Shadow-Knight.png",
+      "tag_id": "abyss",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-diavel-v4-rider",
+      "portrait_file": "Leomord-Diavel-V4-Rider.png",
+      "script_file": "Leomord-Diavel-V4-Rider.zip",
+      "skin_name": "Diavel V4 Rider",
+      "splash_file": "Leomord-Diavel-V4-Rider.png",
+      "tag_id": "ducati",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-nightmare-count",
+      "portrait_file": "Leomord-Nightmare-Count.png",
+      "script_file": "Leomord-Nightmare-Count.zip",
+      "skin_name": "Nightmare Count",
+      "splash_file": "Leomord-Nightmare-Count.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "leomord-auspicious-blaze",
+      "portrait_file": "Leomord-Auspicious-Blaze.png",
+      "script_file": "Leomord-Auspicious-Blaze.zip",
+      "skin_name": "Auspicious Blaze",
+      "splash_file": "Leomord-Auspicious-Blaze.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 67,
+    "name": "Leomord",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "leomord"
+  },
+  "release_tag": "visual-leomord",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

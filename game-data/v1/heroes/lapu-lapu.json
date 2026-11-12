@@ -1,0 +1,291 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 37,
+    "slug": "lapu-lapu",
+    "name": "Lapu-Lapu",
+    "skin_name": "Courageous Blade",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "region": "Vonetis Sea",
+    "release_date": "2017",
+    "resource": null,
+    "short_description": "Hero who defends the Vonetis Islands from outsiders.",
+    "brief": "Lapu-Lapu lives with other Doricans on the Vonetis Islands, living a life outside of worldly strife. But the arrival of a warlord who had defected from the Moniyan Empire broke this silence brought about endless killing. Lapu-Lapu gathered all the tribes together to fight back against the warlord's invasion and finally won, turning the Vonetis Islands into a paradise of freedom again.",
+    "story": "From up on the peak, Lapu-Lapu looked down at the flames of the Moniyan camp at the foot of the mountain. He never thought he would once again step on to a battlefield, the kind of place he hated the most. But he knew that in order to protect that which was most important, he could no longer run away.\n\nAs early as the middle of the Era of Strife, the Dorik people came to the Vonetis Islands to the southeast of the mainland where they thrived.\n\nJust as turbulent waves are the normal state of the sea, this lonely archipelago was by no means peaceful. The protection of the sea and the isolated lifestyle made the Dorik forget the vows made by the various tribes hundreds of years prior to join forces and resist the powerful Moniyan navy and there was constant conflict between tribes large and small.\n\nLapu-Lapu was the most famous warrior of the Vonetis Islands. He was employed by various tribes over a long period of time, passing between the islands. The endless battles brought him weariness, dignity, honor, and money... On the battlefield, human lives were worthless. So[,] what was the value in it all? Having fought countless wars, he returned to his hometown with his scarred body and mind.\n\nLapu-Lapu lived a quiet life in his hometown like an ordinary hunter, working at sunrise and resting at sunset. But the peaceful life he was looking forward to did not last. Some warlords who had defected from the Moniyan Empire set their sights on this free land. Well-trained troops landed on the Vonetis Islands like tidal waves. The scattered Dorik peoples were powerless to resist, and vast swathes of land fell into enemy hands.\n\nVarious tribes sent invitations to Lapu-Lapu, hoping that he could join their camp. He was no longer willing to work for the interests of the tribal leaders, but there was no way he could become a despicable capitulator, so he rejected the persuasions of the leaders and the Moniyans, and just wanted to remain a simple hunter aloof from any worldly strife.\n\nLapu-Lapu and the Moniyans made a non-aggression agreement. However, in the eyes of the greedy Moniyans, there was no such thing as neutrality and everything in the Vonetis Islands was theirs for the taking. Soon, the Moniyans broke the agreement and ransacked Lapu-Lapu's tribe while he was out.\n\nThe humiliating loss brought only tears from his wife and children and a devastated home. Lapu-Lapu was incensed. He wanted no more than to protect everything around him. If the Moniyans were going to repay his compromises with perfidy, he would make them see his inviolable dignity in the form of their own blood.\n\nLapu-Lapu assembled the young people of the tribe together into a unit and began his campaign of resistance. He was more familiar with the hometown under his feet than anyone, and knew how to attack, fight and retreat in the mountains and forests. The unit kept attacking Moniyan bases and supply lines, coming and going without leaving a trace, leaving the Moniyans with constant confusion and panic.\n\nWhen a Moniyan warlord found out that this was all Lapu-Lapu's doing, the despicable invaders began to deliberately loot the villages with which Lapu-Lapu had allied. They strengthened their defenses and hid provisions to force Lapu-Lapu to appear. The villages that once welcomed Lapu-Lapu cordially had become totally unrecognizable under the iron boot of the Moniyans.\n\nThe heartbroken Lapu-Lapu understood that guerrilla warfare would not be enough to win the final victory. The Dorik were destined to face the mighty Moniyan Empire head on; without doubt an impossible task for him and his unit.\n\nTherefore, he had to unite all the forces that could be united.\n\nLapu-Lapu recruited all the Dorik who had a will to resist, and trained them into reliable warriors, regardless of whether they were men or women. This was not a group of thugs thirsting for power, but a rebel army born to protect and fight for themselves. Everyone possessed the courage and conscience to dedicate themselves to their land. They gathered around Lapu-Lapu and fought alongside him.\n\nAfter many arduous battles, the decisive showdown finally arrived. Lapu-Lapu lured the enemy to the foot of a mountain where countless Dorik warriors were hidden, and withdrew his unit into the mountain. The enemy knew that Lapu-Lapu was good at jungle warfare, and the other side of the mountain was a cliff, so they decided to guard the only way out of the mountain at the bottom. The Moniyans believed that the “trapped and desperate” rebels would either have to come out of the mountain and fight the army head-on, or simply starve to death inside.\n\nBut in the middle of the night while the Moniyans were sleeping sweetly waiting for victory, Lapu-Lapu commanded his soldiers to climb down the cliff using ropes made of mountain vines, and launched a surprise attack on the Moniyans. All the built-up humiliation and hatred took on the form of the swift swords of the Dorik warriors, which poured down on the unsuspecting Moniyans. Before the pitiful Moniyan warlord could react, he was beheaded by Lapu-Lapu.\n\nAfter this battle, the Moniyan invaders, who had lost their leader, were unable to recover, and the surging resistance forces under the leadership of Lapu-Lapu drove them back to the mainland. The Vonetis Islands had once again become a bright and free paradise.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 4,
+    "control": 4,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2628,
+    "health_growth": 213,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 119,
+    "physical_attack_growth": 8.21,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 3.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.12,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Lapu-Lapu0",
+      "name": "Homeland Defender",
+      "description": "Lapu-Lapu accumulates 10 <highlight>Bravery Blessing</highlight> each time he deals damage (halved for damage dealt to non-hero units). When <highlight>Bravery Blessing</highlight> is full, Lapu-Lapu's next <highlight>Basic Attack</highlight> will make him dash toward the target, dealing <scaleAD> (+150% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> (cannot Crit) and granting him a shield that absorbs 250 (+65*Hero Level) damage for 2.5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_49ec4c6534f7d54b1b490a966bcb431f.png",
+      "video_url": null
+    },
+    {
+      "id": "Lapu-Lapu1",
+      "name": "Justice Blades",
+      "description": "Lapu-Lapu releases two boomerangs in the target direction, each boomerang dealing 140/165/190/215/240/265<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit on its way out and back.<br/><br/>Enemies hit by both boomerangs take 50% damage from the second hit.",
+      "flavor_text": "Enemies have their sharp spears, but we have strong and brave souls.",
+      "cost": null,
+      "cooldown": "6/5.7/5.4/5.1/4.8/4.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7cb2f98d19635f68bcf1c9a322daf6a.png",
+      "video_url": null
+    },
+    {
+      "id": "Lapu-Lapu12",
+      "name": "Land Shaker",
+      "description": "Lapu-Lapu channels for 0.7s, slowing enemies in the target direction by 60%. He then slams his heavy sword to the ground, dealing 250/280/310/340/370/400<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and stunning them for 1s. (This skill can only be interrupted by Suppression.)",
+      "flavor_text": "Enemies have their sharp spears, but we have strong and brave souls.",
+      "cost": null,
+      "cooldown": "10/9.4/8.8/8.2/7.6/7",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        },
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24322baddfd959a497671ec25ebe91a7.png",
+      "video_url": null
+    },
+    {
+      "id": "Lapu-Lapu2",
+      "name": "Jungle Warrior",
+      "description": "Lapu-Lapu dashes in the target direction, dealing 100/120/140/160/180/200<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the way.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.7/9.4/9.1/8.8/8.5",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Damage",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7b0ba6060cb97e213bbb75c24404a2f.png",
+      "video_url": null
+    },
+    {
+      "id": "Lapu-Lapu22",
+      "name": "Storm Sword",
+      "description": "Lapu-Lapu whirls his heavy sword, dealing 250/280/310/340/370/400<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies.</br></br>When hitting an enemy hero, Lapu-Lapu gains 20% Damage Reduction, plus an additional 8% for each extra enemy hero hit, lasting 3s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6/5.6/5.2/4.8/4.4/4",
+      "tags": [
+        {
+          "name": "Reduce DMG",
+          "rgb": null
+        },
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_49ec4c6534f7d54b1b490a966bcb431f.png",
+      "video_url": null
+    },
+    {
+      "id": "Lapu-Lapu3",
+      "name": "Bravest Fighter",
+      "description": "Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing 300/400/500<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies upon landing and slowing them by 60% for 1s. (This skill cannot be interrupted.)<br/>Lapu-Lapu gains 3 times the <highlight>Bravery Blessing</highlight> from this skill and skills in transformed state.<br/>For the next 10s, Lapu-Lapu enters <highlight>Great Sword</highlight> stance and gains enhanced skills, 30/45/60 extra Physical &amp; Magic Defense, and his Basic Attack damage is increased to 120%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "20/17.5/15",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": null
+        },
+        {
+          "name": "Mobility",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_314a8fc8ae1bed40e359345d5f4d31a0.png",
+      "video_url": null
+    },
+    {
+      "id": "Lapu-Lapu32",
+      "name": "Raging Slash",
+      "description": "Lapu-Lapu swings his heavy sword 3 times. The first two attacks deal 345/445/545<scaleAD> (+160% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> each, while the third deals 440/580/720<scaleAD> (+210% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a large area.</br></br>Lapu-Lapu gains Control Immunity during this process and can change his attack direction and move a short distance on each attack.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "40/35/30",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": null
+        },
+        {
+          "name": "Mobility",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d09db3b0fb47d66e6ce2c80371141c68.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Lapu-Lapu0",
+      "sequence": "Lapu-Lapu1-Lapu-Lapu2-Lapu-Lapu3-Lapu-Lapu32-Lapu-Lapu22-Lapu-Lapu12",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Lapu-Lapu's 1st Skill to wear down the enemies' HP, then follow up with his 2nd Skill to get close and use his Ultimate to initiate. While in Great Sword stance, use his Ultimate again for high burst damage, then use his 2nd Skill to gain Damage Reduction,\nand finally CC the enemy with his 1st Skill."
+    },
+    {
+      "id": "Lapu-Lapu1",
+      "sequence": "Lapu-Lapu1-Lapu-Lapu2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Lapu-Lapu's 1st Skill to poke enemies. When Bravery Blessing is full, use his 2nd Skill and enhanced Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Lapu-Lapu works well with heroes who can pull enemies together, like Tigreal and Atlas, to allow his AOE skills to hit more targets and get more Damage Reduction from his 2nd Skill in Great Sword stance by hitting more heroes.",
+      "heroes": [
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        },
+        {
+          "id": 93,
+          "slug": "atlas",
+          "name": "Atlas"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Lapu-Lapu is strong against squishy heroes who lack movement abilities, such as Layla and Eudora, because he has high burst damage and can use his mobility to get on top of them.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Lapu-Lapu is countered by agile Marksmen who can knock him away, such as Lesley and Moskov. They can speed up or blink to avoid Lapu-Lapu's Ultimate, and use knockback effects to interrupt his 1st Skill in Great Sword stance or to keep him away.",
+      "heroes": [
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        },
+        {
+          "id": 31,
+          "slug": "moskov",
+          "name": "Moskov"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lapu-Lapu-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lapu-Lapu-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d407ccb622db392981d2fceff06d757c.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d407ccb622db392981d2fceff06d757c.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/lapu-lapu.json",
+    "visual_catalog": "catalog/v1/visual/lapu-lapu.json",
+    "upgrade_catalog": "catalog/v1/upgrade/lapu-lapu.json"
+  }
+}

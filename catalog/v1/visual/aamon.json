@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "aamon-backup",
+      "portrait_file": "Aamon-Default.png",
+      "script_file": "Aamon-Backup.zip",
+      "skin_name": "Duke of Shards",
+      "splash_file": "Aamon-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "aamon-night-s-edge",
+      "portrait_file": "Aamon-Night-s-Edge.png",
+      "script_file": "Aamon-Night-s-Edge.zip",
+      "skin_name": "Night's Edge",
+      "splash_file": "Aamon-Night-s-Edge.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "aamon-noble-crest",
+      "portrait_file": "Aamon-Noble-Crest.png",
+      "script_file": "Aamon-Noble-Crest.zip",
+      "skin_name": "Noble Crest",
+      "splash_file": "Aamon-Noble-Crest.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "aamon-cyber-assassin",
+      "portrait_file": "Aamon-Cyber-Assassin.png",
+      "script_file": "Aamon-Cyber-Assassin.zip",
+      "skin_name": "Cyber Assassin",
+      "splash_file": "Aamon-Cyber-Assassin.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "aamon-vessel-of-deceit",
+      "portrait_file": "Aamon-Vessel-of-Deceit.png",
+      "script_file": "Aamon-Vessel-of-Deceit.zip",
+      "skin_name": "Vessel of Deceit",
+      "splash_file": "Aamon-Vessel-of-Deceit.png",
+      "tag_id": "soul-vessels",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "aamon-soul-reaver",
+      "portrait_file": "Aamon-Soul-Reaver.png",
+      "script_file": "Aamon-Soul-Reaver.zip",
+      "skin_name": "Soul Reaver",
+      "splash_file": "Aamon-Soul-Reaver.png",
+      "tag_id": "collector",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "aamon-falcon-of-light",
+      "portrait_file": "Aamon-Falcon-of-Light.png",
+      "script_file": "Aamon-Falcon-of-Light.zip",
+      "skin_name": "Falcon of Light",
+      "splash_file": "Aamon-Falcon-of-Light.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 109,
+    "name": "Aamon",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "aamon"
+  },
+  "release_tag": "visual-aamon",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

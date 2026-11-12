@@ -1,0 +1,36 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hiara-backup",
+      "portrait_file": "Hiara-Default.png",
+      "script_file": null,
+      "skin_name": "Fallen Scarlet",
+      "splash_file": "Hiara-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "hiara-gilded-embers",
+      "portrait_file": "Hiara-Gilded-Embers.png",
+      "script_file": null,
+      "skin_name": "Gilded Embers",
+      "splash_file": "Hiara-Gilded-Embers.png",
+      "tag_id": null,
+      "tier": "common"
+    }
+  ],
+  "hero": {
+    "id": 133,
+    "name": "Hiara",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "hiara"
+  },
+  "release_tag": "visual-hiara",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

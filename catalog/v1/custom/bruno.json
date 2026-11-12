@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "bruno-tsubasa",
+      "portrait_file": "Bruno - Tsubasa.png",
+      "script_file": "Bruno-Tsubasa.zip",
+      "skin_name": "Tsubasa",
+      "splash_file": "Bruno - Tsubasa.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 12,
+    "name": "Bruno",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "bruno"
+  },
+  "release_tag": "custom-bruno",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

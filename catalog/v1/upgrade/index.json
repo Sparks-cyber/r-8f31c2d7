@@ -1,0 +1,804 @@
+{
+  "schema_version": 1,
+  "data": [
+    {
+      "hero_name": "Aamon",
+      "endpoint": "catalog/v1/upgrade/Aamon.json",
+      "release_tag": "upgrade-aamon",
+      "enabled": true
+    },
+    {
+      "hero_name": "Akai",
+      "endpoint": "catalog/v1/upgrade/Akai.json",
+      "release_tag": "upgrade-akai",
+      "enabled": true
+    },
+    {
+      "hero_name": "Aldous",
+      "endpoint": "catalog/v1/upgrade/Aldous.json",
+      "release_tag": "upgrade-aldous",
+      "enabled": true
+    },
+    {
+      "hero_name": "Alice",
+      "endpoint": "catalog/v1/upgrade/Alice.json",
+      "release_tag": "upgrade-alice",
+      "enabled": true
+    },
+    {
+      "hero_name": "Alpha",
+      "endpoint": "catalog/v1/upgrade/Alpha.json",
+      "release_tag": "upgrade-alpha",
+      "enabled": true
+    },
+    {
+      "hero_name": "Alucard",
+      "endpoint": "catalog/v1/upgrade/Alucard.json",
+      "release_tag": "upgrade-alucard",
+      "enabled": true
+    },
+    {
+      "hero_name": "Angela",
+      "endpoint": "catalog/v1/upgrade/Angela.json",
+      "release_tag": "upgrade-angela",
+      "enabled": true
+    },
+    {
+      "hero_name": "Argus",
+      "endpoint": "catalog/v1/upgrade/Argus.json",
+      "release_tag": "upgrade-argus",
+      "enabled": true
+    },
+    {
+      "hero_name": "Arlott",
+      "endpoint": "catalog/v1/upgrade/Arlott.json",
+      "release_tag": "upgrade-arlott",
+      "enabled": true
+    },
+    {
+      "hero_name": "Atlas",
+      "endpoint": "catalog/v1/upgrade/Atlas.json",
+      "release_tag": "upgrade-atlas",
+      "enabled": true
+    },
+    {
+      "hero_name": "Aulus",
+      "endpoint": "catalog/v1/upgrade/Aulus.json",
+      "release_tag": "upgrade-aulus",
+      "enabled": true
+    },
+    {
+      "hero_name": "Aurora",
+      "endpoint": "catalog/v1/upgrade/Aurora.json",
+      "release_tag": "upgrade-aurora",
+      "enabled": true
+    },
+    {
+      "hero_name": "Badang",
+      "endpoint": "catalog/v1/upgrade/Badang.json",
+      "release_tag": "upgrade-badang",
+      "enabled": true
+    },
+    {
+      "hero_name": "Balmond",
+      "endpoint": "catalog/v1/upgrade/Balmond.json",
+      "release_tag": "upgrade-balmond",
+      "enabled": true
+    },
+    {
+      "hero_name": "Bane",
+      "endpoint": "catalog/v1/upgrade/Bane.json",
+      "release_tag": "upgrade-bane",
+      "enabled": true
+    },
+    {
+      "hero_name": "Barats",
+      "endpoint": "catalog/v1/upgrade/Barats.json",
+      "release_tag": "upgrade-barats",
+      "enabled": true
+    },
+    {
+      "hero_name": "Baxia",
+      "endpoint": "catalog/v1/upgrade/Baxia.json",
+      "release_tag": "upgrade-baxia",
+      "enabled": true
+    },
+    {
+      "hero_name": "Beatrix",
+      "endpoint": "catalog/v1/upgrade/Beatrix.json",
+      "release_tag": "upgrade-beatrix",
+      "enabled": true
+    },
+    {
+      "hero_name": "Belerick",
+      "endpoint": "catalog/v1/upgrade/Belerick.json",
+      "release_tag": "upgrade-belerick",
+      "enabled": true
+    },
+    {
+      "hero_name": "Benedetta",
+      "endpoint": "catalog/v1/upgrade/Benedetta.json",
+      "release_tag": "upgrade-benedetta",
+      "enabled": true
+    },
+    {
+      "hero_name": "Brody",
+      "endpoint": "catalog/v1/upgrade/Brody.json",
+      "release_tag": "upgrade-brody",
+      "enabled": true
+    },
+    {
+      "hero_name": "Bruno",
+      "endpoint": "catalog/v1/upgrade/Bruno.json",
+      "release_tag": "upgrade-bruno",
+      "enabled": true
+    },
+    {
+      "hero_name": "Carmilla",
+      "endpoint": "catalog/v1/upgrade/Carmilla.json",
+      "release_tag": "upgrade-carmilla",
+      "enabled": true
+    },
+    {
+      "hero_name": "Cecilion",
+      "endpoint": "catalog/v1/upgrade/Cecilion.json",
+      "release_tag": "upgrade-cecilion",
+      "enabled": true
+    },
+    {
+      "hero_name": "Chang'e",
+      "endpoint": "catalog/v1/upgrade/Chang-e.json",
+      "release_tag": "upgrade-chang-e",
+      "enabled": true
+    },
+    {
+      "hero_name": "Chip",
+      "endpoint": "catalog/v1/upgrade/Chip.json",
+      "release_tag": "upgrade-chip",
+      "enabled": true
+    },
+    {
+      "hero_name": "Chou",
+      "endpoint": "catalog/v1/upgrade/Chou.json",
+      "release_tag": "upgrade-chou",
+      "enabled": true
+    },
+    {
+      "hero_name": "Cici",
+      "endpoint": "catalog/v1/upgrade/Cici.json",
+      "release_tag": "upgrade-cici",
+      "enabled": true
+    },
+    {
+      "hero_name": "Claude",
+      "endpoint": "catalog/v1/upgrade/Claude.json",
+      "release_tag": "upgrade-claude",
+      "enabled": true
+    },
+    {
+      "hero_name": "Clint",
+      "endpoint": "catalog/v1/upgrade/Clint.json",
+      "release_tag": "upgrade-clint",
+      "enabled": true
+    },
+    {
+      "hero_name": "Cyclops",
+      "endpoint": "catalog/v1/upgrade/Cyclops.json",
+      "release_tag": "upgrade-cyclops",
+      "enabled": true
+    },
+    {
+      "hero_name": "Diggie",
+      "endpoint": "catalog/v1/upgrade/Diggie.json",
+      "release_tag": "upgrade-diggie",
+      "enabled": true
+    },
+    {
+      "hero_name": "Dyrroth",
+      "endpoint": "catalog/v1/upgrade/Dyrroth.json",
+      "release_tag": "upgrade-dyrroth",
+      "enabled": true
+    },
+    {
+      "hero_name": "Edith",
+      "endpoint": "catalog/v1/upgrade/Edith.json",
+      "release_tag": "upgrade-edith",
+      "enabled": true
+    },
+    {
+      "hero_name": "Esmeralda",
+      "endpoint": "catalog/v1/upgrade/Esmeralda.json",
+      "release_tag": "upgrade-esmeralda",
+      "enabled": true
+    },
+    {
+      "hero_name": "Estes",
+      "endpoint": "catalog/v1/upgrade/Estes.json",
+      "release_tag": "upgrade-estes",
+      "enabled": true
+    },
+    {
+      "hero_name": "Eudora",
+      "endpoint": "catalog/v1/upgrade/Eudora.json",
+      "release_tag": "upgrade-eudora",
+      "enabled": true
+    },
+    {
+      "hero_name": "Fanny",
+      "endpoint": "catalog/v1/upgrade/Fanny.json",
+      "release_tag": "upgrade-fanny",
+      "enabled": true
+    },
+    {
+      "hero_name": "Faramis",
+      "endpoint": "catalog/v1/upgrade/Faramis.json",
+      "release_tag": "upgrade-faramis",
+      "enabled": true
+    },
+    {
+      "hero_name": "Floryn",
+      "endpoint": "catalog/v1/upgrade/Floryn.json",
+      "release_tag": "upgrade-floryn",
+      "enabled": true
+    },
+    {
+      "hero_name": "Franco",
+      "endpoint": "catalog/v1/upgrade/Franco.json",
+      "release_tag": "upgrade-franco",
+      "enabled": true
+    },
+    {
+      "hero_name": "Fredrinn",
+      "endpoint": "catalog/v1/upgrade/Fredrinn.json",
+      "release_tag": "upgrade-fredrinn",
+      "enabled": true
+    },
+    {
+      "hero_name": "Freya",
+      "endpoint": "catalog/v1/upgrade/Freya.json",
+      "release_tag": "upgrade-freya",
+      "enabled": true
+    },
+    {
+      "hero_name": "Gatotkaca",
+      "endpoint": "catalog/v1/upgrade/Gatotkaca.json",
+      "release_tag": "upgrade-gatotkaca",
+      "enabled": true
+    },
+    {
+      "hero_name": "Gloo",
+      "endpoint": "catalog/v1/upgrade/Gloo.json",
+      "release_tag": "upgrade-gloo",
+      "enabled": true
+    },
+    {
+      "hero_name": "Gord",
+      "endpoint": "catalog/v1/upgrade/Gord.json",
+      "release_tag": "upgrade-gord",
+      "enabled": true
+    },
+    {
+      "hero_name": "Granger",
+      "endpoint": "catalog/v1/upgrade/Granger.json",
+      "release_tag": "upgrade-granger",
+      "enabled": true
+    },
+    {
+      "hero_name": "Grock",
+      "endpoint": "catalog/v1/upgrade/Grock.json",
+      "release_tag": "upgrade-grock",
+      "enabled": true
+    },
+    {
+      "hero_name": "Guinevere",
+      "endpoint": "catalog/v1/upgrade/Guinevere.json",
+      "release_tag": "upgrade-guinevere",
+      "enabled": true
+    },
+    {
+      "hero_name": "Gusion",
+      "endpoint": "catalog/v1/upgrade/Gusion.json",
+      "release_tag": "upgrade-gusion",
+      "enabled": true
+    },
+    {
+      "hero_name": "Hanabi",
+      "endpoint": "catalog/v1/upgrade/Hanabi.json",
+      "release_tag": "upgrade-hanabi",
+      "enabled": true
+    },
+    {
+      "hero_name": "Hanzo",
+      "endpoint": "catalog/v1/upgrade/Hanzo.json",
+      "release_tag": "upgrade-hanzo",
+      "enabled": true
+    },
+    {
+      "hero_name": "Harith",
+      "endpoint": "catalog/v1/upgrade/Harith.json",
+      "release_tag": "upgrade-harith",
+      "enabled": true
+    },
+    {
+      "hero_name": "Harley",
+      "endpoint": "catalog/v1/upgrade/Harley.json",
+      "release_tag": "upgrade-harley",
+      "enabled": true
+    },
+    {
+      "hero_name": "Hayabusa",
+      "endpoint": "catalog/v1/upgrade/Hayabusa.json",
+      "release_tag": "upgrade-hayabusa",
+      "enabled": true
+    },
+    {
+      "hero_name": "Helcurt",
+      "endpoint": "catalog/v1/upgrade/Helcurt.json",
+      "release_tag": "upgrade-helcurt",
+      "enabled": true
+    },
+    {
+      "hero_name": "Hiara",
+      "endpoint": "catalog/v1/upgrade/Hiara.json",
+      "release_tag": "upgrade-hiara",
+      "enabled": true
+    },
+    {
+      "hero_name": "Hilda",
+      "endpoint": "catalog/v1/upgrade/Hilda.json",
+      "release_tag": "upgrade-hilda",
+      "enabled": true
+    },
+    {
+      "hero_name": "Hylos",
+      "endpoint": "catalog/v1/upgrade/Hylos.json",
+      "release_tag": "upgrade-hylos",
+      "enabled": true
+    },
+    {
+      "hero_name": "Irithel",
+      "endpoint": "catalog/v1/upgrade/Irithel.json",
+      "release_tag": "upgrade-irithel",
+      "enabled": true
+    },
+    {
+      "hero_name": "Ixia",
+      "endpoint": "catalog/v1/upgrade/Ixia.json",
+      "release_tag": "upgrade-ixia",
+      "enabled": true
+    },
+    {
+      "hero_name": "Jawhead",
+      "endpoint": "catalog/v1/upgrade/Jawhead.json",
+      "release_tag": "upgrade-jawhead",
+      "enabled": true
+    },
+    {
+      "hero_name": "Johnson",
+      "endpoint": "catalog/v1/upgrade/Johnson.json",
+      "release_tag": "upgrade-johnson",
+      "enabled": true
+    },
+    {
+      "hero_name": "Joy",
+      "endpoint": "catalog/v1/upgrade/Joy.json",
+      "release_tag": "upgrade-joy",
+      "enabled": true
+    },
+    {
+      "hero_name": "Julian",
+      "endpoint": "catalog/v1/upgrade/Julian.json",
+      "release_tag": "upgrade-julian",
+      "enabled": true
+    },
+    {
+      "hero_name": "Kadita",
+      "endpoint": "catalog/v1/upgrade/Kadita.json",
+      "release_tag": "upgrade-kadita",
+      "enabled": true
+    },
+    {
+      "hero_name": "Kagura",
+      "endpoint": "catalog/v1/upgrade/Kagura.json",
+      "release_tag": "upgrade-kagura",
+      "enabled": true
+    },
+    {
+      "hero_name": "Kaja",
+      "endpoint": "catalog/v1/upgrade/Kaja.json",
+      "release_tag": "upgrade-kaja",
+      "enabled": true
+    },
+    {
+      "hero_name": "Kalea",
+      "endpoint": "catalog/v1/upgrade/Kalea.json",
+      "release_tag": "upgrade-kalea",
+      "enabled": true
+    },
+    {
+      "hero_name": "Karina",
+      "endpoint": "catalog/v1/upgrade/Karina.json",
+      "release_tag": "upgrade-karina",
+      "enabled": true
+    },
+    {
+      "hero_name": "Karrie",
+      "endpoint": "catalog/v1/upgrade/Karrie.json",
+      "release_tag": "upgrade-karrie",
+      "enabled": true
+    },
+    {
+      "hero_name": "Khaleed",
+      "endpoint": "catalog/v1/upgrade/Khaleed.json",
+      "release_tag": "upgrade-khaleed",
+      "enabled": true
+    },
+    {
+      "hero_name": "Khufra",
+      "endpoint": "catalog/v1/upgrade/Khufra.json",
+      "release_tag": "upgrade-khufra",
+      "enabled": true
+    },
+    {
+      "hero_name": "Kimmy",
+      "endpoint": "catalog/v1/upgrade/Kimmy.json",
+      "release_tag": "upgrade-kimmy",
+      "enabled": true
+    },
+    {
+      "hero_name": "Lancelot",
+      "endpoint": "catalog/v1/upgrade/Lancelot.json",
+      "release_tag": "upgrade-lancelot",
+      "enabled": true
+    },
+    {
+      "hero_name": "Lapu-Lapu",
+      "endpoint": "catalog/v1/upgrade/Lapu-Lapu.json",
+      "release_tag": "upgrade-lapu-lapu",
+      "enabled": true
+    },
+    {
+      "hero_name": "Layla",
+      "endpoint": "catalog/v1/upgrade/Layla.json",
+      "release_tag": "upgrade-layla",
+      "enabled": true
+    },
+    {
+      "hero_name": "Leomord",
+      "endpoint": "catalog/v1/upgrade/Leomord.json",
+      "release_tag": "upgrade-leomord",
+      "enabled": true
+    },
+    {
+      "hero_name": "Lesley",
+      "endpoint": "catalog/v1/upgrade/Lesley.json",
+      "release_tag": "upgrade-lesley",
+      "enabled": true
+    },
+    {
+      "hero_name": "Ling",
+      "endpoint": "catalog/v1/upgrade/Ling.json",
+      "release_tag": "upgrade-ling",
+      "enabled": true
+    },
+    {
+      "hero_name": "Lolita",
+      "endpoint": "catalog/v1/upgrade/Lolita.json",
+      "release_tag": "upgrade-lolita",
+      "enabled": true
+    },
+    {
+      "hero_name": "Lukas",
+      "endpoint": "catalog/v1/upgrade/Lukas.json",
+      "release_tag": "upgrade-lukas",
+      "enabled": true
+    },
+    {
+      "hero_name": "Lunox",
+      "endpoint": "catalog/v1/upgrade/Lunox.json",
+      "release_tag": "upgrade-lunox",
+      "enabled": true
+    },
+    {
+      "hero_name": "Luo Yi",
+      "endpoint": "catalog/v1/upgrade/Luo-Yi.json",
+      "release_tag": "upgrade-luo-yi",
+      "enabled": true
+    },
+    {
+      "hero_name": "Lylia",
+      "endpoint": "catalog/v1/upgrade/Lylia.json",
+      "release_tag": "upgrade-lylia",
+      "enabled": true
+    },
+    {
+      "hero_name": "Marcel",
+      "endpoint": "catalog/v1/upgrade/Marcel.json",
+      "release_tag": "upgrade-marcel",
+      "enabled": true
+    },
+    {
+      "hero_name": "Martis",
+      "endpoint": "catalog/v1/upgrade/Martis.json",
+      "release_tag": "upgrade-martis",
+      "enabled": true
+    },
+    {
+      "hero_name": "Masha",
+      "endpoint": "catalog/v1/upgrade/Masha.json",
+      "release_tag": "upgrade-masha",
+      "enabled": true
+    },
+    {
+      "hero_name": "Mathilda",
+      "endpoint": "catalog/v1/upgrade/Mathilda.json",
+      "release_tag": "upgrade-mathilda",
+      "enabled": true
+    },
+    {
+      "hero_name": "Melissa",
+      "endpoint": "catalog/v1/upgrade/Melissa.json",
+      "release_tag": "upgrade-melissa",
+      "enabled": true
+    },
+    {
+      "hero_name": "Minotaur",
+      "endpoint": "catalog/v1/upgrade/Minotaur.json",
+      "release_tag": "upgrade-minotaur",
+      "enabled": true
+    },
+    {
+      "hero_name": "Minsitthar",
+      "endpoint": "catalog/v1/upgrade/Minsitthar.json",
+      "release_tag": "upgrade-minsitthar",
+      "enabled": true
+    },
+    {
+      "hero_name": "Miya",
+      "endpoint": "catalog/v1/upgrade/Miya.json",
+      "release_tag": "upgrade-miya",
+      "enabled": true
+    },
+    {
+      "hero_name": "Moskov",
+      "endpoint": "catalog/v1/upgrade/Moskov.json",
+      "release_tag": "upgrade-moskov",
+      "enabled": true
+    },
+    {
+      "hero_name": "Nana",
+      "endpoint": "catalog/v1/upgrade/Nana.json",
+      "release_tag": "upgrade-nana",
+      "enabled": true
+    },
+    {
+      "hero_name": "Natalia",
+      "endpoint": "catalog/v1/upgrade/Natalia.json",
+      "release_tag": "upgrade-natalia",
+      "enabled": true
+    },
+    {
+      "hero_name": "Natan",
+      "endpoint": "catalog/v1/upgrade/Natan.json",
+      "release_tag": "upgrade-natan",
+      "enabled": true
+    },
+    {
+      "hero_name": "Nolan",
+      "endpoint": "catalog/v1/upgrade/Nolan.json",
+      "release_tag": "upgrade-nolan",
+      "enabled": true
+    },
+    {
+      "hero_name": "Novaria",
+      "endpoint": "catalog/v1/upgrade/Novaria.json",
+      "release_tag": "upgrade-novaria",
+      "enabled": true
+    },
+    {
+      "hero_name": "Obsidia",
+      "endpoint": "catalog/v1/upgrade/Obsidia.json",
+      "release_tag": "upgrade-obsidia",
+      "enabled": true
+    },
+    {
+      "hero_name": "Odette",
+      "endpoint": "catalog/v1/upgrade/Odette.json",
+      "release_tag": "upgrade-odette",
+      "enabled": true
+    },
+    {
+      "hero_name": "Paquito",
+      "endpoint": "catalog/v1/upgrade/Paquito.json",
+      "release_tag": "upgrade-paquito",
+      "enabled": true
+    },
+    {
+      "hero_name": "Pharsa",
+      "endpoint": "catalog/v1/upgrade/Pharsa.json",
+      "release_tag": "upgrade-pharsa",
+      "enabled": true
+    },
+    {
+      "hero_name": "Phoveus",
+      "endpoint": "catalog/v1/upgrade/Phoveus.json",
+      "release_tag": "upgrade-phoveus",
+      "enabled": true
+    },
+    {
+      "hero_name": "Popol and Kupa",
+      "endpoint": "catalog/v1/upgrade/Popol-and-Kupa.json",
+      "release_tag": "upgrade-popol-and-kupa",
+      "enabled": true
+    },
+    {
+      "hero_name": "Rafaela",
+      "endpoint": "catalog/v1/upgrade/Rafaela.json",
+      "release_tag": "upgrade-rafaela",
+      "enabled": true
+    },
+    {
+      "hero_name": "Roger",
+      "endpoint": "catalog/v1/upgrade/Roger.json",
+      "release_tag": "upgrade-roger",
+      "enabled": true
+    },
+    {
+      "hero_name": "Ruby",
+      "endpoint": "catalog/v1/upgrade/Ruby.json",
+      "release_tag": "upgrade-ruby",
+      "enabled": true
+    },
+    {
+      "hero_name": "Saber",
+      "endpoint": "catalog/v1/upgrade/Saber.json",
+      "release_tag": "upgrade-saber",
+      "enabled": true
+    },
+    {
+      "hero_name": "Selena",
+      "endpoint": "catalog/v1/upgrade/Selena.json",
+      "release_tag": "upgrade-selena",
+      "enabled": true
+    },
+    {
+      "hero_name": "Silvanna",
+      "endpoint": "catalog/v1/upgrade/Silvanna.json",
+      "release_tag": "upgrade-silvanna",
+      "enabled": true
+    },
+    {
+      "hero_name": "Sora",
+      "endpoint": "catalog/v1/upgrade/Sora.json",
+      "release_tag": "upgrade-sora",
+      "enabled": true
+    },
+    {
+      "hero_name": "Sun",
+      "endpoint": "catalog/v1/upgrade/Sun.json",
+      "release_tag": "upgrade-sun",
+      "enabled": true
+    },
+    {
+      "hero_name": "Suyou",
+      "endpoint": "catalog/v1/upgrade/Suyou.json",
+      "release_tag": "upgrade-suyou",
+      "enabled": true
+    },
+    {
+      "hero_name": "Terizla",
+      "endpoint": "catalog/v1/upgrade/Terizla.json",
+      "release_tag": "upgrade-terizla",
+      "enabled": true
+    },
+    {
+      "hero_name": "Thamuz",
+      "endpoint": "catalog/v1/upgrade/Thamuz.json",
+      "release_tag": "upgrade-thamuz",
+      "enabled": true
+    },
+    {
+      "hero_name": "Tigreal",
+      "endpoint": "catalog/v1/upgrade/Tigreal.json",
+      "release_tag": "upgrade-tigreal",
+      "enabled": true
+    },
+    {
+      "hero_name": "Uranus",
+      "endpoint": "catalog/v1/upgrade/Uranus.json",
+      "release_tag": "upgrade-uranus",
+      "enabled": true
+    },
+    {
+      "hero_name": "Vale",
+      "endpoint": "catalog/v1/upgrade/Vale.json",
+      "release_tag": "upgrade-vale",
+      "enabled": true
+    },
+    {
+      "hero_name": "Valentina",
+      "endpoint": "catalog/v1/upgrade/Valentina.json",
+      "release_tag": "upgrade-valentina",
+      "enabled": true
+    },
+    {
+      "hero_name": "Valir",
+      "endpoint": "catalog/v1/upgrade/Valir.json",
+      "release_tag": "upgrade-valir",
+      "enabled": true
+    },
+    {
+      "hero_name": "Vexana",
+      "endpoint": "catalog/v1/upgrade/Vexana.json",
+      "release_tag": "upgrade-vexana",
+      "enabled": true
+    },
+    {
+      "hero_name": "Wanwan",
+      "endpoint": "catalog/v1/upgrade/Wanwan.json",
+      "release_tag": "upgrade-wanwan",
+      "enabled": true
+    },
+    {
+      "hero_name": "X.Borg",
+      "endpoint": "catalog/v1/upgrade/X-Borg.json",
+      "release_tag": "upgrade-x-borg",
+      "enabled": true
+    },
+    {
+      "hero_name": "Xavier",
+      "endpoint": "catalog/v1/upgrade/Xavier.json",
+      "release_tag": "upgrade-xavier",
+      "enabled": true
+    },
+    {
+      "hero_name": "Yi Sun-shin",
+      "endpoint": "catalog/v1/upgrade/Yi-Sun-shin.json",
+      "release_tag": "upgrade-yi-sun-shin",
+      "enabled": true
+    },
+    {
+      "hero_name": "Yin",
+      "endpoint": "catalog/v1/upgrade/Yin.json",
+      "release_tag": "upgrade-yin",
+      "enabled": true
+    },
+    {
+      "hero_name": "Yu Zhong",
+      "endpoint": "catalog/v1/upgrade/Yu-Zhong.json",
+      "release_tag": "upgrade-yu-zhong",
+      "enabled": true
+    },
+    {
+      "hero_name": "Yve",
+      "endpoint": "catalog/v1/upgrade/Yve.json",
+      "release_tag": "upgrade-yve",
+      "enabled": true
+    },
+    {
+      "hero_name": "Zetian",
+      "endpoint": "catalog/v1/upgrade/Zetian.json",
+      "release_tag": "upgrade-zetian",
+      "enabled": true
+    },
+    {
+      "hero_name": "Zhask",
+      "endpoint": "catalog/v1/upgrade/Zhask.json",
+      "release_tag": "upgrade-zhask",
+      "enabled": true
+    },
+    {
+      "hero_name": "Zhuxin",
+      "endpoint": "catalog/v1/upgrade/Zhuxin.json",
+      "release_tag": "upgrade-zhuxin",
+      "enabled": true
+    },
+    {
+      "hero_name": "Zilong",
+      "endpoint": "catalog/v1/upgrade/Zilong.json",
+      "release_tag": "upgrade-zilong",
+      "enabled": true
+    }
+  ],
+  "updated_at": "2026-11-08T07:13:30+00:00"
+}

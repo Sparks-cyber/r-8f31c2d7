@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "pharsa-backup",
+      "portrait_file": "Pharsa-Default.png",
+      "script_file": "Pharsa-Backup.zip",
+      "skin_name": "Wings of Vengeance",
+      "splash_file": "Pharsa-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-wings-of-heaven",
+      "portrait_file": "Pharsa-Wings-of-Heaven.png",
+      "script_file": "Pharsa-Wings-of-Heaven.zip",
+      "skin_name": "Wings of Heaven",
+      "splash_file": "Pharsa-Wings-of-Heaven.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-peafowl-s-dance",
+      "portrait_file": "Pharsa-Peafowl-s-Dance.png",
+      "script_file": "Pharsa-Peafowl-s-Dance.zip",
+      "skin_name": "Peafowl's Dance",
+      "splash_file": "Pharsa-Peafowl-s-Dance.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-indigo-aviatrix",
+      "portrait_file": "Pharsa-Indigo-Aviatrix.png",
+      "script_file": "Pharsa-Indigo-Aviatrix.zip",
+      "skin_name": "Indigo Aviatrix",
+      "splash_file": "Pharsa-Indigo-Aviatrix.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-enchanting-witch",
+      "portrait_file": "Pharsa-Enchanting-Witch.png",
+      "script_file": "Pharsa-Enchanting-Witch.zip",
+      "skin_name": "Enchanting Witch",
+      "splash_file": "Pharsa-Enchanting-Witch.png",
+      "tag_id": "s14",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-empress-phoenix",
+      "portrait_file": "Pharsa-Empress-Phoenix.png",
+      "script_file": "Pharsa-Empress-Phoenix.zip",
+      "skin_name": "Empress Phoenix",
+      "splash_file": "Pharsa-Empress-Phoenix.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-samba-muse",
+      "portrait_file": "Pharsa-Samba-Muse.png",
+      "script_file": "Pharsa-Samba-Muse.zip",
+      "skin_name": "Samba Muse",
+      "splash_file": "Pharsa-Samba-Muse.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-peony-bloom",
+      "portrait_file": "Pharsa-Peony-Bloom.png",
+      "script_file": "Pharsa-Peony-Bloom.zip",
+      "skin_name": "Peony Bloom",
+      "splash_file": "Pharsa-Peony-Bloom.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-hierophant",
+      "portrait_file": "Pharsa-Hierophant.png",
+      "script_file": "Pharsa-Hierophant.zip",
+      "skin_name": "Hierophant",
+      "splash_file": "Pharsa-Hierophant.png",
+      "tag_id": "msc-2022",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-neon-shingetsu",
+      "portrait_file": "Pharsa-Neon-Shingetsu.png",
+      "script_file": "Pharsa-Neon-Shingetsu.zip",
+      "skin_name": "Neon Shingetsu",
+      "splash_file": "Pharsa-Neon-Shingetsu.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-neobeast-pharsa",
+      "portrait_file": "Pharsa-Neobeast.png",
+      "script_file": "Pharsa-Neobeast-Pharsa.zip",
+      "skin_name": "Neobeast Pharsa",
+      "splash_file": "Pharsa-Neobeast-Pharsa.png",
+      "tag_id": "neobeasts",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "pharsa-seasworn-oracle",
+      "portrait_file": "Pharsa-Seasworn-Oracle.png",
+      "script_file": "Pharsa-Seasworn-Oracle.zip",
+      "skin_name": "Seasworn Oracle",
+      "splash_file": "Pharsa-Seasworn-Oracle.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 52,
+    "name": "Pharsa",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "pharsa"
+  },
+  "release_tag": "visual-pharsa",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,395 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Harley",
+  "role": "Assassin/Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Naughty Joker",
+      "Splash_url": "Harley-Naughty-Joker.png",
+      "script": "Harley-Naughty-Joker-Backup.zip",
+      "Portrait_url": "Harley-Naughty-Joker.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Royal Magister",
+          "Portrait_url": "Harley-Royal-Magister.png",
+          "Splash_url": "Harley-Royal-Magister.png",
+          "script": "Harley-Naughty-Joker-Royal-Magister.zip"
+        },
+        {
+          "name": "Referee",
+          "Portrait_url": "Harley-Referee.png",
+          "Splash_url": "Harley-Referee.png",
+          "script": "Harley-Naughty-Joker-Referee.zip"
+        },
+        {
+          "name": "Great Inventor",
+          "Portrait_url": "Harley-Great-Inventor.png",
+          "Splash_url": "Harley-Great-Inventor.png",
+          "script": "Harley-Naughty-Joker-Great-Inventor.zip"
+        },
+        {
+          "name": "Dream Caster",
+          "Portrait_url": "Harley-Dream-Caster.png",
+          "Splash_url": "Harley-Dream-Caster.png",
+          "script": "Harley-Naughty-Joker-Dream-Caster.zip"
+        },
+        {
+          "name": "Pulsar Prodigy",
+          "Portrait_url": "Harley-Pulsar-Prodigy.png",
+          "Splash_url": "Harley-Pulsar-Prodigy.png",
+          "script": "Harley-Naughty-Joker-Pulsar-Prodigy.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Royal Magister",
+      "Splash_url": "Harley-Royal-Magister.png",
+      "script": "Harley-Royal-Magister-Backup.zip",
+      "Portrait_url": "Harley-Royal-Magister.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Naughty Joker",
+          "Portrait_url": "Harley-Naughty-Joker.png",
+          "Splash_url": "Harley-Naughty-Joker.png",
+          "script": "Harley-Royal-Magister-Naughty-Joker.zip"
+        },
+        {
+          "name": "Referee",
+          "Portrait_url": "Harley-Referee.png",
+          "Splash_url": "Harley-Referee.png",
+          "script": "Harley-Royal-Magister-Referee.zip"
+        },
+        {
+          "name": "Great Inventor",
+          "Portrait_url": "Harley-Great-Inventor.png",
+          "Splash_url": "Harley-Great-Inventor.png",
+          "script": "Harley-Royal-Magister-Great-Inventor.zip"
+        },
+        {
+          "name": "Dream Caster",
+          "Portrait_url": "Harley-Dream-Caster.png",
+          "Splash_url": "Harley-Dream-Caster.png",
+          "script": "Harley-Royal-Magister-Dream-Caster.zip"
+        },
+        {
+          "name": "Pulsar Prodigy",
+          "Portrait_url": "Harley-Pulsar-Prodigy.png",
+          "Splash_url": "Harley-Pulsar-Prodigy.png",
+          "script": "Harley-Royal-Magister-Pulsar-Prodigy.zip"
+        },
+        {
+          "name": "Star Magician",
+          "Portrait_url": "Harley-Star-Magician.png",
+          "Splash_url": "Harley-Star-Magician.png",
+          "script": "Harley-Royal-Magister-Star-Magician.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Referee",
+      "Splash_url": "Harley-Referee.png",
+      "script": "Harley-Referee-Backup.zip",
+      "Portrait_url": "Harley-Referee.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Naughty Joker",
+          "Portrait_url": "Harley-Naughty-Joker.png",
+          "Splash_url": "Harley-Naughty-Joker.png",
+          "script": "Harley-Referee-Naughty-Joker.zip"
+        },
+        {
+          "name": "Royal Magister",
+          "Portrait_url": "Harley-Royal-Magister.png",
+          "Splash_url": "Harley-Royal-Magister.png",
+          "script": "Harley-Referee-Royal-Magister.zip"
+        },
+        {
+          "name": "Great Inventor",
+          "Portrait_url": "Harley-Great-Inventor.png",
+          "Splash_url": "Harley-Great-Inventor.png",
+          "script": "Harley-Referee-Great-Inventor.zip"
+        },
+        {
+          "name": "Dream Caster",
+          "Portrait_url": "Harley-Dream-Caster.png",
+          "Splash_url": "Harley-Dream-Caster.png",
+          "script": "Harley-Referee-Dream-Caster.zip"
+        },
+        {
+          "name": "Pulsar Prodigy",
+          "Portrait_url": "Harley-Pulsar-Prodigy.png",
+          "Splash_url": "Harley-Pulsar-Prodigy.png",
+          "script": "Harley-Referee-Pulsar-Prodigy.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Great Inventor",
+      "Splash_url": "Harley-Great-Inventor.png",
+      "script": "Harley-Great-Inventor-Backup.zip",
+      "Portrait_url": "Harley-Great-Inventor.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Naughty Joker",
+          "Portrait_url": "Harley-Naughty-Joker.png",
+          "Splash_url": "Harley-Naughty-Joker.png",
+          "script": "Harley-Great-Inventor-Naughty-Joker.zip"
+        },
+        {
+          "name": "Royal Magister",
+          "Portrait_url": "Harley-Royal-Magister.png",
+          "Splash_url": "Harley-Royal-Magister.png",
+          "script": "Harley-Great-Inventor-Royal-Magister.zip"
+        },
+        {
+          "name": "Referee",
+          "Portrait_url": "Harley-Referee.png",
+          "Splash_url": "Harley-Referee.png",
+          "script": "Harley-Great-Inventor-Referee.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Octopus",
+          "Portrait_url": "Harley-V-E-N-O-M-Octopus.png",
+          "Splash_url": "Harley-V-E-N-O-M-Octopus.png",
+          "script": "Harley-Great-Inventor-V-E-N-O-M-Octopus.zip"
+        },
+        {
+          "name": "Dream Caster",
+          "Portrait_url": "Harley-Dream-Caster.png",
+          "Splash_url": "Harley-Dream-Caster.png",
+          "script": "Harley-Great-Inventor-Dream-Caster.zip"
+        },
+        {
+          "name": "Pulsar Prodigy",
+          "Portrait_url": "Harley-Pulsar-Prodigy.png",
+          "Splash_url": "Harley-Pulsar-Prodigy.png",
+          "script": "Harley-Great-Inventor-Pulsar-Prodigy.zip"
+        },
+        {
+          "name": "Star Magician",
+          "Portrait_url": "Harley-Star-Magician.png",
+          "Splash_url": "Harley-Star-Magician.png",
+          "script": "Harley-Great-Inventor-Star-Magician.zip"
+        }
+      ]
+    },
+    {
+      "name": "V.E.N.O.M.",
+      "Default_name": "V.E.N.O.M. Octopus",
+      "Splash_url": "Harley-V-E-N-O-M-Octopus.png",
+      "script": "Harley-V-E-N-O-M-Octopus-Backup.zip",
+      "Portrait_url": "Harley-V-E-N-O-M-Octopus.png",
+      "Tags": [
+        "VENOM.png"
+      ],
+      "targets": [
+        {
+          "name": "Naughty Joker",
+          "Portrait_url": "Harley-Naughty-Joker.png",
+          "Splash_url": "Harley-Naughty-Joker.png",
+          "script": "Harley-V-E-N-O-M-Octopus-Naughty-Joker.zip"
+        },
+        {
+          "name": "Royal Magister",
+          "Portrait_url": "Harley-Royal-Magister.png",
+          "Splash_url": "Harley-Royal-Magister.png",
+          "script": "Harley-V-E-N-O-M-Octopus-Royal-Magister.zip"
+        },
+        {
+          "name": "Referee",
+          "Portrait_url": "Harley-Referee.png",
+          "Splash_url": "Harley-Referee.png",
+          "script": "Harley-V-E-N-O-M-Octopus-Referee.zip"
+        },
+        {
+          "name": "Great Inventor",
+          "Portrait_url": "Harley-Great-Inventor.png",
+          "Splash_url": "Harley-Great-Inventor.png",
+          "script": "Harley-V-E-N-O-M-Octopus-Great-Inventor.zip"
+        },
+        {
+          "name": "Dream Caster",
+          "Portrait_url": "Harley-Dream-Caster.png",
+          "Splash_url": "Harley-Dream-Caster.png",
+          "script": "Harley-V-E-N-O-M-Octopus-Dream-Caster.zip"
+        },
+        {
+          "name": "Pulsar Prodigy",
+          "Portrait_url": "Harley-Pulsar-Prodigy.png",
+          "Splash_url": "Harley-Pulsar-Prodigy.png",
+          "script": "Harley-V-E-N-O-M-Octopus-Pulsar-Prodigy.zip"
+        },
+        {
+          "name": "Star Magician",
+          "Portrait_url": "Harley-Star-Magician.png",
+          "Splash_url": "Harley-Star-Magician.png",
+          "script": "Harley-V-E-N-O-M-Octopus-Star-Magician.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Dream Caster",
+      "Splash_url": "Harley-Dream-Caster.png",
+      "script": "Harley-Dream-Caster-Backup.zip",
+      "Portrait_url": "Harley-Dream-Caster.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Naughty Joker",
+          "Portrait_url": "Harley-Naughty-Joker.png",
+          "Splash_url": "Harley-Naughty-Joker.png",
+          "script": "Harley-Dream-Caster-Naughty-Joker.zip"
+        },
+        {
+          "name": "Royal Magister",
+          "Portrait_url": "Harley-Royal-Magister.png",
+          "Splash_url": "Harley-Royal-Magister.png",
+          "script": "Harley-Dream-Caster-Royal-Magister.zip"
+        },
+        {
+          "name": "Referee",
+          "Portrait_url": "Harley-Referee.png",
+          "Splash_url": "Harley-Referee.png",
+          "script": "Harley-Dream-Caster-Referee.zip"
+        },
+        {
+          "name": "Great Inventor",
+          "Portrait_url": "Harley-Great-Inventor.png",
+          "Splash_url": "Harley-Great-Inventor.png",
+          "script": "Harley-Dream-Caster-Great-Inventor.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Octopus",
+          "Portrait_url": "Harley-V-E-N-O-M-Octopus.png",
+          "Splash_url": "Harley-V-E-N-O-M-Octopus.png",
+          "script": "Harley-Dream-Caster-V-E-N-O-M-Octopus.zip"
+        },
+        {
+          "name": "Pulsar Prodigy",
+          "Portrait_url": "Harley-Pulsar-Prodigy.png",
+          "Splash_url": "Harley-Pulsar-Prodigy.png",
+          "script": "Harley-Dream-Caster-Pulsar-Prodigy.zip"
+        },
+        {
+          "name": "Star Magician",
+          "Portrait_url": "Harley-Star-Magician.png",
+          "Splash_url": "Harley-Star-Magician.png",
+          "script": "Harley-Dream-Caster-Star-Magician.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Pulsar Prodigy",
+      "Splash_url": "Harley-Pulsar-Prodigy.png",
+      "script": "Harley-Pulsar-Prodigy-Backup.zip",
+      "Portrait_url": "Harley-Pulsar-Prodigy.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Naughty Joker",
+          "Portrait_url": "Harley-Naughty-Joker.png",
+          "Splash_url": "Harley-Naughty-Joker.png",
+          "script": "Harley-Pulsar-Prodigy-Naughty-Joker.zip"
+        },
+        {
+          "name": "Royal Magister",
+          "Portrait_url": "Harley-Royal-Magister.png",
+          "Splash_url": "Harley-Royal-Magister.png",
+          "script": "Harley-Pulsar-Prodigy-Royal-Magister.zip"
+        },
+        {
+          "name": "Referee",
+          "Portrait_url": "Harley-Referee.png",
+          "Splash_url": "Harley-Referee.png",
+          "script": "Harley-Pulsar-Prodigy-Referee.zip"
+        },
+        {
+          "name": "Great Inventor",
+          "Portrait_url": "Harley-Great-Inventor.png",
+          "Splash_url": "Harley-Great-Inventor.png",
+          "script": "Harley-Pulsar-Prodigy-Great-Inventor.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Octopus",
+          "Portrait_url": "Harley-V-E-N-O-M-Octopus.png",
+          "Splash_url": "Harley-V-E-N-O-M-Octopus.png",
+          "script": "Harley-Pulsar-Prodigy-V-E-N-O-M-Octopus.zip"
+        },
+        {
+          "name": "Dream Caster",
+          "Portrait_url": "Harley-Dream-Caster.png",
+          "Splash_url": "Harley-Dream-Caster.png",
+          "script": "Harley-Pulsar-Prodigy-Dream-Caster.zip"
+        },
+        {
+          "name": "Star Magician",
+          "Portrait_url": "Harley-Star-Magician.png",
+          "Splash_url": "Harley-Star-Magician.png",
+          "script": "Harley-Pulsar-Prodigy-Star-Magician.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Star Magician",
+      "Splash_url": "Harley-Star-Magician.png",
+      "script": "Harley-Star-Magician-Backup.zip",
+      "Portrait_url": "Harley-Star-Magician.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Naughty Joker",
+          "Portrait_url": "Harley-Naughty-Joker.png",
+          "Splash_url": "Harley-Naughty-Joker.png",
+          "script": "Harley-Star-Magician-Naughty-Joker.zip"
+        },
+        {
+          "name": "Royal Magister",
+          "Portrait_url": "Harley-Royal-Magister.png",
+          "Splash_url": "Harley-Royal-Magister.png",
+          "script": "Harley-Star-Magician-Royal-Magister.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Octopus",
+          "Portrait_url": "Harley-V-E-N-O-M-Octopus.png",
+          "Splash_url": "Harley-V-E-N-O-M-Octopus.png",
+          "script": "Harley-Star-Magician-V-E-N-O-M-Octopus.zip"
+        },
+        {
+          "name": "Dream Caster",
+          "Portrait_url": "Harley-Dream-Caster.png",
+          "Splash_url": "Harley-Dream-Caster.png",
+          "script": "Harley-Star-Magician-Dream-Caster.zip"
+        },
+        {
+          "name": "Pulsar Prodigy",
+          "Portrait_url": "Harley-Pulsar-Prodigy.png",
+          "Splash_url": "Harley-Pulsar-Prodigy.png",
+          "script": "Harley-Star-Magician-Pulsar-Prodigy.zip"
+        }
+      ]
+    }
+  ]
+}

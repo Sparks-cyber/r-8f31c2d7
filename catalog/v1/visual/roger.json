@@ -1,0 +1,137 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "roger-backup",
+      "portrait_file": "Roger-Default.png",
+      "script_file": "Roger-Backup.zip",
+      "skin_name": "Dire Wolf Hunter",
+      "splash_file": "Roger-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "roger-dark-gent",
+      "portrait_file": "Roger-Dark-Gent.png",
+      "script_file": "Roger-Dark-Gent.zip",
+      "skin_name": "Dark Gent",
+      "splash_file": "Roger-Dark-Gent.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "roger-dr-beast",
+      "portrait_file": "Roger-Dr-Beast.png",
+      "script_file": "Roger-Dr-Beast.zip",
+      "skin_name": "Dr. Beast",
+      "splash_file": "Roger-Dr-Beast.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "roger-anubis",
+      "portrait_file": "Roger-Anubis.png",
+      "script_file": "Roger-Anubis.zip",
+      "skin_name": "Anubis",
+      "splash_file": "Roger-Anubis.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "roger-phantom-hunter",
+      "portrait_file": "Roger-Phantom-Hunter.png",
+      "script_file": "Roger-Phantom-Hunter.zip",
+      "skin_name": "Phantom Hunter",
+      "splash_file": "Roger-Phantom-Hunter.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "roger-cyborg-werewolf",
+      "portrait_file": "Roger-Cyborg-Werewolf.png",
+      "script_file": "Roger-Cyborg-Werewolf.zip",
+      "skin_name": "Cyborg Werewolf",
+      "splash_file": "Roger-Cyborg-Werewolf.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "roger-phantom-ranger",
+      "portrait_file": "Roger-Phantom-Ranger.png",
+      "script_file": "Roger-Phantom-Ranger.zip",
+      "skin_name": "Phantom Ranger",
+      "splash_file": "Roger-Phantom-Ranger.png",
+      "tag_id": "m3",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "roger-fiend-haunter",
+      "portrait_file": "Roger-Fiend-Haunter.png",
+      "script_file": "Roger-Fiend-Haunter.zip",
+      "skin_name": "Fiend Haunter",
+      "splash_file": "Roger-Fiend-Haunter.png",
+      "tag_id": "prime",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "roger-grimlock",
+      "portrait_file": "Roger-Grimlock.png",
+      "script_file": "Roger-Grimlock.zip",
+      "skin_name": "Grimlock",
+      "splash_file": "Roger-Grimlock.png",
+      "tag_id": "transformers",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "roger-invoker-s-restraint",
+      "portrait_file": "Roger-Invoker-s-Restraint.png",
+      "script_file": "Roger-Invoker-s-Restraint.zip",
+      "skin_name": "Invoker's Restraint",
+      "splash_file": "Roger-Invoker-s-Restraint.png",
+      "tag_id": "metro-zero",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "roger-ashbone-gunslinger",
+      "portrait_file": "Roger-Ashbone-Gunslinger.png",
+      "script_file": "Roger-Ashbone-Gunslinger.zip",
+      "skin_name": "Ashbone Gunslinger",
+      "splash_file": "Roger-Ashbone-Gunslinger.png",
+      "tag_id": null,
+      "tier": "Unknown"
+    },
+    {
+      "enabled": true,
+      "id": "roger-raging-hunter",
+      "portrait_file": "Roger-Raging-Hunter.png",
+      "script_file": "Roger-Raging-Hunter.zip",
+      "skin_name": "Raging Hunter",
+      "splash_file": "Roger-Raging-Hunter.png",
+      "tag_id": "epic",
+      "tier": "Deluxe"
+    }
+  ],
+  "hero": {
+    "id": 39,
+    "name": "Roger",
+    "roles": [
+      "Fighter",
+      "Marksman"
+    ],
+    "slug": "roger"
+  },
+  "release_tag": "visual-roger",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,71 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "sun-kakashi",
+      "portrait_file": "Sun - Kakashi.png",
+      "script_file": "Sun-Kakashi.zip",
+      "skin_name": "Kakashi",
+      "splash_file": "Sun - Kakashi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "sun-minato",
+      "portrait_file": "Sun - Minato.png",
+      "script_file": "Sun-Minato.zip",
+      "skin_name": "Minato",
+      "splash_file": "Sun - Minato.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "sun-moskov-allstar",
+      "portrait_file": "Sun - Moskov AllStar.png",
+      "script_file": "Sun-Moskov-AllStar.zip",
+      "skin_name": "Moskov AllStar",
+      "splash_file": "Sun - Moskov AllStar.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "sun-naruto",
+      "portrait_file": "Sun - Naruto.png",
+      "script_file": "Sun-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Sun - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "sun-sasuke",
+      "portrait_file": "Sun - Sasuke.png",
+      "script_file": "Sun-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Sun - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 27,
+    "name": "Sun",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "sun"
+  },
+  "release_tag": "custom-sun",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

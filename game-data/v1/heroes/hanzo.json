@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 69,
+    "slug": "hanzo",
+    "name": "Hanzo",
+    "skin_name": "Akuma Ninja",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "4 December 2018",
+    "resource": "Energy",
+    "short_description": "Genius ninja in the Shadow Sect who is at the crossroads.",
+    "brief": "A genius ninja of the Shadow Sect in the Scarlet Shadow. In order to pursue great power, he absorbed the \"Hanekage\" into his body, and used the enemy's flesh and blood to provide nourishment for the \"Hanekage\". After gaining power, he took away the most powerful supreme ninjutsu and Ame no Habakiri in the Scarlet Shadow, and went further and further on the road of killing.",
+    "story": "\"To protect the secrets of the Sacred Tools is your duty; value it more than your life.\"\r\n\r\nAs Hanzo awoke in the middle of the night due to pain inflicted by the Ame no Habakiri, he recalled this teaching that led him down this path of no return. Before turning his back on the Scarlet Shadow, Hanzo was the Shadow Sect's sharpest blade.\r\n\r\nAdopted by the Shadow Sect at a young age, Hanzo was lucky to escape the fate of a wandering beggar. He learned the ways of Nindo, to \"uphold justice and endure hardship\", and lived his new life by its teachings. For the Scarlet Shadow, his cherished home, he was willing to do anything.\r\n\r\nFierce and tenacious like the wolf, Hanzo always took on the most perilous missions. Even when he returned with grave injuries, he would make his report in full before seeking treatment. Failure was something not even Hanzo's greatest rivals would dare think of. They knew Hanzo would stop at nothing to achieve his objectives.\r\n\r\nOver the course of a decade, Hanzo accumulated so many merits that his peers saw him, a commoner by birth, as only second to Kurēn, the clan's next heir. Hanzo acknowledged Kurēn's unmatched wisdom. If Kurēn vowed to uphold Nindo after he took power, then Hanzo would become his sharpest blade.\r\n\r\nUntil now, Hanzo never thought his past self was wrong, but it was his near-obsessive persistence that led him to this point.\r\n\r\nSome time ago, Hanzo, while engrossed in the Nindo scriptures, suddenly realized that his peers, other orphans adopted by the clan, had routinely disappeared with little explanation. Greatly puzzled, Hanzo began to investigate on his own. During his search, he crossed more than a few elders, resulting in him being stripped of all rank in the clan. The merits he earned at the risk of his life were erased overnight. Hanzo cared little for fame, but he knew something sinister was being covered up. Eventually, he discovered that the elders had been sending ninjas on missions to the forbidden grounds to steal a Cursed Tool that was supposed to be sealed within: the demonic blade Ame no Habakiri.\r\n\r\nCountless lives had been sacrificed to the demon blade. Hanzo couldn't bear to think how many in the Scarlet Shadow who simply sought to uphold justice ended up with this fate.\r\n\r\nA momentary lapse in concentration caused Hanzo to be discovered by another ninja in the forbidden grounds―it was Kurēn.\r\n\r\nIn the dark, stone chamber, Kurēn revealed the truth of the Scarlet Shadow: The two factions within the clan had been vying for control of the Seven Sacred Tools, each trying to shift the balance of power in their favor. The elders of the Shadow Sect were sacrificing their own to the Ame no Habakiri in order to awaken its true power.\r\n\r\nKurēn had been secretly gaining influence to abolish this vile practice once he became the clan leader, and seeing Hanzo, he was eager to have a ninja of Nindo help him change the future of the clan.\r\n\r\n\"Those that were sacrificed to Ame no Habakiri... what of their futures?\"\r\n\r\nKurēn had no answer to his question, which sent Hanzo into a rage. He had seen too many hypocrites claiming to act for the greater good, and in that moment, he realized the Scarlet Shadow was no different. His Nindo did not tolerate evil deeds, thus the Scarlet Shadow should not exist. If they craved Ame no Habakiri's power so much, he would show them its true might\r\n\r\nAs Hanzo reached for the demon blade on the pedestal, he thought to himself, \"Come, either devour me, or let me devour everything!\"\r\n\r\nThe moment he grasped the Ame no Habakiri, its unbridled demonic power invaded his body. In a trance, he saw a whirlpool swallowing ships, or was it a leviathan devouring entire islands? Quickly he realized what he was actually seeing:\r\n\r\nIt was a vortex of souls; the ninjas who had been sacrificed, and countless more before them. Their wills had long been erased, leaving only an insatiable hunger and darkness churning within the blade; a madness that was neither human nor demon.\r\n\r\nThe demonic power invaded Hanzo's very being, but his pride refused to be consumed. Feeding on his rage and obsession, he finally tamed the Ame no Habakiri.\r\n\r\n\"Naive pretender, you will witness my reign from within this blade.\"\r\n\r\nAnd with that, Hanzo swung the blade at his former comrade Kurēn. \"Gaining influence\"... that's merely the cowardly compromise of the weak. Without the courage to make the first cut, there would never be change.\r\n\r\nAfter devouring Kurēn, Hanzo left the forbidden grounds. He knew his path as a ninja of the Shadow Sect ninja was forever severed. But what of it?\r\n\r\nThis Akuma shall carve out the rot from within the Scarlet Shadow once and for all.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 7,
+    "offense": 8,
+    "control": 2,
+    "difficulty": 8
+  },
+  "attributes": {
+    "health": 2440,
+    "health_growth": 145,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 108,
+    "physical_attack_growth": 11.43,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.08,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Hanzo0",
+      "name": "Ame no Habakiri",
+      "description": "Damage dealt by Hanzo's Basic Attacks and skills inflicts a stack of <highlight>Dark Ninjutsu</highlight> on the target, up to 5 stacks. <highlight>Ninjutsu: Demon Feast</highlight> can only be cast on targets with full stacks of <highlight>Dark Ninjutsu</highlight>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_ac365435698ba11d4cea185ab07f4f01.png",
+      "video_url": null
+    },
+    {
+      "id": "Hanzo1",
+      "name": "Ninjutsu: Demon Feast",
+      "description": "The skill can only be used on targets with max stacks of <highlight>Dark Ninjutsu</highlight>. When targeting a creep, Hanzo will immediately devour it and digest it over a period of time to recover 20% HP.<br/>When targeting the Turtle, Lord, or enemy heroes, he deals 600<scaleAD> (+120% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>, recovers 10% HP, and reduces this skill's cooldown by 60%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "30/28/26/24/22/20",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_f61343a69edfc02eee75034e26f1098a.png",
+      "video_url": null
+    },
+    {
+      "id": "Hanzo12",
+      "name": "Forbidden Ninjutsu: Soul Snatch",
+      "description": "Hanekage dashes to an enemy hero, dealing 300/320/340/360/380/400<scaleAD> (+60/64/68/72/76/80% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the target after a brief delay. Each stack of <highlight>Dark Ninjutsu</highlight> on the target increases the damage by 20% (surrounding units are not affected by this bonus). When the target has max stacks of <highlight>Dark Ninjutsu</highlight>, it deals additional damage equal to 15<scaleAD> (+2% Extra Physical Attack)</scaleAD>% of the target's Max HP (this damage ignores 30% of the target's Physical Defense) and recovers 20% HP for Hanzo.<br><br>This skill can be cast on the Turtle or the Lord (deals up to 1000 damage).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.6/9.2/8.8/8.4/8",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_83f7dbd47c58fba79f634a31f88e0ffe.png",
+      "video_url": null
+    },
+    {
+      "id": "Hanzo2",
+      "name": "Ninjutsu: Dark Mist",
+      "description": "Hanzo dashes in the target direction, leaving <highlight>dark mist</highlight> in front that deals 90/100/110/120/130/140<scaleAD> (+45% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the area every 0.5s, up to 5 times (this damage counts as Basic Attack damage but cannot Crit).<br/>The <highlight>dark mist</highlight> slows enemies in the area by 40% and grants Hanzo 20% Movement Speed.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.6/9.2/8.8/8.4/8",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": null
+        },
+        {
+          "name": "Slow",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 45.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_12b3b6f378728e25a1ccf0952c9f84bf.png",
+      "video_url": null
+    },
+    {
+      "id": "Hanzo22",
+      "name": "Forbidden Ninjutsu: Black Mist",
+      "description": "Hanekage dashes in the target direction, knocking enemies in his path airborne for 0.4s and dealing 405/450/495/540/585/630 <scaleAD> (+45% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> (recovers 200 Energy if hitting an enemy hero), leaving a <highlight>Dark Mist</highlight> in the area he passes through.<br><br>The mist deals 135/150/165/180/195/210<scaleAD> (+45% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the area every 0.5s (up to 4 times). It also slows enemies in the area by 40%.<br><br>This damage is considered Basic Attack Damage, but cannot Crit.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.6/9.2/8.8/8.4/8",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": null
+        },
+        {
+          "name": "CC",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 45.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_ac365435698ba11d4cea185ab07f4f01.png",
+      "video_url": null
+    },
+    {
+      "id": "Hanzo3",
+      "name": "Kinjutsu: Pinnacle Ninja",
+      "description": "Hanzo charges into battle as <highlight>Hanekage</highlight>, consuming 170 Energy per second. He gains 20 Energy when a non-hero unit dies nearby and 200 Energy when it's a hero. He gains 15 Energy when attacking a hero, and 45 Energy when attacking the Turtle or the Lord. When Energy runs out, Hanzo's body will be slowly drawn to <highlight>Hanekage</highlight>'s position.<br/><br/>While in <highlight>Hanekage</highlight> form, Hanzo's body is invincible, while <highlight>Hanekage</highlight> ignores obstacles and gains 50% Movement Speed and 30% Attack Speed.<br/><br/><highlight>Use Again or Upon Death</highlight>: <highlight>Hanekage</highlight> returns to Hanzo's body, recovering 16% HP and becoming untargetable during the return. If <highlight>Hanekage</highlight> is killed, Hanzo will be slowed by 50% and revealed for 6s, and the skill's cooldown will be doubled.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "18/15/12",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": null
+        },
+        {
+          "name": "Mobility",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_74eb2011217392bd06c2dc2cf9434731.png",
+      "video_url": null
+    },
+    {
+      "id": "Hanzo32",
+      "name": "Ninjutsu Flee: Return",
+      "description": "Hanekage returns to Hanzo's body and exits the Hanekage form.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "1",
+      "tags": [],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_2e6bdaf0784cffb7c0a636b77dce95e7.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Hanzo0",
+      "sequence": "Hanzo3-Hanzo22-AA-Hanzo12",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Hanzo should activate his Ultimate from a safe position and engage as Hanekage. Use his 2nd Skill to dash in and knock enemies Airborne, then use his Black Mist and Basic Attacks to quickly stack his Passive and use his 1st Skill for maximum damage."
+    },
+    {
+      "id": "Hanzo1",
+      "sequence": "Hanzo22-AA-Hanzo12",
+      "name": "LANING COMBOS",
+      "description": "When ganking, Hanzo can use his 2nd Skill to close the distance, then stack his Passive with Basic Attacks and unleash his 1st Skill at max stacks for hefty damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Hanzo has high burst potential but needs time to stack his Passive, so he works best with heroes who can keep the enemy CC'd, like Aurora, Belerick, and Tigreal.",
+      "heroes": [
+        {
+          "id": 36,
+          "slug": "aurora",
+          "name": "Aurora"
+        },
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        },
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Hanzo's Ultimate enables him to poke or dive with relative safety, making him a serious threat to squishy heroes without mobility, like Layla, Ixia, and Zhuxin, while also disrupting the enemy in teamfights.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        },
+        {
+          "id": 125,
+          "slug": "zhuxin",
+          "name": "Zhuxin"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Hanzo fares less favorably against heroes with lots of mobility, such as Fanny, Lancelot, and Arlott, since it's difficult to build stacks on them, thus limiting Hanzo's damage.",
+      "heroes": [
+        {
+          "id": 17,
+          "slug": "fanny",
+          "name": "Fanny"
+        },
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        },
+        {
+          "id": 120,
+          "slug": "arlott",
+          "name": "Arlott"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hanzo-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hanzo-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_28d569c12bcf0f726e72826166076fc1.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/4e77b4cc8c101bbd62f548ed10ea1ed4.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/hanzo.json",
+    "visual_catalog": "catalog/v1/visual/hanzo.json",
+    "upgrade_catalog": "catalog/v1/upgrade/hanzo.json"
+  }
+}

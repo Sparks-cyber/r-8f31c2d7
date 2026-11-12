@@ -1,0 +1,116 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "ling-backup",
+      "portrait_file": "Ling-Default.png",
+      "script_file": "Ling-Backup.zip",
+      "skin_name": "Cyan Finch",
+      "splash_file": "Ling-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "ling-fiery-dance",
+      "portrait_file": "Ling-Fiery-Dance.png",
+      "script_file": "Ling-Fiery-Dance.zip",
+      "skin_name": "Fiery Dance",
+      "splash_file": "Ling-Fiery-Dance.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "ling-street-punk",
+      "portrait_file": "Ling-Street-Punk.png",
+      "script_file": "Ling-Street-Punk.zip",
+      "skin_name": "Street Punk",
+      "splash_file": "Ling-Street-Punk.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "ling-night-shade",
+      "portrait_file": "Ling-Night-Shade.png",
+      "script_file": "Ling-Night-Shade.zip",
+      "skin_name": "Night Shade",
+      "splash_file": "Ling-Night-Shade.png",
+      "tag_id": "dragon-tamer",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "ling-cosmo-guard",
+      "portrait_file": "Ling-Cosmo-Guard.png",
+      "script_file": "Ling-Cosmo-Guard.zip",
+      "skin_name": "Cosmo Guard",
+      "splash_file": "Ling-Cosmo-Guard.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "ling-serene-plume",
+      "portrait_file": "Ling-Serene-Plume.png",
+      "script_file": "Ling-Serene-Plume.zip",
+      "skin_name": "Serene Plume",
+      "splash_file": "Ling-Serene-Plume.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "ling-m-world-ling",
+      "portrait_file": "Ling-M-World.png",
+      "script_file": "Ling-M-World-Ling.zip",
+      "skin_name": "M-World Ling",
+      "splash_file": "Ling-M-World-Ling.png",
+      "tag_id": "m-world",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "ling-lord-shen",
+      "portrait_file": "Ling-Lord-Shen.png",
+      "script_file": "Ling-Lord-Shen.zip",
+      "skin_name": "Lord Shen",
+      "splash_file": "Ling-Lord-Shen.png",
+      "tag_id": "kung-fu-panda",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "ling-neobeast-ling",
+      "portrait_file": "Ling-Neobeast.png",
+      "script_file": "Ling-Neobeast-Ling.zip",
+      "skin_name": "Neobeast Ling",
+      "splash_file": "Ling-Neobeast-Ling.png",
+      "tag_id": "neobeasts",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "ling-phantom-current",
+      "portrait_file": "Ling-Phantom-Current.png",
+      "script_file": "Ling-Phantom-Current.zip",
+      "skin_name": "Phantom Current",
+      "splash_file": "Ling-Phantom-Current.png",
+      "tag_id": "lightborn",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 84,
+    "name": "Ling",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "ling"
+  },
+  "release_tag": "visual-ling",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

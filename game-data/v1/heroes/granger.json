@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 79,
+    "slug": "granger",
+    "name": "Granger",
+    "skin_name": "Death Chanter",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle",
+      "Gold Lane"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Burst",
+      "Finisher"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "23 April 2019",
+    "resource": null,
+    "short_description": "A mysterious demon hunter that operates outside the conventions of the Church of Light. Always seen with a violin case in hand, he hunts down demons with his two soul-devouring weapons.",
+    "brief": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "story": "An unnamed town on the edge of the Moniyan Empire is Granger's destination for this journey\n\nHe walked quietly, the bright red scarf around his neck giving off an eerie aura. His skin was as pale as parchment, with a high collar covering half his face, revealing only a pair of somber eyes\n\nGranger made his way to the outskirts of town, fully aware of what was waiting for him. Although their deep growls were hard to catch, the ringing in his ears that he despises was getting louder\n\nSuddenly, a familiar melody caught Granger's attention. A child is sitting on the street, playing a tune on a flute. It's the \"Hymn of Light,\" a song he often heard when he was young.\n\nGranger's childhood was tragic, to say the least\n\nOne night, his town was attacked by demons. With no place to run, Granger's parents hid him in a small space under the floorboards. As the demons broke in and dragged his parents away, their cries and the demonic snarls left an indelible shadow in his young heart. That memory turned into a constant ringing in his ears, torturing Granger night after night. The pain caused him to distance himself from others and he became increasingly reclusive. Until the day a beautiful and gentle melody calmed the ringing, like a warm hand across his heart, granting him a moment of peace that he had almost forgotten.\n\nFor the first time, he stepped out of his chaotic world and looked up to see a priest playing the violin.\n\n\"What's the name of this piece?\"\n\nThe priest took out a pen and paper from his pocket and wrote down the words \"Hymn of Light.\"\n\nIt turned out that the priest was once the lead of the Monastery of Light's choir. It was his job to soothe the suffering hearts of the people with his voice. But years ago, when Alice infiltrated Lumina City and sent the city into chaos, the priest was struck by a demon and lost the ability to speak. But instead of wallowing in despair, he picked up the violin and continued to help others through music.\n\nPerhaps the violin's sound was too inviting. Granger came out of his world and followed the priest to the monastery. He even tried learning the violin but could only produce discordant noises.\n\n\"Looks like I don't have any talent,\" a discouraged Granger lamented. The priest smiled and showed him that true melody doesn't come from talent, but from the kindness and perseverance in one's heart, and in this aspect, he believed Granger had plenty.\n\nGranger, who failed to make much progress with music, showed exceptional talent in hunting demons. The church's leaders personally invited him to join the ranks of their demon hunters, even gifting him a specialized weapon—a pair of demon-devouring guns that could absorb demonic energy and convert it into special demon-slaying bullets. The few friends he had, including Alucard, invited him to hunt demons together, but Granger refused. Although the priest's music had healed his chaotic world, the night his parents died still remained in his heart like a permanent wound, bleeding at the slightest touch.\n\nThe priest respected Granger's decision. He believed that even the deepest wounds could heal one day, and this introverted and gentle child would eventually accept the past and walk into a brighter future.\n\nBut that day would never come.\n\nDyrroth, the Prince of the Abyss, led his Abyssal legions through the Moonlit Forest to attack the Moniyan Empire. In response, the Church of Light recruited demon hunters to prepare for the oncoming war. Seeing Granger unsettled by this, the priest let him take a leave from the monastery to decide his future. Whether he chose to remain a demon hunter or not, the monastery would always be his home.\n\nBut when Granger returned to the monastery, he saw only burning ruins and the priest lying in a pool of blood—the demons had already struck.\n\nWhatever choice he made no longer held any meaning.\n\nThe priest's hand still held the violin bow. Granger could almost picture the priest calmly playing his final requiem as the demons attacked. The ringing invaded his world again. But this time, there would be no Hymn of Light to soothe it. There would be no one to smile and comfort his pain, no one to play a lullaby to help him sleep. How could he silence this piercing noise... this creeping madness... this deafening rage in his chest?\n\nSensing the presence of a living soul, the demons stationed nearby closed in. Granger pulled out his guns and began a frenzied \"performance.\" As the demons' wails grew louder, the sound of bullets did too. The two cacophonies intertwined into a grand requiem, drowning out the ringing in Granger's ears. He suddenly realized that for him, this was the only way to soothe the pain. Blood for blood, until all evil was dead and gone.\n\nAfter that, Granger officially became a demon hunter. He named one of his guns \"Dirge\", and modified the other into a cannon and installed it into the priest's violin case, which he named \"Requiem.\" He wrapped bandages around his hands to prevent the bloodshed from tainting the hands that once hoped to learn the violin. From that point on, every hunt became a requiem for the ones he lost.\n\nThe memories that had surfaced shattered once again.\n\nGranger's attention snapped back to the present. Since setting foot in this small town, the ringing in his ears hasn't stopped, but he knew that everything would quiet down soon enough.\n\nHe crouched down and gently placed a few coins in front of the child.\n\nAs the \"Ave Maria\" reached its finale, the demon hunter's death sonata was about to begin.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 7,
+    "control": 1,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 140,
+    "health_regen": 5.4,
+    "health_regen_growth": 0.2,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 116,
+    "physical_attack_growth": 15.0,
+    "magic_power": 0,
+    "physical_defense": 15,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.02,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "Granger0",
+      "name": "Capriccio",
+      "description": "Granger's unique Demon Hunting <highlight>Gun</highlight> and <highlight>Cannon</highlight> are powered by Demonic Energy. Both his weapons have a starting Energy cap of 800. His <highlight>Gun</highlight> restores 8% Energy per second while his <highlight>Cannon</highlight> restores 2% Energy per second. Each Minion / Creep kill will permanently increase the Energy cap of Granger's <highlight>Gun</highlight> and <highlight>Cannon</highlight> by 6 / 6, and instantly restore their Energy by 5% / 5%, respectively. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy.<br/>Every 1% CD Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy cost is not affected by Energy Cost Reductions.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_bc047a2c81d46bab9fbb33613806eb2d.png",
+      "video_url": null
+    },
+    {
+      "id": "Granger1",
+      "name": "Rhapsody",
+      "description": "Granger rapidly fires 6 shot(s) with his <highlight>Gun</highlight>, with each shot dealing 60/68/76/84/92/100<scaleAD> (+45% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and consuming 70 Gun Energy. The last bullet is guaranteed to Crit. While firing, Granger's Movement Speed is increased by 10%.<br/><br/>Granger stops firing when he runs out of Energy, or when the skill is cast again. <highlight>Rhapsody</highlight> has a brief cooldown and can be cast once his <highlight>Gun</highlight> Energy is over 420.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "0.3",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_4d4dbe5a7f0b4f112e719be3024cf8b0.png",
+      "video_url": null
+    },
+    {
+      "id": "Granger2",
+      "name": "Rondo",
+      "description": "Granger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15/17/19/21/23/25% Energy for his <highlight>Gun</highlight>.<br/><br/><highlight>Rondo</highlight> can be cast while channeling <highlight>Rhapsody</highlight>. Each time <highlight>Rhapsody</highlight> hits an enemy, <highlight>Rondo's</highlight> Cooldown is reduced by 0.5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a33c876aa83af3bed09b1e6a8d16f638.png",
+      "video_url": null
+    },
+    {
+      "id": "Granger3",
+      "name": "Death Sonata",
+      "description": "Granger fires his <highlight>Cannon</highlight> in the target direction, dealing 150/200/250<scaleAD> (+110% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the first enemy hero hit and other targets in the blast radius. Targets hit will be briefly slowed. Granger can roll in the Joystick's direction after each shot.<br/><highlight>Death Sonata</highlight> can be cast while firing <highlight>Rhapsody</highlight>. <highlight>Death Sonata</highlight> has a brief cooldown and consumes 250 of Granger's <highlight>Cannon</highlight> Energy per shot.",
+      "flavor_text": null,
+      "cost": "250",
+      "cooldown": "0.6",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_228164a926a169586aec6f69aa68a128.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Granger0",
+      "sequence": "Granger1-Granger2-Granger1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Granger's 1st Skill to poke the enemy. When his energy gets low, use his 2nd Skill to replenish it and continue to poke with his 1st Skill."
+    },
+    {
+      "id": "Granger1",
+      "sequence": "Granger3-Granger1-Granger3-Granger2-Granger1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Granger's Ultimate to poke from a safe distance and continue the attack with his 1st Skill. When the 1st Skill ends, use his Ultimate again for more damage and to reposition. If enemies get close, use his 2nd Skill to create distance and continue dealing damage with his 1st Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Granger pairs well with heroes that have strong CC abilities, such as Franco and Kaja, who can hold enemies in place for Granger's entire 1st Skill.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 62,
+          "slug": "kaja",
+          "name": "Kaja"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Granger counters squishy heroes who lack mobility, such as Chang'e and Cecilion, who have a hard time dodging his 1st Skill and are vulnerable to the high damage of his Ultimate.",
+      "heroes": [
+        {
+          "id": 61,
+          "slug": "chang-e",
+          "name": "Chang'e"
+        },
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Granger is countered by heroes with strong single target killing power. Despite having good mobility, Granger lacks other defensive measures. Heroes like Saber and Hayabusa can quickly get the jump on Granger and finish him off.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 21,
+          "slug": "hayabusa",
+          "name": "Hayabusa"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Granger-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Granger-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_210fbb68eac6f90b1b14b05e8334cca8.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/5d272478f2f89dcae9e6896cb19743ac.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/granger.json",
+    "visual_catalog": "catalog/v1/visual/granger.json",
+    "upgrade_catalog": "catalog/v1/upgrade/granger.json"
+  }
+}

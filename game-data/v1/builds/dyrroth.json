@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 85,
+    "slug": "dyrroth",
+    "name": "Dyrroth"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "dyrroth-community-5671",
+      "name": "Community Build 5671",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "warriorboots",
+        "waraxe",
+        "queenswings",
+        "bruteforcebreastplate",
+        "oracle",
+        "seahalberd"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Es muy buena en inicio de partida y al final.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5671,
+      "source_created_at": "2026-02-12T19:28:24.000Z",
+      "likes": 7,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "dyrroth-community-5410",
+      "name": "Community Build 5410",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "rapidboots",
+        "bladeoftheheptaseas",
+        "bladeofdespair",
+        "seahalberd",
+        "hunterstrike",
+        "skypiercer"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "One hit",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5410,
+      "source_created_at": "2026-02-03T11:42:07.000Z",
+      "likes": 6,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "dyrroth-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane/Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

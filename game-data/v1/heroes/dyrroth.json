@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 85,
+    "slug": "dyrroth",
+    "name": "Dyrroth",
+    "skin_name": "Prince of the Abyss",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "region": "Abyss",
+    "release_date": "25 June 2019",
+    "resource": null,
+    "short_description": "Once the noble prince of the Moniyan Empire, he was abducted by Alice, the Queen of the Blood Demons, and transformed into the Prince of the Abyss.",
+    "brief": "‎Dyrroth, once the Prince of Light from the Moniyan Empire, has become the Abyss's most defiant Son of Darkness. Bound by blood, his sister Silvanna never gave up her vigilant search for him, while Alice, his abductor, meticulously shaped him into the Abyss's fiercest and most loyal companion. Though not born of demon blood, Dyrroth flourished in the depths of the Abyss by embracing it's savage nature. In a realm where power is revered above all, he willfully hastened his own corruption to prove his allegiance, reforging his flesh in the darkness and severing all bonds with the light.",
+    "story": "Blood, everything in sight was bathed in crimson. At the highest point of the Sanguine Lair, an enormous blood droplet hung, suspended in the air like an ever-beating heart. Drawing in and Pumping forth, drop by drop, until the flowing blood gathered into a pool, flooding everything in sight—this was Alice's pool for nurturing Blood Demons.\r\n\r\nYears later, Dyrroth returned here for the first time.\r\n\r\nAs he stepped into the pool, the crimson within resonated with the blood of his body, drawing him back to the recent \"Dawnbreak\" plan—what should have been the perfect invasion. Leading the Abyssal forces as their vanguard, Dyrroth had nearly submerged the entire Moniyan Empire into darkness on that moonless. starless night.\r\n\r\nUntil she appeared, Princess Silvanna of the Empire, whose features bore a subtle resemblance to his own, emerged amidst the terrified prayers of countless citizens. Wielding her holy spear, she called him \"brother\"....\r\n\r\nBrother—a completely foreign word, yet like a spell woven by fate, it made Dyrroth hesitate. It was just for a fleeting moment, but Silvanna did not hesitate. Victory was decided in that instant, as foreign as that word was the dull pain of cold steel piercing his chest.\r\n\r\nHow laughable. This so-called bond of blood... the first thing it brought Dyrroth was spilled blood.\r\n\r\nThe blood flowed past his ankles, Dyrroth looked down at his legs, now twisted masses of grotesque muscle and jutting bone. Legs that could never belong to a human.\r\n\r\nHis body had long since completed it's transformation, yet the wound from the holy spear in his chest refused to heal.... He had been gravely wounded and was still alive only because Alice had carried him away from the battlefield. She had left him to recover alone in the Sanguine Lair, her stronghold in the Abyss where she nurtured the Blood Demons—the very place where he had grown up.\r\n\r\nYears ago, Alice had snatched him from the Empire while he was still an infant, and in doing so, she also laid all of the Abyss before him as his birthright.\r\n\r\n‎The past in Dyrroth's memories wasn't the justice his \"sister\" proclaimed while brandishing her holy spear; what he remembered was Alice's constant companionship, Thamuz's teachings and all of the Abyss rejoicing at the birth of the \"Son of Darkness\"—and everything that had been destined since\r\n\r\nDyrroth would fight for the Abyss\r\n\r\nHe wasn't born a Demon but those Moniyans who claimed to yearn for his return have already revealed through their looks of terror and hatred. The Empire could never be his home. He had grown up in the Abyss and long since embraced it's savage ways. The child of the Abyss was destined to fight for it.\r\n\r\nDyrroth threw his wrist blades into the pool of demon blood. ‎The pool's transformation was meant to be irreversible—it was birth, and it was death. Blood Demons who had already been transformed had no reason to return, yet Dyrroth craved power. Whether to exact vengeance upon his \"sister\" or to return to the Abyss... The Abyss revered strength, and he knew he must become stronger.\r\n\r\nDyrroth descended into the pool.\r\n\r\nThe crimson liquid surged, engulfing his body. His wrist blades, now gorged with the power of the Abyss, pierced through his still-wounded chest. Suspended between life and death, the light of the Empire and the darkness of the Abyss clashed within him, ripping and tearing at each other before finally merging into one. The boundary between death and rebirth resolved and the light and darkness within him became forever inseparable.\r\n\r\nDrop by drop, the suspended blood orb pulsed its crimson essence into the pool, gradually synchronizing with Dyrroth's heartbeat.\r\n\r\nBefore the dawn could break, Dyrroth opened his eyes and gazed towards the Empire—Soon he would return to the Moniyan Empire and show the world the power of the \"Prince of the Abyss\" through overwhelming power. No longer hesitant, he would sever the blood ties that shackled him with his own hands, with blood as a tribute to complete this grand reunion\r\n\r\n\"I awoke from the Abyss to extinguish the Light\"",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 5,
+    "control": 2,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2758,
+    "health_growth": 215,
+    "health_regen": 8.2,
+    "health_regen_growth": 0.4857,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 117,
+    "physical_attack_growth": 10.64,
+    "magic_power": 0,
+    "physical_defense": 22,
+    "physical_defense_growth": 3.7857,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.14,
+    "attack_speed_growth": 0.03,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 265,
+    "attack_range": 1.7
+  },
+  "abilities": [
+    {
+      "id": "Dyrroth0",
+      "name": "Wrath of the Abyss",
+      "description": "When Dyrroth's Rage reaches 50%, he will enhance <highlight>Burst Strike</highlight> and <highlight>Spectre Step</highlight>.<br><br>After every 2 Basic Attacks, Dyrroth will release Circle Strike, dealing <scaleAD> (+150% Total Physical Attack)</scaleAD> - <scaleAD> (+180% Total Physical Attack)</scaleAD> (scales with level) <physicalDamage>Physical Damage</physicalDamage> to enemies in the circle and recovering <scaleHP>7% - 10% Max HP</scaleHP> (scales with level) (halved against Minions) This strike does not trigger Attack Effect. Each time he damages an enemy, the cooldown of <highlight>Burst Strike</highlight> and <highlight>Spectre Step</highlight> will be reduced by 1s.<br><br>Dyrroth recovers 2% - 5% Rage per second (scales with level).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_ae1fdb44e6ccbe768170c1200dc1bb5a.png",
+      "video_url": null
+    },
+    {
+      "id": "Dyrroth1",
+      "name": "Burst Strike",
+      "description": "Dyrroth releases a burst strike in a designated direction. Each burst deals 240/296/352/408/464/520<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies and slows them by 25% for 1.5s. (The damage decays against the same target and decreases to only 75% on minions.)<br/><br/><highlight>Abyss Enhanced</highlight>: Burst Strike has a longer range, deals 140% of the original damage, and its Slowing Effect is doubled.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6/5.6/5.2/4.8/4.4/4",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_7e6352d703b1c9ab808bc391f343442d.png",
+      "video_url": null
+    },
+    {
+      "id": "Dyrroth2",
+      "name": "Spectre Step",
+      "description": "Dyrroth dashes in the designated direction. He will stop when he has traveled the max distance or hits one enemy hero or a Creep, dealing 230/255/280/305/330/355<scaleAD> (+60% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the target and slightly knocking them back. When he uses this skill again, he will lock onto a target and release a Fatal Strike, dealing 345/390/435/480/525/570<scaleAD> (+120% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and reducing the target's Physical Defense by 40% for 4s.<br/><highlight>Abyss Enhanced</highlight>: Fatal Strike will reach further and deal 150% of the original damage, slow the target by an extra 90% and reduce the target's Physical Defense by 60% for 4s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_79b3c08cdec6752a445d5d633c65c8eb.png",
+      "video_url": null
+    },
+    {
+      "id": "Dyrroth3",
+      "name": "Abysm Strike",
+      "description": "After a short delay, Dyrroth launches a destructive strike in the target direction (this skill can only be interrupted by Suppression), dealing 650/950/1250<scaleAD> (+250% Extra Physical Attack)</scaleAD> plus 20% of the target's lost HP as <physicalDamage>Physical Damage</physicalDamage> to enemies in its path, and slowing them by 55% for 0.8s. This skill deals up to 1500/2000/2500 damage to non-hero enemies.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "36/32/28",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_15bf420f66a913f48b468b5830bd709a.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Dyrroth0",
+      "sequence": "Dyrroth2-Dyrroth2-AA-Dyrroth1-Dyrroth3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Dyrroth should use his 2nd Skill to close the gap with the enemy, then use his Basic Attacks and 1st Skill to deal damage, and finish off the low HP heroes with his Ultimate."
+    },
+    {
+      "id": "Dyrroth1",
+      "sequence": "Dyrroth2-Dyrroth2-AA-Dyrroth1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Dyrroth can use his 2nd Skill to close in on the enemy and cast it again to lower their Physical Defense. He can then follow up with his Basic Attacks and 1st Skill to poke them."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Dyrroth's high melee burst damage works best with heroes with single-target CC, such as Franco and Kaja.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 62,
+          "slug": "kaja",
+          "name": "Kaja"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Dyrroth has good chasing abilities and good melee burst damage, he is strong against heroes with poor Mobility, such as Gord and Hanabi.",
+      "heroes": [
+        {
+          "id": 23,
+          "slug": "gord",
+          "name": "Gord"
+        },
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Being a melee hero makes Dyrroth weak against heroes with Slow and kiting abilities, such as Vexana and Belerick.",
+      "heroes": [
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        },
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Dyrroth-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Dyrroth-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b9e91a0028d7adc37139c11a05cf1461.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/636054ad39847fcc242d0b03feadffac.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/dyrroth.json",
+    "visual_catalog": "catalog/v1/visual/dyrroth.json",
+    "upgrade_catalog": "catalog/v1/upgrade/dyrroth.json"
+  }
+}

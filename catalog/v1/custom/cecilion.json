@@ -1,0 +1,71 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "cecilion-geto",
+      "portrait_file": "Cecilion - Geto.png",
+      "script_file": "Cecilion-Geto.zip",
+      "skin_name": "Geto",
+      "splash_file": "Cecilion - Geto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "cecilion-heino",
+      "portrait_file": "Cecilion - Heino.png",
+      "script_file": "Cecilion-Heino.zip",
+      "skin_name": "Heino",
+      "splash_file": "Cecilion - Heino.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "cecilion-madara",
+      "portrait_file": "Cecilion - Madara.png",
+      "script_file": "Cecilion-Madara.zip",
+      "skin_name": "Madara",
+      "splash_file": "Cecilion - Madara.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "cecilion-shino",
+      "portrait_file": "Cecilion - Shino.png",
+      "script_file": "Cecilion-Shino.zip",
+      "skin_name": "Shino",
+      "splash_file": "Cecilion - Shino.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "cecilion-suguru-geto",
+      "portrait_file": "Cecilion - Suguru Geto.png",
+      "script_file": "Cecilion-Suguru-Geto.zip",
+      "skin_name": "Suguru Geto",
+      "splash_file": "Cecilion - Suguru Geto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 91,
+    "name": "Cecilion",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "cecilion"
+  },
+  "release_tag": "custom-cecilion",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

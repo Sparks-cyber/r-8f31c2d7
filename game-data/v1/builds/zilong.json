@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 16,
+    "slug": "zilong",
+    "name": "Zilong"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "zilong-community-6283",
+      "name": "Community Build 6283",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "windtalker",
+        "skypiercer",
+        "haasclaws",
+        "seahalberd",
+        "rosegoldmeteor",
+        "greatdragonspear"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "masterassassin",
+        "lethalignition",
+        "thrill"
+      ],
+      "situational_items": [],
+      "notes": "sakit banget split pus juga bisa",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6283,
+      "source_created_at": "2026-03-07T02:11:47.000Z",
+      "likes": 9,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "zilong-community-5732",
+      "name": "Community Build 5732",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "endlessbattle",
+        "queenswings"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "swift",
+        "festivalofblood",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "Lifesteal dan critical",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5732,
+      "source_created_at": "2026-02-15T19:49:49.000Z",
+      "likes": 8,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "zilong-companion-baseline",
+      "name": "Companion Fighter/Assassin Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

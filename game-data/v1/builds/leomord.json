@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 67,
+    "slug": "leomord",
+    "name": "Leomord"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "leomord-community-5439",
+      "name": "Community Build 5439",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "waraxe",
+        "bruteforcebreastplate",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "seasonedhunter",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "Leomord Jungle",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5439,
+      "source_created_at": "2026-02-04T04:17:14.000Z",
+      "likes": 5,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "leomord-community-7202",
+      "name": "Community Build 7202",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "boots",
+        "waraxe",
+        "greatdragonspear",
+        "queenswings",
+        "endlessbattle",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "swift",
+        "seasonedhunter",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "Trinity Spell Vamp & Trigger Pasif lebih cepat",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7202,
+      "source_created_at": "2026-04-21T11:37:08.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "leomord-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

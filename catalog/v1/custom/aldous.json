@@ -1,0 +1,93 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "aldous-dragon-fall-knight",
+      "portrait_file": "Aldous - Dragon Fall Knight.png",
+      "script_file": "Aldous-Dragon-Fall-Knight.zip",
+      "skin_name": "Dragon Fall Knight",
+      "splash_file": "Aldous - Dragon Fall Knight.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-exorcist",
+      "portrait_file": "Aldous - Exorcist.png",
+      "script_file": "Aldous-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Aldous - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-legend",
+      "portrait_file": "Aldous - Legend.png",
+      "script_file": "Aldous-Legend.zip",
+      "skin_name": "Legend",
+      "splash_file": "Aldous - Legend.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-naruto",
+      "portrait_file": "Aldous - Naruto.png",
+      "script_file": "Aldous-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Aldous - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-saber",
+      "portrait_file": "Aldous - Saber.png",
+      "script_file": "Aldous-Saber.zip",
+      "skin_name": "Saber",
+      "splash_file": "Aldous - Saber.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-saitama",
+      "portrait_file": "Aldous - Saitama.png",
+      "script_file": "Aldous-Saitama.zip",
+      "skin_name": "Saitama",
+      "splash_file": "Aldous - Saitama.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "aldous-star",
+      "portrait_file": "Aldous - Star.png",
+      "script_file": "Aldous-Star.zip",
+      "skin_name": "Star",
+      "splash_file": "Aldous - Star.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 64,
+    "name": "Aldous",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "aldous"
+  },
+  "release_tag": "custom-aldous",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,76 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "ixia-backup",
+      "portrait_file": null,
+      "script_file": "Ixia-Backup.zip",
+      "skin_name": "Archlight Outlaw",
+      "splash_file": "Ixia-Arclight-Outlaw.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "ixia-shifting-sand",
+      "portrait_file": "Ixia-Shifting-Sand.png",
+      "script_file": "Ixia-Shifting-Sand.zip",
+      "skin_name": "Shifting Sand",
+      "splash_file": "Ixia-Shifting-Sand.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "ixia-dynamic-streak",
+      "portrait_file": "Ixia-Dynamic-Streak.png",
+      "script_file": "Ixia-Dynamic-Streak.zip",
+      "skin_name": "Dynamic Streak",
+      "splash_file": "Ixia-Dynamic-Streak.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "ixia-invoker-s-command",
+      "portrait_file": "Ixia-Invoker-s-Command.png",
+      "script_file": "Ixia-Invoker-s-Command.zip",
+      "skin_name": "Invoker's Command",
+      "splash_file": "Ixia-Invoker-s-Command.png",
+      "tag_id": "metro-zero",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "ixia-dynamic-flair-painted-01",
+      "portrait_file": "Ixia-Dynamic-Flair.png",
+      "script_file": "Ixia-Dynamic-Flair.zip",
+      "skin_name": "Dynamic Flair",
+      "splash_file": "Ixia-Dynamic-Flair.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "ixia-dynamic-style-painted-02",
+      "portrait_file": "Ixia-Dynamic-Style.png",
+      "script_file": "Ixia-Dynamic-Style.zip",
+      "skin_name": "Dynamic Style",
+      "splash_file": "Ixia-Dynamic-Style.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 121,
+    "name": "Ixia",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "ixia"
+  },
+  "release_tag": "visual-ixia",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 12,
+    "slug": "bruno",
+    "name": "Bruno"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "bruno-community-7340",
+      "name": "Community Build 7340",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "haasclaws",
+        "swiftboots",
+        "berserkersfury",
+        "maleficgun",
+        "bladeofdespair",
+        "seahalberd"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "fatal",
+        "masterassassin",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "CRIT + high pATK",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7340,
+      "source_created_at": "2026-04-27T08:24:09.000Z",
+      "likes": 0,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "bruno-community-6334",
+      "name": "Community Build 6334",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "haasclaws",
+        "toughboots",
+        "berserkersfury",
+        "seahalberd",
+        "rosegoldmeteor",
+        "windofnature"
+      ],
+      "battle_spell_id": "aegis",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "fatal",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "hmm, jadiin item core nya yaitu hasclaw lalu item kedua sepatu dan untuk item ketiga fleksibel aja bisa seahalberd atau berseker duluan jikalau pas early kalian kesusahan buat hancurin lifesteel lawan untuk item terakhir bisa di ganti won atau malefic gun tergantung kondisi permainan",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6334,
+      "source_created_at": "2026-03-08T14:48:45.000Z",
+      "likes": 0,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "bruno-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

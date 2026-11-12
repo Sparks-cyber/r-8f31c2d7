@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "estes-kabuto",
+      "portrait_file": "Estes - Kabuto.png",
+      "script_file": "Estes-Kabuto.zip",
+      "skin_name": "Kabuto",
+      "splash_file": "Estes - Kabuto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 34,
+    "name": "Estes",
+    "roles": [
+      "Support"
+    ],
+    "slug": "estes"
+  },
+  "release_tag": "custom-estes",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.27.140527",
+  "data": [
+    {
+      "enabled": true,
+      "id": "thamuz-backup",
+      "portrait_file": "Thamuz-Default.png",
+      "script_file": "Thamuz-Backup.zip",
+      "skin_name": "Lord Lava",
+      "splash_file": "Thamuz-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-lord-of-wraith",
+      "portrait_file": "Thamuz-Lord-of-Wraith.png",
+      "script_file": "Thamuz-Lord-of-Wraith.zip",
+      "skin_name": "Lord of Wraith",
+      "splash_file": "Thamuz-Lord-of-Wraith.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-liquid-fire",
+      "portrait_file": "Thamuz-Liquid-Fire.png",
+      "script_file": "Thamuz-Liquid-Fire.zip",
+      "skin_name": "Liquid Fire",
+      "splash_file": "Thamuz-Liquid-Fire.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-abyssal-reaper",
+      "portrait_file": "Thamuz-Abyssal-Reaper.png",
+      "script_file": "Thamuz-Abyssal-Reaper.zip",
+      "skin_name": "Abyssal Reaper",
+      "splash_file": "Thamuz-Abyssal-Reaper.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-general-kai",
+      "portrait_file": "Thamuz-General-Kai.png",
+      "script_file": "Thamuz-General-Kai.zip",
+      "skin_name": "General Kai",
+      "splash_file": "Thamuz-General-Kai.png",
+      "tag_id": "kung-fu-panda",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-sanctified-flame",
+      "portrait_file": "Thamuz-Sanctified-Flame.png",
+      "script_file": "Thamuz-Sanctified-Flame.zip",
+      "skin_name": "Sanctified Flame",
+      "splash_file": "Thamuz-Sanctified-Flame.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-the-annihilator",
+      "portrait_file": "Thamuz-The-Annihilator.png",
+      "script_file": "Thamuz-The-Annihilator.zip",
+      "skin_name": "The Annihilator",
+      "splash_file": "Thamuz-Nexus-Sea.png",
+      "tag_id": "nexus-sea",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-fire-crystal-painted-01",
+      "portrait_file": "Thamuz-Fire-Crystal.png",
+      "script_file": "Thamuz-Fire-Crystal.zip",
+      "skin_name": "Fire Crystal",
+      "splash_file": "Thamuz-Fire-Crystal.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "thamuz-sanctified-inferno-painted-01",
+      "portrait_file": "Thamuz-Sanctified-Inferno.png",
+      "script_file": "Thamuz-Sanctified-Inferno.zip",
+      "skin_name": "Sanctified Inferno",
+      "splash_file": "Thamuz-Sanctified-Inferno.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 72,
+    "name": "Thamuz",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "thamuz"
+  },
+  "release_tag": "visual-thamuz",
+  "schema_version": 1,
+  "updated_at": "2026-10-27T14:05:27.000000Z"
+}

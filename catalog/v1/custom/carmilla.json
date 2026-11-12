@@ -1,0 +1,72 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "carmilla-christmas",
+      "portrait_file": "Carmilla - Christmas.png",
+      "script_file": "Carmilla-Christmas.zip",
+      "skin_name": "Christmas",
+      "splash_file": "Carmilla - Christmas.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-floating-dreams",
+      "portrait_file": "Carmilla - Floating Dreams.png",
+      "script_file": "Carmilla-Floating-Dreams.zip",
+      "skin_name": "Floating Dreams",
+      "splash_file": "Carmilla - Floating Dreams.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-halloween",
+      "portrait_file": "Carmilla - Halloween.png",
+      "script_file": "Carmilla-Halloween.zip",
+      "skin_name": "Halloween",
+      "splash_file": "Carmilla - Halloween.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-nezuko",
+      "portrait_file": "Carmilla - Nezuko.png",
+      "script_file": "Carmilla-Nezuko.zip",
+      "skin_name": "Nezuko",
+      "splash_file": "Carmilla - Nezuko.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "carmilla-pompurin",
+      "portrait_file": "Carmilla - Pompurin.png",
+      "script_file": "Carmilla-Pompurin.zip",
+      "skin_name": "Pompurin",
+      "splash_file": "Carmilla - Pompurin.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 92,
+    "name": "Carmilla",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "slug": "carmilla"
+  },
+  "release_tag": "custom-carmilla",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

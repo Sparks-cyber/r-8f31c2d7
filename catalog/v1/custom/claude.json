@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "claude-marco-polo",
+      "portrait_file": "Claude - Marco Polo.png",
+      "script_file": "Claude-Marco-Polo.zip",
+      "skin_name": "Marco Polo",
+      "splash_file": "Claude - Marco Polo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 65,
+    "name": "Claude",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "claude"
+  },
+  "release_tag": "custom-claude",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

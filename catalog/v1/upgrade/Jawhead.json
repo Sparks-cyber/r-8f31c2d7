@@ -1,0 +1,641 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Jawhead",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Girl Scout",
+      "Splash_url": "Jawhead-Girl-Scout.png",
+      "script": "Jawhead-Girl-Scout-Backup.zip",
+      "Portrait_url": "Jawhead-Girl-Scout.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-Girl-Scout-Space-Explorer.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-Girl-Scout-Foo-Quarterback.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Girl-Scout-The-Nutcracker.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-Girl-Scout-Samurai-Mech.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-Girl-Scout-Candy-Bear.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-Girl-Scout-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-Girl-Scout-Victory-Loader.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-Girl-Scout-Proto-Guardian.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Girl-Scout-Field-Commander.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-Girl-Scout-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "MSC 2018",
+      "Default_name": "Space Explorer",
+      "Splash_url": "Jawhead-Space-Explorer.png",
+      "script": "Jawhead-Space-Explorer-Backup.zip",
+      "Portrait_url": "Jawhead-Space-Explorer.png",
+      "Tags": [
+        "MSC 2018.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-Space-Explorer-Girl-Scout.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-Space-Explorer-Foo-Quarterback.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Space-Explorer-The-Nutcracker.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-Space-Explorer-Samurai-Mech.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-Space-Explorer-Candy-Bear.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-Space-Explorer-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-Space-Explorer-Victory-Loader.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-Space-Explorer-Proto-Guardian.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Space-Explorer-Field-Commander.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-Space-Explorer-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Foo Quarterback",
+      "Splash_url": "Jawhead-Foo-Quarterback.png",
+      "script": "Jawhead-Foo-Quarterback-Backup.zip",
+      "Portrait_url": "Jawhead-Foo-Quarterback.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-Foo-Quarterback-Girl-Scout.zip"
+        },
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-Foo-Quarterback-Space-Explorer.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Foo-Quarterback-The-Nutcracker.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-Foo-Quarterback-Samurai-Mech.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-Foo-Quarterback-Candy-Bear.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-Foo-Quarterback-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-Foo-Quarterback-Victory-Loader.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-Foo-Quarterback-Proto-Guardian.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Foo-Quarterback-Field-Commander.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-Foo-Quarterback-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "The Nutcracker",
+      "Splash_url": "Jawhead-The-Nutcracker.png",
+      "script": "Jawhead-The-Nutcracker-Backup.zip",
+      "Portrait_url": "Jawhead-The-Nutcracker.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-The-Nutcracker-Girl-Scout.zip"
+        },
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-The-Nutcracker-Space-Explorer.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-The-Nutcracker-Foo-Quarterback.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-The-Nutcracker-Samurai-Mech.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-The-Nutcracker-Candy-Bear.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-The-Nutcracker-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-The-Nutcracker-Victory-Loader.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-The-Nutcracker-Proto-Guardian.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-The-Nutcracker-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Samurai Mech",
+      "Splash_url": "Jawhead-Samurai-Mech.png",
+      "script": "Jawhead-Samurai-Mech-Backup.zip",
+      "Portrait_url": "Jawhead-Samurai-Mech.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-Samurai-Mech-Girl-Scout.zip"
+        },
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-Samurai-Mech-Space-Explorer.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-Samurai-Mech-Foo-Quarterback.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Samurai-Mech-The-Nutcracker.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-Samurai-Mech-Candy-Bear.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-Samurai-Mech-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-Samurai-Mech-Victory-Loader.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-Samurai-Mech-Proto-Guardian.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Samurai-Mech-Field-Commander.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-Samurai-Mech-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Candy Bear",
+      "Splash_url": "Jawhead-Candy-Bear.png",
+      "script": "Jawhead-Candy-Bear-Backup.zip",
+      "Portrait_url": "Jawhead-Candy-Bear.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-Candy-Bear-Girl-Scout.zip"
+        },
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-Candy-Bear-Space-Explorer.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-Candy-Bear-Foo-Quarterback.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Candy-Bear-The-Nutcracker.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-Candy-Bear-Samurai-Mech.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-Candy-Bear-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-Candy-Bear-Victory-Loader.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-Candy-Bear-Proto-Guardian.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Candy-Bear-Field-Commander.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-Candy-Bear-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Cyber Ranger",
+      "Splash_url": "Jawhead-Cyber-Ranger.png",
+      "script": "Jawhead-Cyber-Ranger-Backup.zip",
+      "Portrait_url": "Jawhead-Cyber-Ranger.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-Cyber-Ranger-Girl-Scout.zip"
+        },
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-Cyber-Ranger-Space-Explorer.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-Cyber-Ranger-Foo-Quarterback.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Cyber-Ranger-The-Nutcracker.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-Cyber-Ranger-Samurai-Mech.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-Cyber-Ranger-Candy-Bear.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-Cyber-Ranger-Victory-Loader.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-Cyber-Ranger-Proto-Guardian.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Cyber-Ranger-Field-Commander.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-Cyber-Ranger-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Victory Loader",
+      "Splash_url": "Jawhead-Victory-Loader.png",
+      "script": "Jawhead-Victory-Loader-Backup.zip",
+      "Portrait_url": "Jawhead-Victory-Loader.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-Victory-Loader-Girl-Scout.zip"
+        },
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-Victory-Loader-Space-Explorer.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-Victory-Loader-Foo-Quarterback.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Victory-Loader-The-Nutcracker.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-Victory-Loader-Samurai-Mech.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-Victory-Loader-Candy-Bear.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-Victory-Loader-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Proto Guardian",
+          "Portrait_url": "Jawhead-Proto-Guardian.png",
+          "Splash_url": "Jawhead-Proto-Guardian.png",
+          "script": "Jawhead-Victory-Loader-Proto-Guardian.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Victory-Loader-Field-Commander.zip"
+        },
+        {
+          "name": "Proto Sentinel",
+          "Portrait_url": "Jawhead-Proto-Sentinel.png",
+          "Splash_url": "Jawhead - Proto Sentinel.jpg",
+          "script": "Jawhead-Victory-Loader-Proto-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dino Pals",
+      "Default_name": "Proto Guardian",
+      "Splash_url": "Jawhead-Proto-Guardian.png",
+      "script": "Jawhead-Proto-Guardian-Backup.zip",
+      "Portrait_url": "Jawhead-Proto-Guardian.png",
+      "Tags": [
+        "Dino Pals.png"
+      ],
+      "targets": [
+        {
+          "name": "Girl Scout",
+          "Portrait_url": "Jawhead-Girl-Scout.png",
+          "Splash_url": "Jawhead-Girl-Scout.png",
+          "script": "Jawhead-Proto-Guardian-Girl-Scout.zip"
+        },
+        {
+          "name": "Space Explorer",
+          "Portrait_url": "Jawhead-Space-Explorer.png",
+          "Splash_url": "Jawhead-Space-Explorer.png",
+          "script": "Jawhead-Proto-Guardian-Space-Explorer.zip"
+        },
+        {
+          "name": "Foo Quarterback",
+          "Portrait_url": "Jawhead-Foo-Quarterback.png",
+          "Splash_url": "Jawhead-Foo-Quarterback.png",
+          "script": "Jawhead-Proto-Guardian-Foo-Quarterback.zip"
+        },
+        {
+          "name": "The Nutcracker",
+          "Portrait_url": "Jawhead-The-Nutcracker.png",
+          "Splash_url": "Jawhead-The-Nutcracker.png",
+          "script": "Jawhead-Proto-Guardian-The-Nutcracker.zip"
+        },
+        {
+          "name": "Samurai Mech",
+          "Portrait_url": "Jawhead-Samurai-Mech.png",
+          "Splash_url": "Jawhead-Samurai-Mech.png",
+          "script": "Jawhead-Proto-Guardian-Samurai-Mech.zip"
+        },
+        {
+          "name": "Candy Bear",
+          "Portrait_url": "Jawhead-Candy-Bear.png",
+          "Splash_url": "Jawhead-Candy-Bear.png",
+          "script": "Jawhead-Proto-Guardian-Candy-Bear.zip"
+        },
+        {
+          "name": "Cyber Ranger",
+          "Portrait_url": "Jawhead-Cyber-Ranger.png",
+          "Splash_url": "Jawhead-Cyber-Ranger.png",
+          "script": "Jawhead-Proto-Guardian-Cyber-Ranger.zip"
+        },
+        {
+          "name": "Victory Loader",
+          "Portrait_url": "Jawhead-Victory-Loader.png",
+          "Splash_url": "Jawhead-Victory-Loader.png",
+          "script": "Jawhead-Proto-Guardian-Victory-Loader.zip"
+        },
+        {
+          "name": "Field Commander",
+          "Portrait_url": "Jawhead-Field-Commander.png",
+          "Splash_url": "Jawhead - Field Commander.jpg",
+          "script": "Jawhead-Proto-Guardian-Field-Commander.zip"
+        }
+      ]
+    }
+  ]
+}

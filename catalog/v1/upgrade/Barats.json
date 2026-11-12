@@ -1,0 +1,203 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Barats",
+  "role": "Tank/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Armored Lizard",
+      "Splash_url": "Barats-Armored-Lizard.png",
+      "script": "Barats-Armored-Lizard-Backup.zip",
+      "Portrait_url": "Barats-Armored-Lizard.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Toy Rex",
+          "Portrait_url": "Barats-Toy-Rex.png",
+          "Splash_url": "Barats-Toy-Rex.png",
+          "script": "Barats-Armored-Lizard-Toy-Rex.zip"
+        },
+        {
+          "name": "Baratstein",
+          "Portrait_url": "Barats-Baratstein.png",
+          "Splash_url": "Barats-Baratstein.png",
+          "script": "Barats-Armored-Lizard-Baratstein.zip"
+        },
+        {
+          "name": "Sunken Predator",
+          "Portrait_url": "Barats-Sunken-Predator.png",
+          "Splash_url": "Barats-Sunken-Predator.png",
+          "script": "Barats-Armored-Lizard-Sunken-Predator.zip"
+        },
+        {
+          "name": "Scalding Predator",
+          "Portrait_url": "Barats-Scalding-Predator.png",
+          "Splash_url": "Barats-Scalding-Predator.png",
+          "script": "Barats-Armored-Lizard-Scalding-Predator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Toy Rex",
+      "Splash_url": "Barats-Toy-Rex.png",
+      "script": "Barats-Toy-Rex-Backup.zip",
+      "Portrait_url": "Barats-Toy-Rex.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Armored Lizard",
+          "Portrait_url": "Barats-Armored-Lizard.png",
+          "Splash_url": "Barats-Armored-Lizard.png",
+          "script": "Barats-Toy-Rex-Armored-Lizard.zip"
+        },
+        {
+          "name": "Baratstein",
+          "Portrait_url": "Barats-Baratstein.png",
+          "Splash_url": "Barats-Baratstein.png",
+          "script": "Barats-Toy-Rex-Baratstein.zip"
+        },
+        {
+          "name": "War Chief",
+          "Portrait_url": "Barats-War-Chief.png",
+          "Splash_url": "Barats-War-Chief.png",
+          "script": "Barats-Toy-Rex-War-Chief.zip"
+        },
+        {
+          "name": "Sunken Predator",
+          "Portrait_url": "Barats-Sunken-Predator.png",
+          "Splash_url": "Barats-Sunken-Predator.png",
+          "script": "Barats-Toy-Rex-Sunken-Predator.zip"
+        },
+        {
+          "name": "Scalding Predator",
+          "Portrait_url": "Barats-Scalding-Predator.png",
+          "Splash_url": "Barats-Scalding-Predator.png",
+          "script": "Barats-Toy-Rex-Scalding-Predator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Baratstein",
+      "Splash_url": "Barats-Baratstein.png",
+      "script": "Barats-Baratstein-Backup.zip",
+      "Portrait_url": "Barats-Baratstein.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Armored Lizard",
+          "Portrait_url": "Barats-Armored-Lizard.png",
+          "Splash_url": "Barats-Armored-Lizard.png",
+          "script": "Barats-Baratstein-Armored-Lizard.zip"
+        },
+        {
+          "name": "Toy Rex",
+          "Portrait_url": "Barats-Toy-Rex.png",
+          "Splash_url": "Barats-Toy-Rex.png",
+          "script": "Barats-Baratstein-Toy-Rex.zip"
+        },
+        {
+          "name": "War Chief",
+          "Portrait_url": "Barats-War-Chief.png",
+          "Splash_url": "Barats-War-Chief.png",
+          "script": "Barats-Baratstein-War-Chief.zip"
+        },
+        {
+          "name": "Sunken Predator",
+          "Portrait_url": "Barats-Sunken-Predator.png",
+          "Splash_url": "Barats-Sunken-Predator.png",
+          "script": "Barats-Baratstein-Sunken-Predator.zip"
+        },
+        {
+          "name": "Scalding Predator",
+          "Portrait_url": "Barats-Scalding-Predator.png",
+          "Splash_url": "Barats-Scalding-Predator.png",
+          "script": "Barats-Baratstein-Scalding-Predator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "War Chief",
+      "Splash_url": "Barats-War-Chief.png",
+      "script": "Barats-War-Chief-Backup.zip",
+      "Portrait_url": "Barats-War-Chief.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Armored Lizard",
+          "Portrait_url": "Barats-Armored-Lizard.png",
+          "Splash_url": "Barats-Armored-Lizard.png",
+          "script": "Barats-War-Chief-Armored-Lizard.zip"
+        },
+        {
+          "name": "Toy Rex",
+          "Portrait_url": "Barats-Toy-Rex.png",
+          "Splash_url": "Barats-Toy-Rex.png",
+          "script": "Barats-War-Chief-Toy-Rex.zip"
+        },
+        {
+          "name": "Baratstein",
+          "Portrait_url": "Barats-Baratstein.png",
+          "Splash_url": "Barats-Baratstein.png",
+          "script": "Barats-War-Chief-Baratstein.zip"
+        },
+        {
+          "name": "Sunken Predator",
+          "Portrait_url": "Barats-Sunken-Predator.png",
+          "Splash_url": "Barats-Sunken-Predator.png",
+          "script": "Barats-War-Chief-Sunken-Predator.zip"
+        },
+        {
+          "name": "Scalding Predator",
+          "Portrait_url": "Barats-Scalding-Predator.png",
+          "Splash_url": "Barats-Scalding-Predator.png",
+          "script": "Barats-War-Chief-Scalding-Predator.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Sunken Predator",
+      "Splash_url": "Barats-Sunken-Predator.png",
+      "script": "Barats-Sunken-Predator-Backup.zip",
+      "Portrait_url": "Barats-Sunken-Predator.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Armored Lizard",
+          "Portrait_url": "Barats-Armored-Lizard.png",
+          "Splash_url": "Barats-Armored-Lizard.png",
+          "script": "Barats-Sunken-Predator-Armored-Lizard.zip"
+        },
+        {
+          "name": "Toy Rex",
+          "Portrait_url": "Barats-Toy-Rex.png",
+          "Splash_url": "Barats-Toy-Rex.png",
+          "script": "Barats-Sunken-Predator-Toy-Rex.zip"
+        },
+        {
+          "name": "Baratstein",
+          "Portrait_url": "Barats-Baratstein.png",
+          "Splash_url": "Barats-Baratstein.png",
+          "script": "Barats-Sunken-Predator-Baratstein.zip"
+        },
+        {
+          "name": "War Chief",
+          "Portrait_url": "Barats-War-Chief.png",
+          "Splash_url": "Barats-War-Chief.png",
+          "script": "Barats-Sunken-Predator-War-Chief.zip"
+        }
+      ]
+    }
+  ]
+}

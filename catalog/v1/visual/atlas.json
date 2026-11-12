@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "atlas-backup",
+      "portrait_file": "Atlas-Default.png",
+      "script_file": "Atlas-Backup.zip",
+      "skin_name": "Ocean Gladiator",
+      "splash_file": "Atlas-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-reactor-core",
+      "portrait_file": "Atlas-Reactor-Core.png",
+      "script_file": "Atlas-Reactor-Core.zip",
+      "skin_name": "Reactor Core",
+      "splash_file": "Atlas-Reactor-Core.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-fuel-turbine",
+      "portrait_file": "Atlas-Fuel-Turbine.png",
+      "script_file": "Atlas-Fuel-Turbine.zip",
+      "skin_name": "Fuel Turbine",
+      "splash_file": "Atlas-Fuel-Turbine.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-space-mech",
+      "portrait_file": "Atlas-Space-Mech.png",
+      "script_file": "Atlas-Space-Mech.zip",
+      "skin_name": "Space Mech",
+      "splash_file": "Atlas-Space-Mech.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-rune-sentinel",
+      "portrait_file": "Atlas-Rune-Sentinel.png",
+      "script_file": "Atlas-Rune-Sentinel.zip",
+      "skin_name": "Rune Sentinel",
+      "splash_file": "Atlas-Rune-Sentinel.png",
+      "tag_id": "msc-2023",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-mecha-infernus",
+      "portrait_file": "Atlas-Mecha-Infernus.png",
+      "script_file": "Atlas-Mecha-Infernus.zip",
+      "skin_name": "Mecha Infernus",
+      "splash_file": "Atlas-Mecha-Infernus.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-sunken-curse",
+      "portrait_file": "Atlas-Sunken-Curse.png",
+      "script_file": "Atlas-Sunken-Curse.zip",
+      "skin_name": "Sunken Curse",
+      "splash_file": "Atlas-Sunken-Curse.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-maelstrom-lurker",
+      "portrait_file": "Atlas-Maelstrom-Lurker.png",
+      "script_file": "Atlas-Maelstrom-Lurker.zip",
+      "skin_name": "Maelstrom Lurker",
+      "splash_file": "Atlas-Maelstrom-Lurker.png",
+      "tag_id": null,
+      "tier": "Unknown"
+    },
+    {
+      "enabled": true,
+      "id": "atlas-battle-turbine",
+      "portrait_file": "Atlas-Battle-Turbine.png",
+      "script_file": "Atlas-Battle-Turbine.zip",
+      "skin_name": "Battle Turbine",
+      "splash_file": "Atlas-Battle-Turbine.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 93,
+    "name": "Atlas",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "atlas"
+  },
+  "release_tag": "visual-atlas",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

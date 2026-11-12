@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 53,
+    "slug": "lesley",
+    "name": "Lesley",
+    "skin_name": "Deadly Sniper",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "January 2018",
+    "resource": "Energy",
+    "short_description": "Adopted daughter of House Vance, a clandestine sniper.",
+    "brief": "After the death of her father, she was adopted by House Vance and became Harley's sister. Lesley regarded her younger brother as everything to her, and kept protecting Harley secretly.",
+    "story": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.\r\n\r\nLesley was adopted by the Vance family, with the patriarch of the noble house even putting their sole heir, Harley, under her tutelage. Harley was a natural troublemaker who used his talents in magic to cause trouble for the Vance household. Only Lesley could keep Harley under control. Harley's troublemaker streak was the last part of warmth within Lesley's conscience.\r\n\r\nAfter hearing about how Harley had travelled to the dangerous Land of Dawn, Lesley followed along with her trusty heirloom rifle. After a long arduous journey, she found that Harley, the once immature young boy, had changed through the numerous life experiences he had endured. She decided it would be best to have her adopted little brother train here, while she silently protects him from the shadows. From that day on, all the monsters that were inflicted with Harley's magic would also be struck with a black bullet. Stories of the magical youngster that was followed by a mysterious black sniper soon spread.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 1,
+    "offense": 7,
+    "control": 2,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2260,
+    "health_growth": 140,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.2286,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 145,
+    "physical_attack_growth": 7.0,
+    "magic_power": 0,
+    "physical_defense": 15,
+    "physical_defense_growth": 3.7857,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.1429,
+    "attack_speed": 1.04,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 0.8,
+    "critical_damage": 1.4,
+    "movement_speed": 240,
+    "attack_range": 6.0
+  },
+  "abilities": [
+    {
+      "id": "Lesley0",
+      "name": "Lethal Shot",
+      "description": "If Lesley doesn't take damage for 5s, her next Basic Attack gains extra range and 50% Crit Chance and deals 100<scaleAD> (+100% Total Physical Attack)</scaleAD> <trueDamage>True Damage</trueDamage> (20% extra damage against minions).<br/>Each point of fixed Physical Penetration and each 1% Physical Penetration Lesley acquires is converted into 1% Crit Damage, but her base Crit Damage is reduced to 130%.<br/>Lesley's Basic Attack restores 5 points of energy and her <highlight>Lethal Shot</highlight> doubles the amount of energy restored. The <highlight>Lethal Shot</highlight> effect will activate immediately after Lesley uses a skill.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_296a3745ef0ec7c978400b3e7f481030.png",
+      "video_url": null
+    },
+    {
+      "id": "Lesley1",
+      "name": "Master of Camouflage",
+      "description": "Lesley enters the Camouflage state, gaining double Energy Regen, 40% extra Movement Speed, and 85/90/95/100/105/110 extra Physical Attack.<br/><br/>The state lasts 3s or until Lesley takes or deals damage. Enemies can detect Lesley's position through distortions of their surroundings.",
+      "flavor_text": null,
+      "cost": "30",
+      "cooldown": "3.5/3.3/3.1/2.9/2.7/2.5",
+      "tags": [
+        {
+          "name": "Camouflage",
+          "rgb": null
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8caf30fc02cfaa2f500311936dbfc31.png",
+      "video_url": null
+    },
+    {
+      "id": "Lesley2",
+      "name": "Tactical Grenade",
+      "description": "Lesley throws a tactical grenade in the target direction while jumping back slightly, dealing 150/180/210/240/270/300<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a fan-shaped area and knocking them back.<br/><br/>Lesley can cast this skill during <highlight>Ultimate Snipe</highlight> to cancel the state and immediately fire a Fatal Bullet at the target. The attack is only triggered when there are unfired Fatal Bullets left.",
+      "flavor_text": null,
+      "cost": "40",
+      "cooldown": "10/9.4/8.8/8.2/7.6/7",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18a15ed9f8facd0926ea8a8ecd200e25.png",
+      "video_url": null
+    },
+    {
+      "id": "Lesley3",
+      "name": "Ultimate Snipe",
+      "description": "Lesley locks onto the target enemy hero and fires 4 Fatal Bullets in succession, each dealing <physicalDamage>Physical Damage</physicalDamage> equal to 250/300/350<scaleAD> (+80% Extra Physical Attack)</scaleAD> plus 5% of their lost HP and restoring 10 energy on hit. The Bullets can be blocked by other enemy heroes.<br/><br/>If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%.<br/><br/><highlight>Passive</highlight>: Lesley's Crit Chance is increased by 10%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "40",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6126c3a551ed56f43e76df1f21510d2.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Lesley0",
+      "sequence": "Lesley1-AA-Lesley2-AA-Lesley3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Lesley can repeatedly use her 1st Skill to deal more damage with her enhanced Basic Attack while moving. When the enemy hero is close, Lesley can use her 2nd Skill and the enhanced Basic Attack for the counterattack, and use his Ultimate to start reaping."
+    },
+    {
+      "id": "Lesley1",
+      "sequence": "AA-Lesley1-AA-Lesley3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, once Lesley reaches full energy, and her enhanced Basic Attack is activated, wait for the opportunity to use the enhanced Basic Attack to hit the enemy hero. Then use her 1st Skill to reactivate the enhanced Basic Attack and hit the enemy again, and finally, use her Ultimate to finish off the enemy."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Lesley works best with tank heroes who can provide better attacking conditions for her, like Minotaur and Baxia.",
+      "heroes": [
+        {
+          "id": 19,
+          "slug": "minotaur",
+          "name": "Minotaur"
+        },
+        {
+          "id": 87,
+          "slug": "baxia",
+          "name": "Baxia"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Lesley is strong against tank heroes who rely heavily on equipment. Because her attacks can deal True Damage that will ignore the defense these heroes get from the equipment. Such as Gatotkaca and Fredrinn.",
+      "heroes": [
+        {
+          "id": 41,
+          "slug": "gatotkaca",
+          "name": "Gatotkaca"
+        },
+        {
+          "id": 117,
+          "slug": "fredrinn",
+          "name": "Fredrinn"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Lesley is countered by Assassin heroes with multiple movement abilities, which will cause her to lose her range advantage. Such as Ling and Lancelot.",
+      "heroes": [
+        {
+          "id": 84,
+          "slug": "ling",
+          "name": "Ling"
+        },
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lesley-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lesley-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_632a7bc2e4c58d216747313f254fe717.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/1f0d645266d902f3f927ea7fc04c1bca.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/lesley.json",
+    "visual_catalog": "catalog/v1/visual/lesley.json",
+    "upgrade_catalog": "catalog/v1/upgrade/lesley.json"
+  }
+}

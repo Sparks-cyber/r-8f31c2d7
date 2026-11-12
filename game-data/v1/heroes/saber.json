@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 3,
+    "slug": "saber",
+    "name": "Saber",
+    "skin_name": "Wandering Sword",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle",
+      "Roaming"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Charge",
+      "Finisher"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "2016",
+    "resource": "Mana",
+    "short_description": "A swordsman in pursuit of invincibility, used by Laboratory 1718.",
+    "brief": "Once called Duan Meng and obsessed with kendo, Saber came to Laboratory 1718 to transform himself in order to pursue perfection, but his memory was erased and he was turned into a killing machine. The torture of his memories drove him to finally destroy the laboratory and set off searching for the past.",
+    "story": "Deep in the northern mountains of the Cadia Riverlands lies a quiet and peaceful village. This village is home to the legendary Tianyin Swordmaster Sect, and is also the place where Duan Meng spent his childhood perfecting his technique.\n\nAs soon as he was old enough to pick up a bamboo sword, Duan Meng was determined to become a great swordmaster. While everyone else was still sleeping, he would already be practicing hard, and would continue until the sun set and the moon was clear and bright.\n\nHe knew that the requirements for entering the Tianyin Swordmaster Sect were high, and so, after countless days and nights of training in the wind, rain, and snow, the gates of the sacred temple finally opened to Duan Meng. Soon, his extraordinary talent and obsession with swordsmanship attracted the attention of the leader, Master Longma, who was once a disciple of the Great Dragon and the spiritual leader of the Tianyin Swordmaster Sect. Under the guidance of Master Longma, Duan Meng soon exceled among his peers and became the leader of the new generation of students.\n\nOver time, Duan Meng grew tired of the stoic life of personal cultivation in the mountains. His obsession with swordsmanship and his innate ambition made him eager to challenge stronger enemies so that he could create his own legend and spread it throughout the world like the legendary swordsmen that inspired his personal journey. However, Master Longma denied his request to descend the mountain.\n\n\"It is not time yet. You have not yet become a truly invincible swordsman.\" The young and vivacious Duan Meng refused to go along with his master's point of view. He was confident enough in his own ability and hoped to improve his swordsmanship through constant combat alone.\n\nIn the following years, Duan Meng traveled all over the Cadia Riverlands, defeating one swordsman after another, including the adherents of the Dragon Altar. He kept climbing toward the title of \"The Best Swordsman\" without a single defeat.\n\nThis was until Duan Meng ran into a man who would become his ultimate rival, Zhixu. This man came from nowhere and had no teacher. His life was like that of a sword, perfectly formed and complete within itself.\n\nIn their battle, Duan Meng was defeated, utterly unable to even fight back. In order to one day defeat Zhixu, Duan Meng isolated himself in the mountains and threw himself into a painstaking training regimen for three long years.\n\nAt the end of these three years, Duan Meng felt ready to fight Zhixu again, and emerged from the mountains. But as fate would have it, his opponent had made even greater progress in these three years. He was defeated again, and his sword was even slashed in half by his opponent.\n\nDuan Meng's repeated failure reminded him of his master's words: \"It is not time yet. You have not yet become a truly invincible swordsman.\" However, Duan Meng knew that he had already done everything he could, and there was no way for the sword in his hand to become any faster or stronger.\n\nIn order to seek out a truly invincible swordsmanship style, Duan Meng left the confines of the Cadia Riverlands and journeyed throughout the Land of Dawn. During his travels, he overheard rumors regarding Laboratory 1718―that they could stimulate the potential of the human body through artificial transformation, granting one more power. Duan Meng could not resist inquiring further. If this rumor were true, he might still stand a chance of reaching the very peak of swordsmanship. As long as he could become stronger, he was willing to do anything.\n\nAt this time, the evil scientists of Laboratory 1718 were also interested in this swordsman from the East. They were preparing a new augmentation project to create a human weapon. As soon as the two parties came to an agreement, an unprecedented transformation began.\n\nAfter numerous experiments and operations, the project was finally successful, and a being with mechanical strength and human sword skills and sentience was born. But after waking up, Duan Meng had forgotten everything about himself, including his own name. He was then given a new code name by his creator: Saber. The sword of Laboratory 1718, Saber became a tool used for hunting down those stood against them.\n\nOf course, this was all part of Laboratory 1718's plan. They intended on luring just the right person to help complete their human weapon plan. Once the transformation had been completed, Duan Meng, who once dreamt of reaching the very height of swordsmanship, no longer existed. Instead, the ruthless mechanical killer, Saber, was born.\n\nThough his creators were convinced they had achieved great success, as time went by, the familiar moves, the feeling of holding his sword in his hands, kill after kill, day after day—something began to stir within Saber. As a warrior, he could not accept being reduced to the status of a mere killing machine, and could feel the memories buried deep in his mind fighting to be remembered once more. He began to question his own past and the meaning of his existence.\n\nLate one night, tormented by shards of his memories, Saber severed the neural control implant in his head, destroyed the humanoid weapon project laboratory, and embarked on the long and lonely road of exile.\n\nIn the years that followed, Laboratory 1718 never gave up their pursuit of what they saw as a failed product. Through the constant fighting and wandering that followed, Saber was determined to rediscover his name and origin. The fragments of his memory constantly bubbled to the surface, guiding him to slowly find his past. There was one thing he was certain of - he knew he had not yet become a truly invincible swordsman, and that he still had a destined opponent awaiting his next challenge.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 2,
+    "offense": 6,
+    "control": 6,
+    "difficulty": 1
+  },
+  "attributes": {
+    "health": 2500,
+    "health_growth": 195,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4429,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 118,
+    "physical_attack_growth": 9.71,
+    "magic_power": 0,
+    "physical_defense": 20,
+    "physical_defense_growth": 4.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.08,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Saber0",
+      "name": "Enemy's Bane",
+      "description": "Saber's attacks reduce enemies' Physical Defense by 3-8 for 5s on hit. This effect stacks up to 5 times.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1ec282b532be7af31153ce75b206f112.png",
+      "video_url": null
+    },
+    {
+      "id": "Saber1",
+      "name": "Orbiting Swords",
+      "description": "Saber releases 5 swords that orbit around him and deals 75/85/95/105/115/125<scaleAD> (+25% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies on hit. The sword will retract back to him after the duration<br/><br/>While active, Sword attacks deal 200/220/240/260/280/300<scaleAD> (+50% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the target and 50% damage to enemies along the path (damage reduced to 50% against minions). Each sword attack reduces the cooldowns of <highlight>Orbiting Swords</highlight> by 0.5s and <highlight>Charge</highlight> by 1s.",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "10",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6294839bbadfa6f203cd57bdc15efe2.png",
+      "video_url": null
+    },
+    {
+      "id": "Saber2",
+      "name": "Charge",
+      "description": "Saber dashes in the target direction, dealing 75/90/105/120/135/150<scaleAD> (+50% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the way while enhancing his next Basic Attack. Saber can dash to the target, and his enhanced Basic Attack deals 75/90/105/120/135/150<scaleAD> (+120% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slows the target by 60% for 1s.",
+      "flavor_text": null,
+      "cost": "40/44/48/52/56/60",
+      "cooldown": "7",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8607d91bbdff281d5bba7618f3ed4c98.png",
+      "video_url": null
+    },
+    {
+      "id": "Saber3",
+      "name": "Triple Sweep",
+      "description": "Saber charges at the target enemy hero, knocking them airborne for 1.2s (unaffected by Resilience) and striking them 3 times over the duration. The first two strikes deal 120/170/220<scaleAD> (+80% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> each, while the third strike deals 240/340/440<scaleAD> (+200% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": "100/120/140",
+      "cooldown": "44/40/36",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fc47930fd50e062bf6e8c8c0398e237c.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Saber0",
+      "sequence": "Saber1-Saber2-Saber3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Saber can use his 1st Skill to poke and weaken the enemy, follow with his 2nd Skill to close in, then use his Ultimate to finish them off."
+    },
+    {
+      "id": "Saber1",
+      "sequence": "Saber1-Saber2-Saber3",
+      "name": "LANING COMBOS",
+      "description": "Saber can use his 1st Skill to poke and weaken the enemy, follow with his 2nd Skill to close in, then use his Ultimate to finish them off."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Saber works well with high-damage heroes who can help him burst down enemy heroes in teamfights, such as Kadita and Cyclops.",
+      "heroes": [
+        {
+          "id": 75,
+          "slug": "kadita",
+          "name": "Kadita"
+        },
+        {
+          "id": 33,
+          "slug": "cyclops",
+          "name": "Cyclops"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Saber's deadly combo makes him strong against squishy heroes, such as Layla and Eudora.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Saber is countered by Support heroes with Survivability buffs, like Estes and Faramis.",
+      "heroes": [
+        {
+          "id": 34,
+          "slug": "estes",
+          "name": "Estes"
+        },
+        {
+          "id": 76,
+          "slug": "faramis",
+          "name": "Faramis"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Saber-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Saber-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_15e49c7cc5398ca2d903a485145c0702.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_15e49c7cc5398ca2d903a485145c0702.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/saber.json",
+    "visual_catalog": "catalog/v1/visual/saber.json",
+    "upgrade_catalog": "catalog/v1/upgrade/saber.json"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "pharsa-lightning",
+      "portrait_file": "Pharsa - Lightning.png",
+      "script_file": "Pharsa-Lightning.zip",
+      "skin_name": "Lightning",
+      "splash_file": "Pharsa - Lightning.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 52,
+    "name": "Pharsa",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "pharsa"
+  },
+  "release_tag": "custom-pharsa",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

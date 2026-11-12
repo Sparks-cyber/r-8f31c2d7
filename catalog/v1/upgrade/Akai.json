@@ -1,0 +1,547 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Akai",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Summer",
+      "Default_name": "Summer Party",
+      "Splash_url": "Akai-Summer-Party.png",
+      "script": "Akai-Summer-Party-Backup.zip",
+      "Portrait_url": "Akai-Summer-Party.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Summer-Party-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Summer-Party-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Summer-Party-Stream-Recluse.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Summer-Party-Street-Enforcer.zip"
+        },
+        {
+          "name": "Kung Fu Panda",
+          "Portrait_url": "Akai-Kung-Fu-Panda.png",
+          "Splash_url": "Akai-Kung-Fu-Panda.png",
+          "script": "Akai-Summer-Party-Kung-Fu-Panda.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Summer-Party-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Summer-Party-Kung-Fu-Monk.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Monk",
+      "Splash_url": "Akai-Monk.png",
+      "script": "Akai-Monk-Backup.zip",
+      "Portrait_url": "Akai-Monk.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Summer Party",
+          "Portrait_url": "Akai-Summer-Party.png",
+          "Splash_url": "Akai-Summer-Party.png",
+          "script": "Akai-Monk-Summer-Party.zip"
+        },
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Monk-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Monk-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Monk-Stream-Recluse.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Monk-Street-Enforcer.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Monk-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Marvelous Maestro",
+          "Portrait_url": "Akai-Marvelous-Maestro.png",
+          "Splash_url": "Akai-Marvelous-Maestro.png",
+          "script": "Akai-Monk-Marvelous-Maestro.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Akazonae Samurai",
+      "Splash_url": "Akai-Akazonae-Samurai.png",
+      "script": "Akai-Akazonae-Samurai-Backup.zip",
+      "Portrait_url": "Akai-Akazonae-Samurai.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Summer Party",
+          "Portrait_url": "Akai-Summer-Party.png",
+          "Splash_url": "Akai-Summer-Party.png",
+          "script": "Akai-Akazonae-Samurai-Summer-Party.zip"
+        },
+        {
+          "name": "Monk",
+          "Portrait_url": "Akai-Monk.png",
+          "Splash_url": "Akai-Monk.png",
+          "script": "Akai-Akazonae-Samurai-Monk.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Akazonae-Samurai-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Akazonae-Samurai-Stream-Recluse.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Akazonae-Samurai-Street-Enforcer.zip"
+        },
+        {
+          "name": "Kung Fu Panda",
+          "Portrait_url": "Akai-Kung-Fu-Panda.png",
+          "Splash_url": "Akai-Kung-Fu-Panda.png",
+          "script": "Akai-Akazonae-Samurai-Kung-Fu-Panda.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Akazonae-Samurai-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Marvelous Maestro",
+          "Portrait_url": "Akai-Marvelous-Maestro.png",
+          "Splash_url": "Akai-Marvelous-Maestro.png",
+          "script": "Akai-Akazonae-Samurai-Marvelous-Maestro.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Akazonae-Samurai-Kung-Fu-Monk.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Imperial Assassin",
+      "Splash_url": "Akai-Imperial-Assassin.png",
+      "script": "Akai-Imperial-Assassin-Backup.zip",
+      "Portrait_url": "Akai-Imperial-Assassin.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Summer Party",
+          "Portrait_url": "Akai-Summer-Party.png",
+          "Splash_url": "Akai-Summer-Party.png",
+          "script": "Akai-Imperial-Assassin-Summer-Party.zip"
+        },
+        {
+          "name": "Monk",
+          "Portrait_url": "Akai-Monk.png",
+          "Splash_url": "Akai-Monk.png",
+          "script": "Akai-Imperial-Assassin-Monk.zip"
+        },
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Imperial-Assassin-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Imperial-Assassin-Stream-Recluse.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Imperial-Assassin-Street-Enforcer.zip"
+        },
+        {
+          "name": "Kung Fu Panda",
+          "Portrait_url": "Akai-Kung-Fu-Panda.png",
+          "Splash_url": "Akai-Kung-Fu-Panda.png",
+          "script": "Akai-Imperial-Assassin-Kung-Fu-Panda.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Imperial-Assassin-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Imperial-Assassin-Kung-Fu-Monk.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Stream Recluse",
+      "Splash_url": "Akai-Stream-Recluse.png",
+      "script": "Akai-Stream-Recluse-Backup.zip",
+      "Portrait_url": "Akai-Stream-Recluse.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Summer Party",
+          "Portrait_url": "Akai-Summer-Party.png",
+          "Splash_url": "Akai-Summer-Party.png",
+          "script": "Akai-Stream-Recluse-Summer-Party.zip"
+        },
+        {
+          "name": "Monk",
+          "Portrait_url": "Akai-Monk.png",
+          "Splash_url": "Akai-Monk.png",
+          "script": "Akai-Stream-Recluse-Monk.zip"
+        },
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Stream-Recluse-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Stream-Recluse-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Stream-Recluse-Street-Enforcer.zip"
+        },
+        {
+          "name": "Kung Fu Panda",
+          "Portrait_url": "Akai-Kung-Fu-Panda.png",
+          "Splash_url": "Akai-Kung-Fu-Panda.png",
+          "script": "Akai-Stream-Recluse-Kung-Fu-Panda.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Stream-Recluse-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Stream-Recluse-Kung-Fu-Monk.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Street Enforcer",
+      "Splash_url": "Akai-Street-Enforcer.png",
+      "script": "Akai-Street-Enforcer-Backup.zip",
+      "Portrait_url": "Akai-Street-Enforcer.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Monk",
+          "Portrait_url": "Akai-Monk.png",
+          "Splash_url": "Akai-Monk.png",
+          "script": "Akai-Street-Enforcer-Monk.zip"
+        },
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Street-Enforcer-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Street-Enforcer-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Street-Enforcer-Stream-Recluse.zip"
+        },
+        {
+          "name": "Kung Fu Panda",
+          "Portrait_url": "Akai-Kung-Fu-Panda.png",
+          "Splash_url": "Akai-Kung-Fu-Panda.png",
+          "script": "Akai-Street-Enforcer-Kung-Fu-Panda.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Street-Enforcer-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Street-Enforcer-Kung-Fu-Monk.zip"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu Panda",
+      "Default_name": "Kung Fu Panda",
+      "Splash_url": "Akai-Kung-Fu-Panda.png",
+      "script": "Akai-Kung-Fu-Panda-Backup.zip",
+      "Portrait_url": "Akai-Kung-Fu-Panda.png",
+      "Tags": [
+        "Kung Fu Panda.png"
+      ],
+      "targets": [
+        {
+          "name": "Summer Party",
+          "Portrait_url": "Akai-Summer-Party.png",
+          "Splash_url": "Akai-Summer-Party.png",
+          "script": "Akai-Kung-Fu-Panda-Summer-Party.zip"
+        },
+        {
+          "name": "Monk",
+          "Portrait_url": "Akai-Monk.png",
+          "Splash_url": "Akai-Monk.png",
+          "script": "Akai-Kung-Fu-Panda-Monk.zip"
+        },
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Kung-Fu-Panda-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Kung-Fu-Panda-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Kung-Fu-Panda-Stream-Recluse.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Kung-Fu-Panda-Street-Enforcer.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Kung-Fu-Panda-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Marvelous Maestro",
+          "Portrait_url": "Akai-Marvelous-Maestro.png",
+          "Splash_url": "Akai-Marvelous-Maestro.png",
+          "script": "Akai-Kung-Fu-Panda-Marvelous-Maestro.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Kung-Fu-Panda-Kung-Fu-Monk.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Pumpkin Brawler",
+      "Splash_url": "Akai-Pumpkin-Brawler.png",
+      "script": "Akai-Pumpkin-Brawler-Backup.zip",
+      "Portrait_url": "Akai-Pumpkin-Brawler.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Summer Party",
+          "Portrait_url": "Akai-Summer-Party.png",
+          "Splash_url": "Akai-Summer-Party.png",
+          "script": "Akai-Pumpkin-Brawler-Summer-Party.zip"
+        },
+        {
+          "name": "Monk",
+          "Portrait_url": "Akai-Monk.png",
+          "Splash_url": "Akai-Monk.png",
+          "script": "Akai-Pumpkin-Brawler-Monk.zip"
+        },
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Pumpkin-Brawler-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Pumpkin-Brawler-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Pumpkin-Brawler-Stream-Recluse.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Pumpkin-Brawler-Street-Enforcer.zip"
+        },
+        {
+          "name": "Kung Fu Panda",
+          "Portrait_url": "Akai-Kung-Fu-Panda.png",
+          "Splash_url": "Akai-Kung-Fu-Panda.png",
+          "script": "Akai-Pumpkin-Brawler-Kung-Fu-Panda.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Pumpkin-Brawler-Kung-Fu-Monk.zip"
+        }
+      ]
+    },
+    {
+      "name": "8th Anniversary",
+      "Default_name": "Marvelous Maestro",
+      "Splash_url": "Akai-Marvelous-Maestro.png",
+      "script": "Akai-Marvelous-Maestro-Backup.zip",
+      "Portrait_url": "Akai-Marvelous-Maestro.png",
+      "Tags": [
+        "8th Anniversary.png"
+      ],
+      "targets": [
+        {
+          "name": "Summer Party",
+          "Portrait_url": "Akai-Summer-Party.png",
+          "Splash_url": "Akai-Summer-Party.png",
+          "script": "Akai-Marvelous-Maestro-Summer-Party.zip"
+        },
+        {
+          "name": "Monk",
+          "Portrait_url": "Akai-Monk.png",
+          "Splash_url": "Akai-Monk.png",
+          "script": "Akai-Marvelous-Maestro-Monk.zip"
+        },
+        {
+          "name": "Akazonae Samurai",
+          "Portrait_url": "Akai-Akazonae-Samurai.png",
+          "Splash_url": "Akai-Akazonae-Samurai.png",
+          "script": "Akai-Marvelous-Maestro-Akazonae-Samurai.zip"
+        },
+        {
+          "name": "Imperial Assassin",
+          "Portrait_url": "Akai-Imperial-Assassin.png",
+          "Splash_url": "Akai-Imperial-Assassin.png",
+          "script": "Akai-Marvelous-Maestro-Imperial-Assassin.zip"
+        },
+        {
+          "name": "Stream Recluse",
+          "Portrait_url": "Akai-Stream-Recluse.png",
+          "Splash_url": "Akai-Stream-Recluse.png",
+          "script": "Akai-Marvelous-Maestro-Stream-Recluse.zip"
+        },
+        {
+          "name": "Street Enforcer",
+          "Portrait_url": "Akai-Street-Enforcer.png",
+          "Splash_url": "Akai-Street-Enforcer.png",
+          "script": "Akai-Marvelous-Maestro-Street-Enforcer.zip"
+        },
+        {
+          "name": "Kung Fu Panda",
+          "Portrait_url": "Akai-Kung-Fu-Panda.png",
+          "Splash_url": "Akai-Kung-Fu-Panda.png",
+          "script": "Akai-Marvelous-Maestro-Kung-Fu-Panda.zip"
+        },
+        {
+          "name": "Pumpkin Brawler",
+          "Portrait_url": "Akai-Pumpkin-Brawler.png",
+          "Splash_url": "Akai-Pumpkin-Brawler.png",
+          "script": "Akai-Marvelous-Maestro-Pumpkin-Brawler.zip"
+        },
+        {
+          "name": "Kung Fu Monk",
+          "Portrait_url": "Akai-Kung-Fu-Monk.png",
+          "Splash_url": "Akai - Kung Fu Monk.jpg",
+          "script": "Akai-Marvelous-Maestro-Kung-Fu-Monk.zip"
+        }
+      ]
+    }
+  ]
+}

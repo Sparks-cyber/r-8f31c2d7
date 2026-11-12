@@ -1,0 +1,131 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Luo Yi",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Yin-yang Mage",
+      "Splash_url": "Luo-Yi-Yin-yang-Mage.png",
+      "script": "Luo-Yi-Yin-yang-Mage-Backup.zip",
+      "Portrait_url": "Luo-Yi-Yin-yang-Mage.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Moonlit Orchid Painted 01",
+          "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+          "Splash_url": "Luo-Yi-Tenko.png",
+          "script": "Luo-Yi-Yin-yang-Mage-Moonlit-Orchid-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lunar Festival",
+      "Default_name": "Dawning Fortune",
+      "Splash_url": "Luo-Yi-Dawning-Fortune.png",
+      "script": "Luo-Yi-Dawning-Fortune-Backup.zip",
+      "Portrait_url": "Luo-Yi-Dawning-Fortune.png",
+      "Tags": [
+        "Lunar Fest.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlit Orchid Painted 01",
+          "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+          "Splash_url": "Luo-Yi-Tenko.png",
+          "script": "Luo-Yi-Dawning-Fortune-Moonlit-Orchid-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Siren Priestess",
+      "Splash_url": "Luo-Yi-Siren-Priestess.png",
+      "script": "Luo-Yi-Siren-Priestess-Backup.zip",
+      "Portrait_url": "Luo-Yi-Siren-Priestess.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlit Orchid Painted 01",
+          "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+          "Splash_url": "Luo-Yi-Tenko.png",
+          "script": "Luo-Yi-Siren-Priestess-Moonlit-Orchid-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Elysium Guardian",
+      "Splash_url": "Luo-Yi-Elysium-Guardian.png",
+      "script": "Luo-Yi-Elysium-Guardian-Backup.zip",
+      "Portrait_url": "Luo-Yi-Elysium-Guardian.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlit Orchid Painted 01",
+          "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+          "Splash_url": "Luo-Yi-Tenko.png",
+          "script": "Luo-Yi-Elysium-Guardian-Moonlit-Orchid-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Oracle of Sol",
+      "Splash_url": "Luo-Yi-Oracle-of-Sol.png",
+      "script": "Luo-Yi-Oracle-of-Sol-Backup.zip",
+      "Portrait_url": "Luo-Yi-Oracle-of-Sol.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlit Orchid Painted 01",
+          "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+          "Splash_url": "Luo-Yi-Tenko.png",
+          "script": "Luo-Yi-Oracle-of-Sol-Moonlit-Orchid-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Create",
+      "Default_name": "Starborne Matron",
+      "Splash_url": "Luo-Yi-Starborne-Matron.png",
+      "script": "Luo-Yi-Starborne-Matron-Backup.zip",
+      "Portrait_url": "Luo-Yi-Starborne-Matron.png",
+      "Tags": [
+        "Create.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlit Orchid Painted 01",
+          "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+          "Splash_url": "Luo-Yi-Tenko.png",
+          "script": "Luo-Yi-Starborne-Matron-Moonlit-Orchid-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Moonlit Orchid Skin 08",
+      "Splash_url": "Luo-Yi-Moonlit-Orchid.png",
+      "script": "Luo-Yi-Moonlit-Orchid-Skin-08-Backup.zip",
+      "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlit Orchid Painted 01",
+          "Portrait_url": "Luo-Yi-Moonlit-Orchid.png",
+          "Splash_url": "Luo-Yi-Tenko.png",
+          "script": "Luo-Yi-Moonlit-Orchid-Skin-08-Moonlit-Orchid-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

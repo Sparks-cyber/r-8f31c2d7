@@ -1,0 +1,341 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Lolita",
+  "role": "Support/Tank",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Soldier in Training",
+      "Splash_url": "Lolita-Soldier-in-Training.png",
+      "script": "Lolita-Soldier-in-Training-Backup.zip",
+      "Portrait_url": "Lolita-Soldier-in-Training.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Impish Trickster",
+          "Portrait_url": "Lolita-Impish-Trickster.png",
+          "Splash_url": "Lolita-Impish-Trickster.png",
+          "script": "Lolita-Soldier-in-Training-Impish-Trickster.zip"
+        },
+        {
+          "name": "Lion Dance",
+          "Portrait_url": "Lolita-Lion-Dance.png",
+          "Splash_url": "Lolita-Lion-Dance.png",
+          "script": "Lolita-Soldier-in-Training-Lion-Dance.zip"
+        },
+        {
+          "name": "Special Op",
+          "Portrait_url": "Lolita-Special-Op.png",
+          "Splash_url": "Lolita-Special-Op.png",
+          "script": "Lolita-Soldier-in-Training-Special-Op.zip"
+        },
+        {
+          "name": "Genki Slam",
+          "Portrait_url": "Lolita-Genki-Slam.png",
+          "Splash_url": "Lolita-Genki-Slam.png",
+          "script": "Lolita-Soldier-in-Training-Genki-Slam.zip"
+        },
+        {
+          "name": "Starwatcher",
+          "Portrait_url": "Lolita-Starwatcher.png",
+          "Splash_url": "Lolita-Starwatcher.png",
+          "script": "Lolita-Soldier-in-Training-Starwatcher.zip"
+        },
+        {
+          "name": "Astro Mallet",
+          "Portrait_url": "Lolita-Astro-Mallet.png",
+          "Splash_url": "Lolita-Astro-Mallet.png",
+          "script": "Lolita-Soldier-in-Training-Astro-Mallet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Impish Trickster",
+      "Splash_url": "Lolita-Impish-Trickster.png",
+      "script": "Lolita-Impish-Trickster-Backup.zip",
+      "Portrait_url": "Lolita-Impish-Trickster.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Soldier in Training",
+          "Portrait_url": "Lolita-Soldier-in-Training.png",
+          "Splash_url": "Lolita-Soldier-in-Training.png",
+          "script": "Lolita-Impish-Trickster-Soldier-in-Training.zip"
+        },
+        {
+          "name": "Lion Dance",
+          "Portrait_url": "Lolita-Lion-Dance.png",
+          "Splash_url": "Lolita-Lion-Dance.png",
+          "script": "Lolita-Impish-Trickster-Lion-Dance.zip"
+        },
+        {
+          "name": "Special Op",
+          "Portrait_url": "Lolita-Special-Op.png",
+          "Splash_url": "Lolita-Special-Op.png",
+          "script": "Lolita-Impish-Trickster-Special-Op.zip"
+        },
+        {
+          "name": "Genki Slam",
+          "Portrait_url": "Lolita-Genki-Slam.png",
+          "Splash_url": "Lolita-Genki-Slam.png",
+          "script": "Lolita-Impish-Trickster-Genki-Slam.zip"
+        },
+        {
+          "name": "Starwatcher",
+          "Portrait_url": "Lolita-Starwatcher.png",
+          "Splash_url": "Lolita-Starwatcher.png",
+          "script": "Lolita-Impish-Trickster-Starwatcher.zip"
+        },
+        {
+          "name": "Astro Mallet",
+          "Portrait_url": "Lolita-Astro-Mallet.png",
+          "Splash_url": "Lolita-Astro-Mallet.png",
+          "script": "Lolita-Impish-Trickster-Astro-Mallet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lunar Festival",
+      "Default_name": "Lion Dance",
+      "Splash_url": "Lolita-Lion-Dance.png",
+      "script": "Lolita-Lion-Dance-Backup.zip",
+      "Portrait_url": "Lolita-Lion-Dance.png",
+      "Tags": [
+        "Lunar Fest.png"
+      ],
+      "targets": [
+        {
+          "name": "Soldier in Training",
+          "Portrait_url": "Lolita-Soldier-in-Training.png",
+          "Splash_url": "Lolita-Soldier-in-Training.png",
+          "script": "Lolita-Lion-Dance-Soldier-in-Training.zip"
+        },
+        {
+          "name": "Impish Trickster",
+          "Portrait_url": "Lolita-Impish-Trickster.png",
+          "Splash_url": "Lolita-Impish-Trickster.png",
+          "script": "Lolita-Lion-Dance-Impish-Trickster.zip"
+        },
+        {
+          "name": "Special Op",
+          "Portrait_url": "Lolita-Special-Op.png",
+          "Splash_url": "Lolita-Special-Op.png",
+          "script": "Lolita-Lion-Dance-Special-Op.zip"
+        },
+        {
+          "name": "Genki Slam",
+          "Portrait_url": "Lolita-Genki-Slam.png",
+          "Splash_url": "Lolita-Genki-Slam.png",
+          "script": "Lolita-Lion-Dance-Genki-Slam.zip"
+        },
+        {
+          "name": "Starwatcher",
+          "Portrait_url": "Lolita-Starwatcher.png",
+          "Splash_url": "Lolita-Starwatcher.png",
+          "script": "Lolita-Lion-Dance-Starwatcher.zip"
+        },
+        {
+          "name": "Astro Mallet",
+          "Portrait_url": "Lolita-Astro-Mallet.png",
+          "Splash_url": "Lolita-Astro-Mallet.png",
+          "script": "Lolita-Lion-Dance-Astro-Mallet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Special Op",
+      "Splash_url": "Lolita-Special-Op.png",
+      "script": "Lolita-Special-Op-Backup.zip",
+      "Portrait_url": "Lolita-Special-Op.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Soldier in Training",
+          "Portrait_url": "Lolita-Soldier-in-Training.png",
+          "Splash_url": "Lolita-Soldier-in-Training.png",
+          "script": "Lolita-Special-Op-Soldier-in-Training.zip"
+        },
+        {
+          "name": "Impish Trickster",
+          "Portrait_url": "Lolita-Impish-Trickster.png",
+          "Splash_url": "Lolita-Impish-Trickster.png",
+          "script": "Lolita-Special-Op-Impish-Trickster.zip"
+        },
+        {
+          "name": "Lion Dance",
+          "Portrait_url": "Lolita-Lion-Dance.png",
+          "Splash_url": "Lolita-Lion-Dance.png",
+          "script": "Lolita-Special-Op-Lion-Dance.zip"
+        },
+        {
+          "name": "Genki Slam",
+          "Portrait_url": "Lolita-Genki-Slam.png",
+          "Splash_url": "Lolita-Genki-Slam.png",
+          "script": "Lolita-Special-Op-Genki-Slam.zip"
+        },
+        {
+          "name": "Starwatcher",
+          "Portrait_url": "Lolita-Starwatcher.png",
+          "Splash_url": "Lolita-Starwatcher.png",
+          "script": "Lolita-Special-Op-Starwatcher.zip"
+        },
+        {
+          "name": "Astro Mallet",
+          "Portrait_url": "Lolita-Astro-Mallet.png",
+          "Splash_url": "Lolita-Astro-Mallet.png",
+          "script": "Lolita-Special-Op-Astro-Mallet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Genki Slam",
+      "Splash_url": "Lolita-Genki-Slam.png",
+      "script": "Lolita-Genki-Slam-Backup.zip",
+      "Portrait_url": "Lolita-Genki-Slam.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Soldier in Training",
+          "Portrait_url": "Lolita-Soldier-in-Training.png",
+          "Splash_url": "Lolita-Soldier-in-Training.png",
+          "script": "Lolita-Genki-Slam-Soldier-in-Training.zip"
+        },
+        {
+          "name": "Impish Trickster",
+          "Portrait_url": "Lolita-Impish-Trickster.png",
+          "Splash_url": "Lolita-Impish-Trickster.png",
+          "script": "Lolita-Genki-Slam-Impish-Trickster.zip"
+        },
+        {
+          "name": "Lion Dance",
+          "Portrait_url": "Lolita-Lion-Dance.png",
+          "Splash_url": "Lolita-Lion-Dance.png",
+          "script": "Lolita-Genki-Slam-Lion-Dance.zip"
+        },
+        {
+          "name": "Special Op",
+          "Portrait_url": "Lolita-Special-Op.png",
+          "Splash_url": "Lolita-Special-Op.png",
+          "script": "Lolita-Genki-Slam-Special-Op.zip"
+        },
+        {
+          "name": "Starwatcher",
+          "Portrait_url": "Lolita-Starwatcher.png",
+          "Splash_url": "Lolita-Starwatcher.png",
+          "script": "Lolita-Genki-Slam-Starwatcher.zip"
+        },
+        {
+          "name": "Astro Mallet",
+          "Portrait_url": "Lolita-Astro-Mallet.png",
+          "Splash_url": "Lolita-Astro-Mallet.png",
+          "script": "Lolita-Genki-Slam-Astro-Mallet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Rising",
+      "Default_name": "Starwatcher",
+      "Splash_url": "Lolita-Starwatcher.png",
+      "script": "Lolita-Starwatcher-Backup.zip",
+      "Portrait_url": "Lolita-Starwatcher.png",
+      "Tags": [
+        "Rising.png"
+      ],
+      "targets": [
+        {
+          "name": "Soldier in Training",
+          "Portrait_url": "Lolita-Soldier-in-Training.png",
+          "Splash_url": "Lolita-Soldier-in-Training.png",
+          "script": "Lolita-Starwatcher-Soldier-in-Training.zip"
+        },
+        {
+          "name": "Impish Trickster",
+          "Portrait_url": "Lolita-Impish-Trickster.png",
+          "Splash_url": "Lolita-Impish-Trickster.png",
+          "script": "Lolita-Starwatcher-Impish-Trickster.zip"
+        },
+        {
+          "name": "Lion Dance",
+          "Portrait_url": "Lolita-Lion-Dance.png",
+          "Splash_url": "Lolita-Lion-Dance.png",
+          "script": "Lolita-Starwatcher-Lion-Dance.zip"
+        },
+        {
+          "name": "Special Op",
+          "Portrait_url": "Lolita-Special-Op.png",
+          "Splash_url": "Lolita-Special-Op.png",
+          "script": "Lolita-Starwatcher-Special-Op.zip"
+        },
+        {
+          "name": "Genki Slam",
+          "Portrait_url": "Lolita-Genki-Slam.png",
+          "Splash_url": "Lolita-Genki-Slam.png",
+          "script": "Lolita-Starwatcher-Genki-Slam.zip"
+        },
+        {
+          "name": "Astro Mallet",
+          "Portrait_url": "Lolita-Astro-Mallet.png",
+          "Splash_url": "Lolita-Astro-Mallet.png",
+          "script": "Lolita-Starwatcher-Astro-Mallet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Astro Mallet",
+      "Splash_url": "Lolita-Astro-Mallet.png",
+      "script": "Lolita-Astro-Mallet-Backup.zip",
+      "Portrait_url": "Lolita-Astro-Mallet.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Soldier in Training",
+          "Portrait_url": "Lolita-Soldier-in-Training.png",
+          "Splash_url": "Lolita-Soldier-in-Training.png",
+          "script": "Lolita-Astro-Mallet-Soldier-in-Training.zip"
+        },
+        {
+          "name": "Impish Trickster",
+          "Portrait_url": "Lolita-Impish-Trickster.png",
+          "Splash_url": "Lolita-Impish-Trickster.png",
+          "script": "Lolita-Astro-Mallet-Impish-Trickster.zip"
+        },
+        {
+          "name": "Lion Dance",
+          "Portrait_url": "Lolita-Lion-Dance.png",
+          "Splash_url": "Lolita-Lion-Dance.png",
+          "script": "Lolita-Astro-Mallet-Lion-Dance.zip"
+        },
+        {
+          "name": "Special Op",
+          "Portrait_url": "Lolita-Special-Op.png",
+          "Splash_url": "Lolita-Special-Op.png",
+          "script": "Lolita-Astro-Mallet-Special-Op.zip"
+        },
+        {
+          "name": "Genki Slam",
+          "Portrait_url": "Lolita-Genki-Slam.png",
+          "Splash_url": "Lolita-Genki-Slam.png",
+          "script": "Lolita-Astro-Mallet-Genki-Slam.zip"
+        },
+        {
+          "name": "Starwatcher",
+          "Portrait_url": "Lolita-Starwatcher.png",
+          "Splash_url": "Lolita-Starwatcher.png",
+          "script": "Lolita-Astro-Mallet-Starwatcher.zip"
+        }
+      ]
+    }
+  ]
+}

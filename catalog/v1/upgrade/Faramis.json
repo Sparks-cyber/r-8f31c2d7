@@ -1,0 +1,185 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Faramis",
+  "role": "Support/Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Dark Necro",
+      "Splash_url": "Faramis-Dark-Necro.png",
+      "script": "Faramis-Dark-Necro-Backup.zip",
+      "Portrait_url": "Faramis-Dark-Necro.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Royal Magus",
+          "Portrait_url": "Faramis-Royal-Magus.png",
+          "Splash_url": "Faramis-Royal-Magus.png",
+          "script": "Faramis-Dark-Necro-Royal-Magus.zip"
+        },
+        {
+          "name": "Summer Sparks",
+          "Portrait_url": "Faramis-Summer-Sparks.png",
+          "Splash_url": "Faramis-Summer-Sparks.png",
+          "script": "Faramis-Dark-Necro-Summer-Sparks.zip"
+        },
+        {
+          "name": "Infernal Magister",
+          "Portrait_url": "Faramis-Infernal-Magister.png",
+          "Splash_url": "Faramis-Infernal-Magister.png",
+          "script": "Faramis-Dark-Necro-Infernal-Magister.zip"
+        },
+        {
+          "name": "Enigmatic Wayfarer",
+          "Portrait_url": "Faramis-Enigmatic-Wayfarer.png",
+          "Splash_url": "Faramis-Enigmatic-Wayfarer.png",
+          "script": "Faramis-Dark-Necro-Enigmatic-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Royal Magus",
+      "Splash_url": "Faramis-Royal-Magus.png",
+      "script": "Faramis-Royal-Magus-Backup.zip",
+      "Portrait_url": "Faramis-Royal-Magus.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Necro",
+          "Portrait_url": "Faramis-Dark-Necro.png",
+          "Splash_url": "Faramis-Dark-Necro.png",
+          "script": "Faramis-Royal-Magus-Dark-Necro.zip"
+        },
+        {
+          "name": "Summer Sparks",
+          "Portrait_url": "Faramis-Summer-Sparks.png",
+          "Splash_url": "Faramis-Summer-Sparks.png",
+          "script": "Faramis-Royal-Magus-Summer-Sparks.zip"
+        },
+        {
+          "name": "Infernal Magister",
+          "Portrait_url": "Faramis-Infernal-Magister.png",
+          "Splash_url": "Faramis-Infernal-Magister.png",
+          "script": "Faramis-Royal-Magus-Infernal-Magister.zip"
+        },
+        {
+          "name": "Enigmatic Wayfarer",
+          "Portrait_url": "Faramis-Enigmatic-Wayfarer.png",
+          "Splash_url": "Faramis-Enigmatic-Wayfarer.png",
+          "script": "Faramis-Royal-Magus-Enigmatic-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Summer Sparks",
+      "Splash_url": "Faramis-Summer-Sparks.png",
+      "script": "Faramis-Summer-Sparks-Backup.zip",
+      "Portrait_url": "Faramis-Summer-Sparks.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Necro",
+          "Portrait_url": "Faramis-Dark-Necro.png",
+          "Splash_url": "Faramis-Dark-Necro.png",
+          "script": "Faramis-Summer-Sparks-Dark-Necro.zip"
+        },
+        {
+          "name": "Royal Magus",
+          "Portrait_url": "Faramis-Royal-Magus.png",
+          "Splash_url": "Faramis-Royal-Magus.png",
+          "script": "Faramis-Summer-Sparks-Royal-Magus.zip"
+        },
+        {
+          "name": "Infernal Magister",
+          "Portrait_url": "Faramis-Infernal-Magister.png",
+          "Splash_url": "Faramis-Infernal-Magister.png",
+          "script": "Faramis-Summer-Sparks-Infernal-Magister.zip"
+        },
+        {
+          "name": "Enigmatic Wayfarer",
+          "Portrait_url": "Faramis-Enigmatic-Wayfarer.png",
+          "Splash_url": "Faramis-Enigmatic-Wayfarer.png",
+          "script": "Faramis-Summer-Sparks-Enigmatic-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Mythic 2023",
+      "Default_name": "Infernal Magister",
+      "Splash_url": "Faramis-Infernal-Magister.png",
+      "script": "Faramis-Infernal-Magister-Backup.zip",
+      "Portrait_url": "Faramis-Infernal-Magister.png",
+      "Tags": [
+        "Mythic 2023.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Necro",
+          "Portrait_url": "Faramis-Dark-Necro.png",
+          "Splash_url": "Faramis-Dark-Necro.png",
+          "script": "Faramis-Infernal-Magister-Dark-Necro.zip"
+        },
+        {
+          "name": "Royal Magus",
+          "Portrait_url": "Faramis-Royal-Magus.png",
+          "Splash_url": "Faramis-Royal-Magus.png",
+          "script": "Faramis-Infernal-Magister-Royal-Magus.zip"
+        },
+        {
+          "name": "Summer Sparks",
+          "Portrait_url": "Faramis-Summer-Sparks.png",
+          "Splash_url": "Faramis-Summer-Sparks.png",
+          "script": "Faramis-Infernal-Magister-Summer-Sparks.zip"
+        },
+        {
+          "name": "Enigmatic Wayfarer",
+          "Portrait_url": "Faramis-Enigmatic-Wayfarer.png",
+          "Splash_url": "Faramis-Enigmatic-Wayfarer.png",
+          "script": "Faramis-Infernal-Magister-Enigmatic-Wayfarer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Enigmatic Wayfarer",
+      "Splash_url": "Faramis-Enigmatic-Wayfarer.png",
+      "script": "Faramis-Enigmatic-Wayfarer-Backup.zip",
+      "Portrait_url": "Faramis-Enigmatic-Wayfarer.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Necro",
+          "Portrait_url": "Faramis-Dark-Necro.png",
+          "Splash_url": "Faramis-Dark-Necro.png",
+          "script": "Faramis-Enigmatic-Wayfarer-Dark-Necro.zip"
+        },
+        {
+          "name": "Royal Magus",
+          "Portrait_url": "Faramis-Royal-Magus.png",
+          "Splash_url": "Faramis-Royal-Magus.png",
+          "script": "Faramis-Enigmatic-Wayfarer-Royal-Magus.zip"
+        },
+        {
+          "name": "Summer Sparks",
+          "Portrait_url": "Faramis-Summer-Sparks.png",
+          "Splash_url": "Faramis-Summer-Sparks.png",
+          "script": "Faramis-Enigmatic-Wayfarer-Summer-Sparks.zip"
+        },
+        {
+          "name": "Infernal Magister",
+          "Portrait_url": "Faramis-Infernal-Magister.png",
+          "Splash_url": "Faramis-Infernal-Magister.png",
+          "script": "Faramis-Enigmatic-Wayfarer-Infernal-Magister.zip"
+        }
+      ]
+    }
+  ]
+}

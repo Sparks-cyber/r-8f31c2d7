@@ -1,0 +1,87 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "yin-backup",
+      "portrait_file": "Yin-Default.png",
+      "script_file": "Yin-Backup.zip",
+      "skin_name": "Martial Genius",
+      "splash_file": "Yin-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "yin-fists-of-valor",
+      "portrait_file": "Yin-Fists-of-Valor.png",
+      "script_file": "Yin-Fists-of-Valor.zip",
+      "skin_name": "Fists of Valor",
+      "splash_file": "Yin-Fists-of-Valor.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "yin-m-world-yin",
+      "portrait_file": "Yin-M-World.png",
+      "script_file": "Yin-M-World-Yin.zip",
+      "skin_name": "M-World Yin",
+      "splash_file": "Yin-M-World-Yin.png",
+      "tag_id": "m-world",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "yin-yuji-itadori",
+      "portrait_file": "Yin-Yuji-Itadori.png",
+      "script_file": "Yin-Yuji-Itadori.zip",
+      "skin_name": "Yuji Itadori",
+      "splash_file": "Yin-Yuji-Itadori.png",
+      "tag_id": "jujutsu-kaisen",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "yin-eternal-guardian",
+      "portrait_file": "Yin-Eternal-Guardian.png",
+      "script_file": "Yin-Eternal-Guardian.zip",
+      "skin_name": "Eternal Guardian",
+      "splash_file": "Yin-Eternal-Guardian.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "yin-eren",
+      "portrait_file": "Yin-Eren.png",
+      "script_file": "Yin-Eren.zip",
+      "skin_name": "Eren",
+      "splash_file": "Yin-Eren.png",
+      "tag_id": "attack-on-titan",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "yin-immortal-guardian",
+      "portrait_file": "Yin-Immortal-Guardian.png",
+      "script_file": "Yin-Immortal-Guardian.zip",
+      "skin_name": "Immortal Guardian",
+      "splash_file": "Yin-Immortal-Guardian.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 113,
+    "name": "Yin",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "yin"
+  },
+  "release_tag": "visual-yin",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

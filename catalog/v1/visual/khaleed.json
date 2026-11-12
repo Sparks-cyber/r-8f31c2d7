@@ -1,0 +1,66 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "khaleed-backup",
+      "portrait_file": "Khaleed-Default.png",
+      "script_file": "Khaleed-Backup.zip",
+      "skin_name": "Desert Scimitar",
+      "splash_file": "Khaleed-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "khaleed-prince-of-sand",
+      "portrait_file": "Khaleed-Prince-of-Sand.png",
+      "script_file": "Khaleed-Prince-of-Sand.zip",
+      "skin_name": "Prince of Sand",
+      "splash_file": "Khaleed-Prince-of-Sand.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "khaleed-crescent-scimitar",
+      "portrait_file": "Khaleed-Crescent-Scimitar.png",
+      "script_file": "Khaleed-Crescent-Scimitar.zip",
+      "skin_name": "Crescent Scimitar",
+      "splash_file": "Khaleed-Crescent-Scimitar.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "khaleed-wave-strider",
+      "portrait_file": "Khaleed-Wave-Strider.png",
+      "script_file": "Khaleed-Wave-Strider.zip",
+      "skin_name": "Wave Strider",
+      "splash_file": "Khaleed-Wave-Strider.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "khaleed-desert-salamander",
+      "portrait_file": "Khaleed-Desert-Salamander.png",
+      "script_file": "Khaleed-Desert-Salamander.zip",
+      "skin_name": "Desert Salamander",
+      "splash_file": "Khaleed-Desert-Salamander.png",
+      "tag_id": "s36",
+      "tier": "common"
+    }
+  ],
+  "hero": {
+    "id": 98,
+    "name": "Khaleed",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "khaleed"
+  },
+  "release_tag": "visual-khaleed",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

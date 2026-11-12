@@ -1,0 +1,377 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Yi Sun-shin",
+  "role": "Assassin/Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Major General",
+      "Splash_url": "Yi-Sun-shin-Major-General.png",
+      "script": "Yi-Sun-shin-Major-General-Backup.zip",
+      "Portrait_url": "Yi-Sun-shin-Major-General.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Apocalypse Agent",
+          "Portrait_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Major-General-Apocalypse-Agent.zip"
+        },
+        {
+          "name": "Roguish Ranger",
+          "Portrait_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "Splash_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "script": "Yi-Sun-shin-Major-General-Roguish-Ranger.zip"
+        },
+        {
+          "name": "Lone Destructor",
+          "Portrait_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "Splash_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "script": "Yi-Sun-shin-Major-General-Lone-Destructor.zip"
+        },
+        {
+          "name": "Azure Sentry",
+          "Portrait_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "Splash_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "script": "Yi-Sun-shin-Major-General-Azure-Sentry.zip"
+        },
+        {
+          "name": "Fleet Warden",
+          "Portrait_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "Splash_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "script": "Yi-Sun-shin-Major-General-Fleet-Warden.zip"
+        },
+        {
+          "name": "Surging Torrent",
+          "Portrait_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "Splash_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "script": "Yi-Sun-shin-Major-General-Surging-Torrent.zip"
+        },
+        {
+          "name": "Tactical Specialist",
+          "Portrait_url": "Yi-Sun-shin-Tactical-Specialist.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Major-General-Tactical-Specialist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Apocalypse Agent",
+      "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+      "script": "Yi-Sun-shin-Apocalypse-Agent-Backup.zip",
+      "Portrait_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Major General",
+          "Portrait_url": "Yi-Sun-shin-Major-General.png",
+          "Splash_url": "Yi-Sun-shin-Major-General.png",
+          "script": "Yi-Sun-shin-Apocalypse-Agent-Major-General.zip"
+        },
+        {
+          "name": "Roguish Ranger",
+          "Portrait_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "Splash_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "script": "Yi-Sun-shin-Apocalypse-Agent-Roguish-Ranger.zip"
+        },
+        {
+          "name": "Lone Destructor",
+          "Portrait_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "Splash_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "script": "Yi-Sun-shin-Apocalypse-Agent-Lone-Destructor.zip"
+        },
+        {
+          "name": "Azure Sentry",
+          "Portrait_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "Splash_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "script": "Yi-Sun-shin-Apocalypse-Agent-Azure-Sentry.zip"
+        },
+        {
+          "name": "Fleet Warden",
+          "Portrait_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "Splash_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "script": "Yi-Sun-shin-Apocalypse-Agent-Fleet-Warden.zip"
+        },
+        {
+          "name": "Surging Torrent",
+          "Portrait_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "Splash_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "script": "Yi-Sun-shin-Apocalypse-Agent-Surging-Torrent.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Roguish Ranger",
+      "Splash_url": "Yi-Sun-shin-Roguish-Ranger.png",
+      "script": "Yi-Sun-shin-Roguish-Ranger-Backup.zip",
+      "Portrait_url": "Yi-Sun-shin-Roguish-Ranger.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Major General",
+          "Portrait_url": "Yi-Sun-shin-Major-General.png",
+          "Splash_url": "Yi-Sun-shin-Major-General.png",
+          "script": "Yi-Sun-shin-Roguish-Ranger-Major-General.zip"
+        },
+        {
+          "name": "Apocalypse Agent",
+          "Portrait_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Roguish-Ranger-Apocalypse-Agent.zip"
+        },
+        {
+          "name": "Lone Destructor",
+          "Portrait_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "Splash_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "script": "Yi-Sun-shin-Roguish-Ranger-Lone-Destructor.zip"
+        },
+        {
+          "name": "Azure Sentry",
+          "Portrait_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "Splash_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "script": "Yi-Sun-shin-Roguish-Ranger-Azure-Sentry.zip"
+        },
+        {
+          "name": "Fleet Warden",
+          "Portrait_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "Splash_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "script": "Yi-Sun-shin-Roguish-Ranger-Fleet-Warden.zip"
+        },
+        {
+          "name": "Surging Torrent",
+          "Portrait_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "Splash_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "script": "Yi-Sun-shin-Roguish-Ranger-Surging-Torrent.zip"
+        },
+        {
+          "name": "Tactical Specialist",
+          "Portrait_url": "Yi-Sun-shin-Tactical-Specialist.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Roguish-Ranger-Tactical-Specialist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Lone Destructor",
+      "Splash_url": "Yi-Sun-shin-Lone-Destructor.png",
+      "script": "Yi-Sun-shin-Lone-Destructor-Backup.zip",
+      "Portrait_url": "Yi-Sun-shin-Lone-Destructor.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Major General",
+          "Portrait_url": "Yi-Sun-shin-Major-General.png",
+          "Splash_url": "Yi-Sun-shin-Major-General.png",
+          "script": "Yi-Sun-shin-Lone-Destructor-Major-General.zip"
+        },
+        {
+          "name": "Apocalypse Agent",
+          "Portrait_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Lone-Destructor-Apocalypse-Agent.zip"
+        },
+        {
+          "name": "Roguish Ranger",
+          "Portrait_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "Splash_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "script": "Yi-Sun-shin-Lone-Destructor-Roguish-Ranger.zip"
+        },
+        {
+          "name": "Azure Sentry",
+          "Portrait_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "Splash_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "script": "Yi-Sun-shin-Lone-Destructor-Azure-Sentry.zip"
+        },
+        {
+          "name": "Fleet Warden",
+          "Portrait_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "Splash_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "script": "Yi-Sun-shin-Lone-Destructor-Fleet-Warden.zip"
+        },
+        {
+          "name": "Surging Torrent",
+          "Portrait_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "Splash_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "script": "Yi-Sun-shin-Lone-Destructor-Surging-Torrent.zip"
+        },
+        {
+          "name": "Tactical Specialist",
+          "Portrait_url": "Yi-Sun-shin-Tactical-Specialist.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Lone-Destructor-Tactical-Specialist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Azure Sentry",
+      "Splash_url": "Yi-Sun-shin-Azure-Sentry.png",
+      "script": "Yi-Sun-shin-Azure-Sentry-Backup.zip",
+      "Portrait_url": "Yi-Sun-shin-Azure-Sentry.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Major General",
+          "Portrait_url": "Yi-Sun-shin-Major-General.png",
+          "Splash_url": "Yi-Sun-shin-Major-General.png",
+          "script": "Yi-Sun-shin-Azure-Sentry-Major-General.zip"
+        },
+        {
+          "name": "Apocalypse Agent",
+          "Portrait_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Azure-Sentry-Apocalypse-Agent.zip"
+        },
+        {
+          "name": "Roguish Ranger",
+          "Portrait_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "Splash_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "script": "Yi-Sun-shin-Azure-Sentry-Roguish-Ranger.zip"
+        },
+        {
+          "name": "Lone Destructor",
+          "Portrait_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "Splash_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "script": "Yi-Sun-shin-Azure-Sentry-Lone-Destructor.zip"
+        },
+        {
+          "name": "Fleet Warden",
+          "Portrait_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "Splash_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "script": "Yi-Sun-shin-Azure-Sentry-Fleet-Warden.zip"
+        },
+        {
+          "name": "Surging Torrent",
+          "Portrait_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "Splash_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "script": "Yi-Sun-shin-Azure-Sentry-Surging-Torrent.zip"
+        },
+        {
+          "name": "Tactical Specialist",
+          "Portrait_url": "Yi-Sun-shin-Tactical-Specialist.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Azure-Sentry-Tactical-Specialist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Fleet Warden",
+      "Splash_url": "Yi-Sun-shin-Fleet-Warden.png",
+      "script": "Yi-Sun-shin-Fleet-Warden-Backup.zip",
+      "Portrait_url": "Yi-Sun-shin-Fleet-Warden.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Major General",
+          "Portrait_url": "Yi-Sun-shin-Major-General.png",
+          "Splash_url": "Yi-Sun-shin-Major-General.png",
+          "script": "Yi-Sun-shin-Fleet-Warden-Major-General.zip"
+        },
+        {
+          "name": "Apocalypse Agent",
+          "Portrait_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Fleet-Warden-Apocalypse-Agent.zip"
+        },
+        {
+          "name": "Roguish Ranger",
+          "Portrait_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "Splash_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "script": "Yi-Sun-shin-Fleet-Warden-Roguish-Ranger.zip"
+        },
+        {
+          "name": "Lone Destructor",
+          "Portrait_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "Splash_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "script": "Yi-Sun-shin-Fleet-Warden-Lone-Destructor.zip"
+        },
+        {
+          "name": "Azure Sentry",
+          "Portrait_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "Splash_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "script": "Yi-Sun-shin-Fleet-Warden-Azure-Sentry.zip"
+        },
+        {
+          "name": "Surging Torrent",
+          "Portrait_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "Splash_url": "Yi-Sun-shin-Surging-Torrent.png",
+          "script": "Yi-Sun-shin-Fleet-Warden-Surging-Torrent.zip"
+        },
+        {
+          "name": "Tactical Specialist",
+          "Portrait_url": "Yi-Sun-shin-Tactical-Specialist.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Fleet-Warden-Tactical-Specialist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Surging Torrent",
+      "Splash_url": "Yi-Sun-shin-Surging-Torrent.png",
+      "script": "Yi-Sun-shin-Surging-Torrent-Backup.zip",
+      "Portrait_url": "Yi-Sun-shin-Surging-Torrent.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Major General",
+          "Portrait_url": "Yi-Sun-shin-Major-General.png",
+          "Splash_url": "Yi-Sun-shin-Major-General.png",
+          "script": "Yi-Sun-shin-Surging-Torrent-Major-General.zip"
+        },
+        {
+          "name": "Apocalypse Agent",
+          "Portrait_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Surging-Torrent-Apocalypse-Agent.zip"
+        },
+        {
+          "name": "Roguish Ranger",
+          "Portrait_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "Splash_url": "Yi-Sun-shin-Roguish-Ranger.png",
+          "script": "Yi-Sun-shin-Surging-Torrent-Roguish-Ranger.zip"
+        },
+        {
+          "name": "Lone Destructor",
+          "Portrait_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "Splash_url": "Yi-Sun-shin-Lone-Destructor.png",
+          "script": "Yi-Sun-shin-Surging-Torrent-Lone-Destructor.zip"
+        },
+        {
+          "name": "Azure Sentry",
+          "Portrait_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "Splash_url": "Yi-Sun-shin-Azure-Sentry.png",
+          "script": "Yi-Sun-shin-Surging-Torrent-Azure-Sentry.zip"
+        },
+        {
+          "name": "Fleet Warden",
+          "Portrait_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "Splash_url": "Yi-Sun-shin-Fleet-Warden.png",
+          "script": "Yi-Sun-shin-Surging-Torrent-Fleet-Warden.zip"
+        },
+        {
+          "name": "Tactical Specialist",
+          "Portrait_url": "Yi-Sun-shin-Tactical-Specialist.png",
+          "Splash_url": "Yi-Sun-shin-Apocalypse-Agent.png",
+          "script": "Yi-Sun-shin-Surging-Torrent-Tactical-Specialist.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-satou-kazuma",
+      "portrait_file": "Yi Shun Shin - Satou Kazuma.png",
+      "script_file": "Yi-Shun-Shin-Satou-Kazuma.zip",
+      "skin_name": "Satou Kazuma",
+      "splash_file": "Yi Shun Shin - Satou Kazuma.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 30,
+    "name": "Yi Sun-shin",
+    "roles": [
+      "Assassin",
+      "Marksman"
+    ],
+    "slug": "yi-sun-shin"
+  },
+  "release_tag": "custom-yi-shun-shin",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

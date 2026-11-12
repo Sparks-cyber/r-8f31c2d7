@@ -1,0 +1,125 @@
+{
+  "catalog_version": "2026.11.07.visual-fix-v1",
+  "data": [
+    {
+      "enabled": true,
+      "id": "alpha-backup",
+      "portrait_file": "Alpha-Default.png",
+      "script_file": "Alpha-Backup.zip",
+      "skin_name": "Blade of Enmity",
+      "splash_file": "Alpha-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-onimusha-commander",
+      "portrait_file": "Alpha-Onimusha-Commander.png",
+      "script_file": "Alpha-Onimusha-Commander.zip",
+      "skin_name": "Onimusha Commander",
+      "splash_file": "Alpha-Onimusha-Commander.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-fierce-dragon",
+      "portrait_file": "Alpha-Fierce-Dragon.png",
+      "script_file": "Alpha-Fierce-Dragon.zip",
+      "skin_name": "Fierce Dragon",
+      "splash_file": "Alpha-Fierce-Dragon.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-sea-gladiator",
+      "portrait_file": "Alpha-Sea-Gladiator.png",
+      "script_file": "Alpha-Sea-Gladiator.zip",
+      "skin_name": "Sea Gladiator",
+      "splash_file": "Alpha-Sea-Gladiator.png",
+      "tag_id": "s6",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-crimson-warrior",
+      "portrait_file": "Alpha-Crimson-Warrior.png",
+      "script_file": "Alpha-Crimson-Warrior.zip",
+      "skin_name": "Crimson Warrior",
+      "splash_file": "Alpha-Crimson-Warrior.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-general-void",
+      "portrait_file": "Alpha-General-Void.png",
+      "script_file": "Alpha-General-Void.zip",
+      "skin_name": "General Void",
+      "splash_file": "Alpha-General-Void.png",
+      "tag_id": "abyss",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-star-enforcer",
+      "portrait_file": "Alpha-Star-Enforcer.png",
+      "script_file": "Alpha-Star-Enforcer.zip",
+      "skin_name": "Star Enforcer",
+      "splash_file": "Alpha-Star-Enforcer.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-mecha-king-perseus",
+      "portrait_file": "Alpha-Mecha-King-Perseus.png",
+      "script_file": "Alpha-Mecha-King-Perseus.zip",
+      "skin_name": "Mecha-King Perseus",
+      "splash_file": "Alpha-Mecha-King-Perseus.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-revenant-of-roses",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      },
+      "portrait_file": "Alpha-Revenant-of-Roses.png",
+      "script_file": "Alpha-Revenant-of-Roses.zip",
+      "skin_name": "Revenant of Roses",
+      "splash_file": "Alpha-Revenant-of-Roses.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-galactic-enforcer",
+      "portrait_file": "Alpha-Galactic-Enforcer.png",
+      "script_file": "Alpha-Galactic-Enforcer.zip",
+      "skin_name": "Galactic Enforcer",
+      "splash_file": "Alpha-Galactic-Enforcer.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 28,
+    "name": "Alpha",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "alpha"
+  },
+  "release_tag": "visual-alpha",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

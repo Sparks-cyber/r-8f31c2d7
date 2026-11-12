@@ -1,0 +1,96 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "xavier-backup",
+      "portrait_file": "Xavier-Default.png",
+      "script_file": "Xavier-Backup.zip",
+      "skin_name": "Defier of Light",
+      "splash_file": "Xavier-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "xavier-verdict-of-light",
+      "portrait_file": "Xavier-Verdict-of-Light.png",
+      "script_file": "Xavier-Verdict-of-Light.zip",
+      "skin_name": "Verdict of Light",
+      "splash_file": "Xavier-Verdict-of-Light.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "xavier-satoru-gojo",
+      "portrait_file": "Xavier-Satoru-Gojo.png",
+      "script_file": "Xavier-Satoru-Gojo.zip",
+      "skin_name": "Satoru Gojo",
+      "splash_file": "Xavier-Satoru-Gojo.png",
+      "tag_id": "jujutsu-kaisen",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "xavier-hardlight-artificer",
+      "portrait_file": "Xavier-Hardlight-Artificer.png",
+      "script_file": "Xavier-Hardlight-Artificer.zip",
+      "skin_name": "Hardlight Artificer",
+      "splash_file": "Xavier-Hardlight-Artificer.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "xavier-beyond-the-clouds-xavier",
+      "portrait_file": "Xavier-Beyond-the-Clouds.png",
+      "script_file": "Xavier-Beyond-the-Clouds-Xavier.zip",
+      "skin_name": "Beyond the Clouds Xavier",
+      "splash_file": "Xavier-Beyond-the-Clouds-Xavier.png",
+      "tag_id": "beyond-the-clouds",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "xavier-sunborn-monarch",
+      "portrait_file": null,
+      "script_file": null,
+      "skin_name": "Sunborn Monarch",
+      "splash_file": "Xavier-Sunborn-Monarch.png",
+      "tag_id": "special",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "xavier-lightwave-artificer",
+      "portrait_file": "Xavier-Lightwave-Artificer.png",
+      "script_file": "Xavier-Lightwave-Artificer.zip",
+      "skin_name": "Lightwave Artificer",
+      "splash_file": "Xavier-Lightwave-Artificer.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "xavier-holotech-artificer-painted-02",
+      "portrait_file": "Xavier-Holotech-Artificer.png",
+      "script_file": "Xavier-Holotech-Artificer.zip",
+      "skin_name": "Holotech Artificer",
+      "splash_file": "Xavier - Holotech Artificer.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 115,
+    "name": "Xavier",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "xavier"
+  },
+  "release_tag": "visual-xavier",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

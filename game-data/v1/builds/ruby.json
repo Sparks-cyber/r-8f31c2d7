@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 29,
+    "slug": "ruby",
+    "name": "Ruby"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "ruby-community-6061",
+      "name": "Community Build 6061",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "waraxe",
+        "queenswings",
+        "bruteforcebreastplate",
+        "seahalberd",
+        "oracle"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "rupture",
+        "festivalofblood",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Good for early mid and late game, it provides good healing, survivability and damage whilst being able to dominate, just make sure to not feed the enemy.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6061,
+      "source_created_at": "2026-02-27T00:43:14.000Z",
+      "likes": 8,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "ruby-community-6277",
+      "name": "Community Build 6277",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "magicboots",
+        "waraxe",
+        "bladeofdespair",
+        "endlessbattle",
+        "queenswings",
+        "maleficroar"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "temporalreign"
+      ],
+      "situational_items": [],
+      "notes": "red as ruby, exp, flicker",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6277,
+      "source_created_at": "2026-03-06T20:32:48.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "ruby-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

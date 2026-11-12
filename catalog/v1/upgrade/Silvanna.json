@@ -1,0 +1,599 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Silvanna",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Hallowed Lance",
+      "Splash_url": "Silvanna-Hallowed-Lance.png",
+      "script": "Silvanna-Hallowed-Lance-Backup.zip",
+      "Portrait_url": "Silvanna-Hallowed-Lance.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Hallowed-Lance-Midnight-Justice.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Hallowed-Lance-Pure-Heroine.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Hallowed-Lance-Queen-Frost.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Hallowed-Lance-Future-Cop.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Hallowed-Lance-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Hallowed-Lance-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Hallowed-Lance-Classroom-Charm.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Hallowed-Lance-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Hallowed-Lance-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Midnight Justice",
+      "Splash_url": "Silvanna-Midnight-Justice.png",
+      "script": "Silvanna-Midnight-Justice-Backup.zip",
+      "Portrait_url": "Silvanna-Midnight-Justice.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Midnight-Justice-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Midnight-Justice-Pure-Heroine.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Midnight-Justice-Queen-Frost.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Midnight-Justice-Future-Cop.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Midnight-Justice-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Midnight-Justice-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Midnight-Justice-Classroom-Charm.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Midnight-Justice-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Midnight-Justice-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Pure Heroine",
+      "Splash_url": "Silvanna-Pure-Heroine.png",
+      "script": "Silvanna-Pure-Heroine-Backup.zip",
+      "Portrait_url": "Silvanna-Pure-Heroine.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Pure-Heroine-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Pure-Heroine-Midnight-Justice.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Pure-Heroine-Queen-Frost.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Pure-Heroine-Future-Cop.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Pure-Heroine-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Pure-Heroine-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Pure-Heroine-Classroom-Charm.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Pure-Heroine-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Pure-Heroine-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Queen Frost",
+      "Splash_url": "Silvanna-Queen-Frost.png",
+      "script": "Silvanna-Queen-Frost-Backup.zip",
+      "Portrait_url": "Silvanna-Queen-Frost.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Queen-Frost-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Queen-Frost-Midnight-Justice.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Queen-Frost-Pure-Heroine.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Queen-Frost-Future-Cop.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Queen-Frost-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Queen-Frost-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Queen-Frost-Classroom-Charm.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Queen-Frost-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Queen-Frost-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Future Cop",
+      "Splash_url": "Silvanna-Future-Cop.png",
+      "script": "Silvanna-Future-Cop-Backup.zip",
+      "Portrait_url": "Silvanna-Future-Cop.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Future-Cop-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Future-Cop-Midnight-Justice.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Future-Cop-Pure-Heroine.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Future-Cop-Queen-Frost.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Future-Cop-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Future-Cop-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Future-Cop-Classroom-Charm.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Future-Cop-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Future-Cop-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Verdant Lancer",
+      "Splash_url": "Silvanna-Verdant-Lancer.png",
+      "script": "Silvanna-Verdant-Lancer-Backup.zip",
+      "Portrait_url": "Silvanna-Verdant-Lancer.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Verdant-Lancer-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Verdant-Lancer-Midnight-Justice.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Verdant-Lancer-Pure-Heroine.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Verdant-Lancer-Queen-Frost.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Verdant-Lancer-Future-Cop.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Verdant-Lancer-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Verdant-Lancer-Classroom-Charm.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Verdant-Lancer-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Verdant-Lancer-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Alluring Mystique",
+      "Splash_url": "Silvanna-Alluring-Mystique.png",
+      "script": "Silvanna-Alluring-Mystique-Backup.zip",
+      "Portrait_url": "Silvanna-Alluring-Mystique.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Alluring-Mystique-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Alluring-Mystique-Midnight-Justice.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Alluring-Mystique-Pure-Heroine.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Alluring-Mystique-Queen-Frost.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Alluring-Mystique-Future-Cop.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Alluring-Mystique-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Alluring-Mystique-Classroom-Charm.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Alluring-Mystique-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Alluring-Mystique-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Classroom Charm",
+      "Splash_url": "Silvanna-Classroom-Charm.png",
+      "script": "Silvanna-Classroom-Charm-Backup.zip",
+      "Portrait_url": "Silvanna-Classroom-Charm.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Classroom-Charm-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Classroom-Charm-Midnight-Justice.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Classroom-Charm-Pure-Heroine.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Classroom-Charm-Queen-Frost.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Classroom-Charm-Future-Cop.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Classroom-Charm-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Classroom-Charm-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Meowkin Warden",
+          "Portrait_url": "Silvanna-Meowkin-Warden.png",
+          "Splash_url": "Silvanna-Meowkin-Warden.png",
+          "script": "Silvanna-Classroom-Charm-Meowkin-Warden.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Classroom-Charm-Classroom-Glam.zip"
+        }
+      ]
+    },
+    {
+      "name": "Mystic Meow",
+      "Default_name": "Meowkin Warden",
+      "Splash_url": "Silvanna-Meowkin-Warden.png",
+      "script": "Silvanna-Meowkin-Warden-Backup.zip",
+      "Portrait_url": "Silvanna-Meowkin-Warden.png",
+      "Tags": [
+        "Mystic Meow.png"
+      ],
+      "targets": [
+        {
+          "name": "Hallowed Lance",
+          "Portrait_url": "Silvanna-Hallowed-Lance.png",
+          "Splash_url": "Silvanna-Hallowed-Lance.png",
+          "script": "Silvanna-Meowkin-Warden-Hallowed-Lance.zip"
+        },
+        {
+          "name": "Midnight Justice",
+          "Portrait_url": "Silvanna-Midnight-Justice.png",
+          "Splash_url": "Silvanna-Midnight-Justice.png",
+          "script": "Silvanna-Meowkin-Warden-Midnight-Justice.zip"
+        },
+        {
+          "name": "Pure Heroine",
+          "Portrait_url": "Silvanna-Pure-Heroine.png",
+          "Splash_url": "Silvanna-Pure-Heroine.png",
+          "script": "Silvanna-Meowkin-Warden-Pure-Heroine.zip"
+        },
+        {
+          "name": "Queen Frost",
+          "Portrait_url": "Silvanna-Queen-Frost.png",
+          "Splash_url": "Silvanna-Queen-Frost.png",
+          "script": "Silvanna-Meowkin-Warden-Queen-Frost.zip"
+        },
+        {
+          "name": "Future Cop",
+          "Portrait_url": "Silvanna-Future-Cop.png",
+          "Splash_url": "Silvanna-Future-Cop.png",
+          "script": "Silvanna-Meowkin-Warden-Future-Cop.zip"
+        },
+        {
+          "name": "Verdant Lancer",
+          "Portrait_url": "Silvanna-Verdant-Lancer.png",
+          "Splash_url": "Silvanna-Verdant-Lancer.png",
+          "script": "Silvanna-Meowkin-Warden-Verdant-Lancer.zip"
+        },
+        {
+          "name": "Alluring Mystique",
+          "Portrait_url": "Silvanna-Alluring-Mystique.png",
+          "Splash_url": "Silvanna-Alluring-Mystique.png",
+          "script": "Silvanna-Meowkin-Warden-Alluring-Mystique.zip"
+        },
+        {
+          "name": "Classroom Charm",
+          "Portrait_url": "Silvanna-Classroom-Charm.png",
+          "Splash_url": "Silvanna-Classroom-Charm.png",
+          "script": "Silvanna-Meowkin-Warden-Classroom-Charm.zip"
+        },
+        {
+          "name": "Classroom Glam",
+          "Portrait_url": "Silvanna-Classroom-Glam.png",
+          "Splash_url": "Silvanna - Classroom Glam.jpg",
+          "script": "Silvanna-Meowkin-Warden-Classroom-Glam.zip"
+        }
+      ]
+    }
+  ]
+}

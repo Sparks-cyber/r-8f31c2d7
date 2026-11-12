@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 90,
+    "slug": "silvanna",
+    "name": "Silvanna",
+    "skin_name": "Imperial Knightess",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Initiator",
+      "Magic Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "17 December 2019",
+    "resource": "Mana",
+    "short_description": "Princess of the Moniyan Empire and queen regent.",
+    "brief": "The princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers.",
+    "story": "The prince had gone missing and no one knew if he were dead or alive! For the sake of the country and the safety of its people, King Aurelius II had decreed to expand the Imperial Knight's Order and set up fortresses within the outskirts of Moniyan, to reinforce the empire's defense. In the meantime, the Imperial Knights continued their search for any clues or whereabouts of the prince. The Imperial Knight's searched day after night. They had almost crossed the entire Land of Dawn, but all they could find was endless waiting. The Aurelius royal family was drowning in sorrow. To young Silvanna, the tragic memory of that time was too heavy. As a princess, Silvanna had always had a heart of justice and compassion since she was little. After her brother's disappearance, she had been keeping the queen's company almost every day. For years, the two of them had been waiting for a miracle to happen in the Imperial castle. However, waiting, day after day, and year after year later the queen eventually became ill and bedridden from physical and mental exhaustion.\r\n\r\nTen years had passed after the tragic event. As the queen and the king got old, Princess Silvanna, who had grown into a fine adult, had always wanted to do something for her empire. She wanted to let go of the sorrow, but whenever she thought of her brother, the sadness and frustration always came back to her. Every night in her dream, Silvanna felt like her brother was within reach, but she just couldn't seem to hold him. Shortly afterward, on the day of Silvanna's coming-of-age ceremony, she decided to disregard her status as a princess and join the Imperial Knights. Perhaps this was the only way for her to bear the pain! In the Knight’s Order, Silvanna would have to go through tough training. She would no longer be treated like a royal. Silvanna possessed strong faith and worked harder than the others. Her faith had made her more and more powerful. All the scars on her body were the best proof on her path to training. Before long, she had become the most powerful female knight among the Imperial Knights. But even then, Silvanna still couldn’t get Tigreal special approval. Tigreal knew the cruelty of the real battlefield and how there' was no room for any mistake. Deep down, Tigreal saw that Silvanna had already acquired all the skills of a knight. He could also see Silvanna's determination. But she was a royal of the empire after all. Tigreal didn't want another successor of the empire to be at any risk again.\r\n\r\nBut one day, all of a sudden, the Demon army had arrived on the outskirts of the empire… Moniyan was in the face of disaster and war. Tigreal ordered Silvanna to stay in the empire while he leads the whole Knight’s Order to battle.\r\n\r\nHalfway through, Tigreal received a report from the Knight’s Order that in order to prove herself, Silvanna had broken the forbidden area, the Imperial Sanctuary, where countless unknown creatures lurk. Even Tigreal himself didn't have the confidence to go through it unharmed. At this moment, a sharp cry came from a distance, making Tigreal shudder. He immediately leads the elites of the Knight’s Order back to the Imperial Sanctuary while the rest of the knights marched to the outskirts of the empire to fight the Demons. On his way, he prayed that he could make it in time. He prayed that his fear should not come true.\r\n\r\nIn front of the gods of the Imperial Sanctuary, a giant figure was slowly approaching the wounded knightess. The Seed of Light was glowing in the distance and her powerful opponent was approaching. In the imperial records, Silvanna once read about a legend about the Seed of Light in the Imperial Sanctuary. But the powerful creature that guards the Seed of Light in front of her has become an obstacle she couldn't overcome. But Silvanna knew that only when she was shielded by the Lord of Light could she truly become the Holy Knightess and lead the empire to victory in the battle. And for that reason, she was willing to sacrifice her life…",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 4,
+    "control": 7,
+    "difficulty": 2
+  },
+  "attributes": {
+    "health": 2650,
+    "health_growth": 212,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.4429,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 126,
+    "physical_attack_growth": 9.21,
+    "magic_power": 0,
+    "physical_defense": 22,
+    "physical_defense_growth": 4.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.14,
+    "attack_speed_growth": 0.03,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 255,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Silvanna0",
+      "name": "Knightess' Resolve",
+      "description": "Silvanna's Basic Attacks deal 25<scaleAD> (+45% Total Physical Attack)</scaleAD> <scaleAP>(+75% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.<br/>Silvanna's attacks apply a mark on enemy heroes for 5s on hit, each mark reducing their Physical &amp; Magic Defense by 3-6 (up to 5 stacks).<br/>Silvanna's skills and Basic Attacks deal 30% extra damage to enemy heroes with the max number of marks.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a659e353c870bc077564afaaf4d8c2c.png",
+      "video_url": null
+    },
+    {
+      "id": "Silvanna1",
+      "name": "Cometic Lance",
+      "description": "Silvanna dashes forward. Upon reaching the max range or hitting a non-Minion enemy, she swings her lance, dealing 250/280/310/340/370/400<scaleAP> (+100% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies and stunning them for 1s.",
+      "flavor_text": null,
+      "cost": "70/78/86/94/102/110",
+      "cooldown": "11/10.6/10.2/9.8/9.4/9",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbeca4aa319bdc1e24af7f53f6e6f8b9.png",
+      "video_url": null
+    },
+    {
+      "id": "Silvanna2",
+      "name": "Spiral Strangling",
+      "description": "Silvanna thrusts her lance in the target direction and spins it 6 times while gaining a 350/380/410/440/470/500<scaleAP> (+150% Total Magic Power)</scaleAP> shield. Each spin deals 165/183/201/219/237/255<scaleAP> (+45% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and slightly pulls targets toward the center. Silvanna spins 1 additional time for every 50% of extra Attack Speed she possesses.<br/><br/>The skill deals only 50% damage against Minions.<br/><br/><highlight>Spiral Strangling</highlight> counts as a Basic Attack but cannot Crit.",
+      "flavor_text": null,
+      "cost": "35/40/45/50/55/60",
+      "cooldown": "5.5/5.3/5.1/4.9/4.7/4.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 45.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e72b0d82cfd40062ad9bb1485232b91f.png",
+      "video_url": null
+    },
+    {
+      "id": "Silvanna3",
+      "name": "Imperial Justice",
+      "description": "Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing 350/500/650<scaleAP> (+110% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in the area, slowing them by 40% for 1.5s, and restraining the closest enemy hero to the area for 3.5s. (This skill cannot be interrupted.)<br/><br/>Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.",
+      "flavor_text": null,
+      "cost": "130/140/150",
+      "cooldown": "52/48/44",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef133226f4bc7ef8b815463980daa1a6.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Silvanna0",
+      "sequence": "Silvanna3-Silvanna1-Silvanna2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Silvanna can control back-row enemies with her Ultimate\nand then stun them with her 1st Skill. Finally, she can deal damage with her 2nd Skill and Basic Attacks."
+    },
+    {
+      "id": "Silvanna1",
+      "sequence": "Silvanna2-Silvanna1-Silvanna1-Silvanna3-AA",
+      "name": "LANING COMBOS",
+      "description": "Silvanna can poke enemies with her 2nd Skill and use her 1st Skill to close the distance once they're low on HP. Then, she can control them and finish them off with her Ultimate."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Pairing Silvanna with Tanks gives her sufficient space to dish out damage.\nFor example, Atlas and Tigreal.",
+      "heroes": [
+        {
+          "id": 93,
+          "slug": "atlas",
+          "name": "Atlas"
+        },
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Silvanna has a long attack range and powerful crowd control abilities,which makes her stronger against back-row Mages and Marksmen,such as Layla and Valir.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 57,
+          "slug": "valir",
+          "name": "Valir"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "But she can be weak against Fighters with multiple CCs\nlike Martis because they can easily interrupt her 2nd Skill.",
+      "heroes": [
+        {
+          "id": 58,
+          "slug": "martis",
+          "name": "Martis"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Silvanna-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Silvanna-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9de8642b6e62f44652c519f153620d2.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9de8642b6e62f44652c519f153620d2.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/silvanna.json",
+    "visual_catalog": "catalog/v1/visual/silvanna.json",
+    "upgrade_catalog": "catalog/v1/upgrade/silvanna.json"
+  }
+}

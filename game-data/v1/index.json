@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "endpoints": {
+    "heroes": "game-data/v1/heroes.json",
+    "hero_detail": "game-data/v1/heroes/{slug}.json",
+    "hero_builds": "game-data/v1/builds/{slug}.json",
+    "build_schema": "game-data/v1/builds/schema.json",
+    "equipment": "game-data/v1/equipment.json",
+    "emblems": "game-data/v1/emblems.json",
+    "battle_spells": "game-data/v1/battle-spells.json",
+    "rankings": "game-data/v1/rankings.json",
+    "filters": "game-data/v1/filters.json"
+  },
+  "counts": {
+    "heroes": 133,
+    "equipment": 154,
+    "emblems": 7,
+    "battle_spells": 12,
+    "ranked_heroes": 0
+  }
+}

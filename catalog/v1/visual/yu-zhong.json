@@ -1,0 +1,96 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "yu-zhong-backup",
+      "portrait_file": "Yu-Zhong-Default.png",
+      "script_file": "Yu-Zhong-Backup.zip",
+      "skin_name": "Black Dragon",
+      "splash_file": "Yu-Zhong-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-emerald-dragon",
+      "portrait_file": "Yu-Zhong-Emerald-Dragon.png",
+      "script_file": "Yu-Zhong-Emerald-Dragon.zip",
+      "skin_name": "Emerald Dragon",
+      "splash_file": "Yu-Zhong-Emerald-Dragon.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-biohazard",
+      "portrait_file": "Yu-Zhong-Biohazard.png",
+      "script_file": "Yu-Zhong-Biohazard.zip",
+      "skin_name": "Biohazard",
+      "splash_file": "Yu-Zhong-Biohazard.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-blood-serpent",
+      "portrait_file": "Yu-Zhong-Blood-Serpent.png",
+      "script_file": "Yu-Zhong-Blood-Serpent.zip",
+      "skin_name": "Blood Serpent",
+      "splash_file": "Yu-Zhong-Blood-Serpent.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-exorcist-yu-zhong",
+      "portrait_file": "Yu-Zhong-Exorcist.png",
+      "script_file": "Yu-Zhong-Exorcist-Yu-Zhong.zip",
+      "skin_name": "Exorcist Yu Zhong",
+      "splash_file": "Yu-Zhong-Exorcist-Yu-Zhong.png",
+      "tag_id": "exorcists",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-dragon-s-shade",
+      "portrait_file": "Yu-Zhong-Dragon-s-Shade.png",
+      "script_file": "Yu-Zhong-Dragon-s-Shade.zip",
+      "skin_name": "Dragon's Shade",
+      "splash_file": "Yu-Zhong-Dragon-s-Shade.png",
+      "tag_id": "m5",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-cosmic-dragon",
+      "portrait_file": "Yu-Zhong-Cosmic-Dragon.png",
+      "script_file": "Yu-Zhong-Cosmic-Dragon.zip",
+      "skin_name": "Cosmic Dragon",
+      "splash_file": "Yu-Zhong-Cosmic-Dragon.png",
+      "tag_id": "prime",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-tidescale-sealord",
+      "portrait_file": "Yu-Zhong-Tidescale-Sealord.png",
+      "script_file": "Yu-Zhong-Tidescale-Sealord.zip",
+      "skin_name": "Tidescale Sealord",
+      "splash_file": "Yu-Zhong-Tidescale-Sealord.png",
+      "tag_id": "prime",
+      "tier": "exceptional"
+    }
+  ],
+  "hero": {
+    "id": 95,
+    "name": "Yu Zhong",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "yu-zhong"
+  },
+  "release_tag": "visual-yu-zhong",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

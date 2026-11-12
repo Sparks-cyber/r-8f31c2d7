@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "brody-choso",
+      "portrait_file": "Brody - Choso.png",
+      "script_file": "Brody-Choso.zip",
+      "skin_name": "Choso",
+      "splash_file": "Brody - Choso.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "brody-crimson-flames",
+      "portrait_file": "Brody - Crimson Flames.png",
+      "script_file": "Brody-Crimson-Flames.zip",
+      "skin_name": "Crimson Flames",
+      "splash_file": "Brody - Crimson Flames.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 100,
+    "name": "Brody",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "brody"
+  },
+  "release_tag": "custom-brody",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 110,
+    "slug": "valentina",
+    "name": "Valentina",
+    "skin_name": "Prophetess of the Night",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Burst",
+      "Finisher"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "25 November 2021",
+    "resource": "Mana",
+    "short_description": "Former head of House Paxley who'd stop at nothing to revive her lover.",
+    "brief": "In a battle against the Abyss' invasion, Valentina and her lover, Irlan, were betrayed by some members of House Paxley, which eventually caused Irlan to lose his soul. To revive her lover, Valentina made a deal with an Evil God and gained immortality in the power of shadow. Since then, she'd been hiding among the shadows, silently waiting for the appearance of the Heart of Anima–a broken piece from the Twilight Orb that was said to be the key to retrieving her lover's soul.",
+    "story": "House Paxley ruled over the regions near the Lantis Mountains in the south of the Moniyan Empire. Generations of the house had guarded these areas for the Empire, defending against the invasion of the Abyss with magic and swords.\n\nAs the house patriarch's eldest daughter, Valentina had been given high hopes since she was born. She underwent rigorous training and grew up into a proud perfectionist, the heir most qualified to lead this noble house.\n\nAs she grew older, she went to the frontier and helped the house repel wave after wave of invading demons.\n\nThe news of victories in Lantis Mountains became the only thing that could put the civilians' minds at ease. As a result, House Paxley rose quickly among the nobles, while Valentina became the youngest and only female member of the house council.\n\nIn search of allies, Valentina went alone to Moonlit Forest despite the Empire's prolonged hostility toward the Elves. The Elf King, Estes, refused Valentina's request, saying the Elves had no interest in humans' warfare. An Elf hero named Irlan, however, was moved by Valentina's sincere words. Unlike Estes, he believed with the fall of the human empire, the demise of Moonlit Forest would also be imminent.\n\nA few heated words were exchanged, after which Irlan followed Valentina out of Moonlit Forest with his friends.\n\nElves and humans had since fought alongside each other on the battlefields of the Lantis Mountains.\n\nAfter the days and nights spent with Valentina, putting their lives at risk, Irlan realized that he'd fallen desperately in love with her. But Valentina was at a loss when Irlan revealed his feelings for her: she'd always been taught that a noble lady shouldn't indulge herself in ridiculous romance, and she should marry someone of equal status for the interest of the house. Nonetheless, Irlan's passionate courtship awakened the feelings buried deep in Valentina's heart. She felt the wonderful joy of being loved for the very first time.\n\nJust when Valentina pretended to be untroubled but was actually unsure how to respond, Irlan seized the chance at the House Paxley election meeting and proposed that he was willing to fight under Valentina's command with the other Elves permanently, but on one condition: Valentina had to say yes to his marriage proposal.\n\nIrlan's suggestion perfectly solved the problem that'd been troubling Valentina. Now she could follow her heart and accept his feelings for the interest of the house. And so[,] they shared holy vows under the bright moonlight, and Valentina became the head of their house as the house cheered with joy. But among the cheering crowd, her uncle remained silent—the position should be his according to the house rules.\n\nWith the assistance of the Elves, House Paxley gained power with each day, and Valentina was conferred the title of 'Duchess' by the Moniyan Empire. And she also relied on Irlan who showered her with love. Having grown used to coming face to face with death, Valentina finally tasted the sweetness of life.\n\nBut that was when a disaster suddenly struck: after biding their time and gathering strength, the Abyss once again attacked the fief of House Paxley with strong troops. Before the Emperor's reinforcements arrived, House Paxley was left to fend on their own.\n\nFully aware the house's force was no match for the Abyss army, Valentina decided to resort to the last expedient—to assemble all the house mages and cast the \"Soul Casket\", a forbidden spell that, once completed, could create a deadly zone and devour all the souls of the living within. Even the demons wouldn't be spared.\n\nTo cover the mages preparing the spell in the back, Valentina and Irlan led the bravest warriors to the forefront, meeting the Abyss army head-on.\n\nThe battle began, and thousands of demons swarmed toward the Elves and humans like ocean waves. But the alliance stood firm like the toughest of rocks, letting waves of the Abyss troops come smashing themselves into smithereens.\n\nBut these courageous soldiers still fell one after another. Seeing this, Valentina grew more anxious awaiting the signal for the completion of the magic spell. Their plan was to withdraw from the battlefield with all their troops as soon as the signal came, so that the magic zone covering the front line would destroy the demon army all at once.\n\nHowever, Valentina suddenly noticed the symbol of Soul Casket appearing above the engaging armies, but the rear hadn't fired any withdrawal signal! Confused, she turned back only to find her own uncle and the mages sneering at her.\n\nKnowing that she'd been shamelessly betrayed, Valentina shouted for everyone to retreat immediately. At the last moment before the casket fell, Irlan exerted his last strength to push Valentina out of the zone, before falling on the battlefield as he lost his soul.\n\nThe Lantis Battle was thus put to an end, and the invincible legend of Valentina continued. But only Valentina herself knew what price she'd paid for the victory…\n\nThe duchess executed all those that betrayed her and escorted her loved one's body back to Castle Aberleen.\n\nShe built a sacred hall in commemoration of Irlan and the other martyrs and had since dedicated her life to searching for a way to bring back Irlan's soul. In this process, Valentina grew more and more desperate and eventually turned to black magic and awakened a trace of consciousness of the Evil God of Trickery—Kalon.\n\nKalon told Valentina about the miraculous powers of the Heart of Anima—a broken piece from the Twilight Orb, and tricked her into signing a blood pact with him. According to the blood pact, Valentina would gain immortality and the power of shadow, but at the price that since then, all souls of House Paxley were to be tainted by Kalon. And when his power truly awoke, he would be revived through a Paxley descendant.\n\nTo prevent Kalon's return, Valentina left a prophecy informing her descendants that if the Cursed One ever appeared, they must get rid of the person at all costs.\n\nSince then, Valentina had been hiding among the shadows, silently waiting for the appearance of the Heart of Anima, for the day her loved one's soul could be retrieved…",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 9,
+    "control": 8,
+    "difficulty": 8
+  },
+  "attributes": {
+    "health": 2500,
+    "health_growth": 185,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 6.43,
+    "magic_power": 0,
+    "physical_defense": 20,
+    "physical_defense_growth": 4.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 0.98,
+    "attack_speed_growth": 0.0093,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "Valentina0",
+      "name": "Primal Force",
+      "description": "Valentina gains 8-50 extra EXP each time she deals damage to an enemy hero. Cooldown: 2s. <br/>If the enemy hero's level isn't higher than Valentina's, 30% of the damage dealt is converted into her HP. The EXP scales with Valentina's level.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "2",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f2707973fdd30d201d53b1ff21d1a6c7.png",
+      "video_url": null
+    },
+    {
+      "id": "Valentina1",
+      "name": "Shadow Strike",
+      "description": "Valentina casts <highlight>Shadow Strike</highlight> in the target direction, dealing 475/520/565/610/655/700<scaleAP> (+145% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies hit and slowing them by 40% for 1s.<br/>Enemy heroes hit by <highlight>Shadow Strike</highlight> are marked with a Shadow Sigil for 4s and will be <physicalDamage>terrified</physicalDamage> for 1s when hit by <highlight>Shadow Strike</highlight> again within the duration (a unit can only be terrified once within 4s).",
+      "flavor_text": null,
+      "cost": "70/75/80/85/90/95",
+      "cooldown": "7/6.6/6.2/5.8/5.4/5",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 25.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b94bb62631a5dafb525050bffb68de7e.png",
+      "video_url": null
+    },
+    {
+      "id": "Valentina2",
+      "name": "Arcane Shade",
+      "description": "Valentina dashes in the target direction, firing 3 Shadow Bolts at nearby enemies that deal 90/108/126/144/162/180<scaleAP> (+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> each. Valentina can cast this skill again within 6s (costs Mana).<br/><br/>The cooldown of <highlight>Shadow Strike</highlight> is reduced by 1s each time a Shadow Bolt hits an enemy.",
+      "flavor_text": null,
+      "cost": "40/44/48/52/56/60",
+      "cooldown": "12",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 25.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69e8d02ef8e1ae83895754e670f63e2e.png",
+      "video_url": null
+    },
+    {
+      "id": "Valentina3",
+      "name": "I Am You",
+      "description": "Valentina slows the target enemy hero by 70% for 0.5s and gains the ability to cast their <highlight>Ultimate</highlight>. Casting the enemy's <highlight>Ultimate</highlight> turns Valentina into the enemy hero's form and allows her to inherit their Basic Attack type for up to 12s. Her skills remain unchanged unless the enemy's <highlight>Ultimate</highlight> has a <highlight>Morph</highlight> effect.<br/>The stolen <highlight>Ultimate</highlight>'s level will be equal to Valentina's <highlight>Ultimate</highlight> level and the Ultimate cooldown will be 120% of the target's Ultimate cooldown (but no lower than 10s). Valentina gains <scaleAP> (+100% Total Magic Power)</scaleAP> <scaleAD>Physical Attack</scaleAD> for the duration if the enemy is a Physical Damage hero. This cannot be used on an enemy Valentina.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "0",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee7ae2c3b2074399fa3cdb5e5271630e.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Valentina0",
+      "sequence": "Valentina3-Valentina2-Valentina1-Valentina2-Valentina1-Valentina3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Copy an Ultimate or use 2nd Skill for better positioning. Use 1st Skill and reset its cooldown with 2nd Skill, then Terrify the target and use her copied Ultimate to secure the kill."
+    },
+    {
+      "id": "Valentina1",
+      "sequence": "Valentina1-Valentina2-Valentina2-Valentina1",
+      "name": "LANING COMBOS",
+      "description": "Use 1st Skill to poke, then 2nd Skill to refresh its CD, and 1st Skill on the same enemy again to cause Terrify."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Heroes that can buff or CC such as Carmilla and Atlas to give her more opportunities to deal damage.",
+      "heroes": [
+        {
+          "id": 92,
+          "slug": "carmilla",
+          "name": "Carmilla"
+        },
+        {
+          "id": 93,
+          "slug": "atlas",
+          "name": "Atlas"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Heroes that lack mobility or burst such as Hanabi and Faramis are suspectible to Valentina's low cooldown skills that provide soft CC and sustained damage.",
+      "heroes": [
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        },
+        {
+          "id": 76,
+          "slug": "faramis",
+          "name": "Faramis"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Heroes with gap closers or high burst like Hayabusa, Natalia, and Hanzo.",
+      "heroes": [
+        {
+          "id": 21,
+          "slug": "hayabusa",
+          "name": "Hayabusa"
+        },
+        {
+          "id": 24,
+          "slug": "natalia",
+          "name": "Natalia"
+        },
+        {
+          "id": 69,
+          "slug": "hanzo",
+          "name": "Hanzo"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Valentina-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Valentina-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cdd151e2293c14b2abc3c1c8e57d4392.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cdd151e2293c14b2abc3c1c8e57d4392.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/valentina.json",
+    "visual_catalog": "catalog/v1/visual/valentina.json",
+    "upgrade_catalog": "catalog/v1/upgrade/valentina.json"
+  }
+}

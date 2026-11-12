@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 50,
+    "slug": "zhask",
+    "name": "Zhask",
+    "skin_name": "The King of Swarms",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "Vonetis Sea",
+    "release_date": "2017",
+    "resource": "Mana",
+    "short_description": "King of the Swarm who disrupts the balance of the universe.",
+    "brief": "Zhask expanded his swarm as he pleased in the universe, disrupting its balance in the process. Yve pursued him, but Zhask was able to escape every time. When he shuffled to the Land of Dawn and attempted to destroy it, he was hit hard by the resistance of  Aurora and Tobias, so he hibernated in Kastiya to recuperate. But at this time, Yve also arrived, so a dual was imminent.",
+    "story": "In the vast universe, there are countless unknown planets and mysterious regions.\r\n\r\nSome planets have been annihilated and forgotten, but some endure – like the planet of Kastiya.\r\n\r\nA long history can often create a great civilization, but this did not change the brutality in Kastiyan's genes. For countless epochs, the Swarm of Kastiya plundered and devoured to maintain the prosperity of their own race. The nature of the Swarm made them keen on endless encroachment and reproduction.\r\n\r\nAs the king of Kastiya, Zhask knew exactly what he and his race needed. The terrifying Swarm were able to follow Zhask's lead, appearing anywhere in the universe, and then devouring it all. The reproduction of the Swarm was more prolific than the continuation of any race. No planet in known history has ever been completely safe after being invaded by the Swarm - and the most terrifying thing was that the Swarm would never be completely wiped out.\r\n\r\nOf course, the Swarm of Kastiya also had their nemesis - Mithlora.\r\n\r\nMitilola was a mysterious region among the stars in the cosmos. The race living there was few in number, but naturally powerful. As one of the most advanced hunters in the universe and a strong race born with power, Mithlora was born to maintain the balance of the universe. Therefore, the Swarm, who could thrive almost anywhere, had to be dealt with.\r\n\r\nA veteran hunter from Mithlora destroyed Zhask's home Kastiya, but the Swarm could not be completely destroyed. In fact, after the destruction of their hometown, the Swarm headed by Zhask began to expand wildly and invade various other planets. They enjoyed the pleasure of plundering, the success of reproduction, but at the same time, they were being hunted by a new hunter - Yve from Mithlora.\r\n\r\nZhask was not afraid of this.\r\n\r\nOn the contrary, he enjoyed the fun of the chase. Even though Kastiya had already been reduced to dust in the universe, Zhask and his Swarm believed that any area in the starry sky may become the Kastiya II- so long as they never stop multiplying.\r\n\r\nWith great strength and cunning avoidance, Zhask caused Yve's hunts to fail countless times. Because of the\r\n\r\nSwarm's strong ability to reproduce, the planets that had been invaded had almost no power to fight back. The creatures on those planets quickly disappeared without a trace under Zhask's plunder, and the process of resistance was short and weak.\r\n\r\nAlthough those from Mithlora never needed help from others, the weakness of those planets did make Yve isolated to a certain extent. Every time Yve traced Zhask's trail, Zhask had already successfully completed his plundering and flown away. Even though Yve was fast enough, she was always a step behind Zhask.\r\n\r\nZhask was immersed in the pleasure of plundering. He enjoyed this kind of thrilling hunt and the endless slaughter. Even in the most thrilling times, Yve caught up with him and inflicted heavy damage on him, but he still escaped under the cover of the Swarm.\r\n\r\nThe scars on his body would not make Zhask stop his journey. He didn't even give himself breathing time, but once again passed through the gap in time and space and came to a new area.\r\n\r\nThis time, he came to the Land of Dawn.\r\n\r\nThe arrival of Zhask and the Swarm brought serious disasters to The Northern Vale on the Land of Dawn. Numerous villages and tribes were destroyed by the Swarm and the people were displaced. But the Land of Dawn was a land where heroes gathered. This time, Zhask encountered unprecedented resistance.\r\n\r\nThe young knight Tobias led his knights to fight Zhask and sacrificed his life for the peace of the land. His lover Aurora dealt Zhask a heavy blow.\r\n\r\nThis was the first time that Zhask had been badly hurt by anyone other than Yve. Injured, he could not escape from the Land of Dawn through the Chrono Rift, so he could only find a piece of land on this continent as a temporary stronghold to give him and his Swarm some respite. He never imagined that these seemingly fragile creatures would be so powerful.\r\n\r\nHe cultivated himself quietly, waiting for the right opportunity. But the situation was a bit tricky: Aurora, who in order to avenge his lover, guarded the Frozen Sea and never left for a minute, and the time and space fluctuations in the universe let Zhask know clearly – Yve would soon arrive.",
+    "recommended_skill_order": "4-1-2-3"
+  },
+  "ratings": {
+    "durability": 1,
+    "offense": 10,
+    "control": 4,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2380,
+    "health_growth": 141,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 107,
+    "physical_attack_growth": 7.21,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "Zhask0",
+      "name": "Decimation",
+      "description": "Upon death, Zhask summons a frenzied <highlight>Nightmaric Spawn</highlight> on the spot, which gradually loses HP over time until death.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 20.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c917fad570226db1fe802ef590ce37dc.png",
+      "video_url": null
+    },
+    {
+      "id": "Zhask1",
+      "name": "Nightmaric Spawn",
+      "description": "Zhask summons a <highlight>Nightmaric Spawn</highlight> that inherits 55/70/85/100% of his Attributes (HP, Hybrid Defense, and Magic Power). <highlight>Nightmaric Spawn</highlight> will automatically attack nearby enemies by firing a <highlight>Death Ray</highlight> at the target, dealing 55 (+<scaleHP>20% extra Attack Speed</scaleHP>) (+<scaleAP>20% Magic Power</scaleAP>) <magicDamage>Magic Damage</magicDamage> and slowing them by up to 30%. If Zhask is too far away from <highlight>Nightmaric Spawn</highlight>, it will disappear.<br/><highlight>Death Ray</highlight> is considered as a Basic Attack but cannot Crit.<br/><highlight>Fusion Enhanced</highlight>: The damage of <highlight>Nightmaric Spawn</highlight> is increased to 180%, and it can be repositioned.",
+      "flavor_text": null,
+      "cost": "60/70/80/90",
+      "cooldown": "13/12/11/10",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 20.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d3d9495ced41a0034c6ae2f3c8abb23.png",
+      "video_url": null
+    },
+    {
+      "id": "Zhask2",
+      "name": "Mind Eater",
+      "description": "Zhask fires a penetrating mental missile in the designated direction, dealing 300/380/460/540<scaleAP> (+100% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. Afterward, <highlight>Nightmaric Spawn</highlight> will attack enemies hit by <highlight>Mind Eater</highlight> for 120<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and stun them for 0.5s. <br/><br/><highlight>Fusion Enhanced</highlight>: Increases the damage dealt by <highlight>Mind Eater</highlight> by 540/685/830/975<scaleAP> (+180% Total Magic Power)</scaleAP>.",
+      "flavor_text": null,
+      "cost": "50/65/80/95",
+      "cooldown": "8",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4738fbff79c44b4aa3bd2bd943840032.png",
+      "video_url": null
+    },
+    {
+      "id": "Zhask3",
+      "name": "Hive Clones",
+      "description": "Zhask releases a swarm of <highlight>Hive Clones</highlight> in the targeted direction. The clones will explode and deal 55/70/85/100<scaleAP> (+18% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies on contact, reducing their Movement Speed by 80% for 1s. <br/>If <highlight>Hive Clones</highlight> find no target, they will burrow into the ground and ambush enemies passing by.<br/><highlight>Fusion Enhanced</highlight>: Zhask releases several swarms of <highlight>Hive Clones</highlight>.<br/>Subsequent damage dealt to the same target decays to 20%.",
+      "flavor_text": null,
+      "cost": "60/75/90/105",
+      "cooldown": "10",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47dcb2a530907fafc065d9363e941bae.png",
+      "video_url": null
+    },
+    {
+      "id": "Zhask4",
+      "name": "Dominator's Descent",
+      "description": "Zhask selects a designated position to summon <highlight>Nightmaric Spawn</highlight> and fuses with it. Nightmaric Spawn can inherit 100% of his attributes and get extra of them. His skills are enhanced during the fusion period.<br/><br/><highlight>Use Again</highlight>: Zhask immediately gets off <highlight>Nightmaric Spawn</highlight> and loses enhancement.",
+      "flavor_text": null,
+      "cost": "120/150/180",
+      "cooldown": "48/44/40",
+      "tags": [
+        {
+          "name": "Morph",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 36.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3174faca2ab0b0d6c0dd9d1af22f47df.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Zhask0",
+      "sequence": "Zhask1-Zhask4-Zhask2-Zhask3-AA-Zhask1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Zhask should start by summoning his Nightmaric Spawn in a suitable location and use his Ultimate to fuse with it, then unleash his enhanced 2nd and 3rd Skill to stun and damage enemies, and follow up with Basic Attacks. If the enemy tries to flee, use his enhanced 1st Skill to blink toward them."
+    },
+    {
+      "id": "Zhask1",
+      "sequence": "Zhask1-Zhask2-Zhask3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Zhask should start with his 1st Skill to summon a Nightmaric Spawn next to the enemy and follow up with his 2nd Skill to stun the target, then use his 3rd Skill for more damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Zhask works best with heroes that can lock down enemies so he can have more time to deal damage, like Belerick and Lolita.",
+      "heroes": [
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        },
+        {
+          "id": 20,
+          "slug": "lolita",
+          "name": "Lolita"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Zhask is strong against burst damage heroes like Aldous and Paquito because his high HP after fusing with his Nightmaric Spawn, makes him tough to burst down.",
+      "heroes": [
+        {
+          "id": 64,
+          "slug": "aldous",
+          "name": "Aldous"
+        },
+        {
+          "id": 103,
+          "slug": "paquito",
+          "name": "Paquito"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Zhask is countered by agile or long range heroes, such as Pharsa and Cecilion, because they can quickly step out of range of his immobile Nightmaric Spawn.",
+      "heroes": [
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        },
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zhask-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zhask-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6e99f11105dc89bff1932cd4b3809c12.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6e99f11105dc89bff1932cd4b3809c12.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/zhask.json",
+    "visual_catalog": "catalog/v1/visual/zhask.json",
+    "upgrade_catalog": "catalog/v1/upgrade/zhask.json"
+  }
+}

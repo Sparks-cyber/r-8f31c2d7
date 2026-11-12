@@ -1,0 +1,185 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Chang'e",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Moonstruck",
+      "Splash_url": "Chang-e-Moonstruck.png",
+      "script": "Chang-e-Moonstruck-Backup.zip",
+      "Portrait_url": "Chang-e-Moonstruck.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Moonstruck-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Floral Elfo",
+      "Splash_url": "Chang-e-Floral-Elfo.png",
+      "script": "Chang-e-Floral-Elfo-Backup.zip",
+      "Portrait_url": "Chang-e-Floral-Elfo.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Floral-Elfo-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Lunar Magic",
+      "Splash_url": "Chang-e-Lunar-Magic.png",
+      "script": "Chang-e-Lunar-Magic-Backup.zip",
+      "Portrait_url": "Chang-e-Lunar-Magic.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Lunar-Magic-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Strawberry Parfait",
+      "Splash_url": "Chang-e-Strawberry-Parfait.png",
+      "script": "Chang-e-Strawberry-Parfait-Backup.zip",
+      "Portrait_url": "Chang-e-Strawberry-Parfait.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Strawberry-Parfait-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Vine Cradle",
+      "Splash_url": "Chang-e-Vine-Cradle.png",
+      "script": "Chang-e-Vine-Cradle-Backup.zip",
+      "Portrait_url": "Chang-e-Vine-Cradle.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Vine-Cradle-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Sanrio",
+      "Default_name": "Moon Artist",
+      "Splash_url": "Chang-e-Moon-Artist.png",
+      "script": "Chang-e-Moon-Artist-Backup.zip",
+      "Portrait_url": "Chang-e-Moon-Artist.png",
+      "Tags": [
+        "Sanrio Characters.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Moon-Artist-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lunar Festival",
+      "Default_name": "New Moon",
+      "Splash_url": "Chang-e-New-Moon.png",
+      "script": "Chang-e-New-Moon-Backup.zip",
+      "Portrait_url": "Chang-e-New-Moon.png",
+      "Tags": [
+        "Lunar Fest.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-New-Moon-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Tech Tensai",
+      "Splash_url": "Chang-e-Tech-Tensai.png",
+      "script": "Chang-e-Tech-Tensai-Backup.zip",
+      "Portrait_url": "Chang-e-Tech-Tensai.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Tech-Tensai-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Moonglow Troupe",
+      "Splash_url": "Chang-e-Moonglow-Troupe.png",
+      "script": "Chang-e-Moonglow-Troupe-Backup.zip",
+      "Portrait_url": "Chang-e-Moonglow-Troupe.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Moonglow-Troupe-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Azure Moon Skin 11",
+      "Splash_url": "Chang-e-Azure-Moon.png",
+      "script": "Chang-e-Azure-Moon-Skin-11-Backup.zip",
+      "Portrait_url": "Chang-e-Azure-Moon.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Azure Moon Painted 01",
+          "Portrait_url": "Chang-e-Azure-Moon.png",
+          "Splash_url": "Chang-e-Crimson-Moon.png",
+          "script": "Chang-e-Azure-Moon-Skin-11-Azure-Moon-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

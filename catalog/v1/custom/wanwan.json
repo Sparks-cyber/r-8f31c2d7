@@ -1,0 +1,49 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "wanwan-exorcist",
+      "portrait_file": "Wanwan - Exorcist.png",
+      "script_file": "Wanwan-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Wanwan - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "wanwan-galaxy",
+      "portrait_file": "Wanwan - Galaxy.png",
+      "script_file": "Wanwan-Galaxy.zip",
+      "skin_name": "Galaxy",
+      "splash_file": "Wanwan - Galaxy.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "wanwan-stun",
+      "portrait_file": "Wanwan - Stun.png",
+      "script_file": "Wanwan-Stun.zip",
+      "skin_name": "Stun",
+      "splash_file": "Wanwan - Stun.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 89,
+    "name": "Wanwan",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "wanwan"
+  },
+  "release_tag": "custom-wanwan",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

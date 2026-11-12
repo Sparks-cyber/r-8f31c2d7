@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 112,
+    "slug": "floryn",
+    "name": "Floryn"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "floryn-community-6478",
+      "name": "Community Build 6478",
+      "lane": "Roam",
+      "equipment_ids": [
+        "demonboots",
+        "flaskoftheoasis",
+        "fleetingtime",
+        "glowingwand",
+        "holycrystal",
+        "enchantedtalisman"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "support",
+      "talent_ids": [
+        "inspire",
+        "pullyourselftogether",
+        "focusingmark"
+      ],
+      "situational_items": [],
+      "notes": "Massive heal by SG MRO top 1",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6478,
+      "source_created_at": "2026-03-13T15:46:15.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "floryn-community-6076",
+      "name": "Community Build 6076",
+      "lane": "Roam",
+      "equipment_ids": [
+        "demonboots",
+        "flaskoftheoasis",
+        "fleetingtime",
+        "glowingwand",
+        "holycrystal",
+        "bloodwings"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [
+        "agility",
+        "pullyourselftogether",
+        "focusingmark"
+      ],
+      "situational_items": [],
+      "notes": "Flicker= high rank/ revitilize= lower ranks when they don't try to target you or no heroes that can easily dive into ur backline.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6076,
+      "source_created_at": "2026-02-27T12:45:15.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "floryn-companion-baseline",
+      "name": "Companion Support Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

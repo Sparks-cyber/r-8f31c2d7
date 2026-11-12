@@ -1,0 +1,170 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "kagura-arcade",
+      "portrait_file": "Kagura - Arcade.png",
+      "script_file": "Kagura-Arcade.zip",
+      "skin_name": "Arcade",
+      "splash_file": "Kagura - Arcade.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-black-dragon",
+      "portrait_file": "Kagura - Black Dragon.png",
+      "script_file": "Kagura-Black-Dragon.zip",
+      "skin_name": "Black Dragon",
+      "splash_file": "Kagura - Black Dragon.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-butterfly-goddess",
+      "portrait_file": "Kagura - Butterfly Goddess.png",
+      "script_file": "Kagura-Butterfly-Goddess.zip",
+      "skin_name": "Butterfly Goddess",
+      "splash_file": "Kagura - Butterfly Goddess.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-collector",
+      "portrait_file": "Kagura - Collector.png",
+      "script_file": "Kagura-Collector.zip",
+      "skin_name": "Collector",
+      "splash_file": "Kagura - Collector.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-cyber-bunny",
+      "portrait_file": "Kagura - Cyber Bunny.png",
+      "script_file": "Kagura-Cyber-Bunny.zip",
+      "skin_name": "Cyber Bunny",
+      "splash_file": "Kagura - Cyber Bunny.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-divine-goddes",
+      "portrait_file": "Kagura - Divine Goddes.png",
+      "script_file": "Kagura-Divine-Goddes.zip",
+      "skin_name": "Divine Goddes",
+      "splash_file": "Kagura - Divine Goddes.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-dragon-of-love",
+      "portrait_file": "Kagura - Dragon Of Love.png",
+      "script_file": "Kagura-Dragon-Of-Love.zip",
+      "skin_name": "Dragon Of Love",
+      "splash_file": "Kagura - Dragon Of Love.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-kishin-densetsu",
+      "portrait_file": "Kagura - Kishin Densetsu.png",
+      "script_file": "Kagura-Kishin-Densetsu.zip",
+      "skin_name": "Kishin Densetsu",
+      "splash_file": "Kagura - Kishin Densetsu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-lady-crane",
+      "portrait_file": "Kagura - Lady Crane.png",
+      "script_file": "Kagura-Lady-Crane.zip",
+      "skin_name": "Lady Crane",
+      "splash_file": "Kagura - Lady Crane.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-lo-hong",
+      "portrait_file": "Kagura - Lo Hong.png",
+      "script_file": "Kagura-Lo-Hong.zip",
+      "skin_name": "Lo Hong",
+      "splash_file": "Kagura - Lo Hong.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-mujo-ice",
+      "portrait_file": "Kagura - Mujo Ice.png",
+      "script_file": "Kagura-Mujo-Ice.zip",
+      "skin_name": "Mujo Ice",
+      "splash_file": "Kagura - Mujo Ice.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-rainbow-flowers",
+      "portrait_file": "Kagura - Rainbow Flowers.png",
+      "script_file": "Kagura-Rainbow-Flowers.zip",
+      "skin_name": "Rainbow Flowers",
+      "splash_file": "Kagura - Rainbow Flowers.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-sanrio",
+      "portrait_file": "Kagura - Sanrio.png",
+      "script_file": "Kagura-Sanrio.zip",
+      "skin_name": "Sanrio",
+      "splash_file": "Kagura - Sanrio.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "kagura-skylark",
+      "portrait_file": "Kagura - Skylark.png",
+      "script_file": "Kagura-Skylark.zip",
+      "skin_name": "Skylark",
+      "splash_file": "Kagura - Skylark.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 25,
+    "name": "Kagura",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "kagura"
+  },
+  "release_tag": "custom-kagura",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

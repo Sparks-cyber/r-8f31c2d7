@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 99,
+    "slug": "barats",
+    "name": "Barats",
+    "skin_name": "Dino Rider",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Damage",
+      "Crowd Control"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "18 September 2020",
+    "resource": "Mana",
+    "short_description": "Adventurer riding a dragon lizard.",
+    "brief": "The Politans who live between Albata and the Moniyan Empire are very similar to mankind. They are small creatures, yet extraordinarily smart. These dwarfs built their homeland within a low mountain basin and are constantly obsessed with money and riches. Barats was born in such a Politan village, and he was born a naughty boy. Everyone in the village was annoyed by his trouble making nature. And such a childish personality didn't change even after Barats grew up. He had the same lust for money as his kind, but Barats hated learning and working. He would spend his entire day and free time, dreaming that he could miraculously get rich overnight.",
+    "story": "The Politans who live between Albata and the Moniyan Empire are very similar to mankind. They are small creatures, yet extraordinarily smart. These dwarfs built their homeland within a low mountain basin and are constantly obsessed with money and riches. Barats was born in such a Politan village, and he was born a naughty boy. Everyone in the village was annoyed by his trouble making nature. And such a childish personality didn't change even after Barats grew up. He had the same lust for money as his kind, but Barats hated learning and working. He would spend his entire day and free time, dreaming that he could miraculously get rich overnight.\r\n\r\nThe villagers disliked Barats for his laziness, and they were subsequently thinking about chasing him out. This greatly angered Barats, who as a result sneaked into the village's sacred place, stole a precious item which was believed to be holy by everyone, and fled the place. The thing he stole was a treasure map. With the guidance of that treasure map, Barats arrived at the distant Albata. However, upon his arrival, he was disappointed by the what he saw.\r\n\r\nThere was nothing in view but desert sands and desolate ruins. All the marked locations on the treasure map were now covered in sand dunes and where nowhere to be found. Barats didn't want to give up like this. He kept going forward in his search for the legendary Los Pecados. He wanted to try his luck there. But Barats lost his way along the journey. He hadn't eaten on drunk anything for days, and now he just lied on the ground, tired and waiting for death.\r\n\r\nBut it was at this moment that a small dragon lizard appeared in front of him and guided Barats to a water body. Maybe it was the gratitude he felt for it's help, maybe it was the same loneliness they shared together, or maybe it was just the fact that he needed a companion on his boring journey. Barats took this dragon lizard with him and agreed to put it on his backpack . Barats even named it Detona.\r\n\r\nWith Detona's company, Barats' adventure hunt was no longer lonely or dull. He would often share his ambition with this little guy, promising that he would impress everyone from his villager and do something truly amazing. As time went by, however, Barats was shocked by how fast and enormous this small lizard could grow into. It grew bigger and heavier every day and the pace of it's growth was unusually fast.\r\n\r\nOnly a few months had passed, but Detona had already grown much bigger than Barats. Barats was ecstatic and he would often ride on Detona's back and explore the desert. Together, they encountered and conquered many difficulties but unfortunately, the good times never last long. A sandstorm came out of nowhere, and Barats and Detona were separated by the gusting wind and the raging desert sands. They couldn't find each other.\r\n\r\nAfter the sandstorm died, Barats searched and searched in the desert. But he never found any trace of Detona, and his supplies of water and food were about to run out. They had built a strong bond and relationship with each other in these days of hardships. Yet when faced with a dire situation, Barats had to make the hard decision. He half-heartedly stopped looking for Detona and went on his way to the Los Pecados.\r\n\r\nYears later, Barats had learned a few tricks in the Los Pecados. He used his skills to gather information for a local gang and made a living out of it. He muddled through the days and gradually forgot past his friend Detona. There was this one time when Barats found his chance to become successful. He sneaked his way into the renowned \"Steel Hands\" hunter group and went out into the desert with them, hunting for giant monsters and beasts. Their target was apparently a rare dinosaur. That lizard was strangely large and had the ability to breathe and absorb energy.\r\n\r\nThe \"Steel Hands\" hunter group had been tracking this enormous lizard for about twenty days. They used all the weapons packed in their armory and, after suffering great loss in both man power and weaponry, they finally managed capture the weary dragon lizard. Everyone rejoiced, including Barats, for that person who hired them had put a big bounty on this dragon lizard's head. His share of that bounty would be very handsome, and everyone would respect his achievement.\r\n\r\nAs the group reveled in joy, Barats approached the giant beast and took a closer look at it. When their eyes met, Barats recognized that it was actually his long lost friend, Detona! Barats didn't know what to do. Detona was his friend, who had saved his life on multiple occasions, but that bounty would give him enough riches to live the carefree life he longed for. He hesitated for a long while, and then he did something that a Politan would never do. Friendship triumphed over his desire for wealth, and Barats started to release Detona from the shackles by breaking open the chains. Having now broken free, Detona roared ferociously, and Barats leaped onto it's back. It was like the good old days, except that Detona had grown even bigger.\r\n\r\nThe dinosaur strode forward and knocked down the surprised hunters off guard. And just like that, Detona and Barats disappeared into the distance. A few months later, Barats showed up at the gates of his dreams, Los Pecados, riding the intimidating giant lizard. He brought some hidden desert treasures which he had found with the help of Detona. Marveled by such riches, theLos Pecados's hunters and gangsters grew to respect Barats and started calling him the Dino Rider.\r\n\r\nIn the next couple of years, Barats and Detona traveled between Los Pecados and the desert lands. They had become the most famous black market traders in the entire region. There is a saying spread across the desert: If you have some good stuff to sell, or if you want to find a way to join the Los Pecados Gang, then you should seek Barats the Dino Rider. But beware, you will have to offer a good price.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 10,
+    "offense": 3,
+    "control": 9,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2350,
+    "health_growth": 243,
+    "health_regen": 8.8,
+    "health_regen_growth": 0.6,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 135,
+    "physical_attack_growth": 5.14,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 4.4286,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.01,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 0.5,
+    "critical_damage": 2.0,
+    "movement_speed": 268,
+    "attack_range": 1.7
+  },
+  "abilities": [
+    {
+      "id": "Barats0",
+      "name": "Big Guy",
+      "description": "Detona gains a stack of <highlight>Big Guy</highlight> for 12s each time it or Barats damages an enemy with their skills (up to 20% stacks). Each stack of <highlight>Big Guy</highlight> increases Detona's size, and grants 4-10 extra Hybrid Defense (scales with the level of <highlight>Detona's Welcome</highlight>) and 10 extra Resilience. At max stacks, Detona's Basic Attacks will be replaced with <highlight>Trample</highlight>, which deals <scaleAD> (+140% Total Physical Attack)</scaleAD> <scaleHP>(+3.5% Total HP)</scaleHP> <physicalDamage>Physical Damage</physicalDamage> to enemies in a circular area, slows them by 40% for 0.2s, and refreshes the duration of <highlight>Big Guy</highlight> with each hit.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d790cd46d08ab21d5cd0157a0c035c9.png",
+      "video_url": null
+    },
+    {
+      "id": "Barats1",
+      "name": "So-Called Teamwork",
+      "description": "Detona spits contaminated oil in the target direction, dealing 60/80/100/120/140/160<scaleHP> (+7% Total HP)</scaleHP> <physicalDamage>Physical Damage</physicalDamage> to enemies in a fan-shaped area. Barats then ignites the oil with a firecracker, dealing 120/160/200/240/280/320<scaleAD> (+180% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the area (only 50% damage to Creeps).<br/><br/>The area of effect of <highlight>So-Called Teamwork</highlight> increases with the number of <highlight>Big Guy</highlight> stacks.",
+      "flavor_text": null,
+      "cost": "25/30/35/40/45/50",
+      "cooldown": "7/6.6/6.2/5.8/5.4/5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9d1ea11338786e2de0b748f9a796759.png",
+      "video_url": null
+    },
+    {
+      "id": "Barats2",
+      "name": "Missile \"Expert\"",
+      "description": "Barats fires two missiles at the target location, dealing 100/115/130/145/160/175<scaleAD> (+75% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing enemies by 40% for 1s. The missiles expel fumes from their exhausts upon landing, dealing 100<scaleAD> (+75% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a rectangular area and pushing them toward Barats.",
+      "flavor_text": null,
+      "cost": "70/76/82/88/94/100",
+      "cooldown": "11/10.4/9.8/9.2/8.6/8",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df6e9b7c26bd4b99dec7b1e187dd9608.png",
+      "video_url": null
+    },
+    {
+      "id": "Barats3",
+      "name": "Detona's Welcome",
+      "description": "After a short delay, Detona charges in the target direction, dealing 120/160/200<scaleAD> (+70% Total Physical Attack)</scaleAD> <scaleHP>(+1.2% Total HP)</scaleHP> <physicalDamage>Physical Damage</physicalDamage> to the first enemy hit, devouring and suppressing them for 1.2s before spitting them out. If the spat-out target hits an enemy hero or a wall, it triggers an explosion. The target and nearby enemies will take an additional 180/240/300<scaleAD> (+105% Total Physical Attack)</scaleAD> <scaleHP>(+5% Total HP)</scaleHP> <physicalDamage>Physical Damage</physicalDamage> and are stunned for 1s.<br><br>During the skill, Barats becomes immune to control effects. If the cast is canceled on the skill misses, 50% of the skill cooldown is refunded.<br>If Detona successfully devours an enemy, he immediately gains max stacks of <highlight>Big Guy</highlight>.",
+      "flavor_text": null,
+      "cost": "100/120/140",
+      "cooldown": "60/55/50",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2dcd8888aaa6d28df61cd49eb89085b5.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Barats0",
+      "sequence": "Barats1-Barats2-Barats3-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Barats' 1st Skill to maintain Big Guy stacks. Approach the enemy and use his 2nd Skill to push them close before using his Ultimate to minimize their chance of escape, then finish them off with Basic Attacks."
+    },
+    {
+      "id": "Barats1",
+      "sequence": "Barats1-Barats2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, spam Barats' low Mana cost 1st Skill to build Big Guy stacks while slowing and poking the enemy. Use his 2nd Skill to push the enemy to him and hit them with Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Barats works best with Supports who can give him Movement Speed to make up for his lack of mobility, such as Mathilda and Angela.",
+      "heroes": [
+        {
+          "id": 102,
+          "slug": "mathilda",
+          "name": "Mathilda"
+        },
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Barats counters Tank heroes that rely on CC skills, such as Belerick and Lolita, since the extra Resilience provided by his Passive will greatly reduce the duration of their CC.",
+      "heroes": [
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        },
+        {
+          "id": 20,
+          "slug": "lolita",
+          "name": "Lolita"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Barats is countered by agile Marksmen who can deal high damage to Tanks, such as Karrie and Moskov, because Barats lacks mobility and his skills can be avoided, making these heroes very difficult to kill.",
+      "heroes": [
+        {
+          "id": 9,
+          "slug": "akai",
+          "name": "Akai"
+        },
+        {
+          "id": 31,
+          "slug": "moskov",
+          "name": "Moskov"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Barats-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Barats-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1b9fec44c21db9ecba0229ac227c7d51.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1b9fec44c21db9ecba0229ac227c7d51.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/barats.json",
+    "visual_catalog": "catalog/v1/visual/barats.json",
+    "upgrade_catalog": "catalog/v1/upgrade/barats.json"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Yu Zhong",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Emerald Dragon",
+      "Splash_url": "Yu-Zhong-Emerald-Dragon.png",
+      "script": "Yu-Zhong-Emerald-Dragon-Backup.zip",
+      "Portrait_url": "Yu-Zhong-Emerald-Dragon.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Biohazard",
+          "Portrait_url": "Yu-Zhong-Biohazard.png",
+          "Splash_url": "Yu-Zhong-Biohazard.png",
+          "script": "Yu-Zhong-Emerald-Dragon-Biohazard.zip"
+        },
+        {
+          "name": "Blood Serpent",
+          "Portrait_url": "Yu-Zhong-Blood-Serpent.png",
+          "Splash_url": "Yu-Zhong-Blood-Serpent.png",
+          "script": "Yu-Zhong-Emerald-Dragon-Blood-Serpent.zip"
+        },
+        {
+          "name": "Exorcist Yu Zhong",
+          "Portrait_url": "Yu-Zhong-Exorcist.png",
+          "Splash_url": "Yu-Zhong-Exorcist-Yu-Zhong.png",
+          "script": "Yu-Zhong-Emerald-Dragon-Exorcist-Yu-Zhong.zip"
+        },
+        {
+          "name": "Dragon's Shade",
+          "Portrait_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "Splash_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "script": "Yu-Zhong-Emerald-Dragon-Dragon-s-Shade.zip"
+        },
+        {
+          "name": "Cosmic Dragon",
+          "Portrait_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "Splash_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "script": "Yu-Zhong-Emerald-Dragon-Cosmic-Dragon.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Biohazard",
+      "Splash_url": "Yu-Zhong-Biohazard.png",
+      "script": "Yu-Zhong-Biohazard-Backup.zip",
+      "Portrait_url": "Yu-Zhong-Biohazard.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Emerald Dragon",
+          "Portrait_url": "Yu-Zhong-Emerald-Dragon.png",
+          "Splash_url": "Yu-Zhong-Emerald-Dragon.png",
+          "script": "Yu-Zhong-Biohazard-Emerald-Dragon.zip"
+        },
+        {
+          "name": "Blood Serpent",
+          "Portrait_url": "Yu-Zhong-Blood-Serpent.png",
+          "Splash_url": "Yu-Zhong-Blood-Serpent.png",
+          "script": "Yu-Zhong-Biohazard-Blood-Serpent.zip"
+        },
+        {
+          "name": "Exorcist Yu Zhong",
+          "Portrait_url": "Yu-Zhong-Exorcist.png",
+          "Splash_url": "Yu-Zhong-Exorcist-Yu-Zhong.png",
+          "script": "Yu-Zhong-Biohazard-Exorcist-Yu-Zhong.zip"
+        },
+        {
+          "name": "Dragon's Shade",
+          "Portrait_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "Splash_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "script": "Yu-Zhong-Biohazard-Dragon-s-Shade.zip"
+        },
+        {
+          "name": "Cosmic Dragon",
+          "Portrait_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "Splash_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "script": "Yu-Zhong-Biohazard-Cosmic-Dragon.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Blood Serpent",
+      "Splash_url": "Yu-Zhong-Blood-Serpent.png",
+      "script": "Yu-Zhong-Blood-Serpent-Backup.zip",
+      "Portrait_url": "Yu-Zhong-Blood-Serpent.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Emerald Dragon",
+          "Portrait_url": "Yu-Zhong-Emerald-Dragon.png",
+          "Splash_url": "Yu-Zhong-Emerald-Dragon.png",
+          "script": "Yu-Zhong-Blood-Serpent-Emerald-Dragon.zip"
+        },
+        {
+          "name": "Biohazard",
+          "Portrait_url": "Yu-Zhong-Biohazard.png",
+          "Splash_url": "Yu-Zhong-Biohazard.png",
+          "script": "Yu-Zhong-Blood-Serpent-Biohazard.zip"
+        },
+        {
+          "name": "Exorcist Yu Zhong",
+          "Portrait_url": "Yu-Zhong-Exorcist.png",
+          "Splash_url": "Yu-Zhong-Exorcist-Yu-Zhong.png",
+          "script": "Yu-Zhong-Blood-Serpent-Exorcist-Yu-Zhong.zip"
+        },
+        {
+          "name": "Dragon's Shade",
+          "Portrait_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "Splash_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "script": "Yu-Zhong-Blood-Serpent-Dragon-s-Shade.zip"
+        },
+        {
+          "name": "Cosmic Dragon",
+          "Portrait_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "Splash_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "script": "Yu-Zhong-Blood-Serpent-Cosmic-Dragon.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Exorcists",
+      "Default_name": "Exorcist Yu Zhong",
+      "Splash_url": "Yu-Zhong-Exorcist-Yu-Zhong.png",
+      "script": "Yu-Zhong-Exorcist-Yu-Zhong-Backup.zip",
+      "Portrait_url": "Yu-Zhong-Exorcist.png",
+      "Tags": [
+        "The Exorcists.png"
+      ],
+      "targets": [
+        {
+          "name": "Emerald Dragon",
+          "Portrait_url": "Yu-Zhong-Emerald-Dragon.png",
+          "Splash_url": "Yu-Zhong-Emerald-Dragon.png",
+          "script": "Yu-Zhong-Exorcist-Yu-Zhong-Emerald-Dragon.zip"
+        },
+        {
+          "name": "Biohazard",
+          "Portrait_url": "Yu-Zhong-Biohazard.png",
+          "Splash_url": "Yu-Zhong-Biohazard.png",
+          "script": "Yu-Zhong-Exorcist-Yu-Zhong-Biohazard.zip"
+        },
+        {
+          "name": "Blood Serpent",
+          "Portrait_url": "Yu-Zhong-Blood-Serpent.png",
+          "Splash_url": "Yu-Zhong-Blood-Serpent.png",
+          "script": "Yu-Zhong-Exorcist-Yu-Zhong-Blood-Serpent.zip"
+        },
+        {
+          "name": "Dragon's Shade",
+          "Portrait_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "Splash_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "script": "Yu-Zhong-Exorcist-Yu-Zhong-Dragon-s-Shade.zip"
+        },
+        {
+          "name": "Cosmic Dragon",
+          "Portrait_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "Splash_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "script": "Yu-Zhong-Exorcist-Yu-Zhong-Cosmic-Dragon.zip"
+        }
+      ]
+    },
+    {
+      "name": "M5",
+      "Default_name": "Dragon's Shade",
+      "Splash_url": "Yu-Zhong-Dragon-s-Shade.png",
+      "script": "Yu-Zhong-Dragon-s-Shade-Backup.zip",
+      "Portrait_url": "Yu-Zhong-Dragon-s-Shade.png",
+      "Tags": [
+        "M5.png"
+      ],
+      "targets": [
+        {
+          "name": "Emerald Dragon",
+          "Portrait_url": "Yu-Zhong-Emerald-Dragon.png",
+          "Splash_url": "Yu-Zhong-Emerald-Dragon.png",
+          "script": "Yu-Zhong-Dragon-s-Shade-Emerald-Dragon.zip"
+        },
+        {
+          "name": "Biohazard",
+          "Portrait_url": "Yu-Zhong-Biohazard.png",
+          "Splash_url": "Yu-Zhong-Biohazard.png",
+          "script": "Yu-Zhong-Dragon-s-Shade-Biohazard.zip"
+        },
+        {
+          "name": "Blood Serpent",
+          "Portrait_url": "Yu-Zhong-Blood-Serpent.png",
+          "Splash_url": "Yu-Zhong-Blood-Serpent.png",
+          "script": "Yu-Zhong-Dragon-s-Shade-Blood-Serpent.zip"
+        },
+        {
+          "name": "Exorcist Yu Zhong",
+          "Portrait_url": "Yu-Zhong-Exorcist.png",
+          "Splash_url": "Yu-Zhong-Exorcist-Yu-Zhong.png",
+          "script": "Yu-Zhong-Dragon-s-Shade-Exorcist-Yu-Zhong.zip"
+        },
+        {
+          "name": "Cosmic Dragon",
+          "Portrait_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "Splash_url": "Yu-Zhong-Cosmic-Dragon.png",
+          "script": "Yu-Zhong-Dragon-s-Shade-Cosmic-Dragon.zip"
+        }
+      ]
+    },
+    {
+      "name": "PRIME",
+      "Default_name": "Cosmic Dragon",
+      "Splash_url": "Yu-Zhong-Cosmic-Dragon.png",
+      "script": "Yu-Zhong-Cosmic-Dragon-Backup.zip",
+      "Portrait_url": "Yu-Zhong-Cosmic-Dragon.png",
+      "Tags": [
+        "PRIME.png"
+      ],
+      "targets": [
+        {
+          "name": "Emerald Dragon",
+          "Portrait_url": "Yu-Zhong-Emerald-Dragon.png",
+          "Splash_url": "Yu-Zhong-Emerald-Dragon.png",
+          "script": "Yu-Zhong-Cosmic-Dragon-Emerald-Dragon.zip"
+        },
+        {
+          "name": "Biohazard",
+          "Portrait_url": "Yu-Zhong-Biohazard.png",
+          "Splash_url": "Yu-Zhong-Biohazard.png",
+          "script": "Yu-Zhong-Cosmic-Dragon-Biohazard.zip"
+        },
+        {
+          "name": "Blood Serpent",
+          "Portrait_url": "Yu-Zhong-Blood-Serpent.png",
+          "Splash_url": "Yu-Zhong-Blood-Serpent.png",
+          "script": "Yu-Zhong-Cosmic-Dragon-Blood-Serpent.zip"
+        },
+        {
+          "name": "Exorcist Yu Zhong",
+          "Portrait_url": "Yu-Zhong-Exorcist.png",
+          "Splash_url": "Yu-Zhong-Exorcist-Yu-Zhong.png",
+          "script": "Yu-Zhong-Cosmic-Dragon-Exorcist-Yu-Zhong.zip"
+        },
+        {
+          "name": "Dragon's Shade",
+          "Portrait_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "Splash_url": "Yu-Zhong-Dragon-s-Shade.png",
+          "script": "Yu-Zhong-Cosmic-Dragon-Dragon-s-Shade.zip"
+        }
+      ]
+    }
+  ]
+}

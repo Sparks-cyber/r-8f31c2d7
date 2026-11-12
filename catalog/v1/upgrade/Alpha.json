@@ -1,0 +1,549 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Alpha",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Luckybox",
+      "Default_name": "Onimusha Commander",
+      "Splash_url": "Alpha-Onimusha-Commander.png",
+      "script": "Alpha-Onimusha-Commander-Backup.zip",
+      "Portrait_url": "Alpha-Onimusha-Commander.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Fierce Dragon",
+          "Portrait_url": "Alpha-Fierce-Dragon.png",
+          "Splash_url": "Alpha-Fierce-Dragon.png",
+          "script": "Alpha-Onimusha-Commander-Fierce-Dragon.zip"
+        },
+        {
+          "name": "Sea Gladiator",
+          "Portrait_url": "Alpha-Sea-Gladiator.png",
+          "Splash_url": "Alpha-Sea-Gladiator.png",
+          "script": "Alpha-Onimusha-Commander-Sea-Gladiator.zip"
+        },
+        {
+          "name": "Crimson Warrior",
+          "Portrait_url": "Alpha-Crimson-Warrior.png",
+          "Splash_url": "Alpha-Crimson-Warrior.png",
+          "script": "Alpha-Onimusha-Commander-Crimson-Warrior.zip"
+        },
+        {
+          "name": "General Void",
+          "Portrait_url": "Alpha-General-Void.png",
+          "Splash_url": "Alpha-General-Void.png",
+          "script": "Alpha-Onimusha-Commander-General-Void.zip"
+        },
+        {
+          "name": "Star Enforcer",
+          "Portrait_url": "Alpha-Star-Enforcer.png",
+          "Splash_url": "Alpha-Star-Enforcer.png",
+          "script": "Alpha-Onimusha-Commander-Star-Enforcer.zip"
+        },
+        {
+          "name": "Mecha-King Perseus",
+          "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+          "Splash_url": "Alpha-Mecha-King-Perseus.png",
+          "script": "Alpha-Onimusha-Commander-Mecha-King-Perseus.zip"
+        },
+        {
+          "name": "Revenant of Roses",
+          "Portrait_url": "Alpha-Revenant-of-Roses.png",
+          "Splash_url": "Alpha-Revenant-of-Roses.png",
+          "script": "Alpha-Onimusha-Commander-Revenant-of-Roses.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Galactic Enforcer",
+          "Portrait_url": "Alpha-Galactic-Enforcer.png",
+          "Splash_url": "Alpha-Galactic-Enforcer.png",
+          "script": "Alpha-Onimusha-Commander-Galactic-Enforcer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Fierce Dragon",
+      "Splash_url": "Alpha-Fierce-Dragon.png",
+      "script": "Alpha-Fierce-Dragon-Backup.zip",
+      "Portrait_url": "Alpha-Fierce-Dragon.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Onimusha Commander",
+          "Portrait_url": "Alpha-Onimusha-Commander.png",
+          "Splash_url": "Alpha-Onimusha-Commander.png",
+          "script": "Alpha-Fierce-Dragon-Onimusha-Commander.zip"
+        },
+        {
+          "name": "Sea Gladiator",
+          "Portrait_url": "Alpha-Sea-Gladiator.png",
+          "Splash_url": "Alpha-Sea-Gladiator.png",
+          "script": "Alpha-Fierce-Dragon-Sea-Gladiator.zip"
+        },
+        {
+          "name": "Crimson Warrior",
+          "Portrait_url": "Alpha-Crimson-Warrior.png",
+          "Splash_url": "Alpha-Crimson-Warrior.png",
+          "script": "Alpha-Fierce-Dragon-Crimson-Warrior.zip"
+        },
+        {
+          "name": "General Void",
+          "Portrait_url": "Alpha-General-Void.png",
+          "Splash_url": "Alpha-General-Void.png",
+          "script": "Alpha-Fierce-Dragon-General-Void.zip"
+        },
+        {
+          "name": "Star Enforcer",
+          "Portrait_url": "Alpha-Star-Enforcer.png",
+          "Splash_url": "Alpha-Star-Enforcer.png",
+          "script": "Alpha-Fierce-Dragon-Star-Enforcer.zip"
+        },
+        {
+          "name": "Mecha-King Perseus",
+          "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+          "Splash_url": "Alpha-Mecha-King-Perseus.png",
+          "script": "Alpha-Fierce-Dragon-Mecha-King-Perseus.zip"
+        },
+        {
+          "name": "Revenant of Roses",
+          "Portrait_url": "Alpha-Revenant-of-Roses.png",
+          "Splash_url": "Alpha-Revenant-of-Roses.png",
+          "script": "Alpha-Fierce-Dragon-Revenant-of-Roses.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Galactic Enforcer",
+          "Portrait_url": "Alpha-Galactic-Enforcer.png",
+          "Splash_url": "Alpha-Galactic-Enforcer.png",
+          "script": "Alpha-Fierce-Dragon-Galactic-Enforcer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Sea Gladiator",
+      "Splash_url": "Alpha-Sea-Gladiator.png",
+      "script": "Alpha-Sea-Gladiator-Backup.zip",
+      "Portrait_url": "Alpha-Sea-Gladiator.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Onimusha Commander",
+          "Portrait_url": "Alpha-Onimusha-Commander.png",
+          "Splash_url": "Alpha-Onimusha-Commander.png",
+          "script": "Alpha-Sea-Gladiator-Onimusha-Commander.zip"
+        },
+        {
+          "name": "Fierce Dragon",
+          "Portrait_url": "Alpha-Fierce-Dragon.png",
+          "Splash_url": "Alpha-Fierce-Dragon.png",
+          "script": "Alpha-Sea-Gladiator-Fierce-Dragon.zip"
+        },
+        {
+          "name": "Crimson Warrior",
+          "Portrait_url": "Alpha-Crimson-Warrior.png",
+          "Splash_url": "Alpha-Crimson-Warrior.png",
+          "script": "Alpha-Sea-Gladiator-Crimson-Warrior.zip"
+        },
+        {
+          "name": "General Void",
+          "Portrait_url": "Alpha-General-Void.png",
+          "Splash_url": "Alpha-General-Void.png",
+          "script": "Alpha-Sea-Gladiator-General-Void.zip"
+        },
+        {
+          "name": "Star Enforcer",
+          "Portrait_url": "Alpha-Star-Enforcer.png",
+          "Splash_url": "Alpha-Star-Enforcer.png",
+          "script": "Alpha-Sea-Gladiator-Star-Enforcer.zip"
+        },
+        {
+          "name": "Mecha-King Perseus",
+          "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+          "Splash_url": "Alpha-Mecha-King-Perseus.png",
+          "script": "Alpha-Sea-Gladiator-Mecha-King-Perseus.zip"
+        },
+        {
+          "name": "Revenant of Roses",
+          "Portrait_url": "Alpha-Revenant-of-Roses.png",
+          "Splash_url": "Alpha-Revenant-of-Roses.png",
+          "script": "Alpha-Sea-Gladiator-Revenant-of-Roses.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Galactic Enforcer",
+          "Portrait_url": "Alpha-Galactic-Enforcer.png",
+          "Splash_url": "Alpha-Galactic-Enforcer.png",
+          "script": "Alpha-Sea-Gladiator-Galactic-Enforcer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Crimson Warrior",
+      "Splash_url": "Alpha-Crimson-Warrior.png",
+      "script": "Alpha-Crimson-Warrior-Backup.zip",
+      "Portrait_url": "Alpha-Crimson-Warrior.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Onimusha Commander",
+          "Portrait_url": "Alpha-Onimusha-Commander.png",
+          "Splash_url": "Alpha-Onimusha-Commander.png",
+          "script": "Alpha-Crimson-Warrior-Onimusha-Commander.zip"
+        },
+        {
+          "name": "Fierce Dragon",
+          "Portrait_url": "Alpha-Fierce-Dragon.png",
+          "Splash_url": "Alpha-Fierce-Dragon.png",
+          "script": "Alpha-Crimson-Warrior-Fierce-Dragon.zip"
+        },
+        {
+          "name": "Sea Gladiator",
+          "Portrait_url": "Alpha-Sea-Gladiator.png",
+          "Splash_url": "Alpha-Sea-Gladiator.png",
+          "script": "Alpha-Crimson-Warrior-Sea-Gladiator.zip"
+        },
+        {
+          "name": "General Void",
+          "Portrait_url": "Alpha-General-Void.png",
+          "Splash_url": "Alpha-General-Void.png",
+          "script": "Alpha-Crimson-Warrior-General-Void.zip"
+        },
+        {
+          "name": "Star Enforcer",
+          "Portrait_url": "Alpha-Star-Enforcer.png",
+          "Splash_url": "Alpha-Star-Enforcer.png",
+          "script": "Alpha-Crimson-Warrior-Star-Enforcer.zip"
+        },
+        {
+          "name": "Mecha-King Perseus",
+          "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+          "Splash_url": "Alpha-Mecha-King-Perseus.png",
+          "script": "Alpha-Crimson-Warrior-Mecha-King-Perseus.zip"
+        },
+        {
+          "name": "Revenant of Roses",
+          "Portrait_url": "Alpha-Revenant-of-Roses.png",
+          "Splash_url": "Alpha-Revenant-of-Roses.png",
+          "script": "Alpha-Crimson-Warrior-Revenant-of-Roses.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Galactic Enforcer",
+          "Portrait_url": "Alpha-Galactic-Enforcer.png",
+          "Splash_url": "Alpha-Galactic-Enforcer.png",
+          "script": "Alpha-Crimson-Warrior-Galactic-Enforcer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "ABYSS",
+      "Default_name": "General Void",
+      "Splash_url": "Alpha-General-Void.png",
+      "script": "Alpha-General-Void-Backup.zip",
+      "Portrait_url": "Alpha-General-Void.png",
+      "Tags": [
+        "ABYSS.png"
+      ],
+      "targets": [
+        {
+          "name": "Onimusha Commander",
+          "Portrait_url": "Alpha-Onimusha-Commander.png",
+          "Splash_url": "Alpha-Onimusha-Commander.png",
+          "script": "Alpha-General-Void-Onimusha-Commander.zip"
+        },
+        {
+          "name": "Fierce Dragon",
+          "Portrait_url": "Alpha-Fierce-Dragon.png",
+          "Splash_url": "Alpha-Fierce-Dragon.png",
+          "script": "Alpha-General-Void-Fierce-Dragon.zip"
+        },
+        {
+          "name": "Sea Gladiator",
+          "Portrait_url": "Alpha-Sea-Gladiator.png",
+          "Splash_url": "Alpha-Sea-Gladiator.png",
+          "script": "Alpha-General-Void-Sea-Gladiator.zip"
+        },
+        {
+          "name": "Crimson Warrior",
+          "Portrait_url": "Alpha-Crimson-Warrior.png",
+          "Splash_url": "Alpha-Crimson-Warrior.png",
+          "script": "Alpha-General-Void-Crimson-Warrior.zip"
+        },
+        {
+          "name": "Star Enforcer",
+          "Portrait_url": "Alpha-Star-Enforcer.png",
+          "Splash_url": "Alpha-Star-Enforcer.png",
+          "script": "Alpha-General-Void-Star-Enforcer.zip"
+        },
+        {
+          "name": "Mecha-King Perseus",
+          "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+          "Splash_url": "Alpha-Mecha-King-Perseus.png",
+          "script": "Alpha-General-Void-Mecha-King-Perseus.zip"
+        },
+        {
+          "name": "Revenant of Roses",
+          "Portrait_url": "Alpha-Revenant-of-Roses.png",
+          "Splash_url": "Alpha-Revenant-of-Roses.png",
+          "script": "Alpha-General-Void-Revenant-of-Roses.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Galactic Enforcer",
+          "Portrait_url": "Alpha-Galactic-Enforcer.png",
+          "Splash_url": "Alpha-Galactic-Enforcer.png",
+          "script": "Alpha-General-Void-Galactic-Enforcer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Star Enforcer",
+      "Splash_url": "Alpha-Star-Enforcer.png",
+      "script": "Alpha-Star-Enforcer-Backup.zip",
+      "Portrait_url": "Alpha-Star-Enforcer.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Onimusha Commander",
+          "Portrait_url": "Alpha-Onimusha-Commander.png",
+          "Splash_url": "Alpha-Onimusha-Commander.png",
+          "script": "Alpha-Star-Enforcer-Onimusha-Commander.zip"
+        },
+        {
+          "name": "Fierce Dragon",
+          "Portrait_url": "Alpha-Fierce-Dragon.png",
+          "Splash_url": "Alpha-Fierce-Dragon.png",
+          "script": "Alpha-Star-Enforcer-Fierce-Dragon.zip"
+        },
+        {
+          "name": "Sea Gladiator",
+          "Portrait_url": "Alpha-Sea-Gladiator.png",
+          "Splash_url": "Alpha-Sea-Gladiator.png",
+          "script": "Alpha-Star-Enforcer-Sea-Gladiator.zip"
+        },
+        {
+          "name": "Crimson Warrior",
+          "Portrait_url": "Alpha-Crimson-Warrior.png",
+          "Splash_url": "Alpha-Crimson-Warrior.png",
+          "script": "Alpha-Star-Enforcer-Crimson-Warrior.zip"
+        },
+        {
+          "name": "General Void",
+          "Portrait_url": "Alpha-General-Void.png",
+          "Splash_url": "Alpha-General-Void.png",
+          "script": "Alpha-Star-Enforcer-General-Void.zip"
+        },
+        {
+          "name": "Mecha-King Perseus",
+          "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+          "Splash_url": "Alpha-Mecha-King-Perseus.png",
+          "script": "Alpha-Star-Enforcer-Mecha-King-Perseus.zip"
+        },
+        {
+          "name": "Revenant of Roses",
+          "Portrait_url": "Alpha-Revenant-of-Roses.png",
+          "Splash_url": "Alpha-Revenant-of-Roses.png",
+          "script": "Alpha-Star-Enforcer-Revenant-of-Roses.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Mecha-King Perseus",
+      "Splash_url": "Alpha-Mecha-King-Perseus.png",
+      "script": "Alpha-Mecha-King-Perseus-Backup.zip",
+      "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Onimusha Commander",
+          "Portrait_url": "Alpha-Onimusha-Commander.png",
+          "Splash_url": "Alpha-Onimusha-Commander.png",
+          "script": "Alpha-Mecha-King-Perseus-Onimusha-Commander.zip"
+        },
+        {
+          "name": "Fierce Dragon",
+          "Portrait_url": "Alpha-Fierce-Dragon.png",
+          "Splash_url": "Alpha-Fierce-Dragon.png",
+          "script": "Alpha-Mecha-King-Perseus-Fierce-Dragon.zip"
+        },
+        {
+          "name": "Sea Gladiator",
+          "Portrait_url": "Alpha-Sea-Gladiator.png",
+          "Splash_url": "Alpha-Sea-Gladiator.png",
+          "script": "Alpha-Mecha-King-Perseus-Sea-Gladiator.zip"
+        },
+        {
+          "name": "Crimson Warrior",
+          "Portrait_url": "Alpha-Crimson-Warrior.png",
+          "Splash_url": "Alpha-Crimson-Warrior.png",
+          "script": "Alpha-Mecha-King-Perseus-Crimson-Warrior.zip"
+        },
+        {
+          "name": "General Void",
+          "Portrait_url": "Alpha-General-Void.png",
+          "Splash_url": "Alpha-General-Void.png",
+          "script": "Alpha-Mecha-King-Perseus-General-Void.zip"
+        },
+        {
+          "name": "Star Enforcer",
+          "Portrait_url": "Alpha-Star-Enforcer.png",
+          "Splash_url": "Alpha-Star-Enforcer.png",
+          "script": "Alpha-Mecha-King-Perseus-Star-Enforcer.zip"
+        },
+        {
+          "name": "Revenant of Roses",
+          "Portrait_url": "Alpha-Revenant-of-Roses.png",
+          "Splash_url": "Alpha-Revenant-of-Roses.png",
+          "script": "Alpha-Mecha-King-Perseus-Revenant-of-Roses.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Galactic Enforcer",
+          "Portrait_url": "Alpha-Galactic-Enforcer.png",
+          "Splash_url": "Alpha-Galactic-Enforcer.png",
+          "script": "Alpha-Mecha-King-Perseus-Galactic-Enforcer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Revenant of Roses",
+      "Splash_url": "Alpha-Revenant-of-Roses.png",
+      "script": "Alpha-Revenant-of-Roses-Backup.zip",
+      "Portrait_url": "Alpha-Revenant-of-Roses.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Onimusha Commander",
+          "Portrait_url": "Alpha-Onimusha-Commander.png",
+          "Splash_url": "Alpha-Onimusha-Commander.png",
+          "script": "Alpha-Revenant-of-Roses-Onimusha-Commander.zip"
+        },
+        {
+          "name": "Fierce Dragon",
+          "Portrait_url": "Alpha-Fierce-Dragon.png",
+          "Splash_url": "Alpha-Fierce-Dragon.png",
+          "script": "Alpha-Revenant-of-Roses-Fierce-Dragon.zip"
+        },
+        {
+          "name": "Sea Gladiator",
+          "Portrait_url": "Alpha-Sea-Gladiator.png",
+          "Splash_url": "Alpha-Sea-Gladiator.png",
+          "script": "Alpha-Revenant-of-Roses-Sea-Gladiator.zip"
+        },
+        {
+          "name": "Crimson Warrior",
+          "Portrait_url": "Alpha-Crimson-Warrior.png",
+          "Splash_url": "Alpha-Crimson-Warrior.png",
+          "script": "Alpha-Revenant-of-Roses-Crimson-Warrior.zip"
+        },
+        {
+          "name": "General Void",
+          "Portrait_url": "Alpha-General-Void.png",
+          "Splash_url": "Alpha-General-Void.png",
+          "script": "Alpha-Revenant-of-Roses-General-Void.zip"
+        },
+        {
+          "name": "Star Enforcer",
+          "Portrait_url": "Alpha-Star-Enforcer.png",
+          "Splash_url": "Alpha-Star-Enforcer.png",
+          "script": "Alpha-Revenant-of-Roses-Star-Enforcer.zip"
+        },
+        {
+          "name": "Mecha-King Perseus",
+          "Portrait_url": "Alpha-Mecha-King-Perseus.png",
+          "Splash_url": "Alpha-Mecha-King-Perseus.png",
+          "script": "Alpha-Revenant-of-Roses-Mecha-King-Perseus.zip"
+        },
+        {
+          "name": "Galactic Enforcer",
+          "Portrait_url": "Alpha-Galactic-Enforcer.png",
+          "Splash_url": "Alpha-Galactic-Enforcer.png",
+          "script": "Alpha-Revenant-of-Roses-Galactic-Enforcer-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

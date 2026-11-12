@@ -1,0 +1,126 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "ling-byakuya",
+      "portrait_file": "Ling - Byakuya.png",
+      "script_file": "Ling-Byakuya.zip",
+      "skin_name": "Byakuya",
+      "splash_file": "Ling - Byakuya.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "ling-chibi",
+      "portrait_file": "Ling - Chibi.png",
+      "script_file": "Ling-Chibi.zip",
+      "skin_name": "Chibi",
+      "splash_file": "Ling - Chibi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "ling-itachi-anbu",
+      "portrait_file": "Ling - Itachi Anbu.png",
+      "script_file": "Ling-Itachi-Anbu.zip",
+      "skin_name": "Itachi Anbu",
+      "splash_file": "Ling - Itachi Anbu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "ling-kamisato",
+      "portrait_file": "Ling - Kamisato.png",
+      "script_file": "Ling-Kamisato.zip",
+      "skin_name": "Kamisato",
+      "splash_file": "Ling - Kamisato.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "ling-levi",
+      "portrait_file": "Ling - Levi.png",
+      "script_file": "Ling-Levi.zip",
+      "skin_name": "Levi",
+      "splash_file": "Ling - Levi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "ling-levi-v2",
+      "portrait_file": "Ling - Levi V2.png",
+      "script_file": "Ling-Levi-V2.zip",
+      "skin_name": "Levi V2",
+      "splash_file": "Ling - Levi V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "ling-sasuke",
+      "portrait_file": "Ling - Sasuke.png",
+      "script_file": "Ling-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Ling - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "ling-sasuke-v2",
+      "portrait_file": "Ling - Sasuke V2.png",
+      "script_file": "Ling-Sasuke-V2.zip",
+      "skin_name": "Sasuke V2",
+      "splash_file": "Ling - Sasuke V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "ling-takenaka",
+      "portrait_file": "Ling - Takenaka.png",
+      "script_file": "Ling-Takenaka.zip",
+      "skin_name": "Takenaka",
+      "splash_file": "Ling - Takenaka.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "ling-toshiro-hitsugaya",
+      "portrait_file": "Ling - Toshiro Hitsugaya.png",
+      "script_file": "Ling-Toshiro-Hitsugaya.zip",
+      "skin_name": "Toshiro Hitsugaya",
+      "splash_file": "Ling - Toshiro Hitsugaya.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 84,
+    "name": "Ling",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "ling"
+  },
+  "release_tag": "custom-ling",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

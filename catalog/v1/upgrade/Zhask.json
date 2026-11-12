@@ -1,0 +1,281 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Zhask",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Crystallized Predator",
+      "Splash_url": "Zhask-Crystallized-Predator.png",
+      "script": "Zhask-Crystallized-Predator-Backup.zip",
+      "Portrait_url": "Zhask-Crystallized-Predator.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Bone Flamen",
+          "Portrait_url": "Zhask-Bone-Flamen.png",
+          "Splash_url": "Zhask-Bone-Flamen.png",
+          "script": "Zhask-Crystallized-Predator-Bone-Flamen.zip"
+        },
+        {
+          "name": "Cancer",
+          "Portrait_url": "Zhask-Cancer.png",
+          "Splash_url": "Zhask-Cancer.png",
+          "script": "Zhask-Crystallized-Predator-Cancer.zip"
+        },
+        {
+          "name": "Extraterrestrial",
+          "Portrait_url": "Zhask-Extraterrestrial.png",
+          "Splash_url": "Zhask-Extraterrestrial.png",
+          "script": "Zhask-Crystallized-Predator-Extraterrestrial.zip"
+        },
+        {
+          "name": "Death's Shadow",
+          "Portrait_url": "Zhask-Death-s-Shadow.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Crystallized-Predator-Death-s-Shadow.zip"
+        },
+        {
+          "name": "Terrant Deviant",
+          "Portrait_url": "Zhask-Terrant-Deviant.png",
+          "Splash_url": "Zhask-Terrant-Deviant.png",
+          "script": "Zhask-Crystallized-Predator-Terrant-Deviant.zip"
+        },
+        {
+          "name": "Death's Harbinger Painted 01",
+          "Portrait_url": "Zhask-Death-s-Harbinger.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Crystallized-Predator-Death-s-Harbinger-Painted-01.zip"
+        },
+        {
+          "name": "Death's Omen",
+          "Portrait_url": "Zhask-Death-s-Omen.png",
+          "Splash_url": "Zhask - Death's Omen.jpg",
+          "script": "Zhask-Crystallized-Predator-Death-s-Omen.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Bone Flamen",
+      "Splash_url": "Zhask-Bone-Flamen.png",
+      "script": "Zhask-Bone-Flamen-Backup.zip",
+      "Portrait_url": "Zhask-Bone-Flamen.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Crystallized Predator",
+          "Portrait_url": "Zhask-Crystallized-Predator.png",
+          "Splash_url": "Zhask-Crystallized-Predator.png",
+          "script": "Zhask-Bone-Flamen-Crystallized-Predator.zip"
+        },
+        {
+          "name": "Cancer",
+          "Portrait_url": "Zhask-Cancer.png",
+          "Splash_url": "Zhask-Cancer.png",
+          "script": "Zhask-Bone-Flamen-Cancer.zip"
+        },
+        {
+          "name": "Extraterrestrial",
+          "Portrait_url": "Zhask-Extraterrestrial.png",
+          "Splash_url": "Zhask-Extraterrestrial.png",
+          "script": "Zhask-Bone-Flamen-Extraterrestrial.zip"
+        },
+        {
+          "name": "Death's Shadow",
+          "Portrait_url": "Zhask-Death-s-Shadow.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Bone-Flamen-Death-s-Shadow.zip"
+        },
+        {
+          "name": "Terrant Deviant",
+          "Portrait_url": "Zhask-Terrant-Deviant.png",
+          "Splash_url": "Zhask-Terrant-Deviant.png",
+          "script": "Zhask-Bone-Flamen-Terrant-Deviant.zip"
+        },
+        {
+          "name": "Death's Harbinger Painted 01",
+          "Portrait_url": "Zhask-Death-s-Harbinger.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Bone-Flamen-Death-s-Harbinger-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Cancer",
+      "Splash_url": "Zhask-Cancer.png",
+      "script": "Zhask-Cancer-Backup.zip",
+      "Portrait_url": "Zhask-Cancer.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Crystallized Predator",
+          "Portrait_url": "Zhask-Crystallized-Predator.png",
+          "Splash_url": "Zhask-Crystallized-Predator.png",
+          "script": "Zhask-Cancer-Crystallized-Predator.zip"
+        },
+        {
+          "name": "Bone Flamen",
+          "Portrait_url": "Zhask-Bone-Flamen.png",
+          "Splash_url": "Zhask-Bone-Flamen.png",
+          "script": "Zhask-Cancer-Bone-Flamen.zip"
+        },
+        {
+          "name": "Extraterrestrial",
+          "Portrait_url": "Zhask-Extraterrestrial.png",
+          "Splash_url": "Zhask-Extraterrestrial.png",
+          "script": "Zhask-Cancer-Extraterrestrial.zip"
+        },
+        {
+          "name": "Death's Shadow",
+          "Portrait_url": "Zhask-Death-s-Shadow.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Cancer-Death-s-Shadow.zip"
+        },
+        {
+          "name": "Terrant Deviant",
+          "Portrait_url": "Zhask-Terrant-Deviant.png",
+          "Splash_url": "Zhask-Terrant-Deviant.png",
+          "script": "Zhask-Cancer-Terrant-Deviant.zip"
+        },
+        {
+          "name": "Death's Harbinger Painted 01",
+          "Portrait_url": "Zhask-Death-s-Harbinger.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Cancer-Death-s-Harbinger-Painted-01.zip"
+        },
+        {
+          "name": "Death's Omen",
+          "Portrait_url": "Zhask-Death-s-Omen.png",
+          "Splash_url": "Zhask - Death's Omen.jpg",
+          "script": "Zhask-Cancer-Death-s-Omen.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Extraterrestrial",
+      "Splash_url": "Zhask-Extraterrestrial.png",
+      "script": "Zhask-Extraterrestrial-Backup.zip",
+      "Portrait_url": "Zhask-Extraterrestrial.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Crystallized Predator",
+          "Portrait_url": "Zhask-Crystallized-Predator.png",
+          "Splash_url": "Zhask-Crystallized-Predator.png",
+          "script": "Zhask-Extraterrestrial-Crystallized-Predator.zip"
+        },
+        {
+          "name": "Bone Flamen",
+          "Portrait_url": "Zhask-Bone-Flamen.png",
+          "Splash_url": "Zhask-Bone-Flamen.png",
+          "script": "Zhask-Extraterrestrial-Bone-Flamen.zip"
+        },
+        {
+          "name": "Cancer",
+          "Portrait_url": "Zhask-Cancer.png",
+          "Splash_url": "Zhask-Cancer.png",
+          "script": "Zhask-Extraterrestrial-Cancer.zip"
+        },
+        {
+          "name": "Death's Shadow",
+          "Portrait_url": "Zhask-Death-s-Shadow.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Extraterrestrial-Death-s-Shadow.zip"
+        },
+        {
+          "name": "Death's Harbinger Painted 01",
+          "Portrait_url": "Zhask-Death-s-Harbinger.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Extraterrestrial-Death-s-Harbinger-Painted-01.zip"
+        },
+        {
+          "name": "Death's Omen",
+          "Portrait_url": "Zhask-Death-s-Omen.png",
+          "Splash_url": "Zhask - Death's Omen.jpg",
+          "script": "Zhask-Extraterrestrial-Death-s-Omen.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Death's Shadow",
+      "Splash_url": "Zhask-Death-s-Shadow.png",
+      "script": "Zhask-Death-s-Shadow-Backup.zip",
+      "Portrait_url": "Zhask-Death-s-Shadow.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Crystallized Predator",
+          "Portrait_url": "Zhask-Crystallized-Predator.png",
+          "Splash_url": "Zhask-Crystallized-Predator.png",
+          "script": "Zhask-Death-s-Shadow-Crystallized-Predator.zip"
+        },
+        {
+          "name": "Bone Flamen",
+          "Portrait_url": "Zhask-Bone-Flamen.png",
+          "Splash_url": "Zhask-Bone-Flamen.png",
+          "script": "Zhask-Death-s-Shadow-Bone-Flamen.zip"
+        },
+        {
+          "name": "Cancer",
+          "Portrait_url": "Zhask-Cancer.png",
+          "Splash_url": "Zhask-Cancer.png",
+          "script": "Zhask-Death-s-Shadow-Cancer.zip"
+        },
+        {
+          "name": "Extraterrestrial",
+          "Portrait_url": "Zhask-Extraterrestrial.png",
+          "Splash_url": "Zhask-Extraterrestrial.png",
+          "script": "Zhask-Death-s-Shadow-Extraterrestrial.zip"
+        },
+        {
+          "name": "Terrant Deviant",
+          "Portrait_url": "Zhask-Terrant-Deviant.png",
+          "Splash_url": "Zhask-Terrant-Deviant.png",
+          "script": "Zhask-Death-s-Shadow-Terrant-Deviant.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Death's Harbinger Skin 07",
+      "Splash_url": "Zhask-Death-s-Harbinger.png",
+      "script": "Zhask-Death-s-Harbinger-Skin-07-Backup.zip",
+      "Portrait_url": "Zhask-Death-s-Harbinger.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Terrant Deviant",
+          "Portrait_url": "Zhask-Terrant-Deviant.png",
+          "Splash_url": "Zhask-Terrant-Deviant.png",
+          "script": "Zhask-Death-s-Harbinger-Skin-07-Terrant-Deviant.zip"
+        },
+        {
+          "name": "Death's Harbinger Painted 01",
+          "Portrait_url": "Zhask-Death-s-Harbinger.png",
+          "Splash_url": "Zhask-Death-s-Shadow.png",
+          "script": "Zhask-Death-s-Harbinger-Skin-07-Death-s-Harbinger-Painted-01.zip"
+        },
+        {
+          "name": "Death's Omen",
+          "Portrait_url": "Zhask-Death-s-Omen.png",
+          "Splash_url": "Zhask - Death's Omen.jpg",
+          "script": "Zhask-Death-s-Harbinger-Skin-07-Death-s-Omen.zip"
+        }
+      ]
+    }
+  ]
+}

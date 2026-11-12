@@ -1,0 +1,977 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Gusion",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Moonlight Sonata",
+      "Splash_url": "Gusion-Moonlight-Sonata.png",
+      "script": "Gusion-Moonlight-Sonata-Backup.zip",
+      "Portrait_url": "Gusion-Moonlight-Sonata.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Moonlight-Sonata-Hairstylist.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-Moonlight-Sonata-Cyber-Ops.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Moonlight-Sonata-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Moonlight-Sonata-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Moonlight-Sonata-K.zip"
+        },
+        {
+          "name": "Cosmic Gleam",
+          "Portrait_url": "Gusion-Cosmic-Gleam.png",
+          "Splash_url": "Gusion-Cosmic-Gleam.png",
+          "script": "Gusion-Moonlight-Sonata-Cosmic-Gleam.zip"
+        },
+        {
+          "name": "Night Owl",
+          "Portrait_url": "Gusion-Night-Owl.png",
+          "Splash_url": "Gusion-Night-Owl.png",
+          "script": "Gusion-Moonlight-Sonata-Night-Owl.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Moonlight-Sonata-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-Moonlight-Sonata-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Moonlight-Sonata-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Moonlight-Sonata-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Moonlight-Sonata-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-Moonlight-Sonata-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Moonlight-Sonata-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Hairstylist",
+      "Splash_url": "Gusion-Hairstylist.png",
+      "script": "Gusion-Hairstylist-Backup.zip",
+      "Portrait_url": "Gusion-Hairstylist.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Hairstylist-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-Hairstylist-Cyber-Ops.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Hairstylist-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Hairstylist-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Hairstylist-K.zip"
+        },
+        {
+          "name": "Cosmic Gleam",
+          "Portrait_url": "Gusion-Cosmic-Gleam.png",
+          "Splash_url": "Gusion-Cosmic-Gleam.png",
+          "script": "Gusion-Hairstylist-Cosmic-Gleam.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Hairstylist-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-Hairstylist-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Hairstylist-Desert-Spider.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Hairstylist-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-Hairstylist-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Hairstylist-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Cyber Ops",
+      "Splash_url": "Gusion-Cyber-Ops.png",
+      "script": "Gusion-Cyber-Ops-Backup.zip",
+      "Portrait_url": "Gusion-Cyber-Ops.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Cyber-Ops-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Cyber-Ops-Hairstylist.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Cyber-Ops-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Cyber-Ops-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Cyber-Ops-K.zip"
+        },
+        {
+          "name": "Cosmic Gleam",
+          "Portrait_url": "Gusion-Cosmic-Gleam.png",
+          "Splash_url": "Gusion-Cosmic-Gleam.png",
+          "script": "Gusion-Cyber-Ops-Cosmic-Gleam.zip"
+        },
+        {
+          "name": "Night Owl",
+          "Portrait_url": "Gusion-Night-Owl.png",
+          "Splash_url": "Gusion-Night-Owl.png",
+          "script": "Gusion-Cyber-Ops-Night-Owl.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Cyber-Ops-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-Cyber-Ops-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Cyber-Ops-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Cyber-Ops-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Cyber-Ops-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-Cyber-Ops-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Cyber-Ops-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Dangerous Liaison",
+      "Splash_url": "Gusion-Dangerous-Liaison.png",
+      "script": "Gusion-Dangerous-Liaison-Backup.zip",
+      "Portrait_url": "Gusion-Dangerous-Liaison.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Dangerous-Liaison-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Dangerous-Liaison-Hairstylist.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Dangerous-Liaison-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Dangerous-Liaison-K.zip"
+        },
+        {
+          "name": "Cosmic Gleam",
+          "Portrait_url": "Gusion-Cosmic-Gleam.png",
+          "Splash_url": "Gusion-Cosmic-Gleam.png",
+          "script": "Gusion-Dangerous-Liaison-Cosmic-Gleam.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Dangerous-Liaison-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-Dangerous-Liaison-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Dangerous-Liaison-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Dangerous-Liaison-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-Dangerous-Liaison-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Dangerous-Liaison-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "V.E.N.O.M.",
+      "Default_name": "V.E.N.O.M. Emperor Scorpion",
+      "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+      "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Backup.zip",
+      "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+      "Tags": [
+        "VENOM.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Hairstylist.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Cyber-Ops.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-K.zip"
+        },
+        {
+          "name": "Night Owl",
+          "Portrait_url": "Gusion-Night-Owl.png",
+          "Splash_url": "Gusion-Night-Owl.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Night-Owl.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-V-E-N-O-M-Emperor-Scorpion-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "K'",
+      "Splash_url": "Gusion-K.png",
+      "script": "Gusion-K-Backup.zip",
+      "Portrait_url": "Gusion-K.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-K-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-K-Hairstylist.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-K-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-K-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "Cosmic Gleam",
+          "Portrait_url": "Gusion-Cosmic-Gleam.png",
+          "Splash_url": "Gusion-Cosmic-Gleam.png",
+          "script": "Gusion-K-Cosmic-Gleam.zip"
+        },
+        {
+          "name": "Night Owl",
+          "Portrait_url": "Gusion-Night-Owl.png",
+          "Splash_url": "Gusion-Night-Owl.png",
+          "script": "Gusion-K-Night-Owl.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-K-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-K-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-K-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-K-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-K-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-K-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-K-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Cosmic Gleam",
+      "Splash_url": "Gusion-Cosmic-Gleam.png",
+      "script": "Gusion-Cosmic-Gleam-Backup.zip",
+      "Portrait_url": "Gusion-Cosmic-Gleam.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Cosmic-Gleam-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Cosmic-Gleam-Hairstylist.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-Cosmic-Gleam-Cyber-Ops.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Cosmic-Gleam-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Cosmic-Gleam-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Cosmic-Gleam-K.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Cosmic-Gleam-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-Cosmic-Gleam-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Cosmic-Gleam-Desert-Spider.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Cosmic-Gleam-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Cosmic-Gleam-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Night Owl",
+      "Splash_url": "Gusion-Night-Owl.png",
+      "script": "Gusion-Night-Owl-Backup.zip",
+      "Portrait_url": "Gusion-Night-Owl.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Night-Owl-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Night-Owl-Hairstylist.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-Night-Owl-Cyber-Ops.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Night-Owl-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Night-Owl-K.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Night-Owl-Soul-Revelation.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-Night-Owl-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Night-Owl-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Night-Owl-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Night-Owl-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Night-Owl-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Soul Revelation",
+      "Splash_url": "Gusion-Soul-Revelation.png",
+      "script": "Gusion-Soul-Revelation-Backup.zip",
+      "Portrait_url": "Gusion-Soul-Revelation.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Soul-Revelation-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Soul-Revelation-Hairstylist.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-Soul-Revelation-Cyber-Ops.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Soul-Revelation-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Soul-Revelation-K.zip"
+        },
+        {
+          "name": "Cosmic Gleam",
+          "Portrait_url": "Gusion-Cosmic-Gleam.png",
+          "Splash_url": "Gusion-Cosmic-Gleam.png",
+          "script": "Gusion-Soul-Revelation-Cosmic-Gleam.zip"
+        },
+        {
+          "name": "Night Owl",
+          "Portrait_url": "Gusion-Night-Owl.png",
+          "Splash_url": "Gusion-Night-Owl.png",
+          "script": "Gusion-Soul-Revelation-Night-Owl.zip"
+        },
+        {
+          "name": "Dimension Walker",
+          "Portrait_url": "Gusion-Dimension-Walker.png",
+          "Splash_url": "Gusion-Dimension-Walker.png",
+          "script": "Gusion-Soul-Revelation-Dimension-Walker.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Soul-Revelation-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Soul-Revelation-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Soul-Revelation-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-Soul-Revelation-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Soul-Revelation-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Double 11",
+      "Default_name": "Dimension Walker",
+      "Splash_url": "Gusion-Dimension-Walker.png",
+      "script": "Gusion-Dimension-Walker-Backup.zip",
+      "Portrait_url": "Gusion-Dimension-Walker.png",
+      "Tags": [
+        "11.11.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Dimension-Walker-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Dimension-Walker-Hairstylist.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-Dimension-Walker-Cyber-Ops.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Dimension-Walker-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Dimension-Walker-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Dimension-Walker-K.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Dimension-Walker-Soul-Revelation.zip"
+        },
+        {
+          "name": "Desert Spider",
+          "Portrait_url": "Gusion-Desert-Spider.png",
+          "Splash_url": "Gusion-Desert-Spider.png",
+          "script": "Gusion-Dimension-Walker-Desert-Spider.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Dimension-Walker-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Dimension-Walker-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Dimension-Walker-Emerald-Spider.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Desert Spider",
+      "Splash_url": "Gusion-Desert-Spider.png",
+      "script": "Gusion-Desert-Spider-Backup.zip",
+      "Portrait_url": "Gusion-Desert-Spider.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Moonlight Sonata",
+          "Portrait_url": "Gusion-Moonlight-Sonata.png",
+          "Splash_url": "Gusion-Moonlight-Sonata.png",
+          "script": "Gusion-Desert-Spider-Moonlight-Sonata.zip"
+        },
+        {
+          "name": "Hairstylist",
+          "Portrait_url": "Gusion-Hairstylist.png",
+          "Splash_url": "Gusion-Hairstylist.png",
+          "script": "Gusion-Desert-Spider-Hairstylist.zip"
+        },
+        {
+          "name": "Cyber Ops",
+          "Portrait_url": "Gusion-Cyber-Ops.png",
+          "Splash_url": "Gusion-Cyber-Ops.png",
+          "script": "Gusion-Desert-Spider-Cyber-Ops.zip"
+        },
+        {
+          "name": "Dangerous Liaison",
+          "Portrait_url": "Gusion-Dangerous-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Desert-Spider-Dangerous-Liaison.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "Portrait_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "Splash_url": "Gusion-V-E-N-O-M-Emperor-Scorpion.png",
+          "script": "Gusion-Desert-Spider-V-E-N-O-M-Emperor-Scorpion.zip"
+        },
+        {
+          "name": "K'",
+          "Portrait_url": "Gusion-K.png",
+          "Splash_url": "Gusion-K.png",
+          "script": "Gusion-Desert-Spider-K.zip"
+        },
+        {
+          "name": "Cosmic Gleam",
+          "Portrait_url": "Gusion-Cosmic-Gleam.png",
+          "Splash_url": "Gusion-Cosmic-Gleam.png",
+          "script": "Gusion-Desert-Spider-Cosmic-Gleam.zip"
+        },
+        {
+          "name": "Night Owl",
+          "Portrait_url": "Gusion-Night-Owl.png",
+          "Splash_url": "Gusion-Night-Owl.png",
+          "script": "Gusion-Desert-Spider-Night-Owl.zip"
+        },
+        {
+          "name": "Soul Revelation",
+          "Portrait_url": "Gusion-Soul-Revelation.png",
+          "Splash_url": "Gusion-Soul-Revelation.png",
+          "script": "Gusion-Desert-Spider-Soul-Revelation.zip"
+        },
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Desert-Spider-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Desert-Spider-Romantic-Liaison-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Romantic Liaison Skin 13",
+      "Splash_url": "Gusion-Romantic-Liaison.png",
+      "script": "Gusion-Romantic-Liaison-Skin-13-Backup.zip",
+      "Portrait_url": "Gusion-Romantic-Liaison.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Gothic Hairstylist",
+          "Portrait_url": "Gusion-Gothic-Hairstylist.png",
+          "Splash_url": "Gusion-Gothic-Hairstylist.png",
+          "script": "Gusion-Romantic-Liaison-Skin-13-Gothic-Hairstylist.zip"
+        },
+        {
+          "name": "Romantic Liaison Painted 01",
+          "Portrait_url": "Gusion-Romantic-Liaison.png",
+          "Splash_url": "Gusion-Dangerous-Liaison.png",
+          "script": "Gusion-Romantic-Liaison-Skin-13-Romantic-Liaison-Painted-01.zip"
+        },
+        {
+          "name": "Royal Spider",
+          "Portrait_url": "Gusion-Royal-Spider.png",
+          "Splash_url": "Gusion - Royal Spider.jpg",
+          "script": "Gusion-Romantic-Liaison-Skin-13-Royal-Spider.zip"
+        },
+        {
+          "name": "Emerald Spider",
+          "Portrait_url": "Gusion-Emerald-Spider.png",
+          "Splash_url": "Gusion - Emerald Spider.jpg",
+          "script": "Gusion-Romantic-Liaison-Skin-13-Emerald-Spider.zip"
+        }
+      ]
+    }
+  ]
+}

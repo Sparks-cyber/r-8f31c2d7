@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 25,
+    "slug": "kagura",
+    "name": "Kagura"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "kagura-community-6824",
+      "name": "Community Build 6824",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "glowingwand",
+        "geniuswand",
+        "lightningtruncheon",
+        "holycrystal",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Best for mid-late game damage, along with team support (glowing wand) during the early game. Immo can be sold or replaced for another magic item if team needs dmg.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6824,
+      "source_created_at": "2026-03-30T14:52:51.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "kagura-community-6072",
+      "name": "Community Build 6072",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "holycrystal",
+        "geniuswand",
+        "lightningtruncheon",
+        "divineglaive",
+        "glowingwand"
+      ],
+      "battle_spell_id": "flameshot",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "lethalignition",
+        "masterassassin",
+        "rupture"
+      ],
+      "situational_items": [],
+      "notes": "Best For 1 Hit Kagura\n\nI am  GLOBAL KAGURA",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6072,
+      "source_created_at": "2026-02-27T07:14:44.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "kagura-companion-baseline",
+      "name": "Companion Mage Baseline",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

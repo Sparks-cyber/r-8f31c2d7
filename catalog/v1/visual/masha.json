@@ -1,0 +1,87 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "masha-backup",
+      "portrait_file": "Masha-Default.png",
+      "script_file": "Masha-Backup.zip",
+      "skin_name": "Wild-oats Fist",
+      "splash_file": "Masha-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "masha-winter-guard",
+      "portrait_file": "Masha-Winter-Guard.png",
+      "script_file": "Masha-Winter-Guard.zip",
+      "skin_name": "Winter Guard",
+      "splash_file": "Masha-Winter-Guard.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "masha-combat-maiden",
+      "portrait_file": "Masha-Combat-Maiden.png",
+      "script_file": "Masha-Combat-Maiden.zip",
+      "skin_name": "Combat Maiden",
+      "splash_file": "Masha-Combat-Maiden.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "masha-dragon-armor",
+      "portrait_file": "Masha-Dragon-Armor.png",
+      "script_file": "Masha-Dragon-Armor.zip",
+      "skin_name": "Dragon Armor",
+      "splash_file": "Masha-Dragon-Armor.png",
+      "tag_id": "dragon-tamer",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "masha-spirited-gauntlet",
+      "portrait_file": "Masha-Spirited-Gauntlet.png",
+      "script_file": "Masha-Spirited-Gauntlet.zip",
+      "skin_name": "Spirited Gauntlet",
+      "splash_file": "Masha-Spirited-Gauntlet.png",
+      "tag_id": "s23",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "masha-rogue-talon",
+      "portrait_file": "Masha-Rogue-Talon.png",
+      "script_file": "Masha-Rogue-Talon.zip",
+      "skin_name": "Rogue Talon",
+      "splash_file": "Masha-Rogue-Talon.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "masha-mai-shiranui",
+      "portrait_file": "Masha-Mai-Shiranui.png",
+      "script_file": "Masha-Mai-Shiranui.zip",
+      "skin_name": "Mai Shiranui",
+      "splash_file": "Masha-Mai-Shiranui.png",
+      "tag_id": "kof",
+      "tier": "grand"
+    }
+  ],
+  "hero": {
+    "id": 88,
+    "name": "Masha",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "slug": "masha"
+  },
+  "release_tag": "visual-masha",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

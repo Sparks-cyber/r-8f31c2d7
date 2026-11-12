@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 88,
+    "slug": "masha",
+    "name": "Masha"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "masha-community-5810",
+      "name": "Community Build 5810",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "hunterstrike",
+        "maleficroar",
+        "endlessbattle",
+        "rosegoldmeteor",
+        "seahalberd"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Balance build for Masha. In late game, change the Hunter's Strike into Blade of Despair.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5810,
+      "source_created_at": "2026-02-18T09:43:01.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "masha-community-5976",
+      "name": "Community Build 5976",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "magicboots",
+        "bladeoftheheptaseas",
+        "bladeofdespair",
+        "skypiercer",
+        "maleficroar",
+        "hunterstrike"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Target here marksman if you full build look and damage %100",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5976,
+      "source_created_at": "2026-02-24T15:41:14.000Z",
+      "likes": 1,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "masha-companion-baseline",
+      "name": "Companion Fighter/Tank Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

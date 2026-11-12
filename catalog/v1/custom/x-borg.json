@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "x-borg-genos",
+      "portrait_file": "X-Borg - Genos.png",
+      "script_file": "X-Borg-Genos.zip",
+      "skin_name": "Genos",
+      "splash_file": "X-Borg - Genos.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 83,
+    "name": "X.Borg",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "x-borg"
+  },
+  "release_tag": "custom-x-borg",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

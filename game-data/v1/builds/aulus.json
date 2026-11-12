@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 108,
+    "slug": "aulus",
+    "name": "Aulus"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "aulus-community-7261",
+      "name": "Community Build 7261",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "magicboots",
+        "waraxe",
+        "queenswings",
+        "rosegoldmeteor",
+        "maleficroar",
+        "oracle"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "bravesmite",
+        "bargainhunter",
+        "thrill"
+      ],
+      "situational_items": [],
+      "notes": "Aulus Revamp build\n\nMade for exp, change boots if you want to go jungle",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7261,
+      "source_created_at": "2026-04-23T22:56:13.000Z",
+      "likes": 11,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "aulus-community-7346",
+      "name": "Community Build 7346",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "waraxe",
+        "toughboots",
+        "bruteforcebreastplate",
+        "corrosionscythe",
+        "rosegoldmeteor",
+        "queenswings"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "swift",
+        "festivalofblood",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "Good Balanced Build for Jungle With Flame Retri",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7346,
+      "source_created_at": "2026-04-27T11:52:59.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "aulus-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Wanwan",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Darting Star",
+      "Splash_url": "Wanwan-Darting-Star.png",
+      "script": "Wanwan-Darting-Star-Backup.zip",
+      "Portrait_url": "Wanwan-Darting-Star.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-Darting-Star-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Teen Pop",
+          "Portrait_url": "Wanwan-Teen-Pop.png",
+          "Splash_url": "Wanwan-Teen-Pop.png",
+          "script": "Wanwan-Darting-Star-Teen-Pop.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-Darting-Star-Pixel-Blast.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-Darting-Star-E-girl.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-Darting-Star-Flying-Swallow.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Shoujo Commander",
+      "Splash_url": "Wanwan-Shoujo-Commander.png",
+      "script": "Wanwan-Shoujo-Commander-Backup.zip",
+      "Portrait_url": "Wanwan-Shoujo-Commander.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-Shoujo-Commander-Darting-Star.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-Shoujo-Commander-Pixel-Blast.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-Shoujo-Commander-E-girl.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-Shoujo-Commander-Flying-Swallow.zip"
+        },
+        {
+          "name": "Summer Splash",
+          "Portrait_url": "Wanwan-Summer-Splash.png",
+          "Splash_url": "Wanwan-Summer-Splash.png",
+          "script": "Wanwan-Shoujo-Commander-Summer-Splash.zip"
+        },
+        {
+          "name": "Azure Commander",
+          "Portrait_url": "Wanwan-Azure-Commander.png",
+          "Splash_url": "Wanwan-Azure-Commander.png",
+          "script": "Wanwan-Shoujo-Commander-Azure-Commander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Teen Pop",
+      "Splash_url": "Wanwan-Teen-Pop.png",
+      "script": "Wanwan-Teen-Pop-Backup.zip",
+      "Portrait_url": "Wanwan-Teen-Pop.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-Teen-Pop-Darting-Star.zip"
+        },
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-Teen-Pop-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-Teen-Pop-Pixel-Blast.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-Teen-Pop-E-girl.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-Teen-Pop-Flying-Swallow.zip"
+        },
+        {
+          "name": "Summer Splash",
+          "Portrait_url": "Wanwan-Summer-Splash.png",
+          "Splash_url": "Wanwan-Summer-Splash.png",
+          "script": "Wanwan-Teen-Pop-Summer-Splash.zip"
+        },
+        {
+          "name": "Azure Commander",
+          "Portrait_url": "Wanwan-Azure-Commander.png",
+          "Splash_url": "Wanwan-Azure-Commander.png",
+          "script": "Wanwan-Teen-Pop-Azure-Commander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Pixel Blast",
+      "Splash_url": "Wanwan-Pixel-Blast.png",
+      "script": "Wanwan-Pixel-Blast-Backup.zip",
+      "Portrait_url": "Wanwan-Pixel-Blast.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-Pixel-Blast-Darting-Star.zip"
+        },
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-Pixel-Blast-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Teen Pop",
+          "Portrait_url": "Wanwan-Teen-Pop.png",
+          "Splash_url": "Wanwan-Teen-Pop.png",
+          "script": "Wanwan-Pixel-Blast-Teen-Pop.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-Pixel-Blast-E-girl.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-Pixel-Blast-Flying-Swallow.zip"
+        },
+        {
+          "name": "Summer Splash",
+          "Portrait_url": "Wanwan-Summer-Splash.png",
+          "Splash_url": "Wanwan-Summer-Splash.png",
+          "script": "Wanwan-Pixel-Blast-Summer-Splash.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "E-girl",
+      "Splash_url": "Wanwan-E-girl.png",
+      "script": "Wanwan-E-girl-Backup.zip",
+      "Portrait_url": "Wanwan-E-girl.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-E-girl-Darting-Star.zip"
+        },
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-E-girl-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Teen Pop",
+          "Portrait_url": "Wanwan-Teen-Pop.png",
+          "Splash_url": "Wanwan-Teen-Pop.png",
+          "script": "Wanwan-E-girl-Teen-Pop.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-E-girl-Pixel-Blast.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-E-girl-Flying-Swallow.zip"
+        },
+        {
+          "name": "Azure Commander",
+          "Portrait_url": "Wanwan-Azure-Commander.png",
+          "Splash_url": "Wanwan-Azure-Commander.png",
+          "script": "Wanwan-E-girl-Azure-Commander.zip"
+        }
+      ]
+    },
+    {
+      "name": "M-World",
+      "Default_name": "M-World Wanwan",
+      "Splash_url": "Wanwan-M-World-Wanwan.png",
+      "script": "Wanwan-M-World-Wanwan-Backup.zip",
+      "Portrait_url": "Wanwan-M-World-Wanwan.png",
+      "Tags": [
+        "M-World.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-M-World-Wanwan-Darting-Star.zip"
+        },
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-M-World-Wanwan-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Teen Pop",
+          "Portrait_url": "Wanwan-Teen-Pop.png",
+          "Splash_url": "Wanwan-Teen-Pop.png",
+          "script": "Wanwan-M-World-Wanwan-Teen-Pop.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-M-World-Wanwan-Pixel-Blast.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-M-World-Wanwan-E-girl.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-M-World-Wanwan-Flying-Swallow.zip"
+        },
+        {
+          "name": "Summer Splash",
+          "Portrait_url": "Wanwan-Summer-Splash.png",
+          "Splash_url": "Wanwan-Summer-Splash.png",
+          "script": "Wanwan-M-World-Wanwan-Summer-Splash.zip"
+        },
+        {
+          "name": "Azure Commander",
+          "Portrait_url": "Wanwan-Azure-Commander.png",
+          "Splash_url": "Wanwan-Azure-Commander.png",
+          "script": "Wanwan-M-World-Wanwan-Azure-Commander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Double 11",
+      "Default_name": "Flying Swallow",
+      "Splash_url": "Wanwan-Flying-Swallow.png",
+      "script": "Wanwan-Flying-Swallow-Backup.zip",
+      "Portrait_url": "Wanwan-Flying-Swallow.png",
+      "Tags": [
+        "11.11.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-Flying-Swallow-Darting-Star.zip"
+        },
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-Flying-Swallow-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Teen Pop",
+          "Portrait_url": "Wanwan-Teen-Pop.png",
+          "Splash_url": "Wanwan-Teen-Pop.png",
+          "script": "Wanwan-Flying-Swallow-Teen-Pop.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-Flying-Swallow-Pixel-Blast.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-Flying-Swallow-E-girl.zip"
+        },
+        {
+          "name": "Summer Splash",
+          "Portrait_url": "Wanwan-Summer-Splash.png",
+          "Splash_url": "Wanwan-Summer-Splash.png",
+          "script": "Wanwan-Flying-Swallow-Summer-Splash.zip"
+        },
+        {
+          "name": "Azure Commander",
+          "Portrait_url": "Wanwan-Azure-Commander.png",
+          "Splash_url": "Wanwan-Azure-Commander.png",
+          "script": "Wanwan-Flying-Swallow-Azure-Commander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Summer Splash",
+      "Splash_url": "Wanwan-Summer-Splash.png",
+      "script": "Wanwan-Summer-Splash-Backup.zip",
+      "Portrait_url": "Wanwan-Summer-Splash.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-Summer-Splash-Darting-Star.zip"
+        },
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-Summer-Splash-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Teen Pop",
+          "Portrait_url": "Wanwan-Teen-Pop.png",
+          "Splash_url": "Wanwan-Teen-Pop.png",
+          "script": "Wanwan-Summer-Splash-Teen-Pop.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-Summer-Splash-Pixel-Blast.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-Summer-Splash-E-girl.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-Summer-Splash-Flying-Swallow.zip"
+        },
+        {
+          "name": "Azure Commander",
+          "Portrait_url": "Wanwan-Azure-Commander.png",
+          "Splash_url": "Wanwan-Azure-Commander.png",
+          "script": "Wanwan-Summer-Splash-Azure-Commander.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Azure Commander",
+      "Splash_url": "Wanwan-Azure-Commander.png",
+      "script": "Wanwan-Azure-Commander-Backup.zip",
+      "Portrait_url": "Wanwan-Azure-Commander.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Darting Star",
+          "Portrait_url": "Wanwan-Darting-Star.png",
+          "Splash_url": "Wanwan-Darting-Star.png",
+          "script": "Wanwan-Azure-Commander-Darting-Star.zip"
+        },
+        {
+          "name": "Shoujo Commander",
+          "Portrait_url": "Wanwan-Shoujo-Commander.png",
+          "Splash_url": "Wanwan-Shoujo-Commander.png",
+          "script": "Wanwan-Azure-Commander-Shoujo-Commander.zip"
+        },
+        {
+          "name": "Teen Pop",
+          "Portrait_url": "Wanwan-Teen-Pop.png",
+          "Splash_url": "Wanwan-Teen-Pop.png",
+          "script": "Wanwan-Azure-Commander-Teen-Pop.zip"
+        },
+        {
+          "name": "Pixel Blast",
+          "Portrait_url": "Wanwan-Pixel-Blast.png",
+          "Splash_url": "Wanwan-Pixel-Blast.png",
+          "script": "Wanwan-Azure-Commander-Pixel-Blast.zip"
+        },
+        {
+          "name": "E-girl",
+          "Portrait_url": "Wanwan-E-girl.png",
+          "Splash_url": "Wanwan-E-girl.png",
+          "script": "Wanwan-Azure-Commander-E-girl.zip"
+        },
+        {
+          "name": "Flying Swallow",
+          "Portrait_url": "Wanwan-Flying-Swallow.png",
+          "Splash_url": "Wanwan-Flying-Swallow.png",
+          "script": "Wanwan-Azure-Commander-Flying-Swallow.zip"
+        },
+        {
+          "name": "Summer Splash",
+          "Portrait_url": "Wanwan-Summer-Splash.png",
+          "Splash_url": "Wanwan-Summer-Splash.png",
+          "script": "Wanwan-Azure-Commander-Summer-Splash.zip"
+        }
+      ]
+    }
+  ]
+}

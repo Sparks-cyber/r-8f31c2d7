@@ -1,0 +1,617 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Selena",
+  "role": "Assassin/Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Beacon of the Dark",
+      "Splash_url": "Selena-Beacon-of-the-Dark.png",
+      "script": "Selena-Beacon-of-the-Dark-Backup.zip",
+      "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-Beacon-of-the-Dark-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Double Identity",
+          "Portrait_url": "Selena-Double-Identity.png",
+          "Splash_url": "Selena-Double-Identity.png",
+          "script": "Selena-Beacon-of-the-Dark-Double-Identity.zip"
+        },
+        {
+          "name": "Thunder Flash",
+          "Portrait_url": "Selena-Thunder-Flash.png",
+          "Splash_url": "Selena-Thunder-Flash.png",
+          "script": "Selena-Beacon-of-the-Dark-Thunder-Flash.zip"
+        },
+        {
+          "name": "Gothic Curse",
+          "Portrait_url": "Selena-Gothic-Curse.png",
+          "Splash_url": "Selena-Gothic-Curse.png",
+          "script": "Selena-Beacon-of-the-Dark-Gothic-Curse.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Beacon-of-the-Dark-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Beacon-of-the-Dark-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Beacon-of-the-Dark-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Beacon-of-the-Dark-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Virus",
+      "Splash_url": "Selena-Virus.png",
+      "script": "Selena-Virus-Backup.zip",
+      "Portrait_url": "Selena-Virus.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Virus-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-Virus-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Double Identity",
+          "Portrait_url": "Selena-Double-Identity.png",
+          "Splash_url": "Selena-Double-Identity.png",
+          "script": "Selena-Virus-Double-Identity.zip"
+        },
+        {
+          "name": "Gothic Curse",
+          "Portrait_url": "Selena-Gothic-Curse.png",
+          "Splash_url": "Selena-Gothic-Curse.png",
+          "script": "Selena-Virus-Gothic-Curse.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Virus-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Virus-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Virus-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Virus-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Gemini - Shadow",
+      "Splash_url": "Selena-Gemini-Shadow.png",
+      "script": "Selena-Gemini-Shadow-Backup.zip",
+      "Portrait_url": "Selena-Gemini-Shadow.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Gemini-Shadow-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-Gemini-Shadow-Virus.zip"
+        },
+        {
+          "name": "Double Identity",
+          "Portrait_url": "Selena-Double-Identity.png",
+          "Splash_url": "Selena-Double-Identity.png",
+          "script": "Selena-Gemini-Shadow-Double-Identity.zip"
+        },
+        {
+          "name": "Thunder Flash",
+          "Portrait_url": "Selena-Thunder-Flash.png",
+          "Splash_url": "Selena-Thunder-Flash.png",
+          "script": "Selena-Gemini-Shadow-Thunder-Flash.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Gemini-Shadow-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Gemini-Shadow-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Gemini-Shadow-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Gemini-Shadow-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Double Identity",
+      "Splash_url": "Selena-Double-Identity.png",
+      "script": "Selena-Double-Identity-Backup.zip",
+      "Portrait_url": "Selena-Double-Identity.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Double-Identity-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-Double-Identity-Virus.zip"
+        },
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-Double-Identity-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Thunder Flash",
+          "Portrait_url": "Selena-Thunder-Flash.png",
+          "Splash_url": "Selena-Thunder-Flash.png",
+          "script": "Selena-Double-Identity-Thunder-Flash.zip"
+        },
+        {
+          "name": "Gothic Curse",
+          "Portrait_url": "Selena-Gothic-Curse.png",
+          "Splash_url": "Selena-Gothic-Curse.png",
+          "script": "Selena-Double-Identity-Gothic-Curse.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Double-Identity-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Double-Identity-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Double-Identity-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Double-Identity-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Thunder Flash",
+      "Splash_url": "Selena-Thunder-Flash.png",
+      "script": "Selena-Thunder-Flash-Backup.zip",
+      "Portrait_url": "Selena-Thunder-Flash.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Thunder-Flash-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-Thunder-Flash-Virus.zip"
+        },
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-Thunder-Flash-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Double Identity",
+          "Portrait_url": "Selena-Double-Identity.png",
+          "Splash_url": "Selena-Double-Identity.png",
+          "script": "Selena-Thunder-Flash-Double-Identity.zip"
+        },
+        {
+          "name": "Gothic Curse",
+          "Portrait_url": "Selena-Gothic-Curse.png",
+          "Splash_url": "Selena-Gothic-Curse.png",
+          "script": "Selena-Thunder-Flash-Gothic-Curse.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Thunder-Flash-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Thunder-Flash-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Thunder-Flash-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Thunder-Flash-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Gothic Curse",
+      "Splash_url": "Selena-Gothic-Curse.png",
+      "script": "Selena-Gothic-Curse-Backup.zip",
+      "Portrait_url": "Selena-Gothic-Curse.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Gothic-Curse-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-Gothic-Curse-Virus.zip"
+        },
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-Gothic-Curse-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Double Identity",
+          "Portrait_url": "Selena-Double-Identity.png",
+          "Splash_url": "Selena-Double-Identity.png",
+          "script": "Selena-Gothic-Curse-Double-Identity.zip"
+        },
+        {
+          "name": "Thunder Flash",
+          "Portrait_url": "Selena-Thunder-Flash.png",
+          "Splash_url": "Selena-Thunder-Flash.png",
+          "script": "Selena-Gothic-Curse-Thunder-Flash.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Gothic-Curse-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Gothic-Curse-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Gothic-Curse-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Gothic-Curse-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.T.U.N.",
+      "Default_name": "S.T.U.N. Selena",
+      "Splash_url": "Selena-S-T-U-N-Selena.png",
+      "script": "Selena-S-T-U-N-Selena-Backup.zip",
+      "Portrait_url": "Selena-S-T-U-N-Selena.png",
+      "Tags": [
+        "STUN.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-S-T-U-N-Selena-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-S-T-U-N-Selena-Virus.zip"
+        },
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-S-T-U-N-Selena-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Thunder Flash",
+          "Portrait_url": "Selena-Thunder-Flash.png",
+          "Splash_url": "Selena-Thunder-Flash.png",
+          "script": "Selena-S-T-U-N-Selena-Thunder-Flash.zip"
+        },
+        {
+          "name": "Gothic Curse",
+          "Portrait_url": "Selena-Gothic-Curse.png",
+          "Splash_url": "Selena-Gothic-Curse.png",
+          "script": "Selena-S-T-U-N-Selena-Gothic-Curse.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-S-T-U-N-Selena-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-S-T-U-N-Selena-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-S-T-U-N-Selena-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "ABYSS",
+      "Default_name": "Lady Vengeance",
+      "Splash_url": "Selena-Lady-Vengeance.png",
+      "script": "Selena-Lady-Vengeance-Backup.zip",
+      "Portrait_url": "Selena-Lady-Vengeance.png",
+      "Tags": [
+        "ABYSS.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Lady-Vengeance-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-Lady-Vengeance-Virus.zip"
+        },
+        {
+          "name": "Double Identity",
+          "Portrait_url": "Selena-Double-Identity.png",
+          "Splash_url": "Selena-Double-Identity.png",
+          "script": "Selena-Lady-Vengeance-Double-Identity.zip"
+        },
+        {
+          "name": "Thunder Flash",
+          "Portrait_url": "Selena-Thunder-Flash.png",
+          "Splash_url": "Selena-Thunder-Flash.png",
+          "script": "Selena-Lady-Vengeance-Thunder-Flash.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Lady-Vengeance-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Lady-Vengeance-Curse-of-Cinder.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Lady-Vengeance-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zenith",
+      "Default_name": "Curse of Cinder",
+      "Splash_url": "Selena-Curse-of-Cinder.png",
+      "script": "Selena-Curse-of-Cinder-Backup.zip",
+      "Portrait_url": "Selena-Curse-of-Cinder.png",
+      "Tags": [
+        "Zenith.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Curse-of-Cinder-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-Curse-of-Cinder-Virus.zip"
+        },
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-Curse-of-Cinder-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Thunder Flash",
+          "Portrait_url": "Selena-Thunder-Flash.png",
+          "Splash_url": "Selena-Thunder-Flash.png",
+          "script": "Selena-Curse-of-Cinder-Thunder-Flash.zip"
+        },
+        {
+          "name": "Gothic Curse",
+          "Portrait_url": "Selena-Gothic-Curse.png",
+          "Splash_url": "Selena-Gothic-Curse.png",
+          "script": "Selena-Curse-of-Cinder-Gothic-Curse.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Curse-of-Cinder-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Curse-of-Cinder-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Silverbolt Raiko",
+          "Portrait_url": "Selena-Silverbolt-Raiko.png",
+          "Splash_url": "Selena-Silverbolt-Raiko.png",
+          "script": "Selena-Curse-of-Cinder-Silverbolt-Raiko.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Silverbolt Raiko",
+      "Splash_url": "Selena-Silverbolt-Raiko.png",
+      "script": "Selena-Silverbolt-Raiko-Backup.zip",
+      "Portrait_url": "Selena-Silverbolt-Raiko.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Beacon of the Dark",
+          "Portrait_url": "Selena-Beacon-of-the-Dark.png",
+          "Splash_url": "Selena-Beacon-of-the-Dark.png",
+          "script": "Selena-Silverbolt-Raiko-Beacon-of-the-Dark.zip"
+        },
+        {
+          "name": "Virus",
+          "Portrait_url": "Selena-Virus.png",
+          "Splash_url": "Selena-Virus.png",
+          "script": "Selena-Silverbolt-Raiko-Virus.zip"
+        },
+        {
+          "name": "Gemini - Shadow",
+          "Portrait_url": "Selena-Gemini-Shadow.png",
+          "Splash_url": "Selena-Gemini-Shadow.png",
+          "script": "Selena-Silverbolt-Raiko-Gemini-Shadow.zip"
+        },
+        {
+          "name": "Double Identity",
+          "Portrait_url": "Selena-Double-Identity.png",
+          "Splash_url": "Selena-Double-Identity.png",
+          "script": "Selena-Silverbolt-Raiko-Double-Identity.zip"
+        },
+        {
+          "name": "Gothic Curse",
+          "Portrait_url": "Selena-Gothic-Curse.png",
+          "Splash_url": "Selena-Gothic-Curse.png",
+          "script": "Selena-Silverbolt-Raiko-Gothic-Curse.zip"
+        },
+        {
+          "name": "S.T.U.N. Selena",
+          "Portrait_url": "Selena-S-T-U-N-Selena.png",
+          "Splash_url": "Selena-S-T-U-N-Selena.png",
+          "script": "Selena-Silverbolt-Raiko-S-T-U-N-Selena.zip"
+        },
+        {
+          "name": "Lady Vengeance",
+          "Portrait_url": "Selena-Lady-Vengeance.png",
+          "Splash_url": "Selena-Lady-Vengeance.png",
+          "script": "Selena-Silverbolt-Raiko-Lady-Vengeance.zip"
+        },
+        {
+          "name": "Curse of Cinder",
+          "Portrait_url": "Selena-Curse-of-Cinder.png",
+          "Splash_url": "Selena-Curse-of-Cinder.png",
+          "script": "Selena-Silverbolt-Raiko-Curse-of-Cinder.zip"
+        }
+      ]
+    }
+  ]
+}

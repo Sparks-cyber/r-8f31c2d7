@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 130,
+    "slug": "obsidia",
+    "name": "Obsidia",
+    "skin_name": "Sovereign of Dark's End",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "region": "Abyss",
+    "release_date": "17 September 2025",
+    "resource": "Mana",
+    "short_description": "The ancient Sovereign of the Abyss, risen from ruin, now seeks to slay the God of Darkness and hunt down its Spawns of Decay.",
+    "brief": "Obsidia once ruled the Abyss as its great sovereign, a figure of such terrible majesty that her subjects trembled in her presence, earning her the title of the Goddess of Death. In an ancient battle, she grievously wounded the God of Darkness, but was struck down by its vengeful power. Her remains have been sealed away by the subjects of the Abyss ever since. Now she has awakened from her remnants to find the God of Darkness's corrupting influence once again threatening her domain. Wielding weapons forged from her very bones, Obsidia hunts the Spawns of Decay, reclaiming her power with each kill, as she prepares to slay the God of Darkness once and for all.",
+    "story": "\"Reborn from bone, she opened her eyes in a pool of blood, only to find her ancient nemesis still present-the dark god yet lives.\"\r\n\r\nDeep in the vast, dark depths of the Abyss, Obsidia hunts. The stench of rot emanates from ancient blood, like beacons flickering in the darkness, marking the path of her prey—the Spawns of Decay. As her power grows, the bones of her weapon multiply, swaying in her wake.\r\n\r\nShe descends the rocky cliffs with ethereal grace, yet swifter still are the bone shards that follow her deadly strikes.\r\n\r\nWhen she tracks down a Spawn of Decay, the hunt is already over. Another demon corrupted by dark power, another weakling who succumbed to the God of Darkness's temptation—having lost their reason, will, and self, their flesh and form completely warped into empty puppets.\r\n\r\nObsidia had felt that power before... before her revival, before her death.\r\n\r\nIn ancient times, the Elves occupied the vast central plains while the Orcs roamed the lush grasslands to the west. The weak, strange, less intelligent, and scattered races were pushed to the underground realm in the far south, fighting for their very survival in this resource-scarce world. Obsidia was among them. When her race faced extinction, the power of the God of Darkness came to her.\r\n\r\nA voice spoke to her: \"Obsidia, I shall grant you the power you desperately seek, to build your kingdom.\"\r\n\r\nImmense dark power descended, washing over her form. She felt as though she was floating in an endless void. Every inch of her flesh transformed as a new world opened before her. The God of Darkness's chisel carved a void in her mind, forcefully filling it with power, wisdom, and vitality—painful, yet intoxicating.\r\n\r\nThose who had oppressed her tribe were easily crushed, their once-contemptuous gazes turning to terror. Obsidia used this power to unify the world underground. To those who submitted, she granted power; for those who rebelled, their bones piled high. She named her kingdom the Abyss, and she became its one true sovereign.\r\n\r\nBut she had forgotten that above rulers, there were gods, and power always carried a price.\r\n\r\nWhen Obsidia awakened from her dream, the Abyss had become a tool of the God of Darkness. Her subjects were thrown into the forefront of an endless conflict between light and darkness. Barely one in ten survived, and those who did came to view her as a merciless goddess of death.\r\n\r\nThose demons granted power lost their reason and will, and like entranced puppets, marched to their deaths in an eternal battle. Perhaps they were already dead from the moment their individuality was stripped away, Obsidia thought coldly. The God of Darkness had finally revealed its fangs—this was no longer her kingdom, but a spawning pool to fuel the gods' cosmic game of war. Her subjects were summoned at will and discarded just as easily. Even Obsidia's own mind was corrupted by the dark god's influence, like a thick sludge of chaotic noise seeping in despite her resistance.\r\n\r\nShe felt no fear, no regret, no remorse—only endless killing intent. But this was her realm, and life and death here was hers to decide. If the God of Darkness would break its promise—then let this place become its grave!\r\n\r\nObsidia struck a devastating blow to the God of Darkness during its war against the God of Light, but she was mortally wounded in the process. And soon, she heard the howls of demons outside her palace. Seizing her moment of weakness, the creatures of the Abyss rose in rebellion. Despite this betrayal, Obsidia's lips curled into a chilling smile.\r\n\r\nThis was how the Abyss should be—a ruthless land with no place for rules and order. Strength and never-ending conflict were the purest ideals of the Abyss.\r\n\r\nThere were no gods to pray for blessings, everything must be taken by one's own hands—conquest was its true nature!\r\n\r\nShe allowed the creatures of the Abyss to seize her blood and power as she entered death's long slumber. The first sovereign's blood merged with the demons, and from then on, she became the Abyss itself—the source of its power.\r\n\r\nObsidia never expected to awaken again. But the power of the God of Darkness that lingered around the palace where her remains were sealed eventually brought her back from her long slumber.\r\n\r\nShe had seen that Dark Elf girl, Selena—the dark god's next sacrificial pawn. In her, Obsidia saw her past self—proud, foolish, ignorant of the future, and lost in momentary pleasure.\r\n\r\nThen there were the Spawns of Decay. The blood once plundered from her had become the God of Darkness's perfect medium. The god's insidious power expanded from within, enhancing their strength, warping their minds and forms, and destroying their self-will until they became worthless trash.\r\n\r\nWhile some demons were able to harness this power without becoming mindless husks, these powerful descendants were confined to their narrow circumstances; fighting for power, yearning to ascend the Abyss's throne. One day, they would no doubt also submit to the God of Darkness.\r\n\r\nWith her hunt temporarily over, Obsidia stepped into the chasm's darkest depths. She felt the Abyss's familiar pulse, and those bearers of her blood, as conspicuous as stars in the night sky.\r\n\r\n\"Then I shall do it,\" she thought.\r\n\r\n\"I shall herald the return of the Abyss. I shall hunt down every last Spawn of Decay. I shall lay the trap to slay a god.\"\r\n\r\n\"This is my land, my kingdom, my domain.\"\r\n\r\n\"I, am the Abyss.\"",
+    "recommended_skill_order": "3-2-1-0-1/1"
+  },
+  "ratings": {
+    "durability": 2,
+    "offense": 7,
+    "control": 1,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2320,
+    "health_growth": 150,
+    "health_regen": 6.0,
+    "health_regen_growth": 0.2143,
+    "mana": 500,
+    "mana_growth": 0,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 120,
+    "physical_attack_growth": 6.0,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.1429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.0171,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.6
+  },
+  "abilities": [
+    {
+      "id": "Obsidia0",
+      "name": "Return to Bone",
+      "description": "Obsidia gains <highlight>Bone Energy</highlight> whenever she deals damage. Basic Attacks grant 1 Energy against non-hero units and 2 against hero units. Skills grant Energy equal to 3 times the amount granted by Basic Attacks against the same unit type. No Energy is gained from hitting creeps.<br><br>When <highlight>Bone Energy</highlight> reaches 30, it forms a <highlight>Bone Shard</highlight>, up to 25 shards. Killing an enemy hero directly grants 1 <highlight>Bone Shard</highlight. When Obsidia uses Basic Attacks, all <highlight>Bone Shards</highlight> strike the target, each dealing <scaleAD> (+6% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and inheriting 6% Attack Effects.<br/><br/>Obsidia's Basic Attacks deal 70<scaleAD> (+70% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>, inheriting 100% Attack Effects.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_636c671e6ea7c9fd89e992c42fb9f4dc.png",
+      "video_url": null
+    },
+    {
+      "id": "Obsidia1",
+      "name": "Abyssal Bone Needle",
+      "description": "Obsidia launches an <highlight>Abyssal Bone Needle</highlight>, dealing 325/360/395/430/465/500<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and triggering <highlight>Return to Bone</highlight> on the first enemy hero struck.",
+      "flavor_text": null,
+      "cost": "35/38/41/44/47/50",
+      "cooldown": "4.5/4.2/3.9/3.6/3.3/3",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_6a6cfd77d892164ae8fbb98819a7233b.png",
+      "video_url": null
+    },
+    {
+      "id": "Obsidia2",
+      "name": "Phantom Shadowmeld",
+      "description": "Obsidia descends into the Abyss and enters <highlight>Shadowmeld Form</highlight>, gaining 500% Movement Speed for 0.3s.",
+      "flavor_text": null,
+      "cost": "40",
+      "cooldown": "4.5/4.2/3.9/3.6/3.3/3",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_27b8bf74b5f22a09a7ae1e4d0c69c056.png",
+      "video_url": null
+    },
+    {
+      "id": "Obsidia3",
+      "name": "Hunt of Bone",
+      "description": "Obsidia shoots <highlight>Bones of Wrath</highlight> in the target direction, dealing 125/175/225<scaleAD> (+60% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and briefly stunning the first enemy hero hit, and pulls herself near them. The <highlight>Bones of Wrath</highlight> then tether to the enemy, preventing Obsidia from moving more than 4 units away from them. The enemy cannot use displacement skills, and their movement will pull Obsidia along. During this time, Obsidia gains 5 temporary <highlight>Bone Shard(s)</highlight>. This effect lasts 3s.<br/>During this time, Obsidia can move through obstacles and use Basic Attacks while moving. <highlight>Phantom Shadowmeld</highlight> is enhanced, with its duration increased to 1s and cooldown reduced to 33%.",
+      "flavor_text": null,
+      "cost": "100",
+      "cooldown": "40/35/30",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4b023cbf620869d7596b5e87e467c7c8.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Obsidia0",
+      "sequence": "AA-Obsidia1-Obsidia2-Obsidia3-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "During teamfights, use Obsidia's Basic Attacks and 1st Skill to poke the enemy, and her 2nd Skill to reposition herself. Look for opportunities to close in on a target with her Ultimate and pick them off with your team. Finally, use her mobility and powerful Basic Attacks to clean up the remaining enemies."
+    },
+    {
+      "id": "Obsidia1",
+      "sequence": "Obsidia1-Obsidia2-Obsidia3-AA",
+      "name": "Laning Combos",
+      "description": "During the laning phase, use Obsidia's 1st Skill often on enemy Minions and heroes to quickly stack her Passive. When the enemy's HP drops low enough, use Obsidia's 2nd Skill and Ultimate on them and finish them off with Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Obsidia usually reaches her damage potential in the mid-to-late game, so she wants support heroes who can help her in the early game, like Angela and Estes.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 34,
+          "slug": "estes",
+          "name": "Estes"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Obsidia's Ultimate will disable dash and blink skills, making her excellent at countering heroes who rely on them,  such as Hayabusa, Freya, and Lancelot.",
+      "heroes": [
+        {
+          "id": 21,
+          "slug": "hayabusa",
+          "name": "Hayabusa"
+        },
+        {
+          "id": 22,
+          "slug": "freya",
+          "name": "Freya"
+        },
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Obsidia struggles during the early laning phase, making her vulnerable to other Marksmen with strong early game, such as Bruno and Layla.",
+      "heroes": [
+        {
+          "id": 12,
+          "slug": "bruno",
+          "name": "Bruno"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Obsidia-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Obsidia-Default.png",
+    "square_portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Obsidia-Default.png",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/1dca7f088da27d5a12faf83f7c1f8269.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/obsidia.json",
+    "visual_catalog": "catalog/v1/visual/obsidia.json",
+    "upgrade_catalog": "catalog/v1/upgrade/obsidia.json"
+  }
+}

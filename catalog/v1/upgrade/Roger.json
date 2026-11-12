@@ -1,0 +1,545 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Roger",
+  "role": "Fighter/Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Dark Gent",
+      "Splash_url": "Roger-Dark-Gent.png",
+      "script": "Roger-Dark-Gent-Backup.zip",
+      "Portrait_url": "Roger-Dark-Gent.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Dark-Gent-Dr-Beast.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Dark-Gent-Anubis.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Dark-Gent-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Dark-Gent-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Dark-Gent-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Dark-Gent-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Dark-Gent-Grimlock.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Dark-Gent-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Dr. Beast",
+      "Splash_url": "Roger-Dr-Beast.png",
+      "script": "Roger-Dr-Beast-Backup.zip",
+      "Portrait_url": "Roger-Dr-Beast.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Dr-Beast-Dark-Gent.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Dr-Beast-Anubis.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Dr-Beast-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Dr-Beast-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Dr-Beast-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Dr-Beast-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Dr-Beast-Grimlock.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Dr-Beast-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Anubis",
+      "Splash_url": "Roger-Anubis.png",
+      "script": "Roger-Anubis-Backup.zip",
+      "Portrait_url": "Roger-Anubis.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Anubis-Dark-Gent.zip"
+        },
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Anubis-Dr-Beast.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Anubis-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Anubis-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Anubis-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Anubis-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Anubis-Grimlock.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Anubis-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Phantom Hunter",
+      "Splash_url": "Roger-Phantom-Hunter.png",
+      "script": "Roger-Phantom-Hunter-Backup.zip",
+      "Portrait_url": "Roger-Phantom-Hunter.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Phantom-Hunter-Dark-Gent.zip"
+        },
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Phantom-Hunter-Dr-Beast.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Phantom-Hunter-Anubis.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Phantom-Hunter-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Phantom-Hunter-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Phantom-Hunter-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Phantom-Hunter-Grimlock.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Phantom-Hunter-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Cyborg Werewolf",
+      "Splash_url": "Roger-Cyborg-Werewolf.png",
+      "script": "Roger-Cyborg-Werewolf-Backup.zip",
+      "Portrait_url": "Roger-Cyborg-Werewolf.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Cyborg-Werewolf-Dark-Gent.zip"
+        },
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Cyborg-Werewolf-Dr-Beast.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Cyborg-Werewolf-Anubis.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Cyborg-Werewolf-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Cyborg-Werewolf-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Cyborg-Werewolf-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Cyborg-Werewolf-Grimlock.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Cyborg-Werewolf-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "M3",
+      "Default_name": "Phantom Ranger",
+      "Splash_url": "Roger-Phantom-Ranger.png",
+      "script": "Roger-Phantom-Ranger-Backup.zip",
+      "Portrait_url": "Roger-Phantom-Ranger.png",
+      "Tags": [
+        "M3.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Phantom-Ranger-Dark-Gent.zip"
+        },
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Phantom-Ranger-Dr-Beast.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Phantom-Ranger-Anubis.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Phantom-Ranger-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Phantom-Ranger-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Phantom-Ranger-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Phantom-Ranger-Grimlock.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Phantom-Ranger-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "PRIME",
+      "Default_name": "Fiend Hunter",
+      "Splash_url": "Roger-Fiend-Hunter.png",
+      "script": "Roger-Fiend-Hunter-Backup.zip",
+      "Portrait_url": "Roger-Fiend-Hunter.png",
+      "Tags": [
+        "PRIME.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Fiend-Hunter-Dark-Gent.zip"
+        },
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Fiend-Hunter-Dr-Beast.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Fiend-Hunter-Anubis.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Fiend-Hunter-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Fiend-Hunter-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Fiend-Hunter-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Fiend-Hunter-Grimlock.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Fiend-Hunter-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "Transformers",
+      "Default_name": "Grimlock",
+      "Splash_url": "Roger-Grimlock.png",
+      "script": "Roger-Grimlock-Backup.zip",
+      "Portrait_url": "Roger-Grimlock.png",
+      "Tags": [
+        "Transformers.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Grimlock-Dark-Gent.zip"
+        },
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Grimlock-Dr-Beast.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Grimlock-Anubis.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Grimlock-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Grimlock-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Grimlock-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Grimlock-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Invoker's Restraint",
+          "Portrait_url": "Roger-Invoker-s-Restraint.png",
+          "Splash_url": "Roger-Invoker-s-Restraint.png",
+          "script": "Roger-Grimlock-Invoker-s-Restraint.zip"
+        }
+      ]
+    },
+    {
+      "name": "Metro Zero",
+      "Default_name": "Invoker's Restraint",
+      "Splash_url": "Roger-Invoker-s-Restraint.png",
+      "script": "Roger-Invoker-s-Restraint-Backup.zip",
+      "Portrait_url": "Roger-Invoker-s-Restraint.png",
+      "Tags": [
+        "Metro Zero.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Gent",
+          "Portrait_url": "Roger-Dark-Gent.png",
+          "Splash_url": "Roger-Dark-Gent.png",
+          "script": "Roger-Invoker-s-Restraint-Dark-Gent.zip"
+        },
+        {
+          "name": "Dr. Beast",
+          "Portrait_url": "Roger-Dr-Beast.png",
+          "Splash_url": "Roger-Dr-Beast.png",
+          "script": "Roger-Invoker-s-Restraint-Dr-Beast.zip"
+        },
+        {
+          "name": "Anubis",
+          "Portrait_url": "Roger-Anubis.png",
+          "Splash_url": "Roger-Anubis.png",
+          "script": "Roger-Invoker-s-Restraint-Anubis.zip"
+        },
+        {
+          "name": "Phantom Hunter",
+          "Portrait_url": "Roger-Phantom-Hunter.png",
+          "Splash_url": "Roger-Phantom-Hunter.png",
+          "script": "Roger-Invoker-s-Restraint-Phantom-Hunter.zip"
+        },
+        {
+          "name": "Cyborg Werewolf",
+          "Portrait_url": "Roger-Cyborg-Werewolf.png",
+          "Splash_url": "Roger-Cyborg-Werewolf.png",
+          "script": "Roger-Invoker-s-Restraint-Cyborg-Werewolf.zip"
+        },
+        {
+          "name": "Phantom Ranger",
+          "Portrait_url": "Roger-Phantom-Ranger.png",
+          "Splash_url": "Roger-Phantom-Ranger.png",
+          "script": "Roger-Invoker-s-Restraint-Phantom-Ranger.zip"
+        },
+        {
+          "name": "Fiend Hunter",
+          "Portrait_url": "Roger-Fiend-Hunter.png",
+          "Splash_url": "Roger-Fiend-Hunter.png",
+          "script": "Roger-Invoker-s-Restraint-Fiend-Hunter.zip"
+        },
+        {
+          "name": "Grimlock",
+          "Portrait_url": "Roger-Grimlock.png",
+          "Splash_url": "Roger-Grimlock.png",
+          "script": "Roger-Invoker-s-Restraint-Grimlock.zip"
+        }
+      ]
+    }
+  ]
+}

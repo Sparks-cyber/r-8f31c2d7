@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 46,
+    "slug": "odette",
+    "name": "Odette"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "odette-community-5759",
+      "name": "Community Build 5759",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "glowingwand",
+        "geniuswand",
+        "divineglaive",
+        "wishinglantern",
+        "holycrystal"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "bargainhunter",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Burst damage",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5759,
+      "source_created_at": "2026-02-17T03:53:30.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "odette-community-7138",
+      "name": "Community Build 7138",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "wishinglantern",
+        "divineglaive",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "basiccommon",
+      "talent_ids": [
+        "rupture",
+        "wildernessblessing",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "Max out your passive 3 times ( the mana consumption is covered by basic common emblem ) so you can maxed out your damage in early game",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7138,
+      "source_created_at": "2026-04-19T03:28:17.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "odette-companion-baseline",
+      "name": "Companion Mage Baseline",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 7,
+    "slug": "alucard",
+    "name": "Alucard"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "alucard-community-5417",
+      "name": "Community Build 5417",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "waraxe",
+        "toughboots",
+        "hunterstrike",
+        "maleficroar",
+        "queenswings",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "temporalreign"
+      ],
+      "situational_items": [],
+      "notes": "why people perfered assassin emblem over fighter emblem",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5417,
+      "source_created_at": "2026-02-03T14:49:51.000Z",
+      "likes": 30,
+      "dislikes": 5,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "alucard-community-5638",
+      "name": "Community Build 5638",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "waraxe",
+        "toughboots",
+        "endlessbattle",
+        "queenswings",
+        "bruteforcebreastplate",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "Insane healing",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5638,
+      "source_created_at": "2026-02-11T14:45:30.000Z",
+      "likes": 8,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "alucard-companion-baseline",
+      "name": "Companion Fighter/Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

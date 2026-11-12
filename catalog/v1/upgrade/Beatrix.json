@@ -1,0 +1,281 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Beatrix",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "X Factor",
+      "Splash_url": "Beatrix-X-Factor.png",
+      "script": "Beatrix-X-Factor-Backup.zip",
+      "Portrait_url": "Beatrix-X-Factor.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Blitz Attack",
+          "Portrait_url": "Beatrix-Blitz-Attack.png",
+          "Splash_url": "Beatrix-Blitz-Attack.png",
+          "script": "Beatrix-X-Factor-Blitz-Attack.zip"
+        },
+        {
+          "name": "Light Chaser",
+          "Portrait_url": "Beatrix-Light-Chaser.png",
+          "Splash_url": "Beatrix-Light-Chaser.png",
+          "script": "Beatrix-X-Factor-Light-Chaser.zip"
+        },
+        {
+          "name": "Stellar Briliance",
+          "Portrait_url": "Beatrix-Stellar-Briliance.png",
+          "Splash_url": "Beatrix-Stellar-Briliance.png",
+          "script": "Beatrix-X-Factor-Stellar-Briliance.zip"
+        },
+        {
+          "name": "Vibrant Fiesta",
+          "Portrait_url": "Beatrix-Vibrant-Fiesta.png",
+          "Splash_url": "Beatrix-Vibrant-Fiesta.png",
+          "script": "Beatrix-X-Factor-Vibrant-Fiesta.zip"
+        },
+        {
+          "name": "Light Seeker",
+          "Portrait_url": "Beatrix-Light-Seeker.png",
+          "Splash_url": "Beatrix-Light-Seeker.png",
+          "script": "Beatrix-X-Factor-Light-Seeker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Blitz Attack",
+      "Splash_url": "Beatrix-Blitz-Attack.png",
+      "script": "Beatrix-Blitz-Attack-Backup.zip",
+      "Portrait_url": "Beatrix-Blitz-Attack.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "X Factor",
+          "Portrait_url": "Beatrix-X-Factor.png",
+          "Splash_url": "Beatrix-X-Factor.png",
+          "script": "Beatrix-Blitz-Attack-X-Factor.zip"
+        },
+        {
+          "name": "Space Agent",
+          "Portrait_url": "Beatrix-Space-Agent.png",
+          "Splash_url": "Beatrix-Space-Agent.png",
+          "script": "Beatrix-Blitz-Attack-Space-Agent.zip"
+        },
+        {
+          "name": "Light Chaser",
+          "Portrait_url": "Beatrix-Light-Chaser.png",
+          "Splash_url": "Beatrix-Light-Chaser.png",
+          "script": "Beatrix-Blitz-Attack-Light-Chaser.zip"
+        },
+        {
+          "name": "Stellar Briliance",
+          "Portrait_url": "Beatrix-Stellar-Briliance.png",
+          "Splash_url": "Beatrix-Stellar-Briliance.png",
+          "script": "Beatrix-Blitz-Attack-Stellar-Briliance.zip"
+        },
+        {
+          "name": "Vibrant Fiesta",
+          "Portrait_url": "Beatrix-Vibrant-Fiesta.png",
+          "Splash_url": "Beatrix-Vibrant-Fiesta.png",
+          "script": "Beatrix-Blitz-Attack-Vibrant-Fiesta.zip"
+        },
+        {
+          "name": "Light Seeker",
+          "Portrait_url": "Beatrix-Light-Seeker.png",
+          "Splash_url": "Beatrix-Light-Seeker.png",
+          "script": "Beatrix-Blitz-Attack-Light-Seeker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Space Agent",
+      "Splash_url": "Beatrix-Space-Agent.png",
+      "script": "Beatrix-Space-Agent-Backup.zip",
+      "Portrait_url": "Beatrix-Space-Agent.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "X Factor",
+          "Portrait_url": "Beatrix-X-Factor.png",
+          "Splash_url": "Beatrix-X-Factor.png",
+          "script": "Beatrix-Space-Agent-X-Factor.zip"
+        },
+        {
+          "name": "Blitz Attack",
+          "Portrait_url": "Beatrix-Blitz-Attack.png",
+          "Splash_url": "Beatrix-Blitz-Attack.png",
+          "script": "Beatrix-Space-Agent-Blitz-Attack.zip"
+        },
+        {
+          "name": "Light Chaser",
+          "Portrait_url": "Beatrix-Light-Chaser.png",
+          "Splash_url": "Beatrix-Light-Chaser.png",
+          "script": "Beatrix-Space-Agent-Light-Chaser.zip"
+        },
+        {
+          "name": "Stellar Briliance",
+          "Portrait_url": "Beatrix-Stellar-Briliance.png",
+          "Splash_url": "Beatrix-Stellar-Briliance.png",
+          "script": "Beatrix-Space-Agent-Stellar-Briliance.zip"
+        },
+        {
+          "name": "Vibrant Fiesta",
+          "Portrait_url": "Beatrix-Vibrant-Fiesta.png",
+          "Splash_url": "Beatrix-Vibrant-Fiesta.png",
+          "script": "Beatrix-Space-Agent-Vibrant-Fiesta.zip"
+        },
+        {
+          "name": "Light Seeker",
+          "Portrait_url": "Beatrix-Light-Seeker.png",
+          "Splash_url": "Beatrix-Light-Seeker.png",
+          "script": "Beatrix-Space-Agent-Light-Seeker.zip"
+        }
+      ]
+    },
+    {
+      "name": "M4",
+      "Default_name": "Light Chaser",
+      "Splash_url": "Beatrix-Light-Chaser.png",
+      "script": "Beatrix-Light-Chaser-Backup.zip",
+      "Portrait_url": "Beatrix-Light-Chaser.png",
+      "Tags": [
+        "M4.png"
+      ],
+      "targets": [
+        {
+          "name": "X Factor",
+          "Portrait_url": "Beatrix-X-Factor.png",
+          "Splash_url": "Beatrix-X-Factor.png",
+          "script": "Beatrix-Light-Chaser-X-Factor.zip"
+        },
+        {
+          "name": "Blitz Attack",
+          "Portrait_url": "Beatrix-Blitz-Attack.png",
+          "Splash_url": "Beatrix-Blitz-Attack.png",
+          "script": "Beatrix-Light-Chaser-Blitz-Attack.zip"
+        },
+        {
+          "name": "Space Agent",
+          "Portrait_url": "Beatrix-Space-Agent.png",
+          "Splash_url": "Beatrix-Space-Agent.png",
+          "script": "Beatrix-Light-Chaser-Space-Agent.zip"
+        },
+        {
+          "name": "Stellar Briliance",
+          "Portrait_url": "Beatrix-Stellar-Briliance.png",
+          "Splash_url": "Beatrix-Stellar-Briliance.png",
+          "script": "Beatrix-Light-Chaser-Stellar-Briliance.zip"
+        },
+        {
+          "name": "Vibrant Fiesta",
+          "Portrait_url": "Beatrix-Vibrant-Fiesta.png",
+          "Splash_url": "Beatrix-Vibrant-Fiesta.png",
+          "script": "Beatrix-Light-Chaser-Vibrant-Fiesta.zip"
+        }
+      ]
+    },
+    {
+      "name": "PRIME",
+      "Default_name": "Stellar Briliance",
+      "Splash_url": "Beatrix-Stellar-Briliance.png",
+      "script": "Beatrix-Stellar-Briliance-Backup.zip",
+      "Portrait_url": "Beatrix-Stellar-Briliance.png",
+      "Tags": [
+        "PRIME.png"
+      ],
+      "targets": [
+        {
+          "name": "X Factor",
+          "Portrait_url": "Beatrix-X-Factor.png",
+          "Splash_url": "Beatrix-X-Factor.png",
+          "script": "Beatrix-Stellar-Briliance-X-Factor.zip"
+        },
+        {
+          "name": "Blitz Attack",
+          "Portrait_url": "Beatrix-Blitz-Attack.png",
+          "Splash_url": "Beatrix-Blitz-Attack.png",
+          "script": "Beatrix-Stellar-Briliance-Blitz-Attack.zip"
+        },
+        {
+          "name": "Space Agent",
+          "Portrait_url": "Beatrix-Space-Agent.png",
+          "Splash_url": "Beatrix-Space-Agent.png",
+          "script": "Beatrix-Stellar-Briliance-Space-Agent.zip"
+        },
+        {
+          "name": "Light Chaser",
+          "Portrait_url": "Beatrix-Light-Chaser.png",
+          "Splash_url": "Beatrix-Light-Chaser.png",
+          "script": "Beatrix-Stellar-Briliance-Light-Chaser.zip"
+        },
+        {
+          "name": "Vibrant Fiesta",
+          "Portrait_url": "Beatrix-Vibrant-Fiesta.png",
+          "Splash_url": "Beatrix-Vibrant-Fiesta.png",
+          "script": "Beatrix-Stellar-Briliance-Vibrant-Fiesta.zip"
+        },
+        {
+          "name": "Light Seeker",
+          "Portrait_url": "Beatrix-Light-Seeker.png",
+          "Splash_url": "Beatrix-Light-Seeker.png",
+          "script": "Beatrix-Stellar-Briliance-Light-Seeker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Vibrant Fiesta",
+      "Splash_url": "Beatrix-Vibrant-Fiesta.png",
+      "script": "Beatrix-Vibrant-Fiesta-Backup.zip",
+      "Portrait_url": "Beatrix-Vibrant-Fiesta.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "X Factor",
+          "Portrait_url": "Beatrix-X-Factor.png",
+          "Splash_url": "Beatrix-X-Factor.png",
+          "script": "Beatrix-Vibrant-Fiesta-X-Factor.zip"
+        },
+        {
+          "name": "Blitz Attack",
+          "Portrait_url": "Beatrix-Blitz-Attack.png",
+          "Splash_url": "Beatrix-Blitz-Attack.png",
+          "script": "Beatrix-Vibrant-Fiesta-Blitz-Attack.zip"
+        },
+        {
+          "name": "Space Agent",
+          "Portrait_url": "Beatrix-Space-Agent.png",
+          "Splash_url": "Beatrix-Space-Agent.png",
+          "script": "Beatrix-Vibrant-Fiesta-Space-Agent.zip"
+        },
+        {
+          "name": "Light Chaser",
+          "Portrait_url": "Beatrix-Light-Chaser.png",
+          "Splash_url": "Beatrix-Light-Chaser.png",
+          "script": "Beatrix-Vibrant-Fiesta-Light-Chaser.zip"
+        },
+        {
+          "name": "Stellar Briliance",
+          "Portrait_url": "Beatrix-Stellar-Briliance.png",
+          "Splash_url": "Beatrix-Stellar-Briliance.png",
+          "script": "Beatrix-Vibrant-Fiesta-Stellar-Briliance.zip"
+        },
+        {
+          "name": "Light Seeker",
+          "Portrait_url": "Beatrix-Light-Seeker.png",
+          "Splash_url": "Beatrix-Light-Seeker.png",
+          "script": "Beatrix-Vibrant-Fiesta-Light-Seeker.zip"
+        }
+      ]
+    }
+  ]
+}

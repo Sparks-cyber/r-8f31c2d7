@@ -1,0 +1,455 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Martis",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Tyrant",
+      "Splash_url": "Martis-Tyrant.png",
+      "script": "Martis-Tyrant-Backup.zip",
+      "Portrait_url": "Martis-Tyrant.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Searing Maw",
+          "Portrait_url": "Martis-Searing-Maw.png",
+          "Splash_url": "Martis-Searing-Maw.png",
+          "script": "Martis-Tyrant-Searing-Maw.zip"
+        },
+        {
+          "name": "God of War",
+          "Portrait_url": "Martis-God-of-War.png",
+          "Splash_url": "Martis-God-of-War.png",
+          "script": "Martis-Tyrant-God-of-War.zip"
+        },
+        {
+          "name": "Capricorn",
+          "Portrait_url": "Martis-Capricorn.png",
+          "Splash_url": "Martis-Capricorn.png",
+          "script": "Martis-Tyrant-Capricorn.zip"
+        },
+        {
+          "name": "Deathrock",
+          "Portrait_url": "Martis-Deathrock.png",
+          "Splash_url": "Martis-Deathrock.png",
+          "script": "Martis-Tyrant-Deathrock.zip"
+        },
+        {
+          "name": "Levi",
+          "Portrait_url": "Martis-Levi.png",
+          "Splash_url": "Martis-Levi.png",
+          "script": "Martis-Tyrant-Levi.zip"
+        },
+        {
+          "name": "Darkwater Terror",
+          "Portrait_url": "Martis-Darkwater-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Tyrant-Darkwater-Terror.zip"
+        },
+        {
+          "name": "Nethersea Terror Painted 01",
+          "Portrait_url": "Martis-Nethersea-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Tyrant-Nethersea-Terror-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Searing Maw",
+      "Splash_url": "Martis-Searing-Maw.png",
+      "script": "Martis-Searing-Maw-Backup.zip",
+      "Portrait_url": "Martis-Searing-Maw.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Tyrant",
+          "Portrait_url": "Martis-Tyrant.png",
+          "Splash_url": "Martis-Tyrant.png",
+          "script": "Martis-Searing-Maw-Tyrant.zip"
+        },
+        {
+          "name": "God of War",
+          "Portrait_url": "Martis-God-of-War.png",
+          "Splash_url": "Martis-God-of-War.png",
+          "script": "Martis-Searing-Maw-God-of-War.zip"
+        },
+        {
+          "name": "Capricorn",
+          "Portrait_url": "Martis-Capricorn.png",
+          "Splash_url": "Martis-Capricorn.png",
+          "script": "Martis-Searing-Maw-Capricorn.zip"
+        },
+        {
+          "name": "Deathrock",
+          "Portrait_url": "Martis-Deathrock.png",
+          "Splash_url": "Martis-Deathrock.png",
+          "script": "Martis-Searing-Maw-Deathrock.zip"
+        },
+        {
+          "name": "Levi",
+          "Portrait_url": "Martis-Levi.png",
+          "Splash_url": "Martis-Levi.png",
+          "script": "Martis-Searing-Maw-Levi.zip"
+        },
+        {
+          "name": "Darkwater Terror",
+          "Portrait_url": "Martis-Darkwater-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Searing-Maw-Darkwater-Terror.zip"
+        },
+        {
+          "name": "Nethersea Terror Painted 01",
+          "Portrait_url": "Martis-Nethersea-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Searing-Maw-Nethersea-Terror-Painted-01.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Searing-Maw-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "God of War",
+      "Splash_url": "Martis-God-of-War.png",
+      "script": "Martis-God-of-War-Backup.zip",
+      "Portrait_url": "Martis-God-of-War.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Tyrant",
+          "Portrait_url": "Martis-Tyrant.png",
+          "Splash_url": "Martis-Tyrant.png",
+          "script": "Martis-God-of-War-Tyrant.zip"
+        },
+        {
+          "name": "Searing Maw",
+          "Portrait_url": "Martis-Searing-Maw.png",
+          "Splash_url": "Martis-Searing-Maw.png",
+          "script": "Martis-God-of-War-Searing-Maw.zip"
+        },
+        {
+          "name": "Capricorn",
+          "Portrait_url": "Martis-Capricorn.png",
+          "Splash_url": "Martis-Capricorn.png",
+          "script": "Martis-God-of-War-Capricorn.zip"
+        },
+        {
+          "name": "Deathrock",
+          "Portrait_url": "Martis-Deathrock.png",
+          "Splash_url": "Martis-Deathrock.png",
+          "script": "Martis-God-of-War-Deathrock.zip"
+        },
+        {
+          "name": "Levi",
+          "Portrait_url": "Martis-Levi.png",
+          "Splash_url": "Martis-Levi.png",
+          "script": "Martis-God-of-War-Levi.zip"
+        },
+        {
+          "name": "Darkwater Terror",
+          "Portrait_url": "Martis-Darkwater-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-God-of-War-Darkwater-Terror.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-God-of-War-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Capricorn",
+      "Splash_url": "Martis-Capricorn.png",
+      "script": "Martis-Capricorn-Backup.zip",
+      "Portrait_url": "Martis-Capricorn.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Tyrant",
+          "Portrait_url": "Martis-Tyrant.png",
+          "Splash_url": "Martis-Tyrant.png",
+          "script": "Martis-Capricorn-Tyrant.zip"
+        },
+        {
+          "name": "Searing Maw",
+          "Portrait_url": "Martis-Searing-Maw.png",
+          "Splash_url": "Martis-Searing-Maw.png",
+          "script": "Martis-Capricorn-Searing-Maw.zip"
+        },
+        {
+          "name": "God of War",
+          "Portrait_url": "Martis-God-of-War.png",
+          "Splash_url": "Martis-God-of-War.png",
+          "script": "Martis-Capricorn-God-of-War.zip"
+        },
+        {
+          "name": "Deathrock",
+          "Portrait_url": "Martis-Deathrock.png",
+          "Splash_url": "Martis-Deathrock.png",
+          "script": "Martis-Capricorn-Deathrock.zip"
+        },
+        {
+          "name": "Levi",
+          "Portrait_url": "Martis-Levi.png",
+          "Splash_url": "Martis-Levi.png",
+          "script": "Martis-Capricorn-Levi.zip"
+        },
+        {
+          "name": "Darkwater Terror",
+          "Portrait_url": "Martis-Darkwater-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Capricorn-Darkwater-Terror.zip"
+        },
+        {
+          "name": "Nethersea Terror Painted 01",
+          "Portrait_url": "Martis-Nethersea-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Capricorn-Nethersea-Terror-Painted-01.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Capricorn-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Deathrock",
+      "Splash_url": "Martis-Deathrock.png",
+      "script": "Martis-Deathrock-Backup.zip",
+      "Portrait_url": "Martis-Deathrock.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Tyrant",
+          "Portrait_url": "Martis-Tyrant.png",
+          "Splash_url": "Martis-Tyrant.png",
+          "script": "Martis-Deathrock-Tyrant.zip"
+        },
+        {
+          "name": "Searing Maw",
+          "Portrait_url": "Martis-Searing-Maw.png",
+          "Splash_url": "Martis-Searing-Maw.png",
+          "script": "Martis-Deathrock-Searing-Maw.zip"
+        },
+        {
+          "name": "God of War",
+          "Portrait_url": "Martis-God-of-War.png",
+          "Splash_url": "Martis-God-of-War.png",
+          "script": "Martis-Deathrock-God-of-War.zip"
+        },
+        {
+          "name": "Capricorn",
+          "Portrait_url": "Martis-Capricorn.png",
+          "Splash_url": "Martis-Capricorn.png",
+          "script": "Martis-Deathrock-Capricorn.zip"
+        },
+        {
+          "name": "Levi",
+          "Portrait_url": "Martis-Levi.png",
+          "Splash_url": "Martis-Levi.png",
+          "script": "Martis-Deathrock-Levi.zip"
+        },
+        {
+          "name": "Darkwater Terror",
+          "Portrait_url": "Martis-Darkwater-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Deathrock-Darkwater-Terror.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Deathrock-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Attack on Titan",
+      "Default_name": "Levi",
+      "Splash_url": "Martis-Levi.png",
+      "script": "Martis-Levi-Backup.zip",
+      "Portrait_url": "Martis-Levi.png",
+      "Tags": [
+        "Attack on Titan.png"
+      ],
+      "targets": [
+        {
+          "name": "Tyrant",
+          "Portrait_url": "Martis-Tyrant.png",
+          "Splash_url": "Martis-Tyrant.png",
+          "script": "Martis-Levi-Tyrant.zip"
+        },
+        {
+          "name": "Searing Maw",
+          "Portrait_url": "Martis-Searing-Maw.png",
+          "Splash_url": "Martis-Searing-Maw.png",
+          "script": "Martis-Levi-Searing-Maw.zip"
+        },
+        {
+          "name": "God of War",
+          "Portrait_url": "Martis-God-of-War.png",
+          "Splash_url": "Martis-God-of-War.png",
+          "script": "Martis-Levi-God-of-War.zip"
+        },
+        {
+          "name": "Capricorn",
+          "Portrait_url": "Martis-Capricorn.png",
+          "Splash_url": "Martis-Capricorn.png",
+          "script": "Martis-Levi-Capricorn.zip"
+        },
+        {
+          "name": "Deathrock",
+          "Portrait_url": "Martis-Deathrock.png",
+          "Splash_url": "Martis-Deathrock.png",
+          "script": "Martis-Levi-Deathrock.zip"
+        },
+        {
+          "name": "Darkwater Terror",
+          "Portrait_url": "Martis-Darkwater-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Levi-Darkwater-Terror.zip"
+        },
+        {
+          "name": "Nethersea Terror Painted 01",
+          "Portrait_url": "Martis-Nethersea-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Levi-Nethersea-Terror-Painted-01.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Levi-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Darkwater Terror",
+      "Splash_url": "Martis-Darkwater-Terror.png",
+      "script": "Martis-Darkwater-Terror-Backup.zip",
+      "Portrait_url": "Martis-Darkwater-Terror.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Tyrant",
+          "Portrait_url": "Martis-Tyrant.png",
+          "Splash_url": "Martis-Tyrant.png",
+          "script": "Martis-Darkwater-Terror-Tyrant.zip"
+        },
+        {
+          "name": "Searing Maw",
+          "Portrait_url": "Martis-Searing-Maw.png",
+          "Splash_url": "Martis-Searing-Maw.png",
+          "script": "Martis-Darkwater-Terror-Searing-Maw.zip"
+        },
+        {
+          "name": "God of War",
+          "Portrait_url": "Martis-God-of-War.png",
+          "Splash_url": "Martis-God-of-War.png",
+          "script": "Martis-Darkwater-Terror-God-of-War.zip"
+        },
+        {
+          "name": "Capricorn",
+          "Portrait_url": "Martis-Capricorn.png",
+          "Splash_url": "Martis-Capricorn.png",
+          "script": "Martis-Darkwater-Terror-Capricorn.zip"
+        },
+        {
+          "name": "Deathrock",
+          "Portrait_url": "Martis-Deathrock.png",
+          "Splash_url": "Martis-Deathrock.png",
+          "script": "Martis-Darkwater-Terror-Deathrock.zip"
+        },
+        {
+          "name": "Levi",
+          "Portrait_url": "Martis-Levi.png",
+          "Splash_url": "Martis-Levi.png",
+          "script": "Martis-Darkwater-Terror-Levi.zip"
+        },
+        {
+          "name": "Nethersea Terror Painted 01",
+          "Portrait_url": "Martis-Nethersea-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Darkwater-Terror-Nethersea-Terror-Painted-01.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Darkwater-Terror-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Nethersea Terror Skin 08",
+      "Splash_url": "Martis-Nethersea-Terror.png",
+      "script": "Martis-Nethersea-Terror-Skin-08-Backup.zip",
+      "Portrait_url": "Martis-Nethersea-Terror.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Nethersea Terror Painted 01",
+          "Portrait_url": "Martis-Nethersea-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Nethersea-Terror-Skin-08-Nethersea-Terror-Painted-01.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Nethersea-Terror-Skin-08-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Bloodtide Terror Skin 09",
+      "Splash_url": "Martis-Bloodtide-Terror.png",
+      "script": "Martis-Bloodtide-Terror-Skin-09-Backup.zip",
+      "Portrait_url": "Martis-Bloodtide-Terror.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Nethersea Terror Painted 01",
+          "Portrait_url": "Martis-Nethersea-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Bloodtide-Terror-Skin-09-Nethersea-Terror-Painted-01.zip"
+        },
+        {
+          "name": "Bloodtide Terror Painted 02",
+          "Portrait_url": "Martis-Bloodtide-Terror.png",
+          "Splash_url": "Martis-Darkwater-Terror.png",
+          "script": "Martis-Bloodtide-Terror-Skin-09-Bloodtide-Terror-Painted-02.zip"
+        }
+      ]
+    }
+  ]
+}

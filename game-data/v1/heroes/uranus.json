@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 59,
+    "slug": "uranus",
+    "name": "Uranus",
+    "skin_name": "Aesthereal Defender",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Regen"
+    ],
+    "region": "Vonetis Sea",
+    "release_date": "2018",
+    "resource": "Mana",
+    "short_description": "Guardian made from lighning and air, guardds the Celestial Palace.",
+    "brief": "The Celestial Palace - legend has it that the city floating above the skies of the Land of Dawn was once home to the Gods. It is also rumored that this mysterious place holds the key to ruling the world. Eons ago, the ruler of the Celestial Palace utilized the technological secret of the ancients to create Uranus, then commanded it to guard the city and await the emergence of a new ruler.",
+    "story": "The Celestial Palace - legend has it that the city floating above the skies of the Land of Dawn was once home to the Gods. It is also rumored that this mysterious place holds the key to ruling the world. Eons ago, the ruler of the Celestial Palace utilized the technological secret of the ancients to create Uranus, then commanded it to guard the city and await the emergence of a new ruler.\r\n\r\nWhen the scholars of the Land of Dawn found and opened the gates to the Celestial Palace, the battle between the Dawn Zenith and the Dark Abyss quickly spread throughout the realm, disrupting the solitude of the ancient city. The two forces sought to occupy the Celestial Palace as a symbol of victory, their heroes unleashing the full extent of their power and finally reaching an impasse. The massive influx of energy generated throughout the incessant battles eventually awakened the city's defense system, converting the released energy into pure lightning, fed into Uranus and reawakened after dormancy within the depths of the Celestial Palace. \"Leave now, intruders!\" he roared upon awakening, charging into the battlefield fueled by lightning, aether and ready to fulfill his destiny. His goal - to purge these savage intruders that had disturbed the tranquility of the Celestial Palace.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 10,
+    "offense": 2,
+    "control": 2,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2489,
+    "health_growth": 180,
+    "health_regen": 6.4,
+    "health_regen_growth": 0.5714,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 7.29,
+    "magic_power": 0,
+    "physical_defense": 14,
+    "physical_defense_growth": 2.3571,
+    "magic_defense": 15,
+    "magic_defense_growth": 0.6429,
+    "attack_speed": 1.04,
+    "attack_speed_growth": 0.0193,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.5
+  },
+  "abilities": [
+    {
+      "id": "Uranus0",
+      "name": "Radiance",
+      "description": "Each time Uranus takes damage, he gains a stack of <highlight>Radiance</highlight>. Each stack recovers 1.2-11.2 HP (increases with level) every 0.8s for 10s, up to 20 stacks.<br/>Uranus's Basic Attacks deal <scaleAD> (+80% Total Physical Attack)</scaleAD> <highlight>(+ 4-8 × Radiance stacks)</highlight> <magicDamage>Magic Damage</magicDamage> (increases with level).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_90324508ebba14fda61e55dfcf44b366.png",
+      "video_url": null
+    },
+    {
+      "id": "Uranus1",
+      "name": "Ionic Edge",
+      "description": "Uranus releases 2 energy blades that orbit around him, dealing 155/175/195/215/235/255<scaleAP> (+30% Total Magic Power)</scaleAP> <highlight>(+6/7.6/9.2/10.8/12.4/14 × Radiance stacks)</highlight> <magicDamage>Magic Damage</magicDamage> to enemies hit and slowing them by 30% for 2s.<br/>Each blade can only damage the same target once.",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e6a35f29615510ea57f24f4bb68273ac.png",
+      "video_url": null
+    },
+    {
+      "id": "Uranus2",
+      "name": "Transcendent Ward",
+      "description": "Uranus charges to the target location, dealing 80/104/128/152/176/200<scaleAP> (+20% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies along the way, and 160/208/256/304/352/400<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies at the target location and slowing them by 25%. Uranus also generates a 300/390/480/570/660/750<scaleAP> (+200% Total Magic Power)</scaleAP> shield for 4s.<br/><br/>The shield explodes at the end of its duration or when destroyed, dealing 300/390/480/570/660/750<scaleAP> (+150% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies nearby.",
+      "flavor_text": null,
+      "cost": "80/90/100/110/120/130",
+      "cooldown": "10",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a67db8e144ebcad419b61a347d0cfd2.png",
+      "video_url": null
+    },
+    {
+      "id": "Uranus3",
+      "name": "Consecration",
+      "description": "Uranus unleashes the energy stored within his body, removing slow effects on himself, recovering 200/300/400 HP, and gaining 60% Movement Speed for 8s (decays over time).<br/><br/>Uranus directly gains 5/10/15 stacks of Radiance, increasing shields received and HP Regen by 20% for 8s.",
+      "flavor_text": null,
+      "cost": "100/125/150",
+      "cooldown": "42/39/36",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1f92cbcc716af295b0e8702936fb19b7.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Uranus0",
+      "sequence": "Uranus2-Uranus3-Uranus1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Uranus should use his 2nd Skill to enter the fight, then his Ultimate to survive under enemy attacks while spamming his 1st Skill for sustained damage."
+    },
+    {
+      "id": "Uranus1",
+      "sequence": "Uranus1-Uranus2-Uranus1",
+      "name": "LANING COMBOS",
+      "description": "Uranus can use his 1st Skill to poke the enemy, then use the 2nd Skill - 1st Skill combo when their HP is low to finish them off."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Uranus becomes much more powerful when working with high-damage heroes like Beatrix and Hanabi.",
+      "heroes": [
+        {
+          "id": 105,
+          "slug": "beatrix",
+          "name": "Beatrix"
+        },
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Uranus has great sustainability, making him strong against heroes with low-damage abilities, such as Tigreal and Franco.",
+      "heroes": [
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        },
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Uranus lacks Mobility and CC abilities which makes him an easy target for ranged heroes, such as Layla and Lesley.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 53,
+          "slug": "lesley",
+          "name": "Lesley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Uranus-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Uranus-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1e52a042e596bd333ccab46d00bb8c72.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1e52a042e596bd333ccab46d00bb8c72.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/uranus.json",
+    "visual_catalog": "catalog/v1/visual/uranus.json",
+    "upgrade_catalog": "catalog/v1/upgrade/uranus.json"
+  }
+}

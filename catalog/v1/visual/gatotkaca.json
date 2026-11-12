@@ -1,0 +1,117 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "gatotkaca-backup",
+      "portrait_file": "Gatotkaca-Default.png",
+      "script_file": "Gatotkaca-Backup.zip",
+      "skin_name": "Mighty Legend",
+      "splash_file": "Gatotkaca-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-mighty-guardian",
+      "portrait_file": "Gatotkaca-Mighty-Guardian.png",
+      "script_file": "Gatotkaca-Mighty-Guardian.zip",
+      "skin_name": "Mighty Guardian",
+      "splash_file": "Gatotkaca-Mighty-Guardian.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-arhat-king",
+      "portrait_file": "Gatotkaca-Arhat-King.png",
+      "script_file": "Gatotkaca-Arhat-King.zip",
+      "skin_name": "Arhat King",
+      "splash_file": "Gatotkaca-Arhat-King.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-sentinel",
+      "portrait_file": "Gatotkaca-Sentinel.png",
+      "script_file": "Gatotkaca-Sentinel.zip",
+      "skin_name": "Sentinel",
+      "splash_file": "Gatotkaca-Sentinel.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-spark",
+      "portrait_file": "Gatotkaca-Spark.png",
+      "script_file": "Gatotkaca-Spark.zip",
+      "skin_name": "Spark",
+      "splash_file": "Gatotkaca-Spark.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-tide-preserver",
+      "portrait_file": "Gatotkaca-Tide-Preserver.png",
+      "script_file": "Gatotkaca-Tide-Preserver.zip",
+      "skin_name": "Tide Preserver",
+      "splash_file": "Gatotkaca-Tide-Preserver.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-nutcracker-monarch",
+      "portrait_file": "Gatotkaca-Nutcracker-Monarch.png",
+      "script_file": "Gatotkaca-Nutcracker-Monarch.zip",
+      "skin_name": "Nutcracker Monarch",
+      "splash_file": "Gatotkaca-Nutcracker-Monarch.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-nutcracker-earl",
+      "portrait_file": "Gatotkaca-Nutcracker-Earl.png",
+      "script_file": "Gatotkaca-Nutcracker-Earl.zip",
+      "skin_name": "Nutcracker Earl",
+      "splash_file": "Gatotkaca-Nutcracker-Earl.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-steeler-painted-01",
+      "portrait_file": "Gatotkaca-Steeler.png",
+      "script_file": "Gatotkaca-Steeler.zip",
+      "skin_name": "Steeler",
+      "splash_file": "Gatotkaca-Steeler.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-nutcracker-duke-painted-02",
+      "portrait_file": "Gatotkaca-Nutcracker-Duke.png",
+      "script_file": "Gatotkaca-Nutcracker-Duke.zip",
+      "skin_name": "Nutcracker Duke",
+      "splash_file": "Gatotkaca - Nutcracker Duke.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 41,
+    "name": "Gatotkaca",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "slug": "gatotkaca"
+  },
+  "release_tag": "visual-gatotkaca",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

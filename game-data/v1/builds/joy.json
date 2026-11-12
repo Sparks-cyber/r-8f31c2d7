@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 118,
+    "slug": "joy",
+    "name": "Joy"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "joy-community-5294",
+      "name": "Community Build 5294",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "oracle",
+        "bloodwings"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "seasonedhunter",
+        "temporalreign"
+      ],
+      "situational_items": [],
+      "notes": "Early damage, Late insane shield + life",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5294,
+      "source_created_at": "2026-01-30T04:35:21.000Z",
+      "likes": 5,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "joy-community-6469",
+      "name": "Community Build 6469",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "concentratedenergy",
+        "wishinglantern",
+        "divineglaive"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "thrill",
+        "seasonedhunter",
+        "temporalreign"
+      ],
+      "situational_items": [],
+      "notes": "asasd",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6469,
+      "source_created_at": "2026-03-13T09:58:36.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "joy-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

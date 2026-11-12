@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "martis-inosuke",
+      "portrait_file": "Martis - Inosuke.png",
+      "script_file": "Martis-Inosuke.zip",
+      "skin_name": "Inosuke",
+      "splash_file": "Martis - Inosuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "martis-zoro",
+      "portrait_file": "Martis - Zoro.png",
+      "script_file": "Martis-Zoro.zip",
+      "skin_name": "Zoro",
+      "splash_file": "Martis - Zoro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 58,
+    "name": "Martis",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "martis"
+  },
+  "release_tag": "custom-martis",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

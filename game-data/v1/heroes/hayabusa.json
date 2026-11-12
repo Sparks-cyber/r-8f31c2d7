@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 21,
+    "slug": "hayabusa",
+    "name": "Hayabusa",
+    "skin_name": "Crimson Shadow",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "4 November 2016",
+    "resource": "Energy",
+    "short_description": "The young leader of the Shadow Sect who wields his blade through moonless nights, walking the path of nindo without fear.",
+    "brief": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
+    "story": "When clouds obscure the moon,\r\nWhere shall shadows find their place?\r\n\r\nAs descendants of the Shadow Sect, Hayabusa and his brother underwent rigorous training from childhood. Even as a young boy, Hayabusa knew his brother's skills far surpassed his own. But what truly seemed beyond his reach was his brother's vision of nindo, the ninja way: integrating ninja tools with ninjutsu to end the hostility between ninja clans.\r\n\r\nIn Hayabusa's eyes, his brother shone as bright as the moon, illuminating not only himself but all of the Scarlet Shadow. Hayabusa only wished to be his shadow.\r\n\r\nHowever, his brother wasn't the only genius in the Shadow Sect—there was another named Hanzo. Soon, the Scarlet Sect, the other half of the Scarlet Shadow, sent a warning to the Shadow Sect: the balance of power in the Scarlet Shadow must not be challenged. Hayabusa learned that the two sects would use their own bloodlines as pawns to keep each other in check, and either he or his brother would have to become that pawn.\r\n\r\nOn the rooftop, Hayabusa found his brother. Though no words were spoken, the moonlight bridged their hearts.\r\n\r\nTo Hayabusa, the world could survive without shadows, but without moonlight, the night would reign eternal...\r\n\r\nSitting beside his brother, Hayabusa removed his mask. A childlike smile broke through his stern countenance.\r\n\r\nIn his first years at the Scarlet Sect, Hayabusa, as a pawn, was met with contempt. He found companionship only in his own shadow. During training, he constantly worked to integrate ninja tools with his ninjutsu, creating his unique Shadow Shuriken technique. Gradually, more and more people came to challenge him. Hayabusa calmly accepted each challenge and silently departed after each victory. For him, winning or losing mattered less than fulfilling his brother's will—ending the hostility between the two sects.\r\n\r\nUntil one day, he met a girl whose convictions rivaled his own—Hanabi. As the successor of \"Scarlet,\" Hanabi always held her head high. She saw her victories as victories for the Scarlet Sect, and her fierce competitive spirit drove her to challenge Hayabusa again and again.\r\n\r\nHidden valleys, bamboo forests, rooftops... Every corner of the Scarlet Shadow bore witness to their battles. Every time Hayabusa won, Hanabi would ask,\"Why did I lose...\", but he would only shrug in return.\r\n\r\nHayabusa had long accepted that he possessed no extraordinary talent. In pursuit of his brother's nindo, he trained alone, until he finally understood that the relationship between ninja tools and ninjutsu was like that of scarlet and shadow—two sides of the same coin. They were inseparable. The Scarlet Sect and Shadow Sect surely knew this too, yet they chose to remain fixated on winning over each other.\r\n\r\nBut illusions will eventually shatter.\r\n\r\nThe genius ninja Hanzo broke into the forbidden grounds, stole the sealed weapon Ame no Habakiri, and fled. Hayabusa's brother, who had gone with him, vanished without a trace. Overnight, Hanzo became the Scarlet Shadow's greatest threat, and peace teetered on a blade's edge.\r\n\r\nTo capture Hanzo and retrieve the cursed weapon, both sects dispatched their best, and both Hayabusa and Hanabi were among them.\r\n\r\nBefore departing, Hayabusa received a secret order from his father: \"Reclaim the Ame no Habakiri for the Shadow Sect, and kill Hanzo and anyone else who stands in your way.\" Strangely, the order made no mention of his brother. Filled with doubt, Hayabusa tracked Hanzo's trail—he had to find him.\r\n\r\nDuring his pursuit, Hayabusa discovered Hanabi lying on the ground, surrounded by ninjas from both sects writhing in agony. As Hayabusa tried to wake Hanabi, a malevolent aura struck at him. He gripped his blade tightly. Then, he saw a familiar yet strange figure—it was his brother, radiating with murderous intent.\r\n\r\nHe saw blood staining his brother's hands...\r\nHe saw the light had vanished from his eyes...\r\n\r\nNo matter how Hayabusa called out, he was met only with increasingly violent attacks, each aimed to kill.\r\n\r\nNever had Hayabusa imagined the moon could become so blood-red.\r\n\r\nDarkness engulfed Hayabusa's heart. He lowered his blade as his brother rushed toward him.\r\n\r\n\"Hayabusa, don't you dare lose to anyone but me!\"\r\n\r\nHanabi's voice echoed in his memory, like a flame igniting in his heart.\r\n\r\nDeep within, Hayabusa saw the moonlight, and beneath it, Hanabi.\r\n\r\nHanabi's eyes burned as she looked at Hayabusa while gently twirling her Higanbana, \"I'm going to surpass you.\"\r\n\r\nIn that instant, Hayabusa regained consciousness. With one hand, he formed a seal, activating Quad Shadow to send forth four shadows that restrained his opponent with lightning speed. He gripped his blade and struck without a moment of hesitation.\r\n\r\nHayabusa watched as the murderous aura gradually dissipated along with his brother's image, revealing Ame no Habakiri's true form, glaring with rage and laughing maniacally.\r\n\r\nThe cunning Ame no Habakiri had tried to use illusions to exploit the weakness in human hearts, only to encounter such resilience within. Breaking free from the illusion, Hayabusa was no longer bound by the darkness. Though he knew Ame no Habakiri was powerful, behind him stood Hanabi, Kagura, and the unknown fate of his brother. He had no choice but to stand up.\r\n\r\nEven without the moon's guidance, a shadow must forge its own path.\r\n\r\n\"Wherever I shall go, I do so without fear.\"",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 5,
+    "control": 1,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2429,
+    "health_growth": 156,
+    "health_regen": 7.4,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 117,
+    "physical_attack_growth": 9.57,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.1429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.07,
+    "attack_speed_growth": 0.0171,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Hayabusa0",
+      "name": "Ninjutsu: Trace of Shadow",
+      "description": "Hayabusa's attacks apply a stack of <highlight>Shadow Mark</highlight> on hit (up to 4 stacks). Each stack lasts 6s and increases Hayabusa's damage to the enemy by 5%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1255ed2b33be690a777dce8a797557c1.png",
+      "video_url": null
+    },
+    {
+      "id": "Hayabusa1",
+      "name": "Ninjutsu: Phantom Shuriken",
+      "description": "Hayabusa throws three returning shurikens in the target direction, each dealing 220/232/244/256/268/280<scaleAD> (+75% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and slowing them by 35% for 2s. Enemies hit by multiple shurikens take 70% less damage after the first hit, and Creeps take 50% less damage after the first hit. Hayabusa restores 10 energy when hitting non-Minion enemies.<br/><br/><highlight>Passive</highlight>: Hayabusa permanently gains 3/6/9/12/15/18% Spell Vamp.",
+      "flavor_text": null,
+      "cost": "30/28/26/24/22/20",
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2291f23ec06da9b9f312dd985bfd47a9.png",
+      "video_url": null
+    },
+    {
+      "id": "Hayabusa2",
+      "name": "Ninjutsu: Quad Shadow",
+      "description": "Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing 130/140/150/160/170/180<scaleAD> (+30% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing them by 40% for 2s. Hayabusa will immediately stop if he hits an enemy hero during the dash.<br/><br/><highlight>Use Again</highlight>: Hayabusa teleports to a phantom's location and reduces the cooldown of <highlight>Ninjutsu: Phantom Shuriken</highlight> by 1s. If the phantom is attached to an enemy hero, he also deals 130/140/150/160/170/180<scaleAD> (+30% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the enemy.",
+      "flavor_text": null,
+      "cost": "25",
+      "cooldown": "16/15.6/15.2/14.8/14.4/14",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+      "video_url": null
+    },
+    {
+      "id": "Hayabusa3",
+      "name": "Ougi: Shadow Kill",
+      "description": "Hayabusa blends into the shadows and launches 6 single-target attacks on enemies in the area, each dealing 140<scaleAD> (+32% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.<br/><br/>The attacks prioritize enemies with <highlight>Shadow Mark</highlight> and each will consume a mark to deal 90/120/150<scaleAD> (+40/50/60% Extra Physical Attack)</scaleAD> extra <physicalDamage>Physical Damage</physicalDamage>. Shadow Kill does not apply <highlight>Shadow Mark</highlight>.",
+      "flavor_text": "I, will be Akakage.",
+      "cost": null,
+      "cooldown": "40",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_725ee5582eb697e37896e8a6b81442d9.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Hayabusa0",
+      "sequence": "Hayabusa2-Hayabusa1-Hayabusa2-Hayabusa3-Hayabusa1-Hayabusa2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Hayabusa should use his 2nd Skill to hit an enemy with his phantom, then use his 1st and 2nd Skill on the target to apply Shadow Mark before unleashing his Ultimate. Afterwards, use his 1st Skill to finish off the enemy and escape with his 2nd Skill."
+    },
+    {
+      "id": "Hayabusa1",
+      "sequence": "Hayabusa2-Hayabusa1-Hayabusa2-Hayabusa2-Hayabusa1-Hayabusa3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Hayabusa's 2nd Skill to hit the enemy with a phantom, then strike with his 1st Skill, and use his 2nd Skill to blink away. Wait until Hayabusa's 1st Skill is off cooldown, then blink back to the enemy with his 2nd Skill and strike again with his 1st Skill followed by his Ultimate to secure the kill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Hayabusa works best with Fighters like Lapu-Lapu and Alpha who can initiate with him to quickly focus down key targets.",
+      "heroes": [
+        {
+          "id": 37,
+          "slug": "lapu-lapu",
+          "name": "Lapu-Lapu"
+        },
+        {
+          "id": 28,
+          "slug": "alpha",
+          "name": "Alpha"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Hayabusa counters squishy heroes that lack CC to shutdown the blinks from his 2nd Skill, and who are also easy targets for his Ultimate, such as Chang'e and Cecilion.",
+      "heroes": [
+        {
+          "id": 61,
+          "slug": "chang-e",
+          "name": "Chang'e"
+        },
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Hayabusa is countered by heroes with targeted CC like Franco and Kaja who can lock him down before he can blink away.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 62,
+          "slug": "kaja",
+          "name": "Kaja"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hayabusa-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hayabusa-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_82560b092a98bcb328def807a2a48cfe.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_82560b092a98bcb328def807a2a48cfe.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/hayabusa.json",
+    "visual_catalog": "catalog/v1/visual/hayabusa.json",
+    "upgrade_catalog": "catalog/v1/upgrade/hayabusa.json"
+  }
+}

@@ -1,0 +1,669 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.08.08.2",
+  "category": {
+    "id": "respawn",
+    "title": "Respawn",
+    "kind": "respawn"
+  },
+  "updated_at": "2026-08-08T00:00:00Z",
+  "data": [
+    {
+      "id": "classic",
+      "name": "Classic",
+      "description": "Use Classic as the base respawn and choose from 92 replacement effects.",
+      "image": "/Effects/Respawn/Classic.png",
+      "backup": {
+        "name": "Restore Classic",
+        "script": "/Effects/Respawn/Backup.zip"
+      },
+      "uses_default_sound": true,
+      "targets": [
+        {
+          "id": "2019-m1-glory",
+          "name": "2019 M1 Glory",
+          "description": "Replace Classic respawn with 2019 M1 Glory using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/2019%20M1%20Glory.png",
+          "script": "/Effects/Respawn/2019%20M1%20Glory.zip"
+        },
+        {
+          "id": "2021-carnival",
+          "name": "2021 Carnival",
+          "description": "Replace Classic respawn with 2021 Carnival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/2021%20Carnival.png",
+          "script": "/Effects/Respawn/2021%20Carnival.zip"
+        },
+        {
+          "id": "515-eparty",
+          "name": "515 eParty",
+          "description": "Replace Classic respawn with 515 eParty using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/515%20eParty.png",
+          "script": "/Effects/Respawn/515%20eParty.zip"
+        },
+        {
+          "id": "515-fight",
+          "name": "515! Fight!",
+          "description": "Replace Classic respawn with 515! Fight! using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/515%21%20Fight%21.png",
+          "script": "/Effects/Respawn/515%21%20Fight%21.zip"
+        },
+        {
+          "id": "aircraft-respawn-effect",
+          "name": "Aircraft Respawn Effect",
+          "description": "Replace Classic respawn with Aircraft Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Aircraft%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Aircraft%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "all-star-arrival",
+          "name": "All-Star Arrival",
+          "description": "Replace Classic respawn with All-Star Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/All-Star%20Arrival.png",
+          "script": "/Effects/Respawn/All-Star%20Arrival.zip"
+        },
+        {
+          "id": "anniversary-2024-arrival",
+          "name": "Anniversary 2024 Arrival",
+          "description": "Replace Classic respawn with Anniversary 2024 Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Anniversary%202024%20Arrival.png",
+          "script": "/Effects/Respawn/Anniversary%202024%20Arrival.zip"
+        },
+        {
+          "id": "anniversary-2025-arrival",
+          "name": "Anniversary 2025 Arrival",
+          "description": "Replace Classic respawn with Anniversary 2025 Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Anniversary%202025%20Arrival.png",
+          "script": "/Effects/Respawn/Anniversary%202025%20Arrival.zip"
+        },
+        {
+          "id": "apocalypse-arrival",
+          "name": "Apocalypse Arrival",
+          "description": "Replace Classic respawn with Apocalypse Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Apocalypse%20Arrival.png",
+          "script": "/Effects/Respawn/Apocalypse%20Arrival.zip"
+        },
+        {
+          "id": "arrival-hello-kitty",
+          "name": "Arrival - Hello Kitty!",
+          "description": "Replace Classic respawn with Arrival - Hello Kitty! using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Arrival%20-%20Hello%20Kitty%21.png",
+          "script": "/Effects/Respawn/Arrival%20-%20Hello%20Kitty%21.zip"
+        },
+        {
+          "id": "arrival-of-the-storm",
+          "name": "Arrival of the Storm",
+          "description": "Replace Classic respawn with Arrival of the Storm using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Arrival%20of%20the%20Storm.png",
+          "script": "/Effects/Respawn/Arrival%20of%20the%20Storm.zip"
+        },
+        {
+          "id": "as-a-respawn-effect",
+          "name": "AS A Respawn Effect",
+          "description": "Replace Classic respawn with AS A Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/AS%20A%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/AS%20A%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "as2026-respawn-effect",
+          "name": "AS2026 Respawn Effect",
+          "description": "Replace Classic respawn with AS2026 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/AS2026%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/AS2026%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "blacklist-international-champion-arrival",
+          "name": "Blacklist International Champion Arrival",
+          "description": "Replace Classic respawn with Blacklist International Champion Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Blacklist%20International%20Champion%20Arrival.png",
+          "script": "/Effects/Respawn/Blacklist%20International%20Champion%20Arrival.zip"
+        },
+        {
+          "id": "bren-esports-champion-arrival",
+          "name": "Bren Esports Champion Arrival",
+          "description": "Replace Classic respawn with Bren Esports Champion Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Bren%20Esports%20Champion%20Arrival.png",
+          "script": "/Effects/Respawn/Bren%20Esports%20Champion%20Arrival.zip"
+        },
+        {
+          "id": "candy-candy",
+          "name": "Candy! Candy!",
+          "description": "Replace Classic respawn with Candy! Candy! using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Candy%21%20Candy%21.png",
+          "script": "/Effects/Respawn/Candy%21%20Candy%21.zip"
+        },
+        {
+          "id": "christmas",
+          "name": "Christmas",
+          "description": "Replace Classic respawn with Christmas using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Christmas.png",
+          "script": "/Effects/Respawn/Christmas.zip"
+        },
+        {
+          "id": "combat-ready",
+          "name": "Combat Ready",
+          "description": "Replace Classic respawn with Combat Ready using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Combat%20Ready.png",
+          "script": "/Effects/Respawn/Combat%20Ready.zip"
+        },
+        {
+          "id": "cool-summer",
+          "name": "Cool Summer",
+          "description": "Replace Classic respawn with Cool Summer using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Cool%20Summer.png",
+          "script": "/Effects/Respawn/Cool%20Summer.zip"
+        },
+        {
+          "id": "da-r-next-respawn-effect",
+          "name": "da R next Respawn Effect",
+          "description": "Replace Classic respawn with da R next Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/da%20R%20next%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/da%20R%20next%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "darkest-arrival",
+          "name": "Darkest Arrival",
+          "description": "Replace Classic respawn with Darkest Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Darkest%20Arrival.png",
+          "script": "/Effects/Respawn/Darkest%20Arrival.zip"
+        },
+        {
+          "id": "divine-wings",
+          "name": "Divine Wings",
+          "description": "Replace Classic respawn with Divine Wings using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Divine%20Wings.png",
+          "script": "/Effects/Respawn/Divine%20Wings.zip"
+        },
+        {
+          "id": "dragon-warrior-arrives",
+          "name": "Dragon Warrior Arrives",
+          "description": "Replace Classic respawn with Dragon Warrior Arrives using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Dragon%20Warrior%20Arrives.png",
+          "script": "/Effects/Respawn/Dragon%20Warrior%20Arrives.zip"
+        },
+        {
+          "id": "echo-respawn-effect",
+          "name": "ECHO Respawn Effect",
+          "description": "Replace Classic respawn with ECHO Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/ECHO%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/ECHO%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "erciyuan-2-respawn-effect",
+          "name": "erciyuan 2 Respawn Effect",
+          "description": "Replace Classic respawn with erciyuan 2 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/erciyuan%202%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/erciyuan%202%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "erciyuan-3-respawn-effect",
+          "name": "erciyuan 3 Respawn Effect",
+          "description": "Replace Classic respawn with erciyuan 3 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/erciyuan%203%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/erciyuan%203%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "esmeralda-superhero-respawn-effect",
+          "name": "Esmeralda superhero Respawn Effect",
+          "description": "Replace Classic respawn with Esmeralda superhero Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Esmeralda%20superhero%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Esmeralda%20superhero%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "football-carnival-spawn-effect",
+          "name": "Football Carnival Spawn Effect",
+          "description": "Replace Classic respawn with Football Carnival Spawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Football%20Carnival%20Spawn%20Effect.png",
+          "script": "/Effects/Respawn/Football%20Carnival%20Spawn%20Effect.zip"
+        },
+        {
+          "id": "foreboding-arrival",
+          "name": "Foreboding Arrival",
+          "description": "Replace Classic respawn with Foreboding Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Foreboding%20Arrival.png",
+          "script": "/Effects/Respawn/Foreboding%20Arrival.zip"
+        },
+        {
+          "id": "gas-respawn-effect",
+          "name": "Gas Respawn Effect",
+          "description": "Replace Classic respawn with Gas Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Gas%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Gas%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "heart-of-anima",
+          "name": "Heart of Anima",
+          "description": "Replace Classic respawn with Heart of Anima using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Heart%20of%20Anima.png",
+          "script": "/Effects/Respawn/Heart%20of%20Anima.zip"
+        },
+        {
+          "id": "jingcaihy-respawn-effect",
+          "name": "jingcaihy Respawn Effect",
+          "description": "Replace Classic respawn with jingcaihy Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/jingcaihy%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/jingcaihy%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "jujutsu-kaisen-spawn-effect",
+          "name": "Jujutsu Kaisen Spawn Effect",
+          "description": "Replace Classic respawn with Jujutsu Kaisen Spawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Jujutsu%20Kaisen%20Spawn%20Effect.png",
+          "script": "/Effects/Respawn/Jujutsu%20Kaisen%20Spawn%20Effect.zip"
+        },
+        {
+          "id": "kuanghuan-respawn-effect",
+          "name": "kuanghuan Respawn Effect",
+          "description": "Replace Classic respawn with kuanghuan Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/kuanghuan%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/kuanghuan%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "leomord-respawn-effect",
+          "name": "Leomord Respawn Effect",
+          "description": "Replace Classic respawn with Leomord Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Leomord%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Leomord%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "light-dark",
+          "name": "Light & Dark",
+          "description": "Replace Classic respawn with Light & Dark using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Light%20%26%20Dark.png",
+          "script": "/Effects/Respawn/Light%20%26%20Dark.zip"
+        },
+        {
+          "id": "load-selena-villain-respawn-effect",
+          "name": "load selena villain Respawn Effect",
+          "description": "Replace Classic respawn with load selena villain Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/load%20selena%20villain%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/load%20selena%20villain%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "m1-champion-spawn-effect",
+          "name": "M1 Champion Spawn Effect",
+          "description": "Replace Classic respawn with M1 Champion Spawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M1%20Champion%20Spawn%20Effect.png",
+          "script": "/Effects/Respawn/M1%20Champion%20Spawn%20Effect.zip"
+        },
+        {
+          "id": "m2-glory-spawn-effect",
+          "name": "M2 Glory Spawn Effect",
+          "description": "Replace Classic respawn with M2 Glory Spawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M2%20Glory%20Spawn%20Effect.png",
+          "script": "/Effects/Respawn/M2%20Glory%20Spawn%20Effect.zip"
+        },
+        {
+          "id": "m3-glorious-arrival",
+          "name": "M3 Glorious Arrival",
+          "description": "Replace Classic respawn with M3 Glorious Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M3%20Glorious%20Arrival.png",
+          "script": "/Effects/Respawn/M3%20Glorious%20Arrival.zip"
+        },
+        {
+          "id": "m4-glorious-arrival",
+          "name": "M4 Glorious Arrival",
+          "description": "Replace Classic respawn with M4 Glorious Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M4%20Glorious%20Arrival.png",
+          "script": "/Effects/Respawn/M4%20Glorious%20Arrival.zip"
+        },
+        {
+          "id": "m5-champion-arrival",
+          "name": "M5 Champion Arrival",
+          "description": "Replace Classic respawn with M5 Champion Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M5%20Champion%20Arrival.png",
+          "script": "/Effects/Respawn/M5%20Champion%20Arrival.zip"
+        },
+        {
+          "id": "m5-glorious-arrival",
+          "name": "M5 Glorious Arrival",
+          "description": "Replace Classic respawn with M5 Glorious Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M5%20Glorious%20Arrival.png",
+          "script": "/Effects/Respawn/M5%20Glorious%20Arrival.zip"
+        },
+        {
+          "id": "m6-fnop-champion-arrival",
+          "name": "M6 FNOP Champion Arrival",
+          "description": "Replace Classic respawn with M6 FNOP Champion Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M6%20FNOP%20Champion%20Arrival.png",
+          "script": "/Effects/Respawn/M6%20FNOP%20Champion%20Arrival.zip"
+        },
+        {
+          "id": "m6-glorious-arrival",
+          "name": "M6 Glorious Arrival",
+          "description": "Replace Classic respawn with M6 Glorious Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M6%20Glorious%20Arrival.png",
+          "script": "/Effects/Respawn/M6%20Glorious%20Arrival.zip"
+        },
+        {
+          "id": "m7-glorious-arrival",
+          "name": "M7 Glorious Arrival",
+          "description": "Replace Classic respawn with M7 Glorious Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/M7%20Glorious%20Arrival.png",
+          "script": "/Effects/Respawn/M7%20Glorious%20Arrival.zip"
+        },
+        {
+          "id": "mall-event-respawn-effect",
+          "name": "Mall Event Respawn Effect",
+          "description": "Replace Classic respawn with Mall Event Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Mall%20Event%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Mall%20Event%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "mcl-tournament",
+          "name": "MCL Tournament",
+          "description": "Replace Classic respawn with MCL Tournament using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/MCL%20Tournament.png",
+          "script": "/Effects/Respawn/MCL%20Tournament.zip"
+        },
+        {
+          "id": "mclhigh-respawn-effect",
+          "name": "MCLHIGH Respawn Effect",
+          "description": "Replace Classic respawn with MCLHIGH Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/MCLHIGH%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/MCLHIGH%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "mcllow-respawn-effect",
+          "name": "MCLLOW Respawn Effect",
+          "description": "Replace Classic respawn with MCLLOW Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/MCLLOW%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/MCLLOW%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "mlal-respawn-effect",
+          "name": "MLAL Respawn Effect",
+          "description": "Replace Classic respawn with MLAL Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/MLAL%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/MLAL%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "mlbb-x-star-wars-spawn-effect",
+          "name": "MLBB x Star Wars Spawn Effect",
+          "description": "Replace Classic respawn with MLBB x Star Wars Spawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/MLBB%20x%20Star%20Wars%20Spawn%20Effect.png",
+          "script": "/Effects/Respawn/MLBB%20x%20Star%20Wars%20Spawn%20Effect.zip"
+        },
+        {
+          "id": "msc-tournament",
+          "name": "MSC Tournament",
+          "description": "Replace Classic respawn with MSC Tournament using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/MSC%20Tournament.png",
+          "script": "/Effects/Respawn/MSC%20Tournament.zip"
+        },
+        {
+          "id": "nengliangshuijing-respawn-effect",
+          "name": "nengliangshuijing Respawn Effect",
+          "description": "Replace Classic respawn with nengliangshuijing Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/nengliangshuijing%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/nengliangshuijing%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "oro-respawn-effect",
+          "name": "ORO Respawn Effect",
+          "description": "Replace Classic respawn with ORO Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/ORO%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/ORO%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "paopao-respawn-effect",
+          "name": "paopao Respawn Effect",
+          "description": "Replace Classic respawn with paopao Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/paopao%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/paopao%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "pixiv4-respawn-effect",
+          "name": "PIXIV4 Respawn Effect",
+          "description": "Replace Classic respawn with PIXIV4 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/PIXIV4%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/PIXIV4%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "pro-i-respawn-effect",
+          "name": "Pro I Respawn Effect",
+          "description": "Replace Classic respawn with Pro I Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Pro%20I%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Pro%20I%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "pro-j-respawn-effect",
+          "name": "Pro J Respawn Effect",
+          "description": "Replace Classic respawn with Pro J Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Pro%20J%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Pro%20J%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "pro-s-respawn-effect",
+          "name": "pro s Respawn Effect",
+          "description": "Replace Classic respawn with pro s Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/pro%20s%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/pro%20s%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "pro-s02-respawn-effect",
+          "name": "Pro S02 Respawn Effect",
+          "description": "Replace Classic respawn with Pro S02 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Pro%20S02%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Pro%20S02%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "pro-z-respawn-effect",
+          "name": "Pro Z Respawn Effect",
+          "description": "Replace Classic respawn with Pro Z Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Pro%20Z%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/Pro%20Z%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "proq-respawn-effect",
+          "name": "PROQ Respawn Effect",
+          "description": "Replace Classic respawn with PROQ Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/PROQ%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/PROQ%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "proq02-respawn-effect",
+          "name": "proq02 Respawn Effect",
+          "description": "Replace Classic respawn with proq02 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/proq02%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/proq02%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "qms3-respawn-effect",
+          "name": "QMS3 Respawn Effect",
+          "description": "Replace Classic respawn with QMS3 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/QMS3%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/QMS3%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "qumoshi-2-respawn-effect",
+          "name": "qumoshi 2 Respawn Effect",
+          "description": "Replace Classic respawn with qumoshi 2 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/qumoshi%202%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/qumoshi%202%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "ramadan-2026-arrival",
+          "name": "Ramadan 2026 Arrival",
+          "description": "Replace Classic respawn with Ramadan 2026 Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Ramadan%202026%20Arrival.png",
+          "script": "/Effects/Respawn/Ramadan%202026%20Arrival.zip"
+        },
+        {
+          "id": "ranked-season-2025-arrival",
+          "name": "Ranked Season 2025 Arrival",
+          "description": "Replace Classic respawn with Ranked Season 2025 Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Ranked%20Season%202025%20Arrival.png",
+          "script": "/Effects/Respawn/Ranked%20Season%202025%20Arrival.zip"
+        },
+        {
+          "id": "ranked-season-2026-arrival",
+          "name": "Ranked Season 2026 Arrival",
+          "description": "Replace Classic respawn with Ranked Season 2026 Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Ranked%20Season%202026%20Arrival.png",
+          "script": "/Effects/Respawn/Ranked%20Season%202026%20Arrival.zip"
+        },
+        {
+          "id": "rebirth-of-hope",
+          "name": "Rebirth of Hope",
+          "description": "Replace Classic respawn with Rebirth of Hope using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Rebirth%20of%20Hope.png",
+          "script": "/Effects/Respawn/Rebirth%20of%20Hope.zip"
+        },
+        {
+          "id": "sam-respawn-effect",
+          "name": "SAM Respawn Effect",
+          "description": "Replace Classic respawn with SAM Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/SAM%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/SAM%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "sbgj-respawn-effect",
+          "name": "SBGJ Respawn Effect",
+          "description": "Replace Classic respawn with SBGJ Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/SBGJ%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/SBGJ%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "sds-respawn-effect",
+          "name": "SDS Respawn Effect",
+          "description": "Replace Classic respawn with SDS Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/SDS%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/SDS%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "sf-respawn-effect",
+          "name": "SF Respawn Effect",
+          "description": "Replace Classic respawn with SF Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/SF%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/SF%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "shengdan-respawn-effect",
+          "name": "shengdan Respawn Effect",
+          "description": "Replace Classic respawn with shengdan Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/shengdan%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/shengdan%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "spd-respawn-effect",
+          "name": "SPD Respawn Effect",
+          "description": "Replace Classic respawn with SPD Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/SPD%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/SPD%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "spring-festival",
+          "name": "Spring Festival",
+          "description": "Replace Classic respawn with Spring Festival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Spring%20Festival.png",
+          "script": "/Effects/Respawn/Spring%20Festival.zip"
+        },
+        {
+          "id": "spring-festival-2025",
+          "name": "Spring Festival 2025",
+          "description": "Replace Classic respawn with Spring Festival 2025 using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Spring%20Festival%202025.png",
+          "script": "/Effects/Respawn/Spring%20Festival%202025.zip"
+        },
+        {
+          "id": "spring-festival-2026",
+          "name": "Spring Festival 2026",
+          "description": "Replace Classic respawn with Spring Festival 2026 using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Spring%20Festival%202026.png",
+          "script": "/Effects/Respawn/Spring%20Festival%202026.zip"
+        },
+        {
+          "id": "star-arrival",
+          "name": "Star Arrival",
+          "description": "Replace Classic respawn with Star Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Star%20Arrival.png",
+          "script": "/Effects/Respawn/Star%20Arrival.zip"
+        },
+        {
+          "id": "starlight",
+          "name": "Starlight",
+          "description": "Replace Classic respawn with Starlight using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Starlight.png",
+          "script": "/Effects/Respawn/Starlight.zip"
+        },
+        {
+          "id": "summer-gala",
+          "name": "Summer Gala",
+          "description": "Replace Classic respawn with Summer Gala using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Summer%20Gala.png",
+          "script": "/Effects/Respawn/Summer%20Gala.zip"
+        },
+        {
+          "id": "super-descent",
+          "name": "Super Descent",
+          "description": "Replace Classic respawn with Super Descent using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/Super%20Descent.png",
+          "script": "/Effects/Respawn/Super%20Descent.zip"
+        },
+        {
+          "id": "sushiqumo-respawn-effect",
+          "name": "sushiqumo Respawn Effect",
+          "description": "Replace Classic respawn with sushiqumo Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/sushiqumo%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/sushiqumo%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "the-arrival-of-the-sword",
+          "name": "The Arrival of the Sword",
+          "description": "Replace Classic respawn with The Arrival of the Sword using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/The%20Arrival%20of%20the%20Sword.png",
+          "script": "/Effects/Respawn/The%20Arrival%20of%20the%20Sword.zip"
+        },
+        {
+          "id": "wof-respawn-effect",
+          "name": "WOF Respawn Effect",
+          "description": "Replace Classic respawn with WOF Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/WOF%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/WOF%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "world-cup-arrival",
+          "name": "World Cup Arrival",
+          "description": "Replace Classic respawn with World Cup Arrival using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/World%20Cup%20Arrival.png",
+          "script": "/Effects/Respawn/World%20Cup%20Arrival.zip"
+        },
+        {
+          "id": "xiongmao-respawn-effect",
+          "name": "xiongmao Respawn Effect",
+          "description": "Replace Classic respawn with xiongmao Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/xiongmao%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/xiongmao%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "yks-respawn-effect",
+          "name": "YKS Respawn Effect",
+          "description": "Replace Classic respawn with YKS Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/YKS%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/YKS%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "zhaiyue-2025-respawn-effect",
+          "name": "zhaiyue 2025 Respawn Effect",
+          "description": "Replace Classic respawn with zhaiyue 2025 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/zhaiyue%202025%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/zhaiyue%202025%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "zhaiyue2024-respawn-effect",
+          "name": "zhaiyue2024 Respawn Effect",
+          "description": "Replace Classic respawn with zhaiyue2024 Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/zhaiyue2024%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/zhaiyue2024%20Respawn%20Effect.zip"
+        },
+        {
+          "id": "zhou-superhero-respawn-effect",
+          "name": "zhou superhero Respawn Effect",
+          "description": "Replace Classic respawn with zhou superhero Respawn Effect using its matching entrance effect and battle icon.",
+          "image": "/Effects/Respawn/zhou%20superhero%20Respawn%20Effect.png",
+          "script": "/Effects/Respawn/zhou%20superhero%20Respawn%20Effect.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "diggie-backup",
+      "portrait_file": "Diggie-Default.png",
+      "script_file": "Diggie-Backup.zip",
+      "skin_name": "Timekeeper",
+      "splash_file": "Diggie-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "diggie-pigeoneer",
+      "portrait_file": "Diggie-Pigeoneer.png",
+      "script_file": "Diggie-Pigeoneer.zip",
+      "skin_name": "Pigeoneer",
+      "splash_file": "Diggie-Pigeoneer.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "diggie-constellation",
+      "portrait_file": "Diggie-Constellation.png",
+      "script_file": "Diggie-Constellation.zip",
+      "skin_name": "Constellation",
+      "splash_file": "Diggie-Constellation.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "diggie-circus-clown",
+      "portrait_file": "Diggie-Circus-Clown.png",
+      "script_file": "Diggie-Circus-Clown.zip",
+      "skin_name": "Circus Clown",
+      "splash_file": "Diggie-Circus-Clown.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "diggie-fairytaler",
+      "portrait_file": "Diggie-Fairytaler.png",
+      "script_file": "Diggie-Fairytaler.zip",
+      "skin_name": "Fairytaler",
+      "splash_file": "Diggie-Fairytaler.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "diggie-underwood-steward",
+      "portrait_file": "Diggie-Underwood-Steward.png",
+      "script_file": "Diggie-Underwood-Steward.zip",
+      "skin_name": "Underwood Steward",
+      "splash_file": "Diggie-Underwood-Steward.png",
+      "tag_id": "s32",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "diggie-astrologist-painted-01",
+      "portrait_file": "Diggie-Astrologist.png",
+      "script_file": "Diggie-Astrologist.zip",
+      "skin_name": "Astrologist",
+      "splash_file": "Diggie - Astrologist.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 48,
+    "name": "Diggie",
+    "roles": [
+      "Support"
+    ],
+    "slug": "diggie"
+  },
+  "release_tag": "visual-diggie",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

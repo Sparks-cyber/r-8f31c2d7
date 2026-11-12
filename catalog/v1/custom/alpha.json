@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "alpha-homelander",
+      "portrait_file": "Alpha - Homelander.png",
+      "script_file": "Alpha-Homelander.zip",
+      "skin_name": "Homelander",
+      "splash_file": "Alpha - Homelander.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    },
+    {
+      "enabled": true,
+      "id": "alpha-igris",
+      "portrait_file": "Alpha - Igris.png",
+      "script_file": "Alpha-Igris.zip",
+      "skin_name": "Igris",
+      "splash_file": "Alpha - Igris.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 28,
+    "name": "Alpha",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "alpha"
+  },
+  "release_tag": "custom-alpha",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

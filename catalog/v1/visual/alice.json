@@ -1,0 +1,107 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "alice-backup",
+      "portrait_file": "Alice-Default.png",
+      "script_file": "Alice-Backup.zip",
+      "skin_name": "Queen of Blood",
+      "splash_file": "Alice-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "alice-spirit-woman",
+      "portrait_file": "Alice-Spirit-Woman.png",
+      "script_file": "Alice-Spirit-Woman.zip",
+      "skin_name": "Spirit Woman",
+      "splash_file": "Alice-Spirit-Woman.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "alice-wizardry-teacher",
+      "portrait_file": "Alice-Wizardry-Teacher.png",
+      "script_file": "Alice-Wizardry-Teacher.zip",
+      "skin_name": "Wizardry Teacher",
+      "splash_file": "Alice-Wizardry-Teacher.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "alice-divine-owl",
+      "portrait_file": "Alice-Divine-Owl.png",
+      "script_file": "Alice-Divine-Owl.zip",
+      "skin_name": "Divine Owl",
+      "splash_file": "Alice-Divine-Owl.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "alice-steam-glider",
+      "portrait_file": "Alice-Steam-Glider.png",
+      "script_file": "Alice-Steam-Glider.zip",
+      "skin_name": "Steam Glider",
+      "splash_file": "Alice-Steam-Glider.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "alice-jade-empress",
+      "portrait_file": "Alice-Jade-Empress.png",
+      "script_file": "Alice-Jade-Empress.zip",
+      "skin_name": "Jade Empress",
+      "splash_file": "Alice-Jade-Empress.png",
+      "tag_id": "s29",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "alice-darknet-temptress",
+      "portrait_file": "Alice-Darknet-Temptress.png",
+      "script_file": "Alice-Darknet-Temptress.zip",
+      "skin_name": "Darknet Temptress",
+      "splash_file": "Alice-Darknet-Temptress.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "alice-dreaming-mornach",
+      "portrait_file": "Alice-Dreaming-Mornach.png",
+      "script_file": null,
+      "skin_name": "Dreaming Mornach",
+      "splash_file": "Alice-Dreaming-Mornach.png",
+      "tag_id": "special",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "alice-divine-phoenix",
+      "portrait_file": "Alice-Divine-Phoenix.png",
+      "script_file": "Alice-Divine-Phoenix.zip",
+      "skin_name": "Divine Phoenix",
+      "splash_file": "Alice-Divine-Phoenix.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 4,
+    "name": "Alice",
+    "roles": [
+      "Mage",
+      "Tank"
+    ],
+    "slug": "alice"
+  },
+  "release_tag": "visual-alice",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

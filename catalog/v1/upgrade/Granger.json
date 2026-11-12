@@ -1,0 +1,641 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Granger",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Bardic Whisper",
+      "Splash_url": "Granger-Bardic-Whisper.png",
+      "script": "Granger-Bardic-Whisper-Backup.zip",
+      "Portrait_url": "Granger-Bardic-Whisper.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Bardic-Whisper-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Bardic-Whisper-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Bardic-Whisper-Agent-Z.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Bardic-Whisper-Megatron.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Bardic-Whisper-Hellbringer.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Bardic-Whisper-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Bardic-Whisper-Alluring-Enigma.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Bardic-Whisper-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Doomsday Terminator",
+      "Splash_url": "Granger-Doomsday-Terminator.png",
+      "script": "Granger-Doomsday-Terminator-Backup.zip",
+      "Portrait_url": "Granger-Doomsday-Terminator.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Doomsday-Terminator-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Doomsday-Terminator-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Doomsday-Terminator-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Doomsday-Terminator-Agent-Z.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Doomsday-Terminator-Megatron.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Doomsday-Terminator-Hellbringer.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Doomsday-Terminator-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Doomsday-Terminator-Alluring-Enigma.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Biosoldier",
+      "Splash_url": "Granger-Biosoldier.png",
+      "script": "Granger-Biosoldier-Backup.zip",
+      "Portrait_url": "Granger-Biosoldier.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Biosoldier-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Biosoldier-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Biosoldier-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Biosoldier-Agent-Z.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Biosoldier-Megatron.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Biosoldier-Hellbringer.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Biosoldier-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Biosoldier-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lightborn",
+      "Default_name": "Lightborn - Overrider",
+      "Splash_url": "Granger-Lightborn-Overrider.png",
+      "script": "Granger-Lightborn-Overrider-Backup.zip",
+      "Portrait_url": "Granger-Lightborn-Overrider.png",
+      "Tags": [
+        "Lightborn.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Lightborn-Overrider-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Lightborn-Overrider-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Lightborn-Overrider-Biosoldier.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Lightborn-Overrider-Agent-Z.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Lightborn-Overrider-Megatron.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Lightborn-Overrider-Hellbringer.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Lightborn-Overrider-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Lightborn-Overrider-Alluring-Enigma.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Lightborn-Overrider-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Agent Z",
+      "Splash_url": "Granger-Agent-Z.png",
+      "script": "Granger-Agent-Z-Backup.zip",
+      "Portrait_url": "Granger-Agent-Z.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Agent-Z-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Agent-Z-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Agent-Z-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Agent-Z-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Agent-Z-Megatron.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Agent-Z-Hellbringer.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Agent-Z-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Agent-Z-Alluring-Enigma.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Agent-Z-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Starfall Knight",
+      "Splash_url": "Granger-Starfall-Knight.png",
+      "script": "Granger-Starfall-Knight-Backup.zip",
+      "Portrait_url": "Granger-Starfall-Knight.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Starfall-Knight-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Starfall-Knight-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Starfall-Knight-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Starfall-Knight-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Starfall-Knight-Agent-Z.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Starfall-Knight-Megatron.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Starfall-Knight-Hellbringer.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Starfall-Knight-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Starfall-Knight-Alluring-Enigma.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Starfall-Knight-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Transformers",
+      "Default_name": "Megatron",
+      "Splash_url": "Granger-Megatron.png",
+      "script": "Granger-Megatron-Backup.zip",
+      "Portrait_url": "Granger-Megatron.png",
+      "Tags": [
+        "Transformers.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Megatron-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Megatron-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Megatron-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Megatron-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Megatron-Agent-Z.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Megatron-Hellbringer.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Megatron-Alluring-Enigma.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Megatron-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Create",
+      "Default_name": "Hellbringer",
+      "Splash_url": "Granger-Hellbringer.png",
+      "script": "Granger-Hellbringer-Backup.zip",
+      "Portrait_url": "Granger-Hellbringer.png",
+      "Tags": [
+        "Create.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Hellbringer-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Hellbringer-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Hellbringer-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Hellbringer-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Hellbringer-Agent-Z.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Hellbringer-Megatron.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Hellbringer-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Hellbringer-Alluring-Enigma.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Hellbringer-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Exorcists",
+      "Default_name": "Exorcist Granger",
+      "Splash_url": "Granger-Exorcist-Granger.png",
+      "script": "Granger-Exorcist-Granger-Backup.zip",
+      "Portrait_url": "Granger-Exorcist.png",
+      "Tags": [
+        "Exorcists.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Exorcist-Granger-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Exorcist-Granger-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Exorcist-Granger-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Exorcist-Granger-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Exorcist-Granger-Agent-Z.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Exorcist-Granger-Hellbringer.zip"
+        },
+        {
+          "name": "Alluring Enigma",
+          "Portrait_url": "Granger-Alluring-Enigma.png",
+          "Splash_url": "Granger-Alluring-Enigma.png",
+          "script": "Granger-Exorcist-Granger-Alluring-Enigma.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Exorcist-Granger-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Alluring Enigma",
+      "Splash_url": "Granger-Alluring-Enigma.png",
+      "script": "Granger-Alluring-Enigma-Backup.zip",
+      "Portrait_url": "Granger-Alluring-Enigma.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Bardic Whisper",
+          "Portrait_url": "Granger-Bardic-Whisper.png",
+          "Splash_url": "Granger-Bardic-Whisper.png",
+          "script": "Granger-Alluring-Enigma-Bardic-Whisper.zip"
+        },
+        {
+          "name": "Doomsday Terminator",
+          "Portrait_url": "Granger-Doomsday-Terminator.png",
+          "Splash_url": "Granger-Doomsday-Terminator.png",
+          "script": "Granger-Alluring-Enigma-Doomsday-Terminator.zip"
+        },
+        {
+          "name": "Biosoldier",
+          "Portrait_url": "Granger-Biosoldier.png",
+          "Splash_url": "Granger-Biosoldier.png",
+          "script": "Granger-Alluring-Enigma-Biosoldier.zip"
+        },
+        {
+          "name": "Lightborn - Overrider",
+          "Portrait_url": "Granger-Lightborn-Overrider.png",
+          "Splash_url": "Granger-Lightborn-Overrider.png",
+          "script": "Granger-Alluring-Enigma-Lightborn-Overrider.zip"
+        },
+        {
+          "name": "Agent Z",
+          "Portrait_url": "Granger-Agent-Z.png",
+          "Splash_url": "Granger-Agent-Z.png",
+          "script": "Granger-Alluring-Enigma-Agent-Z.zip"
+        },
+        {
+          "name": "Megatron",
+          "Portrait_url": "Granger-Megatron.png",
+          "Splash_url": "Granger-Megatron.png",
+          "script": "Granger-Alluring-Enigma-Megatron.zip"
+        },
+        {
+          "name": "Hellbringer",
+          "Portrait_url": "Granger-Hellbringer.png",
+          "Splash_url": "Granger-Hellbringer.png",
+          "script": "Granger-Alluring-Enigma-Hellbringer.zip"
+        },
+        {
+          "name": "Exorcist Granger",
+          "Portrait_url": "Granger-Exorcist.png",
+          "Splash_url": "Granger-Exorcist-Granger.png",
+          "script": "Granger-Alluring-Enigma-Exorcist-Granger.zip"
+        },
+        {
+          "name": "Doomsday Punisher",
+          "Portrait_url": "Granger-Doomsday-Punisher.png",
+          "Splash_url": "Granger-Doomsday-Punisher.png",
+          "script": "Granger-Alluring-Enigma-Doomsday-Punisher-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

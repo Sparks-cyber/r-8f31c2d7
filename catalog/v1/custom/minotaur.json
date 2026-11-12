@@ -1,0 +1,28 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "minotaur-bumblebee",
+      "portrait_file": "Minotaur - Bumblebee.png",
+      "script_file": "Minotaur-Bumblebee.zip",
+      "skin_name": "Bumblebee",
+      "splash_file": "Minotaur - Bumblebee.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    }
+  ],
+  "hero": {
+    "id": 19,
+    "name": "Minotaur",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "slug": "minotaur"
+  },
+  "release_tag": "custom-minotaur",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

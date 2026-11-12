@@ -1,0 +1,97 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "edith-backup",
+      "portrait_file": "Edith-Default.png",
+      "script_file": "Edith-Backup.zip",
+      "skin_name": "Ancient Guard",
+      "splash_file": "Edith-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "edith-celestial-safeguard",
+      "portrait_file": "Edith-Celestial-Safeguard.png",
+      "script_file": "Edith-Celestial-Safeguard.zip",
+      "skin_name": "Celestial Safeguard",
+      "splash_file": "Edith-Celestial-Safeguard.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "edith-ancient-warden",
+      "portrait_file": "Edith-Ancient-Warden.png",
+      "script_file": "Edith-Ancient-Warden.zip",
+      "skin_name": "Ancient Warden",
+      "splash_file": "Edith-Ancient-Warden.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "edith-red-bastion",
+      "portrait_file": "Edith-Red-Bastion.png",
+      "script_file": "Edith-Red-Bastion.zip",
+      "skin_name": "Red Bastion",
+      "splash_file": "Edith-Red-Bastion.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "edith-beyond-the-clouds-edith",
+      "portrait_file": "Edith-Beyond-the-Clouds.png",
+      "script_file": "Edith-Beyond-the-Clouds-Edith.zip",
+      "skin_name": "Beyond the Clouds Edith",
+      "splash_file": "Edith-Beyond-the-Clouds-Edith.png",
+      "tag_id": "beyond-the-clouds",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "edith-prismatic-sentinel",
+      "portrait_file": "Edith-Prismatic-Sentinel.png",
+      "script_file": "Edith-Prismatic-Sentinel.zip",
+      "skin_name": "Prismatic Sentinel",
+      "splash_file": "Edith-Prismatic-Sentinel.png",
+      "tag_id": "mpl",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "edith-verdan-knight",
+      "portrait_file": "Edith-Verdan-Knight.png",
+      "script_file": "Edith-Verdan-Knight.zip",
+      "skin_name": "Verdan Knight",
+      "splash_file": "Edith-Verdan-Knight.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "edith-golden-warden",
+      "portrait_file": "Edith-Golden-Warden.png",
+      "script_file": "Edith-Golden-Warden.zip",
+      "skin_name": "Golden Warden",
+      "splash_file": "Edith-Golden-Warden.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 111,
+    "name": "Edith",
+    "roles": [
+      "Tank",
+      "Marksman"
+    ],
+    "slug": "edith"
+  },
+  "release_tag": "visual-edith",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

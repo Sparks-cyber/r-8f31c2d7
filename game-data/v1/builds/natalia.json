@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 24,
+    "slug": "natalia",
+    "name": "Natalia"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "natalia-community-5369",
+      "name": "Community Build 5369",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "bladeoftheheptaseas",
+        "hunterstrike",
+        "berserkersfury",
+        "maleficroar",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "agility",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "SLOT GUIDE FOR NATALIA\n\nFLAME RETRIBUTION IS RECOMMENDED\n\nCOMBO = (SAFE COMBO) RETRI - BA - S2 - S1 - S1 - S3 - BA\n\n(MAIN COMBO) RETRI - BA - S1 - S3 - BA - S1\n\n1st - BOOTS\n\n2nd and 3rd - CORE ITEMS (NON-NEGOTIABLE)\n\n4th - AMPLIFIER (BOD/ SKYPIERCER/ BERSERKER FURY)\n\n5th - COUNTER (MALEFIC ROAR/ SEA HALBERD)\n\n6th - SURVIVAL ITEM (IMMORTALITY/ WINTER CROWN/ ROSE GOLD)",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5369,
+      "source_created_at": "2026-02-01T15:12:07.000Z",
+      "likes": 3,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "natalia-community-5870",
+      "name": "Community Build 5870",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "skypiercer",
+        "bladeoftheheptaseas",
+        "seahalberd",
+        "demonhuntersword",
+        "maleficroar"
+      ],
+      "battle_spell_id": "execute",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "lethalignition",
+        "agility",
+        "wildernessblessing"
+      ],
+      "situational_items": [],
+      "notes": "Very effective balanced item for natalie for all against heroes",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5870,
+      "source_created_at": "2026-02-20T13:52:16.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "natalia-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

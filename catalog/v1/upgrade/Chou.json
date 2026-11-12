@@ -1,0 +1,1139 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Chou",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Hip-hop Boy",
+      "Splash_url": "Chou-Hip-hop-Boy.png",
+      "script": "Chou-Hip-hop-Boy-Backup.zip",
+      "Portrait_url": "Chou-Hip-hop-Boy.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Hip-hop-Boy-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Hip-hop-Boy-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Hip-hop-Boy-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Hip-hop-Boy-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Hip-hop-Boy-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Hip-hop-Boy-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Hip-hop-Boy-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Hip-hop-Boy-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Hip-hop-Boy-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Hip-hop-Boy-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Hip-hop-Boy-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Hip-hop-Boy-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Hip-hop-Boy-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Hip-hop-Boy-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Dragon Boy",
+      "Splash_url": "Chou-Dragon-Boy.png",
+      "script": "Chou-Dragon-Boy-Backup.zip",
+      "Portrait_url": "Chou-Dragon-Boy.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Dragon-Boy-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Dragon-Boy-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Dragon-Boy-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Dragon-Boy-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Dragon-Boy-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Dragon-Boy-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Dragon-Boy-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Dragon-Boy-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Dragon-Boy-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Dragon-Boy-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Dragon-Boy-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Dragon-Boy-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Dragon-Boy-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Dragon-Boy-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "King of Muay Thai",
+      "Splash_url": "Chou-King-of-Muay-Thai.png",
+      "script": "Chou-King-of-Muay-Thai-Backup.zip",
+      "Portrait_url": "Chou-King-of-Muay-Thai.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-King-of-Muay-Thai-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-King-of-Muay-Thai-Dragon-Boy.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-King-of-Muay-Thai-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-King-of-Muay-Thai-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-King-of-Muay-Thai-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-King-of-Muay-Thai-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-King-of-Muay-Thai-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-King-of-Muay-Thai-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-King-of-Muay-Thai-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-King-of-Muay-Thai-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-King-of-Muay-Thai-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-King-of-Muay-Thai-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-King-of-Muay-Thai-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Furious Tiger",
+      "Splash_url": "Chou-Furious-Tiger.png",
+      "script": "Chou-Furious-Tiger-Backup.zip",
+      "Portrait_url": "Chou-Furious-Tiger.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Furious-Tiger-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Furious-Tiger-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Furious-Tiger-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Furious-Tiger-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Furious-Tiger-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Furious-Tiger-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Furious-Tiger-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Furious-Tiger-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Furious-Tiger-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Furious-Tiger-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Furious-Tiger-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Furious-Tiger-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Furious-Tiger-Undefeated-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Iori Yagami",
+      "Splash_url": "Chou-Iori-Yagami.png",
+      "script": "Chou-Iori-Yagami-Backup.zip",
+      "Portrait_url": "Chou-Iori-Yagami.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Iori-Yagami-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Iori-Yagami-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Iori-Yagami-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Iori-Yagami-Furious-Tiger.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Iori-Yagami-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Iori-Yagami-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Iori-Yagami-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Iori-Yagami-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Iori-Yagami-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Iori-Yagami-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Iori-Yagami-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Iori-Yagami-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Iori-Yagami-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Iori-Yagami-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Go Ballistic",
+      "Splash_url": "Chou-Go-Ballistic.png",
+      "script": "Chou-Go-Ballistic-Backup.zip",
+      "Portrait_url": "Chou-Go-Ballistic.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Go-Ballistic-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Go-Ballistic-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Go-Ballistic-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Go-Ballistic-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Go-Ballistic-Iori-Yagami.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Go-Ballistic-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Go-Ballistic-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Go-Ballistic-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Go-Ballistic-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Go-Ballistic-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Go-Ballistic-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Go-Ballistic-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Go-Ballistic-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Go-Ballistic-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dawning Stars",
+      "Default_name": "Thunderfist",
+      "Splash_url": "Chou-Thunderfist.png",
+      "script": "Chou-Thunderfist-Backup.zip",
+      "Portrait_url": "Chou-Thunderfist.png",
+      "Tags": [
+        "Dawning Stars.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Thunderfist-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Thunderfist-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Thunderfist-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Thunderfist-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Thunderfist-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Thunderfist-Go-Ballistic.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Thunderfist-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Thunderfist-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Thunderfist-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Thunderfist-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Thunderfist-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Thunderfist-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Thunderfist-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Thunderfist-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.T.U.N.",
+      "Default_name": "S.T.U.N. Chou",
+      "Splash_url": "Chou-S-T-U-N-Chou.png",
+      "script": "Chou-S-T-U-N-Chou-Backup.zip",
+      "Portrait_url": "Chou-S-T-U-N-Chou.png",
+      "Tags": [
+        "STUN.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-S-T-U-N-Chou-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-S-T-U-N-Chou-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-S-T-U-N-Chou-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-S-T-U-N-Chou-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-S-T-U-N-Chou-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-S-T-U-N-Chou-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-S-T-U-N-Chou-Thunderfist.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-S-T-U-N-Chou-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-S-T-U-N-Chou-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-S-T-U-N-Chou-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-S-T-U-N-Chou-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-S-T-U-N-Chou-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-S-T-U-N-Chou-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-S-T-U-N-Chou-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Saint Seiya",
+      "Default_name": "Dragon Shiryu",
+      "Splash_url": "Chou-Dragon-Shiryu.png",
+      "script": "Chou-Dragon-Shiryu-Backup.zip",
+      "Portrait_url": "Chou-Dragon-Shiryu.png",
+      "Tags": [
+        "Saint Seiya.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Dragon-Shiryu-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Dragon-Shiryu-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Dragon-Shiryu-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Dragon-Shiryu-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Dragon-Shiryu-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Dragon-Shiryu-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Dragon-Shiryu-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Dragon-Shiryu-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Dragon-Shiryu-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Dragon-Shiryu-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Dragon-Shiryu-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Dragon-Shiryu-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Dragon-Shiryu-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Dragon-Shiryu-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Saint Seiya",
+      "Default_name": "Libra Shiryu",
+      "Splash_url": "Chou-Libra-Shiryu.png",
+      "script": "Chou-Libra-Shiryu-Backup.zip",
+      "Portrait_url": "Chou-Libra-Shiryu.png",
+      "Tags": [
+        "Saint Seiya.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Libra-Shiryu-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Libra-Shiryu-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Libra-Shiryu-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Libra-Shiryu-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Libra-Shiryu-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Libra-Shiryu-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Libra-Shiryu-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Libra-Shiryu-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Libra-Shiryu-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Libra-Shiryu-ECHO.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-Libra-Shiryu-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-Libra-Shiryu-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Libra-Shiryu-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Libra-Shiryu-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "Default_name": "ECHO",
+      "Splash_url": "Chou-ECHO.png",
+      "script": "Chou-ECHO-Backup.zip",
+      "Portrait_url": "Chou-ECHO.png",
+      "Tags": [
+        "Champion.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-ECHO-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-ECHO-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-ECHO-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-ECHO-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-ECHO-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-ECHO-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-ECHO-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-ECHO-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-ECHO-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-ECHO-Libra-Shiryu.zip"
+        },
+        {
+          "name": "Ken (Outfit 1)",
+          "Portrait_url": "Chou-Ken-Outfit-1.png",
+          "Splash_url": "Chou-Ken-Outfit-1.png",
+          "script": "Chou-ECHO-Ken-Outfit-1.zip"
+        },
+        {
+          "name": "Ken (Outfit 2)",
+          "Portrait_url": "Chou-Ken-Outfit-2.png",
+          "Splash_url": "Chou-Ken-Outfit-2.png",
+          "script": "Chou-ECHO-Ken-Outfit-2.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-ECHO-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-ECHO-Red-Tiger.zip"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter",
+      "Default_name": "Ken (Outfit 2)",
+      "Splash_url": "Chou-Ken-Outfit-2.png",
+      "script": "Chou-Ken-Outfit-2-Backup.zip",
+      "Portrait_url": "Chou-Ken-Outfit-2.png",
+      "Tags": [
+        "Street Fighter.png"
+      ],
+      "targets": [
+        {
+          "name": "Hip-hop Boy",
+          "Portrait_url": "Chou-Hip-hop-Boy.png",
+          "Splash_url": "Chou-Hip-hop-Boy.png",
+          "script": "Chou-Ken-Outfit-2-Hip-hop-Boy.zip"
+        },
+        {
+          "name": "Dragon Boy",
+          "Portrait_url": "Chou-Dragon-Boy.png",
+          "Splash_url": "Chou-Dragon-Boy.png",
+          "script": "Chou-Ken-Outfit-2-Dragon-Boy.zip"
+        },
+        {
+          "name": "King of Muay Thai",
+          "Portrait_url": "Chou-King-of-Muay-Thai.png",
+          "Splash_url": "Chou-King-of-Muay-Thai.png",
+          "script": "Chou-Ken-Outfit-2-King-of-Muay-Thai.zip"
+        },
+        {
+          "name": "Furious Tiger",
+          "Portrait_url": "Chou-Furious-Tiger.png",
+          "Splash_url": "Chou-Furious-Tiger.png",
+          "script": "Chou-Ken-Outfit-2-Furious-Tiger.zip"
+        },
+        {
+          "name": "Iori Yagami",
+          "Portrait_url": "Chou-Iori-Yagami.png",
+          "Splash_url": "Chou-Iori-Yagami.png",
+          "script": "Chou-Ken-Outfit-2-Iori-Yagami.zip"
+        },
+        {
+          "name": "Go Ballistic",
+          "Portrait_url": "Chou-Go-Ballistic.png",
+          "Splash_url": "Chou-Go-Ballistic.png",
+          "script": "Chou-Ken-Outfit-2-Go-Ballistic.zip"
+        },
+        {
+          "name": "Thunderfist",
+          "Portrait_url": "Chou-Thunderfist.png",
+          "Splash_url": "Chou-Thunderfist.png",
+          "script": "Chou-Ken-Outfit-2-Thunderfist.zip"
+        },
+        {
+          "name": "S.T.U.N. Chou",
+          "Portrait_url": "Chou-S-T-U-N-Chou.png",
+          "Splash_url": "Chou-S-T-U-N-Chou.png",
+          "script": "Chou-Ken-Outfit-2-S-T-U-N-Chou.zip"
+        },
+        {
+          "name": "Dragon Shiryu",
+          "Portrait_url": "Chou-Dragon-Shiryu.png",
+          "Splash_url": "Chou-Dragon-Shiryu.png",
+          "script": "Chou-Ken-Outfit-2-Dragon-Shiryu.zip"
+        },
+        {
+          "name": "Libra Shiryu",
+          "Portrait_url": "Chou-Libra-Shiryu.png",
+          "Splash_url": "Chou-Libra-Shiryu.png",
+          "script": "Chou-Ken-Outfit-2-Libra-Shiryu.zip"
+        },
+        {
+          "name": "ECHO",
+          "Portrait_url": "Chou-ECHO.png",
+          "Splash_url": "Chou-ECHO.png",
+          "script": "Chou-Ken-Outfit-2-ECHO.zip"
+        },
+        {
+          "name": "Undefeated Champion",
+          "Portrait_url": "Chou-Undefeated-Champion.png",
+          "Splash_url": "Chou - Undefeated Champion.jpg",
+          "script": "Chou-Ken-Outfit-2-Undefeated-Champion.zip"
+        },
+        {
+          "name": "Red Tiger",
+          "Portrait_url": "Chou-Red-Tiger.png",
+          "Splash_url": "Chou-Red-Tiger.png",
+          "script": "Chou-Ken-Outfit-2-Red-Tiger.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Lesley",
+  "role": "Marksman/Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Royal Musketeer",
+      "Splash_url": "Lesley-Royal-Musketeer.png",
+      "script": "Lesley-Royal-Musketeer-Backup.zip",
+      "Portrait_url": "Lesley-Royal-Musketeer.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Royal-Musketeer-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Royal-Musketeer-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Royal-Musketeer-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Royal-Musketeer-Lethal-Lady.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Royal-Musketeer-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Royal-Musketeer-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Royal-Musketeer-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Royal-Musketeer-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "General Rosa",
+      "Splash_url": "Lesley-General-Rosa.png",
+      "script": "Lesley-General-Rosa-Backup.zip",
+      "Portrait_url": "Lesley-General-Rosa.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-General-Rosa-Royal-Musketeer.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-General-Rosa-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-General-Rosa-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-General-Rosa-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-General-Rosa-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-General-Rosa-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-General-Rosa-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-General-Rosa-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-General-Rosa-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-General-Rosa-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Cheergunner",
+      "Splash_url": "Lesley-Cheergunner.png",
+      "script": "Lesley-Cheergunner-Backup.zip",
+      "Portrait_url": "Lesley-Cheergunner.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Cheergunner-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Cheergunner-General-Rosa.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Cheergunner-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Cheergunner-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Cheergunner-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Cheergunner-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Cheergunner-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Cheergunner-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Cheergunner-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Cheergunner-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Stellaris Ghost",
+      "Splash_url": "Lesley-Stellaris-Ghost.png",
+      "script": "Lesley-Stellaris-Ghost-Backup.zip",
+      "Portrait_url": "Lesley-Stellaris-Ghost.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Stellaris-Ghost-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Stellaris-Ghost-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Stellaris-Ghost-Cheergunner.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Stellaris-Ghost-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Stellaris-Ghost-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Stellaris-Ghost-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Stellaris-Ghost-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Stellaris-Ghost-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Stellaris-Ghost-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Stellaris-Ghost-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Dangerous Love",
+      "Splash_url": "Lesley-Dangerous-Love.png",
+      "script": "Lesley-Dangerous-Love-Backup.zip",
+      "Portrait_url": "Lesley-Dangerous-Love.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Dangerous-Love-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Dangerous-Love-General-Rosa.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Dangerous-Love-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Dangerous-Love-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Dangerous-Love-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Dangerous-Love-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Dangerous-Love-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Dangerous-Love-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Dangerous-Love-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Dangerous-Love-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Angelic Agent",
+      "Splash_url": "Lesley-Angelic-Agent.png",
+      "script": "Lesley-Angelic-Agent-Backup.zip",
+      "Portrait_url": "Lesley-Angelic-Agent.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Angelic-Agent-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Angelic-Agent-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Angelic-Agent-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Angelic-Agent-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Angelic-Agent-Dangerous-Love.zip"
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Angelic-Agent-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Angelic-Agent-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Angelic-Agent-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Angelic-Agent-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Angelic-Agent-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Angelic-Agent-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Lethal Lady",
+      "Splash_url": "Lesley-Lethal-Lady.png",
+      "script": "Lesley-Lethal-Lady-Backup.zip",
+      "Portrait_url": "Lesley-Lethal-Lady.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Lethal-Lady-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Lethal-Lady-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Lethal-Lady-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Lethal-Lady-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Lethal-Lady-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Lethal-Lady-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Lethal-Lady-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Lethal-Lady-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Lethal-Lady-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Lethal-Lady-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Lethal-Lady-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Falcon Mistress",
+      "Splash_url": "Lesley-Falcon-Mistress.png",
+      "script": "Lesley-Falcon-Mistress-Backup.zip",
+      "Portrait_url": "Lesley-Falcon-Mistress.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Falcon-Mistress-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Falcon-Mistress-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Falcon-Mistress-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Falcon-Mistress-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Falcon-Mistress-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Falcon-Mistress-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Falcon-Mistress-Lethal-Lady.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Falcon-Mistress-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Falcon-Mistress-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Falcon-Mistress-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Falcon-Mistress-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Annual Starlight",
+      "Default_name": "Hawk-eyed Sniper",
+      "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+      "script": "Lesley-Hawk-eyed-Sniper-Backup.zip",
+      "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+      "Tags": [
+        "Annual Starlight.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Hawk-eyed-Sniper-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Hawk-eyed-Sniper-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Deadeye Spectre",
+      "Splash_url": "Lesley-Deadeye-Spectre.png",
+      "script": "Lesley-Deadeye-Spectre-Backup.zip",
+      "Portrait_url": "Lesley-Deadeye-Spectre.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Deadeye-Spectre-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Deadeye-Spectre-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Deadeye-Spectre-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Deadeye-Spectre-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Deadeye-Spectre-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Deadeye-Spectre-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Deadeye-Spectre-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Deadeye-Spectre-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Deadeye-Spectre-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Deadeye-Spectre-Meowkin-Hunter.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Deadeye-Spectre-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Mystic Meow",
+      "Default_name": "Meowkin Hunter",
+      "Splash_url": "Lesley-Meowkin-Hunter.png",
+      "script": "Lesley-Meowkin-Hunter-Backup.zip",
+      "Portrait_url": "Lesley-Meowkin-Hunter.png",
+      "Tags": [
+        "Mystic Meow.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Meowkin-Hunter-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Meowkin-Hunter-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Meowkin-Hunter-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Meowkin-Hunter-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Meowkin-Hunter-Dangerous-Love.zip"
+        },
+        {
+          "name": "Angelic Agent",
+          "Portrait_url": "Lesley-Angelic-Agent.png",
+          "Splash_url": "Lesley-Angelic-Agent.png",
+          "script": "Lesley-Meowkin-Hunter-Angelic-Agent.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Meowkin-Hunter-Lethal-Lady.zip"
+        },
+        {
+          "name": "Falcon Mistress",
+          "Portrait_url": "Lesley-Falcon-Mistress.png",
+          "Splash_url": "Lesley-Falcon-Mistress.png",
+          "script": "Lesley-Meowkin-Hunter-Falcon-Mistress.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Meowkin-Hunter-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Duchess of Tides",
+          "Portrait_url": "Lesley-Duchess-of-Tides.png",
+          "Splash_url": "Lesley-Duchess-of-Tides.png",
+          "script": "Lesley-Meowkin-Hunter-Duchess-of-Tides.zip"
+        }
+      ]
+    },
+    {
+      "name": "Covenant",
+      "Default_name": "Duchess of Tides",
+      "Splash_url": "Lesley-Duchess-of-Tides.png",
+      "script": "Lesley-Duchess-of-Tides-Backup.zip",
+      "Portrait_url": "Lesley-Duchess-of-Tides.png",
+      "Tags": [
+        "Covenant.png"
+      ],
+      "targets": [
+        {
+          "name": "Royal Musketeer",
+          "Portrait_url": "Lesley-Royal-Musketeer.png",
+          "Splash_url": "Lesley-Royal-Musketeer.png",
+          "script": "Lesley-Duchess-of-Tides-Royal-Musketeer.zip"
+        },
+        {
+          "name": "General Rosa",
+          "Portrait_url": "Lesley-General-Rosa.png",
+          "Splash_url": "Lesley-General-Rosa.png",
+          "script": "Lesley-Duchess-of-Tides-General-Rosa.zip"
+        },
+        {
+          "name": "Cheergunner",
+          "Portrait_url": "Lesley-Cheergunner.png",
+          "Splash_url": "Lesley-Cheergunner.png",
+          "script": "Lesley-Duchess-of-Tides-Cheergunner.zip"
+        },
+        {
+          "name": "Stellaris Ghost",
+          "Portrait_url": "Lesley-Stellaris-Ghost.png",
+          "Splash_url": "Lesley-Stellaris-Ghost.png",
+          "script": "Lesley-Duchess-of-Tides-Stellaris-Ghost.zip"
+        },
+        {
+          "name": "Dangerous Love",
+          "Portrait_url": "Lesley-Dangerous-Love.png",
+          "Splash_url": "Lesley-Dangerous-Love.png",
+          "script": "Lesley-Duchess-of-Tides-Dangerous-Love.zip"
+        },
+        {
+          "name": "Lethal Lady",
+          "Portrait_url": "Lesley-Lethal-Lady.png",
+          "Splash_url": "Lesley-Lethal-Lady.png",
+          "script": "Lesley-Duchess-of-Tides-Lethal-Lady.zip"
+        },
+        {
+          "name": "Hawk-eyed Sniper",
+          "Portrait_url": "Lesley-Hawk-eyed-Sniper.png",
+          "Splash_url": "Lesley-Hawk-eyed-Sniper.png",
+          "script": "Lesley-Duchess-of-Tides-Hawk-eyed-Sniper.zip"
+        },
+        {
+          "name": "Deadeye Spectre",
+          "Portrait_url": "Lesley-Deadeye-Spectre.png",
+          "Splash_url": "Lesley-Deadeye-Spectre.png",
+          "script": "Lesley-Duchess-of-Tides-Deadeye-Spectre.zip"
+        },
+        {
+          "name": "Meowkin Hunter",
+          "Portrait_url": "Lesley-Meowkin-Hunter.png",
+          "Splash_url": "Lesley-Meowkin-Hunter.png",
+          "script": "Lesley-Duchess-of-Tides-Meowkin-Hunter.zip"
+        }
+      ]
+    }
+  ]
+}

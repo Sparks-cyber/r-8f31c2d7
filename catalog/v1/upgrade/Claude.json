@@ -1,0 +1,947 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Claude",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Golden Bullet",
+      "Splash_url": "Claude-Golden-Bullet.png",
+      "script": "Claude-Golden-Bullet-Backup.zip",
+      "Portrait_url": "Claude-Golden-Bullet.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Golden-Bullet-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Golden-Bullet-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Golden-Bullet-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Golden-Bullet-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Golden-Bullet-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Golden-Bullet-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Golden-Bullet-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Golden-Bullet-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Golden-Bullet-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Golden-Bullet-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Golden-Bullet-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Golden-Bullet-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Plunderous Pirate",
+      "Splash_url": "Claude-Plunderous-Pirate.png",
+      "script": "Claude-Plunderous-Pirate-Backup.zip",
+      "Portrait_url": "Claude-Plunderous-Pirate.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Plunderous-Pirate-Golden-Bullet.zip"
+        },
+        {
+          "name": "Mecha Dragon",
+          "Portrait_url": "Claude-Mecha-Dragon.png",
+          "Splash_url": "Claude-Mecha-Dragon.png",
+          "script": "Claude-Plunderous-Pirate-Mecha-Dragon.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Plunderous-Pirate-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Plunderous-Pirate-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Plunderous-Pirate-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Plunderous-Pirate-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Plunderous-Pirate-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Plunderous-Pirate-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Plunderous-Pirate-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Plunderous-Pirate-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Plunderous-Pirate-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Plunderous-Pirate-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Mecha Dragon",
+      "Splash_url": "Claude-Mecha-Dragon.png",
+      "script": "Claude-Mecha-Dragon-Backup.zip",
+      "Portrait_url": "Claude-Mecha-Dragon.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Mecha-Dragon-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Mecha-Dragon-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Mecha-Dragon-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Mecha-Dragon-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Mecha-Dragon-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Mecha-Dragon-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Mecha-Dragon-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Mecha-Dragon-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Mecha-Dragon-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Mecha-Dragon-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Mecha-Dragon-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Mecha-Dragon-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Mecha-Dragon-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Lifeguard",
+      "Splash_url": "Claude-Lifeguard.png",
+      "script": "Claude-Lifeguard-Backup.zip",
+      "Portrait_url": "Claude-Lifeguard.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Lifeguard-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Lifeguard-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Mecha Dragon",
+          "Portrait_url": "Claude-Mecha-Dragon.png",
+          "Splash_url": "Claude-Mecha-Dragon.png",
+          "script": "Claude-Lifeguard-Mecha-Dragon.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Lifeguard-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Lifeguard-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Lifeguard-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Lifeguard-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Lifeguard-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Lifeguard-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Lifeguard-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Lifeguard-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Lifeguard-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Claude-Christmas-Carnival.png",
+      "script": "Claude-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Claude-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Christmas-Carnival-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Christmas-Carnival-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Christmas-Carnival-Lifeguard.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Christmas-Carnival-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Christmas-Carnival-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Christmas-Carnival-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Christmas-Carnival-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Christmas-Carnival-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Christmas-Carnival-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Christmas-Carnival-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Christmas-Carnival-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Christmas-Carnival-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "MSC 2021",
+      "Default_name": "Earth's Mightiest",
+      "Splash_url": "Claude-Earth-s-Mightiest.png",
+      "script": "Claude-Earth-s-Mightiest-Backup.zip",
+      "Portrait_url": "Claude-Earth-s-Mightiest.png",
+      "Tags": [
+        "MSC 2021.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Earth-s-Mightiest-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Earth-s-Mightiest-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Earth-s-Mightiest-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Earth-s-Mightiest-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Earth-s-Mightiest-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Earth-s-Mightiest-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Earth-s-Mightiest-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Earth-s-Mightiest-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Earth-s-Mightiest-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Earth-s-Mightiest-Chill-Summer.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Earth-s-Mightiest-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Bounties",
+      "Default_name": "Blazing Trace",
+      "Splash_url": "Claude-Blazing-Trace.png",
+      "script": "Claude-Blazing-Trace-Backup.zip",
+      "Portrait_url": "Claude-Blazing-Trace.png",
+      "Tags": [
+        "Blazing Bounties.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Blazing-Trace-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Blazing-Trace-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Mecha Dragon",
+          "Portrait_url": "Claude-Mecha-Dragon.png",
+          "Splash_url": "Claude-Mecha-Dragon.png",
+          "script": "Claude-Blazing-Trace-Mecha-Dragon.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Blazing-Trace-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Blazing-Trace-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Blazing-Trace-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Blazing-Trace-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Blazing-Trace-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Blazing-Trace-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Blazing-Trace-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Blazing-Trace-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Blazing-Trace-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Blazing-Trace-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "Sanrio",
+      "Default_name": "Bad Bro",
+      "Splash_url": "Claude-Bad-Bro.png",
+      "script": "Claude-Bad-Bro-Backup.zip",
+      "Portrait_url": "Claude-Bad-Bro.png",
+      "Tags": [
+        "Sanrio Characters.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Bad-Bro-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Bad-Bro-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Mecha Dragon",
+          "Portrait_url": "Claude-Mecha-Dragon.png",
+          "Splash_url": "Claude-Mecha-Dragon.png",
+          "script": "Claude-Bad-Bro-Mecha-Dragon.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Bad-Bro-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Bad-Bro-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Bad-Bro-Blazing-Trace.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Bad-Bro-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Bad-Bro-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Bad-Bro-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Bad-Bro-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Bad-Bro-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Bad-Bro-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Heart Aflame",
+      "Splash_url": "Claude-Heart-Aflame.png",
+      "script": "Claude-Heart-Aflame-Backup.zip",
+      "Portrait_url": "Claude-Heart-Aflame.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Heart-Aflame-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Heart-Aflame-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Mecha Dragon",
+          "Portrait_url": "Claude-Mecha-Dragon.png",
+          "Splash_url": "Claude-Mecha-Dragon.png",
+          "script": "Claude-Heart-Aflame-Mecha-Dragon.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Heart-Aflame-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Heart-Aflame-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Heart-Aflame-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Heart-Aflame-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Heart-Aflame-Bad-Bro.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Heart-Aflame-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Heart-Aflame-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Heart-Aflame-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Heart-Aflame-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Heart-Aflame-Challenger-s-Flare.zip"
+        }
+      ]
+    },
+    {
+      "name": "M6",
+      "Default_name": "Challenger's Spark",
+      "Splash_url": "Claude-Challenger-s-Spark.png",
+      "script": "Claude-Challenger-s-Spark-Backup.zip",
+      "Portrait_url": "Claude-Challenger-s-Spark.png",
+      "Tags": [
+        "M6.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Challenger-s-Spark-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Challenger-s-Spark-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Mecha Dragon",
+          "Portrait_url": "Claude-Mecha-Dragon.png",
+          "Splash_url": "Claude-Mecha-Dragon.png",
+          "script": "Claude-Challenger-s-Spark-Mecha-Dragon.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Challenger-s-Spark-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Challenger-s-Spark-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Challenger-s-Spark-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Challenger-s-Spark-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Challenger-s-Spark-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Challenger-s-Spark-Heart-Aflame.zip"
+        },
+        {
+          "name": "Cosmic Blaze",
+          "Portrait_url": "Claude-Cosmic-Blaze.png",
+          "Splash_url": "Claude-Cosmic-Blaze.png",
+          "script": "Claude-Challenger-s-Spark-Cosmic-Blaze.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Challenger-s-Spark-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Challenger-s-Spark-MSC-Mightiest.zip"
+        }
+      ]
+    },
+    {
+      "name": "PRIME",
+      "Default_name": "Cosmic Blaze",
+      "Splash_url": "Claude-Cosmic-Blaze.png",
+      "script": "Claude-Cosmic-Blaze-Backup.zip",
+      "Portrait_url": "Claude-Cosmic-Blaze.png",
+      "Tags": [
+        "PRIME.png"
+      ],
+      "targets": [
+        {
+          "name": "Golden Bullet",
+          "Portrait_url": "Claude-Golden-Bullet.png",
+          "Splash_url": "Claude-Golden-Bullet.png",
+          "script": "Claude-Cosmic-Blaze-Golden-Bullet.zip"
+        },
+        {
+          "name": "Plunderous Pirate",
+          "Portrait_url": "Claude-Plunderous-Pirate.png",
+          "Splash_url": "Claude-Plunderous-Pirate.png",
+          "script": "Claude-Cosmic-Blaze-Plunderous-Pirate.zip"
+        },
+        {
+          "name": "Mecha Dragon",
+          "Portrait_url": "Claude-Mecha-Dragon.png",
+          "Splash_url": "Claude-Mecha-Dragon.png",
+          "script": "Claude-Cosmic-Blaze-Mecha-Dragon.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Claude-Lifeguard.png",
+          "Splash_url": "Claude-Lifeguard.png",
+          "script": "Claude-Cosmic-Blaze-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Claude-Christmas-Carnival.png",
+          "Splash_url": "Claude-Christmas-Carnival.png",
+          "script": "Claude-Cosmic-Blaze-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Earth's Mightiest",
+          "Portrait_url": "Claude-Earth-s-Mightiest.png",
+          "Splash_url": "Claude-Earth-s-Mightiest.png",
+          "script": "Claude-Cosmic-Blaze-Earth-s-Mightiest.zip"
+        },
+        {
+          "name": "Blazing Trace",
+          "Portrait_url": "Claude-Blazing-Trace.png",
+          "Splash_url": "Claude-Blazing-Trace.png",
+          "script": "Claude-Cosmic-Blaze-Blazing-Trace.zip"
+        },
+        {
+          "name": "Bad Bro",
+          "Portrait_url": "Claude-Bad-Bro.png",
+          "Splash_url": "Claude-Bad-Bro.png",
+          "script": "Claude-Cosmic-Blaze-Bad-Bro.zip"
+        },
+        {
+          "name": "Heart Aflame",
+          "Portrait_url": "Claude-Heart-Aflame.png",
+          "Splash_url": "Claude-Heart-Aflame.png",
+          "script": "Claude-Cosmic-Blaze-Heart-Aflame.zip"
+        },
+        {
+          "name": "Challenger's Spark",
+          "Portrait_url": "Claude-Challenger-s-Spark.png",
+          "Splash_url": "Claude-Challenger-s-Spark.png",
+          "script": "Claude-Cosmic-Blaze-Challenger-s-Spark.zip"
+        },
+        {
+          "name": "Chill Summer",
+          "Portrait_url": "Claude-Chill-Summer.png",
+          "Splash_url": "Claude-Chill-Summer.png",
+          "script": "Claude-Cosmic-Blaze-Chill-Summer.zip"
+        },
+        {
+          "name": "MSC Mightiest",
+          "Portrait_url": "Claude-MSC-Mightiest.png",
+          "Splash_url": "Claude-MSC-Mightiest.png",
+          "script": "Claude-Cosmic-Blaze-MSC-Mightiest.zip"
+        },
+        {
+          "name": "Challenger's Flare",
+          "Portrait_url": "Claude-Challenger-s-Flare.png",
+          "Splash_url": "Claude - Challenger's Flare.jpg",
+          "script": "Claude-Cosmic-Blaze-Challenger-s-Flare.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "natan-backup",
+      "portrait_file": "Natan-Default.png",
+      "script_file": "Natan-Backup.zip",
+      "skin_name": "Spacetime Walker",
+      "splash_file": "Natan-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "natan-time-wielder",
+      "portrait_file": "Natan-Time-Wielder.png",
+      "script_file": "Natan-Time-Wielder.zip",
+      "skin_name": "Time Wielder",
+      "splash_file": "Natan-Time-Wielder.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "natan-chaos-hunter",
+      "portrait_file": "Natan-Chaos-Hunter.png",
+      "script_file": "Natan-Chaos-Hunter.zip",
+      "skin_name": "Chaos Hunter",
+      "splash_file": "Natan-Chaos-Hunter.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "natan-captain-chrono",
+      "portrait_file": "Natan-Captain-Chrono.png",
+      "script_file": "Natan-Captain-Chrono.zip",
+      "skin_name": "Captain Chrono",
+      "splash_file": "Natan-Captain-Chrono.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "natan-tidal-lord",
+      "portrait_file": "Natan-Tidal-Lord.png",
+      "script_file": "Natan-Tidal-Lord.zip",
+      "skin_name": "Tidal Lord",
+      "splash_file": "Natan-Tidal-Lord.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "natan-temporal-vortex",
+      "portrait_file": "Natan-Temporal-Vortex.png",
+      "script_file": "Natan-Temporal-Vortex.zip",
+      "skin_name": "Temporal Vortex",
+      "splash_file": "Natan-Temporal-Vortex.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "natan-archon-of-knowledge",
+      "portrait_file": "Natan-Archon-of-Knowledge.png",
+      "script_file": "Natan-Archon-of-Knowledge.zip",
+      "skin_name": "Archon of Knowledge",
+      "splash_file": "Natan-Archon-of-Knowledge.png",
+      "tag_id": "elite",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "natan-sanguine-steward",
+      "portrait_file": "Natan-Sanguine-Steward.png",
+      "script_file": "Natan-Sanguine-Steward.zip",
+      "skin_name": "Sanguine Steward",
+      "splash_file": "Natan-Sanguine-Steward.png",
+      "tag_id": "elite",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "natan-tempus-admiral",
+      "portrait_file": "Natan-Tempus-Admiral.png",
+      "script_file": "Natan-Tempus-Admiral.zip",
+      "skin_name": "Tempus Admiral",
+      "splash_file": "Natan-Tempus-Admiral.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    }
+  ],
+  "hero": {
+    "id": 107,
+    "name": "Natan",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "natan"
+  },
+  "release_tag": "visual-natan",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

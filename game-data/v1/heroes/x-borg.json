@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 83,
+    "slug": "x-borg",
+    "name": "X.Borg",
+    "skin_name": "Firaga Armor",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Regen",
+      "Burst"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "9 August 2019",
+    "resource": null,
+    "short_description": "An uncontrollable flame that's determined to take revenge against Eruditio.",
+    "brief": null,
+    "story": "So you finally came out of hiding, Rooney. It's a shame that I had to burn down your precious lab to get you here.\r\n\r\nOh right, you're tied up and can't talk. It doesn't matter, you don't need to talk. I've heard enough of your lies. Today, you listen.\r\n\r\nDon't give me that look. You know damn well who I am! It's X.Borg! How could you forget that name? Oh, nowadays they also call me the Nightmare of Eruditio, a monster that's neither man nor ghost. A being cursed by fire. Some even call me the Child of Disaster...\r\n\r\nWhy do you still have that look of disbelief? Getting forgetful in your old age? Let me refresh your memory then.\r\n\r\nThe story begins with this scar on my forehead. When my brother and I were working in the mine, a rock came loose and nearly hit my brother. I got this scar when I used my head to shield him. Why my head? Well, if another part of our body was hit and disabled, we wouldn't be able to work!\r\n\r\nI'm sure you're wondering what all that had to do with you, right? What a stupid question. That energy tower used to mine the mountain was built on your orders, wasn't it?\r\n\r\nYour great Eruditio built that tower in our town, yet none of us knew what it was mining. We were just happy to have work, after all.\r\nYou could say that my fate was my own doing, that I should have known the risks of the job when I signed up. But if you were from a poor town like me, maybe you'd see how precious the things you take for granted are to us. Maybe, just maybe, working in that mine could help move my family to Eruditio. For a poor kid like me, it was a once-in-a-lifetime opportunity.\r\n\r\nBut who would have thought that you, who gave us so much hope, cared so little for the lives of so many, including children like me. You great scholars saw us as tools and looked the other way when it came to your research. You knew what you were mining, but you didn't care.\r\n\r\nFirst, the people who came into contact with the ore began to fall sick one by one. I tried to ignore it, but then I fainted and fell into that liquid agent we were mining with. The pain... It felt like every inch of my skin was burning from underneath. Can you imagine what I went through? Of course you can, you're the prodigy of Eruditio!\r\n\r\nFunny enough, I finally managed to get to Eruditio, but as a lab rat. They operated on me and transformed me into what I am now. At that time, I recall your voice yelling frantically, like a little bug buzzing in my ear. You must have been afraid that they would ruin your precious science experiment, right? After the pain finally subsided, you personally came and told me that I was the first successful case, that I was the \"chosen one.\" I had fused with the power of the ore and survived. Boy, you sure had a way with words. You convinced me that as the chosen one, I should stay in Eruditio and continue to help your research. And in exchange, you would take care of my family and town.\r\n\r\nAnd I believed it... I really believed it. The scar on my head, the searing pain, the operation, and being separated from my family... all of that was worth it to be the chosen one. I really thought I was going to make a name for myself, that I would be a part of some magnificent future. After all, a few months ago I was just a poor brat worrying about food and clothes, but now I had a mission! I was the chosen one!\r\n\r\nYou have no right to judge me. You were born with a silver spoon, a citizen of Eruditio with the riches of the world laid before you. Do you even know what hunger feels like?\r\n\r\nLater, when I finally went back to my hometown, can you guess what I found? That damn ore, poisoning the land and tormenting my people. The ones who could leave, were already gone. The ones who couldn't, simply accepted their fate. They asked me where I've been all these years, and I told them. I was with the monsters who did this to them.\r\n\r\nAll those... eyes filled with anguish... staring at me... their hatred... consuming me... GO AWAY! Ugh, my head. No wait, those were all illusions... just illusions...\r\n\r\nThere was no one to even stare at me, Rooney. Every one of them were already buried to pave the way for your research.\r\n\r\nSo I set it all ablaze. The fire burned for three days and three nights. This was the only thing I could give them. I burned away your sins, and I purified my home.\r\n\r\nAfterwards, I came to the Eruditio with a gift for all of you. Don't get me wrong, I don't hate Eruditio. I don't even hate you. After all, it's thanks to you that I finally understood this so-called magnificent future had no place for me. But I found my own purpose.\r\n\r\nYou see, the world is a cruel place. And fire is my gift back to this cruel world. Is there anything more fitting?\r\n\r\nHuh? What's that? Let me guess, you want to tell me that the people of the Eruditio are innocent? You should know in this world, bad things happen to good people, and worse things happen to worse people.\r\n\r\nAs your lab was going up in flames, I was born again. The place where you planned to change the world is now a pile of ash. HAHAHAHA!\r\n\r\nShut up, Rooney! Stop buzzing my ear! It's too late for your lies. Look, it's already dawn.\r\n\r\nAh, a crimson morning.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 3,
+    "control": 1,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 1197,
+    "health_growth": 109,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.4143,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 117,
+    "physical_attack_growth": 8.21,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 4.6429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.08,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "XBorg0",
+      "name": "Firaga Armor",
+      "description": "Firaga Armor inherits 160% of X.Borg's Max HP and absorbs all incoming damage when it's active. When destroyed, X.Borg rolls in the direction of the Joystick (he is invincible during this process). The Armor's energy will gradually regenerate while X.Borg is in the Armorless State. At full energy, X.Borg re-equips the Armor and restores it to 30% HP.<br/>X.Borg's attacks cause enemies to enter <highlight>Overheated</highlight> state. Enemies in <highlight>Overheated</highlight> state will drop Firaga Supplies when they take damage from X.Borg. Picking up supplies restores 10% of the Armor's HP (or 10 energy while in the Armorless State).<br/>X.Borg's skills deal <trueDamage>True Damage</trueDamage> to enemies in <highlight>Overheated</highlight> state.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89f511f46d1e6c6db972cf7bb37924f5.png",
+      "video_url": null
+    },
+    {
+      "id": "XBorg1",
+      "name": "Fire Missiles",
+      "description": "X.Borg sprays fire, dealing 25/40/55/70/85/100<scaleAD> (+60% Total Physical Attack)</scaleAD> <scaleAP>(+40% Total Magic Power)</scaleAP> <physicalDamage>Physical Damage</physicalDamage> 7 times over 2s to enemies in front of him (75/80/85/90/95/100% damage to minions). <br/><br/>Armorless State: The attack area becomes narrower but longer, while the damage is reduced to 60%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4ee1680e53d5823b14f9989bc10bc719.png",
+      "video_url": null
+    },
+    {
+      "id": "XBorg2",
+      "name": "Fire Stake",
+      "description": "X.Borg fires 5 Fire Stakes forward and recalls them after 1.7s. Each stake deals 50/60/70/80/90/100<scaleAD> (+20% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and pulls enemies and Firaga Supplies along its path back to him.<br/><br/>Armorless State: X.Borg adjusts the Fire Stake launcher, making the stakes travel farther and closer together.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "9",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9194fa592d8f77a7b9e9b1676e47b3e4.png",
+      "video_url": null
+    },
+    {
+      "id": "XBorg3",
+      "name": "Last Insanity",
+      "description": "X.Borg charges in the target direction while spinning and spraying fire (cannot pick up Firaga Supplies during this time), dealing 90/100/110<scaleAD> (+60% Extra Physical Attack)</scaleAD> <scaleAP>(+45% Total Magic Power)</scaleAP> <physicalDamage>Physical Damage</physicalDamage> 12 times and slowing enemies hit by 25%. He stops upon touching an enemy hero and will slow them by an additional 40%. After 3s, his mecha suit detonates, dealing 300/500/700 plus 15% of the target's Max HP as <trueDamage>True Damage</trueDamage>. If his armor is destroyed, it will immediately explode but damage drops to 50%. The detonation destroys his Armor, removes all debuffs, and collects all nearby Firaga Supplies. Cannot be used in <highlight>Armorless State</highlight>.<br/><br/><highlight>Use Again</highlight>: Immediately stop spraying fire and detonate early.",
+      "flavor_text": "My hometown is once a beautiful place.",
+      "cost": null,
+      "cooldown": "30/27/24",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fece4e752139100505f5eb2bd08390aa.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "XBorg0",
+      "sequence": "XBorg1-XBorg3-XBorg2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, cast X.Borg's 1st Skill, then activate his Ultimate when enemies are clustered, and uses his 2nd Skill to pull them back to him."
+    },
+    {
+      "id": "XBorg1",
+      "sequence": "XBorg1-XBorg2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, cast X.Borg's 1st Skill then use his 2nd Skill to pull enemies toward him."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "X.Borg pairs well with heroes who excel in burst damage, such as Karina and Martis. X.Borg's AOE damage will leave enemies low enough for his teammate to finishing off.",
+      "heroes": [
+        {
+          "id": 8,
+          "slug": "karina",
+          "name": "Karina"
+        },
+        {
+          "id": 58,
+          "slug": "martis",
+          "name": "Martis"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "X.Borg counters Fighters that lack mobility, such as Terizla and Aulus. His 1st Skill has a large range and can be cast while moving, making it easy for him to kite.",
+      "heroes": [
+        {
+          "id": 82,
+          "slug": "terizla",
+          "name": "Terizla"
+        },
+        {
+          "id": 108,
+          "slug": "aulus",
+          "name": "Aulus"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "X.Borg is countered by Fighters with burst damage like Martis and Dyrroth. They can quickly burst down X.Borg when he is Armorless.",
+      "heroes": [
+        {
+          "id": 58,
+          "slug": "martis",
+          "name": "Martis"
+        },
+        {
+          "id": 85,
+          "slug": "dyrroth",
+          "name": "Dyrroth"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/X-Borg-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/X-Borg-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a89aa29718e61d5225eba7fabca47b07.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/52e2334206e3b30354b129f86ada1ef5.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/x-borg.json",
+    "visual_catalog": "catalog/v1/visual/x-borg.json",
+    "upgrade_catalog": "catalog/v1/upgrade/x-borg.json"
+  }
+}

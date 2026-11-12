@@ -1,0 +1,41 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Gloo",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Verdant Enchanter",
+      "Splash_url": "Gloo-Verdant-Enchanter.png",
+      "script": "Gloo-Verdant-Enchanter-Backup.zip",
+      "Portrait_url": "Gloo-Verdant-Enchanter.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Jellyman",
+          "Portrait_url": "Gloo-Jellyman.png",
+          "Splash_url": "Gloo-Jellyman.png",
+          "script": "Gloo-Verdant-Enchanter-Jellyman.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Jellyman",
+      "Splash_url": "Gloo-Jellyman.png",
+      "script": "Gloo-Jellyman-Backup.zip",
+      "Portrait_url": "Gloo-Jellyman.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Verdant Enchanter",
+          "Portrait_url": "Gloo-Verdant-Enchanter.png",
+          "Splash_url": "Gloo-Verdant-Enchanter.png",
+          "script": "Gloo-Jellyman-Verdant-Enchanter.zip"
+        }
+      ]
+    }
+  ]
+}

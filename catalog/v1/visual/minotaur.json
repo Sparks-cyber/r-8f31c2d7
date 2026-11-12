@@ -1,0 +1,97 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "minotaur-backup",
+      "portrait_file": "Minotaur-Default.png",
+      "script_file": "Minotaur-Backup.zip",
+      "skin_name": "Son of Minos",
+      "splash_file": "Minotaur-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "minotaur-bursting-yama",
+      "portrait_file": "Minotaur-Bursting-Yama.png",
+      "script_file": "Minotaur-Bursting-Yama.zip",
+      "skin_name": "Bursting Yama",
+      "splash_file": "Minotaur-Bursting-Yama.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "minotaur-orbiter",
+      "portrait_file": "Minotaur-Orbiter.png",
+      "script_file": "Minotaur-Orbiter.zip",
+      "skin_name": "Orbiter",
+      "splash_file": "Minotaur-Orbiter.png",
+      "tag_id": "s4",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "minotaur-sacred-hammer",
+      "portrait_file": "Minotaur-Sacred-Hammer.png",
+      "script_file": "Minotaur-Sacred-Hammer.zip",
+      "skin_name": "Sacred Hammer",
+      "splash_file": "Minotaur-Sacred-Hammer.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "minotaur-taurus",
+      "portrait_file": "Minotaur-Taurus.png",
+      "script_file": "Minotaur-Taurus.zip",
+      "skin_name": "Taurus",
+      "splash_file": "Minotaur-Taurus.png",
+      "tag_id": "zodiac",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "minotaur-dreadnought",
+      "portrait_file": "Minotaur-Dreadnought.png",
+      "script_file": "Minotaur-Dreadnought.zip",
+      "skin_name": "Dreadnought",
+      "splash_file": "Minotaur-Dreadnought.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "minotaur-nether-overseer",
+      "portrait_file": "Minotaur-Nether-Overseer.png",
+      "script_file": "Minotaur-Nether-Overseer.zip",
+      "skin_name": "Nether Overseer",
+      "splash_file": "Minotaur-Nether-Overseer.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "minotaur-hammer-of-despair",
+      "portrait_file": "Minotaur-Hammer-of-Despair.png",
+      "script_file": "Minotaur-Hammer-of-Despair.zip",
+      "skin_name": "Hammer of Despair",
+      "splash_file": "Minotaur-Hammer-of-Despair.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    }
+  ],
+  "hero": {
+    "id": 19,
+    "name": "Minotaur",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "slug": "minotaur"
+  },
+  "release_tag": "visual-minotaur",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

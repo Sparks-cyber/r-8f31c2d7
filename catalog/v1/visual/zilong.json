@@ -1,0 +1,157 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "zilong-backup",
+      "portrait_file": "Zilong-Default.png",
+      "script_file": "Zilong-Backup.zip",
+      "skin_name": "Spear of Dragon",
+      "splash_file": "Zilong-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-elite-warrior",
+      "portrait_file": "Zilong-Elite-Warrior.png",
+      "script_file": "Zilong-Elite-Warrior.zip",
+      "skin_name": "Elite Warrior",
+      "splash_file": "Zilong-Elite-Warrior.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-glorious-general",
+      "portrait_file": "Zilong-Glorious-General.png",
+      "script_file": "Zilong-Glorious-General.zip",
+      "skin_name": "Glorious General",
+      "splash_file": "Zilong-Glorious-General.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-eastern-warrior",
+      "portrait_file": "Zilong-Eastern-Warrior.png",
+      "script_file": "Zilong-Eastern-Warrior.zip",
+      "skin_name": "Eastern Warrior",
+      "splash_file": "Zilong-Eastern-Warrior.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-blazing-lancer",
+      "portrait_file": "Zilong-Blazing-Lancer.png",
+      "script_file": "Zilong-Blazing-Lancer.zip",
+      "skin_name": "Blazing Lancer",
+      "splash_file": "Zilong-Blazing-Lancer.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-changbanpo-commander",
+      "portrait_file": "Zilong-Changbanpo-Commander.png",
+      "script_file": "Zilong-Changbanpo-Commander.zip",
+      "skin_name": "Changbanpo Commander",
+      "splash_file": "Zilong-Changbanpo-Commander.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-christmas-carnival",
+      "portrait_file": "Zilong-Christmas-Carnival.png",
+      "script_file": "Zilong-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Zilong-Christmas-Carnival.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-loyal-spear",
+      "portrait_file": "Zilong-Loyal-Spear.png",
+      "script_file": "Zilong-Loyal-Spear.zip",
+      "skin_name": "Loyal Spear",
+      "splash_file": "Zilong-Loyal-Spear.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-summer-waves",
+      "portrait_file": "Zilong-Summer-Waves.png",
+      "script_file": "Zilong-Summer-Waves.zip",
+      "skin_name": "Summer Waves",
+      "splash_file": "Zilong-Summer-Waves.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-empyrean-paladin",
+      "portrait_file": "Zilong-Empyrean-Paladin.png",
+      "script_file": "Zilong-Empyrean-Paladin.zip",
+      "skin_name": "Empyrean Paladin",
+      "splash_file": "Zilong-Empyrean-Paladin.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-storm-rider",
+      "portrait_file": "Zilong-Storm-Rider.png",
+      "script_file": "Zilong-Storm-Rider.zip",
+      "skin_name": "Storm Rider",
+      "splash_file": "Zilong-Storm-Rider.png",
+      "tag_id": "stun",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-dragon-of-prosperity",
+      "portrait_file": "Zilong-Dragon-of-Prosperity.png",
+      "script_file": "Zilong-Dragon-of-Prosperity.zip",
+      "skin_name": "Dragon of Prosperity",
+      "splash_file": "Zilong-Dragon-of-Prosperity.png",
+      "tag_id": "lunar-fest",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-ascendant-of-flame",
+      "portrait_file": "Zilong-Ascendant-of-Flame.png",
+      "script_file": "Zilong-Ascendant-of-Flame.zip",
+      "skin_name": "Ascendant of Flame",
+      "splash_file": "Zilong-Ascendant-of-Flame.png",
+      "tag_id": "create",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "zilong-dragon-warrior-painted-02",
+      "portrait_file": "Zilong-Dragon-Warrior.png",
+      "script_file": "Zilong-Dragon-Warrior.zip",
+      "skin_name": "Dragon Warrior",
+      "splash_file": "Zilong-Elite-Warrior.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 16,
+    "name": "Zilong",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "zilong"
+  },
+  "release_tag": "visual-zilong",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

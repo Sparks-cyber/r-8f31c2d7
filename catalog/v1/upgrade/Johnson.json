@@ -1,0 +1,461 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Johnson",
+  "role": "Tank/Support",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Fire Chief",
+      "Splash_url": "Johnson-Fire-Chief.png",
+      "script": "Johnson-Fire-Chief-Backup.zip",
+      "Portrait_url": "Johnson-Fire-Chief.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Jeepney Racer",
+          "Portrait_url": "Johnson-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Fire-Chief-Jeepney-Racer.zip"
+        },
+        {
+          "name": "Wreck King",
+          "Portrait_url": "Johnson-Wreck-King.png",
+          "Splash_url": "Johnson-Wreck-King.png",
+          "script": "Johnson-Fire-Chief-Wreck-King.zip"
+        },
+        {
+          "name": "Death Ride",
+          "Portrait_url": "Johnson-Death-Ride.png",
+          "Splash_url": "Johnson-Death-Ride.png",
+          "script": "Johnson-Fire-Chief-Death-Ride.zip"
+        },
+        {
+          "name": "Optimus Prime",
+          "Portrait_url": "Johnson-Optimus-Prime.png",
+          "Splash_url": "Johnson-Optimus-Prime.png",
+          "script": "Johnson-Fire-Chief-Optimus-Prime.zip"
+        },
+        {
+          "name": "Starblazer",
+          "Portrait_url": "Johnson-Starblazer.png",
+          "Splash_url": "Johnson-Starblazer.png",
+          "script": "Johnson-Fire-Chief-Starblazer.zip"
+        },
+        {
+          "name": "Sovereign of Realms",
+          "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+          "Splash_url": "Johnson-Sovereign-of-Realms.png",
+          "script": "Johnson-Fire-Chief-Sovereign-of-Realms.zip"
+        },
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Fire-Chief-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.A.B.E.R.",
+      "Default_name": "S.A.B.E.R. Automata",
+      "Splash_url": "Johnson-S-A-B-E-R-Automata.png",
+      "script": "Johnson-S-A-B-E-R-Automata-Backup.zip",
+      "Portrait_url": "Johnson-S-A-B-E-R-Automata.png",
+      "Tags": [
+        "SABER.png"
+      ],
+      "targets": [
+        {
+          "name": "Fire Chief",
+          "Portrait_url": "Johnson-Fire-Chief.png",
+          "Splash_url": "Johnson-Fire-Chief.png",
+          "script": "Johnson-S-A-B-E-R-Automata-Fire-Chief.zip"
+        },
+        {
+          "name": "Jeepney Racer",
+          "Portrait_url": "Johnson-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-S-A-B-E-R-Automata-Jeepney-Racer.zip"
+        },
+        {
+          "name": "Death Ride",
+          "Portrait_url": "Johnson-Death-Ride.png",
+          "Splash_url": "Johnson-Death-Ride.png",
+          "script": "Johnson-S-A-B-E-R-Automata-Death-Ride.zip"
+        },
+        {
+          "name": "Optimus Prime",
+          "Portrait_url": "Johnson-Optimus-Prime.png",
+          "Splash_url": "Johnson-Optimus-Prime.png",
+          "script": "Johnson-S-A-B-E-R-Automata-Optimus-Prime.zip"
+        },
+        {
+          "name": "Starblazer",
+          "Portrait_url": "Johnson-Starblazer.png",
+          "Splash_url": "Johnson-Starblazer.png",
+          "script": "Johnson-S-A-B-E-R-Automata-Starblazer.zip"
+        },
+        {
+          "name": "Sovereign of Realms",
+          "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+          "Splash_url": "Johnson-Sovereign-of-Realms.png",
+          "script": "Johnson-S-A-B-E-R-Automata-Sovereign-of-Realms.zip"
+        },
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-S-A-B-E-R-Automata-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Jeepney Racer",
+      "Splash_url": "Johnson-Jeepney-Racer.png",
+      "script": "Johnson-Jeepney-Racer-Backup.zip",
+      "Portrait_url": "Johnson-Jeepney-Racer.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Fire Chief",
+          "Portrait_url": "Johnson-Fire-Chief.png",
+          "Splash_url": "Johnson-Fire-Chief.png",
+          "script": "Johnson-Jeepney-Racer-Fire-Chief.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Automata",
+          "Portrait_url": "Johnson-S-A-B-E-R-Automata.png",
+          "Splash_url": "Johnson-S-A-B-E-R-Automata.png",
+          "script": "Johnson-Jeepney-Racer-S-A-B-E-R-Automata.zip"
+        },
+        {
+          "name": "Wreck King",
+          "Portrait_url": "Johnson-Wreck-King.png",
+          "Splash_url": "Johnson-Wreck-King.png",
+          "script": "Johnson-Jeepney-Racer-Wreck-King.zip"
+        },
+        {
+          "name": "Optimus Prime",
+          "Portrait_url": "Johnson-Optimus-Prime.png",
+          "Splash_url": "Johnson-Optimus-Prime.png",
+          "script": "Johnson-Jeepney-Racer-Optimus-Prime.zip"
+        },
+        {
+          "name": "Sovereign of Realms",
+          "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+          "Splash_url": "Johnson-Sovereign-of-Realms.png",
+          "script": "Johnson-Jeepney-Racer-Sovereign-of-Realms.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Wreck King",
+      "Splash_url": "Johnson-Wreck-King.png",
+      "script": "Johnson-Wreck-King-Backup.zip",
+      "Portrait_url": "Johnson-Wreck-King.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Fire Chief",
+          "Portrait_url": "Johnson-Fire-Chief.png",
+          "Splash_url": "Johnson-Fire-Chief.png",
+          "script": "Johnson-Wreck-King-Fire-Chief.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Automata",
+          "Portrait_url": "Johnson-S-A-B-E-R-Automata.png",
+          "Splash_url": "Johnson-S-A-B-E-R-Automata.png",
+          "script": "Johnson-Wreck-King-S-A-B-E-R-Automata.zip"
+        },
+        {
+          "name": "Jeepney Racer",
+          "Portrait_url": "Johnson-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Wreck-King-Jeepney-Racer.zip"
+        },
+        {
+          "name": "Death Ride",
+          "Portrait_url": "Johnson-Death-Ride.png",
+          "Splash_url": "Johnson-Death-Ride.png",
+          "script": "Johnson-Wreck-King-Death-Ride.zip"
+        },
+        {
+          "name": "Optimus Prime",
+          "Portrait_url": "Johnson-Optimus-Prime.png",
+          "Splash_url": "Johnson-Optimus-Prime.png",
+          "script": "Johnson-Wreck-King-Optimus-Prime.zip"
+        },
+        {
+          "name": "Starblazer",
+          "Portrait_url": "Johnson-Starblazer.png",
+          "Splash_url": "Johnson-Starblazer.png",
+          "script": "Johnson-Wreck-King-Starblazer.zip"
+        },
+        {
+          "name": "Sovereign of Realms",
+          "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+          "Splash_url": "Johnson-Sovereign-of-Realms.png",
+          "script": "Johnson-Wreck-King-Sovereign-of-Realms.zip"
+        },
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Wreck-King-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Death Ride",
+      "Splash_url": "Johnson-Death-Ride.png",
+      "script": "Johnson-Death-Ride-Backup.zip",
+      "Portrait_url": "Johnson-Death-Ride.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Fire Chief",
+          "Portrait_url": "Johnson-Fire-Chief.png",
+          "Splash_url": "Johnson-Fire-Chief.png",
+          "script": "Johnson-Death-Ride-Fire-Chief.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Automata",
+          "Portrait_url": "Johnson-S-A-B-E-R-Automata.png",
+          "Splash_url": "Johnson-S-A-B-E-R-Automata.png",
+          "script": "Johnson-Death-Ride-S-A-B-E-R-Automata.zip"
+        },
+        {
+          "name": "Jeepney Racer",
+          "Portrait_url": "Johnson-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Death-Ride-Jeepney-Racer.zip"
+        },
+        {
+          "name": "Wreck King",
+          "Portrait_url": "Johnson-Wreck-King.png",
+          "Splash_url": "Johnson-Wreck-King.png",
+          "script": "Johnson-Death-Ride-Wreck-King.zip"
+        },
+        {
+          "name": "Optimus Prime",
+          "Portrait_url": "Johnson-Optimus-Prime.png",
+          "Splash_url": "Johnson-Optimus-Prime.png",
+          "script": "Johnson-Death-Ride-Optimus-Prime.zip"
+        },
+        {
+          "name": "Sovereign of Realms",
+          "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+          "Splash_url": "Johnson-Sovereign-of-Realms.png",
+          "script": "Johnson-Death-Ride-Sovereign-of-Realms.zip"
+        },
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Death-Ride-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Transformers",
+      "Default_name": "Optimus Prime",
+      "Splash_url": "Johnson-Optimus-Prime.png",
+      "script": "Johnson-Optimus-Prime-Backup.zip",
+      "Portrait_url": "Johnson-Optimus-Prime.png",
+      "Tags": [
+        "Transformers.png"
+      ],
+      "targets": [
+        {
+          "name": "Fire Chief",
+          "Portrait_url": "Johnson-Fire-Chief.png",
+          "Splash_url": "Johnson-Fire-Chief.png",
+          "script": "Johnson-Optimus-Prime-Fire-Chief.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Automata",
+          "Portrait_url": "Johnson-S-A-B-E-R-Automata.png",
+          "Splash_url": "Johnson-S-A-B-E-R-Automata.png",
+          "script": "Johnson-Optimus-Prime-S-A-B-E-R-Automata.zip"
+        },
+        {
+          "name": "Jeepney Racer",
+          "Portrait_url": "Johnson-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Optimus-Prime-Jeepney-Racer.zip"
+        },
+        {
+          "name": "Wreck King",
+          "Portrait_url": "Johnson-Wreck-King.png",
+          "Splash_url": "Johnson-Wreck-King.png",
+          "script": "Johnson-Optimus-Prime-Wreck-King.zip"
+        },
+        {
+          "name": "Death Ride",
+          "Portrait_url": "Johnson-Death-Ride.png",
+          "Splash_url": "Johnson-Death-Ride.png",
+          "script": "Johnson-Optimus-Prime-Death-Ride.zip"
+        },
+        {
+          "name": "Sovereign of Realms",
+          "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+          "Splash_url": "Johnson-Sovereign-of-Realms.png",
+          "script": "Johnson-Optimus-Prime-Sovereign-of-Realms.zip"
+        },
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Optimus-Prime-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "7th Anniversary",
+      "Default_name": "Starblazer",
+      "Splash_url": "Johnson-Starblazer.png",
+      "script": "Johnson-Starblazer-Backup.zip",
+      "Portrait_url": "Johnson-Starblazer.png",
+      "Tags": [
+        "7th Anniversary.png"
+      ],
+      "targets": [
+        {
+          "name": "Fire Chief",
+          "Portrait_url": "Johnson-Fire-Chief.png",
+          "Splash_url": "Johnson-Fire-Chief.png",
+          "script": "Johnson-Starblazer-Fire-Chief.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Automata",
+          "Portrait_url": "Johnson-S-A-B-E-R-Automata.png",
+          "Splash_url": "Johnson-S-A-B-E-R-Automata.png",
+          "script": "Johnson-Starblazer-S-A-B-E-R-Automata.zip"
+        },
+        {
+          "name": "Jeepney Racer",
+          "Portrait_url": "Johnson-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Starblazer-Jeepney-Racer.zip"
+        },
+        {
+          "name": "Wreck King",
+          "Portrait_url": "Johnson-Wreck-King.png",
+          "Splash_url": "Johnson-Wreck-King.png",
+          "script": "Johnson-Starblazer-Wreck-King.zip"
+        },
+        {
+          "name": "Death Ride",
+          "Portrait_url": "Johnson-Death-Ride.png",
+          "Splash_url": "Johnson-Death-Ride.png",
+          "script": "Johnson-Starblazer-Death-Ride.zip"
+        },
+        {
+          "name": "Optimus Prime",
+          "Portrait_url": "Johnson-Optimus-Prime.png",
+          "Splash_url": "Johnson-Optimus-Prime.png",
+          "script": "Johnson-Starblazer-Optimus-Prime.zip"
+        },
+        {
+          "name": "Sovereign of Realms",
+          "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+          "Splash_url": "Johnson-Sovereign-of-Realms.png",
+          "script": "Johnson-Starblazer-Sovereign-of-Realms.zip"
+        },
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Starblazer-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Sovereign of Realms",
+      "Splash_url": "Johnson-Sovereign-of-Realms.png",
+      "script": "Johnson-Sovereign-of-Realms-Backup.zip",
+      "Portrait_url": "Johnson-Sovereign-of-Realms.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Fire Chief",
+          "Portrait_url": "Johnson-Fire-Chief.png",
+          "Splash_url": "Johnson-Fire-Chief.png",
+          "script": "Johnson-Sovereign-of-Realms-Fire-Chief.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Automata",
+          "Portrait_url": "Johnson-S-A-B-E-R-Automata.png",
+          "Splash_url": "Johnson-S-A-B-E-R-Automata.png",
+          "script": "Johnson-Sovereign-of-Realms-S-A-B-E-R-Automata.zip"
+        },
+        {
+          "name": "Jeepney Racer",
+          "Portrait_url": "Johnson-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Sovereign-of-Realms-Jeepney-Racer.zip"
+        },
+        {
+          "name": "Wreck King",
+          "Portrait_url": "Johnson-Wreck-King.png",
+          "Splash_url": "Johnson-Wreck-King.png",
+          "script": "Johnson-Sovereign-of-Realms-Wreck-King.zip"
+        },
+        {
+          "name": "Death Ride",
+          "Portrait_url": "Johnson-Death-Ride.png",
+          "Splash_url": "Johnson-Death-Ride.png",
+          "script": "Johnson-Sovereign-of-Realms-Death-Ride.zip"
+        },
+        {
+          "name": "Optimus Prime",
+          "Portrait_url": "Johnson-Optimus-Prime.png",
+          "Splash_url": "Johnson-Optimus-Prime.png",
+          "script": "Johnson-Sovereign-of-Realms-Optimus-Prime.zip"
+        },
+        {
+          "name": "Starblazer",
+          "Portrait_url": "Johnson-Starblazer.png",
+          "Splash_url": "Johnson-Starblazer.png",
+          "script": "Johnson-Sovereign-of-Realms-Starblazer.zip"
+        },
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Sovereign-of-Realms-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Pink Jeepney Racer Skin 09",
+      "Splash_url": "Johnson-Pink-Jeepney-Racer.png",
+      "script": "Johnson-Pink-Jeepney-Racer-Skin-09-Backup.zip",
+      "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Pink Jeepney Racer Painted 01",
+          "Portrait_url": "Johnson-Pink-Jeepney-Racer.png",
+          "Splash_url": "Johnson-Jeepney-Racer.png",
+          "script": "Johnson-Pink-Jeepney-Racer-Skin-09-Pink-Jeepney-Racer-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

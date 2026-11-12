@@ -1,0 +1,323 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Vexana",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Lucent Beacon",
+      "Splash_url": "Vexana-Lucent-Beacon.png",
+      "script": "Vexana-Lucent-Beacon-Backup.zip",
+      "Portrait_url": "Vexana-Lucent-Beacon.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Sanguine Rose",
+          "Portrait_url": "Vexana-Sanguine-Rose.png",
+          "Splash_url": "Vexana-Sanguine-Rose.png",
+          "script": "Vexana-Lucent-Beacon-Sanguine-Rose.zip"
+        },
+        {
+          "name": "The Sun Empress",
+          "Portrait_url": "Vexana-The-Sun-Empress.png",
+          "Splash_url": "Vexana-The-Sun-Empress.png",
+          "script": "Vexana-Lucent-Beacon-The-Sun-Empress.zip"
+        },
+        {
+          "name": "Twisted Fairytale",
+          "Portrait_url": "Vexana-Twisted-Fairytale.png",
+          "Splash_url": "Vexana-Twisted-Fairytale.png",
+          "script": "Vexana-Lucent-Beacon-Twisted-Fairytale.zip"
+        },
+        {
+          "name": "Daybreak Halo",
+          "Portrait_url": "Vexana-Daybreak-Halo.png",
+          "Splash_url": "Vexana-Daybreak-Halo.png",
+          "script": "Vexana-Lucent-Beacon-Daybreak-Halo.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Sanguine Rose",
+      "Splash_url": "Vexana-Sanguine-Rose.png",
+      "script": "Vexana-Sanguine-Rose-Backup.zip",
+      "Portrait_url": "Vexana-Sanguine-Rose.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Lucent Beacon",
+          "Portrait_url": "Vexana-Lucent-Beacon.png",
+          "Splash_url": "Vexana-Lucent-Beacon.png",
+          "script": "Vexana-Sanguine-Rose-Lucent-Beacon.zip"
+        },
+        {
+          "name": "Cursed Shackle",
+          "Portrait_url": "Vexana-Cursed-Shackle.png",
+          "Splash_url": "Vexana-Cursed-Shackle.png",
+          "script": "Vexana-Sanguine-Rose-Cursed-Shackle.zip"
+        },
+        {
+          "name": "Circus Magician",
+          "Portrait_url": "Vexana-Circus-Magician.png",
+          "Splash_url": "Vexana-Circus-Magician.png",
+          "script": "Vexana-Sanguine-Rose-Circus-Magician.zip"
+        },
+        {
+          "name": "The Sun Empress",
+          "Portrait_url": "Vexana-The-Sun-Empress.png",
+          "Splash_url": "Vexana-The-Sun-Empress.png",
+          "script": "Vexana-Sanguine-Rose-The-Sun-Empress.zip"
+        },
+        {
+          "name": "Twisted Fairytale",
+          "Portrait_url": "Vexana-Twisted-Fairytale.png",
+          "Splash_url": "Vexana-Twisted-Fairytale.png",
+          "script": "Vexana-Sanguine-Rose-Twisted-Fairytale.zip"
+        },
+        {
+          "name": "Daybreak Halo",
+          "Portrait_url": "Vexana-Daybreak-Halo.png",
+          "Splash_url": "Vexana-Daybreak-Halo.png",
+          "script": "Vexana-Sanguine-Rose-Daybreak-Halo.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Cursed Shackle",
+      "Splash_url": "Vexana-Cursed-Shackle.png",
+      "script": "Vexana-Cursed-Shackle-Backup.zip",
+      "Portrait_url": "Vexana-Cursed-Shackle.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Lucent Beacon",
+          "Portrait_url": "Vexana-Lucent-Beacon.png",
+          "Splash_url": "Vexana-Lucent-Beacon.png",
+          "script": "Vexana-Cursed-Shackle-Lucent-Beacon.zip"
+        },
+        {
+          "name": "Sanguine Rose",
+          "Portrait_url": "Vexana-Sanguine-Rose.png",
+          "Splash_url": "Vexana-Sanguine-Rose.png",
+          "script": "Vexana-Cursed-Shackle-Sanguine-Rose.zip"
+        },
+        {
+          "name": "Circus Magician",
+          "Portrait_url": "Vexana-Circus-Magician.png",
+          "Splash_url": "Vexana-Circus-Magician.png",
+          "script": "Vexana-Cursed-Shackle-Circus-Magician.zip"
+        },
+        {
+          "name": "The Sun Empress",
+          "Portrait_url": "Vexana-The-Sun-Empress.png",
+          "Splash_url": "Vexana-The-Sun-Empress.png",
+          "script": "Vexana-Cursed-Shackle-The-Sun-Empress.zip"
+        },
+        {
+          "name": "Twisted Fairytale",
+          "Portrait_url": "Vexana-Twisted-Fairytale.png",
+          "Splash_url": "Vexana-Twisted-Fairytale.png",
+          "script": "Vexana-Cursed-Shackle-Twisted-Fairytale.zip"
+        },
+        {
+          "name": "Daybreak Halo",
+          "Portrait_url": "Vexana-Daybreak-Halo.png",
+          "Splash_url": "Vexana-Daybreak-Halo.png",
+          "script": "Vexana-Cursed-Shackle-Daybreak-Halo.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Circus Magician",
+      "Splash_url": "Vexana-Circus-Magician.png",
+      "script": "Vexana-Circus-Magician-Backup.zip",
+      "Portrait_url": "Vexana-Circus-Magician.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Lucent Beacon",
+          "Portrait_url": "Vexana-Lucent-Beacon.png",
+          "Splash_url": "Vexana-Lucent-Beacon.png",
+          "script": "Vexana-Circus-Magician-Lucent-Beacon.zip"
+        },
+        {
+          "name": "Sanguine Rose",
+          "Portrait_url": "Vexana-Sanguine-Rose.png",
+          "Splash_url": "Vexana-Sanguine-Rose.png",
+          "script": "Vexana-Circus-Magician-Sanguine-Rose.zip"
+        },
+        {
+          "name": "Cursed Shackle",
+          "Portrait_url": "Vexana-Cursed-Shackle.png",
+          "Splash_url": "Vexana-Cursed-Shackle.png",
+          "script": "Vexana-Circus-Magician-Cursed-Shackle.zip"
+        },
+        {
+          "name": "The Sun Empress",
+          "Portrait_url": "Vexana-The-Sun-Empress.png",
+          "Splash_url": "Vexana-The-Sun-Empress.png",
+          "script": "Vexana-Circus-Magician-The-Sun-Empress.zip"
+        },
+        {
+          "name": "Twisted Fairytale",
+          "Portrait_url": "Vexana-Twisted-Fairytale.png",
+          "Splash_url": "Vexana-Twisted-Fairytale.png",
+          "script": "Vexana-Circus-Magician-Twisted-Fairytale.zip"
+        },
+        {
+          "name": "Daybreak Halo",
+          "Portrait_url": "Vexana-Daybreak-Halo.png",
+          "Splash_url": "Vexana-Daybreak-Halo.png",
+          "script": "Vexana-Circus-Magician-Daybreak-Halo.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "The Sun Empress",
+      "Splash_url": "Vexana-The-Sun-Empress.png",
+      "script": "Vexana-The-Sun-Empress-Backup.zip",
+      "Portrait_url": "Vexana-The-Sun-Empress.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Lucent Beacon",
+          "Portrait_url": "Vexana-Lucent-Beacon.png",
+          "Splash_url": "Vexana-Lucent-Beacon.png",
+          "script": "Vexana-The-Sun-Empress-Lucent-Beacon.zip"
+        },
+        {
+          "name": "Sanguine Rose",
+          "Portrait_url": "Vexana-Sanguine-Rose.png",
+          "Splash_url": "Vexana-Sanguine-Rose.png",
+          "script": "Vexana-The-Sun-Empress-Sanguine-Rose.zip"
+        },
+        {
+          "name": "Cursed Shackle",
+          "Portrait_url": "Vexana-Cursed-Shackle.png",
+          "Splash_url": "Vexana-Cursed-Shackle.png",
+          "script": "Vexana-The-Sun-Empress-Cursed-Shackle.zip"
+        },
+        {
+          "name": "Circus Magician",
+          "Portrait_url": "Vexana-Circus-Magician.png",
+          "Splash_url": "Vexana-Circus-Magician.png",
+          "script": "Vexana-The-Sun-Empress-Circus-Magician.zip"
+        },
+        {
+          "name": "Twisted Fairytale",
+          "Portrait_url": "Vexana-Twisted-Fairytale.png",
+          "Splash_url": "Vexana-Twisted-Fairytale.png",
+          "script": "Vexana-The-Sun-Empress-Twisted-Fairytale.zip"
+        },
+        {
+          "name": "Daybreak Halo",
+          "Portrait_url": "Vexana-Daybreak-Halo.png",
+          "Splash_url": "Vexana-Daybreak-Halo.png",
+          "script": "Vexana-The-Sun-Empress-Daybreak-Halo.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zenith",
+      "Default_name": "Twisted Fairytale",
+      "Splash_url": "Vexana-Twisted-Fairytale.png",
+      "script": "Vexana-Twisted-Fairytale-Backup.zip",
+      "Portrait_url": "Vexana-Twisted-Fairytale.png",
+      "Tags": [
+        "Zenith.png"
+      ],
+      "targets": [
+        {
+          "name": "Lucent Beacon",
+          "Portrait_url": "Vexana-Lucent-Beacon.png",
+          "Splash_url": "Vexana-Lucent-Beacon.png",
+          "script": "Vexana-Twisted-Fairytale-Lucent-Beacon.zip"
+        },
+        {
+          "name": "Sanguine Rose",
+          "Portrait_url": "Vexana-Sanguine-Rose.png",
+          "Splash_url": "Vexana-Sanguine-Rose.png",
+          "script": "Vexana-Twisted-Fairytale-Sanguine-Rose.zip"
+        },
+        {
+          "name": "Cursed Shackle",
+          "Portrait_url": "Vexana-Cursed-Shackle.png",
+          "Splash_url": "Vexana-Cursed-Shackle.png",
+          "script": "Vexana-Twisted-Fairytale-Cursed-Shackle.zip"
+        },
+        {
+          "name": "Circus Magician",
+          "Portrait_url": "Vexana-Circus-Magician.png",
+          "Splash_url": "Vexana-Circus-Magician.png",
+          "script": "Vexana-Twisted-Fairytale-Circus-Magician.zip"
+        },
+        {
+          "name": "The Sun Empress",
+          "Portrait_url": "Vexana-The-Sun-Empress.png",
+          "Splash_url": "Vexana-The-Sun-Empress.png",
+          "script": "Vexana-Twisted-Fairytale-The-Sun-Empress.zip"
+        },
+        {
+          "name": "Daybreak Halo",
+          "Portrait_url": "Vexana-Daybreak-Halo.png",
+          "Splash_url": "Vexana-Daybreak-Halo.png",
+          "script": "Vexana-Twisted-Fairytale-Daybreak-Halo.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Daybreak Halo",
+      "Splash_url": "Vexana-Daybreak-Halo.png",
+      "script": "Vexana-Daybreak-Halo-Backup.zip",
+      "Portrait_url": "Vexana-Daybreak-Halo.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Lucent Beacon",
+          "Portrait_url": "Vexana-Lucent-Beacon.png",
+          "Splash_url": "Vexana-Lucent-Beacon.png",
+          "script": "Vexana-Daybreak-Halo-Lucent-Beacon.zip"
+        },
+        {
+          "name": "Sanguine Rose",
+          "Portrait_url": "Vexana-Sanguine-Rose.png",
+          "Splash_url": "Vexana-Sanguine-Rose.png",
+          "script": "Vexana-Daybreak-Halo-Sanguine-Rose.zip"
+        },
+        {
+          "name": "Cursed Shackle",
+          "Portrait_url": "Vexana-Cursed-Shackle.png",
+          "Splash_url": "Vexana-Cursed-Shackle.png",
+          "script": "Vexana-Daybreak-Halo-Cursed-Shackle.zip"
+        },
+        {
+          "name": "Circus Magician",
+          "Portrait_url": "Vexana-Circus-Magician.png",
+          "Splash_url": "Vexana-Circus-Magician.png",
+          "script": "Vexana-Daybreak-Halo-Circus-Magician.zip"
+        },
+        {
+          "name": "The Sun Empress",
+          "Portrait_url": "Vexana-The-Sun-Empress.png",
+          "Splash_url": "Vexana-The-Sun-Empress.png",
+          "script": "Vexana-Daybreak-Halo-The-Sun-Empress.zip"
+        }
+      ]
+    }
+  ]
+}

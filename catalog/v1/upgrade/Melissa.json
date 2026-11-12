@@ -1,0 +1,233 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Melissa",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Twinge Weaver",
+      "Splash_url": "Melissa-Twinge-Weaver.png",
+      "script": "Melissa-Twinge-Weaver-Backup.zip",
+      "Portrait_url": "Melissa-Twinge-Weaver.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Nobara Kugisaki",
+          "Portrait_url": "Melissa-Nobara-Kugisaki.png",
+          "Splash_url": "Melissa-Nobara-Kugisaki.png",
+          "script": "Melissa-Twinge-Weaver-Nobara-Kugisaki.zip"
+        },
+        {
+          "name": "Nightwalker",
+          "Portrait_url": "Melissa-Nightwalker.png",
+          "Splash_url": "Melissa-Nightwalker.png",
+          "script": "Melissa-Twinge-Weaver-Nightwalker.zip"
+        },
+        {
+          "name": "SPARKLE Melissa",
+          "Portrait_url": "Melissa-SPARKLE-Melissa.png",
+          "Splash_url": "Melissa-SPARKLE-Melissa.png",
+          "script": "Melissa-Twinge-Weaver-SPARKLE-Melissa.zip"
+        },
+        {
+          "name": "Umbra Bloom",
+          "Portrait_url": "Melissa-Umbra-Bloom.png",
+          "Splash_url": "Melissa-Umbra-Bloom.png",
+          "script": "Melissa-Twinge-Weaver-Umbra-Bloom.zip"
+        },
+        {
+          "name": "Cursewalker",
+          "Portrait_url": "Melissa-Cursewalker.png",
+          "Splash_url": "Melissa-Cursewalker.png",
+          "script": "Melissa-Twinge-Weaver-Cursewalker.zip"
+        },
+        {
+          "name": "SHIMMER Melissa",
+          "Portrait_url": "Melissa-SHIMMER-Melissa.png",
+          "Splash_url": "Melissa - SHIMMER Melissa.jpg",
+          "script": "Melissa-Twinge-Weaver-SHIMMER-Melissa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "Default_name": "Nobara Kugisaki",
+      "Splash_url": "Melissa-Nobara-Kugisaki.png",
+      "script": "Melissa-Nobara-Kugisaki-Backup.zip",
+      "Portrait_url": "Melissa-Nobara-Kugisaki.png",
+      "Tags": [
+        "Jujutsu Kaisen.png"
+      ],
+      "targets": [
+        {
+          "name": "Twinge Weaver",
+          "Portrait_url": "Melissa-Twinge-Weaver.png",
+          "Splash_url": "Melissa-Twinge-Weaver.png",
+          "script": "Melissa-Nobara-Kugisaki-Twinge-Weaver.zip"
+        },
+        {
+          "name": "Nightwalker",
+          "Portrait_url": "Melissa-Nightwalker.png",
+          "Splash_url": "Melissa-Nightwalker.png",
+          "script": "Melissa-Nobara-Kugisaki-Nightwalker.zip"
+        },
+        {
+          "name": "SPARKLE Melissa",
+          "Portrait_url": "Melissa-SPARKLE-Melissa.png",
+          "Splash_url": "Melissa-SPARKLE-Melissa.png",
+          "script": "Melissa-Nobara-Kugisaki-SPARKLE-Melissa.zip"
+        },
+        {
+          "name": "Umbra Bloom",
+          "Portrait_url": "Melissa-Umbra-Bloom.png",
+          "Splash_url": "Melissa-Umbra-Bloom.png",
+          "script": "Melissa-Nobara-Kugisaki-Umbra-Bloom.zip"
+        },
+        {
+          "name": "Cursewalker",
+          "Portrait_url": "Melissa-Cursewalker.png",
+          "Splash_url": "Melissa-Cursewalker.png",
+          "script": "Melissa-Nobara-Kugisaki-Cursewalker.zip"
+        },
+        {
+          "name": "SHIMMER Melissa",
+          "Portrait_url": "Melissa-SHIMMER-Melissa.png",
+          "Splash_url": "Melissa - SHIMMER Melissa.jpg",
+          "script": "Melissa-Nobara-Kugisaki-SHIMMER-Melissa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Nightwalker",
+      "Splash_url": "Melissa-Nightwalker.png",
+      "script": "Melissa-Nightwalker-Backup.zip",
+      "Portrait_url": "Melissa-Nightwalker.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Twinge Weaver",
+          "Portrait_url": "Melissa-Twinge-Weaver.png",
+          "Splash_url": "Melissa-Twinge-Weaver.png",
+          "script": "Melissa-Nightwalker-Twinge-Weaver.zip"
+        },
+        {
+          "name": "Nobara Kugisaki",
+          "Portrait_url": "Melissa-Nobara-Kugisaki.png",
+          "Splash_url": "Melissa-Nobara-Kugisaki.png",
+          "script": "Melissa-Nightwalker-Nobara-Kugisaki.zip"
+        },
+        {
+          "name": "SPARKLE Melissa",
+          "Portrait_url": "Melissa-SPARKLE-Melissa.png",
+          "Splash_url": "Melissa-SPARKLE-Melissa.png",
+          "script": "Melissa-Nightwalker-SPARKLE-Melissa.zip"
+        },
+        {
+          "name": "Umbra Bloom",
+          "Portrait_url": "Melissa-Umbra-Bloom.png",
+          "Splash_url": "Melissa-Umbra-Bloom.png",
+          "script": "Melissa-Nightwalker-Umbra-Bloom.zip"
+        },
+        {
+          "name": "SHIMMER Melissa",
+          "Portrait_url": "Melissa-SHIMMER-Melissa.png",
+          "Splash_url": "Melissa - SHIMMER Melissa.jpg",
+          "script": "Melissa-Nightwalker-SHIMMER-Melissa.zip"
+        }
+      ]
+    },
+    {
+      "name": "Sparkle",
+      "Default_name": "SPARKLE Melissa",
+      "Splash_url": "Melissa-SPARKLE-Melissa.png",
+      "script": "Melissa-SPARKLE-Melissa-Backup.zip",
+      "Portrait_url": "Melissa-SPARKLE-Melissa.png",
+      "Tags": [
+        "Sparkle.png"
+      ],
+      "targets": [
+        {
+          "name": "Twinge Weaver",
+          "Portrait_url": "Melissa-Twinge-Weaver.png",
+          "Splash_url": "Melissa-Twinge-Weaver.png",
+          "script": "Melissa-SPARKLE-Melissa-Twinge-Weaver.zip"
+        },
+        {
+          "name": "Nobara Kugisaki",
+          "Portrait_url": "Melissa-Nobara-Kugisaki.png",
+          "Splash_url": "Melissa-Nobara-Kugisaki.png",
+          "script": "Melissa-SPARKLE-Melissa-Nobara-Kugisaki.zip"
+        },
+        {
+          "name": "Nightwalker",
+          "Portrait_url": "Melissa-Nightwalker.png",
+          "Splash_url": "Melissa-Nightwalker.png",
+          "script": "Melissa-SPARKLE-Melissa-Nightwalker.zip"
+        },
+        {
+          "name": "Umbra Bloom",
+          "Portrait_url": "Melissa-Umbra-Bloom.png",
+          "Splash_url": "Melissa-Umbra-Bloom.png",
+          "script": "Melissa-SPARKLE-Melissa-Umbra-Bloom.zip"
+        },
+        {
+          "name": "Cursewalker",
+          "Portrait_url": "Melissa-Cursewalker.png",
+          "Splash_url": "Melissa-Cursewalker.png",
+          "script": "Melissa-SPARKLE-Melissa-Cursewalker.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Umbra Bloom",
+      "Splash_url": "Melissa-Umbra-Bloom.png",
+      "script": "Melissa-Umbra-Bloom-Backup.zip",
+      "Portrait_url": "Melissa-Umbra-Bloom.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Twinge Weaver",
+          "Portrait_url": "Melissa-Twinge-Weaver.png",
+          "Splash_url": "Melissa-Twinge-Weaver.png",
+          "script": "Melissa-Umbra-Bloom-Twinge-Weaver.zip"
+        },
+        {
+          "name": "Nobara Kugisaki",
+          "Portrait_url": "Melissa-Nobara-Kugisaki.png",
+          "Splash_url": "Melissa-Nobara-Kugisaki.png",
+          "script": "Melissa-Umbra-Bloom-Nobara-Kugisaki.zip"
+        },
+        {
+          "name": "Nightwalker",
+          "Portrait_url": "Melissa-Nightwalker.png",
+          "Splash_url": "Melissa-Nightwalker.png",
+          "script": "Melissa-Umbra-Bloom-Nightwalker.zip"
+        },
+        {
+          "name": "SPARKLE Melissa",
+          "Portrait_url": "Melissa-SPARKLE-Melissa.png",
+          "Splash_url": "Melissa-SPARKLE-Melissa.png",
+          "script": "Melissa-Umbra-Bloom-SPARKLE-Melissa.zip"
+        },
+        {
+          "name": "Cursewalker",
+          "Portrait_url": "Melissa-Cursewalker.png",
+          "Splash_url": "Melissa-Cursewalker.png",
+          "script": "Melissa-Umbra-Bloom-Cursewalker.zip"
+        },
+        {
+          "name": "SHIMMER Melissa",
+          "Portrait_url": "Melissa-SHIMMER-Melissa.png",
+          "Splash_url": "Melissa - SHIMMER Melissa.jpg",
+          "script": "Melissa-Umbra-Bloom-SHIMMER-Melissa.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1259 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Miya",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Burning Bow",
+      "Splash_url": "Miya-Burning-Bow.png",
+      "script": "Miya-Burning-Bow-Backup.zip",
+      "Portrait_url": "Miya-Burning-Bow.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Burning-Bow-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Burning-Bow-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Burning-Bow-Honor.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Burning-Bow-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Burning-Bow-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Burning-Bow-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Burning-Bow-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Burning-Bow-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Burning-Bow-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Burning-Bow-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Burning-Bow-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Burning-Bow-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Burning-Bow-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Burning-Bow-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Miya-Christmas-Carnival.png",
+      "script": "Miya-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Miya-Christmas-Carnival.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Christmas-Carnival-Burning-Bow.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Christmas-Carnival-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Christmas-Carnival-Honor.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Christmas-Carnival-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Christmas-Carnival-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Christmas-Carnival-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Christmas-Carnival-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Christmas-Carnival-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Christmas-Carnival-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Christmas-Carnival-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Christmas-Carnival-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Christmas-Carnival-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Christmas-Carnival-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Christmas-Carnival-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Christmas-Carnival-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Captain Thorns",
+      "Splash_url": "Miya-Captain-Thorns.png",
+      "script": "Miya-Captain-Thorns-Backup.zip",
+      "Portrait_url": "Miya-Captain-Thorns.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Captain-Thorns-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Captain-Thorns-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Captain-Thorns-Honor.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Captain-Thorns-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Captain-Thorns-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Captain-Thorns-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Captain-Thorns-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Captain-Thorns-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Captain-Thorns-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Captain-Thorns-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Captain-Thorns-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Captain-Thorns-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Captain-Thorns-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Captain-Thorns-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Captain-Thorns-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Limited",
+      "Default_name": "Honor",
+      "Splash_url": "Miya-Honor.png",
+      "script": "Miya-Honor-Backup.zip",
+      "Portrait_url": "Miya-Honor.png",
+      "Tags": [
+        "Limited.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Honor-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Honor-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Honor-Captain-Thorns.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Honor-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Honor-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Honor-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Honor-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Honor-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Honor-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Honor-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Honor-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Honor-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Honor-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Honor-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Modena Butterfly",
+      "Splash_url": "Miya-Modena-Butterfly.png",
+      "script": "Miya-Modena-Butterfly-Backup.zip",
+      "Portrait_url": "Miya-Modena-Butterfly.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Modena-Butterfly-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Modena-Butterfly-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Modena-Butterfly-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Modena-Butterfly-Honor.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Modena-Butterfly-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Modena-Butterfly-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Modena-Butterfly-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Modena-Butterfly-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Modena-Butterfly-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Modena-Butterfly-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Modena-Butterfly-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Modena-Butterfly-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Modena-Butterfly-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Modena-Butterfly-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Modena-Butterfly-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Sweet Fantasy",
+      "Splash_url": "Miya-Sweet-Fantasy.png",
+      "script": "Miya-Sweet-Fantasy-Backup.zip",
+      "Portrait_url": "Miya-Sweet-Fantasy.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Sweet-Fantasy-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Sweet-Fantasy-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Sweet-Fantasy-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Sweet-Fantasy-Honor.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Sweet-Fantasy-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Sweet-Fantasy-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Sweet-Fantasy-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Sweet-Fantasy-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Sweet-Fantasy-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Sweet-Fantasy-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Sweet-Fantasy-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Sweet-Fantasy-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Sweet-Fantasy-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Sweet-Fantasy-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Suzuhime",
+      "Splash_url": "Miya-Suzuhime.png",
+      "script": "Miya-Suzuhime-Backup.zip",
+      "Portrait_url": "Miya-Suzuhime.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Suzuhime-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Suzuhime-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Suzuhime-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Suzuhime-Honor.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Suzuhime-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Suzuhime-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Suzuhime-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Suzuhime-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Suzuhime-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Suzuhime-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Suzuhime-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Suzuhime-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Suzuhime-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Suzuhime-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Jungle Ranger",
+      "Splash_url": "Miya-Jungle-Ranger.png",
+      "script": "Miya-Jungle-Ranger-Backup.zip",
+      "Portrait_url": "Miya-Jungle-Ranger.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Jungle-Ranger-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Jungle-Ranger-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Jungle-Ranger-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Jungle-Ranger-Honor.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Jungle-Ranger-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Jungle-Ranger-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Jungle-Ranger-Suzuhime.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Jungle-Ranger-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Jungle-Ranger-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Jungle-Ranger-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Jungle-Ranger-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Jungle-Ranger-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Jungle-Ranger-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Jungle-Ranger-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Jungle-Ranger-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "5th Anniversary",
+      "Default_name": "Moon Priestess",
+      "Splash_url": "Miya-Moon-Priestess.png",
+      "script": "Miya-Moon-Priestess-Backup.zip",
+      "Portrait_url": "Miya-Moon-Priestess.png",
+      "Tags": [
+        "5th Anniversary.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Moon-Priestess-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Moon-Priestess-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Moon-Priestess-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Moon-Priestess-Honor.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Moon-Priestess-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Moon-Priestess-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Moon-Priestess-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Moon-Priestess-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Moon-Priestess-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Moon-Priestess-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Moon-Priestess-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Moon-Priestess-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Moon-Priestess-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Moon-Priestess-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Moon-Priestess-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Doom Catalyst",
+      "Splash_url": "Miya-Doom-Catalyst.png",
+      "script": "Miya-Doom-Catalyst-Backup.zip",
+      "Portrait_url": "Miya-Doom-Catalyst.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Doom-Catalyst-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Doom-Catalyst-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Doom-Catalyst-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Doom-Catalyst-Honor.zip"
+        },
+        {
+          "name": "Modena Butterfly",
+          "Portrait_url": "Miya-Modena-Butterfly.png",
+          "Splash_url": "Miya-Modena-Butterfly.png",
+          "script": "Miya-Doom-Catalyst-Modena-Butterfly.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Doom-Catalyst-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Doom-Catalyst-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Doom-Catalyst-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Doom-Catalyst-Moon-Priestess.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Doom-Catalyst-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Doom-Catalyst-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Doom-Catalyst-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Doom-Catalyst-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Doom-Catalyst-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Atomic",
+      "Default_name": "Atomic Pop Miya",
+      "Splash_url": "Miya-Atomic-Pop-Miya.png",
+      "script": "Miya-Atomic-Pop-Miya-Backup.zip",
+      "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+      "Tags": [
+        "Atomic.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Atomic-Pop-Miya-Burning-Bow.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Miya-Christmas-Carnival.png",
+          "Splash_url": "Miya-Christmas-Carnival.png",
+          "script": "Miya-Atomic-Pop-Miya-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Atomic-Pop-Miya-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Atomic-Pop-Miya-Honor.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Atomic-Pop-Miya-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Atomic-Pop-Miya-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Atomic-Pop-Miya-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Atomic-Pop-Miya-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Atomic-Pop-Miya-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Atomic-Pop-Miya-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Atomic-Pop-Miya-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Atomic-Pop-Miya-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Atomic-Pop-Miya-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Atomic-Pop-Miya-Nightowl-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Nightowl Huntress",
+      "Splash_url": "Miya-Nightowl-Huntress.png",
+      "script": "Miya-Nightowl-Huntress-Backup.zip",
+      "Portrait_url": "Miya-Nightowl-Huntress.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Nightowl-Huntress-Burning-Bow.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Nightowl-Huntress-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Nightowl-Huntress-Honor.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Nightowl-Huntress-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Nightowl-Huntress-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Nightowl-Huntress-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Nightowl-Huntress-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Nightowl-Huntress-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Nightowl-Huntress-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Arrow of Springs",
+          "Portrait_url": "Miya-Arrow-of-Springs.png",
+          "Splash_url": "Miya-Arrow-of-Springs.png",
+          "script": "Miya-Nightowl-Huntress-Arrow-of-Springs.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Nightowl-Huntress-Tranquil-Bow.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Arrow of Springs",
+      "Splash_url": "Miya-Arrow-of-Springs.png",
+      "script": "Miya-Arrow-of-Springs-Backup.zip",
+      "Portrait_url": "Miya-Arrow-of-Springs.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Burning Bow",
+          "Portrait_url": "Miya-Burning-Bow.png",
+          "Splash_url": "Miya-Burning-Bow.png",
+          "script": "Miya-Arrow-of-Springs-Burning-Bow.zip"
+        },
+        {
+          "name": "Captain Thorns",
+          "Portrait_url": "Miya-Captain-Thorns.png",
+          "Splash_url": "Miya-Captain-Thorns.png",
+          "script": "Miya-Arrow-of-Springs-Captain-Thorns.zip"
+        },
+        {
+          "name": "Honor",
+          "Portrait_url": "Miya-Honor.png",
+          "Splash_url": "Miya-Honor.png",
+          "script": "Miya-Arrow-of-Springs-Honor.zip"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "Portrait_url": "Miya-Sweet-Fantasy.png",
+          "Splash_url": "Miya-Sweet-Fantasy.png",
+          "script": "Miya-Arrow-of-Springs-Sweet-Fantasy.zip"
+        },
+        {
+          "name": "Suzuhime",
+          "Portrait_url": "Miya-Suzuhime.png",
+          "Splash_url": "Miya-Suzuhime.png",
+          "script": "Miya-Arrow-of-Springs-Suzuhime.zip"
+        },
+        {
+          "name": "Jungle Ranger",
+          "Portrait_url": "Miya-Jungle-Ranger.png",
+          "Splash_url": "Miya-Jungle-Ranger.png",
+          "script": "Miya-Arrow-of-Springs-Jungle-Ranger.zip"
+        },
+        {
+          "name": "Moon Priestess",
+          "Portrait_url": "Miya-Moon-Priestess.png",
+          "Splash_url": "Miya-Moon-Priestess.png",
+          "script": "Miya-Arrow-of-Springs-Moon-Priestess.zip"
+        },
+        {
+          "name": "Doom Catalyst",
+          "Portrait_url": "Miya-Doom-Catalyst.png",
+          "Splash_url": "Miya-Doom-Catalyst.png",
+          "script": "Miya-Arrow-of-Springs-Doom-Catalyst.zip"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "Portrait_url": "Miya-Atomic-Pop-Miya.png",
+          "Splash_url": "Miya-Atomic-Pop-Miya.png",
+          "script": "Miya-Arrow-of-Springs-Atomic-Pop-Miya.zip"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "Portrait_url": "Miya-Nightowl-Huntress.png",
+          "Splash_url": "Miya-Nightowl-Huntress.png",
+          "script": "Miya-Arrow-of-Springs-Nightowl-Huntress.zip"
+        },
+        {
+          "name": "Tranquil Bow",
+          "Portrait_url": "Miya-Tranquil-Bow.png",
+          "Splash_url": "Miya-Tranquil-Bow.png",
+          "script": "Miya-Arrow-of-Springs-Tranquil-Bow.zip"
+        },
+        {
+          "name": "Nightowl Warden",
+          "Portrait_url": "Miya-Nightowl-Warden.png",
+          "Splash_url": "Miya - Nightowl Warden.jpg",
+          "script": "Miya-Arrow-of-Springs-Nightowl-Warden.zip"
+        },
+        {
+          "name": "Nightowl Sentinel",
+          "Portrait_url": "Miya-Nightowl-Sentinel.png",
+          "Splash_url": "Miya - Nightowl Sentinel.jpg",
+          "script": "Miya-Arrow-of-Springs-Nightowl-Sentinel.zip"
+        }
+      ]
+    }
+  ]
+}

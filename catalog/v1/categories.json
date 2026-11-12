@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "data": [
+    {
+      "id": "visual-skins",
+      "title": "Visual Skins",
+      "route": "hero_catalog",
+      "kind": "visual",
+      "description": "Hero visual skins and downloadable scripts.",
+      "image": "https://raw.githubusercontent.com/Sparkies01/Images/main/img/1000619843.png",
+      "endpoint": "catalog/v1/visual/{hero}.json",
+      "order": 10,
+      "enabled": true
+    },
+    {
+      "id": "upgrade-skins",
+      "title": "Upgrade Skins",
+      "route": "hero_catalog",
+      "kind": "upgrade",
+      "description": "Upgrade one skin into another skin.",
+      "image": "https://raw.githubusercontent.com/Sparkies01/Images/main/img/1000619844.png",
+      "endpoint": "catalog/v1/upgrade/{hero}.json",
+      "order": 20,
+      "enabled": true
+    },
+    {
+      "id": "custom-skins",
+      "title": "Custom Skins",
+      "route": "flat_catalog",
+      "kind": "custom",
+      "description": "Anime and custom character editions.",
+      "image": "https://raw.githubusercontent.com/Sparkies01/Images/main/img/1000619845.png",
+      "endpoint": "catalog/v1/custom.json",
+      "order": 30,
+      "enabled": true
+    },
+    {
+      "id": "painted-skins",
+      "title": "Painted Skins",
+      "route": "flat_catalog",
+      "kind": "painted",
+      "description": "Recolored variants of existing skins.",
+      "image": "https://raw.githubusercontent.com/Sparkies01/Images/main/img/1000619846.png",
+      "endpoint": "catalog/v1/painted.json",
+      "order": 40,
+      "enabled": true
+    },
+    {
+      "id": "battle-emotes",
+      "title": "Battle Emotes",
+      "route": "effect_catalog",
+      "kind": "emote",
+      "description": "Battle emote scripts and previews.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/emote.jpg",
+      "endpoint": "catalog/v1/effects/Emotes.json",
+      "order": 50,
+      "enabled": true
+    },
+    {
+      "id": "recalls",
+      "title": "Recalls",
+      "route": "effect_catalog",
+      "kind": "recall",
+      "description": "Recall animations and effects.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/recall.jpg",
+      "endpoint": "catalog/v1/effects/Recall.json",
+      "order": 60,
+      "enabled": true
+    },
+    {
+      "id": "respawn",
+      "title": "Respawn",
+      "route": "effect_catalog",
+      "kind": "respawn",
+      "description": "Respawn entrance effects.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/respawn.jpg",
+      "endpoint": "catalog/v1/effects/Respawn.json",
+      "order": 70,
+      "enabled": true
+    },
+    {
+      "id": "elimination",
+      "title": "Elimination",
+      "route": "effect_catalog",
+      "kind": "elimination",
+      "description": "Elimination effects.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/eli.jpg",
+      "endpoint": "catalog/v1/effects/Elimination.json",
+      "order": 80,
+      "enabled": true
+    },
+    {
+      "id": "notification",
+      "title": "Notification",
+      "route": "effect_catalog",
+      "kind": "notification",
+      "description": "Custom in-game notifications.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/notif.jpg",
+      "endpoint": "catalog/v1/effects/Notification.json",
+      "order": 90,
+      "enabled": true
+    },
+    {
+      "id": "trails",
+      "title": "Trails",
+      "route": "effect_catalog",
+      "kind": "trail",
+      "description": "Movement trail effects.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/trail.jpg",
+      "endpoint": "catalog/v1/effects/Trail.json",
+      "order": 100,
+      "enabled": true
+    },
+    {
+      "id": "flying-vehicles",
+      "title": "Flying Vehicles",
+      "route": "effect_catalog",
+      "kind": "flying_vehicle",
+      "description": "Flying Vehicle models, platform effects, and interface icons.",
+      "image": "/Effects/FlyingVehicle/Default%20Flying%20Vehicle.png",
+      "endpoint": "catalog/v1/effects/FlyingVehicle.json",
+      "order": 105,
+      "enabled": true
+    },
+    {
+      "id": "loading-intro",
+      "title": "Loading Intro",
+      "route": "effect_catalog",
+      "kind": "loading_intro",
+      "description": "Custom startup and loading animations.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/intro.jpg",
+      "endpoint": "catalog/v1/effects/LoadingIntro.json",
+      "order": 110,
+      "enabled": true
+    },
+    {
+      "id": "hero-interface",
+      "title": "Hero Interface",
+      "route": "interface_catalog",
+      "kind": "hero_interface",
+      "description": "Hero selection and profile interface themes.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/interface.jpg",
+      "endpoint": "catalog/v1/effects/HeroInterface.json",
+      "order": 120,
+      "enabled": true
+    },
+    {
+      "id": "analog",
+      "title": "Analog",
+      "route": "interface_catalog",
+      "kind": "analog",
+      "description": "Joystick and analog styles.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/analog.png",
+      "endpoint": "catalog/v1/effects/Analog.json",
+      "order": 130,
+      "enabled": true
+    },
+    {
+      "id": "bg-music",
+      "title": "BG Music",
+      "route": "interface_catalog",
+      "kind": "bg_music",
+      "description": "Background music replacements.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/bgmusic.png",
+      "endpoint": "catalog/v1/effects/BGMusic.json",
+      "order": 140,
+      "enabled": true
+    },
+    {
+      "id": "background-ui",
+      "title": "Background UI",
+      "route": "interface_catalog",
+      "kind": "background_ui",
+      "description": "Main-menu and lobby backgrounds.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/fullui.jpg",
+      "endpoint": "catalog/v1/effects/BackgroundUI.json",
+      "order": 150,
+      "enabled": true
+    },
+    {
+      "id": "custom-maps",
+      "title": "Custom Maps",
+      "route": "interface_catalog",
+      "kind": "custom_map",
+      "description": "Custom battlefield maps.",
+      "image": "https://github.com/lanz132/NEW_IMG/raw/main/map.jpg",
+      "endpoint": "catalog/v1/effects/CustomMaps.json",
+      "order": 160,
+      "enabled": true
+    }
+  ]
+}

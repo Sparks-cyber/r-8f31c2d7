@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 64,
+    "slug": "aldous",
+    "name": "Aldous"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "aldous-community-5807",
+      "name": "Community Build 5807",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "thunderbelt",
+        "endlessbattle",
+        "dominanceice",
+        "maleficroar",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "Pure Hybrid Defense, DPS, and lifesteal.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5807,
+      "source_created_at": "2026-02-18T09:36:41.000Z",
+      "likes": 13,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "aldous-community-5540",
+      "name": "Community Build 5540",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "bladeoftheheptaseas",
+        "hunterstrike",
+        "endlessbattle",
+        "bladeofdespair",
+        "maleficroar"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "quantumcharge",
+        "wildernessblessing",
+        "agility"
+      ],
+      "situational_items": [],
+      "notes": "ลองไช้ดูนะ",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5540,
+      "source_created_at": "2026-02-08T10:59:48.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "aldous-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

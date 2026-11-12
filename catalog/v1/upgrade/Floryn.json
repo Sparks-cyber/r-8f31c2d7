@@ -1,0 +1,167 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Floryn",
+  "role": "Support",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Springtide",
+      "Splash_url": "Floryn-Springtide.png",
+      "script": "Floryn-Springtide-Backup.zip",
+      "Portrait_url": "Floryn-Springtide.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Paw Power",
+          "Portrait_url": "Floryn-Paw-Power.png",
+          "Splash_url": "Floryn-Paw-Power.png",
+          "script": "Floryn-Springtide-Paw-Power.zip"
+        },
+        {
+          "name": "Yatai Waitress",
+          "Portrait_url": "Floryn-Yatai-Waitress.png",
+          "Splash_url": "Floryn-Yatai-Waitress.png",
+          "script": "Floryn-Springtide-Yatai-Waitress.zip"
+        },
+        {
+          "name": "Melody of Light",
+          "Portrait_url": "Floryn-Melody-of-Light.png",
+          "Splash_url": "Floryn-Melody-of-Light.png",
+          "script": "Floryn-Springtide-Melody-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Sanrio",
+      "Default_name": "Fluffy Dream",
+      "Splash_url": "Floryn-Fluffy-Dream.png",
+      "script": "Floryn-Fluffy-Dream-Backup.zip",
+      "Portrait_url": "Floryn-Fluffy-Dream.png",
+      "Tags": [
+        "Sanrio Characters.png"
+      ],
+      "targets": [
+        {
+          "name": "Springtide",
+          "Portrait_url": "Floryn-Springtide.png",
+          "Splash_url": "Floryn-Springtide.png",
+          "script": "Floryn-Fluffy-Dream-Springtide.zip"
+        },
+        {
+          "name": "Yatai Waitress",
+          "Portrait_url": "Floryn-Yatai-Waitress.png",
+          "Splash_url": "Floryn-Yatai-Waitress.png",
+          "script": "Floryn-Fluffy-Dream-Yatai-Waitress.zip"
+        },
+        {
+          "name": "Melody of Light",
+          "Portrait_url": "Floryn-Melody-of-Light.png",
+          "Splash_url": "Floryn-Melody-of-Light.png",
+          "script": "Floryn-Fluffy-Dream-Melody-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Paw Power",
+      "Splash_url": "Floryn-Paw-Power.png",
+      "script": "Floryn-Paw-Power-Backup.zip",
+      "Portrait_url": "Floryn-Paw-Power.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Springtide",
+          "Portrait_url": "Floryn-Springtide.png",
+          "Splash_url": "Floryn-Springtide.png",
+          "script": "Floryn-Paw-Power-Springtide.zip"
+        },
+        {
+          "name": "Fluffy Dream",
+          "Portrait_url": "Floryn-Fluffy-Dream.png",
+          "Splash_url": "Floryn-Fluffy-Dream.png",
+          "script": "Floryn-Paw-Power-Fluffy-Dream.zip"
+        },
+        {
+          "name": "Yatai Waitress",
+          "Portrait_url": "Floryn-Yatai-Waitress.png",
+          "Splash_url": "Floryn-Yatai-Waitress.png",
+          "script": "Floryn-Paw-Power-Yatai-Waitress.zip"
+        },
+        {
+          "name": "Melody of Light",
+          "Portrait_url": "Floryn-Melody-of-Light.png",
+          "Splash_url": "Floryn-Melody-of-Light.png",
+          "script": "Floryn-Paw-Power-Melody-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Yatai Waitress",
+      "Splash_url": "Floryn-Yatai-Waitress.png",
+      "script": "Floryn-Yatai-Waitress-Backup.zip",
+      "Portrait_url": "Floryn-Yatai-Waitress.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Springtide",
+          "Portrait_url": "Floryn-Springtide.png",
+          "Splash_url": "Floryn-Springtide.png",
+          "script": "Floryn-Yatai-Waitress-Springtide.zip"
+        },
+        {
+          "name": "Fluffy Dream",
+          "Portrait_url": "Floryn-Fluffy-Dream.png",
+          "Splash_url": "Floryn-Fluffy-Dream.png",
+          "script": "Floryn-Yatai-Waitress-Fluffy-Dream.zip"
+        },
+        {
+          "name": "Paw Power",
+          "Portrait_url": "Floryn-Paw-Power.png",
+          "Splash_url": "Floryn-Paw-Power.png",
+          "script": "Floryn-Yatai-Waitress-Paw-Power.zip"
+        },
+        {
+          "name": "Melody of Light",
+          "Portrait_url": "Floryn-Melody-of-Light.png",
+          "Splash_url": "Floryn-Melody-of-Light.png",
+          "script": "Floryn-Yatai-Waitress-Melody-of-Light.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Melody of Light",
+      "Splash_url": "Floryn-Melody-of-Light.png",
+      "script": "Floryn-Melody-of-Light-Backup.zip",
+      "Portrait_url": "Floryn-Melody-of-Light.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Springtide",
+          "Portrait_url": "Floryn-Springtide.png",
+          "Splash_url": "Floryn-Springtide.png",
+          "script": "Floryn-Melody-of-Light-Springtide.zip"
+        },
+        {
+          "name": "Fluffy Dream",
+          "Portrait_url": "Floryn-Fluffy-Dream.png",
+          "Splash_url": "Floryn-Fluffy-Dream.png",
+          "script": "Floryn-Melody-of-Light-Fluffy-Dream.zip"
+        },
+        {
+          "name": "Yatai Waitress",
+          "Portrait_url": "Floryn-Yatai-Waitress.png",
+          "Splash_url": "Floryn-Yatai-Waitress.png",
+          "script": "Floryn-Melody-of-Light-Yatai-Waitress.zip"
+        }
+      ]
+    }
+  ]
+}

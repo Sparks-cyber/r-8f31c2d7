@@ -1,0 +1,179 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Edith",
+  "role": "Tank/Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Celestial Safeguard",
+      "Splash_url": "Edith-Celestial-Safeguard.png",
+      "script": "Edith-Celestial-Safeguard-Backup.zip",
+      "Portrait_url": "Edith-Celestial-Safeguard.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Ancient Warden",
+          "Portrait_url": "Edith-Ancient-Warden.png",
+          "Splash_url": "Edith-Ancient-Warden.png",
+          "script": "Edith-Celestial-Safeguard-Ancient-Warden.zip"
+        },
+        {
+          "name": "Red Bastion",
+          "Portrait_url": "Edith-Red-Bastion.png",
+          "Splash_url": "Edith-Red-Bastion.png",
+          "script": "Edith-Celestial-Safeguard-Red-Bastion.zip"
+        },
+        {
+          "name": "Beyond the Clouds Edith",
+          "Portrait_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "Splash_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "script": "Edith-Celestial-Safeguard-Beyond-the-Clouds-Edith.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Ancient Warden",
+      "Splash_url": "Edith-Ancient-Warden.png",
+      "script": "Edith-Ancient-Warden-Backup.zip",
+      "Portrait_url": "Edith-Ancient-Warden.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Celestial Safeguard",
+          "Portrait_url": "Edith-Celestial-Safeguard.png",
+          "Splash_url": "Edith-Celestial-Safeguard.png",
+          "script": "Edith-Ancient-Warden-Celestial-Safeguard.zip"
+        },
+        {
+          "name": "Red Bastion",
+          "Portrait_url": "Edith-Red-Bastion.png",
+          "Splash_url": "Edith-Red-Bastion.png",
+          "script": "Edith-Ancient-Warden-Red-Bastion.zip"
+        },
+        {
+          "name": "Beyond the Clouds Edith",
+          "Portrait_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "Splash_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "script": "Edith-Ancient-Warden-Beyond-the-Clouds-Edith.zip"
+        },
+        {
+          "name": "Prismatic Sentinel",
+          "Portrait_url": "Edith-Prismatic-Sentinel.png",
+          "Splash_url": "Edith-Prismatic-Sentinel.png",
+          "script": "Edith-Ancient-Warden-Prismatic-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Red Bastion",
+      "Splash_url": "Edith-Red-Bastion.png",
+      "script": "Edith-Red-Bastion-Backup.zip",
+      "Portrait_url": "Edith-Red-Bastion.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Celestial Safeguard",
+          "Portrait_url": "Edith-Celestial-Safeguard.png",
+          "Splash_url": "Edith-Celestial-Safeguard.png",
+          "script": "Edith-Red-Bastion-Celestial-Safeguard.zip"
+        },
+        {
+          "name": "Ancient Warden",
+          "Portrait_url": "Edith-Ancient-Warden.png",
+          "Splash_url": "Edith-Ancient-Warden.png",
+          "script": "Edith-Red-Bastion-Ancient-Warden.zip"
+        },
+        {
+          "name": "Beyond the Clouds Edith",
+          "Portrait_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "Splash_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "script": "Edith-Red-Bastion-Beyond-the-Clouds-Edith.zip"
+        },
+        {
+          "name": "Prismatic Sentinel",
+          "Portrait_url": "Edith-Prismatic-Sentinel.png",
+          "Splash_url": "Edith-Prismatic-Sentinel.png",
+          "script": "Edith-Red-Bastion-Prismatic-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Clouds",
+      "Default_name": "Beyond the Clouds Edith",
+      "Splash_url": "Edith-Beyond-the-Clouds-Edith.png",
+      "script": "Edith-Beyond-the-Clouds-Edith-Backup.zip",
+      "Portrait_url": "Edith-Beyond-the-Clouds-Edith.png",
+      "Tags": [
+        "Beyond the Clouds.png"
+      ],
+      "targets": [
+        {
+          "name": "Celestial Safeguard",
+          "Portrait_url": "Edith-Celestial-Safeguard.png",
+          "Splash_url": "Edith-Celestial-Safeguard.png",
+          "script": "Edith-Beyond-the-Clouds-Edith-Celestial-Safeguard.zip"
+        },
+        {
+          "name": "Ancient Warden",
+          "Portrait_url": "Edith-Ancient-Warden.png",
+          "Splash_url": "Edith-Ancient-Warden.png",
+          "script": "Edith-Beyond-the-Clouds-Edith-Ancient-Warden.zip"
+        },
+        {
+          "name": "Red Bastion",
+          "Portrait_url": "Edith-Red-Bastion.png",
+          "Splash_url": "Edith-Red-Bastion.png",
+          "script": "Edith-Beyond-the-Clouds-Edith-Red-Bastion.zip"
+        },
+        {
+          "name": "Prismatic Sentinel",
+          "Portrait_url": "Edith-Prismatic-Sentinel.png",
+          "Splash_url": "Edith-Prismatic-Sentinel.png",
+          "script": "Edith-Beyond-the-Clouds-Edith-Prismatic-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Prismatic Sentinel",
+      "Splash_url": "Edith-Prismatic-Sentinel.png",
+      "script": "Edith-Prismatic-Sentinel-Backup.zip",
+      "Portrait_url": "Edith-Prismatic-Sentinel.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Celestial Safeguard",
+          "Portrait_url": "Edith-Celestial-Safeguard.png",
+          "Splash_url": "Edith-Celestial-Safeguard.png",
+          "script": "Edith-Prismatic-Sentinel-Celestial-Safeguard.zip"
+        },
+        {
+          "name": "Ancient Warden",
+          "Portrait_url": "Edith-Ancient-Warden.png",
+          "Splash_url": "Edith-Ancient-Warden.png",
+          "script": "Edith-Prismatic-Sentinel-Ancient-Warden.zip"
+        },
+        {
+          "name": "Red Bastion",
+          "Portrait_url": "Edith-Red-Bastion.png",
+          "Splash_url": "Edith-Red-Bastion.png",
+          "script": "Edith-Prismatic-Sentinel-Red-Bastion.zip"
+        },
+        {
+          "name": "Beyond the Clouds Edith",
+          "Portrait_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "Splash_url": "Edith-Beyond-the-Clouds-Edith.png",
+          "script": "Edith-Prismatic-Sentinel-Beyond-the-Clouds-Edith.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "gusion-gojo",
+      "portrait_file": "Gusion - Gojo.png",
+      "script_file": "Gusion-Gojo.zip",
+      "skin_name": "Gojo",
+      "splash_file": "Gusion - Gojo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "gusion-sasuke",
+      "portrait_file": "Gusion - Sasuke.png",
+      "script_file": "Gusion-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Gusion - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 56,
+    "name": "Gusion",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "gusion"
+  },
+  "release_tag": "custom-gusion",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

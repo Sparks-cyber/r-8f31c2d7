@@ -1,0 +1,229 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Alice",
+  "role": "Mage/Tank",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Spirit Woman",
+      "Splash_url": "Alice-Spirit-Woman.png",
+      "script": "Alice-Spirit-Woman-Backup.zip",
+      "Portrait_url": "Alice-Spirit-Woman.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Wizardry Teacher",
+          "Portrait_url": "Alice-Wizardry-Teacher.png",
+          "Splash_url": "Alice-Wizardry-Teacher.png",
+          "script": "Alice-Spirit-Woman-Wizardry-Teacher.zip"
+        },
+        {
+          "name": "Divine Owl",
+          "Portrait_url": "Alice-Divine-Owl.png",
+          "Splash_url": "Alice-Divine-Owl.png",
+          "script": "Alice-Spirit-Woman-Divine-Owl.zip"
+        },
+        {
+          "name": "Steam Glider",
+          "Portrait_url": "Alice-Steam-Glider.png",
+          "Splash_url": "Alice-Steam-Glider.png",
+          "script": "Alice-Spirit-Woman-Steam-Glider.zip"
+        },
+        {
+          "name": "Jade Empress",
+          "Portrait_url": "Alice-Jade-Empress.png",
+          "Splash_url": "Alice-Jade-Empress.png",
+          "script": "Alice-Spirit-Woman-Jade-Empress.zip"
+        },
+        {
+          "name": "Darknet Temptress",
+          "Portrait_url": "Alice-Darknet-Temptress.png",
+          "Splash_url": "Alice-Darknet-Temptress.png",
+          "script": "Alice-Spirit-Woman-Darknet-Temptress.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Wizardry Teacher",
+      "Splash_url": "Alice-Wizardry-Teacher.png",
+      "script": "Alice-Wizardry-Teacher-Backup.zip",
+      "Portrait_url": "Alice-Wizardry-Teacher.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Divine Owl",
+          "Portrait_url": "Alice-Divine-Owl.png",
+          "Splash_url": "Alice-Divine-Owl.png",
+          "script": "Alice-Wizardry-Teacher-Divine-Owl.zip"
+        },
+        {
+          "name": "Steam Glider",
+          "Portrait_url": "Alice-Steam-Glider.png",
+          "Splash_url": "Alice-Steam-Glider.png",
+          "script": "Alice-Wizardry-Teacher-Steam-Glider.zip"
+        },
+        {
+          "name": "Jade Empress",
+          "Portrait_url": "Alice-Jade-Empress.png",
+          "Splash_url": "Alice-Jade-Empress.png",
+          "script": "Alice-Wizardry-Teacher-Jade-Empress.zip"
+        },
+        {
+          "name": "Darknet Temptress",
+          "Portrait_url": "Alice-Darknet-Temptress.png",
+          "Splash_url": "Alice-Darknet-Temptress.png",
+          "script": "Alice-Wizardry-Teacher-Darknet-Temptress.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Divine Owl",
+      "Splash_url": "Alice-Divine-Owl.png",
+      "script": "Alice-Divine-Owl-Backup.zip",
+      "Portrait_url": "Alice-Divine-Owl.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Wizardry Teacher",
+          "Portrait_url": "Alice-Wizardry-Teacher.png",
+          "Splash_url": "Alice-Wizardry-Teacher.png",
+          "script": "Alice-Divine-Owl-Wizardry-Teacher.zip"
+        },
+        {
+          "name": "Steam Glider",
+          "Portrait_url": "Alice-Steam-Glider.png",
+          "Splash_url": "Alice-Steam-Glider.png",
+          "script": "Alice-Divine-Owl-Steam-Glider.zip"
+        },
+        {
+          "name": "Jade Empress",
+          "Portrait_url": "Alice-Jade-Empress.png",
+          "Splash_url": "Alice-Jade-Empress.png",
+          "script": "Alice-Divine-Owl-Jade-Empress.zip"
+        },
+        {
+          "name": "Darknet Temptress",
+          "Portrait_url": "Alice-Darknet-Temptress.png",
+          "Splash_url": "Alice-Darknet-Temptress.png",
+          "script": "Alice-Divine-Owl-Darknet-Temptress.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Steam Glider",
+      "Splash_url": "Alice-Steam-Glider.png",
+      "script": "Alice-Steam-Glider-Backup.zip",
+      "Portrait_url": "Alice-Steam-Glider.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Wizardry Teacher",
+          "Portrait_url": "Alice-Wizardry-Teacher.png",
+          "Splash_url": "Alice-Wizardry-Teacher.png",
+          "script": "Alice-Steam-Glider-Wizardry-Teacher.zip"
+        },
+        {
+          "name": "Divine Owl",
+          "Portrait_url": "Alice-Divine-Owl.png",
+          "Splash_url": "Alice-Divine-Owl.png",
+          "script": "Alice-Steam-Glider-Divine-Owl.zip"
+        },
+        {
+          "name": "Jade Empress",
+          "Portrait_url": "Alice-Jade-Empress.png",
+          "Splash_url": "Alice-Jade-Empress.png",
+          "script": "Alice-Steam-Glider-Jade-Empress.zip"
+        },
+        {
+          "name": "Darknet Temptress",
+          "Portrait_url": "Alice-Darknet-Temptress.png",
+          "Splash_url": "Alice-Darknet-Temptress.png",
+          "script": "Alice-Steam-Glider-Darknet-Temptress.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Jade Empress",
+      "Splash_url": "Alice-Jade-Empress.png",
+      "script": "Alice-Jade-Empress-Backup.zip",
+      "Portrait_url": "Alice-Jade-Empress.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Wizardry Teacher",
+          "Portrait_url": "Alice-Wizardry-Teacher.png",
+          "Splash_url": "Alice-Wizardry-Teacher.png",
+          "script": "Alice-Jade-Empress-Wizardry-Teacher.zip"
+        },
+        {
+          "name": "Divine Owl",
+          "Portrait_url": "Alice-Divine-Owl.png",
+          "Splash_url": "Alice-Divine-Owl.png",
+          "script": "Alice-Jade-Empress-Divine-Owl.zip"
+        },
+        {
+          "name": "Steam Glider",
+          "Portrait_url": "Alice-Steam-Glider.png",
+          "Splash_url": "Alice-Steam-Glider.png",
+          "script": "Alice-Jade-Empress-Steam-Glider.zip"
+        },
+        {
+          "name": "Darknet Temptress",
+          "Portrait_url": "Alice-Darknet-Temptress.png",
+          "Splash_url": "Alice-Darknet-Temptress.png",
+          "script": "Alice-Jade-Empress-Darknet-Temptress.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Darknet Temptress",
+      "Splash_url": "Alice-Darknet-Temptress.png",
+      "script": "Alice-Darknet-Temptress-Backup.zip",
+      "Portrait_url": "Alice-Darknet-Temptress.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Wizardry Teacher",
+          "Portrait_url": "Alice-Wizardry-Teacher.png",
+          "Splash_url": "Alice-Wizardry-Teacher.png",
+          "script": "Alice-Darknet-Temptress-Wizardry-Teacher.zip"
+        },
+        {
+          "name": "Divine Owl",
+          "Portrait_url": "Alice-Divine-Owl.png",
+          "Splash_url": "Alice-Divine-Owl.png",
+          "script": "Alice-Darknet-Temptress-Divine-Owl.zip"
+        },
+        {
+          "name": "Steam Glider",
+          "Portrait_url": "Alice-Steam-Glider.png",
+          "Splash_url": "Alice-Steam-Glider.png",
+          "script": "Alice-Darknet-Temptress-Steam-Glider.zip"
+        },
+        {
+          "name": "Jade Empress",
+          "Portrait_url": "Alice-Jade-Empress.png",
+          "Splash_url": "Alice-Jade-Empress.png",
+          "script": "Alice-Darknet-Temptress-Jade-Empress.zip"
+        }
+      ]
+    }
+  ]
+}

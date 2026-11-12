@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "helcurt-backup",
+      "portrait_file": "Helcurt-Default.png",
+      "script_file": "Helcurt-Backup.zip",
+      "skin_name": "Shadowbringer",
+      "splash_file": "Helcurt-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-exoracial-executer",
+      "portrait_file": "Helcurt-Exoracial-Executer.png",
+      "script_file": "Helcurt-Exoracial-Executer.zip",
+      "skin_name": "Exoracial Executer",
+      "splash_file": "Helcurt-Exoracial-Executer.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-ice-scythe",
+      "portrait_file": "Helcurt-Ice-Scythe.png",
+      "script_file": "Helcurt-Ice-Scythe.zip",
+      "skin_name": "Ice Scythe",
+      "splash_file": "Helcurt-Ice-Scythe.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-evolved-predator",
+      "portrait_file": "Helcurt-Evolved-Predator.png",
+      "script_file": "Helcurt-Evolved-Predator.zip",
+      "skin_name": "Evolved Predator",
+      "splash_file": "Helcurt-Evolved-Predator.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-scorpio",
+      "portrait_file": "Helcurt-Scorpio.png",
+      "script_file": "Helcurt-Scorpio.zip",
+      "skin_name": "Scorpio",
+      "splash_file": "Helcurt-Scorpio.png",
+      "tag_id": "zodiac",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-dream-prowler",
+      "portrait_file": "Helcurt-Dream-Prowler.png",
+      "script_file": "Helcurt-Dream-Prowler.zip",
+      "skin_name": "Dream Prowler",
+      "splash_file": "Helcurt-Dream-Prowler.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-kaiju-of-the-deep",
+      "portrait_file": "Helcurt-Kaiju-of-the-Deep.png",
+      "script_file": "Helcurt-Kaiju-of-the-Deep.zip",
+      "skin_name": "Kaiju of the Deep",
+      "splash_file": "Helcurt-Kaiju-of-the-Deep.png",
+      "tag_id": "collector",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-fatal-stinger-painted-01",
+      "portrait_file": "Helcurt-Fatal-Stinger.png",
+      "script_file": "Helcurt-Fatal-Stinger.zip",
+      "skin_name": "Fatal Stinger",
+      "splash_file": "Helcurt-Fatal-Stinger.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "helcurt-phantom-prowler-painted-01",
+      "portrait_file": "Helcurt-Phantom-Prowler.png",
+      "script_file": "Helcurt-Phantom-Prowler.zip",
+      "skin_name": "Phantom Prowler",
+      "splash_file": "Helcurt - Phantom Prowler.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 51,
+    "name": "Helcurt",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "helcurt"
+  },
+  "release_tag": "visual-helcurt",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

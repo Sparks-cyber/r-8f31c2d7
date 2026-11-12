@@ -1,0 +1,76 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "aulus-backup",
+      "portrait_file": "Aulus-Default.png",
+      "script_file": "Aulus-Backup.zip",
+      "skin_name": "Warrior of Ferocity",
+      "splash_file": "Aulus-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "aulus-berserker",
+      "portrait_file": "Aulus-Berserker.png",
+      "script_file": "Aulus-Berserker.zip",
+      "skin_name": "Berserker",
+      "splash_file": "Aulus-Berserker.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "aulus-barren-pioneer",
+      "portrait_file": "Aulus-Barren-Pioneer.png",
+      "script_file": "Aulus-Barren-Pioneer.zip",
+      "skin_name": "Barren Pioneer",
+      "splash_file": "Aulus-Barren-Pioneer.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "aulus-war-lion",
+      "portrait_file": "Aulus-War-Lion.png",
+      "script_file": "Aulus-War-Lion.zip",
+      "skin_name": "War Lion",
+      "splash_file": "Aulus-War-Lion.png",
+      "tag_id": "m4",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "aulus-ironmane-reaver",
+      "portrait_file": "Aulus-Ironmane-Reaver.png",
+      "script_file": "Aulus-Ironmane-Reaver.zip",
+      "skin_name": "Ironmane Reaver",
+      "splash_file": "Aulus-Ironmane-Reaver.png",
+      "tag_id": "s34",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "aulus-starwake-corsair",
+      "portrait_file": "Aulus-Starwake-Corsair.png",
+      "script_file": "Aulus-Starwake-Corsair.zip",
+      "skin_name": "Starwake Corsair",
+      "splash_file": "Aulus-Starwake-Corsair.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 108,
+    "name": "Aulus",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "aulus"
+  },
+  "release_tag": "visual-aulus",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Hilda",
+  "role": "Fighter/Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Power of Wildness",
+      "Splash_url": "Hilda-Power-of-Wildness.png",
+      "script": "Hilda-Power-of-Wildness-Backup.zip",
+      "Portrait_url": "Hilda-Power-of-Wildness.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Flower of the Wastes",
+          "Portrait_url": "Hilda-Flower-of-the-Wastes.png",
+          "Splash_url": "Hilda-Flower-of-the-Wastes.png",
+          "script": "Hilda-Power-of-Wildness-Flower-of-the-Wastes.zip"
+        },
+        {
+          "name": "Sacred Guard",
+          "Portrait_url": "Hilda-Sacred-Guard.png",
+          "Splash_url": "Hilda-Sacred-Guard.png",
+          "script": "Hilda-Power-of-Wildness-Sacred-Guard.zip"
+        },
+        {
+          "name": "Aries",
+          "Portrait_url": "Hilda-Aries.png",
+          "Splash_url": "Hilda-Aries.png",
+          "script": "Hilda-Power-of-Wildness-Aries.zip"
+        },
+        {
+          "name": "Bass Craze",
+          "Portrait_url": "Hilda-Bass-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Power-of-Wildness-Bass-Craze.zip"
+        },
+        {
+          "name": "Carmine Craze Painted 01",
+          "Portrait_url": "Hilda-Carmine-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Power-of-Wildness-Carmine-Craze-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Flower of the Wastes",
+      "Splash_url": "Hilda-Flower-of-the-Wastes.png",
+      "script": "Hilda-Flower-of-the-Wastes-Backup.zip",
+      "Portrait_url": "Hilda-Flower-of-the-Wastes.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Power of Wildness",
+          "Portrait_url": "Hilda-Power-of-Wildness.png",
+          "Splash_url": "Hilda-Power-of-Wildness.png",
+          "script": "Hilda-Flower-of-the-Wastes-Power-of-Wildness.zip"
+        },
+        {
+          "name": "Sacred Guard",
+          "Portrait_url": "Hilda-Sacred-Guard.png",
+          "Splash_url": "Hilda-Sacred-Guard.png",
+          "script": "Hilda-Flower-of-the-Wastes-Sacred-Guard.zip"
+        },
+        {
+          "name": "Aries",
+          "Portrait_url": "Hilda-Aries.png",
+          "Splash_url": "Hilda-Aries.png",
+          "script": "Hilda-Flower-of-the-Wastes-Aries.zip"
+        },
+        {
+          "name": "Bass Craze",
+          "Portrait_url": "Hilda-Bass-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Flower-of-the-Wastes-Bass-Craze.zip"
+        },
+        {
+          "name": "Carmine Craze Painted 01",
+          "Portrait_url": "Hilda-Carmine-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Flower-of-the-Wastes-Carmine-Craze-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Sacred Guard",
+      "Splash_url": "Hilda-Sacred-Guard.png",
+      "script": "Hilda-Sacred-Guard-Backup.zip",
+      "Portrait_url": "Hilda-Sacred-Guard.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Power of Wildness",
+          "Portrait_url": "Hilda-Power-of-Wildness.png",
+          "Splash_url": "Hilda-Power-of-Wildness.png",
+          "script": "Hilda-Sacred-Guard-Power-of-Wildness.zip"
+        },
+        {
+          "name": "Flower of the Wastes",
+          "Portrait_url": "Hilda-Flower-of-the-Wastes.png",
+          "Splash_url": "Hilda-Flower-of-the-Wastes.png",
+          "script": "Hilda-Sacred-Guard-Flower-of-the-Wastes.zip"
+        },
+        {
+          "name": "Aries",
+          "Portrait_url": "Hilda-Aries.png",
+          "Splash_url": "Hilda-Aries.png",
+          "script": "Hilda-Sacred-Guard-Aries.zip"
+        },
+        {
+          "name": "Bass Craze",
+          "Portrait_url": "Hilda-Bass-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Sacred-Guard-Bass-Craze.zip"
+        },
+        {
+          "name": "Carmine Craze Painted 01",
+          "Portrait_url": "Hilda-Carmine-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Sacred-Guard-Carmine-Craze-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Aries",
+      "Splash_url": "Hilda-Aries.png",
+      "script": "Hilda-Aries-Backup.zip",
+      "Portrait_url": "Hilda-Aries.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Power of Wildness",
+          "Portrait_url": "Hilda-Power-of-Wildness.png",
+          "Splash_url": "Hilda-Power-of-Wildness.png",
+          "script": "Hilda-Aries-Power-of-Wildness.zip"
+        },
+        {
+          "name": "Flower of the Wastes",
+          "Portrait_url": "Hilda-Flower-of-the-Wastes.png",
+          "Splash_url": "Hilda-Flower-of-the-Wastes.png",
+          "script": "Hilda-Aries-Flower-of-the-Wastes.zip"
+        },
+        {
+          "name": "Sacred Guard",
+          "Portrait_url": "Hilda-Sacred-Guard.png",
+          "Splash_url": "Hilda-Sacred-Guard.png",
+          "script": "Hilda-Aries-Sacred-Guard.zip"
+        },
+        {
+          "name": "Bass Craze",
+          "Portrait_url": "Hilda-Bass-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Aries-Bass-Craze.zip"
+        },
+        {
+          "name": "Carmine Craze Painted 01",
+          "Portrait_url": "Hilda-Carmine-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Aries-Carmine-Craze-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Bass Craze",
+      "Splash_url": "Hilda-Bass-Craze.png",
+      "script": "Hilda-Bass-Craze-Backup.zip",
+      "Portrait_url": "Hilda-Bass-Craze.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Power of Wildness",
+          "Portrait_url": "Hilda-Power-of-Wildness.png",
+          "Splash_url": "Hilda-Power-of-Wildness.png",
+          "script": "Hilda-Bass-Craze-Power-of-Wildness.zip"
+        },
+        {
+          "name": "Flower of the Wastes",
+          "Portrait_url": "Hilda-Flower-of-the-Wastes.png",
+          "Splash_url": "Hilda-Flower-of-the-Wastes.png",
+          "script": "Hilda-Bass-Craze-Flower-of-the-Wastes.zip"
+        },
+        {
+          "name": "Sacred Guard",
+          "Portrait_url": "Hilda-Sacred-Guard.png",
+          "Splash_url": "Hilda-Sacred-Guard.png",
+          "script": "Hilda-Bass-Craze-Sacred-Guard.zip"
+        },
+        {
+          "name": "Aries",
+          "Portrait_url": "Hilda-Aries.png",
+          "Splash_url": "Hilda-Aries.png",
+          "script": "Hilda-Bass-Craze-Aries.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Carmine Craze Skin 06",
+      "Splash_url": "Hilda-Carmine-Craze.png",
+      "script": "Hilda-Carmine-Craze-Skin-06-Backup.zip",
+      "Portrait_url": "Hilda-Carmine-Craze.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Carmine Craze Painted 01",
+          "Portrait_url": "Hilda-Carmine-Craze.png",
+          "Splash_url": "Hilda-Bass-Craze.png",
+          "script": "Hilda-Carmine-Craze-Skin-06-Carmine-Craze-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

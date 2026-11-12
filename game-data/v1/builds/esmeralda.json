@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 81,
+    "slug": "esmeralda",
+    "name": "Esmeralda"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "esmeralda-community-5750",
+      "name": "Community Build 5750",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "enchantedtalisman",
+        "dominanceice",
+        "oracle",
+        "bruteforcebreastplate",
+        "queenswings"
+      ],
+      "battle_spell_id": "purify",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "inspire",
+        "wildernessblessing",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "tanking damage and anti cc",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5750,
+      "source_created_at": "2026-02-16T17:07:18.000Z",
+      "likes": 10,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "esmeralda-community-6617",
+      "name": "Community Build 6617",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "enchantedtalisman",
+        "oracle",
+        "glowingwand",
+        "holycrystal",
+        "bloodwings"
+      ],
+      "battle_spell_id": "sprint",
+      "emblem_id": "support",
+      "talent_ids": [
+        "inspire",
+        "wildernessblessing",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "With this build you have everything\n45 % cd reduction\nToughness  through an early  oracle and esme is the beast wearer of oracle \nPick glowing wand over dominant ice  Hp > armor  esme had one of the best armor growth in the game and more damage = more shield\nHoly crystal  more damage more shield \nLast item pick whatever is best  in the game  ( immortality, winter crown > athena's shield , chastise pauldron, blade armor)\nNever buy the following list of item : \n- ice wand the spell 2 of esme already apply slow , spell vamp is nerf on esme \n- queen's wing  is a good item for fighter who long fight . But esme is initiator who doesn't like long trade .\n- clock of  destiny you dont need mana and don't want to long trade .",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6617,
+      "source_created_at": "2026-03-20T15:14:07.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "esmeralda-companion-baseline",
+      "name": "Companion Tank/Mage Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 73,
+    "slug": "harith",
+    "name": "Harith"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "harith-community-7307",
+      "name": "Community Build 7307",
+      "lane": "Gold Lane, Jungle",
+      "equipment_ids": [
+        "magicboots",
+        "starliumscythe",
+        "featherofheaven",
+        "bloodwings",
+        "concentratedenergy",
+        "divineglaive"
+      ],
+      "battle_spell_id": "purify",
+      "emblem_id": "support",
+      "talent_ids": [
+        "inspire",
+        "wildernessblessing",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "sustain build",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7307,
+      "source_created_at": "2026-04-26T06:02:06.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "harith-community-7266",
+      "name": "Community Build 7266",
+      "lane": "Gold Lane, Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "enchantedtalisman",
+        "starliumscythe",
+        "holycrystal",
+        "lightningtruncheon",
+        "oracle"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "tenacity",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "Burst",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7266,
+      "source_created_at": "2026-04-24T00:34:43.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "harith-companion-baseline",
+      "name": "Companion Mage Baseline",
+      "lane": "Gold Lane/Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

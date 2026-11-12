@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "angela-dyadia",
+      "portrait_file": "Angela - Dyadia.png",
+      "script_file": "Angela-Dyadia.zip",
+      "skin_name": "Dyadia",
+      "splash_file": "Angela - Dyadia.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 55,
+    "name": "Angela",
+    "roles": [
+      "Support"
+    ],
+    "slug": "angela"
+  },
+  "release_tag": "custom-angela",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 56,
+    "slug": "gusion",
+    "name": "Gusion"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "gusion-community-6487",
+      "name": "Community Build 6487",
+      "lane": "Jungle, Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "starliumscythe",
+        "holycrystal",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "lethalignition",
+        "seasonedhunter",
+        "agility"
+      ],
+      "situational_items": [],
+      "notes": "This build comes from famous Gusion Youtuber named incontrol 05. It contains basic attack damage in this build, \"Starlium Sycthe\", the main item in this build. I've been using this ever since i discovered incon05 in 2024 and i never ever single try the other builds but i tried some builds one time haha yet It's still powerful these days but you just need to be accurate and efficiently using Gusion.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6487,
+      "source_created_at": "2026-03-13T23:39:02.000Z",
+      "likes": 7,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "gusion-community-5552",
+      "name": "Community Build 5552",
+      "lane": "Jungle, Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "starliumscythe",
+        "bloodwings",
+        "divineglaive"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "lethalignition",
+        "seasonedhunter",
+        "rupture"
+      ],
+      "situational_items": [],
+      "notes": "Best for early to mid game",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5552,
+      "source_created_at": "2026-02-08T22:39:41.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "gusion-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

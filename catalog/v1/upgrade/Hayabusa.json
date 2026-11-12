@@ -1,0 +1,965 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Hayabusa",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Spacetime Shadow",
+      "Splash_url": "Hayabusa-Spacetime-Shadow.png",
+      "script": "Hayabusa-Spacetime-Shadow-Backup.zip",
+      "Portrait_url": "Hayabusa-Spacetime-Shadow.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Spacetime-Shadow-Future-Enforcer.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Spacetime-Shadow-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Spacetime-Shadow-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Spacetime-Shadow-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Spacetime-Shadow-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Spacetime-Shadow-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Spacetime-Shadow-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Spacetime-Shadow-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Spacetime-Shadow-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Spacetime-Shadow-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Spacetime-Shadow-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Spacetime-Shadow-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Spacetime-Shadow-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Future Enforcer",
+      "Splash_url": "Hayabusa-Future-Enforcer.png",
+      "script": "Hayabusa-Future-Enforcer-Backup.zip",
+      "Portrait_url": "Hayabusa-Future-Enforcer.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Future-Enforcer-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Future-Enforcer-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Future-Enforcer-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Future-Enforcer-Biological-Weapon.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Future-Enforcer-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Future-Enforcer-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kakashi Hatake",
+          "Portrait_url": "Hayabusa-Kakashi-Hatake.png",
+          "Splash_url": "Hayabusa-Kakashi-Hatake.png",
+          "script": "Hayabusa-Future-Enforcer-Kakashi-Hatake.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Future-Enforcer-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Future-Enforcer-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Future-Enforcer-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Future-Enforcer-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Sushi Master",
+      "Splash_url": "Hayabusa-Sushi-Master.png",
+      "script": "Hayabusa-Sushi-Master-Backup.zip",
+      "Portrait_url": "Hayabusa-Sushi-Master.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Sushi-Master-Future-Enforcer.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Sushi-Master-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Sushi-Master-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Sushi-Master-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Sushi-Master-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Sushi-Master-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Sushi-Master-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kakashi Hatake",
+          "Portrait_url": "Hayabusa-Kakashi-Hatake.png",
+          "Splash_url": "Hayabusa-Kakashi-Hatake.png",
+          "script": "Hayabusa-Sushi-Master-Kakashi-Hatake.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Sushi-Master-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Sushi-Master-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Sushi-Master-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Sushi-Master-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Annual StarLight",
+      "Default_name": "Experiment 21",
+      "Splash_url": "Hayabusa-Experiment-21.png",
+      "script": "Hayabusa-Experiment-21-Backup.zip",
+      "Portrait_url": "Hayabusa-Experiment-21.png",
+      "Tags": [
+        "Annual Starlight.png"
+      ],
+      "targets": [
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Experiment-21-Sushi-Master.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Experiment-21-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Experiment-21-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Experiment-21-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Experiment-21-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Experiment-21-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Experiment-21-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Experiment-21-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Experiment-21-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Experiment-21-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Experiment-21-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Shadow of Obscurity",
+      "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+      "script": "Hayabusa-Shadow-of-Obscurity-Backup.zip",
+      "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Future-Enforcer.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Experiment-21.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kakashi Hatake",
+          "Portrait_url": "Hayabusa-Kakashi-Hatake.png",
+          "Splash_url": "Hayabusa-Kakashi-Hatake.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Kakashi-Hatake.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Shadow-of-Obscurity-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Biological Weapon",
+      "Splash_url": "Hayabusa-Biological-Weapon.png",
+      "script": "Hayabusa-Biological-Weapon-Backup.zip",
+      "Portrait_url": "Hayabusa-Biological-Weapon.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Biological-Weapon-Future-Enforcer.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Biological-Weapon-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Biological-Weapon-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Biological-Weapon-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Biological-Weapon-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Biological-Weapon-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Biological-Weapon-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kakashi Hatake",
+          "Portrait_url": "Hayabusa-Kakashi-Hatake.png",
+          "Splash_url": "Hayabusa-Kakashi-Hatake.png",
+          "script": "Hayabusa-Biological-Weapon-Kakashi-Hatake.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Biological-Weapon-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Biological-Weapon-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Biological-Weapon-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Biological-Weapon-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Biological-Weapon-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Double 11",
+      "Default_name": "Shura",
+      "Splash_url": "Hayabusa-Shura.png",
+      "script": "Hayabusa-Shura-Backup.zip",
+      "Portrait_url": "Hayabusa-Shura.png",
+      "Tags": [
+        "11.11.png"
+      ],
+      "targets": [
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Shura-Future-Enforcer.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Shura-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Shura-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Shura-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Shura-Biological-Weapon.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Shura-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Shura-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kakashi Hatake",
+          "Portrait_url": "Hayabusa-Kakashi-Hatake.png",
+          "Splash_url": "Hayabusa-Kakashi-Hatake.png",
+          "script": "Hayabusa-Shura-Kakashi-Hatake.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Shura-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Shura-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Shura-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Shura-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Shura-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Techie Ninja",
+      "Splash_url": "Hayabusa-Techie-Ninja.png",
+      "script": "Hayabusa-Techie-Ninja-Backup.zip",
+      "Portrait_url": "Hayabusa-Techie-Ninja.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Techie-Ninja-Future-Enforcer.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Techie-Ninja-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Techie-Ninja-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Techie-Ninja-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Techie-Ninja-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Techie-Ninja-Shura.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Techie-Ninja-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Techie-Ninja-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Techie-Ninja-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Techie-Ninja-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Techie-Ninja-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Techie-Ninja-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Exorcists",
+      "Default_name": "Exorcist Hayabusa",
+      "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+      "script": "Hayabusa-Exorcist-Hayabusa-Backup.zip",
+      "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+      "Tags": [
+        "Exorcists.png"
+      ],
+      "targets": [
+        {
+          "name": "Spacetime Shadow",
+          "Portrait_url": "Hayabusa-Spacetime-Shadow.png",
+          "Splash_url": "Hayabusa-Spacetime-Shadow.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Spacetime-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Future-Enforcer.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Techie-Ninja.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Exorcist-Hayabusa-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Naruto",
+      "Default_name": "Kakashi Hatake",
+      "Splash_url": "Hayabusa-Kakashi-Hatake.png",
+      "script": "Hayabusa-Kakashi-Hatake-Backup.zip",
+      "Portrait_url": "Hayabusa-Kakashi-Hatake.png",
+      "Tags": [
+        "Naruto Shippuden.png"
+      ],
+      "targets": [
+        {
+          "name": "Spacetime Shadow",
+          "Portrait_url": "Hayabusa-Spacetime-Shadow.png",
+          "Splash_url": "Hayabusa-Spacetime-Shadow.png",
+          "script": "Hayabusa-Kakashi-Hatake-Spacetime-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer",
+          "Portrait_url": "Hayabusa-Future-Enforcer.png",
+          "Splash_url": "Hayabusa-Future-Enforcer.png",
+          "script": "Hayabusa-Kakashi-Hatake-Future-Enforcer.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Kakashi-Hatake-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Kakashi-Hatake-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Kakashi-Hatake-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Kakashi-Hatake-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Kakashi-Hatake-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Kakashi-Hatake-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Kakashi-Hatake-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kitsune's Shadow",
+          "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+          "script": "Hayabusa-Kakashi-Hatake-Kitsune-s-Shadow.zip"
+        },
+        {
+          "name": "Future Enforcer - Iron",
+          "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+          "script": "Hayabusa-Kakashi-Hatake-Future-Enforcer-Iron.zip"
+        },
+        {
+          "name": "Sushi Master - Purple",
+          "Portrait_url": "Hayabusa-Sushi-Master-Purple.png",
+          "Splash_url": "Hayabusa-Sushi-Master-Purple.png",
+          "script": "Hayabusa-Kakashi-Hatake-Sushi-Master-Purple.zip"
+        },
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Kakashi-Hatake-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Kakashi-Hatake-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Kitsune's Shadow",
+      "Splash_url": "Hayabusa-Kitsune-s-Shadow.png",
+      "script": "Hayabusa-Kitsune-s-Shadow-Backup.zip",
+      "Portrait_url": "Hayabusa-Kitsune-s-Shadow.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Kitsune's Phantom",
+          "Portrait_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Phantom.png",
+          "script": "Hayabusa-Kitsune-s-Shadow-Kitsune-s-Phantom.zip"
+        },
+        {
+          "name": "Kitsune's Blade",
+          "Portrait_url": "Hayabusa-Kitsune-s-Blade.png",
+          "Splash_url": "Hayabusa-Kitsune-s-Blade.png",
+          "script": "Hayabusa-Kitsune-s-Shadow-Kitsune-s-Blade.zip"
+        }
+      ]
+    },
+    {
+      "name": "Painted",
+      "Default_name": "Future Enforcer - Iron",
+      "Splash_url": "Hayabusa-Future-Enforcer-Iron.png",
+      "script": "Hayabusa-Future-Enforcer-Iron-Backup.zip",
+      "Portrait_url": "Hayabusa-Future-Enforcer-Iron.png",
+      "Tags": [
+        "Painted.png"
+      ],
+      "targets": [
+        {
+          "name": "Spacetime Shadow",
+          "Portrait_url": "Hayabusa-Spacetime-Shadow.png",
+          "Splash_url": "Hayabusa-Spacetime-Shadow.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Spacetime-Shadow.zip"
+        },
+        {
+          "name": "Sushi Master",
+          "Portrait_url": "Hayabusa-Sushi-Master.png",
+          "Splash_url": "Hayabusa-Sushi-Master.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Sushi-Master.zip"
+        },
+        {
+          "name": "Experiment 21",
+          "Portrait_url": "Hayabusa-Experiment-21.png",
+          "Splash_url": "Hayabusa-Experiment-21.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Experiment-21.zip"
+        },
+        {
+          "name": "Shadow of Obscurity",
+          "Portrait_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "Splash_url": "Hayabusa-Shadow-of-Obscurity.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Shadow-of-Obscurity.zip"
+        },
+        {
+          "name": "Biological Weapon",
+          "Portrait_url": "Hayabusa-Biological-Weapon.png",
+          "Splash_url": "Hayabusa-Biological-Weapon.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Biological-Weapon.zip"
+        },
+        {
+          "name": "Shura",
+          "Portrait_url": "Hayabusa-Shura.png",
+          "Splash_url": "Hayabusa-Shura.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Shura.zip"
+        },
+        {
+          "name": "Techie Ninja",
+          "Portrait_url": "Hayabusa-Techie-Ninja.png",
+          "Splash_url": "Hayabusa-Techie-Ninja.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Techie-Ninja.zip"
+        },
+        {
+          "name": "Exorcist Hayabusa",
+          "Portrait_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "Splash_url": "Hayabusa-Exorcist-Hayabusa.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Exorcist-Hayabusa.zip"
+        },
+        {
+          "name": "Kakashi Hatake",
+          "Portrait_url": "Hayabusa-Kakashi-Hatake.png",
+          "Splash_url": "Hayabusa-Kakashi-Hatake.png",
+          "script": "Hayabusa-Future-Enforcer-Iron-Kakashi-Hatake.zip"
+        }
+      ]
+    }
+  ]
+}

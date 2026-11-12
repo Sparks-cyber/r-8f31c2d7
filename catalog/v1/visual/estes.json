@@ -1,0 +1,126 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "estes-backup",
+      "portrait_file": "Estes-Default.png",
+      "script_file": "Estes-Backup.zip",
+      "skin_name": "Moon Elf King",
+      "splash_file": "Estes-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "estes-holy-priest",
+      "portrait_file": "Estes-Holy-Priest.png",
+      "script_file": "Estes-Holy-Priest.zip",
+      "skin_name": "Holy Priest",
+      "splash_file": "Estes-Holy-Priest.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "estes-galaxy-dominator",
+      "portrait_file": "Estes-Galaxy-Dominator.png",
+      "script_file": "Estes-Galaxy-Dominator.zip",
+      "skin_name": "Galaxy Dominator",
+      "splash_file": "Estes-Galaxy-Dominator.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "estes-white-crane",
+      "portrait_file": "Estes-White-Crane.png",
+      "script_file": "Estes-White-Crane.zip",
+      "skin_name": "White Crane",
+      "splash_file": "Estes-White-Crane.png",
+      "tag_id": "s9",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "estes-crow-bishop",
+      "portrait_file": "Estes-Crow-Bishop.png",
+      "script_file": "Estes-Crow-Bishop.zip",
+      "skin_name": "Crow Bishop",
+      "splash_file": "Estes-Crow-Bishop.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "estes-rattan-dragon",
+      "portrait_file": "Estes-Rattan-Dragon.png",
+      "script_file": "Estes-Rattan-Dragon.zip",
+      "skin_name": "Rattan Dragon",
+      "splash_file": "Estes-Rattan-Dragon.png",
+      "tag_id": "dragon-tamer",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "estes-blacklist-international",
+      "portrait_file": "Estes-Blacklist-International.png",
+      "script_file": "Estes-Blacklist-International.zip",
+      "skin_name": "Blacklist International",
+      "splash_file": "Estes-Blacklist-International.png",
+      "tag_id": "champion",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "estes-arcane-magistrate",
+      "portrait_file": "Estes-Arcane-Magistrate.png",
+      "script_file": "Estes-Arcane-Magistrate.zip",
+      "skin_name": "Arcane Magistrate",
+      "splash_file": "Estes-Arcane-Magistrate.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "estes-sparkle-estes",
+      "portrait_file": "Estes-SPARKLE.png",
+      "script_file": "Estes-SPARKLE-Estes.zip",
+      "skin_name": "SPARKLE Estes",
+      "splash_file": "Estes-SPARKLE-Estes.png",
+      "tag_id": "sparkle",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "estes-red-crow-painted-01",
+      "portrait_file": "Estes-Red-Crow.png",
+      "script_file": "Estes-Red-Crow.zip",
+      "skin_name": "Red Crow",
+      "splash_file": "Estes - Red Crow.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "estes-arcane-judicator-painted-01",
+      "portrait_file": "Estes-Arcane-Judicator.png",
+      "script_file": "Estes-Arcane-Judicator.zip",
+      "skin_name": "Arcane Judicator",
+      "splash_file": "Estes - Arcane Judicator.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 34,
+    "name": "Estes",
+    "roles": [
+      "Support"
+    ],
+    "slug": "estes"
+  },
+  "release_tag": "visual-estes",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

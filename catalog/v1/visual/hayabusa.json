@@ -1,0 +1,176 @@
+{
+  "catalog_version": "2026.10.04.101345",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hayabusa-backup",
+      "portrait_file": "Hayabusa-Default.png",
+      "script_file": "Hayabusa-Backup.zip",
+      "skin_name": "Crimson Shadow",
+      "splash_file": "Hayabusa-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-spacetime-shadow",
+      "portrait_file": "Hayabusa-Spacetime-Shadow.png",
+      "script_file": "Hayabusa-Spacetime-Shadow.zip",
+      "skin_name": "Spacetime Shadow",
+      "splash_file": "Hayabusa-Spacetime-Shadow.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-future-enforcer",
+      "portrait_file": "Hayabusa-Future-Enforcer.png",
+      "script_file": "Hayabusa-Future-Enforcer.zip",
+      "skin_name": "Future Enforcer",
+      "splash_file": "Hayabusa-Future-Enforcer.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-sushi-master",
+      "portrait_file": "Hayabusa-Sushi-Master.png",
+      "script_file": "Hayabusa-Sushi-Master.zip",
+      "skin_name": "Sushi Master",
+      "splash_file": "Hayabusa-Sushi-Master.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-experiment-21",
+      "portrait_file": "Hayabusa-Experiment-21.png",
+      "script_file": "Hayabusa-Experiment-21.zip",
+      "skin_name": "Experiment 21",
+      "splash_file": "Hayabusa-Experiment-21.png",
+      "tag_id": "annual-starlight",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-shadow-of-obscurity",
+      "portrait_file": "Hayabusa-Shadow-of-Obscurity.png",
+      "script_file": "Hayabusa-Shadow-of-Obscurity.zip",
+      "skin_name": "Shadow of Obscurity",
+      "splash_file": "Hayabusa-Shadow-of-Obscurity.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-biological-weapon",
+      "portrait_file": "Hayabusa-Biological-Weapon.png",
+      "script_file": "Hayabusa-Biological-Weapon.zip",
+      "skin_name": "Biological Weapon",
+      "splash_file": "Hayabusa-Biological-Weapon.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-shura",
+      "portrait_file": "Hayabusa-Shura.png",
+      "script_file": "Hayabusa-Shura.zip",
+      "skin_name": "Shura",
+      "splash_file": "Hayabusa-Shura.png",
+      "tag_id": "legend",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-techie-ninja",
+      "portrait_file": "Hayabusa-Techie-Ninja.png",
+      "script_file": "Hayabusa-Techie-Ninja.zip",
+      "skin_name": "Techie Ninja",
+      "splash_file": "Hayabusa-Techie-Ninja.png",
+      "tag_id": "special",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-exorcist-hayabusa",
+      "portrait_file": "Hayabusa-Exorcist.png",
+      "script_file": "Hayabusa-Exorcist-Hayabusa.zip",
+      "skin_name": "Exorcist Hayabusa",
+      "splash_file": "Hayabusa-Exorcist-Hayabusa.png",
+      "tag_id": "exorcists",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-kakashi-hatake",
+      "portrait_file": "Hayabusa-Kakashi-Hatake.png",
+      "script_file": "Hayabusa-Kakashi-Hatake.zip",
+      "skin_name": "Kakashi Hatake",
+      "splash_file": "Hayabusa-Kakashi-Hatake.png",
+      "tag_id": "naruto-shippuden",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-kitsune-s-shadow",
+      "portrait_file": "Hayabusa-Kitsune-s-Shadow.png",
+      "script_file": "Hayabusa-Kitsune-s-Shadow.zip",
+      "skin_name": "Kitsune's Shadow",
+      "splash_file": "Hayabusa-Kitsune-s-Shadow.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-future-enforcer-iron-painted-01",
+      "portrait_file": "Hayabusa-Future-Enforcer-Iron.png",
+      "script_file": "Hayabusa-Future-Enforcer-Iron.zip",
+      "skin_name": "Future Enforcer - Iron",
+      "splash_file": "Hayabusa-Future-Enforcer-Iron.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-sushi-master-purple-painted-01",
+      "portrait_file": "Hayabusa-Sushi-Master-Purple.png",
+      "script_file": "Hayabusa-Sushi-Master-Purple.zip",
+      "skin_name": "Sushi Master - Purple",
+      "splash_file": "Hayabusa-Sushi-Master-Purple.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-kitsune-s-blade-painted-01",
+      "portrait_file": "Hayabusa-Kitsune-s-Blade.png",
+      "script_file": "Hayabusa-Kitsune-s-Blade.zip",
+      "skin_name": "Kitsune's Blade",
+      "splash_file": "Hayabusa-Kitsune-s-Blade.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-kitsune-s-phantom-painted-02",
+      "portrait_file": "Hayabusa-Kitsune-s-Phantom.png",
+      "script_file": "Hayabusa-Kitsune-s-Phantom.zip",
+      "skin_name": "Kitsune's Phantom",
+      "splash_file": "Hayabusa-Kitsune-s-Phantom.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 21,
+    "name": "Hayabusa",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "hayabusa"
+  },
+  "release_tag": "visual-hayabusa",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T10:13:45.888223Z"
+}

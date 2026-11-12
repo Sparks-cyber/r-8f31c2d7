@@ -1,0 +1,53 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Suyou",
+  "role": "Assassin/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Venerated Vigilance",
+      "Splash_url": "Suyou-Venerated-Vigilance.png",
+      "script": "Suyou-Venerated-Vigilance-Backup.zip",
+      "Portrait_url": "Suyou-Venerated-Vigilance.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Sasuke Uchiha",
+          "Portrait_url": "Suyou-Sasuke-Uchiha.png",
+          "Splash_url": "Suyou-Sasuke-Uchiha.png",
+          "script": "Suyou-Venerated-Vigilance-Sasuke-Uchiha.zip"
+        },
+        {
+          "name": "Frostblade Duelist",
+          "Portrait_url": "Suyou-Frostblade-Duelist.png",
+          "Splash_url": "Suyou-Frostblade-Duelist.png",
+          "script": "Suyou-Venerated-Vigilance-Frostblade-Duelist.zip"
+        }
+      ]
+    },
+    {
+      "name": "Naruto",
+      "Default_name": "Sasuke Uchiha",
+      "Splash_url": "Suyou-Sasuke-Uchiha.png",
+      "script": "Suyou-Sasuke-Uchiha-Backup.zip",
+      "Portrait_url": "Suyou-Sasuke-Uchiha.png",
+      "Tags": [
+        "Naruto Shippuden.png"
+      ],
+      "targets": [
+        {
+          "name": "Venerated Vigilance",
+          "Portrait_url": "Suyou-Venerated-Vigilance.png",
+          "Splash_url": "Suyou-Venerated-Vigilance.png",
+          "script": "Suyou-Sasuke-Uchiha-Venerated-Vigilance.zip"
+        },
+        {
+          "name": "Frostblade Duelist",
+          "Portrait_url": "Suyou-Frostblade-Duelist.png",
+          "Splash_url": "Suyou-Frostblade-Duelist.png",
+          "script": "Suyou-Sasuke-Uchiha-Frostblade-Duelist.zip"
+        }
+      ]
+    }
+  ]
+}

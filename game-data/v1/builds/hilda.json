@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 35,
+    "slug": "hilda",
+    "name": "Hilda"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "hilda-community-6298",
+      "name": "Community Build 6298",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "bladeoftheheptaseas",
+        "hunterstrike",
+        "cursedhelmet",
+        "bladeofdespair",
+        "maleficroar"
+      ],
+      "battle_spell_id": "sprint",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "temporalreign",
+        "wildernessblessing"
+      ],
+      "situational_items": [],
+      "notes": "fnaf foxy, exp, sprint",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6298,
+      "source_created_at": "2026-03-07T10:50:23.000Z",
+      "likes": 7,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "hilda-community-6579",
+      "name": "Community Build 6579",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "thunderbelt",
+        "bladeoftheheptaseas",
+        "oracle",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "agility",
+        "festivalofblood",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "hilda ni c1tr0v",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6579,
+      "source_created_at": "2026-03-18T16:29:21.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "hilda-companion-baseline",
+      "name": "Companion Fighter/Tank Baseline",
+      "lane": "Roaming/EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

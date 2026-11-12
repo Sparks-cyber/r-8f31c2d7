@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 127,
+    "slug": "lukas",
+    "name": "Lukas"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "lukas-community-6551",
+      "name": "Community Build 6551",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "waraxe",
+        "hunterstrike",
+        "greatdragonspear",
+        "queenswings",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "impurerage",
+        "seasonedhunter",
+        "rupture"
+      ],
+      "situational_items": [],
+      "notes": "Jungle Lukas Build\nBefore War Axe, buy the Fury Hammer from Hunter Strike\nWar Axe as first item for the Sustainability and CDR\nUpgrade Fury Hammer to Hunter Strike\nIf you're losing, buy Queen's Wings first and then Great Dragon Spear later\nif you're winning, buy Great Dragon Spear and then Queen's Wings later\nRose Gold Meteor for more Sustainability, Shield and Hybrid Defense\n\nOverall:9 (for me)\n\nAttributes (all items): CDR :40% (MAX) Hybrid Defense :100+\n                                  Attack Speed : 1.20+ Physical Attack:500+\n                                  Resillience:25% MovementSpeed:300+\n                                  Penetration:30+",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6551,
+      "source_created_at": "2026-03-17T07:07:47.000Z",
+      "likes": 15,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lukas-community-6247",
+      "name": "Community Build 6247",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "waraxe",
+        "oracle",
+        "dominanceice",
+        "queenswings"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "This build has damage, regen, anti heal, sustain and def it's good for destroying the backline heroes and you can sell the boots for malefic roar for tanky heroes in the late game",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6247,
+      "source_created_at": "2026-03-05T12:20:45.000Z",
+      "likes": 6,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lukas-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

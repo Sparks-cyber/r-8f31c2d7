@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.08.06.1",
+  "category": {
+    "id": "custom-maps",
+    "title": "Custom Maps",
+    "kind": "custom_map"
+  },
+  "updated_at": "2026-08-06T00:00:00Z",
+  "data": []
+}

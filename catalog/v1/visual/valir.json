@@ -1,0 +1,146 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "valir-backup",
+      "portrait_file": "Valir-Default.png",
+      "script_file": "Valir-Backup.zip",
+      "skin_name": "Son of Flames",
+      "splash_file": "Valir-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "valir-pale-flame",
+      "portrait_file": "Valir-Pale-Flame.png",
+      "script_file": "Valir-Pale-Flame.zip",
+      "skin_name": "Pale Flame",
+      "splash_file": "Valir-Pale-Flame.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "valir-shikigami-sumonner",
+      "portrait_file": "Valir-Shikigami-Sumonner.png",
+      "script_file": "Valir-Shikigami-Sumonner.zip",
+      "skin_name": "Shikigami Sumonner",
+      "splash_file": "Valir-Shikigami-Sumonner.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "valir-dictator",
+      "portrait_file": "Valir-Dictator.png",
+      "script_file": "Valir-Dictator.zip",
+      "skin_name": "Dictator",
+      "splash_file": "Valir-Dictator.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "valir-draconic-flame",
+      "portrait_file": "Valir-Draconic-Flame.png",
+      "script_file": "Valir-Draconic-Flame.zip",
+      "skin_name": "Draconic Flame",
+      "splash_file": "Valir-Draconic-Flame.png",
+      "tag_id": "dragon-tamer",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "valir-demonlord",
+      "portrait_file": "Valir-Demonlord.png",
+      "script_file": "Valir-Demonlord.zip",
+      "skin_name": "Demonlord",
+      "splash_file": "Valir-Demonlord.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "valir-infernal-blaze",
+      "portrait_file": "Valir-Infernal-Blaze.png",
+      "script_file": "Valir-Infernal-Blaze.zip",
+      "skin_name": "Infernal Blaze",
+      "splash_file": "Valir-Infernal-Blaze.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "valir-phoenix-ikki",
+      "portrait_file": "Valir-Phoenix-Ikki.png",
+      "script_file": "Valir-Phoenix-Ikki.zip",
+      "skin_name": "Phoenix Ikki",
+      "splash_file": "Valir-Phoenix-Ikki.png",
+      "tag_id": "saint-seiya",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "valir-leo-ikki",
+      "portrait_file": "Valir-Leo-Ikki.png",
+      "script_file": "Valir-Leo-Ikki.zip",
+      "skin_name": "Leo Ikki",
+      "splash_file": "Valir-Leo-Ikki.png",
+      "tag_id": "saint-seiya",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "valir-arcane-seeker",
+      "portrait_file": "Valir-Arcane-Seeker.png",
+      "script_file": "Valir-Arcane-Seeker.zip",
+      "skin_name": "Arcane Seeker",
+      "splash_file": "Valir-Arcane-Seeker.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "valir-kyo-kusanagi",
+      "portrait_file": "Valir-Kyo-Kusanagi.png",
+      "script_file": "Valir-Kyo-Kusanagi.zip",
+      "skin_name": "Kyo Kusanagi",
+      "splash_file": "Valir-Kyo-Kusanagi.png",
+      "tag_id": "kof",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "valir-ember-glaze",
+      "portrait_file": "Valir-Ember-Glaze.png",
+      "script_file": null,
+      "skin_name": "Ember Glaze",
+      "splash_file": "Valir-Ember-Glaze.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "valir-shikigami-envoy",
+      "portrait_file": "Valir-Shikigami-Envoy.png",
+      "script_file": "Valir-Shikigami-Envoy.zip",
+      "skin_name": "Shikigami Envoy",
+      "splash_file": "Valir-Shikigami-Envoy.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 57,
+    "name": "Valir",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "valir"
+  },
+  "release_tag": "visual-valir",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

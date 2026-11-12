@@ -1,0 +1,96 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "melissa-backup",
+      "portrait_file": "Melissa-Default.png",
+      "script_file": "Melissa-Backup.zip",
+      "skin_name": "Cursed Needle",
+      "splash_file": "Melissa-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "melissa-twinge-weaver",
+      "portrait_file": "Melissa-Twinge-Weaver.png",
+      "script_file": "Melissa-Twinge-Weaver.zip",
+      "skin_name": "Twinge Weaver",
+      "splash_file": "Melissa-Twinge-Weaver.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "melissa-nobara-kugisaki",
+      "portrait_file": "Melissa-Nobara-Kugisaki.png",
+      "script_file": "Melissa-Nobara-Kugisaki.zip",
+      "skin_name": "Nobara Kugisaki",
+      "splash_file": "Melissa-Nobara-Kugisaki.png",
+      "tag_id": "jujutsu-kaisen",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "melissa-nightwalker",
+      "portrait_file": "Melissa-Nightwalker.png",
+      "script_file": "Melissa-Nightwalker.zip",
+      "skin_name": "Nightwalker",
+      "splash_file": "Melissa-Nightwalker.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "melissa-sparkle-melissa",
+      "portrait_file": "Melissa-SPARKLE.png",
+      "script_file": "Melissa-SPARKLE-Melissa.zip",
+      "skin_name": "SPARKLE Melissa",
+      "splash_file": "Melissa-SPARKLE-Melissa.png",
+      "tag_id": "sparkle",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "melissa-umbra-bloom",
+      "portrait_file": "Melissa-Umbra-Bloom.png",
+      "script_file": "Melissa-Umbra-Bloom.zip",
+      "skin_name": "Umbra Bloom",
+      "splash_file": "Melissa-Umbra-Bloom.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "melissa-cursewalker-painted-01",
+      "portrait_file": "Melissa-Cursewalker.png",
+      "script_file": "Melissa-Cursewalker.zip",
+      "skin_name": "Cursewalker",
+      "splash_file": "Melissa-Cursewalker.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "melissa-shimmer-melissa-painted-01",
+      "portrait_file": null,
+      "script_file": "Melissa-SHIMMER-Melissa.zip",
+      "skin_name": "SHIMMER Melissa",
+      "splash_file": "Melissa - SHIMMER Melissa.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 114,
+    "name": "Melissa",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "melissa"
+  },
+  "release_tag": "visual-melissa",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

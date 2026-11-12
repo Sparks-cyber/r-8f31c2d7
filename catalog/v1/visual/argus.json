@@ -1,0 +1,96 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "argus-backup",
+      "portrait_file": "Argus-Default.png",
+      "script_file": "Argus-Backup.zip",
+      "skin_name": "Dark Angel",
+      "splash_file": "Argus-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "argus-light-of-dawn",
+      "portrait_file": "Argus-Light-of-Dawn.png",
+      "script_file": "Argus-Light-of-Dawn.zip",
+      "skin_name": "Light of Dawn",
+      "splash_file": "Argus-Light-of-Dawn.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "argus-dark-draconic",
+      "portrait_file": "Argus-Dark-Draconic.png",
+      "script_file": "Argus-Dark-Draconic.zip",
+      "skin_name": "Dark Draconic",
+      "splash_file": "Argus-Dark-Draconic.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "argus-catastrophe",
+      "portrait_file": "Argus-Catastrophe.png",
+      "script_file": "Argus-Catastrophe.zip",
+      "skin_name": "Catastrophe",
+      "splash_file": "Argus-Catastrophe.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "argus-darth-vader",
+      "portrait_file": "Argus-Darth-Vader.png",
+      "script_file": "Argus-Darth-Vader.zip",
+      "skin_name": "Darth Vader",
+      "splash_file": "Argus-Darth-Vader.png",
+      "tag_id": "star-wars",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "argus-winged-nightmare",
+      "portrait_file": "Argus-Winged-Nightmare.png",
+      "script_file": "Argus-Winged-Nightmare.zip",
+      "skin_name": "Winged Nightmare",
+      "splash_file": "Argus-Winged-Nightmare.png",
+      "tag_id": "s27",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "argus-raiden-maru",
+      "portrait_file": "Argus-Raiden-Maru.png",
+      "script_file": "Argus-Raiden-Maru.zip",
+      "skin_name": "Raiden Maru",
+      "splash_file": "Argus-Raiden-Maru.png",
+      "tag_id": "collector",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "argus-malediction-painted-01",
+      "portrait_file": "Argus-Malediction.png",
+      "script_file": "Argus-Malediction.zip",
+      "skin_name": "Malediction",
+      "splash_file": "Argus - Malediction.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 45,
+    "name": "Argus",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "argus"
+  },
+  "release_tag": "visual-argus",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "franco-collector",
+      "portrait_file": "Franco - Collector.png",
+      "script_file": "Franco-Collector.zip",
+      "skin_name": "Collector",
+      "splash_file": "Franco - Collector.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 10,
+    "name": "Franco",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "franco"
+  },
+  "release_tag": "custom-franco",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

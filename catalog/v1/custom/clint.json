@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "clint-gojo",
+      "portrait_file": "Clint - Gojo.png",
+      "script_file": "Clint-Gojo.zip",
+      "skin_name": "Gojo",
+      "splash_file": "Clint - Gojo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "clint-metro-zero",
+      "portrait_file": "Clint - Metro Zero.png",
+      "script_file": "Clint-Metro-Zero.zip",
+      "skin_name": "Metro Zero",
+      "splash_file": "Clint - Metro Zero.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 13,
+    "name": "Clint",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "clint"
+  },
+  "release_tag": "custom-clint",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

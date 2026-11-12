@@ -1,0 +1,280 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "odette-arcade",
+      "portrait_file": "Odette - Arcade.png",
+      "script_file": "Odette-Arcade.zip",
+      "skin_name": "Arcade",
+      "splash_file": "Odette - Arcade.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-collector",
+      "portrait_file": "Odette - Collector.png",
+      "script_file": "Odette-Collector.zip",
+      "skin_name": "Collector",
+      "splash_file": "Odette - Collector.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-concerto-of-light",
+      "portrait_file": "Odette - Concerto of Light.png",
+      "script_file": "Odette-Concerto-of-Light.zip",
+      "skin_name": "Concerto of Light",
+      "splash_file": "Odette - Concerto of Light.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-diao-chan-wave-diamond",
+      "portrait_file": "Odette - Diao Chan Wave Diamond.png",
+      "script_file": "Odette-Diao-Chan-Wave-Diamond.zip",
+      "skin_name": "Diao Chan Wave Diamond",
+      "splash_file": "Odette - Diao Chan Wave Diamond.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-dolia",
+      "portrait_file": "Odette - Dolia.png",
+      "script_file": "Odette-Dolia.zip",
+      "skin_name": "Dolia",
+      "splash_file": "Odette - Dolia.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-elsa",
+      "portrait_file": "Odette - Elsa.png",
+      "script_file": "Odette-Elsa.zip",
+      "skin_name": "Elsa",
+      "splash_file": "Odette - Elsa.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-exorcist",
+      "portrait_file": "Odette - Exorcist.png",
+      "script_file": "Odette-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Odette - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-galaxy",
+      "portrait_file": "Odette - Galaxy.png",
+      "script_file": "Odette-Galaxy.zip",
+      "skin_name": "Galaxy",
+      "splash_file": "Odette - Galaxy.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-jade-blossom",
+      "portrait_file": "Odette - Jade Blossom.png",
+      "script_file": "Odette-Jade-Blossom.zip",
+      "skin_name": "Jade Blossom",
+      "splash_file": "Odette - Jade Blossom.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-jahannam",
+      "portrait_file": "Odette - Jahannam.png",
+      "script_file": "Odette-Jahannam.zip",
+      "skin_name": "Jahannam",
+      "splash_file": "Odette - Jahannam.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-kishin-densetsu",
+      "portrait_file": "Odette - Kishin Densetsu.png",
+      "script_file": "Odette-Kishin-Densetsu.zip",
+      "skin_name": "Kishin Densetsu",
+      "splash_file": "Odette - Kishin Densetsu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-lightning",
+      "portrait_file": "Odette - Lightning.png",
+      "script_file": "Odette-Lightning.zip",
+      "skin_name": "Lightning",
+      "splash_file": "Odette - Lightning.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-mermaid-dance",
+      "portrait_file": "Odette - Mermaid Dance.png",
+      "script_file": "Odette-Mermaid-Dance.zip",
+      "skin_name": "Mermaid Dance",
+      "splash_file": "Odette - Mermaid Dance.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-mesmerizer",
+      "portrait_file": "Odette - Mesmerizer.png",
+      "script_file": "Odette-Mesmerizer.zip",
+      "skin_name": "Mesmerizer",
+      "splash_file": "Odette - Mesmerizer.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-pas-de-deux",
+      "portrait_file": "Odette - Pas de Deux.png",
+      "script_file": "Odette-Pas-de-Deux.zip",
+      "skin_name": "Pas de Deux",
+      "splash_file": "Odette - Pas de Deux.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-peach",
+      "portrait_file": "Odette - Peach.png",
+      "script_file": "Odette-Peach.zip",
+      "skin_name": "Peach",
+      "splash_file": "Odette - Peach.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-po",
+      "portrait_file": "Odette - Po.png",
+      "script_file": "Odette-Po.zip",
+      "skin_name": "Po",
+      "splash_file": "Odette - Po.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-rainbow",
+      "portrait_file": "Odette - Rainbow.png",
+      "script_file": "Odette-Rainbow.zip",
+      "skin_name": "Rainbow",
+      "splash_file": "Odette - Rainbow.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-star",
+      "portrait_file": "Odette - Star.png",
+      "script_file": "Odette-Star.zip",
+      "skin_name": "Star",
+      "splash_file": "Odette - Star.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-universe",
+      "portrait_file": "Odette - Universe.png",
+      "script_file": "Odette-Universe.zip",
+      "skin_name": "Universe",
+      "splash_file": "Odette - Universe.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-valentine",
+      "portrait_file": "Odette - Valentine.png",
+      "script_file": "Odette-Valentine.zip",
+      "skin_name": "Valentine",
+      "splash_file": "Odette - Valentine.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-water-dragon",
+      "portrait_file": "Odette - Water Dragon.png",
+      "script_file": "Odette-Water-Dragon.zip",
+      "skin_name": "Water Dragon",
+      "splash_file": "Odette - Water Dragon.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "odette-water-lily",
+      "portrait_file": "Odette - Water Lily.png",
+      "script_file": "Odette-Water-Lily.zip",
+      "skin_name": "Water Lily",
+      "splash_file": "Odette - Water Lily.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "odette-water-lily-2",
+      "portrait_file": "Odette - Water Lily 2.png",
+      "script_file": "Odette-Water-Lily-2.zip",
+      "skin_name": "Water Lily 2",
+      "splash_file": "Odette - Water Lily 2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 46,
+    "name": "Odette",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "odette"
+  },
+  "release_tag": "custom-odette",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,437 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Leomord",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Cavalry Charge",
+      "Splash_url": "Leomord-Cavalry-Charge.png",
+      "script": "Leomord-Cavalry-Charge-Backup.zip",
+      "Portrait_url": "Leomord-Cavalry-Charge.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Frostborn Paladin",
+          "Portrait_url": "Leomord-Frostborn-Paladin.png",
+          "Splash_url": "Leomord-Frostborn-Paladin.png",
+          "script": "Leomord-Cavalry-Charge-Frostborn-Paladin.zip"
+        },
+        {
+          "name": "Triumph - Eagle",
+          "Portrait_url": "Leomord-Triumph-Eagle.png",
+          "Splash_url": "Leomord-Triumph-Eagle.png",
+          "script": "Leomord-Cavalry-Charge-Triumph-Eagle.zip"
+        },
+        {
+          "name": "Inferno Soul",
+          "Portrait_url": "Leomord-Inferno-Soul.png",
+          "Splash_url": "Leomord-Inferno-Soul.png",
+          "script": "Leomord-Cavalry-Charge-Inferno-Soul.zip"
+        },
+        {
+          "name": "Jack-o'-lantern",
+          "Portrait_url": "Leomord-Jack-o-lantern.png",
+          "Splash_url": "Leomord-Jack-o-lantern.png",
+          "script": "Leomord-Cavalry-Charge-Jack-o-lantern.zip"
+        },
+        {
+          "name": "Shadow Knight",
+          "Portrait_url": "Leomord-Shadow-Knight.png",
+          "Splash_url": "Leomord-Shadow-Knight.png",
+          "script": "Leomord-Cavalry-Charge-Shadow-Knight.zip"
+        },
+        {
+          "name": "Diavel V4 Rider",
+          "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+          "Splash_url": "Leomord-Diavel-V4-Rider.png",
+          "script": "Leomord-Cavalry-Charge-Diavel-V4-Rider.zip"
+        },
+        {
+          "name": "Nightmare Count",
+          "Portrait_url": "Leomord-Nightmare-Count.png",
+          "Splash_url": "Leomord-Nightmare-Count.png",
+          "script": "Leomord-Cavalry-Charge-Nightmare-Count.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Frostborn Paladin",
+      "Splash_url": "Leomord-Frostborn-Paladin.png",
+      "script": "Leomord-Frostborn-Paladin-Backup.zip",
+      "Portrait_url": "Leomord-Frostborn-Paladin.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Cavalry Charge",
+          "Portrait_url": "Leomord-Cavalry-Charge.png",
+          "Splash_url": "Leomord-Cavalry-Charge.png",
+          "script": "Leomord-Frostborn-Paladin-Cavalry-Charge.zip"
+        },
+        {
+          "name": "Triumph - Eagle",
+          "Portrait_url": "Leomord-Triumph-Eagle.png",
+          "Splash_url": "Leomord-Triumph-Eagle.png",
+          "script": "Leomord-Frostborn-Paladin-Triumph-Eagle.zip"
+        },
+        {
+          "name": "Inferno Soul",
+          "Portrait_url": "Leomord-Inferno-Soul.png",
+          "Splash_url": "Leomord-Inferno-Soul.png",
+          "script": "Leomord-Frostborn-Paladin-Inferno-Soul.zip"
+        },
+        {
+          "name": "Jack-o'-lantern",
+          "Portrait_url": "Leomord-Jack-o-lantern.png",
+          "Splash_url": "Leomord-Jack-o-lantern.png",
+          "script": "Leomord-Frostborn-Paladin-Jack-o-lantern.zip"
+        },
+        {
+          "name": "Shadow Knight",
+          "Portrait_url": "Leomord-Shadow-Knight.png",
+          "Splash_url": "Leomord-Shadow-Knight.png",
+          "script": "Leomord-Frostborn-Paladin-Shadow-Knight.zip"
+        },
+        {
+          "name": "Diavel V4 Rider",
+          "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+          "Splash_url": "Leomord-Diavel-V4-Rider.png",
+          "script": "Leomord-Frostborn-Paladin-Diavel-V4-Rider.zip"
+        },
+        {
+          "name": "Nightmare Count",
+          "Portrait_url": "Leomord-Nightmare-Count.png",
+          "Splash_url": "Leomord-Nightmare-Count.png",
+          "script": "Leomord-Frostborn-Paladin-Nightmare-Count.zip"
+        }
+      ]
+    },
+    {
+      "name": "MSC 2019",
+      "Default_name": "Triumph - Eagle",
+      "Splash_url": "Leomord-Triumph-Eagle.png",
+      "script": "Leomord-Triumph-Eagle-Backup.zip",
+      "Portrait_url": "Leomord-Triumph-Eagle.png",
+      "Tags": [
+        "MSC 2019.png"
+      ],
+      "targets": [
+        {
+          "name": "Cavalry Charge",
+          "Portrait_url": "Leomord-Cavalry-Charge.png",
+          "Splash_url": "Leomord-Cavalry-Charge.png",
+          "script": "Leomord-Triumph-Eagle-Cavalry-Charge.zip"
+        },
+        {
+          "name": "Frostborn Paladin",
+          "Portrait_url": "Leomord-Frostborn-Paladin.png",
+          "Splash_url": "Leomord-Frostborn-Paladin.png",
+          "script": "Leomord-Triumph-Eagle-Frostborn-Paladin.zip"
+        },
+        {
+          "name": "Inferno Soul",
+          "Portrait_url": "Leomord-Inferno-Soul.png",
+          "Splash_url": "Leomord-Inferno-Soul.png",
+          "script": "Leomord-Triumph-Eagle-Inferno-Soul.zip"
+        },
+        {
+          "name": "Jack-o'-lantern",
+          "Portrait_url": "Leomord-Jack-o-lantern.png",
+          "Splash_url": "Leomord-Jack-o-lantern.png",
+          "script": "Leomord-Triumph-Eagle-Jack-o-lantern.zip"
+        },
+        {
+          "name": "Shadow Knight",
+          "Portrait_url": "Leomord-Shadow-Knight.png",
+          "Splash_url": "Leomord-Shadow-Knight.png",
+          "script": "Leomord-Triumph-Eagle-Shadow-Knight.zip"
+        },
+        {
+          "name": "Diavel V4 Rider",
+          "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+          "Splash_url": "Leomord-Diavel-V4-Rider.png",
+          "script": "Leomord-Triumph-Eagle-Diavel-V4-Rider.zip"
+        },
+        {
+          "name": "Nightmare Count",
+          "Portrait_url": "Leomord-Nightmare-Count.png",
+          "Splash_url": "Leomord-Nightmare-Count.png",
+          "script": "Leomord-Triumph-Eagle-Nightmare-Count.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Inferno Soul",
+      "Splash_url": "Leomord-Inferno-Soul.png",
+      "script": "Leomord-Inferno-Soul-Backup.zip",
+      "Portrait_url": "Leomord-Inferno-Soul.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Cavalry Charge",
+          "Portrait_url": "Leomord-Cavalry-Charge.png",
+          "Splash_url": "Leomord-Cavalry-Charge.png",
+          "script": "Leomord-Inferno-Soul-Cavalry-Charge.zip"
+        },
+        {
+          "name": "Frostborn Paladin",
+          "Portrait_url": "Leomord-Frostborn-Paladin.png",
+          "Splash_url": "Leomord-Frostborn-Paladin.png",
+          "script": "Leomord-Inferno-Soul-Frostborn-Paladin.zip"
+        },
+        {
+          "name": "Triumph - Eagle",
+          "Portrait_url": "Leomord-Triumph-Eagle.png",
+          "Splash_url": "Leomord-Triumph-Eagle.png",
+          "script": "Leomord-Inferno-Soul-Triumph-Eagle.zip"
+        },
+        {
+          "name": "Jack-o'-lantern",
+          "Portrait_url": "Leomord-Jack-o-lantern.png",
+          "Splash_url": "Leomord-Jack-o-lantern.png",
+          "script": "Leomord-Inferno-Soul-Jack-o-lantern.zip"
+        },
+        {
+          "name": "Shadow Knight",
+          "Portrait_url": "Leomord-Shadow-Knight.png",
+          "Splash_url": "Leomord-Shadow-Knight.png",
+          "script": "Leomord-Inferno-Soul-Shadow-Knight.zip"
+        },
+        {
+          "name": "Diavel V4 Rider",
+          "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+          "Splash_url": "Leomord-Diavel-V4-Rider.png",
+          "script": "Leomord-Inferno-Soul-Diavel-V4-Rider.zip"
+        },
+        {
+          "name": "Nightmare Count",
+          "Portrait_url": "Leomord-Nightmare-Count.png",
+          "Splash_url": "Leomord-Nightmare-Count.png",
+          "script": "Leomord-Inferno-Soul-Nightmare-Count.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Jack-o'-lantern",
+      "Splash_url": "Leomord-Jack-o-lantern.png",
+      "script": "Leomord-Jack-o-lantern-Backup.zip",
+      "Portrait_url": "Leomord-Jack-o-lantern.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Cavalry Charge",
+          "Portrait_url": "Leomord-Cavalry-Charge.png",
+          "Splash_url": "Leomord-Cavalry-Charge.png",
+          "script": "Leomord-Jack-o-lantern-Cavalry-Charge.zip"
+        },
+        {
+          "name": "Frostborn Paladin",
+          "Portrait_url": "Leomord-Frostborn-Paladin.png",
+          "Splash_url": "Leomord-Frostborn-Paladin.png",
+          "script": "Leomord-Jack-o-lantern-Frostborn-Paladin.zip"
+        },
+        {
+          "name": "Triumph - Eagle",
+          "Portrait_url": "Leomord-Triumph-Eagle.png",
+          "Splash_url": "Leomord-Triumph-Eagle.png",
+          "script": "Leomord-Jack-o-lantern-Triumph-Eagle.zip"
+        },
+        {
+          "name": "Inferno Soul",
+          "Portrait_url": "Leomord-Inferno-Soul.png",
+          "Splash_url": "Leomord-Inferno-Soul.png",
+          "script": "Leomord-Jack-o-lantern-Inferno-Soul.zip"
+        },
+        {
+          "name": "Shadow Knight",
+          "Portrait_url": "Leomord-Shadow-Knight.png",
+          "Splash_url": "Leomord-Shadow-Knight.png",
+          "script": "Leomord-Jack-o-lantern-Shadow-Knight.zip"
+        },
+        {
+          "name": "Diavel V4 Rider",
+          "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+          "Splash_url": "Leomord-Diavel-V4-Rider.png",
+          "script": "Leomord-Jack-o-lantern-Diavel-V4-Rider.zip"
+        },
+        {
+          "name": "Nightmare Count",
+          "Portrait_url": "Leomord-Nightmare-Count.png",
+          "Splash_url": "Leomord-Nightmare-Count.png",
+          "script": "Leomord-Jack-o-lantern-Nightmare-Count.zip"
+        }
+      ]
+    },
+    {
+      "name": "ABYSS",
+      "Default_name": "Shadow Knight",
+      "Splash_url": "Leomord-Shadow-Knight.png",
+      "script": "Leomord-Shadow-Knight-Backup.zip",
+      "Portrait_url": "Leomord-Shadow-Knight.png",
+      "Tags": [
+        "ABYSS.png"
+      ],
+      "targets": [
+        {
+          "name": "Cavalry Charge",
+          "Portrait_url": "Leomord-Cavalry-Charge.png",
+          "Splash_url": "Leomord-Cavalry-Charge.png",
+          "script": "Leomord-Shadow-Knight-Cavalry-Charge.zip"
+        },
+        {
+          "name": "Frostborn Paladin",
+          "Portrait_url": "Leomord-Frostborn-Paladin.png",
+          "Splash_url": "Leomord-Frostborn-Paladin.png",
+          "script": "Leomord-Shadow-Knight-Frostborn-Paladin.zip"
+        },
+        {
+          "name": "Triumph - Eagle",
+          "Portrait_url": "Leomord-Triumph-Eagle.png",
+          "Splash_url": "Leomord-Triumph-Eagle.png",
+          "script": "Leomord-Shadow-Knight-Triumph-Eagle.zip"
+        },
+        {
+          "name": "Inferno Soul",
+          "Portrait_url": "Leomord-Inferno-Soul.png",
+          "Splash_url": "Leomord-Inferno-Soul.png",
+          "script": "Leomord-Shadow-Knight-Inferno-Soul.zip"
+        },
+        {
+          "name": "Jack-o'-lantern",
+          "Portrait_url": "Leomord-Jack-o-lantern.png",
+          "Splash_url": "Leomord-Jack-o-lantern.png",
+          "script": "Leomord-Shadow-Knight-Jack-o-lantern.zip"
+        },
+        {
+          "name": "Diavel V4 Rider",
+          "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+          "Splash_url": "Leomord-Diavel-V4-Rider.png",
+          "script": "Leomord-Shadow-Knight-Diavel-V4-Rider.zip"
+        },
+        {
+          "name": "Nightmare Count",
+          "Portrait_url": "Leomord-Nightmare-Count.png",
+          "Splash_url": "Leomord-Nightmare-Count.png",
+          "script": "Leomord-Shadow-Knight-Nightmare-Count.zip"
+        }
+      ]
+    },
+    {
+      "name": "Ducati",
+      "Default_name": "Diavel V4 Rider",
+      "Splash_url": "Leomord-Diavel-V4-Rider.png",
+      "script": "Leomord-Diavel-V4-Rider-Backup.zip",
+      "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+      "Tags": [
+        "Ducati.png"
+      ],
+      "targets": [
+        {
+          "name": "Cavalry Charge",
+          "Portrait_url": "Leomord-Cavalry-Charge.png",
+          "Splash_url": "Leomord-Cavalry-Charge.png",
+          "script": "Leomord-Diavel-V4-Rider-Cavalry-Charge.zip"
+        },
+        {
+          "name": "Frostborn Paladin",
+          "Portrait_url": "Leomord-Frostborn-Paladin.png",
+          "Splash_url": "Leomord-Frostborn-Paladin.png",
+          "script": "Leomord-Diavel-V4-Rider-Frostborn-Paladin.zip"
+        },
+        {
+          "name": "Triumph - Eagle",
+          "Portrait_url": "Leomord-Triumph-Eagle.png",
+          "Splash_url": "Leomord-Triumph-Eagle.png",
+          "script": "Leomord-Diavel-V4-Rider-Triumph-Eagle.zip"
+        },
+        {
+          "name": "Inferno Soul",
+          "Portrait_url": "Leomord-Inferno-Soul.png",
+          "Splash_url": "Leomord-Inferno-Soul.png",
+          "script": "Leomord-Diavel-V4-Rider-Inferno-Soul.zip"
+        },
+        {
+          "name": "Jack-o'-lantern",
+          "Portrait_url": "Leomord-Jack-o-lantern.png",
+          "Splash_url": "Leomord-Jack-o-lantern.png",
+          "script": "Leomord-Diavel-V4-Rider-Jack-o-lantern.zip"
+        },
+        {
+          "name": "Shadow Knight",
+          "Portrait_url": "Leomord-Shadow-Knight.png",
+          "Splash_url": "Leomord-Shadow-Knight.png",
+          "script": "Leomord-Diavel-V4-Rider-Shadow-Knight.zip"
+        },
+        {
+          "name": "Nightmare Count",
+          "Portrait_url": "Leomord-Nightmare-Count.png",
+          "Splash_url": "Leomord-Nightmare-Count.png",
+          "script": "Leomord-Diavel-V4-Rider-Nightmare-Count.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Nightmare Count",
+      "Splash_url": "Leomord-Nightmare-Count.png",
+      "script": "Leomord-Nightmare-Count-Backup.zip",
+      "Portrait_url": "Leomord-Nightmare-Count.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Cavalry Charge",
+          "Portrait_url": "Leomord-Cavalry-Charge.png",
+          "Splash_url": "Leomord-Cavalry-Charge.png",
+          "script": "Leomord-Nightmare-Count-Cavalry-Charge.zip"
+        },
+        {
+          "name": "Frostborn Paladin",
+          "Portrait_url": "Leomord-Frostborn-Paladin.png",
+          "Splash_url": "Leomord-Frostborn-Paladin.png",
+          "script": "Leomord-Nightmare-Count-Frostborn-Paladin.zip"
+        },
+        {
+          "name": "Triumph - Eagle",
+          "Portrait_url": "Leomord-Triumph-Eagle.png",
+          "Splash_url": "Leomord-Triumph-Eagle.png",
+          "script": "Leomord-Nightmare-Count-Triumph-Eagle.zip"
+        },
+        {
+          "name": "Inferno Soul",
+          "Portrait_url": "Leomord-Inferno-Soul.png",
+          "Splash_url": "Leomord-Inferno-Soul.png",
+          "script": "Leomord-Nightmare-Count-Inferno-Soul.zip"
+        },
+        {
+          "name": "Jack-o'-lantern",
+          "Portrait_url": "Leomord-Jack-o-lantern.png",
+          "Splash_url": "Leomord-Jack-o-lantern.png",
+          "script": "Leomord-Nightmare-Count-Jack-o-lantern.zip"
+        },
+        {
+          "name": "Shadow Knight",
+          "Portrait_url": "Leomord-Shadow-Knight.png",
+          "Splash_url": "Leomord-Shadow-Knight.png",
+          "script": "Leomord-Nightmare-Count-Shadow-Knight.zip"
+        },
+        {
+          "name": "Diavel V4 Rider",
+          "Portrait_url": "Leomord-Diavel-V4-Rider.png",
+          "Splash_url": "Leomord-Diavel-V4-Rider.png",
+          "script": "Leomord-Nightmare-Count-Diavel-V4-Rider.zip"
+        }
+      ]
+    }
+  ]
+}

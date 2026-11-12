@@ -1,0 +1,36 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "marcel-backup",
+      "portrait_file": "Marcel-Default.png",
+      "script_file": "Marcel-Backup.zip",
+      "skin_name": "Soul Photographer",
+      "splash_file": "Marcel-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "marcel-split-shadows",
+      "portrait_file": "Marcel-Split-Shadows.png",
+      "script_file": "Marcel-Split-Shadows.zip",
+      "skin_name": "Split Shadows",
+      "splash_file": "Marcel-Split-Shadows.png",
+      "tag_id": null,
+      "tier": "common"
+    }
+  ],
+  "hero": {
+    "id": 132,
+    "name": "Marcel",
+    "roles": [
+      "Support"
+    ],
+    "slug": "marcel"
+  },
+  "release_tag": "visual-marcel",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

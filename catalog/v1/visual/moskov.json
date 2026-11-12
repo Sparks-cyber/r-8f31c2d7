@@ -1,0 +1,156 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "moskov-backup",
+      "portrait_file": "Moskov-Default.png",
+      "script_file": "Moskov-Backup.zip",
+      "skin_name": "Spear of Quiescence",
+      "splash_file": "Moskov-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-spear-of-bone-dragon",
+      "portrait_file": "Moskov-Spear-of-Bone-Dragon.png",
+      "script_file": "Moskov-Spear-of-Bone-Dragon.zip",
+      "skin_name": "Spear of Bone Dragon",
+      "splash_file": "Moskov-Spear-of-Bone-Dragon.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-snake-eye-commander",
+      "portrait_file": "Moskov-Snake-Eye-Commander.png",
+      "script_file": "Moskov-Snake-Eye-Commander.zip",
+      "skin_name": "Snake Eye Commander",
+      "splash_file": "Moskov-Snake-Eye-Commander.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-yasha",
+      "portrait_file": "Moskov-Yasha.png",
+      "script_file": "Moskov-Yasha.zip",
+      "skin_name": "Yasha",
+      "splash_file": "Moskov-Yasha.png",
+      "tag_id": "s7",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-javelin-champion",
+      "portrait_file": "Moskov-Javelin-Champion.png",
+      "script_file": "Moskov-Javelin-Champion.zip",
+      "skin_name": "Javelin Champion",
+      "splash_file": "Moskov-Javelin-Champion.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-twilight-dragon",
+      "portrait_file": "Moskov-Twilight-Dragon.png",
+      "script_file": "Moskov-Twilight-Dragon.zip",
+      "skin_name": "Twilight Dragon",
+      "splash_file": "Moskov-Twilight-Dragon.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-decapitator",
+      "portrait_file": "Moskov-Decapitator.png",
+      "script_file": "Moskov-Decapitator.zip",
+      "skin_name": "Decapitator",
+      "splash_file": "Moskov-Decapitator.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-blood-spear",
+      "portrait_file": "Moskov-Blood-Spear.png",
+      "script_file": "Moskov-Blood-Spear.zip",
+      "skin_name": "Blood Spear",
+      "splash_file": "Moskov-Blood-Spear.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-doom-incarnate",
+      "portrait_file": "Moskov-Doom-Incarnate.png",
+      "script_file": "Moskov-Doom-Incarnate.zip",
+      "skin_name": "Doom Incarnate",
+      "splash_file": "Moskov-Doom-Incarnate.png",
+      "tag_id": "abyss",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-violet-spear",
+      "portrait_file": "Moskov-Violet-Spear.png",
+      "script_file": "Moskov-Violet-Spear.zip",
+      "skin_name": "Violet Spear",
+      "splash_file": "Moskov-Violet-Spear.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-infernal-wrymlord",
+      "portrait_file": "Moskov-Infernal-Wrymlord.png",
+      "script_file": "Moskov-Infernal-Wrymlord.zip",
+      "skin_name": "Infernal Wrymlord",
+      "splash_file": "Moskov-Infernal-Wrymlord.png",
+      "tag_id": "allstar-2024",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-harbinger-of-chaos",
+      "portrait_file": "Moskov-Harbinger-Of-Chaos.png",
+      "script_file": "Moskov-Harbinger-of-Chaos.zip",
+      "skin_name": "Harbinger of Chaos",
+      "splash_file": "Moskov-Harbinger-Of-Chaos.png",
+      "tag_id": "beta-unreleased",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-asian-javelin-champion-painted-01",
+      "portrait_file": "Moskov-Asian-Javelin-Champion.png",
+      "script_file": "Moskov-Asian-Javelin-Champion.zip",
+      "skin_name": "Asian Javelin Champion",
+      "splash_file": "Moskov-Asian-Javelin-Champion.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-spear-of-dystopia-painted-01",
+      "portrait_file": "Moskov-Spear-of-Dystopia.png",
+      "script_file": "Moskov-Spear-of-Dystopia.zip",
+      "skin_name": "Spear of Dystopia",
+      "splash_file": "Moskov - Spear of Dystopia.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 31,
+    "name": "Moskov",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "moskov"
+  },
+  "release_tag": "visual-moskov",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

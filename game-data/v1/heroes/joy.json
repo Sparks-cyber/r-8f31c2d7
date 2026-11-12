@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 118,
+    "slug": "joy",
+    "name": "Joy",
+    "skin_name": "Flash of Miracle",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Magic",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "Azrya Woodlands",
+    "release_date": "18 November 2022",
+    "resource": null,
+    "short_description": "The “Child Miracle” who returned to the Leonins after years of wandering.",
+    "brief": "Agile and cunning, known as the most infamous \"petty thief\" in Lumina City, Joy had longed to have her stomach filled and her heart warmed. In a fortunate turn of events, Joy returned to the Leonins' land, her wandering heart healed by the simple and unconditional love of her kin. She no longer feared losing love again and vowed to protect those around her, to turn into a golden flash resonating with home...[3]",
+    "story": "Who am I?\n\nThe moment the lightning struck her chest, the Leonin girl couldn't help but think about this question.\n\nShe had been searching for an answer all this time.\n\n\"You're granny's favorite lovebunny.\" This was the answer she received from her adoptive grandmother. For as long as she could remember, they had lived in the slums of Lumina City. Though grandma was poor, she could always find a way to keep the girl fed and put her to sleep. During that time, the magic necklace on the girl's chest would always be beating slightly to the lullaby. According to her grandmother, she was already wearing the necklace when she was discovered. One, two, three, four! It was like the beats of love.\n\nOne day, grandma never woke up again... The girl stood by the frozen body for days, but couldn't find a way to wake her grandma up. The beating of the necklace on the girl's chest became slower and lighter.\n\nOne... Two... Three... Four...\n\nIt was as if her heart was being tightly grasped by a pair of large hands, and she could never hear the lullaby again. It was that day that the girl learned of death, learned of the impermanence of love. No matter how hard she tried, it would always disappear in the end. For no reason!\n\nAs she wiped away her tears, she thought about where she would find some warm bread.\n\nThe girl began to wander. Though life had always been sorrowful, it had also taught her many tricks. She learned to sneak into stores to steal food, slip away from the city guard, and even fight stray cats for nourishment. Her Leonin magic was strong enough to protect the girl, turning the bitterness of her life into a sweet cake.\n\nDuring those days, the answer she would most commonly hear was \"a thief that brings shame to the Leonin clan\".\n\nShe remembered these words from Harith, an enforcer of the Imperial Army. He was upset that the girl was tarnishing the clan's reputation of honesty and kindness. Despite all attempts at reprimands and punishment, the girl never changed. Harith's anger grew greater and greater, until one day he found that the girl had never returned to the Leonin clan... never knew who she was.\n\nLumina City was large enough that wanderers would often lose sight of themselves. The Leonin girl didn't know that she had a choice other than wandering. After several fights, Harith finally managed to bring the girl back to her homeland, the Gleaming Marsh.\n\nLocated in the central Azrya Woodlands, the Gleaming Marsh has been home to generations of Leonins. Years of wandering had put the girl on her guard. Always vigilant, she was like a stray cat that had been forcibly adopted. All she wanted was to escape her new home.\n\nThe patriarch of the Leonins gave the girl her third answer, \"a miracle child, one that will fulfill the prophecy of the Leonin clan\".\n\nYears ago, on a stormy night, a girl was born into the Marsh holding the \"Leonin Crystal\". In the ancient prophecies of the clan, she was known as the \"miracle child\" who would save their people. But when the girl was just three years old, she fell into a river by accident...\n\nThe patriarch took the girl to the Leonin Temple, where the Leonin Crystal was enshrined... The shape was the same as the necklace on the girl's chest. They began to resonate.\n\nOne, two, three, four!\n\nIt was as if grandma's song was sung again.\n\nBut even prophecy was not able to change the girl's habits. She continued to play tricks on those around her and lie to get her hands on delicious food. She even threw a BBQ party in the Leonin Temple! Even the other kids who didn't take kindly to the girl had no way to handle her. Whenever the kind and simple Leonin villagers showed concern or kindness towards her, they always reminded the girl of that moment she felt her heartbeat slow... Of the tingling feeling she never wanted to experience again.\n\n\"I don't need to care about who I am here... I hope that things can remain this way forever\".\n\nBut the thunder in the middle of a night broke the girl's dreams.\n\nThis abyssal thunderstorm seemed as if it was going to wipe everything away. The girl was terrified... She was the \"miracle child\", one who had been given so much drink and food for free... They were definitely going to ask her to save them!\n\nBut the request that came from the patriarch was that she runs away to a safe place. The Leonins had no intention of sacrificing a child for the sake of prophecy. They cared for her not because they wanted something... but rather because they had pity for an orphan. The Leonins were returning the girl's freedom, just as if she was a child who had left home.\n\nLooking up, the girl saw that the temple was about to collapse under the pressure of the thunderstorm. The shivering Leonins had surrounded the temple, trying their best to keep it supported with magic. Closing their eyes and praying, they thought back to their families for peace of mind.\n\nThe necklace on her chest began to beat once more, slowly and lightly. Was she going to lose her new home the same way she lost her grandmother?\n\nAs another bright bolt of lightning stuck out from the sky, the temple began to collapse. Suddenly... that girl managed to withstand the lightning bolt! Running back and forth through the thunderstorm, she absorbed the lightning in her body, preventing it from damaging the temple any further. She continued to run and roll at high speed, until a bolt of lightning struck her in the chest.\n\n\"Who am I?\"\n\nIt was at that moment that she found her answer.\n\nThe Leonin Crystal in the temple vibrated together with the necklace. One, two, three, four!\n\n\"I used to be an orphan.\"\n\nThe Leonins and the Crystal surged with magical energy oozing from the girl, as if a blessing from home. The light spread to her ears and legs...illuminating her whole body.\n\n\"I've stolen food and done many bad things...\"\n\nThe girl continued running, becoming faster and faster, to the point where nothing could stop her.\n\n\"But at this moment, I'm a child loved by all... The miracle child of the Leonins!\"\n\nShe no longer feared losing love... Instead, she would use her life to protect those that she loved. The light on the girl's body grew brighter and brighter. Like a golden flash, it slashed towards the dark clouds above her head.\n\n\"I! AM! JOY!\"",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 7,
+    "control": 1,
+    "difficulty": 9
+  },
+  "attributes": {
+    "health": 2678,
+    "health_growth": 195,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 119,
+    "physical_attack_growth": 9.71,
+    "magic_power": 0,
+    "physical_defense": 20,
+    "physical_defense_growth": 4.1429,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.1429,
+    "attack_speed": 1.13,
+    "attack_speed_growth": 0.0293,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Joy0",
+      "name": "Humph, Joy's Angry!",
+      "description": "Joy becomes <highlight>Angry!</highlight> each time her skill hits a non-Minion enemy, dealing 100<scaleAP> (+80% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and increasing her Movement Speed by 60% that decays over 4s (hitting the <highlight>Leonin Crystal</highlight> will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target.<br/><br/>Joy's Basic Attack will deal 65<scaleAD> (+65% Total Physical Attack)</scaleAD> <scaleAP>(+65% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "188,55,55"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e3f79d1e66691e8d89cacca211ed231.png",
+      "video_url": null
+    },
+    {
+      "id": "Joy1",
+      "name": "Look, Leonin Crystal!",
+      "description": "Joy summons a <highlight>Leonin Crystal</highlight> at the target location, dealing 200/220/240/260/280/300<scaleAP> (+40% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies and slowing them by 30% for 1s. The <highlight>Leonin Crystal</highlight> lasts up to 2s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_608b4796b7497e4552f9785a3d4331db.png",
+      "video_url": null
+    },
+    {
+      "id": "Joy2",
+      "name": "Meow, Rhythm of Joy!",
+      "description": "Joy dashes in the target direction, dealing 120/138/156/174/192/210<scaleAP> (+40% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in her path. Hitting an enemy or the <highlight>Leonin Crystal</highlight> allows Joy to cast this skill again within 0.8s and gain 1 <highlight>Beat Energy</highlight>. Casting this skill on the beat increases the skill damage by 100% and grants a 80/90/100/110/120/130<scaleAP> (+60% Total Magic Power)</scaleAP> shield that lasts 3s.<br/><br/>This skill can be cast up to 4 times in succession.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Damage",
+          "rgb": "188,55,55"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a500868582b10eec96f338ed3922d3eb.png",
+      "video_url": null
+    },
+    {
+      "id": "Joy3",
+      "name": "Ha, Electrifying Beats!",
+      "description": "Joy increases her Physical &amp; Magic Defense by 15/20/25<scaleAP> (+10% Total Magic Power)</scaleAP> and gains 30% Movement Speed. Over the next 3s, she pulses 8 times, dealing 120/160/200<scaleAP> (+40% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> each time to nearby enemies.<br/>Each <highlight>Meow, Rhythm of Joy!</highlight> cast on the beat increases this skill's damage by 40%. If perfect rhythm is achieved by hitting every beat with <highlight>Meow, Rhythm of Joy!</highlight>, Joy also gains 40% Spell Vamp while this skill is active.<br/>This skill unlocks when Joy acquires <highlight>Beat Energy</highlight>. Casting this skill with 3 <highlight>Beat Energy</highlight> will remove all debuffs on Joy and make her immune to slow effects while this skill is active.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "28",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86eed96e7e3e2172313ffe1382ffdc9a.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Joy0",
+      "sequence": "Joy1-Joy2-Joy3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Joy should summon a Leonin Crystal with her 1st Skill and use it as a springboard for her 2nd Skill to enter the battle. Continue to chain her 2nd Skill on the beat to unlock her Ultimate. Finally, use her Ultimate to finish off the enemy."
+    },
+    {
+      "id": "Joy1",
+      "sequence": "Joy1-Joy2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Joy should place her 1st Skill on top of the enemy, then use her 2nd Skill to dash through both targets and continue to chain her 2nd Skill on the beat for damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Joy works best with heroes with that can provide powerful support or have strong initiation, like Angela and Hylos.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 49,
+          "slug": "hylos",
+          "name": "Hylos"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Joy is strong against heroes that lack mobility or rely on CC, like Xavier and Vexana, because she has an easier time hitting them with her 2nd Skill while being immune to their CC's.",
+      "heroes": [
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        },
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Joy is countered by heroes that can restrict mobility skills, such as Minsitthar and Khufra, due to her kit's heavy reliance on her 2nd Skill.",
+      "heroes": [
+        {
+          "id": 74,
+          "slug": "minsitthar",
+          "name": "Minsitthar"
+        },
+        {
+          "id": 78,
+          "slug": "khufra",
+          "name": "Khufra"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Joy-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Joy-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f647bf6dbb80b4b2b2310ab5af88773d.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f647bf6dbb80b4b2b2310ab5af88773d.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/joy.json",
+    "visual_catalog": "catalog/v1/visual/joy.json",
+    "upgrade_catalog": "catalog/v1/upgrade/joy.json"
+  }
+}

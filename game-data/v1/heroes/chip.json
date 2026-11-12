@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 124,
+    "slug": "chip",
+    "name": "Chip",
+    "skin_name": "Phase Technician",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Support",
+      "Crowd Control"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "16 March 2024",
+    "resource": "Mana",
+    "short_description": "A carefree, genetically enhanced fox that wields advanced portal technology.",
+    "brief": "Chip was once a small fox just trying to survive in the harsh deserts of Agelta. By chance, he was found by Dr. Baker and brought to Laboratory 1718 where he was genetically enhanced with superior intelligence and tasked with testing the lab's portal technology. However, he has always been lazy by nature and just wanted to enjoy a carefree life. When an inner power struggle took place at the secret lab, Chip's life was turned upside down and he ws forced to make a tough decision. To be able to return his carefree life, he had to work hard one last time...",
+    "story": "Letter to Dr. Baker:\r\n\r\nDear Dr. Baker:\r\n\r\nYou must be shocked that, I, the carefree Chip, would ever write a letter, right?\r\n\r\nAfter all, normally I just recline in my hover chair and snack on potato chips all day. But I can no longer do that, my old friend, because your indecisiveness has been interfering with my carefree life, so we need to have a long chat.\r\n\r\nOnce upon a time, before I met you, I was just an ordinary little fox, no different than the thousands of other foxes across Agelta. I slept in my burrow under the sand every day and foraged for food when I had to, until that day when I came upon a bag of half-eaten potato chips graciously left behind by a traveler.\r\n\r\nMy world was never the same after that. That unique taste and crispy texture was surely the pinnacle of human ingenuity I thought; their miracle to the world of us chip-less peasants.\r\n\r\nAfter that divine experience, I waited along the trade routes day in and day out, but never got another taste of that golden delicacy. I even stole some potatoes from a village and was almost mauled by their mangy mutts, but what are potatoes compared to potato chips! Alas, the gods did not send down a second bag of potato chips, but calamity instead - an earthquake threatening to collapse my burrow. I did not panic like the rest of my kin. I made the softest bed with hay, put the empty bag of chips over my head, and was ready for whatever came next.\r\n\r\nBut as it turns out, you just happened to be passing by my burrow at that very moment. The sight of my calmness, or perhaps the bag over my head, must have piqued your curiosity, so you took me back to your laboratory. When I woke up, I found that I had been altered by your strange science. I had gained extraordinary intelligence and was soon tasked with testing the lab's portal technology.\r\n\r\nI was so naive back then. The great Dr. Baker had granted this little fox the ability to get his own potato chips! From that day on, I became a being of higher intelligence, named myself \"Chip\", and was free to enjoy a lifetime of potato chips that I could reach from anywhere. Surely the portal I was testing was for reaching the snack rack while lounging at home, right? I was thankful, Dr. Baker.\r\n\r\nBut if only things were that simple. You later informed me that in addition to eating potato chips, we intelligent \"scholars\" must also perform endless scientific research, record experimental data, assemble robots, and even catch those slimy energy jellyfish in the sea around the island. In other words... work. What a dreadful concept! Wasting my life away is what it is! I was devastated by this revelation, and from then on, all I could do at work was find ways to slack off and eat potato chips. I know you blame yourself, thinking it was some error in your calculations that caused me to become this lazy... but you're wrong. I was always lazy.\r\n\r\nNow don't get mad, I've finished my rant. What follows is just a recount of some events.\r\n\r\nSoon after, Dr. Octavius became the new head of the lab. He transformed it into an arms factory and used your technology intended to benefit the world to make weapons of war and sell them to Los Pecados. At that time, you couldn't accept what was happening and ran off. I originally thought you were taking a break on the island, but turns out you were secretly working on an android, Angela!\r\n\r\nOnce Octavius found out, he had all of us work overtime to develop an even better android; to surpass you, he wanted to mass-produce weapons with artificial souls. The workload for all of us increased tenfold... we worked from dawn till dusk, without any breaks to enjoy even a single potato chip. That's no working condition for man or fox. I couldn't bear another second of it, so I was forced to do something drastic.\r\n\r\nI took the initiative and volunteered to lead the search and retrieval team for you. I used the portals to find your residence and brought you back. I hope you're not too angry. It's not that potato chips are more important than you, but I had to bring you back so everyone could finally take a break.\r\n\r\nAnyway, you were captured and brought back to the lab, but Angela escaped. You were so worried about her that you fell into a depression, while I received a hundred bags of original flavored potato chips as a bonus. But life likes to play cruel tricks, as I've learned. That blasted Octavius gave me a promotion and a raise, but most importantly gave me even more work and responsibilities!\r\n\r\nWill this nightmare ever end? I want to retire with my stash of potato chips!\r\n\r\nSo, you gotta get back on your feet, my friend. Think of those suffering from war, the victims of the weapons made in this lab, and the poor little fox forced to work overtime! Listen, I'll help you retake control of your lab. I thought it didn't matter who ran this lab as long as it wasn't me, but now I know it must be you! Otherwise, people will expect me to work!\r\n\r\nAs for your \"daughter\" Angela, don't worry, I'll find her and bring her back but promise you'll keep her away from me. She forced me to wear a frilly pink dress in our last encounter... Truly one of your most terrifying creations.\r\n\r\nIn conclusion, pull yourself together, Dr. Baker! I know that your technology will bring joy to all living creatures, and I should be first on that list! I can already see the golden beaches of the Agelta coast. I've stashed all my chips there, waiting for that day.\r\n\r\nOne last thing. You didn't think I actually wrote this letter myself, did you? I hope the ChipBot AI program I developed has done a good job of conveying my thoughts... or thoughts the real Chip should have according to my algor... Never mind. If you miss me, just contact ChipBot.\r\n\r\nAlthough it will only reply that it's off duty.\r\n\r\n- Your good friend, Chip",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 2,
+    "control": 6,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2600,
+    "health_growth": 225,
+    "health_regen": 8.4,
+    "health_regen_growth": 0.6,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 112,
+    "physical_attack_growth": 6.79,
+    "magic_power": 0,
+    "physical_defense": 20,
+    "physical_defense_growth": 4.2143,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.03,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Chip0",
+      "name": "Snack Time!",
+      "description": "Chip starts eating potato chips once every 2s when out of combat, regenerating HP equal to 300 plus 45% of lost HP after finishing a whole bag (requires 4 bites). After eating a bag of chips, Chip will be full and cannot eat again for 5s. (The bite count will be saved if he enters combat before finishing a whole bag.)",
+      "flavor_text": "Yummy...yummy",
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87767306b09462d012792603a99a862c.png",
+      "video_url": null
+    },
+    {
+      "id": "Chip1",
+      "name": "Crash Course",
+      "description": "Chip rams his hovercraft into the ground, dealing <magicDamage>Magic Damage</magicDamage> equal to 100/120/140/160/180/200 plus 4% of target's Max HP and applying <highlight>Chip's Mark</highlight> on enemy heroes hit. Chip gains a 300/400/500/600/700/800<scaleAP> (+60% Total Magic Power)</scaleAP> Shield upon hitting an enemy hero, which increases by 40% for each additional enemy hero hit. Chip's next Basic Attack will become ranged and also hit all nearby enemies with <highlight>Chip's Mark</highlight>, detonating the mark to deal 150/175/200/225/250/275<scaleAP> (+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and stun each target for 0.6s.",
+      "flavor_text": null,
+      "cost": "40/45/50/55/60/65",
+      "cooldown": "5.5/5.2/4.9/4.6/4.3/4",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c987058022e063daaea8fc776031d91b.png",
+      "video_url": null
+    },
+    {
+      "id": "Chip2",
+      "name": "Overtime",
+      "description": "Chip rushes for 2s, gaining up to 65% extra Movement Speed, after which he maintains the max speed for 2s.<br/><br/>Chip's next Basic Attack will cause him to charge at the enemy, dealing 200/220/240/260/280/300<scaleAP> (+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and knocking them back slightly.",
+      "flavor_text": "Sunshine and beach, I'm coming",
+      "cost": "75/80/85/90/95/100",
+      "cooldown": "13/12.4/11.8/11.2/10.6/10",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d13538864552a2e6091a969c80c08b5d.png",
+      "video_url": null
+    },
+    {
+      "id": "Chip3",
+      "name": "Shortcut",
+      "description": "Chip drops the <highlight>Main Portal</highlight> on an enemy hero, dealing 200/250/300<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and briefly slowing them by 25%. The Main Portal deals 2 times the damage and immobilizes them for 1s after a delay. Meanwhile, he creates <highlight>Connecting Portals</highlight> near allied heroes 10 units away and behind the allied Base. The <highlight>Main Portal</highlight> and <highlight>Connecting Portals</highlight> last up to 15s.<br/><highlight>Connecting Portal</highlight>: Heroes (on both teams) can teleport from <highlight>Connecting Portals</highlight> to the <highlight>Main Portal</highlight>, and allied heroes gain Burst Movement Speed for 1.5s and a 500/750/1000 shield.<br/><highlight>Main Portal</highlight>: The Main Portal inherits 70% of Chip's attributes. Heroes can stand on the <highlight>Main Portal</highlight> for 2s to return to the <highlight>Connecting Portal</highlight> they came from. Casting skills or launching Basic Attacks will reset the stand time.",
+      "flavor_text": "Get it done and let's leave work early.",
+      "cost": "110",
+      "cooldown": "70/60/50",
+      "tags": [
+        {
+          "name": "Teleport",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9ac68239747eb8bf2f056394e35d8712.png",
+      "video_url": null
+    },
+    {
+      "id": "Chip4",
+      "name": "Why Walk?",
+      "description": "Chip has 4 fixed <highlight>Beacons</highlight> on the map when the battle starts. Use this skill to teleport to any other <highlight>Beacon</highlight>. (This skill cannot be used in combat.)",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "60",
+      "tags": [
+        {
+          "name": "Teleport",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f607176ca4b8d9e639f598a31594c37a.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Chip0",
+      "sequence": "Chip2-AA-Chip3-Chip1-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Chip's 2nd Skill preemptively to build up speed, then hit a target with his Basic Attack and deploy the Main Portal with his Ultimate. Follow up with his 1st Skill on the enemy and another Basic Attack to stun them while the Main Portal's delayed effect slows them, and continue the fight as allies portal in."
+    },
+    {
+      "id": "Chip1",
+      "sequence": "Chip2-AA-Chip1-AA",
+      "name": "LANING COMBOS",
+      "description": "When ganking, use Chip's 2nd Skill to quickly get behind the target and knock them into your team with the enhanced Basic Attack, then follow up with his 1st Skill and another Basic Attack to stun them."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Chip's Ultimate allows his team to group up from anywhere, so he works well with heroes who can't cross the map quickly but excel in teamfights, such as Alpha, Hanabi, and Kadita.",
+      "heroes": [
+        {
+          "id": 28,
+          "slug": "alpha",
+          "name": "Alpha"
+        },
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        },
+        {
+          "id": 75,
+          "slug": "kadita",
+          "name": "Kadita"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Chip possesses strong initiation and CC abilities, making him a great counter against heroes with low mobility or those who are relatively squishy, such as Vexana, Layla, and Ixia.",
+      "heroes": [
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Since enemies can also use Chip's Connecting Portals, certain heroes with strong teamfighting abilities, like Barats and Tigreal, can use them to their advantage.",
+      "heroes": [
+        {
+          "id": 99,
+          "slug": "barats",
+          "name": "Barats"
+        },
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Chip-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Chip-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fb8b4e345db174545e967b7bcbd219f4.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fb8b4e345db174545e967b7bcbd219f4.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/chip.json",
+    "visual_catalog": "catalog/v1/visual/chip.json",
+    "upgrade_catalog": "catalog/v1/upgrade/chip.json"
+  }
+}

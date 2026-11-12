@@ -1,0 +1,421 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Rafaela",
+  "role": "Support",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Fertility Goddess",
+      "Splash_url": "Rafaela-Fertility-Goddess.png",
+      "script": "Rafaela-Fertility-Goddess-Backup.zip",
+      "Portrait_url": "Rafaela-Fertility-Goddess.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Flower Fairy",
+          "Portrait_url": "Rafaela-Flower-Fairy.png",
+          "Splash_url": "Rafaela-Flower-Fairy.png",
+          "script": "Rafaela-Fertility-Goddess-Flower-Fairy.zip"
+        },
+        {
+          "name": "Biomedic",
+          "Portrait_url": "Rafaela-Biomedic.png",
+          "Splash_url": "Rafaela-Biomedic.png",
+          "script": "Rafaela-Fertility-Goddess-Biomedic.zip"
+        },
+        {
+          "name": "Star Chaser",
+          "Portrait_url": "Rafaela-Star-Chaser.png",
+          "Splash_url": "Rafaela-Star-Chaser.png",
+          "script": "Rafaela-Fertility-Goddess-Star-Chaser.zip"
+        },
+        {
+          "name": "Angelic Sonata",
+          "Portrait_url": "Rafaela-Angelic-Sonata.png",
+          "Splash_url": "Rafaela-Angelic-Sonata.png",
+          "script": "Rafaela-Fertility-Goddess-Angelic-Sonata.zip"
+        },
+        {
+          "name": "Seraphic Selfie",
+          "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+          "Splash_url": "Rafaela-Seraphic-Selfie.png",
+          "script": "Rafaela-Fertility-Goddess-Seraphic-Selfie.zip"
+        },
+        {
+          "name": "Bloom of Abundance",
+          "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+          "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+          "script": "Rafaela-Fertility-Goddess-Bloom-of-Abundance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Flower Fairy",
+      "Splash_url": "Rafaela-Flower-Fairy.png",
+      "script": "Rafaela-Flower-Fairy-Backup.zip",
+      "Portrait_url": "Rafaela-Flower-Fairy.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Fertility Goddess",
+          "Portrait_url": "Rafaela-Fertility-Goddess.png",
+          "Splash_url": "Rafaela-Fertility-Goddess.png",
+          "script": "Rafaela-Flower-Fairy-Fertility-Goddess.zip"
+        },
+        {
+          "name": "Biomedic",
+          "Portrait_url": "Rafaela-Biomedic.png",
+          "Splash_url": "Rafaela-Biomedic.png",
+          "script": "Rafaela-Flower-Fairy-Biomedic.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Savior",
+          "Portrait_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "Splash_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "script": "Rafaela-Flower-Fairy-S-A-B-E-R-Savior.zip"
+        },
+        {
+          "name": "Star Chaser",
+          "Portrait_url": "Rafaela-Star-Chaser.png",
+          "Splash_url": "Rafaela-Star-Chaser.png",
+          "script": "Rafaela-Flower-Fairy-Star-Chaser.zip"
+        },
+        {
+          "name": "Angelic Sonata",
+          "Portrait_url": "Rafaela-Angelic-Sonata.png",
+          "Splash_url": "Rafaela-Angelic-Sonata.png",
+          "script": "Rafaela-Flower-Fairy-Angelic-Sonata.zip"
+        },
+        {
+          "name": "Seraphic Selfie",
+          "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+          "Splash_url": "Rafaela-Seraphic-Selfie.png",
+          "script": "Rafaela-Flower-Fairy-Seraphic-Selfie.zip"
+        },
+        {
+          "name": "Bloom of Abundance",
+          "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+          "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+          "script": "Rafaela-Flower-Fairy-Bloom-of-Abundance.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Biomedic",
+      "Splash_url": "Rafaela-Biomedic.png",
+      "script": "Rafaela-Biomedic-Backup.zip",
+      "Portrait_url": "Rafaela-Biomedic.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Fertility Goddess",
+          "Portrait_url": "Rafaela-Fertility-Goddess.png",
+          "Splash_url": "Rafaela-Fertility-Goddess.png",
+          "script": "Rafaela-Biomedic-Fertility-Goddess.zip"
+        },
+        {
+          "name": "Flower Fairy",
+          "Portrait_url": "Rafaela-Flower-Fairy.png",
+          "Splash_url": "Rafaela-Flower-Fairy.png",
+          "script": "Rafaela-Biomedic-Flower-Fairy.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Savior",
+          "Portrait_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "Splash_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "script": "Rafaela-Biomedic-S-A-B-E-R-Savior.zip"
+        },
+        {
+          "name": "Star Chaser",
+          "Portrait_url": "Rafaela-Star-Chaser.png",
+          "Splash_url": "Rafaela-Star-Chaser.png",
+          "script": "Rafaela-Biomedic-Star-Chaser.zip"
+        },
+        {
+          "name": "Angelic Sonata",
+          "Portrait_url": "Rafaela-Angelic-Sonata.png",
+          "Splash_url": "Rafaela-Angelic-Sonata.png",
+          "script": "Rafaela-Biomedic-Angelic-Sonata.zip"
+        },
+        {
+          "name": "Seraphic Selfie",
+          "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+          "Splash_url": "Rafaela-Seraphic-Selfie.png",
+          "script": "Rafaela-Biomedic-Seraphic-Selfie.zip"
+        },
+        {
+          "name": "Bloom of Abundance",
+          "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+          "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+          "script": "Rafaela-Biomedic-Bloom-of-Abundance.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.A.B.E.R.",
+      "Default_name": "S.A.B.E.R. Savior",
+      "Splash_url": "Rafaela-S-A-B-E-R-Savior.png",
+      "script": "Rafaela-S-A-B-E-R-Savior-Backup.zip",
+      "Portrait_url": "Rafaela-S-A-B-E-R-Savior.png",
+      "Tags": [
+        "SABER.png"
+      ],
+      "targets": [
+        {
+          "name": "Fertility Goddess",
+          "Portrait_url": "Rafaela-Fertility-Goddess.png",
+          "Splash_url": "Rafaela-Fertility-Goddess.png",
+          "script": "Rafaela-S-A-B-E-R-Savior-Fertility-Goddess.zip"
+        },
+        {
+          "name": "Flower Fairy",
+          "Portrait_url": "Rafaela-Flower-Fairy.png",
+          "Splash_url": "Rafaela-Flower-Fairy.png",
+          "script": "Rafaela-S-A-B-E-R-Savior-Flower-Fairy.zip"
+        },
+        {
+          "name": "Biomedic",
+          "Portrait_url": "Rafaela-Biomedic.png",
+          "Splash_url": "Rafaela-Biomedic.png",
+          "script": "Rafaela-S-A-B-E-R-Savior-Biomedic.zip"
+        },
+        {
+          "name": "Star Chaser",
+          "Portrait_url": "Rafaela-Star-Chaser.png",
+          "Splash_url": "Rafaela-Star-Chaser.png",
+          "script": "Rafaela-S-A-B-E-R-Savior-Star-Chaser.zip"
+        },
+        {
+          "name": "Angelic Sonata",
+          "Portrait_url": "Rafaela-Angelic-Sonata.png",
+          "Splash_url": "Rafaela-Angelic-Sonata.png",
+          "script": "Rafaela-S-A-B-E-R-Savior-Angelic-Sonata.zip"
+        },
+        {
+          "name": "Seraphic Selfie",
+          "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+          "Splash_url": "Rafaela-Seraphic-Selfie.png",
+          "script": "Rafaela-S-A-B-E-R-Savior-Seraphic-Selfie.zip"
+        },
+        {
+          "name": "Bloom of Abundance",
+          "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+          "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+          "script": "Rafaela-S-A-B-E-R-Savior-Bloom-of-Abundance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Star Chaser",
+      "Splash_url": "Rafaela-Star-Chaser.png",
+      "script": "Rafaela-Star-Chaser-Backup.zip",
+      "Portrait_url": "Rafaela-Star-Chaser.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Fertility Goddess",
+          "Portrait_url": "Rafaela-Fertility-Goddess.png",
+          "Splash_url": "Rafaela-Fertility-Goddess.png",
+          "script": "Rafaela-Star-Chaser-Fertility-Goddess.zip"
+        },
+        {
+          "name": "Flower Fairy",
+          "Portrait_url": "Rafaela-Flower-Fairy.png",
+          "Splash_url": "Rafaela-Flower-Fairy.png",
+          "script": "Rafaela-Star-Chaser-Flower-Fairy.zip"
+        },
+        {
+          "name": "Biomedic",
+          "Portrait_url": "Rafaela-Biomedic.png",
+          "Splash_url": "Rafaela-Biomedic.png",
+          "script": "Rafaela-Star-Chaser-Biomedic.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Savior",
+          "Portrait_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "Splash_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "script": "Rafaela-Star-Chaser-S-A-B-E-R-Savior.zip"
+        },
+        {
+          "name": "Seraphic Selfie",
+          "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+          "Splash_url": "Rafaela-Seraphic-Selfie.png",
+          "script": "Rafaela-Star-Chaser-Seraphic-Selfie.zip"
+        },
+        {
+          "name": "Bloom of Abundance",
+          "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+          "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+          "script": "Rafaela-Star-Chaser-Bloom-of-Abundance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Angelic Sonata",
+      "Splash_url": "Rafaela-Angelic-Sonata.png",
+      "script": "Rafaela-Angelic-Sonata-Backup.zip",
+      "Portrait_url": "Rafaela-Angelic-Sonata.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Fertility Goddess",
+          "Portrait_url": "Rafaela-Fertility-Goddess.png",
+          "Splash_url": "Rafaela-Fertility-Goddess.png",
+          "script": "Rafaela-Angelic-Sonata-Fertility-Goddess.zip"
+        },
+        {
+          "name": "Flower Fairy",
+          "Portrait_url": "Rafaela-Flower-Fairy.png",
+          "Splash_url": "Rafaela-Flower-Fairy.png",
+          "script": "Rafaela-Angelic-Sonata-Flower-Fairy.zip"
+        },
+        {
+          "name": "Biomedic",
+          "Portrait_url": "Rafaela-Biomedic.png",
+          "Splash_url": "Rafaela-Biomedic.png",
+          "script": "Rafaela-Angelic-Sonata-Biomedic.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Savior",
+          "Portrait_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "Splash_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "script": "Rafaela-Angelic-Sonata-S-A-B-E-R-Savior.zip"
+        },
+        {
+          "name": "Star Chaser",
+          "Portrait_url": "Rafaela-Star-Chaser.png",
+          "Splash_url": "Rafaela-Star-Chaser.png",
+          "script": "Rafaela-Angelic-Sonata-Star-Chaser.zip"
+        },
+        {
+          "name": "Seraphic Selfie",
+          "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+          "Splash_url": "Rafaela-Seraphic-Selfie.png",
+          "script": "Rafaela-Angelic-Sonata-Seraphic-Selfie.zip"
+        },
+        {
+          "name": "Bloom of Abundance",
+          "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+          "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+          "script": "Rafaela-Angelic-Sonata-Bloom-of-Abundance.zip"
+        }
+      ]
+    },
+    {
+      "name": "AS",
+      "Default_name": "Seraphic Selfie",
+      "Splash_url": "Rafaela-Seraphic-Selfie.png",
+      "script": "Rafaela-Seraphic-Selfie-Backup.zip",
+      "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+      "Tags": [
+        "AS.png"
+      ],
+      "targets": [
+        {
+          "name": "Fertility Goddess",
+          "Portrait_url": "Rafaela-Fertility-Goddess.png",
+          "Splash_url": "Rafaela-Fertility-Goddess.png",
+          "script": "Rafaela-Seraphic-Selfie-Fertility-Goddess.zip"
+        },
+        {
+          "name": "Flower Fairy",
+          "Portrait_url": "Rafaela-Flower-Fairy.png",
+          "Splash_url": "Rafaela-Flower-Fairy.png",
+          "script": "Rafaela-Seraphic-Selfie-Flower-Fairy.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Savior",
+          "Portrait_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "Splash_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "script": "Rafaela-Seraphic-Selfie-S-A-B-E-R-Savior.zip"
+        },
+        {
+          "name": "Star Chaser",
+          "Portrait_url": "Rafaela-Star-Chaser.png",
+          "Splash_url": "Rafaela-Star-Chaser.png",
+          "script": "Rafaela-Seraphic-Selfie-Star-Chaser.zip"
+        },
+        {
+          "name": "Angelic Sonata",
+          "Portrait_url": "Rafaela-Angelic-Sonata.png",
+          "Splash_url": "Rafaela-Angelic-Sonata.png",
+          "script": "Rafaela-Seraphic-Selfie-Angelic-Sonata.zip"
+        },
+        {
+          "name": "Bloom of Abundance",
+          "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+          "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+          "script": "Rafaela-Seraphic-Selfie-Bloom-of-Abundance.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lunar Festival",
+      "Default_name": "Bloom of Abundance",
+      "Splash_url": "Rafaela-Bloom-of-Abundance.png",
+      "script": "Rafaela-Bloom-of-Abundance-Backup.zip",
+      "Portrait_url": "Rafaela-Bloom-of-Abundance.png",
+      "Tags": [
+        "Lunar Fest.png"
+      ],
+      "targets": [
+        {
+          "name": "Fertility Goddess",
+          "Portrait_url": "Rafaela-Fertility-Goddess.png",
+          "Splash_url": "Rafaela-Fertility-Goddess.png",
+          "script": "Rafaela-Bloom-of-Abundance-Fertility-Goddess.zip"
+        },
+        {
+          "name": "Flower Fairy",
+          "Portrait_url": "Rafaela-Flower-Fairy.png",
+          "Splash_url": "Rafaela-Flower-Fairy.png",
+          "script": "Rafaela-Bloom-of-Abundance-Flower-Fairy.zip"
+        },
+        {
+          "name": "Biomedic",
+          "Portrait_url": "Rafaela-Biomedic.png",
+          "Splash_url": "Rafaela-Biomedic.png",
+          "script": "Rafaela-Bloom-of-Abundance-Biomedic.zip"
+        },
+        {
+          "name": "S.A.B.E.R. Savior",
+          "Portrait_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "Splash_url": "Rafaela-S-A-B-E-R-Savior.png",
+          "script": "Rafaela-Bloom-of-Abundance-S-A-B-E-R-Savior.zip"
+        },
+        {
+          "name": "Star Chaser",
+          "Portrait_url": "Rafaela-Star-Chaser.png",
+          "Splash_url": "Rafaela-Star-Chaser.png",
+          "script": "Rafaela-Bloom-of-Abundance-Star-Chaser.zip"
+        },
+        {
+          "name": "Angelic Sonata",
+          "Portrait_url": "Rafaela-Angelic-Sonata.png",
+          "Splash_url": "Rafaela-Angelic-Sonata.png",
+          "script": "Rafaela-Bloom-of-Abundance-Angelic-Sonata.zip"
+        },
+        {
+          "name": "Seraphic Selfie",
+          "Portrait_url": "Rafaela-Seraphic-Selfie.png",
+          "Splash_url": "Rafaela-Seraphic-Selfie.png",
+          "script": "Rafaela-Bloom-of-Abundance-Seraphic-Selfie.zip"
+        }
+      ]
+    }
+  ]
+}

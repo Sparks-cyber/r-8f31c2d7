@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 47,
+    "slug": "lancelot",
+    "name": "Lancelot"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "lancelot-community-5498",
+      "name": "Community Build 5498",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "hunterstrike",
+        "magicboots",
+        "waraxe",
+        "endlessbattle",
+        "bladeofdespair",
+        "seahalberd"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "killingspree",
+        "seasonedhunter",
+        "thrill"
+      ],
+      "situational_items": [],
+      "notes": "Let us and damage",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5498,
+      "source_created_at": "2026-02-06T07:15:58.000Z",
+      "likes": 9,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lancelot-community-5804",
+      "name": "Community Build 5804",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "hunterstrike",
+        "toughboots",
+        "waraxe",
+        "endlessbattle",
+        "bruteforcebreastplate",
+        "queenswings"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "killingspree",
+        "seasonedhunter",
+        "thrill"
+      ],
+      "situational_items": [],
+      "notes": "Best for early game penetration and late game sustain",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5804,
+      "source_created_at": "2026-02-18T07:55:49.000Z",
+      "likes": 6,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lancelot-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

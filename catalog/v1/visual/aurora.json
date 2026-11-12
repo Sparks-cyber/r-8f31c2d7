@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "aurora-backup",
+      "portrait_file": "Aurora-Default.png",
+      "script_file": "Aurora-Backup.zip",
+      "skin_name": "Maiden of the Glacier",
+      "splash_file": "Aurora-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-nature-s-throne",
+      "portrait_file": "Aurora-Nature-s-Throne.png",
+      "script_file": "Aurora-Nature-s-Throne.zip",
+      "skin_name": "Nature's Throne",
+      "splash_file": "Aurora-Nature-s-Throne.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-heartbreak-empress",
+      "portrait_file": "Aurora-Heartbreak-Empress.png",
+      "script_file": "Aurora-Heartbreak-Empress.zip",
+      "skin_name": "Heartbreak Empress",
+      "splash_file": "Aurora-Heartbreak-Empress.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-foxy-lady",
+      "portrait_file": "Aurora-Foxy-Lady.png",
+      "script_file": "Aurora-Foxy-Lady.zip",
+      "skin_name": "Foxy Lady",
+      "splash_file": "Aurora-Foxy-Lady.png",
+      "tag_id": "epic",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-aquarius",
+      "portrait_file": "Aurora-Aquarius.png",
+      "script_file": "Aurora-Aquarius.zip",
+      "skin_name": "Aquarius",
+      "splash_file": "Aurora-Aquarius.png",
+      "tag_id": "zodiac",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-kula-diamond",
+      "portrait_file": "Aurora-Kula-Diamond.png",
+      "script_file": "Aurora-Kula-Diamond.zip",
+      "skin_name": "Kula Diamond",
+      "splash_file": "Aurora-Kula-Diamond.png",
+      "tag_id": "kof",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-veil-of-the-celestials",
+      "portrait_file": "Aurora-Veil-of-the-Celestials.png",
+      "script_file": "Aurora-Veil-of-the-Celestials.zip",
+      "skin_name": "Veil of the Celestials",
+      "splash_file": "Aurora-Veil-of-the-Celestials.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-badlands-scrapper",
+      "portrait_file": "Joy-Badlands-Scrapper.png",
+      "script_file": null,
+      "skin_name": "Badlands Scrapper",
+      "splash_file": "Aurora-Badlands-Scrapper.png",
+      "tag_id": "beta-unreleased",
+      "tier": "Deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-candle-s-vigil",
+      "portrait_file": "Aurora-Candle-s-Vigil.png",
+      "script_file": "Aurora-Candle-s-Vigil.zip",
+      "skin_name": "Candle's Vigil",
+      "splash_file": "Aurora-Candle-s-Vigil.png",
+      "tag_id": "epic",
+      "tier": "Deluxe"
+    }
+  ],
+  "hero": {
+    "id": 36,
+    "name": "Aurora",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "aurora"
+  },
+  "release_tag": "visual-aurora",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

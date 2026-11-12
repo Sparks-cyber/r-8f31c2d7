@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "silvanna-ino",
+      "portrait_file": "Silvanna - Ino.png",
+      "script_file": "Silvanna-Ino.zip",
+      "skin_name": "Ino",
+      "splash_file": "Silvanna - Ino.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 90,
+    "name": "Silvanna",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "silvanna"
+  },
+  "release_tag": "custom-silvanna",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

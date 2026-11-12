@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 89,
+    "slug": "wanwan",
+    "name": "Wanwan"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "wanwan-community-5335",
+      "name": "Community Build 5335",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "corrosionscythe",
+        "windtalker",
+        "demonhuntersword",
+        "haasclaws",
+        "berserkersfury",
+        "immortality"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "swift",
+        "bargainhunter",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "Counter tank",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5335,
+      "source_created_at": "2026-01-31T16:44:01.000Z",
+      "likes": 5,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "wanwan-community-6825",
+      "name": "Community Build 6825",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "corrosionscythe",
+        "windtalker",
+        "haasclaws",
+        "berserkersfury",
+        "rosegoldmeteor",
+        "demonhuntersword"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "swift",
+        "bargainhunter",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "DHS can be replaced with a defense item like immo if enemies have lots of burst, or even wind of nature.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6825,
+      "source_created_at": "2026-03-30T14:55:00.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "wanwan-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 71,
+    "slug": "kimmy",
+    "name": "Kimmy",
+    "skin_name": "Hoverjet Outrider",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Damage",
+      "Magic Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "2018",
+    "resource": "Energy",
+    "short_description": "Born into a military family, she earned recognition through her own merit as the bold yet laid-back \"tough girl\" of the Border Guard.",
+    "brief": "Born into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition. She is obsessed with technology and inventions In order to prove herself to her father, Kimmy picks up her invention and joined the Imperial Expeditionary Army.",
+    "story": "If you were to ask Kimmy about her most vivid childhood memory, she would tell you without hesitation - it was the weight of the medals adorning her father's military uniform. Born into a military family, the young girl secretly vowed to become an even greater soldier than her father.\r\n\r\nBut when she enthusiastically shared her dream with him, his usual gentle demeanor turned stern as he rejected her aspirations. Putting his calloused hand over her little head, he said, \"I want my daughter to have a peaceful, carefree life.\"\r\n\r\nThough her wings were confined within the cage her father built, Kimmy never abandoned her dreams of soaring. She read military books in secret, looked through her family's military records, and even after being sent to Eruditio for schooling, she never stopped dreaming.\r\n\r\nPerhaps Kimmy's most carefree and joyful days were spent in Eruditio. She cut her hair short and made many friends, and one in particular, Beatrix, became her closest companion. The two were drawn together by the fierce determination they shared. Kimmy helped Beatrix test various weapons - no matter how complex their design or intricate their controls, she always seemed to bring out their true potential.\r\n\r\n\"Why not just go for it? Enlist first and tell him later!\" Kimmy's heart raced at Beatrix's suggestion. As their fists bumped together, their rebellious alliance was officially sealed.\r\n\r\nKimmy packed up and left Eruditio to join the Moniyan Empire's Western Border Guard. The closer she got to the military outpost, the more desolate the surroundings became, but her heart had never felt more fulfilled. She stretched her hand upward, as though she could grasp the sky itself.\r\n\r\nKimmy's early days in the Border Guard were anything but easy. Her time spent in Eruditio and her young age led many of the hardened soldiers to dismiss her as a privileged girl who was just looking for some cheap thrills. She paid their gossip no mind, instead throwing herself into her training, using her pent-up ambition as fuel for her fire, and the results showed; she came first in the Imperial Joint Tactical Exercise and demonstrated extraordinary talent in both marksmanship and close- quarters combat. Her achievements finally silenced the rumors and naysayers. Many began to see Kimmy in a new light, and some were even inspired to train harder.\r\n\r\nIt was then that the Weapons Department invented a new weapon - a Starlium- powered jetpack and rifle. However, its complex operation was too much for most of the testers, yet Kimmy's talent and experience allowed her to master it almost immediately. The weapon found its full potential in her hands, shocking even the researchers. The flashes of the muzzle illuminated Kimmy's path forward - the Hoverjet Blaster became her weapon, and together they would shine in battle.\r\n\r\nKimmy paid no mind to others' cold stares, focusing solely on her own efforts. The fledging had shed her down and was ready to spread her wings and soar. Yet... thoughts of her father still filled her with doubt.\r\n\r\nSoon after, Kimmy was assigned to an elite squad, deploying her weapon into battle for the first time on an important rescue mission. The enemy, highly mobile and intimate with the terrain, had the upper hand. Though it was Kimmy's first real combat mission, she remained remarkably calm. She quickly identified the enemy's movement patterns, tracked them to a small outpost, and launched a successful first strike on her own.\r\n\r\nBefore the thrill of victory could fade, the full scope of the enemy's operations was revealed: they had kidnapped military researchers to force them to create new weapons. Worse still, they had already used stolen weapons to ambush the front- line troops, causing heavy casualties. With no time to call for backup, Kimmy disguised herself with the enemy's attire and infiltrated their stronghold, quickly locating the holding cells.\r\n\r\nBehind iron bars were over a dozen imprisoned allies. Kimmy acted decisively, blasting open the prison doors with her rifle. The sound alerted her comrades waiting to launch their attack outside. With their coordinated assault from both inside and out, chaos erupted in the enemy stronghold, leading to their quick defeat.\r\n\r\nAs Kimmy evacuated the prisoners, an older officer, slowed due to his injuries, caught her attention. Those familiar shoulders, that crew cut of gray hair - it was her father. The usually fearless Kimmy felt her confidence waver. She had never told her strict father about enlisting. As their eyes met, Kimmy braced for the worst. However, after a moment's pause, he simply gave her a formal military salute pretending not to recognize his masked daughter. His voice was no longer as deep as she remembered, and his injured stature seemed smaller than she remembered. He advised the \"new recruit\" to make something of herself in the military. Kimmy shouldered her weapon and nodded solemnly while trying to keep her voice from trembling.\r\n\r\nNew missions awaited on the horizon. Kimmy looked to the sky, knowing that her wings now carried her father's expectations. She was bound for even greater heights.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 8,
+    "control": 6,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2380,
+    "health_growth": 145,
+    "health_regen": 8.0,
+    "health_regen_growth": 0.2286,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 90,
+    "physical_attack_growth": 9.0,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.1429,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.0,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 245,
+    "attack_range": 5.3
+  },
+  "abilities": [
+    {
+      "id": "Kimmy0",
+      "name": "Aerial Dominance",
+      "description": "Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals <scaleAD> (+18% Total Physical Attack)</scaleAD> <scaleAP>(+24% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. Hitting enemy heroes/non-hero units restores 6/3 Starlium respectively. At max Starlium, Kimmy continuously consumes Starlium to enhance her Basic Attacks, making them deal <scaleAD> (+22.5% Total Physical Attack)</scaleAD> <scaleAP>(+30% Total Magic Power)</scaleAP> damage and pierce through targets (enhanced Basic Attacks only benefit from 50% of Lifesteal Ratio).<br/>Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.<br/>Kimmy's Basic Attacks only deal 60% damage to Turrets.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 24.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_eeb909d230d71d199bbd3122a738b76b.png",
+      "video_url": null
+    },
+    {
+      "id": "Kimmy1",
+      "name": "Anti-Grav Thruster",
+      "description": "Kimmy uses her jetpack to take flight, removing and becoming immune to Slow Effects. She can pass through terrain and gains 120% Movement Speed that decays over 1s. During the flight, she fires 4 Chemical Bolts at nearby enemies, each dealing 20/25/30/35/40/45<scaleAD> (+25% Total Physical Attack)</scaleAD> <scaleAP>(+30% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and slowing them by 50% for 0.5s.<br/>Kimmy does not consume Starlium during flight.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "14/13/12/11/10/9",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_493613c92ea4ee9483f41d659e8b5046.png",
+      "video_url": null
+    },
+    {
+      "id": "Kimmy2",
+      "name": "Starlium Beam",
+      "description": "Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals 300/360/420/480/540/600<scaleAD> (+50% Total Physical Attack)</scaleAD> <scaleAP>(+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> for 1s.<br/>Gain 20/24/28/32/36/40 Starlium for each enemy hero hit.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12/11.6/11.2/10.8/10.4/19",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_a12d486bc0fe88134bc844174b505943.png",
+      "video_url": null
+    },
+    {
+      "id": "Kimmy3",
+      "name": "Traction Pulse",
+      "description": "Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal 150/225/300<scaleAD> (+45% Total Physical Attack)</scaleAD> <scaleAP>(+54% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies and creates a force field that slows enemies within by 50%. <br/>After 1s, the field contracts, pulling all enemy heroes to its center and dealing 15/22.5/30% of their current HP as Magic Damage while slowing them by 50% for 2s. Gain 40 Starlium for each enemy hero hit.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "50/45/40",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_df6d2e3daa34ffeacc637e53f9765bb8.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Kimmy0",
+      "sequence": "Kimmy3-Kimmy2-AA-Kimmy1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Kimmy can initiate with her Ultimate to group up enemies, then follow up with her 2nd Skill to immobilize them, and finish with her enhanced Basic Attacks for lots of damage. If enemies try to counter by closing in on Kimmy, use her 1st Skill to retreat."
+    },
+    {
+      "id": "Kimmy1",
+      "sequence": "Kimmy1-Kimmy2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Build up Starlium before engaging. Use her 1st Skill to quickly close in on the opponent, then use her 2nd Skill to immobilize them before unleashing her enhanced Basic Attacks for great damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Kimmy excels at controlling and grouping enemies while dealing substantial damage, so she works well with heroes who have AOE CC like Badang and Ruby.",
+      "heroes": [
+        {
+          "id": 77,
+          "slug": "badang",
+          "name": "Badang"
+        },
+        {
+          "id": 29,
+          "slug": "ruby",
+          "name": "Ruby"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Kimmy's ability to Basic Attack while moving makes her effective against heroes who rely on skillshots like Granger and Cecilion.",
+      "heroes": [
+        {
+          "id": 79,
+          "slug": "granger",
+          "name": "Granger"
+        },
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "As a Marksman who cannot lock onto targets with Basic Attacks, Kimmy can be countered by heroes with high burst damage and mobility, such as Saber and Lancelot.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kimmy-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Kimmy-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8dd9819c63ae5b4068ba094c3e1a63c4.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/f2851daf34080fb5406f8d602b9fa489.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": null
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/kimmy.json",
+    "visual_catalog": "catalog/v1/visual/kimmy.json",
+    "upgrade_catalog": "catalog/v1/upgrade/kimmy.json"
+  }
+}

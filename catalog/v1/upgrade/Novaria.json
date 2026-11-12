@@ -1,0 +1,119 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Novaria",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Dark Star",
+      "Splash_url": "Novaria-Dark-Star.png",
+      "script": "Novaria-Dark-Star-Backup.zip",
+      "Portrait_url": "Novaria-Dark-Star.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Sugar Glaze",
+          "Portrait_url": "Novaria-Sugar-Glaze.png",
+          "Splash_url": "Novaria-Sugar-Glaze.png",
+          "script": "Novaria-Dark-Star-Sugar-Glaze.zip"
+        },
+        {
+          "name": "Dragonsworn",
+          "Portrait_url": "Novaria-Dragonsworn.png",
+          "Splash_url": "Novaria-Dragonsworn.png",
+          "script": "Novaria-Dark-Star-Dragonsworn.zip"
+        },
+        {
+          "name": "Aqua Glaze Painted 02",
+          "Portrait_url": "Novaria-Aqua-Glaze.png",
+          "Splash_url": "Novaria-Sugar-Glaze.png",
+          "script": "Novaria-Dark-Star-Aqua-Glaze-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Sugar Glaze",
+      "Splash_url": "Novaria-Sugar-Glaze.png",
+      "script": "Novaria-Sugar-Glaze-Backup.zip",
+      "Portrait_url": "Novaria-Sugar-Glaze.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Star",
+          "Portrait_url": "Novaria-Dark-Star.png",
+          "Splash_url": "Novaria-Dark-Star.png",
+          "script": "Novaria-Sugar-Glaze-Dark-Star.zip"
+        },
+        {
+          "name": "Dragonsworn",
+          "Portrait_url": "Novaria-Dragonsworn.png",
+          "Splash_url": "Novaria-Dragonsworn.png",
+          "script": "Novaria-Sugar-Glaze-Dragonsworn.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Dragonsworn",
+      "Splash_url": "Novaria-Dragonsworn.png",
+      "script": "Novaria-Dragonsworn-Backup.zip",
+      "Portrait_url": "Novaria-Dragonsworn.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Dark Star",
+          "Portrait_url": "Novaria-Dark-Star.png",
+          "Splash_url": "Novaria-Dark-Star.png",
+          "script": "Novaria-Dragonsworn-Dark-Star.zip"
+        },
+        {
+          "name": "Sugar Glaze",
+          "Portrait_url": "Novaria-Sugar-Glaze.png",
+          "Splash_url": "Novaria-Sugar-Glaze.png",
+          "script": "Novaria-Dragonsworn-Sugar-Glaze.zip"
+        },
+        {
+          "name": "Honey Glaze",
+          "Portrait_url": "Novaria-Honey-Glaze.png",
+          "Splash_url": "Novaria-Honey-Glaze.png",
+          "script": "Novaria-Dragonsworn-Honey-Glaze.zip"
+        },
+        {
+          "name": "Aqua Glaze Painted 02",
+          "Portrait_url": "Novaria-Aqua-Glaze.png",
+          "Splash_url": "Novaria-Sugar-Glaze.png",
+          "script": "Novaria-Dragonsworn-Aqua-Glaze-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Aqua Glaze Skin 04",
+      "Splash_url": "Novaria-Aqua-Glaze.png",
+      "script": "Novaria-Aqua-Glaze-Skin-04-Backup.zip",
+      "Portrait_url": "Novaria-Aqua-Glaze.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Honey Glaze",
+          "Portrait_url": "Novaria-Honey-Glaze.png",
+          "Splash_url": "Novaria-Honey-Glaze.png",
+          "script": "Novaria-Aqua-Glaze-Skin-04-Honey-Glaze.zip"
+        },
+        {
+          "name": "Aqua Glaze Painted 02",
+          "Portrait_url": "Novaria-Aqua-Glaze.png",
+          "Splash_url": "Novaria-Sugar-Glaze.png",
+          "script": "Novaria-Aqua-Glaze-Skin-04-Aqua-Glaze-Painted-02.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "clint-backup",
+      "portrait_file": "Clint-Default.png",
+      "script_file": "Clint-Backup.zip",
+      "skin_name": "West Justice",
+      "splash_file": "Clint-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "clint-summer-blast",
+      "portrait_file": "Clint-Summer-Blast.png",
+      "script_file": "Clint-Summer-Blast.zip",
+      "skin_name": "Summer Blast",
+      "splash_file": "Clint-Summer-Blast.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "clint-guns-and-roses",
+      "portrait_file": "Clint-Guns-and-Roses.png",
+      "script_file": "Clint-Guns-and-Roses.zip",
+      "skin_name": "Guns and Roses",
+      "splash_file": "Clint-Guns-and-Roses.png",
+      "tag_id": "valentine",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "clint-rock-and-roll",
+      "portrait_file": "Clint-Rock-and-Roll.png",
+      "script_file": "Clint-Rock-and-Roll.zip",
+      "skin_name": "Rock and Roll",
+      "splash_file": "Clint-Rock-and-Roll.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "clint-badminton-champion",
+      "portrait_file": "Clint-Badminton-Champion.png",
+      "script_file": "Clint-Badminton-Champion.zip",
+      "skin_name": "Badminton Champion",
+      "splash_file": "Clint-Badminton-Champion.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "clint-witch-hunter",
+      "portrait_file": "Clint-Witch-Hunter.png",
+      "script_file": "Clint-Witch-Hunter.zip",
+      "skin_name": "Witch Hunter",
+      "splash_file": "Clint-Witch-Hunter.png",
+      "tag_id": "s15",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "clint-shadow-omen",
+      "portrait_file": "Clint-Shadow-Omen.png",
+      "script_file": "Clint-Shadow-Omen.zip",
+      "skin_name": "Shadow Omen",
+      "splash_file": "Clint-Shadow-Omen.png",
+      "tag_id": "m2",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "clint-operator-cl",
+      "portrait_file": "Clint-Operator-CL.png",
+      "script_file": "Clint-Operator-CL.zip",
+      "skin_name": "Operator CL",
+      "splash_file": "Clint-Operator-CL.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "clint-crimson-blast",
+      "portrait_file": "Clint-Crimson-Blast.png",
+      "script_file": "Clint-Crimson-Blast.zip",
+      "skin_name": "Crimson Blast",
+      "splash_file": "Clint-Crimson-Blast.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "clint-captain-of-the-reefs",
+      "portrait_file": "Clint-Captain-of-the-Reefs.png",
+      "script_file": "Clint-Captain-of-the-Reefs.zip",
+      "skin_name": "Captain of the Reefs",
+      "splash_file": "Clint-Captain-of-the-Reefs.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "clint-dragon-s-maw",
+      "portrait_file": "Clint-Dragon-s-Maw.png",
+      "script_file": "Clint-Dragon-s-Maw.zip",
+      "skin_name": "Dragon's Maw",
+      "splash_file": "Clint-Dragon-s-Maw.png",
+      "tag_id": "mythic-2024",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "clint-vessel-of-ruin",
+      "portrait_file": "Clint-Vessel-of-Ruin.png",
+      "script_file": "Clint-Vessel-of-Ruin.zip",
+      "skin_name": "Vessel of Ruin",
+      "splash_file": "Clint-Vessel-of-Ruin.png",
+      "tag_id": "soul-vessels",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "clint-full-smash-painted-01",
+      "portrait_file": "Clint-Full-Smash.png",
+      "script_file": "Clint-Full-Smash.zip",
+      "skin_name": "Full Smash",
+      "splash_file": "Clint - Full Smash.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 13,
+    "name": "Clint",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "clint"
+  },
+  "release_tag": "visual-clint",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

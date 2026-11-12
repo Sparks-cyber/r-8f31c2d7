@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 72,
+    "slug": "thamuz",
+    "name": "Thamuz"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "thamuz-community-6190",
+      "name": "Community Build 6190",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "corrosionscythe",
+        "demonhuntersword",
+        "oracle",
+        "queenswings",
+        "chastisepauldron"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "thrill",
+        "seasonedhunter",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "Try this bulid is good for early and late game",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6190,
+      "source_created_at": "2026-03-03T03:17:05.000Z",
+      "likes": 18,
+      "dislikes": 9,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "thamuz-community-5488",
+      "name": "Community Build 5488",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "corrosionscythe",
+        "waraxe",
+        "oracle",
+        "chastisepauldron",
+        "queenswings"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "inspire",
+        "tenacity",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "Nama build: kekebalan tubuh \nJoin tim Fight enak nambah darah deras juga item cadangan/pengganti item yang diatas bisa Radiant \natau guardian helmet",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5488,
+      "source_created_at": "2026-02-05T14:51:34.000Z",
+      "likes": 5,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "thamuz-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

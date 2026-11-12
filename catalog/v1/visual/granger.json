@@ -1,0 +1,165 @@
+{
+  "catalog_version": "2026.11.07.visual-fix-v1",
+  "data": [
+    {
+      "enabled": true,
+      "id": "granger-backup",
+      "portrait_file": "Granger-Default.png",
+      "script_file": "Granger-Backup.zip",
+      "skin_name": "Death Chanter",
+      "splash_file": "Granger-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "granger-bardic-whisper",
+      "portrait_file": "Granger-Bardic-Whisper.png",
+      "script_file": "Granger-Bardic-Whisper.zip",
+      "skin_name": "Bardic Whisper",
+      "splash_file": "Granger-Bardic-Whisper.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "granger-doomsday-terminator",
+      "portrait_file": "Granger-Doomsday-Terminator.png",
+      "script_file": "Granger-Doomsday-Terminator.zip",
+      "skin_name": "Doomsday Terminator",
+      "splash_file": "Granger-Doomsday-Terminator.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "granger-biosoldier",
+      "portrait_file": "Granger-Biosoldier.png",
+      "script_file": "Granger-Biosoldier.zip",
+      "skin_name": "Biosoldier",
+      "splash_file": "Granger-Biosoldier.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "granger-lightborn-overrider",
+      "portrait_file": "Granger-Lightborn-Overrider.png",
+      "script_file": "Granger-Lightborn-Overrider.zip",
+      "skin_name": "Lightborn - Overrider",
+      "splash_file": "Granger-Lightborn-Overrider.png",
+      "tag_id": "lightborn",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "granger-agent-z",
+      "portrait_file": "Granger-Agent-Z.png",
+      "script_file": "Granger-Agent-Z.zip",
+      "skin_name": "Agent Z",
+      "splash_file": "Granger-Agent-Z.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "granger-starfall-knight",
+      "portrait_file": "Granger-Starfall-Knight.png",
+      "script_file": "Granger-Starfall-Knight.zip",
+      "skin_name": "Starfall Knight",
+      "splash_file": "Granger-Starfall-Knight.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "granger-megatron",
+      "portrait_file": "Granger-Megatron.png",
+      "script_file": "Granger-Megatron.zip",
+      "skin_name": "Megatron",
+      "splash_file": "Granger-Megatron.png",
+      "tag_id": "transformers",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "granger-hellbringer",
+      "portrait_file": "Granger-Hellbringer.png",
+      "script_file": "Granger-Hellbringer.zip",
+      "skin_name": "Hellbringer",
+      "splash_file": "Granger-Hellbringer.png",
+      "tag_id": "create",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "granger-exorcist-granger",
+      "portrait_file": "Granger-Exorcist.png",
+      "script_file": "Granger-Exorcist-Granger.zip",
+      "skin_name": "Exorcist Granger",
+      "splash_file": "Granger-Exorcist-Granger.png",
+      "tag_id": "exorcists",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "granger-alluring-enigma",
+      "portrait_file": "Granger-Alluring-Enigma.png",
+      "script_file": "Granger-Alluring-Enigma.zip",
+      "skin_name": "Alluring Enigma",
+      "splash_file": "Granger-Alluring-Enigma.png",
+      "tag_id": "valentine",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "granger-thunder-ascendant",
+      "portrait_file": "Granger-Thunder-Ascendant.png",
+      "script_file": "Granger-Thunder-Ascendant.zip",
+      "skin_name": "Thunder Ascendant",
+      "splash_file": "Granger-Thunder-Ascendant.png",
+      "tag_id": "m7",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "granger-cosmic-finality",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      },
+      "portrait_file": "Granger-Cosmic-Finality.png",
+      "script_file": "Granger-Cosmic-Finality.zip",
+      "skin_name": "Cosmic Finality",
+      "splash_file": "Granger-Cosmic-Finality.png",
+      "tag_id": "prime",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "granger-doomsday-punisher-painted-01",
+      "portrait_file": "Granger-Doomsday-Punisher.png",
+      "script_file": "Granger-Doomsday-Punisher.zip",
+      "skin_name": "Doomsday Punisher",
+      "splash_file": "Granger-Doomsday-Punisher.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 79,
+    "name": "Granger",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "granger"
+  },
+  "release_tag": "visual-granger",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

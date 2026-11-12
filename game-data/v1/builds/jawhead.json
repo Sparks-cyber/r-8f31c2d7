@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 54,
+    "slug": "jawhead",
+    "name": "Jawhead"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "jawhead-community-5819",
+      "name": "Community Build 5819",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "bladeoftheheptaseas",
+        "warriorboots",
+        "skypiercer",
+        "maleficroar",
+        "hunterstrike",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "petrify",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "wildernessblessing",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Burst",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5819,
+      "source_created_at": "2026-02-18T15:24:45.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "jawhead-community-6933",
+      "name": "Community Build 6933",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "hunterstrike",
+        "toughboots",
+        "waraxe",
+        "bladeofdespair",
+        "bruteforcebreastplate",
+        "oracle"
+      ],
+      "battle_spell_id": "petrify",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "concussiveblast",
+        "festivalofblood",
+        "agility"
+      ],
+      "situational_items": [],
+      "notes": "Exp cooldown vamp and cool dmg",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6933,
+      "source_created_at": "2026-04-08T12:33:58.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "jawhead-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane/Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

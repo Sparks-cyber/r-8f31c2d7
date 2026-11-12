@@ -1,0 +1,526 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.08.08.3",
+  "updated_at": "2026-08-08T00:00:00Z",
+  "category": {
+    "id": "elimination",
+    "title": "Elimination",
+    "kind": "elimination"
+  },
+  "data": [
+    {
+      "id": "classic",
+      "name": "Classic",
+      "description": "Use Classic as the base elimination and choose from 71 replacement effects.",
+      "image": "/Effects/Elimination/Classic.png",
+      "uses_default_sound": true,
+      "targets": [
+        {
+          "id": "40mall-elimination-effect",
+          "name": "40mall Elimination Effect",
+          "description": "Replace Classic elimination with 40mall Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/40mall%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/40mall%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "515-knockout",
+          "name": "515! Knockout!",
+          "description": "Replace Classic elimination with 515! Knockout! using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/515!%20Knockout!.png",
+          "script": "/Effects/Elimination/515!%20Knockout!.zip"
+        },
+        {
+          "id": "all-star-elimination-effect",
+          "name": "All-Star Elimination Effect",
+          "description": "Replace Classic elimination with All-Star Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/All-Star%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/All-Star%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "allstar-2025-elimination-effect",
+          "name": "ALLSTAR 2025 Elimination Effect",
+          "description": "Replace Classic elimination with ALLSTAR 2025 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/ALLSTAR%202025%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/ALLSTAR%202025%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "anniversary-2024-elimination-effect",
+          "name": "Anniversary 2024 Elimination Effect",
+          "description": "Replace Classic elimination with Anniversary 2024 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Anniversary%202024%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Anniversary%202024%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "anniversary-2025-elimination-effect",
+          "name": "Anniversary 2025 Elimination Effect",
+          "description": "Replace Classic elimination with Anniversary 2025 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Anniversary%202025%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Anniversary%202025%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "as2024-s-new-elimination-effect",
+          "name": "AS2024 S new Elimination Effect",
+          "description": "Replace Classic elimination with AS2024 S new Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/AS2024%20S%20new%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/AS2024%20S%20new%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "cangpin-01-elimination-effect",
+          "name": "cangpin 01 Elimination Effect",
+          "description": "Replace Classic elimination with cangpin 01 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/cangpin%2001%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/cangpin%2001%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "champion-s-domination",
+          "name": "Champion's Domination",
+          "description": "Replace Classic elimination with Champion's Domination using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Champion's%20Domination.png",
+          "script": "/Effects/Elimination/Champion's%20Domination.zip"
+        },
+        {
+          "id": "darkest-takedown",
+          "name": "Darkest Takedown",
+          "description": "Replace Classic elimination with Darkest Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Darkest%20Takedown.png",
+          "script": "/Effects/Elimination/Darkest%20Takedown.zip"
+        },
+        {
+          "id": "dragon-warrior-strikes",
+          "name": "Dragon Warrior Strikes",
+          "description": "Replace Classic elimination with Dragon Warrior Strikes using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Dragon%20Warrior%20Strikes.png",
+          "script": "/Effects/Elimination/Dragon%20Warrior%20Strikes.zip"
+        },
+        {
+          "id": "echo-champion-elimination-effect",
+          "name": "ECHO Champion Elimination Effect",
+          "description": "Replace Classic elimination with ECHO Champion Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/ECHO%20Champion%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/ECHO%20Champion%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "elimination-of-the-storm",
+          "name": "Elimination of the Storm",
+          "description": "Replace Classic elimination with Elimination of the Storm using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Elimination%20of%20the%20Storm.png",
+          "script": "/Effects/Elimination/Elimination%20of%20the%20Storm.zip"
+        },
+        {
+          "id": "enticing-takedown",
+          "name": "Enticing Takedown",
+          "description": "Replace Classic elimination with Enticing Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Enticing%20Takedown.png",
+          "script": "/Effects/Elimination/Enticing%20Takedown.zip"
+        },
+        {
+          "id": "erciyuan-2-elimination-effect",
+          "name": "erciyuan 2 Elimination Effect",
+          "description": "Replace Classic elimination with erciyuan 2 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/erciyuan%202%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/erciyuan%202%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "erciyuan-3-elimination-effect",
+          "name": "erciyuan 3 Elimination Effect",
+          "description": "Replace Classic elimination with erciyuan 3 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/erciyuan%203%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/erciyuan%203%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "foreboding-takedown",
+          "name": "Foreboding Takedown",
+          "description": "Replace Classic elimination with Foreboding Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Foreboding%20Takedown.png",
+          "script": "/Effects/Elimination/Foreboding%20Takedown.zip"
+        },
+        {
+          "id": "gas-elimination-effect",
+          "name": "Gas Elimination Effect",
+          "description": "Replace Classic elimination with Gas Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Gas%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Gas%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "joyous-party",
+          "name": "Joyous Party",
+          "description": "Replace Classic elimination with Joyous Party using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Joyous%20Party.png",
+          "script": "/Effects/Elimination/Joyous%20Party.zip"
+        },
+        {
+          "id": "jujutsu-kaisen-elimination-effect",
+          "name": "Jujutsu Kaisen Elimination Effect",
+          "description": "Replace Classic elimination with Jujutsu Kaisen Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Jujutsu%20Kaisen%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Jujutsu%20Kaisen%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "k-o",
+          "name": "K.O",
+          "description": "Replace Classic elimination with K.O using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/K.O.png",
+          "script": "/Effects/Elimination/K.O.zip"
+        },
+        {
+          "id": "knockout-uh-next-time",
+          "name": "Knockout - Uh, Next Time",
+          "description": "Replace Classic elimination with Knockout - Uh, Next Time using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Knockout%20-%20Uh%2C%20Next%20Time.png",
+          "script": "/Effects/Elimination/Knockout%20-%20Uh%2C%20Next%20Time.zip"
+        },
+        {
+          "id": "knockout",
+          "name": "Knockout",
+          "description": "Replace Classic elimination with Knockout using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Knockout.png",
+          "script": "/Effects/Elimination/Knockout.zip"
+        },
+        {
+          "id": "leomord-elimination-effect",
+          "name": "Leomord Elimination Effect",
+          "description": "Replace Classic elimination with Leomord Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Leomord%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Leomord%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "m1-champion-elimination-effect",
+          "name": "M1 Champion Elimination Effect",
+          "description": "Replace Classic elimination with M1 Champion Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M1%20Champion%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/M1%20Champion%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "m2-champion-elimination-effect",
+          "name": "M2 Champion Elimination Effect",
+          "description": "Replace Classic elimination with M2 Champion Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M2%20Champion%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/M2%20Champion%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "m3-champion-elimination-effect",
+          "name": "M3 Champion Elimination Effect",
+          "description": "Replace Classic elimination with M3 Champion Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M3%20Champion%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/M3%20Champion%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "m3-glorious-takedown",
+          "name": "M3 Glorious Takedown",
+          "description": "Replace Classic elimination with M3 Glorious Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M3%20Glorious%20Takedown.png",
+          "script": "/Effects/Elimination/M3%20Glorious%20Takedown.zip"
+        },
+        {
+          "id": "m4-glorious-takedown",
+          "name": "M4 Glorious Takedown",
+          "description": "Replace Classic elimination with M4 Glorious Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M4%20Glorious%20Takedown.png",
+          "script": "/Effects/Elimination/M4%20Glorious%20Takedown.zip"
+        },
+        {
+          "id": "m5-champion-takedown",
+          "name": "M5 Champion Takedown",
+          "description": "Replace Classic elimination with M5 Champion Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M5%20Champion%20Takedown.png",
+          "script": "/Effects/Elimination/M5%20Champion%20Takedown.zip"
+        },
+        {
+          "id": "m5-glorious-takedown",
+          "name": "M5 Glorious Takedown",
+          "description": "Replace Classic elimination with M5 Glorious Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M5%20Glorious%20Takedown.png",
+          "script": "/Effects/Elimination/M5%20Glorious%20Takedown.zip"
+        },
+        {
+          "id": "m6-fnop-champion-takedown",
+          "name": "M6 FNOP Champion Takedown",
+          "description": "Replace Classic elimination with M6 FNOP Champion Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M6%20FNOP%20Champion%20Takedown.png",
+          "script": "/Effects/Elimination/M6%20FNOP%20Champion%20Takedown.zip"
+        },
+        {
+          "id": "m6-glorious-takedown",
+          "name": "M6 Glorious Takedown",
+          "description": "Replace Classic elimination with M6 Glorious Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M6%20Glorious%20Takedown.png",
+          "script": "/Effects/Elimination/M6%20Glorious%20Takedown.zip"
+        },
+        {
+          "id": "m7-glorious-takedown",
+          "name": "M7 Glorious Takedown",
+          "description": "Replace Classic elimination with M7 Glorious Takedown using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/M7%20Glorious%20Takedown.png",
+          "script": "/Effects/Elimination/M7%20Glorious%20Takedown.zip"
+        },
+        {
+          "id": "mcllow-elimination-effect",
+          "name": "MCLLOW Elimination Effect",
+          "description": "Replace Classic elimination with MCLLOW Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/MCLLOW%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/MCLLOW%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "mlbb-x-saint-seiya-elimination-effect",
+          "name": "MLBB x Saint Seiya Elimination Effect",
+          "description": "Replace Classic elimination with MLBB x Saint Seiya Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/MLBB%20x%20Saint%20Seiya%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/MLBB%20x%20Saint%20Seiya%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "mlbb-x-star-wars-elimination-effect",
+          "name": "MLBB x Star Wars Elimination Effect",
+          "description": "Replace Classic elimination with MLBB x Star Wars Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/MLBB%20x%20Star%20Wars%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/MLBB%20x%20Star%20Wars%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "oppo-2025-elimination-effect",
+          "name": "OPPO 2025 Elimination Effect",
+          "description": "Replace Classic elimination with OPPO 2025 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/OPPO%202025%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/OPPO%202025%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "oro-elimination-effect",
+          "name": "ORO Elimination Effect",
+          "description": "Replace Classic elimination with ORO Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/ORO%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/ORO%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "pixiv4-elimination-effect",
+          "name": "PIXIV4 Elimination Effect",
+          "description": "Replace Classic elimination with PIXIV4 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/PIXIV4%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/PIXIV4%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "pro-i-elimination-effect",
+          "name": "Pro I Elimination Effect",
+          "description": "Replace Classic elimination with Pro I Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Pro%20I%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Pro%20I%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "pro-j-elimination-effect",
+          "name": "Pro J Elimination Effect",
+          "description": "Replace Classic elimination with Pro J Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Pro%20J%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Pro%20J%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "pro-s-elimination-effect",
+          "name": "pro s Elimination Effect",
+          "description": "Replace Classic elimination with pro s Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/pro%20s%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/pro%20s%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "pro-z-elimination-effect",
+          "name": "Pro Z Elimination Effect",
+          "description": "Replace Classic elimination with Pro Z Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Pro%20Z%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Pro%20Z%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "proq-new-elimination-effect",
+          "name": "PROQ new Elimination Effect",
+          "description": "Replace Classic elimination with PROQ new Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/PROQ%20new%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/PROQ%20new%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "proq02-elimination-effect",
+          "name": "proq02 Elimination Effect",
+          "description": "Replace Classic elimination with proq02 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/proq02%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/proq02%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "pros02-elimination-effect",
+          "name": "Pros02 Elimination Effect",
+          "description": "Replace Classic elimination with Pros02 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Pros02%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Pros02%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "qms3-elimination-effect",
+          "name": "QMS3 Elimination Effect",
+          "description": "Replace Classic elimination with QMS3 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/QMS3%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/QMS3%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "qumoshi-2-new-elimination-effect",
+          "name": "qumoshi 2 new Elimination Effect",
+          "description": "Replace Classic elimination with qumoshi 2 new Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/qumoshi%202%20new%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/qumoshi%202%20new%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "r-i-p",
+          "name": "R.I.P",
+          "description": "Replace Classic elimination with R.I.P using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/R.I.P.png",
+          "script": "/Effects/Elimination/R.I.P.zip"
+        },
+        {
+          "id": "ramadan-2026-elimination-effect",
+          "name": "Ramadan 2026 Elimination Effect",
+          "description": "Replace Classic elimination with Ramadan 2026 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Ramadan%202026%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/Ramadan%202026%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "roaming-ghost",
+          "name": "Roaming Ghost",
+          "description": "Replace Classic elimination with Roaming Ghost using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Roaming%20Ghost.png",
+          "script": "/Effects/Elimination/Roaming%20Ghost.zip"
+        },
+        {
+          "id": "sam-elimination-effect",
+          "name": "SAM Elimination Effect",
+          "description": "Replace Classic elimination with SAM Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/SAM%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/SAM%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "sbgj-elimination-effect",
+          "name": "SBGJ Elimination Effect",
+          "description": "Replace Classic elimination with SBGJ Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/SBGJ%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/SBGJ%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "selena-new-elimination-effect",
+          "name": "selena new Elimination Effect",
+          "description": "Replace Classic elimination with selena new Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/selena%20new%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/selena%20new%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "sf-elimination-effect",
+          "name": "SF Elimination Effect",
+          "description": "Replace Classic elimination with SF Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/SF%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/SF%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "shuqi-elimination-effect",
+          "name": "shuqi Elimination Effect",
+          "description": "Replace Classic elimination with shuqi Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/shuqi%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/shuqi%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "spd-elimination-effect",
+          "name": "SPD Elimination Effect",
+          "description": "Replace Classic elimination with SPD Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/SPD%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/SPD%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "star",
+          "name": "STAR",
+          "description": "Replace Classic elimination with STAR using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/STAR.png",
+          "script": "/Effects/Elimination/STAR.zip"
+        },
+        {
+          "id": "starlight",
+          "name": "Starlight",
+          "description": "Replace Classic elimination with Starlight using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Starlight.png",
+          "script": "/Effects/Elimination/Starlight.zip"
+        },
+        {
+          "id": "strike-of-hope",
+          "name": "Strike of Hope",
+          "description": "Replace Classic elimination with Strike of Hope using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Strike%20of%20Hope.png",
+          "script": "/Effects/Elimination/Strike%20of%20Hope.zip"
+        },
+        {
+          "id": "super-kill",
+          "name": "Super Kill",
+          "description": "Replace Classic elimination with Super Kill using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Super%20Kill.png",
+          "script": "/Effects/Elimination/Super%20Kill.zip"
+        },
+        {
+          "id": "the-elimination-of-the-exorcists",
+          "name": "The Elimination of the Exorcists",
+          "description": "Replace Classic elimination with The Elimination of the Exorcists using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/The%20Elimination%20of%20the%20Exorcists.png",
+          "script": "/Effects/Elimination/The%20Elimination%20of%20the%20Exorcists.zip"
+        },
+        {
+          "id": "the-elimination-of-the-sword",
+          "name": "The Elimination of the Sword",
+          "description": "Replace Classic elimination with The Elimination of the Sword using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/The%20Elimination%20of%20the%20Sword.png",
+          "script": "/Effects/Elimination/The%20Elimination%20of%20the%20Sword.zip"
+        },
+        {
+          "id": "time-to-celebrate",
+          "name": "Time to Celebrate",
+          "description": "Replace Classic elimination with Time to Celebrate using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/Time%20to%20Celebrate.png",
+          "script": "/Effects/Elimination/Time%20to%20Celebrate.zip"
+        },
+        {
+          "id": "wof-elimination-effect",
+          "name": "WOF Elimination Effect",
+          "description": "Replace Classic elimination with WOF Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/WOF%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/WOF%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "xiariji-elimination-effect",
+          "name": "xiariji Elimination Effect",
+          "description": "Replace Classic elimination with xiariji Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/xiariji%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/xiariji%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "xingguang-2-elimination-effect",
+          "name": "xingguang 2 Elimination Effect",
+          "description": "Replace Classic elimination with xingguang 2 Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/xingguang%202%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/xingguang%202%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "yks-elimination-effect",
+          "name": "YKS Elimination Effect",
+          "description": "Replace Classic elimination with YKS Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/YKS%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/YKS%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "zhaiyue2024high-elimination-effect",
+          "name": "zhaiyue2024high Elimination Effect",
+          "description": "Replace Classic elimination with zhaiyue2024high Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/zhaiyue2024high%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/zhaiyue2024high%20Elimination%20Effect.zip"
+        },
+        {
+          "id": "zhou-superhero-elimination-effect",
+          "name": "zhou superhero Elimination Effect",
+          "description": "Replace Classic elimination with zhou superhero Elimination Effect using its matching takedown effect and battle icon.",
+          "image": "/Effects/Elimination/zhou%20superhero%20Elimination%20Effect.png",
+          "script": "/Effects/Elimination/zhou%20superhero%20Elimination%20Effect.zip"
+        }
+      ],
+      "backup": {
+        "name": "Backup",
+        "description": "Restore the original Classic elimination effect and battle icon.",
+        "script": "/Effects/Elimination/Backup.zip",
+        "cleanup_paths": [
+          "Art/android/r/renwu_dead.unity3d"
+        ]
+      }
+    }
+  ]
+}

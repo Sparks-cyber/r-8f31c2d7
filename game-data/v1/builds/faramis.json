@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 76,
+    "slug": "faramis",
+    "name": "Faramis"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "faramis-community-5339",
+      "name": "Community Build 5339",
+      "lane": "Mid Lane, Roam",
+      "equipment_ids": [
+        "lightningtruncheon",
+        "flaskoftheoasis",
+        "fleetingtime",
+        "dominanceice",
+        "divineglaive",
+        "bloodwings"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "inspire",
+        "festivalofblood",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "An immortal, damaging Faramis",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5339,
+      "source_created_at": "2026-01-31T17:03:24.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "faramis-community-5337",
+      "name": "Community Build 5337",
+      "lane": "Mid Lane, Roam",
+      "equipment_ids": [
+        "arcaneboots",
+        "lightningtruncheon",
+        "divineglaive",
+        "wishinglantern",
+        "glowingwand",
+        "bloodwings"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "bargainhunter",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "Faramis build that imposes instant penalty",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5337,
+      "source_created_at": "2026-01-31T16:57:22.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "faramis-companion-baseline",
+      "name": "Companion Support/Mage Baseline",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "luo-yi-lady-dragon",
+      "portrait_file": "Luo Yi - Lady Dragon.png",
+      "script_file": "Luo-Yi-Lady-Dragon.zip",
+      "skin_name": "Lady Dragon",
+      "splash_file": "Luo Yi - Lady Dragon.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "luo-yi-legend",
+      "portrait_file": "Luo Yi - Legend.png",
+      "script_file": "Luo-Yi-Legend.zip",
+      "skin_name": "Legend",
+      "splash_file": "Luo Yi - Legend.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 96,
+    "name": "Luo Yi",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "luo-yi"
+  },
+  "release_tag": "custom-luo-yi",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

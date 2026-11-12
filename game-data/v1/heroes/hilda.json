@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 35,
+    "slug": "hilda",
+    "name": "Hilda",
+    "skin_name": "Power of Megalith",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming",
+      "EXP Lane"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Physical",
+    "specialties": [
+      "Damage",
+      "Regen"
+    ],
+    "region": "Northern Vale",
+    "release_date": "2017",
+    "resource": null,
+    "short_description": "Inheritor of the Power of the Megalith.",
+    "brief": "Nestled between the tundras of the Northern Vale and the Moniyan Plain lies a unique land with a massive and ancient stone formation for which it is named the Megalith Wasteland. The Megalith Wasteland must be passed if one is to reach Northern Vale. It was also, Hilda's homeland.",
+    "story": "Where the Northern Vale icefield meets the Moniyan plains, there is a unique area called the Megalith Wasteland, named after a magic circle of megaliths leftover from ancient times. One has to pass through it to enter the Northern Vale – Hilda's hometown.\r\n\r\nIn the Northern Vale, where resources are scarce, struggles between tribes are ever-present, just like the ice and snow there that never melts no matter the time of year. The more powerful a tribe is, the more extensive and agreeable the hunting grounds it is able to possess. This is especially important for the Garland tribe of t Megalith Wasteland. The dangerous geographical location and the barren nature of the Megalith Wasteland make it extremely difficult to survive there, but under the protection of the megalith power, the tribe tenacious survives there year after year.\r\n\r\nThe ancient magic circle of megaliths has stood for many epochs, its creators hoping that the magic circle would trap the Iceland Golems in the north of the mainland and prevent them from coming south. With the demise of the Iceland Golems, the magic circle lost its original function, leaving only the ancient ruins inside to circulate the megalith power that had been passed down for so many years.\r\n\r\nLegend has it that only the purest of the Garland tribe could lift the stone plate in the magic circle and receive the inheritance of the power. Therefore, each time the successor of the tribe reached 20 years old, she coulo become the new megalith power and enter the magic circle, where she would inherit this powerful force and lead the tribe in resisting foreign enemies.\r\n\r\nEver since her childhood, Hilda had had high hopes because her mother, the last megalith power, died in a battle defending the tribe 10 years prior. The Garland tribe, having lost the protection of the megalith power, soon entered into crisis and fell victim to plundering and bullying. Therefore, the people pinned their hopes on Hilda growing up healthy and strong and having the means to take on the crucial task of protecting the tribe as soon as possible.\r\n\r\nHilda lived up to these expectations. From a young age, she showed amazing fighting talent and strength far beyond that of her peers, and over the years, she became the strongest warrior in the tribe.\r\n\r\nHilda's 20th birthday finally arrived, and the long-suffering Garland tribe held a grand ceremony for her. The megalith power they had yearned for day and night was about to be born and could lead the tribe to revival.\r\n\r\nBut then, right in the hopeful view of the rest of the tribe, despite exerting all her might, Hilda was unable to lift the stone plate. In the astonishment that followed, a tribe elder revealed the truth: Hilda was not the biological daughter of the previous megalith power, but an abandoned baby that her mother had picked up from the wilderness and adopted as her own.\r\n\r\nThe tribespeople were completely deprived of hope at this moment, and the belief that had supported them for so many years completely evaporated in an instant. This huge disappointment turned into anger and prejudice. They excluded Hilda and constantly verbally abused her, preventing her from gaining a foothold in the group.\r\n\r\nIn her disappointment, Hilda remembered what her mother had told her at the end: \"The so-called megalith power is not just an inherited power, but the need to truly understand its meaning. Each generation of megalith powers has their own unique meaning. For a mother, the megalith power is a heart that is as tenacious and indestructible as a rock.\"\r\n\r\nSoon after, Hilda, who had suffered a tremendous setback, left the megalith wasteland where she had lived for many years and began a time of ceaseless wandering. In the few years that followed, she became a with no fixed abode, and her footsteps could be seen from The Northern Vale to The Moniyan Empire, and eventually over the entire Land of Dawn.\r\n\r\nDuring this time, Hilda's mother's words stayed with her, so no matter what difficulties she encountered, she never backed down. Danger and hardship increased Hilda's power and forged her into a hardened warrior.\r\n\r\nAnd even though she had left the megalith wasteland, a connection to that place always remained in Hilda's heart. A few years later, Hilda rescued an abused slave, and recognized her as one of the former Garland tribe members. She told Hilda about what had happened to the tribe: After Hilda left, the Garland tribe chose a new megalith power who had a blood connection to the leader. But this new megalith power was not a qualified leader. Naïve decisions and dangerous operations weakened the tribe day after day, eventually resulting in them being completely conquered and enslaved by other tribes.\r\n\r\nDespite once being called into question, Hilda did not hesitate to return to the megalith wasteland after learning this. Hilda wielded her fists at the ferocious enemies and without hesitation, defeated the other tribes to liberate the Garland tribespeople, leading them on to the reconstruction of their homeland. The tribespeople finally understood that whether or not someone can become a true leader is not about bloodline. Now enlightened, they accepted Hilda and hoped that she could stay on and continue the inheritance of the glory of the megalith power.\r\n\r\nBut this time, Hilda declined their invitation, instead opting to set off on the road to a foreign land once more as the words of her mother still lingered in her mind: the megalith powers of each generation all have their own unique meanings. That tenacious heart was given to her by her mother, and while she may not yet have found a meaning of her own.\r\n\r\nShe will eventually.\r\n",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 9,
+    "offense": 4,
+    "control": 4,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2600,
+    "health_growth": 240,
+    "health_regen": 8.4,
+    "health_regen_growth": 0.6286,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 123,
+    "physical_attack_growth": 6.79,
+    "magic_power": 0,
+    "physical_defense": 24,
+    "physical_defense_growth": 7.1429,
+    "magic_defense": 15,
+    "magic_defense_growth": 4.0,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Hilda0",
+      "name": "Blessing of Wilderness",
+      "description": "Hilda recovers 2% HP per second while in the bush. Entering a bush enhances her next Basic Attack, which deals 110<scaleAD> (+130% Total Physical Attack)</scaleAD><trueDamage>(+12*Hero Level)</trueDamage> <physicalDamage>Physical Damage</physicalDamage> to the target, reduces the target's Movement Speed by 40%, and deals 40<scaleAD> (+100% Total Physical Attack)</scaleAD><trueDamage>(+10*Hero Level)</trueDamage> <physicalDamage>Physical Damage</physicalDamage> to enemies behind the target. After using the enhanced Basic Attack, this effect enters a 6s cooldown.<br/><br/>Hilda's Basic Attack and skills apply a <highlight>Wilderness Mark</highlight> on hit, which lasts up to 4s and stacks up to 6 times. Each stack reduces the enemy hero's Physical Defense and Magic Defense by 3%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2ffa9fe6df7c70e85144e9250f0f5bf.png",
+      "video_url": null
+    },
+    {
+      "id": "Hilda1",
+      "name": "Combat Ritual",
+      "description": "Hilda gains 60% Movement Speed for 3s and receives a shield that absorbs damage equal to 10/14/18/22/24/30% Max HP, lasting 3s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "10/9.5/9/8.5/8/7.5",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_34b0dddc37a0bd20d686616d9b7b984e.png",
+      "video_url": null
+    },
+    {
+      "id": "Hilda2",
+      "name": "Art of Hunting",
+      "description": "Hilda locks onto an enemy target, dealing 200/240/280/320/360/400<scaleAD> (+90% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> per hit. This skill can be cast up to 3 times. The 2nd attack deals extra damage to nearby enemies. The 3rd attack deals damage to the target and nearby enemies, knocking them back briefly.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "7/6.7/6.4/6.1/5.8/5.5",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f407178c40dbabccf8d787b2e0e30cc.png",
+      "video_url": null
+    },
+    {
+      "id": "Hilda3",
+      "name": "Power of Wildness",
+      "description": "Hilda launches a powerful slash at the target enemy, dealing 600/800/1000<scaleAD> (+250% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and stunning them for 0.2s. Nearby enemies take 60% of the damage.<br/><br/>Each stack of <highlight>Wilderness Mark</highlight> increases <highlight>Power of Wildness</highlight>'s damage by 2.5/3.5/4.5% of the target's Max HP. At max stacks, the extra damage increases to 20/28/36% of the target's Max HP.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "32/28/24",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_323f1e87195d3a50d0c307f239241b61.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Hilda0",
+      "sequence": "Hilda3-Hilda2-Hilda1-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Hilda should use her Ultimate to dive the back-row heroes, then use her 2nd Skill to deal damage and chase the enemy down with her 1st Skill."
+    },
+    {
+      "id": "Hilda1",
+      "sequence": "Hilda1-AA-Hilda2-Hilda3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Hilda can use her 1st Skill to close in on a target enemy, and slow them with her Enhanced Basic Attack. She can then follow up with her 2nd Skill to chip away at her target and finish with her Ultimate."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Hilda works well with tanky heroes, which can create room for her to dish out more damage. Such as Atlas and Tigreal.",
+      "heroes": [
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        },
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Hilda excels in prolonged battles. She works well against heroes with lower burst damage. Such as Zilong and Layla.",
+      "heroes": [
+        {
+          "id": 16,
+          "slug": "zilong",
+          "name": "Zilong"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Hilda is countered by heroes with high sustain. Such as Thamuz and Uranus. This is because they can utilize their healing abilities to prevent being executed.",
+      "heroes": [
+        {
+          "id": 72,
+          "slug": "thamuz",
+          "name": "Thamuz"
+        },
+        {
+          "id": 59,
+          "slug": "uranus",
+          "name": "Uranus"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hilda-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hilda-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_35f2e88037398136c01b314deb573eb0.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_35f2e88037398136c01b314deb573eb0.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/hilda.json",
+    "visual_catalog": "catalog/v1/visual/hilda.json",
+    "upgrade_catalog": "catalog/v1/upgrade/hilda.json"
+  }
+}

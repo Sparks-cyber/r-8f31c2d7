@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 55,
+    "slug": "angela",
+    "name": "Angela"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "angela-community-6229",
+      "name": "Community Build 6229",
+      "lane": "Roam",
+      "equipment_ids": [
+        "arcaneboots",
+        "flaskoftheoasis",
+        "enchantedtalisman",
+        "fleetingtime",
+        "holycrystal",
+        "divineglaive"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [
+        "thrill",
+        "focusingmark"
+      ],
+      "situational_items": [],
+      "notes": "build angela coldown 0 detik\ndengan syarat kill/asist (3 biji), dan tidak turun selama durasi menempel pada teman satu tim durasinya habis\ntotal coldown 45% max + pasif item fleting time, memiliki heal yang deras dengan tingginya magic power, memiliki kemampuan menembus armor musuh sehingga hero tebal seperti (fredrin) lebih mudah untuk di lawan, cocok di ckmbo dengan uranus dengan \n wr 90% dan alice 75%",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6229,
+      "source_created_at": "2026-03-04T09:01:40.000Z",
+      "likes": 8,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "angela-community-6999",
+      "name": "Community Build 6999",
+      "lane": "Roam",
+      "equipment_ids": [
+        "demonboots",
+        "glowingwand",
+        "flaskoftheoasis",
+        "icequeenwand",
+        "holycrystal",
+        "fleetingtime"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "support",
+      "talent_ids": [
+        "inspire",
+        "pullyourselftogether",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "Build ngawur sih ini, tapi kalo dicoba juga boleh😋👍 ingat kalo Lanang pegang ini bisa ngekill coba dikit tidak ngaruh😂🤣",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6999,
+      "source_created_at": "2026-04-13T06:18:22.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "angela-companion-baseline",
+      "name": "Companion Support Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

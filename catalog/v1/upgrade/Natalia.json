@@ -1,0 +1,485 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Natalia",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Glass Blade",
+      "Splash_url": "Natalia-Glass-Blade.png",
+      "script": "Natalia-Glass-Blade-Backup.zip",
+      "Portrait_url": "Natalia-Glass-Blade.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Phantom Dancer",
+          "Portrait_url": "Natalia-Phantom-Dancer.png",
+          "Splash_url": "Natalia-Phantom-Dancer.png",
+          "script": "Natalia-Glass-Blade-Phantom-Dancer.zip"
+        },
+        {
+          "name": "Deadly Mamba",
+          "Portrait_url": "Natalia-Deadly-Mamba.png",
+          "Splash_url": "Natalia-Deadly-Mamba.png",
+          "script": "Natalia-Glass-Blade-Deadly-Mamba.zip"
+        },
+        {
+          "name": "Midnight Raven",
+          "Portrait_url": "Natalia-Midnight-Raven.png",
+          "Splash_url": "Natalia-Midnight-Raven.png",
+          "script": "Natalia-Glass-Blade-Midnight-Raven.zip"
+        },
+        {
+          "name": "Warrioress Paragon",
+          "Portrait_url": "Natalia-Warrioress-Paragon.png",
+          "Splash_url": "Natalia-Warrioress-Paragon.png",
+          "script": "Natalia-Glass-Blade-Warrioress-Paragon.zip"
+        },
+        {
+          "name": "Soul Huntress",
+          "Portrait_url": "Natalia-Soul-Huntress.png",
+          "Splash_url": "Natalia-Soul-Huntress.png",
+          "script": "Natalia-Glass-Blade-Soul-Huntress.zip"
+        },
+        {
+          "name": "Rogue Mamba",
+          "Portrait_url": "Natalia-Rogue-Mamba.png",
+          "Splash_url": "Natalia-Rogue-Mamba.png",
+          "script": "Natalia-Glass-Blade-Rogue-Mamba.zip"
+        },
+        {
+          "name": "Crimson Raven",
+          "Portrait_url": "Natalia-Crimson-Raven.png",
+          "Splash_url": "Natalia - Crimson Raven.jpg",
+          "script": "Natalia-Glass-Blade-Crimson-Raven.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Phantom Dancer",
+      "Splash_url": "Natalia-Phantom-Dancer.png",
+      "script": "Natalia-Phantom-Dancer-Backup.zip",
+      "Portrait_url": "Natalia-Phantom-Dancer.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Glass Blade",
+          "Portrait_url": "Natalia-Glass-Blade.png",
+          "Splash_url": "Natalia-Glass-Blade.png",
+          "script": "Natalia-Phantom-Dancer-Glass-Blade.zip"
+        },
+        {
+          "name": "Deadly Mamba",
+          "Portrait_url": "Natalia-Deadly-Mamba.png",
+          "Splash_url": "Natalia-Deadly-Mamba.png",
+          "script": "Natalia-Phantom-Dancer-Deadly-Mamba.zip"
+        },
+        {
+          "name": "Midnight Raven",
+          "Portrait_url": "Natalia-Midnight-Raven.png",
+          "Splash_url": "Natalia-Midnight-Raven.png",
+          "script": "Natalia-Phantom-Dancer-Midnight-Raven.zip"
+        },
+        {
+          "name": "Grim Strangler",
+          "Portrait_url": "Natalia-Grim-Strangler.png",
+          "Splash_url": "Natalia-Grim-Strangler.png",
+          "script": "Natalia-Phantom-Dancer-Grim-Strangler.zip"
+        },
+        {
+          "name": "Cyber Spectre",
+          "Portrait_url": "Natalia-Cyber-Spectre.png",
+          "Splash_url": "Natalia-Cyber-Spectre.png",
+          "script": "Natalia-Phantom-Dancer-Cyber-Spectre.zip"
+        },
+        {
+          "name": "Warrioress Paragon",
+          "Portrait_url": "Natalia-Warrioress-Paragon.png",
+          "Splash_url": "Natalia-Warrioress-Paragon.png",
+          "script": "Natalia-Phantom-Dancer-Warrioress-Paragon.zip"
+        },
+        {
+          "name": "Soul Huntress",
+          "Portrait_url": "Natalia-Soul-Huntress.png",
+          "Splash_url": "Natalia-Soul-Huntress.png",
+          "script": "Natalia-Phantom-Dancer-Soul-Huntress.zip"
+        },
+        {
+          "name": "Rogue Mamba",
+          "Portrait_url": "Natalia-Rogue-Mamba.png",
+          "Splash_url": "Natalia-Rogue-Mamba.png",
+          "script": "Natalia-Phantom-Dancer-Rogue-Mamba.zip"
+        },
+        {
+          "name": "Crimson Raven",
+          "Portrait_url": "Natalia-Crimson-Raven.png",
+          "Splash_url": "Natalia - Crimson Raven.jpg",
+          "script": "Natalia-Phantom-Dancer-Crimson-Raven.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Deadly Mamba",
+      "Splash_url": "Natalia-Deadly-Mamba.png",
+      "script": "Natalia-Deadly-Mamba-Backup.zip",
+      "Portrait_url": "Natalia-Deadly-Mamba.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Glass Blade",
+          "Portrait_url": "Natalia-Glass-Blade.png",
+          "Splash_url": "Natalia-Glass-Blade.png",
+          "script": "Natalia-Deadly-Mamba-Glass-Blade.zip"
+        },
+        {
+          "name": "Phantom Dancer",
+          "Portrait_url": "Natalia-Phantom-Dancer.png",
+          "Splash_url": "Natalia-Phantom-Dancer.png",
+          "script": "Natalia-Deadly-Mamba-Phantom-Dancer.zip"
+        },
+        {
+          "name": "Midnight Raven",
+          "Portrait_url": "Natalia-Midnight-Raven.png",
+          "Splash_url": "Natalia-Midnight-Raven.png",
+          "script": "Natalia-Deadly-Mamba-Midnight-Raven.zip"
+        },
+        {
+          "name": "Grim Strangler",
+          "Portrait_url": "Natalia-Grim-Strangler.png",
+          "Splash_url": "Natalia-Grim-Strangler.png",
+          "script": "Natalia-Deadly-Mamba-Grim-Strangler.zip"
+        },
+        {
+          "name": "Cyber Spectre",
+          "Portrait_url": "Natalia-Cyber-Spectre.png",
+          "Splash_url": "Natalia-Cyber-Spectre.png",
+          "script": "Natalia-Deadly-Mamba-Cyber-Spectre.zip"
+        },
+        {
+          "name": "Warrioress Paragon",
+          "Portrait_url": "Natalia-Warrioress-Paragon.png",
+          "Splash_url": "Natalia-Warrioress-Paragon.png",
+          "script": "Natalia-Deadly-Mamba-Warrioress-Paragon.zip"
+        },
+        {
+          "name": "Soul Huntress",
+          "Portrait_url": "Natalia-Soul-Huntress.png",
+          "Splash_url": "Natalia-Soul-Huntress.png",
+          "script": "Natalia-Deadly-Mamba-Soul-Huntress.zip"
+        },
+        {
+          "name": "Crimson Raven",
+          "Portrait_url": "Natalia-Crimson-Raven.png",
+          "Splash_url": "Natalia - Crimson Raven.jpg",
+          "script": "Natalia-Deadly-Mamba-Crimson-Raven.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Midnight Raven",
+      "Splash_url": "Natalia-Midnight-Raven.png",
+      "script": "Natalia-Midnight-Raven-Backup.zip",
+      "Portrait_url": "Natalia-Midnight-Raven.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Glass Blade",
+          "Portrait_url": "Natalia-Glass-Blade.png",
+          "Splash_url": "Natalia-Glass-Blade.png",
+          "script": "Natalia-Midnight-Raven-Glass-Blade.zip"
+        },
+        {
+          "name": "Deadly Mamba",
+          "Portrait_url": "Natalia-Deadly-Mamba.png",
+          "Splash_url": "Natalia-Deadly-Mamba.png",
+          "script": "Natalia-Midnight-Raven-Deadly-Mamba.zip"
+        },
+        {
+          "name": "Grim Strangler",
+          "Portrait_url": "Natalia-Grim-Strangler.png",
+          "Splash_url": "Natalia-Grim-Strangler.png",
+          "script": "Natalia-Midnight-Raven-Grim-Strangler.zip"
+        },
+        {
+          "name": "Cyber Spectre",
+          "Portrait_url": "Natalia-Cyber-Spectre.png",
+          "Splash_url": "Natalia-Cyber-Spectre.png",
+          "script": "Natalia-Midnight-Raven-Cyber-Spectre.zip"
+        },
+        {
+          "name": "Warrioress Paragon",
+          "Portrait_url": "Natalia-Warrioress-Paragon.png",
+          "Splash_url": "Natalia-Warrioress-Paragon.png",
+          "script": "Natalia-Midnight-Raven-Warrioress-Paragon.zip"
+        },
+        {
+          "name": "Soul Huntress",
+          "Portrait_url": "Natalia-Soul-Huntress.png",
+          "Splash_url": "Natalia-Soul-Huntress.png",
+          "script": "Natalia-Midnight-Raven-Soul-Huntress.zip"
+        },
+        {
+          "name": "Rogue Mamba",
+          "Portrait_url": "Natalia-Rogue-Mamba.png",
+          "Splash_url": "Natalia-Rogue-Mamba.png",
+          "script": "Natalia-Midnight-Raven-Rogue-Mamba.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Grim Strangler",
+      "Splash_url": "Natalia-Grim-Strangler.png",
+      "script": "Natalia-Grim-Strangler-Backup.zip",
+      "Portrait_url": "Natalia-Grim-Strangler.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Glass Blade",
+          "Portrait_url": "Natalia-Glass-Blade.png",
+          "Splash_url": "Natalia-Glass-Blade.png",
+          "script": "Natalia-Grim-Strangler-Glass-Blade.zip"
+        },
+        {
+          "name": "Phantom Dancer",
+          "Portrait_url": "Natalia-Phantom-Dancer.png",
+          "Splash_url": "Natalia-Phantom-Dancer.png",
+          "script": "Natalia-Grim-Strangler-Phantom-Dancer.zip"
+        },
+        {
+          "name": "Deadly Mamba",
+          "Portrait_url": "Natalia-Deadly-Mamba.png",
+          "Splash_url": "Natalia-Deadly-Mamba.png",
+          "script": "Natalia-Grim-Strangler-Deadly-Mamba.zip"
+        },
+        {
+          "name": "Cyber Spectre",
+          "Portrait_url": "Natalia-Cyber-Spectre.png",
+          "Splash_url": "Natalia-Cyber-Spectre.png",
+          "script": "Natalia-Grim-Strangler-Cyber-Spectre.zip"
+        },
+        {
+          "name": "Warrioress Paragon",
+          "Portrait_url": "Natalia-Warrioress-Paragon.png",
+          "Splash_url": "Natalia-Warrioress-Paragon.png",
+          "script": "Natalia-Grim-Strangler-Warrioress-Paragon.zip"
+        },
+        {
+          "name": "Soul Huntress",
+          "Portrait_url": "Natalia-Soul-Huntress.png",
+          "Splash_url": "Natalia-Soul-Huntress.png",
+          "script": "Natalia-Grim-Strangler-Soul-Huntress.zip"
+        },
+        {
+          "name": "Rogue Mamba",
+          "Portrait_url": "Natalia-Rogue-Mamba.png",
+          "Splash_url": "Natalia-Rogue-Mamba.png",
+          "script": "Natalia-Grim-Strangler-Rogue-Mamba.zip"
+        },
+        {
+          "name": "Crimson Raven",
+          "Portrait_url": "Natalia-Crimson-Raven.png",
+          "Splash_url": "Natalia - Crimson Raven.jpg",
+          "script": "Natalia-Grim-Strangler-Crimson-Raven.zip"
+        }
+      ]
+    },
+    {
+      "name": "Create",
+      "Default_name": "Cyber Spectre",
+      "Splash_url": "Natalia-Cyber-Spectre.png",
+      "script": "Natalia-Cyber-Spectre-Backup.zip",
+      "Portrait_url": "Natalia-Cyber-Spectre.png",
+      "Tags": [
+        "Create.png"
+      ],
+      "targets": [
+        {
+          "name": "Glass Blade",
+          "Portrait_url": "Natalia-Glass-Blade.png",
+          "Splash_url": "Natalia-Glass-Blade.png",
+          "script": "Natalia-Cyber-Spectre-Glass-Blade.zip"
+        },
+        {
+          "name": "Phantom Dancer",
+          "Portrait_url": "Natalia-Phantom-Dancer.png",
+          "Splash_url": "Natalia-Phantom-Dancer.png",
+          "script": "Natalia-Cyber-Spectre-Phantom-Dancer.zip"
+        },
+        {
+          "name": "Deadly Mamba",
+          "Portrait_url": "Natalia-Deadly-Mamba.png",
+          "Splash_url": "Natalia-Deadly-Mamba.png",
+          "script": "Natalia-Cyber-Spectre-Deadly-Mamba.zip"
+        },
+        {
+          "name": "Midnight Raven",
+          "Portrait_url": "Natalia-Midnight-Raven.png",
+          "Splash_url": "Natalia-Midnight-Raven.png",
+          "script": "Natalia-Cyber-Spectre-Midnight-Raven.zip"
+        },
+        {
+          "name": "Grim Strangler",
+          "Portrait_url": "Natalia-Grim-Strangler.png",
+          "Splash_url": "Natalia-Grim-Strangler.png",
+          "script": "Natalia-Cyber-Spectre-Grim-Strangler.zip"
+        },
+        {
+          "name": "Warrioress Paragon",
+          "Portrait_url": "Natalia-Warrioress-Paragon.png",
+          "Splash_url": "Natalia-Warrioress-Paragon.png",
+          "script": "Natalia-Cyber-Spectre-Warrioress-Paragon.zip"
+        },
+        {
+          "name": "Rogue Mamba",
+          "Portrait_url": "Natalia-Rogue-Mamba.png",
+          "Splash_url": "Natalia-Rogue-Mamba.png",
+          "script": "Natalia-Cyber-Spectre-Rogue-Mamba.zip"
+        },
+        {
+          "name": "Crimson Raven",
+          "Portrait_url": "Natalia-Crimson-Raven.png",
+          "Splash_url": "Natalia - Crimson Raven.jpg",
+          "script": "Natalia-Cyber-Spectre-Crimson-Raven.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Warrioress Paragon",
+      "Splash_url": "Natalia-Warrioress-Paragon.png",
+      "script": "Natalia-Warrioress-Paragon-Backup.zip",
+      "Portrait_url": "Natalia-Warrioress-Paragon.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Glass Blade",
+          "Portrait_url": "Natalia-Glass-Blade.png",
+          "Splash_url": "Natalia-Glass-Blade.png",
+          "script": "Natalia-Warrioress-Paragon-Glass-Blade.zip"
+        },
+        {
+          "name": "Phantom Dancer",
+          "Portrait_url": "Natalia-Phantom-Dancer.png",
+          "Splash_url": "Natalia-Phantom-Dancer.png",
+          "script": "Natalia-Warrioress-Paragon-Phantom-Dancer.zip"
+        },
+        {
+          "name": "Deadly Mamba",
+          "Portrait_url": "Natalia-Deadly-Mamba.png",
+          "Splash_url": "Natalia-Deadly-Mamba.png",
+          "script": "Natalia-Warrioress-Paragon-Deadly-Mamba.zip"
+        },
+        {
+          "name": "Midnight Raven",
+          "Portrait_url": "Natalia-Midnight-Raven.png",
+          "Splash_url": "Natalia-Midnight-Raven.png",
+          "script": "Natalia-Warrioress-Paragon-Midnight-Raven.zip"
+        },
+        {
+          "name": "Grim Strangler",
+          "Portrait_url": "Natalia-Grim-Strangler.png",
+          "Splash_url": "Natalia-Grim-Strangler.png",
+          "script": "Natalia-Warrioress-Paragon-Grim-Strangler.zip"
+        },
+        {
+          "name": "Cyber Spectre",
+          "Portrait_url": "Natalia-Cyber-Spectre.png",
+          "Splash_url": "Natalia-Cyber-Spectre.png",
+          "script": "Natalia-Warrioress-Paragon-Cyber-Spectre.zip"
+        },
+        {
+          "name": "Soul Huntress",
+          "Portrait_url": "Natalia-Soul-Huntress.png",
+          "Splash_url": "Natalia-Soul-Huntress.png",
+          "script": "Natalia-Warrioress-Paragon-Soul-Huntress.zip"
+        },
+        {
+          "name": "Rogue Mamba",
+          "Portrait_url": "Natalia-Rogue-Mamba.png",
+          "Splash_url": "Natalia-Rogue-Mamba.png",
+          "script": "Natalia-Warrioress-Paragon-Rogue-Mamba.zip"
+        },
+        {
+          "name": "Crimson Raven",
+          "Portrait_url": "Natalia-Crimson-Raven.png",
+          "Splash_url": "Natalia - Crimson Raven.jpg",
+          "script": "Natalia-Warrioress-Paragon-Crimson-Raven.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Soul Huntress",
+      "Splash_url": "Natalia-Soul-Huntress.png",
+      "script": "Natalia-Soul-Huntress-Backup.zip",
+      "Portrait_url": "Natalia-Soul-Huntress.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Glass Blade",
+          "Portrait_url": "Natalia-Glass-Blade.png",
+          "Splash_url": "Natalia-Glass-Blade.png",
+          "script": "Natalia-Soul-Huntress-Glass-Blade.zip"
+        },
+        {
+          "name": "Phantom Dancer",
+          "Portrait_url": "Natalia-Phantom-Dancer.png",
+          "Splash_url": "Natalia-Phantom-Dancer.png",
+          "script": "Natalia-Soul-Huntress-Phantom-Dancer.zip"
+        },
+        {
+          "name": "Deadly Mamba",
+          "Portrait_url": "Natalia-Deadly-Mamba.png",
+          "Splash_url": "Natalia-Deadly-Mamba.png",
+          "script": "Natalia-Soul-Huntress-Deadly-Mamba.zip"
+        },
+        {
+          "name": "Grim Strangler",
+          "Portrait_url": "Natalia-Grim-Strangler.png",
+          "Splash_url": "Natalia-Grim-Strangler.png",
+          "script": "Natalia-Soul-Huntress-Grim-Strangler.zip"
+        },
+        {
+          "name": "Cyber Spectre",
+          "Portrait_url": "Natalia-Cyber-Spectre.png",
+          "Splash_url": "Natalia-Cyber-Spectre.png",
+          "script": "Natalia-Soul-Huntress-Cyber-Spectre.zip"
+        },
+        {
+          "name": "Warrioress Paragon",
+          "Portrait_url": "Natalia-Warrioress-Paragon.png",
+          "Splash_url": "Natalia-Warrioress-Paragon.png",
+          "script": "Natalia-Soul-Huntress-Warrioress-Paragon.zip"
+        },
+        {
+          "name": "Rogue Mamba",
+          "Portrait_url": "Natalia-Rogue-Mamba.png",
+          "Splash_url": "Natalia-Rogue-Mamba.png",
+          "script": "Natalia-Soul-Huntress-Rogue-Mamba.zip"
+        },
+        {
+          "name": "Crimson Raven",
+          "Portrait_url": "Natalia-Crimson-Raven.png",
+          "Splash_url": "Natalia - Crimson Raven.jpg",
+          "script": "Natalia-Soul-Huntress-Crimson-Raven.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 5,
+    "slug": "nana",
+    "name": "Nana"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "nana-community-5685",
+      "name": "Community Build 5685",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "lightningtruncheon",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings"
+      ],
+      "battle_spell_id": "flameshot",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "festivalofblood",
+        "impurerage",
+        "thrill"
+      ],
+      "situational_items": [],
+      "notes": "Boomerang Thunderstorm",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5685,
+      "source_created_at": "2026-02-13T17:48:20.000Z",
+      "likes": 10,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "nana-community-5598",
+      "name": "Community Build 5598",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "warriorboots",
+        "clockofdestiny",
+        "queenswings",
+        "waraxe",
+        "divineglaive",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "vitality",
+        "festivalofblood",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "Exp Nana",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5598,
+      "source_created_at": "2026-02-10T05:26:22.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "nana-companion-baseline",
+      "name": "Companion Mage Baseline",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

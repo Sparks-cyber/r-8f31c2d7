@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 2,
+    "slug": "balmond",
+    "name": "Balmond"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "balmond-community-5851",
+      "name": "Community Build 5851",
+      "lane": "Jungle, Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "waraxe",
+        "cursedhelmet",
+        "queenswings",
+        "oracle",
+        "dominanceice"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "seasonedhunter",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "balmond build for sustain",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5851,
+      "source_created_at": "2026-02-19T15:11:08.000Z",
+      "likes": 10,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "balmond-community-5713",
+      "name": "Community Build 5713",
+      "lane": "Jungle, Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "chastisepauldron",
+        "antiquecuirass",
+        "radiantarmor",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "bravesmite",
+        "firmness",
+        "tenacity"
+      ],
+      "situational_items": [],
+      "notes": "Fighter Roam\nFirst item tough boots with Passive - Encourage\nMy tips : \n- You must have the mindset to bully the jungler to the end.\n- Your job is vision and join team fight, You have to open the map and see the enemy's position.\n- Why i choose Revitalize ? because you need sustain to join teamfight and poking enemies with skill 1\n- Don't worry about KDAs, you need cooperation your team to win. just ignore teammates trashtalk you and you just need have jobdesk to contribute your team.\n- You will win this because i love the fighter.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5713,
+      "source_created_at": "2026-02-15T05:54:17.000Z",
+      "likes": 3,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "balmond-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

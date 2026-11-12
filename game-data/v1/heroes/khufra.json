@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 78,
+    "slug": "khufra",
+    "name": "Khufra",
+    "skin_name": "Desert Tyrant",
+    "roles": [
+      "Tank"
+    ],
+    "primary_role": "Tank"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Mixed",
+    "specialties": [
+      "Initiator",
+      "Crowd Control"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "12 March 2019",
+    "resource": "Mana",
+    "short_description": "Sealed ancient tyrant.",
+    "brief": "The ruler of the ancient city of Tivacan was furious, cold blooded and greedy. In order to obtain the help of the astrologers, the astrologer Esmeralda launched a crazy pursuit. Esmeralda was bewitched by him at first, but she awakened and sealed him up. Now he is about to wake up and continue to battle of destiny with the descendants of the astrologers.",
+    "story": "In the far reaches of the Western Desert, an ancient city lays hidden among the sands. Despite ages passing by, the desert sands were unable to devour this city, which stands proud and majestic in a sea of emptiness. Scholars of antiquities have long spoke of this fabled city, whose most infamous ruler was none other than Khufra.\r\n\r\nKhufra was a greedy ruler, colder than ice, and avaricious to limitless extents. In order to satisfy his personal desire to rule, he led the powerful army of Arnak to invade the city to conquer the Western Desert. Tirelessly, Khufra expanded his domain and riches beyond compare. Unfortunately, the Minoan Empire proved to be too difficult of a foe to conquer.\r\n\r\nEven so, Khufra longed for more power. He sought the most famous astrologer in the Land of Dawn to help himself. Much to Khufra's dismay, the astrologer knew of Khufra's insidious goals and declined and was swiftly slain. Only the young Esmeralda felt deeply attracted to Khufra, who then became lovers. Khufra's callousness sent Esmeralda into a mess of internal conflict and love. Gradually, Esmeralda deeply loved Khufra and began to help Khufra with his rule. Over time, Esmeralda used her magical abilities to grant Khufra magical powers that were never before seen. However, Khufra became even more and more cruel and hungry for power. His conquests did not end with the Western Desert, he sought to conquer the entire Land of Dawn. Seeing the cruelty of her love, Esmeralda decided to save Khufra from the hate of the people.\r\n\r\nEven then, Khufra continued to use magic to enhance his powers. He asked Esmeralda to give all the spells to him. He must completely eliminate the Minoan Empire. No one could question his power. One night, Esmeralda came to Khufra and she deeply embraced her lover. She began to place Khufra under a powerful curse, while Khufra was expecting the ultimate power given by Esmeralda. Suddenly, Khufra felt suppressed by a powerful force. He turned his head and looked at Esmeralda. No matter how Khufra tried to break free, Esmeralda did not stop chanting her curse. Khufra could not believe that his lover was punishing him. Esmeralda wept as she bound her love into an eternal slumber. She chose to personally seal her lover in the ancient city and built a grand monument. Esmeralda believed it was better to end Khufra before he became despised by the people, going down in history as the cruel king who loved nothing but power. Since then, the smoke of the war in the Western Desert disappeared.\r\n\r\nHowever, hundreds of years later, a cataclysmic event occurred in the Western Desert. A wave of energy from an orb awakened Khufra from his slumber, who swelled with hatred and anger. Returning to the world. Khufra could not accept the betrayal of his lover in the past. His abilities and desires were stronger than ever before. He vowed to find Esmeralda and continue to conquer the centuries-old wish to hold the Land of Dawn within his hands.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 9,
+    "offense": 2,
+    "control": 10,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2779,
+    "health_growth": 240,
+    "health_regen": 9.4,
+    "health_regen_growth": 0.6286,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 117,
+    "physical_attack_growth": 6.21,
+    "magic_power": 0,
+    "physical_defense": 19,
+    "physical_defense_growth": 7.1429,
+    "magic_defense": 15,
+    "magic_defense_growth": 4.0,
+    "attack_speed": 0.98,
+    "attack_speed_growth": 0.0171,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 255,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Khufra0",
+      "name": "Spell Curse",
+      "description": "Khufra activates the Spell Curse left by Esmeralda every 8s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals <magicDamage>Magic Damage</magicDamage> equal to 100<scaleAD> (+120% Total Physical Attack)</scaleAD> plus 6% of the target's Max HP. He also slows the target by 30% for 1.5s and heals 8% of his Max HP on hit.<br/>Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of <highlight>Spell Curse</highlight> is reduced by 4s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d94c4dc00e5a3b21b0f57614ea52969d.png",
+      "video_url": null
+    },
+    {
+      "id": "Khufra1",
+      "name": "Tyrant's Revenge",
+      "description": "Khufra pulls the bandage on his arms to launch himself in the specified direction, dealing <physicalDamage>Physical Damage</physicalDamage> equal to 50/60/70/80/90/100 plus 7<scaleAD> (+1.5% Extra Physical Attack)</scaleAD>% of his Max HP to all enemy units on the path. When blinking to the furthest distance or encountering a first enemy hero, Khufra will immediately stop, dealing <physicalDamage>Physical Damage</physicalDamage> equal to 50/60/70/80/90/100 plus 7<scaleAD> (+1.5% Extra Physical Attack)</scaleAD>% of his Max HP to enemies nearby and then knocking them in the air for up to 1s.",
+      "flavor_text": null,
+      "cost": "80/85/90/95/100/105",
+      "cooldown": "15/14/13/12/11/10",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0c4482b792fad7b1613c25e35c87c84.png",
+      "video_url": null
+    },
+    {
+      "id": "Khufra2",
+      "name": "Bouncing Ball",
+      "description": "Khufra uses bandage to wrap himself into a magic bouncing ball, increasing his own Physical &amp; Magic Defense by 30/44/58/72/86/100%. Enemies trying to use blink skills to move across Khufra will be knocked airborne. <br/>Each time the magic bouncing ball hits the ground, it will deal <magicDamage>Magic Damage</magicDamage> equal to 50/60/70/80/90/100 plus 3<scaleAD> (+2% Extra Physical Attack)</scaleAD>% of his Max HP to enemies nearby and slow them by 80% for 0.2s.",
+      "flavor_text": null,
+      "cost": "70/75/80/85/90/95",
+      "cooldown": "10",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fce03edaa914b7eb06de1f158250c7bb.png",
+      "video_url": null
+    },
+    {
+      "id": "Khufra3",
+      "name": "Tyrant's Rage",
+      "description": "Khufra pushes back all enemy targets around him toward his front (this skill can only be interrupted by Suppression), dealing 300/450/600<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing them down for 1.25/1.5/1.75s. If the enemies are knocked against walls, extra <physicalDamage>Physical Damage</physicalDamage> equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed.",
+      "flavor_text": "Let those who comply with me thrive and those who resist me perish.",
+      "cost": "150/200/250",
+      "cooldown": "50/45/40",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c789cf5a91de9659a3af64fa42f1c3bd.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Khufra0",
+      "sequence": "Khufra1-Khufra3-Khufra2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Khufra should open with his 1st Skill, then his Ultimate for area control, follow up with his 2nd Skill to prevent the enemy from escaping with their dash or blink skills."
+    },
+    {
+      "id": "Khufra1",
+      "sequence": "Khufra1-AA-Khufra2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Khufra uses his 1st Skill to aim while charging before launching himself to CC the enemy target. He then deals damage and slows the target with his enhanced Basic Attack and follows up with his 2nd Skill to keep the target slowed."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Khufra works best with heroes with strong CC abilities that make it easier for his 1st Skill to hit, such as Eudora and Pharsa.",
+      "heroes": [
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        },
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Khufra's 2nd Skill can be used to interrupt movement abilities, making him strong against heroes who fight with movement abilities, such as Joy and Lancelot.",
+      "heroes": [
+        {
+          "id": 118,
+          "slug": "joy",
+          "name": "Joy"
+        },
+        {
+          "id": 47,
+          "slug": "lancelot",
+          "name": "Lancelot"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Khufra is countered by resilient tank heroes, as his CC abilities pose no threat to these heroes. Heroes like Fredrinn and Gloo are good examples here.",
+      "heroes": [
+        {
+          "id": 117,
+          "slug": "fredrinn",
+          "name": "Fredrinn"
+        },
+        {
+          "id": 104,
+          "slug": "gloo",
+          "name": "Gloo"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Khufra-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Khufra-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ffc413118c62fc17f599cb35172ba9c.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ffc413118c62fc17f599cb35172ba9c.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/khufra.json",
+    "visual_catalog": "catalog/v1/visual/khufra.json",
+    "upgrade_catalog": "catalog/v1/upgrade/khufra.json"
+  }
+}

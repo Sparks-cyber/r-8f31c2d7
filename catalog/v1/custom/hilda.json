@@ -1,0 +1,28 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hilda-kushina",
+      "portrait_file": "Hilda - Kushina.png",
+      "script_file": "Hilda-Kushina.zip",
+      "skin_name": "Kushina",
+      "splash_file": "Hilda - Kushina.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 35,
+    "name": "Hilda",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "slug": "hilda"
+  },
+  "release_tag": "custom-hilda",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

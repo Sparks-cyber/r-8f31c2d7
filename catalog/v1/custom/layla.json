@@ -1,0 +1,104 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "layla-christmas",
+      "portrait_file": "Layla - Christmas.png",
+      "script_file": "Layla-Christmas.zip",
+      "skin_name": "Christmas",
+      "splash_file": "Layla - Christmas.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "layla-exorcist",
+      "portrait_file": "Layla - Exorcist.png",
+      "script_file": "Layla-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Layla - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "layla-gojo",
+      "portrait_file": "Layla - Gojo.png",
+      "script_file": "Layla-Gojo.zip",
+      "skin_name": "Gojo",
+      "splash_file": "Layla - Gojo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "layla-nobara",
+      "portrait_file": "Layla - Nobara.png",
+      "script_file": "Layla-Nobara.zip",
+      "skin_name": "Nobara",
+      "splash_file": "Layla - Nobara.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "layla-nobara-v2",
+      "portrait_file": "Layla - Nobara V2.png",
+      "script_file": "Layla-Nobara-V2.zip",
+      "skin_name": "Nobara V2",
+      "splash_file": "Layla - Nobara V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "layla-stun",
+      "portrait_file": "Layla - STUN.png",
+      "script_file": "Layla-STUN.zip",
+      "skin_name": "STUN",
+      "splash_file": "Layla - STUN.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "layla-summer-fan-art",
+      "portrait_file": "Layla - Summer Fan Art.png",
+      "script_file": "Layla-Summer-Fan-Art.zip",
+      "skin_name": "Summer Fan Art",
+      "splash_file": "Layla - Summer Fan Art.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "layla-water-flower",
+      "portrait_file": "Layla - Water Flower.png",
+      "script_file": "Layla-Water-Flower.zip",
+      "skin_name": "Water Flower",
+      "splash_file": "Layla - Water Flower.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 18,
+    "name": "Layla",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "layla"
+  },
+  "release_tag": "custom-layla",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

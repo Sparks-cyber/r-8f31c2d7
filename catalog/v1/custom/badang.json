@@ -1,0 +1,71 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "badang-akaza",
+      "portrait_file": "Badang - Akaza.png",
+      "script_file": "Badang-Akaza.zip",
+      "skin_name": "Akaza",
+      "splash_file": "Badang - Akaza.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "badang-genos",
+      "portrait_file": "Badang - Genos.png",
+      "script_file": "Badang-Genos.zip",
+      "skin_name": "Genos",
+      "splash_file": "Badang - Genos.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "badang-katakuri",
+      "portrait_file": "Badang - Katakuri.png",
+      "script_file": "Badang-Katakuri.zip",
+      "skin_name": "Katakuri",
+      "splash_file": "Badang - Katakuri.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "badang-madara",
+      "portrait_file": "Badang - Madara.png",
+      "script_file": "Badang-Madara.zip",
+      "skin_name": "Madara",
+      "splash_file": "Badang - Madara.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "badang-neji",
+      "portrait_file": "Badang - Neji.png",
+      "script_file": "Badang-Neji.zip",
+      "skin_name": "Neji",
+      "splash_file": "Badang - Neji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 77,
+    "name": "Badang",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "badang"
+  },
+  "release_tag": "custom-badang",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

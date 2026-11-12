@@ -1,0 +1,82 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "fanny-cherry-blossom",
+      "portrait_file": "Fanny - Cherry Blossom.png",
+      "script_file": "Fanny-Cherry-Blossom.zip",
+      "skin_name": "Cherry Blossom",
+      "splash_file": "Fanny - Cherry Blossom.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-chibi",
+      "portrait_file": "Fanny - Chibi.png",
+      "script_file": "Fanny-Chibi.zip",
+      "skin_name": "Chibi",
+      "splash_file": "Fanny - Chibi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-chibi-v2",
+      "portrait_file": "Fanny - Chibi V2.png",
+      "script_file": "Fanny-Chibi-V2.zip",
+      "skin_name": "Chibi V2",
+      "splash_file": "Fanny - Chibi V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-mikasa-hok",
+      "portrait_file": "Fanny - Mikasa HOK.png",
+      "script_file": "Fanny-Mikasa-HOK.zip",
+      "skin_name": "Mikasa HOK",
+      "splash_file": "Fanny - Mikasa HOK.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-spider-man",
+      "portrait_file": "Fanny - Spider-Man.png",
+      "script_file": "Fanny-Spider-Man.zip",
+      "skin_name": "Spider-Man",
+      "splash_file": "Fanny - Spider-Man.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    },
+    {
+      "enabled": true,
+      "id": "fanny-wave-shark",
+      "portrait_file": "Fanny - Wave Shark.png",
+      "script_file": "Fanny-Wave-Shark.zip",
+      "skin_name": "Wave Shark",
+      "splash_file": "Fanny - Wave Shark.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 17,
+    "name": "Fanny",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "fanny"
+  },
+  "release_tag": "custom-fanny",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

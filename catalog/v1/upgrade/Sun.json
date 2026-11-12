@@ -1,0 +1,527 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Sun",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Battle Buddha",
+      "Splash_url": "Sun-Battle-Buddha.png",
+      "script": "Sun-Battle-Buddha-Backup.zip",
+      "Portrait_url": "Sun-Battle-Buddha.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Rock Star",
+          "Portrait_url": "Sun-Rock-Star.png",
+          "Splash_url": "Sun-Rock-Star.png",
+          "script": "Sun-Battle-Buddha-Rock-Star.zip"
+        },
+        {
+          "name": "Street Legend",
+          "Portrait_url": "Sun-Street-Legend.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Battle-Buddha-Street-Legend.zip"
+        },
+        {
+          "name": "Simian Curse",
+          "Portrait_url": "Sun-Simian-Curse.png",
+          "Splash_url": "Sun-Simian-Curse.png",
+          "script": "Sun-Battle-Buddha-Simian-Curse.zip"
+        },
+        {
+          "name": "Celestial Outlaw",
+          "Portrait_url": "Sun-Celestial-Outlaw.png",
+          "Splash_url": "Sun-Celestial-Outlaw.png",
+          "script": "Sun-Battle-Buddha-Celestial-Outlaw.zip"
+        },
+        {
+          "name": "Spring Blessings",
+          "Portrait_url": "Sun-Spring-Blessings.png",
+          "Splash_url": "Sun-Spring-Blessings.png",
+          "script": "Sun-Battle-Buddha-Spring-Blessings.zip"
+        },
+        {
+          "name": "Wicked Flames",
+          "Portrait_url": "Sun-Wicked-Flames.png",
+          "Splash_url": "Sun-Wicked-Flames.png",
+          "script": "Sun-Battle-Buddha-Wicked-Flames.zip"
+        },
+        {
+          "name": "Celestial Rebel",
+          "Portrait_url": "Sun-Celestial-Rebel.png",
+          "Splash_url": "Sun-Celestial-Rebel.png",
+          "script": "Sun-Battle-Buddha-Celestial-Rebel.zip"
+        },
+        {
+          "name": "Street King",
+          "Portrait_url": "Sun-Street-King.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Battle-Buddha-Street-King.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Battle-Buddha-Queller-of-Chaos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Rock Star",
+      "Splash_url": "Sun-Rock-Star.png",
+      "script": "Sun-Rock-Star-Backup.zip",
+      "Portrait_url": "Sun-Rock-Star.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Battle Buddha",
+          "Portrait_url": "Sun-Battle-Buddha.png",
+          "Splash_url": "Sun-Battle-Buddha.png",
+          "script": "Sun-Rock-Star-Battle-Buddha.zip"
+        },
+        {
+          "name": "Street Legend",
+          "Portrait_url": "Sun-Street-Legend.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Rock-Star-Street-Legend.zip"
+        },
+        {
+          "name": "Simian Curse",
+          "Portrait_url": "Sun-Simian-Curse.png",
+          "Splash_url": "Sun-Simian-Curse.png",
+          "script": "Sun-Rock-Star-Simian-Curse.zip"
+        },
+        {
+          "name": "Celestial Outlaw",
+          "Portrait_url": "Sun-Celestial-Outlaw.png",
+          "Splash_url": "Sun-Celestial-Outlaw.png",
+          "script": "Sun-Rock-Star-Celestial-Outlaw.zip"
+        },
+        {
+          "name": "Spring Blessings",
+          "Portrait_url": "Sun-Spring-Blessings.png",
+          "Splash_url": "Sun-Spring-Blessings.png",
+          "script": "Sun-Rock-Star-Spring-Blessings.zip"
+        },
+        {
+          "name": "Wicked Flames",
+          "Portrait_url": "Sun-Wicked-Flames.png",
+          "Splash_url": "Sun-Wicked-Flames.png",
+          "script": "Sun-Rock-Star-Wicked-Flames.zip"
+        },
+        {
+          "name": "Celestial Rebel",
+          "Portrait_url": "Sun-Celestial-Rebel.png",
+          "Splash_url": "Sun-Celestial-Rebel.png",
+          "script": "Sun-Rock-Star-Celestial-Rebel.zip"
+        },
+        {
+          "name": "Street King",
+          "Portrait_url": "Sun-Street-King.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Rock-Star-Street-King.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Rock-Star-Queller-of-Chaos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Street Legend",
+      "Splash_url": "Sun-Street-Legend.png",
+      "script": "Sun-Street-Legend-Backup.zip",
+      "Portrait_url": "Sun-Street-Legend.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Battle Buddha",
+          "Portrait_url": "Sun-Battle-Buddha.png",
+          "Splash_url": "Sun-Battle-Buddha.png",
+          "script": "Sun-Street-Legend-Battle-Buddha.zip"
+        },
+        {
+          "name": "Rock Star",
+          "Portrait_url": "Sun-Rock-Star.png",
+          "Splash_url": "Sun-Rock-Star.png",
+          "script": "Sun-Street-Legend-Rock-Star.zip"
+        },
+        {
+          "name": "Simian Curse",
+          "Portrait_url": "Sun-Simian-Curse.png",
+          "Splash_url": "Sun-Simian-Curse.png",
+          "script": "Sun-Street-Legend-Simian-Curse.zip"
+        },
+        {
+          "name": "Celestial Outlaw",
+          "Portrait_url": "Sun-Celestial-Outlaw.png",
+          "Splash_url": "Sun-Celestial-Outlaw.png",
+          "script": "Sun-Street-Legend-Celestial-Outlaw.zip"
+        },
+        {
+          "name": "Spring Blessings",
+          "Portrait_url": "Sun-Spring-Blessings.png",
+          "Splash_url": "Sun-Spring-Blessings.png",
+          "script": "Sun-Street-Legend-Spring-Blessings.zip"
+        },
+        {
+          "name": "Wicked Flames",
+          "Portrait_url": "Sun-Wicked-Flames.png",
+          "Splash_url": "Sun-Wicked-Flames.png",
+          "script": "Sun-Street-Legend-Wicked-Flames.zip"
+        },
+        {
+          "name": "Celestial Rebel",
+          "Portrait_url": "Sun-Celestial-Rebel.png",
+          "Splash_url": "Sun-Celestial-Rebel.png",
+          "script": "Sun-Street-Legend-Celestial-Rebel.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Street-Legend-Queller-of-Chaos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Simian Curse",
+      "Splash_url": "Sun-Simian-Curse.png",
+      "script": "Sun-Simian-Curse-Backup.zip",
+      "Portrait_url": "Sun-Simian-Curse.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Battle Buddha",
+          "Portrait_url": "Sun-Battle-Buddha.png",
+          "Splash_url": "Sun-Battle-Buddha.png",
+          "script": "Sun-Simian-Curse-Battle-Buddha.zip"
+        },
+        {
+          "name": "Rock Star",
+          "Portrait_url": "Sun-Rock-Star.png",
+          "Splash_url": "Sun-Rock-Star.png",
+          "script": "Sun-Simian-Curse-Rock-Star.zip"
+        },
+        {
+          "name": "Street Legend",
+          "Portrait_url": "Sun-Street-Legend.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Simian-Curse-Street-Legend.zip"
+        },
+        {
+          "name": "Celestial Outlaw",
+          "Portrait_url": "Sun-Celestial-Outlaw.png",
+          "Splash_url": "Sun-Celestial-Outlaw.png",
+          "script": "Sun-Simian-Curse-Celestial-Outlaw.zip"
+        },
+        {
+          "name": "Spring Blessings",
+          "Portrait_url": "Sun-Spring-Blessings.png",
+          "Splash_url": "Sun-Spring-Blessings.png",
+          "script": "Sun-Simian-Curse-Spring-Blessings.zip"
+        },
+        {
+          "name": "Wicked Flames",
+          "Portrait_url": "Sun-Wicked-Flames.png",
+          "Splash_url": "Sun-Wicked-Flames.png",
+          "script": "Sun-Simian-Curse-Wicked-Flames.zip"
+        },
+        {
+          "name": "Celestial Rebel",
+          "Portrait_url": "Sun-Celestial-Rebel.png",
+          "Splash_url": "Sun-Celestial-Rebel.png",
+          "script": "Sun-Simian-Curse-Celestial-Rebel.zip"
+        },
+        {
+          "name": "Street King",
+          "Portrait_url": "Sun-Street-King.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Simian-Curse-Street-King.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Simian-Curse-Queller-of-Chaos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Celestial Outlaw",
+      "Splash_url": "Sun-Celestial-Outlaw.png",
+      "script": "Sun-Celestial-Outlaw-Backup.zip",
+      "Portrait_url": "Sun-Celestial-Outlaw.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Battle Buddha",
+          "Portrait_url": "Sun-Battle-Buddha.png",
+          "Splash_url": "Sun-Battle-Buddha.png",
+          "script": "Sun-Celestial-Outlaw-Battle-Buddha.zip"
+        },
+        {
+          "name": "Rock Star",
+          "Portrait_url": "Sun-Rock-Star.png",
+          "Splash_url": "Sun-Rock-Star.png",
+          "script": "Sun-Celestial-Outlaw-Rock-Star.zip"
+        },
+        {
+          "name": "Street Legend",
+          "Portrait_url": "Sun-Street-Legend.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Celestial-Outlaw-Street-Legend.zip"
+        },
+        {
+          "name": "Simian Curse",
+          "Portrait_url": "Sun-Simian-Curse.png",
+          "Splash_url": "Sun-Simian-Curse.png",
+          "script": "Sun-Celestial-Outlaw-Simian-Curse.zip"
+        },
+        {
+          "name": "Spring Blessings",
+          "Portrait_url": "Sun-Spring-Blessings.png",
+          "Splash_url": "Sun-Spring-Blessings.png",
+          "script": "Sun-Celestial-Outlaw-Spring-Blessings.zip"
+        },
+        {
+          "name": "Wicked Flames",
+          "Portrait_url": "Sun-Wicked-Flames.png",
+          "Splash_url": "Sun-Wicked-Flames.png",
+          "script": "Sun-Celestial-Outlaw-Wicked-Flames.zip"
+        },
+        {
+          "name": "Celestial Rebel",
+          "Portrait_url": "Sun-Celestial-Rebel.png",
+          "Splash_url": "Sun-Celestial-Rebel.png",
+          "script": "Sun-Celestial-Outlaw-Celestial-Rebel.zip"
+        },
+        {
+          "name": "Street King",
+          "Portrait_url": "Sun-Street-King.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Celestial-Outlaw-Street-King.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Celestial-Outlaw-Queller-of-Chaos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lunar Festival",
+      "Default_name": "Spring Blessings",
+      "Splash_url": "Sun-Spring-Blessings.png",
+      "script": "Sun-Spring-Blessings-Backup.zip",
+      "Portrait_url": "Sun-Spring-Blessings.png",
+      "Tags": [
+        "Lunar Fest.png"
+      ],
+      "targets": [
+        {
+          "name": "Battle Buddha",
+          "Portrait_url": "Sun-Battle-Buddha.png",
+          "Splash_url": "Sun-Battle-Buddha.png",
+          "script": "Sun-Spring-Blessings-Battle-Buddha.zip"
+        },
+        {
+          "name": "Rock Star",
+          "Portrait_url": "Sun-Rock-Star.png",
+          "Splash_url": "Sun-Rock-Star.png",
+          "script": "Sun-Spring-Blessings-Rock-Star.zip"
+        },
+        {
+          "name": "Street Legend",
+          "Portrait_url": "Sun-Street-Legend.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Spring-Blessings-Street-Legend.zip"
+        },
+        {
+          "name": "Simian Curse",
+          "Portrait_url": "Sun-Simian-Curse.png",
+          "Splash_url": "Sun-Simian-Curse.png",
+          "script": "Sun-Spring-Blessings-Simian-Curse.zip"
+        },
+        {
+          "name": "Celestial Outlaw",
+          "Portrait_url": "Sun-Celestial-Outlaw.png",
+          "Splash_url": "Sun-Celestial-Outlaw.png",
+          "script": "Sun-Spring-Blessings-Celestial-Outlaw.zip"
+        },
+        {
+          "name": "Wicked Flames",
+          "Portrait_url": "Sun-Wicked-Flames.png",
+          "Splash_url": "Sun-Wicked-Flames.png",
+          "script": "Sun-Spring-Blessings-Wicked-Flames.zip"
+        },
+        {
+          "name": "Celestial Rebel",
+          "Portrait_url": "Sun-Celestial-Rebel.png",
+          "Splash_url": "Sun-Celestial-Rebel.png",
+          "script": "Sun-Spring-Blessings-Celestial-Rebel.zip"
+        },
+        {
+          "name": "Street King",
+          "Portrait_url": "Sun-Street-King.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Spring-Blessings-Street-King.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Spring-Blessings-Queller-of-Chaos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Wicked Flames",
+      "Splash_url": "Sun-Wicked-Flames.png",
+      "script": "Sun-Wicked-Flames-Backup.zip",
+      "Portrait_url": "Sun-Wicked-Flames.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Battle Buddha",
+          "Portrait_url": "Sun-Battle-Buddha.png",
+          "Splash_url": "Sun-Battle-Buddha.png",
+          "script": "Sun-Wicked-Flames-Battle-Buddha.zip"
+        },
+        {
+          "name": "Rock Star",
+          "Portrait_url": "Sun-Rock-Star.png",
+          "Splash_url": "Sun-Rock-Star.png",
+          "script": "Sun-Wicked-Flames-Rock-Star.zip"
+        },
+        {
+          "name": "Street Legend",
+          "Portrait_url": "Sun-Street-Legend.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Wicked-Flames-Street-Legend.zip"
+        },
+        {
+          "name": "Simian Curse",
+          "Portrait_url": "Sun-Simian-Curse.png",
+          "Splash_url": "Sun-Simian-Curse.png",
+          "script": "Sun-Wicked-Flames-Simian-Curse.zip"
+        },
+        {
+          "name": "Celestial Outlaw",
+          "Portrait_url": "Sun-Celestial-Outlaw.png",
+          "Splash_url": "Sun-Celestial-Outlaw.png",
+          "script": "Sun-Wicked-Flames-Celestial-Outlaw.zip"
+        },
+        {
+          "name": "Spring Blessings",
+          "Portrait_url": "Sun-Spring-Blessings.png",
+          "Splash_url": "Sun-Spring-Blessings.png",
+          "script": "Sun-Wicked-Flames-Spring-Blessings.zip"
+        },
+        {
+          "name": "Celestial Rebel",
+          "Portrait_url": "Sun-Celestial-Rebel.png",
+          "Splash_url": "Sun-Celestial-Rebel.png",
+          "script": "Sun-Wicked-Flames-Celestial-Rebel.zip"
+        },
+        {
+          "name": "Street King",
+          "Portrait_url": "Sun-Street-King.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Wicked-Flames-Street-King.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Wicked-Flames-Queller-of-Chaos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Celestial Rebel",
+      "Splash_url": "Sun-Celestial-Rebel.png",
+      "script": "Sun-Celestial-Rebel-Backup.zip",
+      "Portrait_url": "Sun-Celestial-Rebel.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Battle Buddha",
+          "Portrait_url": "Sun-Battle-Buddha.png",
+          "Splash_url": "Sun-Battle-Buddha.png",
+          "script": "Sun-Celestial-Rebel-Battle-Buddha.zip"
+        },
+        {
+          "name": "Rock Star",
+          "Portrait_url": "Sun-Rock-Star.png",
+          "Splash_url": "Sun-Rock-Star.png",
+          "script": "Sun-Celestial-Rebel-Rock-Star.zip"
+        },
+        {
+          "name": "Street Legend",
+          "Portrait_url": "Sun-Street-Legend.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Celestial-Rebel-Street-Legend.zip"
+        },
+        {
+          "name": "Simian Curse",
+          "Portrait_url": "Sun-Simian-Curse.png",
+          "Splash_url": "Sun-Simian-Curse.png",
+          "script": "Sun-Celestial-Rebel-Simian-Curse.zip"
+        },
+        {
+          "name": "Celestial Outlaw",
+          "Portrait_url": "Sun-Celestial-Outlaw.png",
+          "Splash_url": "Sun-Celestial-Outlaw.png",
+          "script": "Sun-Celestial-Rebel-Celestial-Outlaw.zip"
+        },
+        {
+          "name": "Spring Blessings",
+          "Portrait_url": "Sun-Spring-Blessings.png",
+          "Splash_url": "Sun-Spring-Blessings.png",
+          "script": "Sun-Celestial-Rebel-Spring-Blessings.zip"
+        },
+        {
+          "name": "Wicked Flames",
+          "Portrait_url": "Sun-Wicked-Flames.png",
+          "Splash_url": "Sun-Wicked-Flames.png",
+          "script": "Sun-Celestial-Rebel-Wicked-Flames.zip"
+        },
+        {
+          "name": "Street King",
+          "Portrait_url": "Sun-Street-King.png",
+          "Splash_url": "Sun-Street-Legend.png",
+          "script": "Sun-Celestial-Rebel-Street-King.zip"
+        },
+        {
+          "name": "Queller of Chaos",
+          "Portrait_url": "Sun-Queller-of-Chaos.png",
+          "Splash_url": "Sun-Queller-of-Chaos.png",
+          "script": "Sun-Celestial-Rebel-Queller-of-Chaos.zip"
+        }
+      ]
+    }
+  ]
+}

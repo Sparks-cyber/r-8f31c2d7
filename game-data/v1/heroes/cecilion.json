@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 91,
+    "slug": "cecilion",
+    "name": "Cecilion",
+    "skin_name": "Embrace of Night",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Poke",
+      "Burst"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "12 February 2020",
+    "resource": "Mana",
+    "short_description": "Carmilla's Blood Demon lover",
+    "brief": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.",
+    "story": "Many years ago, enjoying the night opera performed by Cecilion was the most popular form of entertainment for the people of Castle Aberleen. It was always full house at the theatre each time this most famous opera actor performed. Everyone was attracted by his indescribable beauty and talent. However, the applause, love and cheers from human beings didn't make Cecilion feel happy. He was one of the Blood Demons, and it was hard for him to open his mind to humans.\r\n\r\nAs long as Cecilion could remember, his kind have been living in the place where human beings lived. The oppression of Lord Lava against the blood demons meant a dark future for them. As such, some demons decided to leave the Despair Place and came to live among the humans. They were eager to seek forgiveness from the Lord of Light, live normally and integrate into the human society. But the fact was that they not only suffered hostility from the human society, but they also hunted down by the Abyss. When Cecilion became an adult, he was the only one left amongst his kind.\r\n\r\nIn order to hide his true identity, Cecilion lived in Castle Aberleen as an opera actor and tried to cover up all abilities and characteristics related to the Blood Demons, He was gorgeous and elegant on the stage, surrounded by thousands of people. But at night, Cecilion spent his nights alone, night after night.\r\n\r\nThe lonely days continued until Cecilion made an unforgettable performance. When he went to the center of the stage to take his bow, he saw Carmilla. And this beautiful lady was looking at him too. At this moment, the two lonely souls instantly fell in love.\r\n\r\nAlthough Cecilion always warned himself against having contact with human beings, he could not resist his love for Carmilla. So he decided to follow his heart. In each performance, Cecilion would sing a song for Carmilla and they never ceased eye contact with each other. When talking about his own life, Cecilion chose to keep it as a secret. Even when Carmilla had doubts about his lifestyle, he still said nothing about it.\r\n\r\nAs the flames of love grew stronger, they had met secretly more frequently. Carmilla's father, Earl Ansaac knew everything about what they did. In his eyes, the Earl only thought of Cecilion as just humble opera actor. He felt Carmilla should get married with a powerful man. When this couple's love grew deeper, Earl Ansaac violently interrupted the relationship between the two, imprisoned Carmilla, sealed the opera house and exiled Cecilion.\r\n\r\nSoon after, there was a rumor that Earl Ansaac was about to marry off his only daughter, Carmilla, to the new Baron Tawil. At this time, Cecilion was so tempted to knock down the guards and take Carmilla away. However, he knew that he couldn't bring happiness to her, as she would become a fugitive on the run. After careful thought, he thought it best to give up.\r\n\r\nThe night was drawing to a close, and at dawn Carmilla was to marry Baron Tawil. Before the first light of dawn, Cecilion placed a rose and a letter with his name at Carmilla's window and turned away.\r\n\r\nBut what Cecilion didn't know was that his enstranged lifestyle was not important to Carmilla and she didn't care if he was a Blood Demon or a human being. She loved Cecilion for who he is. After putting on the white wedding dress, Carmilla cut her wrist with a sharp dagger, forfeiting her life for her love for Cecilion.\r\n\r\nGiving up Carmilla made Cecilion feel terribly sad, and his life seemed to return to what it had been. After two lonely nights, Cecilion went to see Carmilla, from a distance.\r\n\r\nBut when Cecilion arrived, he found Carmilla's cold corpse lying still at a solemn funeral. For a moment Cecilion felt nothing but pain and regret. How could he live as a human being without Carmilla? The new moor rose, Cecilion spread his wings and swept through the city in the cold night, taking away his love.\r\n\r\nAfter that day, the people of Castle Aberleen never saw Cecilion or Carmilla again. Only the legend of the nigh which passed from mouth to mouth over time.\r\n\r\nWhen the night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time had stood still.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 10,
+    "control": 5,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2380,
+    "health_growth": 142,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 700,
+    "mana_growth": 140,
+    "mana_regen": 5.6,
+    "mana_regen_growth": 0.2714,
+    "physical_attack": 105,
+    "physical_attack_growth": 4.71,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.0079,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 5.0
+  },
+  "abilities": [
+    {
+      "id": "Cecilion0",
+      "name": "Overflowing",
+      "description": "Cecilion gains 10 extra Max Mana and recovers 10 Mana each time his skill hits an enemy. Cooldown: 1s.<br/><br/>Cecilion has higher Max Mana and Mana Regen, and his skill damage scales with his Max Mana.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "1",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3d927bf75488e56e28187ea65cafcfa5.png",
+      "video_url": null
+    },
+    {
+      "id": "Cecilion1",
+      "name": "Bat Impact",
+      "description": "Cecilion commands a giant bat to dive at the target location, gaining 30% extra Movement Speed for 1s, dealing 85/102/119/136/153/170<scaleAP> (+70% Total Magic Power)</scaleAP> <highlight>(+7% Total Mana)</highlight> <magicDamage>Magic Damage</magicDamage> to enemies in its path. The bat also deals 170/204/238/272/306/340<scaleAP> (+140% Total Magic Power)</scaleAP> <highlight>(+14% Total Mana)</highlight> extra <magicDamage>Magic Damage</magicDamage> to those near the landing point, and applies <highlight>Overflowing</highlight> effect once.<br/><br/>Each subsequent cast within 6s increases this skill's Mana cost by 1.5/1.56/1.62/1.68/1.74/1.8 times (up to 4 stacks).",
+      "flavor_text": null,
+      "cost": "75",
+      "cooldown": "1.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3e1041a481d1f37d892f6489879a794.png",
+      "video_url": null
+    },
+    {
+      "id": "Cecilion2",
+      "name": "Sanguine Claws",
+      "description": "Cecilion summons a pair of opposing claws at the target location that will clasp together after a short delay, pulling enemies in their paths to the center while dealing them 200/220/240/260/280/300<scaleAP> (+45% Total Magic Power)</scaleAP> <highlight>(+1.2% Total Mana)</highlight> <magicDamage>Magic Damage</magicDamage> and immobilizing them for 1s.",
+      "flavor_text": null,
+      "cost": "95/100/105/110/115/120",
+      "cooldown": "12/11.2/10.4/9.6/8.8/8",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c03dcb05c090b95763374caea670a966.png",
+      "video_url": null
+    },
+    {
+      "id": "Cecilion3",
+      "name": "Bats Feast",
+      "description": "Cecilion unleashes his Blood Demon power, gaining 60% extra Movement Speed (decays over the duration) and Slow Immunity for 1.5s. Meanwhile, he fires 36 bolts of blood energy at nearby enemies, each dealing 35/40/45<scaleAP> (+8% Total Magic Power)</scaleAP> <highlight>(+0.3% Total Mana)</highlight> <magicDamage>Magic Damage</magicDamage> to the enemy hit and slowing them by 3% (up to 30%) for 1s.<br/><br/>Each bolt also restores 10/12.5/15 plus 1% of Cecilion's lost HP for him on hit.",
+      "flavor_text": null,
+      "cost": "150/200/250",
+      "cooldown": "44/41/38",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc9c4f09f975249b8587a6fdf61c8af3.png",
+      "video_url": null
+    },
+    {
+      "id": "Cecilion4",
+      "name": "Moonlit Waltz",
+      "description": "When Carmilla is nearby, Cecilion can summon her to become a Vermil Shadow around him, granting him a 520-800 shield (scales with Carmilla's level).<br/>Carmilla can choose to leave Cecilion and charge at the target location, gaining an equal shield while dealing 520-800 <magicDamage>Magic Damage</magicDamage> (scales with level) to nearby enemies and slowing them by 30% for 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "45",
+      "tags": [
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_44c27e7071734bb9f074bfa9c60c17b6.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Cecilion0",
+      "sequence": "Cecilion3-Cecilion1-Cecilion2-Cecilion1",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, initiate with Cecilion's Ultimate to slow the enemy, then hit them with his 1st Skill. When the time is right, pull the enemies together using his 2nd Skill and spam his 1st Skill for damage."
+    },
+    {
+      "id": "Cecilion1",
+      "sequence": "Cecilion2-Cecilion1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Cecilion's 2nd Skill to pull enemies together, then repeatedly hit them with his 1st Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Cecilion works well with Tanks with sustained CC abilities, such as Carmilla and Minotaur, since their CC can help Cecilion land his skills.",
+      "heroes": [
+        {
+          "id": 92,
+          "slug": "carmilla",
+          "name": "Carmilla"
+        },
+        {
+          "id": 19,
+          "slug": "minotaur",
+          "name": "Minotaur"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Cecilion counters less mobile Fighters like Balmond and Terizla because these heroes have a hard time getting close to Cecilion while Cecilion can more easily hit them with his skills.",
+      "heroes": [
+        {
+          "id": 2,
+          "slug": "balmond",
+          "name": "Balmond"
+        },
+        {
+          "id": 82,
+          "slug": "terizla",
+          "name": "Terizla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Cecilion is countered by Assassins who can quickly close the gap like Ling and Fanny because Cecilion lacks defensive tools and his normal skills cannot hit enemies in melee range.",
+      "heroes": [
+        {
+          "id": 84,
+          "slug": "ling",
+          "name": "Ling"
+        },
+        {
+          "id": 17,
+          "slug": "fanny",
+          "name": "Fanny"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Cecilion-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Cecilion-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_71d6b7fc8cfe8fd9b0c20ad3be1af4e8.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_71d6b7fc8cfe8fd9b0c20ad3be1af4e8.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/cecilion.json",
+    "visual_catalog": "catalog/v1/visual/cecilion.json",
+    "upgrade_catalog": "catalog/v1/upgrade/cecilion.json"
+  }
+}

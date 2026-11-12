@@ -1,0 +1,287 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Helcurt",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Exoracial Executer",
+      "Splash_url": "Helcurt-Exoracial-Executer.png",
+      "script": "Helcurt-Exoracial-Executer-Backup.zip",
+      "Portrait_url": "Helcurt-Exoracial-Executer.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Ice Scythe",
+          "Portrait_url": "Helcurt-Ice-Scythe.png",
+          "Splash_url": "Helcurt-Ice-Scythe.png",
+          "script": "Helcurt-Exoracial-Executer-Ice-Scythe.zip"
+        },
+        {
+          "name": "Evolved Predator",
+          "Portrait_url": "Helcurt-Evolved-Predator.png",
+          "Splash_url": "Helcurt-Evolved-Predator.png",
+          "script": "Helcurt-Exoracial-Executer-Evolved-Predator.zip"
+        },
+        {
+          "name": "Scorpio",
+          "Portrait_url": "Helcurt-Scorpio.png",
+          "Splash_url": "Helcurt-Scorpio.png",
+          "script": "Helcurt-Exoracial-Executer-Scorpio.zip"
+        },
+        {
+          "name": "Dream Prowler",
+          "Portrait_url": "Helcurt-Dream-Prowler.png",
+          "Splash_url": "Helcurt-Dream-Prowler.png",
+          "script": "Helcurt-Exoracial-Executer-Dream-Prowler.zip"
+        },
+        {
+          "name": "Kaiju of the Deep",
+          "Portrait_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "Splash_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "script": "Helcurt-Exoracial-Executer-Kaiju-of-the-Deep.zip"
+        },
+        {
+          "name": "Phantom Prowler",
+          "Portrait_url": "Helcurt-Phantom-Prowler.png",
+          "Splash_url": "Helcurt - Phantom Prowler.jpg",
+          "script": "Helcurt-Exoracial-Executer-Phantom-Prowler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Ice Scythe",
+      "Splash_url": "Helcurt-Ice-Scythe.png",
+      "script": "Helcurt-Ice-Scythe-Backup.zip",
+      "Portrait_url": "Helcurt-Ice-Scythe.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Exoracial Executer",
+          "Portrait_url": "Helcurt-Exoracial-Executer.png",
+          "Splash_url": "Helcurt-Exoracial-Executer.png",
+          "script": "Helcurt-Ice-Scythe-Exoracial-Executer.zip"
+        },
+        {
+          "name": "Evolved Predator",
+          "Portrait_url": "Helcurt-Evolved-Predator.png",
+          "Splash_url": "Helcurt-Evolved-Predator.png",
+          "script": "Helcurt-Ice-Scythe-Evolved-Predator.zip"
+        },
+        {
+          "name": "Scorpio",
+          "Portrait_url": "Helcurt-Scorpio.png",
+          "Splash_url": "Helcurt-Scorpio.png",
+          "script": "Helcurt-Ice-Scythe-Scorpio.zip"
+        },
+        {
+          "name": "Dream Prowler",
+          "Portrait_url": "Helcurt-Dream-Prowler.png",
+          "Splash_url": "Helcurt-Dream-Prowler.png",
+          "script": "Helcurt-Ice-Scythe-Dream-Prowler.zip"
+        },
+        {
+          "name": "Kaiju of the Deep",
+          "Portrait_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "Splash_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "script": "Helcurt-Ice-Scythe-Kaiju-of-the-Deep.zip"
+        },
+        {
+          "name": "Phantom Prowler",
+          "Portrait_url": "Helcurt-Phantom-Prowler.png",
+          "Splash_url": "Helcurt - Phantom Prowler.jpg",
+          "script": "Helcurt-Ice-Scythe-Phantom-Prowler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Evolved Predator",
+      "Splash_url": "Helcurt-Evolved-Predator.png",
+      "script": "Helcurt-Evolved-Predator-Backup.zip",
+      "Portrait_url": "Helcurt-Evolved-Predator.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Exoracial Executer",
+          "Portrait_url": "Helcurt-Exoracial-Executer.png",
+          "Splash_url": "Helcurt-Exoracial-Executer.png",
+          "script": "Helcurt-Evolved-Predator-Exoracial-Executer.zip"
+        },
+        {
+          "name": "Ice Scythe",
+          "Portrait_url": "Helcurt-Ice-Scythe.png",
+          "Splash_url": "Helcurt-Ice-Scythe.png",
+          "script": "Helcurt-Evolved-Predator-Ice-Scythe.zip"
+        },
+        {
+          "name": "Scorpio",
+          "Portrait_url": "Helcurt-Scorpio.png",
+          "Splash_url": "Helcurt-Scorpio.png",
+          "script": "Helcurt-Evolved-Predator-Scorpio.zip"
+        },
+        {
+          "name": "Dream Prowler",
+          "Portrait_url": "Helcurt-Dream-Prowler.png",
+          "Splash_url": "Helcurt-Dream-Prowler.png",
+          "script": "Helcurt-Evolved-Predator-Dream-Prowler.zip"
+        },
+        {
+          "name": "Kaiju of the Deep",
+          "Portrait_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "Splash_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "script": "Helcurt-Evolved-Predator-Kaiju-of-the-Deep.zip"
+        },
+        {
+          "name": "Phantom Prowler",
+          "Portrait_url": "Helcurt-Phantom-Prowler.png",
+          "Splash_url": "Helcurt - Phantom Prowler.jpg",
+          "script": "Helcurt-Evolved-Predator-Phantom-Prowler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Scorpio",
+      "Splash_url": "Helcurt-Scorpio.png",
+      "script": "Helcurt-Scorpio-Backup.zip",
+      "Portrait_url": "Helcurt-Scorpio.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Exoracial Executer",
+          "Portrait_url": "Helcurt-Exoracial-Executer.png",
+          "Splash_url": "Helcurt-Exoracial-Executer.png",
+          "script": "Helcurt-Scorpio-Exoracial-Executer.zip"
+        },
+        {
+          "name": "Ice Scythe",
+          "Portrait_url": "Helcurt-Ice-Scythe.png",
+          "Splash_url": "Helcurt-Ice-Scythe.png",
+          "script": "Helcurt-Scorpio-Ice-Scythe.zip"
+        },
+        {
+          "name": "Evolved Predator",
+          "Portrait_url": "Helcurt-Evolved-Predator.png",
+          "Splash_url": "Helcurt-Evolved-Predator.png",
+          "script": "Helcurt-Scorpio-Evolved-Predator.zip"
+        },
+        {
+          "name": "Dream Prowler",
+          "Portrait_url": "Helcurt-Dream-Prowler.png",
+          "Splash_url": "Helcurt-Dream-Prowler.png",
+          "script": "Helcurt-Scorpio-Dream-Prowler.zip"
+        },
+        {
+          "name": "Kaiju of the Deep",
+          "Portrait_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "Splash_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "script": "Helcurt-Scorpio-Kaiju-of-the-Deep.zip"
+        },
+        {
+          "name": "Phantom Prowler",
+          "Portrait_url": "Helcurt-Phantom-Prowler.png",
+          "Splash_url": "Helcurt - Phantom Prowler.jpg",
+          "script": "Helcurt-Scorpio-Phantom-Prowler.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dream Prowler",
+      "Splash_url": "Helcurt-Dream-Prowler.png",
+      "script": "Helcurt-Dream-Prowler-Backup.zip",
+      "Portrait_url": "Helcurt-Dream-Prowler.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Exoracial Executer",
+          "Portrait_url": "Helcurt-Exoracial-Executer.png",
+          "Splash_url": "Helcurt-Exoracial-Executer.png",
+          "script": "Helcurt-Dream-Prowler-Exoracial-Executer.zip"
+        },
+        {
+          "name": "Ice Scythe",
+          "Portrait_url": "Helcurt-Ice-Scythe.png",
+          "Splash_url": "Helcurt-Ice-Scythe.png",
+          "script": "Helcurt-Dream-Prowler-Ice-Scythe.zip"
+        },
+        {
+          "name": "Evolved Predator",
+          "Portrait_url": "Helcurt-Evolved-Predator.png",
+          "Splash_url": "Helcurt-Evolved-Predator.png",
+          "script": "Helcurt-Dream-Prowler-Evolved-Predator.zip"
+        },
+        {
+          "name": "Scorpio",
+          "Portrait_url": "Helcurt-Scorpio.png",
+          "Splash_url": "Helcurt-Scorpio.png",
+          "script": "Helcurt-Dream-Prowler-Scorpio.zip"
+        },
+        {
+          "name": "Kaiju of the Deep",
+          "Portrait_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "Splash_url": "Helcurt-Kaiju-of-the-Deep.png",
+          "script": "Helcurt-Dream-Prowler-Kaiju-of-the-Deep.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Kaiju of the Deep",
+      "Splash_url": "Helcurt-Kaiju-of-the-Deep.png",
+      "script": "Helcurt-Kaiju-of-the-Deep-Backup.zip",
+      "Portrait_url": "Helcurt-Kaiju-of-the-Deep.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Exoracial Executer",
+          "Portrait_url": "Helcurt-Exoracial-Executer.png",
+          "Splash_url": "Helcurt-Exoracial-Executer.png",
+          "script": "Helcurt-Kaiju-of-the-Deep-Exoracial-Executer.zip"
+        },
+        {
+          "name": "Ice Scythe",
+          "Portrait_url": "Helcurt-Ice-Scythe.png",
+          "Splash_url": "Helcurt-Ice-Scythe.png",
+          "script": "Helcurt-Kaiju-of-the-Deep-Ice-Scythe.zip"
+        },
+        {
+          "name": "Evolved Predator",
+          "Portrait_url": "Helcurt-Evolved-Predator.png",
+          "Splash_url": "Helcurt-Evolved-Predator.png",
+          "script": "Helcurt-Kaiju-of-the-Deep-Evolved-Predator.zip"
+        },
+        {
+          "name": "Scorpio",
+          "Portrait_url": "Helcurt-Scorpio.png",
+          "Splash_url": "Helcurt-Scorpio.png",
+          "script": "Helcurt-Kaiju-of-the-Deep-Scorpio.zip"
+        },
+        {
+          "name": "Dream Prowler",
+          "Portrait_url": "Helcurt-Dream-Prowler.png",
+          "Splash_url": "Helcurt-Dream-Prowler.png",
+          "script": "Helcurt-Kaiju-of-the-Deep-Dream-Prowler.zip"
+        },
+        {
+          "name": "Phantom Prowler",
+          "Portrait_url": "Helcurt-Phantom-Prowler.png",
+          "Splash_url": "Helcurt - Phantom Prowler.jpg",
+          "script": "Helcurt-Kaiju-of-the-Deep-Phantom-Prowler.zip"
+        }
+      ]
+    }
+  ]
+}

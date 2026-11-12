@@ -1,0 +1,665 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Valir",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Pale Flame",
+      "Splash_url": "Valir-Pale-Flame.png",
+      "script": "Valir-Pale-Flame-Backup.zip",
+      "Portrait_url": "Valir-Pale-Flame.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Pale-Flame-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Pale-Flame-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Pale-Flame-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Pale-Flame-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Pale-Flame-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Pale-Flame-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Pale-Flame-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Pale-Flame-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Pale-Flame-Kyo-Kusanagi.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Pale-Flame-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Shikigami Sumonner",
+      "Splash_url": "Valir-Shikigami-Sumonner.png",
+      "script": "Valir-Shikigami-Sumonner-Backup.zip",
+      "Portrait_url": "Valir-Shikigami-Sumonner.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Shikigami-Sumonner-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Shikigami-Sumonner-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Shikigami-Sumonner-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Shikigami-Sumonner-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Shikigami-Sumonner-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Shikigami-Sumonner-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Shikigami-Sumonner-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Shikigami-Sumonner-Kyo-Kusanagi.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Dictator",
+      "Splash_url": "Valir-Dictator.png",
+      "script": "Valir-Dictator-Backup.zip",
+      "Portrait_url": "Valir-Dictator.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Dictator-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Dictator-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Dictator-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Dictator-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Dictator-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Dictator-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Dictator-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Dictator-Kyo-Kusanagi.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Dictator-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Tamer",
+      "Default_name": "Draconic Flame",
+      "Splash_url": "Valir-Draconic-Flame.png",
+      "script": "Valir-Draconic-Flame-Backup.zip",
+      "Portrait_url": "Valir-Draconic-Flame.png",
+      "Tags": [
+        "Dragon Tamer.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Draconic-Flame-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Draconic-Flame-Dictator.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Draconic-Flame-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Draconic-Flame-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Draconic-Flame-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Draconic-Flame-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Draconic-Flame-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Draconic-Flame-Kyo-Kusanagi.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Draconic-Flame-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Demonlord",
+      "Splash_url": "Valir-Demonlord.png",
+      "script": "Valir-Demonlord-Backup.zip",
+      "Portrait_url": "Valir-Demonlord.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Demonlord-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Demonlord-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Demonlord-Draconic-Flame.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Demonlord-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Demonlord-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Demonlord-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Demonlord-Kyo-Kusanagi.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Demonlord-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Infernal Blaze",
+      "Splash_url": "Valir-Infernal-Blaze.png",
+      "script": "Valir-Infernal-Blaze-Backup.zip",
+      "Portrait_url": "Valir-Infernal-Blaze.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Infernal-Blaze-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Infernal-Blaze-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Infernal-Blaze-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Infernal-Blaze-Demonlord.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Infernal-Blaze-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Infernal-Blaze-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Infernal-Blaze-Kyo-Kusanagi.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Infernal-Blaze-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Saint Seiya",
+      "Default_name": "Phoenix Ikki",
+      "Splash_url": "Valir-Phoenix-Ikki.png",
+      "script": "Valir-Phoenix-Ikki-Backup.zip",
+      "Portrait_url": "Valir-Phoenix-Ikki.png",
+      "Tags": [
+        "Saint Seiya.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Phoenix-Ikki-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Phoenix-Ikki-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Phoenix-Ikki-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Phoenix-Ikki-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Phoenix-Ikki-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Phoenix-Ikki-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Phoenix-Ikki-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Phoenix-Ikki-Kyo-Kusanagi.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Phoenix-Ikki-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Saint Seiya",
+      "Default_name": "Leo Ikki",
+      "Splash_url": "Valir-Leo-Ikki.png",
+      "script": "Valir-Leo-Ikki-Backup.zip",
+      "Portrait_url": "Valir-Leo-Ikki.png",
+      "Tags": [
+        "Saint Seiya.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Leo-Ikki-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Leo-Ikki-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Leo-Ikki-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Leo-Ikki-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Leo-Ikki-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Leo-Ikki-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Leo-Ikki-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Leo-Ikki-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Arcane Seeker",
+      "Splash_url": "Valir-Arcane-Seeker.png",
+      "script": "Valir-Arcane-Seeker-Backup.zip",
+      "Portrait_url": "Valir-Arcane-Seeker.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Arcane-Seeker-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Arcane-Seeker-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Arcane-Seeker-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Arcane-Seeker-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Arcane-Seeker-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Arcane-Seeker-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Arcane-Seeker-Leo-Ikki.zip"
+        },
+        {
+          "name": "Kyo Kusanagi",
+          "Portrait_url": "Valir-Kyo-Kusanagi.png",
+          "Splash_url": "Valir-Kyo-Kusanagi.png",
+          "script": "Valir-Arcane-Seeker-Kyo-Kusanagi.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Arcane-Seeker-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Kyo Kusanagi",
+      "Splash_url": "Valir-Kyo-Kusanagi.png",
+      "script": "Valir-Kyo-Kusanagi-Backup.zip",
+      "Portrait_url": "Valir-Kyo-Kusanagi.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Sumonner",
+          "Portrait_url": "Valir-Shikigami-Sumonner.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Kyo-Kusanagi-Shikigami-Sumonner.zip"
+        },
+        {
+          "name": "Dictator",
+          "Portrait_url": "Valir-Dictator.png",
+          "Splash_url": "Valir-Dictator.png",
+          "script": "Valir-Kyo-Kusanagi-Dictator.zip"
+        },
+        {
+          "name": "Draconic Flame",
+          "Portrait_url": "Valir-Draconic-Flame.png",
+          "Splash_url": "Valir-Draconic-Flame.png",
+          "script": "Valir-Kyo-Kusanagi-Draconic-Flame.zip"
+        },
+        {
+          "name": "Demonlord",
+          "Portrait_url": "Valir-Demonlord.png",
+          "Splash_url": "Valir-Demonlord.png",
+          "script": "Valir-Kyo-Kusanagi-Demonlord.zip"
+        },
+        {
+          "name": "Infernal Blaze",
+          "Portrait_url": "Valir-Infernal-Blaze.png",
+          "Splash_url": "Valir-Infernal-Blaze.png",
+          "script": "Valir-Kyo-Kusanagi-Infernal-Blaze.zip"
+        },
+        {
+          "name": "Phoenix Ikki",
+          "Portrait_url": "Valir-Phoenix-Ikki.png",
+          "Splash_url": "Valir-Phoenix-Ikki.png",
+          "script": "Valir-Kyo-Kusanagi-Phoenix-Ikki.zip"
+        },
+        {
+          "name": "Leo Ikki",
+          "Portrait_url": "Valir-Leo-Ikki.png",
+          "Splash_url": "Valir-Leo-Ikki.png",
+          "script": "Valir-Kyo-Kusanagi-Leo-Ikki.zip"
+        },
+        {
+          "name": "Arcane Seeker",
+          "Portrait_url": "Valir-Arcane-Seeker.png",
+          "Splash_url": "Valir-Arcane-Seeker.png",
+          "script": "Valir-Kyo-Kusanagi-Arcane-Seeker.zip"
+        },
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Kyo-Kusanagi-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Shikigami Envoy Skin 11",
+      "Splash_url": "Valir-Shikigami-Envoy.png",
+      "script": "Valir-Shikigami-Envoy-Skin-11-Backup.zip",
+      "Portrait_url": "Valir-Shikigami-Envoy.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Shikigami Envoy Painted 01",
+          "Portrait_url": "Valir-Shikigami-Envoy.png",
+          "Splash_url": "Valir-Shikigami-Sumonner.png",
+          "script": "Valir-Shikigami-Envoy-Skin-11-Shikigami-Envoy-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

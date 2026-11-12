@@ -1,0 +1,186 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "miya-backup",
+      "portrait_file": "Miya-Default.png",
+      "script_file": "Miya-Backup.zip",
+      "skin_name": "Moonlight Archer",
+      "splash_file": "Miya-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "miya-burning-bow",
+      "portrait_file": "Miya-Burning-Bow.png",
+      "script_file": "Miya-Burning-Bow.zip",
+      "skin_name": "Burning Bow",
+      "splash_file": "Miya-Burning-Bow.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "miya-christmas-carnival",
+      "portrait_file": "Miya-Christmas-Carnival.png",
+      "script_file": "Miya-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Miya-Christmas-Carnival.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "miya-captain-thorns",
+      "portrait_file": "Miya-Captain-Thorns.png",
+      "script_file": "Miya-Captain-Thorns.zip",
+      "skin_name": "Captain Thorns",
+      "splash_file": "Miya-Captain-Thorns.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "miya-honor",
+      "portrait_file": "Miya-Honor.png",
+      "script_file": "Miya-Honor.zip",
+      "skin_name": "Honor",
+      "splash_file": "Miya-Honor.png",
+      "tag_id": "limited",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "miya-modena-butterfly",
+      "portrait_file": "Miya-Modena-Butterfly.png",
+      "script_file": "Miya-Modena-Butterfly.zip",
+      "skin_name": "Modena Butterfly",
+      "splash_file": "Miya-Modena-Butterfly.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "miya-sweet-fantasy",
+      "portrait_file": "Miya-Sweet-Fantasy.png",
+      "script_file": "Miya-Sweet-Fantasy.zip",
+      "skin_name": "Sweet Fantasy",
+      "splash_file": "Miya-Sweet-Fantasy.png",
+      "tag_id": "valentine",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "miya-suzuhime",
+      "portrait_file": "Miya-Suzuhime.png",
+      "script_file": "Miya-Suzuhime.zip",
+      "skin_name": "Suzuhime",
+      "splash_file": "Miya-Suzuhime.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "miya-jungle-ranger",
+      "portrait_file": "Miya-Jungle-Ranger.png",
+      "script_file": "Miya-Jungle-Ranger.zip",
+      "skin_name": "Jungle Ranger",
+      "splash_file": "Miya-Jungle-Ranger.png",
+      "tag_id": "special",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "miya-moon-priestess",
+      "portrait_file": "Miya-Moon-Priestess.png",
+      "script_file": "Miya-Moon-Priestess.zip",
+      "skin_name": "Moon Priestess",
+      "splash_file": "Miya-Moon-Priestess.png",
+      "tag_id": "5th-anniversary",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "miya-doom-catalyst",
+      "portrait_file": "Miya-Doom-Catalyst.png",
+      "script_file": "Miya-Doom-Catalyst.zip",
+      "skin_name": "Doom Catalyst",
+      "splash_file": "Miya-Doom-Catalyst.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "miya-atomic-pop-miya",
+      "portrait_file": "Miya-Atomic-Pop-Miya.png",
+      "script_file": "Miya-Atomic-Pop-Miya.zip",
+      "skin_name": "Atomic Pop Miya",
+      "splash_file": "Miya-Atomic-Pop-Miya.png",
+      "tag_id": "atomic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "miya-nightowl-huntress",
+      "portrait_file": "Miya-Nightowl-Huntress.png",
+      "script_file": "Miya-Nightowl-Huntress.zip",
+      "skin_name": "Nightowl Huntress",
+      "splash_file": "Miya-Nightowl-Huntress.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "miya-arrow-of-springs",
+      "portrait_file": "Miya-Arrow-of-Spring.png",
+      "script_file": "Miya-Arrow-of-Springs.zip",
+      "skin_name": "Arrow of Springs",
+      "splash_file": "Miya-Arrow-of-Springs.png",
+      "tag_id": "seasons",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "miya-tranquil-bow-painted-01",
+      "portrait_file": "Miya-Tranquil-Bow.png",
+      "script_file": "Miya-Tranquil-Bow.zip",
+      "skin_name": "Tranquil Bow",
+      "splash_file": "Miya-Tranquil-Bow.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "miya-nightowl-warden-painted-01",
+      "portrait_file": "Miya-Nightowl-Warden.png",
+      "script_file": "Miya-Nightowl-Warden.zip",
+      "skin_name": "Nightowl Warden",
+      "splash_file": "Miya - Nightowl Warden.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "miya-nightowl-sentinel-painted-02",
+      "portrait_file": "Miya-Nightowl-Sentinel.png",
+      "script_file": "Miya-Nightowl-Sentinel.zip",
+      "skin_name": "Nightowl Sentinel",
+      "splash_file": "Miya - Nightowl Sentinel.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 1,
+    "name": "Miya",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "miya"
+  },
+  "release_tag": "visual-miya",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

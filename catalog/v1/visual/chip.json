@@ -1,0 +1,57 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "chip-backup",
+      "portrait_file": "Chip-Default.png",
+      "script_file": "Chip-Backup.zip",
+      "skin_name": "Phase Technician",
+      "splash_file": "Chip-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "chip-nexus-engineer",
+      "portrait_file": "Chip-Nexus-Engineer.png",
+      "script_file": "Chip-Nexus-Engineer.zip",
+      "skin_name": "Nexus Engineer",
+      "splash_file": "Chip-Nexus-Engineer.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "chip-badlands-hiatus",
+      "portrait_file": "Chip-Badlands-Hiatus.png",
+      "script_file": "Chip-Badlands-Hiatus.zip",
+      "skin_name": "Badlands Hiatus",
+      "splash_file": "Chip-Badlands-Hiatus.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "chip-player-one",
+      "portrait_file": "Chip-Player-One.png",
+      "script_file": "Chip-Player-One.zip",
+      "skin_name": "Player One",
+      "splash_file": "Chip-Player-One.png",
+      "tag_id": null,
+      "tier": "common"
+    }
+  ],
+  "hero": {
+    "id": 124,
+    "name": "Chip",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "slug": "chip"
+  },
+  "release_tag": "visual-chip",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

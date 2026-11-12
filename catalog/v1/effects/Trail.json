@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.08.08.3",
+  "updated_at": "2026-08-08T00:00:00Z",
+  "category": {
+    "id": "trails",
+    "title": "Trails",
+    "kind": "trail"
+  },
+  "data": [
+    {
+      "id": "classic",
+      "name": "Classic",
+      "description": "Use Classic as the base trail and choose from 73 replacement effects.",
+      "uses_default_sound": true,
+      "targets": [
+        {
+          "id": "ancient-warden",
+          "name": "Ancient Warden",
+          "description": "Replace Classic with the Ancient Warden trail and matching battle icon.",
+          "image": "/Effects/Trail/Ancient%20Warden.png",
+          "script": "/Effects/Trail/Ancient%20Warden.zip"
+        },
+        {
+          "id": "angelic-agent",
+          "name": "Angelic Agent",
+          "description": "Replace Classic with the Angelic Agent trail and matching battle icon.",
+          "image": "/Effects/Trail/Angelic%20Agent.png",
+          "script": "/Effects/Trail/Angelic%20Agent.zip"
+        },
+        {
+          "id": "arcane-magistrate",
+          "name": "Arcane Magistrate",
+          "description": "Replace Classic with the Arcane Magistrate trail and matching battle icon.",
+          "image": "/Effects/Trail/Arcane%20Magistrate.png",
+          "script": "/Effects/Trail/Arcane%20Magistrate.zip"
+        },
+        {
+          "id": "beatrix",
+          "name": "Beatrix",
+          "description": "Replace Classic with the Beatrix trail and matching battle icon.",
+          "image": "/Effects/Trail/Beatrix.png",
+          "script": "/Effects/Trail/Beatrix.zip"
+        },
+        {
+          "id": "checkered-knight",
+          "name": "Checkered Knight",
+          "description": "Replace Classic with the Checkered Knight trail and matching battle icon.",
+          "image": "/Effects/Trail/Checkered%20Knight.png",
+          "script": "/Effects/Trail/Checkered%20Knight.zip"
+        },
+        {
+          "id": "chic-glamour",
+          "name": "Chic Glamour",
+          "description": "Replace Classic with the Chic Glamour trail and matching battle icon.",
+          "image": "/Effects/Trail/Chic%20Glamour.png",
+          "script": "/Effects/Trail/Chic%20Glamour.zip"
+        },
+        {
+          "id": "circus-reverie",
+          "name": "Circus Reverie",
+          "description": "Replace Classic with the Circus Reverie trail and matching battle icon.",
+          "image": "/Effects/Trail/Circus%20Reverie.png",
+          "script": "/Effects/Trail/Circus%20Reverie.zip"
+        },
+        {
+          "id": "codename-storm",
+          "name": "Codename - Storm",
+          "description": "Replace Classic with the Codename - Storm trail and matching battle icon.",
+          "image": "/Effects/Trail/Codename%20-%20Storm.png",
+          "script": "/Effects/Trail/Codename%20-%20Storm.zip"
+        },
+        {
+          "id": "conqueror",
+          "name": "Conqueror",
+          "description": "Replace Classic with the Conqueror trail and matching battle icon.",
+          "image": "/Effects/Trail/Conqueror.png",
+          "script": "/Effects/Trail/Conqueror.zip"
+        },
+        {
+          "id": "cosmic-blaze",
+          "name": "Cosmic Blaze",
+          "description": "Replace Classic with the Cosmic Blaze trail and matching battle icon.",
+          "image": "/Effects/Trail/Cosmic%20Blaze.png",
+          "script": "/Effects/Trail/Cosmic%20Blaze.zip"
+        },
+        {
+          "id": "cosmic-finality",
+          "name": "Cosmic Finality",
+          "description": "Replace Classic with the Cosmic Finality trail and matching battle icon.",
+          "image": "/Effects/Trail/Cosmic%20Finality.png",
+          "script": "/Effects/Trail/Cosmic%20Finality.zip"
+        },
+        {
+          "id": "cosmic-gleam",
+          "name": "Cosmic Gleam",
+          "description": "Replace Classic with the Cosmic Gleam trail and matching battle icon.",
+          "image": "/Effects/Trail/Cosmic%20Gleam.png",
+          "script": "/Effects/Trail/Cosmic%20Gleam.zip"
+        },
+        {
+          "id": "crimson-lion",
+          "name": "Crimson Lion",
+          "description": "Replace Classic with the Crimson Lion trail and matching battle icon.",
+          "image": "/Effects/Trail/Crimson%20Lion.png",
+          "script": "/Effects/Trail/Crimson%20Lion.zip"
+        },
+        {
+          "id": "cyber-agent",
+          "name": "Cyber Agent",
+          "description": "Replace Classic with the Cyber Agent trail and matching battle icon.",
+          "image": "/Effects/Trail/Cyber%20Agent.png",
+          "script": "/Effects/Trail/Cyber%20Agent.zip"
+        },
+        {
+          "id": "cyber-dragon",
+          "name": "Cyber Dragon",
+          "description": "Replace Classic with the Cyber Dragon trail and matching battle icon.",
+          "image": "/Effects/Trail/Cyber%20Dragon.png",
+          "script": "/Effects/Trail/Cyber%20Dragon.zip"
+        },
+        {
+          "id": "darkwater-terror",
+          "name": "Darkwater Terror",
+          "description": "Replace Classic with the Darkwater Terror trail and matching battle icon.",
+          "image": "/Effects/Trail/Darkwater%20Terror.png",
+          "script": "/Effects/Trail/Darkwater%20Terror.zip"
+        },
+        {
+          "id": "death-s-shadow",
+          "name": "Death's Shadow",
+          "description": "Replace Classic with the Death's Shadow trail and matching battle icon.",
+          "image": "/Effects/Trail/Death's%20Shadow.png",
+          "script": "/Effects/Trail/Death's%20Shadow.zip"
+        },
+        {
+          "id": "deluxe",
+          "name": "Deluxe",
+          "description": "Replace Classic with the Deluxe trail and matching battle icon.",
+          "image": "/Effects/Trail/Deluxe.png",
+          "script": "/Effects/Trail/Deluxe.zip"
+        },
+        {
+          "id": "dream-prowler",
+          "name": "Dream Prowler",
+          "description": "Replace Classic with the Dream Prowler trail and matching battle icon.",
+          "image": "/Effects/Trail/Dream%20Prowler.png",
+          "script": "/Effects/Trail/Dream%20Prowler.zip"
+        },
+        {
+          "id": "dreaming-koi",
+          "name": "Dreaming Koi",
+          "description": "Replace Classic with the Dreaming Koi trail and matching battle icon.",
+          "image": "/Effects/Trail/Dreaming%20Koi.png",
+          "script": "/Effects/Trail/Dreaming%20Koi.zip"
+        },
+        {
+          "id": "dynamic-streak",
+          "name": "Dynamic Streak",
+          "description": "Replace Classic with the Dynamic Streak trail and matching battle icon.",
+          "image": "/Effects/Trail/Dynamic%20Streak.png",
+          "script": "/Effects/Trail/Dynamic%20Streak.zip"
+        },
+        {
+          "id": "emberwisp-mystic",
+          "name": "Emberwisp Mystic",
+          "description": "Replace Classic with the Emberwisp Mystic trail and matching battle icon.",
+          "image": "/Effects/Trail/Emberwisp%20Mystic.png",
+          "script": "/Effects/Trail/Emberwisp%20Mystic.zip"
+        },
+        {
+          "id": "eternal-guardian",
+          "name": "Eternal Guardian",
+          "description": "Replace Classic with the Eternal Guardian trail and matching battle icon.",
+          "image": "/Effects/Trail/Eternal%20Guardian.png",
+          "script": "/Effects/Trail/Eternal%20Guardian.zip"
+        },
+        {
+          "id": "exceptional",
+          "name": "Exceptional",
+          "description": "Replace Classic with the Exceptional trail and matching battle icon.",
+          "image": "/Effects/Trail/Exceptional.png",
+          "script": "/Effects/Trail/Exceptional.zip"
+        },
+        {
+          "id": "exostar-scout-exclusive",
+          "name": "Exostar Scout - Exclusive",
+          "description": "Replace Classic with the Exostar Scout - Exclusive trail and matching battle icon.",
+          "image": "/Effects/Trail/Exostar%20Scout%20-%20Exclusive.png",
+          "script": "/Effects/Trail/Exostar%20Scout%20-%20Exclusive.zip"
+        },
+        {
+          "id": "exostar-scout",
+          "name": "Exostar Scout",
+          "description": "Replace Classic with the Exostar Scout trail and matching battle icon.",
+          "image": "/Effects/Trail/Exostar%20Scout.png",
+          "script": "/Effects/Trail/Exostar%20Scout.zip"
+        },
+        {
+          "id": "fangs-of-slaughter",
+          "name": "Fangs of Slaughter",
+          "description": "Replace Classic with the Fangs of Slaughter trail and matching battle icon.",
+          "image": "/Effects/Trail/Fangs%20of%20Slaughter.png",
+          "script": "/Effects/Trail/Fangs%20of%20Slaughter.zip"
+        },
+        {
+          "id": "fashion-mogul",
+          "name": "Fashion Mogul",
+          "description": "Replace Classic with the Fashion Mogul trail and matching battle icon.",
+          "image": "/Effects/Trail/Fashion%20Mogul.png",
+          "script": "/Effects/Trail/Fashion%20Mogul.zip"
+        },
+        {
+          "id": "festival-flutter",
+          "name": "Festival Flutter",
+          "description": "Replace Classic with the Festival Flutter trail and matching battle icon.",
+          "image": "/Effects/Trail/Festival%20Flutter.png",
+          "script": "/Effects/Trail/Festival%20Flutter.zip"
+        },
+        {
+          "id": "fiend-haunter-exclusive-trail",
+          "name": "Fiend Haunter Exclusive Trail",
+          "description": "Replace Classic with the Fiend Haunter Exclusive Trail trail and matching battle icon.",
+          "image": "/Effects/Trail/Fiend%20Haunter%20Exclusive%20Trail.png",
+          "script": "/Effects/Trail/Fiend%20Haunter%20Exclusive%20Trail.zip"
+        },
+        {
+          "id": "flame-lotus",
+          "name": "Flame Lotus",
+          "description": "Replace Classic with the Flame Lotus trail and matching battle icon.",
+          "image": "/Effects/Trail/Flame%20Lotus.png",
+          "script": "/Effects/Trail/Flame%20Lotus.zip"
+        },
+        {
+          "id": "fury-of-the-deep",
+          "name": "Fury of the Deep",
+          "description": "Replace Classic with the Fury of the Deep trail and matching battle icon.",
+          "image": "/Effects/Trail/Fury%20of%20the%20Deep.png",
+          "script": "/Effects/Trail/Fury%20of%20the%20Deep.zip"
+        },
+        {
+          "id": "galactic-starhawk",
+          "name": "Galactic Starhawk",
+          "description": "Replace Classic with the Galactic Starhawk trail and matching battle icon.",
+          "image": "/Effects/Trail/Galactic%20Starhawk.png",
+          "script": "/Effects/Trail/Galactic%20Starhawk.zip"
+        },
+        {
+          "id": "galactic-vanquisher",
+          "name": "Galactic Vanquisher",
+          "description": "Replace Classic with the Galactic Vanquisher trail and matching battle icon.",
+          "image": "/Effects/Trail/Galactic%20Vanquisher.png",
+          "script": "/Effects/Trail/Galactic%20Vanquisher.zip"
+        },
+        {
+          "id": "guardian-battalion",
+          "name": "Guardian Battalion",
+          "description": "Replace Classic with the Guardian Battalion trail and matching battle icon.",
+          "image": "/Effects/Trail/Guardian%20Battalion.png",
+          "script": "/Effects/Trail/Guardian%20Battalion.zip"
+        },
+        {
+          "id": "hardlight-artificer",
+          "name": "Hardlight Artificer",
+          "description": "Replace Classic with the Hardlight Artificer trail and matching battle icon.",
+          "image": "/Effects/Trail/Hardlight%20Artificer.png",
+          "script": "/Effects/Trail/Hardlight%20Artificer.zip"
+        },
+        {
+          "id": "imperator-vitalis",
+          "name": "Imperator Vitalis",
+          "description": "Replace Classic with the Imperator Vitalis trail and matching battle icon.",
+          "image": "/Effects/Trail/Imperator%20Vitalis.png",
+          "script": "/Effects/Trail/Imperator%20Vitalis.zip"
+        },
+        {
+          "id": "infernal-blaze",
+          "name": "Infernal Blaze",
+          "description": "Replace Classic with the Infernal Blaze trail and matching battle icon.",
+          "image": "/Effects/Trail/Infernal%20Blaze.png",
+          "script": "/Effects/Trail/Infernal%20Blaze.zip"
+        },
+        {
+          "id": "king-of-hell",
+          "name": "King of Hell",
+          "description": "Replace Classic with the King of Hell trail and matching battle icon.",
+          "image": "/Effects/Trail/King%20of%20Hell.png",
+          "script": "/Effects/Trail/King%20of%20Hell.zip"
+        },
+        {
+          "id": "lord-of-scalding-seas",
+          "name": "Lord of Scalding Seas",
+          "description": "Replace Classic with the Lord of Scalding Seas trail and matching battle icon.",
+          "image": "/Effects/Trail/Lord%20of%20Scalding%20Seas.png",
+          "script": "/Effects/Trail/Lord%20of%20Scalding%20Seas.zip"
+        },
+        {
+          "id": "m3-glorious-trail",
+          "name": "M3 Glorious Trail",
+          "description": "Replace Classic with the M3 Glorious Trail trail and matching battle icon.",
+          "image": "/Effects/Trail/M3%20Glorious%20Trail.png",
+          "script": "/Effects/Trail/M3%20Glorious%20Trail.zip"
+        },
+        {
+          "id": "m4-glory",
+          "name": "M4 Glory",
+          "description": "Replace Classic with the M4 Glory trail and matching battle icon.",
+          "image": "/Effects/Trail/M4%20Glory.png",
+          "script": "/Effects/Trail/M4%20Glory.zip"
+        },
+        {
+          "id": "m5-glory",
+          "name": "M5 Glory",
+          "description": "Replace Classic with the M5 Glory trail and matching battle icon.",
+          "image": "/Effects/Trail/M5%20Glory.png",
+          "script": "/Effects/Trail/M5%20Glory.zip"
+        },
+        {
+          "id": "m6-glory",
+          "name": "M6 Glory",
+          "description": "Replace Classic with the M6 Glory trail and matching battle icon.",
+          "image": "/Effects/Trail/M6%20Glory.png",
+          "script": "/Effects/Trail/M6%20Glory.zip"
+        },
+        {
+          "id": "m7-glory",
+          "name": "M7 Glory",
+          "description": "Replace Classic with the M7 Glory trail and matching battle icon.",
+          "image": "/Effects/Trail/M7%20Glory.png",
+          "script": "/Effects/Trail/M7%20Glory.zip"
+        },
+        {
+          "id": "magitech-arsenal",
+          "name": "Magitech Arsenal",
+          "description": "Replace Classic with the Magitech Arsenal trail and matching battle icon.",
+          "image": "/Effects/Trail/Magitech%20Arsenal.png",
+          "script": "/Effects/Trail/Magitech%20Arsenal.zip"
+        },
+        {
+          "id": "magitech-wraith",
+          "name": "Magitech Wraith",
+          "description": "Replace Classic with the Magitech Wraith trail and matching battle icon.",
+          "image": "/Effects/Trail/Magitech%20Wraith.png",
+          "script": "/Effects/Trail/Magitech%20Wraith.zip"
+        },
+        {
+          "id": "maiden-of-the-tide",
+          "name": "Maiden of the Tide",
+          "description": "Replace Classic with the Maiden of the Tide trail and matching battle icon.",
+          "image": "/Effects/Trail/Maiden%20of%20the%20Tide.png",
+          "script": "/Effects/Trail/Maiden%20of%20the%20Tide.zip"
+        },
+        {
+          "id": "matrix-maverick",
+          "name": "Matrix Maverick",
+          "description": "Replace Classic with the Matrix Maverick trail and matching battle icon.",
+          "image": "/Effects/Trail/Matrix%20Maverick.png",
+          "script": "/Effects/Trail/Matrix%20Maverick.zip"
+        },
+        {
+          "id": "modena-butterfly",
+          "name": "Modena Butterfly",
+          "description": "Replace Classic with the Modena Butterfly trail and matching battle icon.",
+          "image": "/Effects/Trail/Modena%20Butterfly.png",
+          "script": "/Effects/Trail/Modena%20Butterfly.zip"
+        },
+        {
+          "id": "nightowl-huntress",
+          "name": "Nightowl Huntress",
+          "description": "Replace Classic with the Nightowl Huntress trail and matching battle icon.",
+          "image": "/Effects/Trail/Nightowl%20Huntress.png",
+          "script": "/Effects/Trail/Nightowl%20Huntress.zip"
+        },
+        {
+          "id": "nightwalker",
+          "name": "Nightwalker",
+          "description": "Replace Classic with the Nightwalker trail and matching battle icon.",
+          "image": "/Effects/Trail/Nightwalker.png",
+          "script": "/Effects/Trail/Nightwalker.zip"
+        },
+        {
+          "id": "nutcracker-monarch",
+          "name": "Nutcracker Monarch",
+          "description": "Replace Classic with the Nutcracker Monarch trail and matching battle icon.",
+          "image": "/Effects/Trail/Nutcracker%20Monarch.png",
+          "script": "/Effects/Trail/Nutcracker%20Monarch.zip"
+        },
+        {
+          "id": "obsidian-blade",
+          "name": "Obsidian Blade",
+          "description": "Replace Classic with the Obsidian Blade trail and matching battle icon.",
+          "image": "/Effects/Trail/Obsidian%20Blade.png",
+          "script": "/Effects/Trail/Obsidian%20Blade.zip"
+        },
+        {
+          "id": "psion-of-tomorrow",
+          "name": "Psion of Tomorrow",
+          "description": "Replace Classic with the Psion of Tomorrow trail and matching battle icon.",
+          "image": "/Effects/Trail/Psion%20of%20Tomorrow.png",
+          "script": "/Effects/Trail/Psion%20of%20Tomorrow.zip"
+        },
+        {
+          "id": "rebel-emberfang",
+          "name": "Rebel Emberfang",
+          "description": "Replace Classic with the Rebel Emberfang trail and matching battle icon.",
+          "image": "/Effects/Trail/Rebel%20Emberfang.png",
+          "script": "/Effects/Trail/Rebel%20Emberfang.zip"
+        },
+        {
+          "id": "revenant-of-roses",
+          "name": "Revenant of Roses",
+          "description": "Replace Classic with the Revenant of Roses trail and matching battle icon.",
+          "image": "/Effects/Trail/Revenant%20of%20Roses.png",
+          "script": "/Effects/Trail/Revenant%20of%20Roses.zip"
+        },
+        {
+          "id": "royal-marshal",
+          "name": "Royal Marshal",
+          "description": "Replace Classic with the Royal Marshal trail and matching battle icon.",
+          "image": "/Effects/Trail/Royal%20Marshal.png",
+          "script": "/Effects/Trail/Royal%20Marshal.zip"
+        },
+        {
+          "id": "sanctified-flame",
+          "name": "Sanctified Flame",
+          "description": "Replace Classic with the Sanctified Flame trail and matching battle icon.",
+          "image": "/Effects/Trail/Sanctified%20Flame.png",
+          "script": "/Effects/Trail/Sanctified%20Flame.zip"
+        },
+        {
+          "id": "smouldering-fortress",
+          "name": "Smouldering Fortress",
+          "description": "Replace Classic with the Smouldering Fortress trail and matching battle icon.",
+          "image": "/Effects/Trail/Smouldering%20Fortress.png",
+          "script": "/Effects/Trail/Smouldering%20Fortress.zip"
+        },
+        {
+          "id": "sovereign-of-realms",
+          "name": "Sovereign of Realms",
+          "description": "Replace Classic with the Sovereign of Realms trail and matching battle icon.",
+          "image": "/Effects/Trail/Sovereign%20of%20Realms.png",
+          "script": "/Effects/Trail/Sovereign%20of%20Realms.zip"
+        },
+        {
+          "id": "star-enforcer",
+          "name": "Star Enforcer",
+          "description": "Replace Classic with the Star Enforcer trail and matching battle icon.",
+          "image": "/Effects/Trail/Star%20Enforcer.png",
+          "script": "/Effects/Trail/Star%20Enforcer.zip"
+        },
+        {
+          "id": "starborn-resolve",
+          "name": "Starborn Resolve",
+          "description": "Replace Classic with the Starborn Resolve trail and matching battle icon.",
+          "image": "/Effects/Trail/Starborn%20Resolve.png",
+          "script": "/Effects/Trail/Starborn%20Resolve.zip"
+        },
+        {
+          "id": "starfall-knight",
+          "name": "Starfall Knight",
+          "description": "Replace Classic with the Starfall Knight trail and matching battle icon.",
+          "image": "/Effects/Trail/Starfall%20Knight.png",
+          "script": "/Effects/Trail/Starfall%20Knight.zip"
+        },
+        {
+          "id": "starlight",
+          "name": "StarLight",
+          "description": "Replace Classic with the StarLight trail and matching battle icon.",
+          "image": "/Effects/Trail/StarLight.png",
+          "script": "/Effects/Trail/StarLight.zip"
+        },
+        {
+          "id": "starwake-corsair",
+          "name": "Starwake Corsair",
+          "description": "Replace Classic with the Starwake Corsair trail and matching battle icon.",
+          "image": "/Effects/Trail/Starwake%20Corsair.png",
+          "script": "/Effects/Trail/Starwake%20Corsair.zip"
+        },
+        {
+          "id": "stellar-brilliance",
+          "name": "Stellar Brilliance",
+          "description": "Replace Classic with the Stellar Brilliance trail and matching battle icon.",
+          "image": "/Effects/Trail/Stellar%20Brilliance.png",
+          "script": "/Effects/Trail/Stellar%20Brilliance.zip"
+        },
+        {
+          "id": "street-hype",
+          "name": "Street Hype",
+          "description": "Replace Classic with the Street Hype trail and matching battle icon.",
+          "image": "/Effects/Trail/Street%20Hype.png",
+          "script": "/Effects/Trail/Street%20Hype.zip"
+        },
+        {
+          "id": "sugar-glaze",
+          "name": "Sugar Glaze",
+          "description": "Replace Classic with the Sugar Glaze trail and matching battle icon.",
+          "image": "/Effects/Trail/Sugar%20Glaze.png",
+          "script": "/Effects/Trail/Sugar%20Glaze.zip"
+        },
+        {
+          "id": "sunset-luminance",
+          "name": "Sunset Luminance",
+          "description": "Replace Classic with the Sunset Luminance trail and matching battle icon.",
+          "image": "/Effects/Trail/Sunset%20Luminance.png",
+          "script": "/Effects/Trail/Sunset%20Luminance.zip"
+        },
+        {
+          "id": "twilight-waltz",
+          "name": "Twilight Waltz",
+          "description": "Replace Classic with the Twilight Waltz trail and matching battle icon.",
+          "image": "/Effects/Trail/Twilight%20Waltz.png",
+          "script": "/Effects/Trail/Twilight%20Waltz.zip"
+        },
+        {
+          "id": "violet-spear",
+          "name": "Violet Spear",
+          "description": "Replace Classic with the Violet Spear trail and matching battle icon.",
+          "image": "/Effects/Trail/Violet%20Spear.png",
+          "script": "/Effects/Trail/Violet%20Spear.zip"
+        },
+        {
+          "id": "wisdom-of-the-stars",
+          "name": "Wisdom of the Stars",
+          "description": "Replace Classic with the Wisdom of the Stars trail and matching battle icon.",
+          "image": "/Effects/Trail/Wisdom%20of%20the%20Stars.png",
+          "script": "/Effects/Trail/Wisdom%20of%20the%20Stars.zip"
+        }
+      ],
+      "backup": {
+        "name": "Backup",
+        "description": "Restore the original Classic trail effect and battle icon.",
+        "script": "/Effects/Trail/Backup.zip",
+        "cleanup_paths": [
+          "Art/android/r/renwu_jiasu.unity3d"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "nana-anya",
+      "portrait_file": "Nana - Anya.png",
+      "script_file": "Nana-Anya.zip",
+      "skin_name": "Anya",
+      "splash_file": "Nana - Anya.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "nana-cabe",
+      "portrait_file": "Nana - Cabe.png",
+      "script_file": "Nana-Cabe.zip",
+      "skin_name": "Cabe",
+      "splash_file": "Nana - Cabe.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "nana-exorcist",
+      "portrait_file": "Nana - Exorcist.png",
+      "script_file": "Nana-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Nana - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "nana-manga-night",
+      "portrait_file": "Nana - Manga Night.png",
+      "script_file": "Nana-Manga-Night.zip",
+      "skin_name": "Manga Night",
+      "splash_file": "Nana - Manga Night.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "nana-master-yoda",
+      "portrait_file": "Nana - Master Yoda.png",
+      "script_file": "Nana-Master-Yoda.zip",
+      "skin_name": "Master Yoda",
+      "splash_file": "Nana - Master Yoda.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "nana-water-lily",
+      "portrait_file": "Nana - Water Lily.png",
+      "script_file": "Nana-Water-Lily.zip",
+      "skin_name": "Water Lily",
+      "splash_file": "Nana - Water Lily.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "nana-xiao-xiao",
+      "portrait_file": "Nana - Xiao-Xiao.png",
+      "script_file": "Nana-Xiao-Xiao.zip",
+      "skin_name": "Xiao-Xiao",
+      "splash_file": "Nana - Xiao-Xiao.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    }
+  ],
+  "hero": {
+    "id": 5,
+    "name": "Nana",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "nana"
+  },
+  "release_tag": "custom-nana",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

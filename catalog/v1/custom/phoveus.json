@@ -1,0 +1,115 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "phoveus-color-of-hope",
+      "portrait_file": "Phoveus - Color Of Hope.png",
+      "script_file": "Phoveus-Color-Of-Hope.zip",
+      "skin_name": "Color Of Hope",
+      "splash_file": "Phoveus - Color Of Hope.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-goald-lightning",
+      "portrait_file": "Phoveus - Goald Lightning.png",
+      "script_file": "Phoveus-Goald-Lightning.zip",
+      "skin_name": "Goald Lightning",
+      "splash_file": "Phoveus - Goald Lightning.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-iori-yagami",
+      "portrait_file": "Phoveus - Iori Yagami.png",
+      "script_file": "Phoveus-Iori-Yagami.zip",
+      "skin_name": "Iori Yagami",
+      "splash_file": "Phoveus - Iori Yagami.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-jiraiya",
+      "portrait_file": "Phoveus - Jiraiya.png",
+      "script_file": "Phoveus-Jiraiya.zip",
+      "skin_name": "Jiraiya",
+      "splash_file": "Phoveus - Jiraiya.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-kof-777daa",
+      "portrait_file": "Phoveus - KOF (777daa).png",
+      "script_file": "Phoveus-KOF-777daa.zip",
+      "skin_name": "KOF (777daa)",
+      "splash_file": "Phoveus - KOF (777daa).png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-mpl",
+      "portrait_file": "Phoveus - MPL.png",
+      "script_file": "Phoveus-MPL.zip",
+      "skin_name": "MPL",
+      "splash_file": "Phoveus - MPL.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-sakura",
+      "portrait_file": "Phoveus - Sakura.png",
+      "script_file": "Phoveus-Sakura.zip",
+      "skin_name": "Sakura",
+      "splash_file": "Phoveus - Sakura.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-summer",
+      "portrait_file": "Phoveus - Summer.png",
+      "script_file": "Phoveus-Summer.zip",
+      "skin_name": "Summer",
+      "splash_file": "Phoveus - Summer.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "phoveus-yashiro",
+      "portrait_file": "Phoveus - Yashiro.png",
+      "script_file": "Phoveus-Yashiro.zip",
+      "skin_name": "Yashiro",
+      "splash_file": "Phoveus - Yashiro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 106,
+    "name": "Phoveus",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "phoveus"
+  },
+  "release_tag": "custom-phoveus",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

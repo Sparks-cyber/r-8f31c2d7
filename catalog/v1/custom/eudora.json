@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "eudora-hagoromo-otsutsuki",
+      "portrait_file": "Eudora - Hagoromo Otsutsuki.png",
+      "script_file": "Eudora-Hagoromo-Otsutsuki.zip",
+      "skin_name": "Hagoromo Otsutsuki",
+      "splash_file": "Eudora - Hagoromo Otsutsuki.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 15,
+    "name": "Eudora",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "eudora"
+  },
+  "release_tag": "custom-eudora",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

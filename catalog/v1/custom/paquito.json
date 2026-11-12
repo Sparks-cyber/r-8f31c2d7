@@ -1,0 +1,61 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "paquito-cj",
+      "portrait_file": "Paquito - CJ.png",
+      "script_file": "Paquito-CJ.zip",
+      "skin_name": "CJ",
+      "splash_file": "Paquito - CJ.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "paquito-jollibee",
+      "portrait_file": "Paquito - Jollibee.png",
+      "script_file": "Paquito-Jollibee.zip",
+      "skin_name": "Jollibee",
+      "splash_file": "Paquito - Jollibee.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "paquito-kyo-kusanagi",
+      "portrait_file": "Paquito - Kyo Kusanagi.png",
+      "script_file": "Paquito-Kyo-Kusanagi.zip",
+      "skin_name": "Kyo Kusanagi",
+      "splash_file": "Paquito - Kyo Kusanagi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "paquito-yuji",
+      "portrait_file": "Paquito - Yuji.png",
+      "script_file": "Paquito-Yuji.zip",
+      "skin_name": "Yuji",
+      "splash_file": "Paquito - Yuji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 103,
+    "name": "Paquito",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "paquito"
+  },
+  "release_tag": "custom-paquito",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

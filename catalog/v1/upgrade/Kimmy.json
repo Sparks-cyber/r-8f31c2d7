@@ -1,0 +1,307 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Kimmy",
+  "role": "Marksman/Mage",
+  "skins": [
+    {
+      "name": "Starlight",
+      "Default_name": "Bio Frontier",
+      "Splash_url": "Kimmy-Bio-Frontier.png",
+      "script": "Kimmy-Bio-Frontier-Backup.zip",
+      "Portrait_url": "Kimmy-Bio-Frontier.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Astrocat",
+          "Portrait_url": "Kimmy-Astrocat.png",
+          "Splash_url": "Kimmy-Astrocat.png",
+          "script": "Kimmy-Bio-Frontier-Astrocat.zip"
+        },
+        {
+          "name": "Charge Leader",
+          "Portrait_url": "Kimmy-Charge-Leader.png",
+          "Splash_url": "Kimmy-Charge-Leader.png",
+          "script": "Kimmy-Bio-Frontier-Charge-Leader.zip"
+        },
+        {
+          "name": "Frost Wing",
+          "Portrait_url": "Kimmy-Frost-Wing.png",
+          "Splash_url": "Kimmy-Frost-Wing.png",
+          "script": "Kimmy-Bio-Frontier-Frost-Wing.zip"
+        },
+        {
+          "name": "First Order Jet Trooper",
+          "Portrait_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "Splash_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "script": "Kimmy-Bio-Frontier-First-Order-Jet-Trooper.zip"
+        },
+        {
+          "name": "High Seas Cadet",
+          "Portrait_url": "Kimmy-High-Seas-Cadet.png",
+          "Splash_url": "Kimmy-High-Seas-Cadet.png",
+          "script": "Kimmy-Bio-Frontier-High-Seas-Cadet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Astrocat",
+      "Splash_url": "Kimmy-Astrocat.png",
+      "script": "Kimmy-Astrocat-Backup.zip",
+      "Portrait_url": "Kimmy-Astrocat.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Bio Frontier",
+          "Portrait_url": "Kimmy-Bio-Frontier.png",
+          "Splash_url": "Kimmy-Bio-Frontier.png",
+          "script": "Kimmy-Astrocat-Bio-Frontier.zip"
+        },
+        {
+          "name": "Charge Leader",
+          "Portrait_url": "Kimmy-Charge-Leader.png",
+          "Splash_url": "Kimmy-Charge-Leader.png",
+          "script": "Kimmy-Astrocat-Charge-Leader.zip"
+        },
+        {
+          "name": "Frost Wing",
+          "Portrait_url": "Kimmy-Frost-Wing.png",
+          "Splash_url": "Kimmy-Frost-Wing.png",
+          "script": "Kimmy-Astrocat-Frost-Wing.zip"
+        },
+        {
+          "name": "Rising Nova",
+          "Portrait_url": "Kimmy-Rising-Nova.png",
+          "Splash_url": "Kimmy-Rising-Nova.png",
+          "script": "Kimmy-Astrocat-Rising-Nova.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Charge Leader",
+      "Splash_url": "Kimmy-Charge-Leader.png",
+      "script": "Kimmy-Charge-Leader-Backup.zip",
+      "Portrait_url": "Kimmy-Charge-Leader.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Bio Frontier",
+          "Portrait_url": "Kimmy-Bio-Frontier.png",
+          "Splash_url": "Kimmy-Bio-Frontier.png",
+          "script": "Kimmy-Charge-Leader-Bio-Frontier.zip"
+        },
+        {
+          "name": "Astrocat",
+          "Portrait_url": "Kimmy-Astrocat.png",
+          "Splash_url": "Kimmy-Astrocat.png",
+          "script": "Kimmy-Charge-Leader-Astrocat.zip"
+        },
+        {
+          "name": "Frost Wing",
+          "Portrait_url": "Kimmy-Frost-Wing.png",
+          "Splash_url": "Kimmy-Frost-Wing.png",
+          "script": "Kimmy-Charge-Leader-Frost-Wing.zip"
+        },
+        {
+          "name": "First Order Jet Trooper",
+          "Portrait_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "Splash_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "script": "Kimmy-Charge-Leader-First-Order-Jet-Trooper.zip"
+        },
+        {
+          "name": "High Seas Cadet",
+          "Portrait_url": "Kimmy-High-Seas-Cadet.png",
+          "Splash_url": "Kimmy-High-Seas-Cadet.png",
+          "script": "Kimmy-Charge-Leader-High-Seas-Cadet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Tamer",
+      "Default_name": "Frost Wing",
+      "Splash_url": "Kimmy-Frost-Wing.png",
+      "script": "Kimmy-Frost-Wing-Backup.zip",
+      "Portrait_url": "Kimmy-Frost-Wing.png",
+      "Tags": [
+        "Dragon Tamer.png"
+      ],
+      "targets": [
+        {
+          "name": "Bio Frontier",
+          "Portrait_url": "Kimmy-Bio-Frontier.png",
+          "Splash_url": "Kimmy-Bio-Frontier.png",
+          "script": "Kimmy-Frost-Wing-Bio-Frontier.zip"
+        },
+        {
+          "name": "Astrocat",
+          "Portrait_url": "Kimmy-Astrocat.png",
+          "Splash_url": "Kimmy-Astrocat.png",
+          "script": "Kimmy-Frost-Wing-Astrocat.zip"
+        },
+        {
+          "name": "Charge Leader",
+          "Portrait_url": "Kimmy-Charge-Leader.png",
+          "Splash_url": "Kimmy-Charge-Leader.png",
+          "script": "Kimmy-Frost-Wing-Charge-Leader.zip"
+        },
+        {
+          "name": "First Order Jet Trooper",
+          "Portrait_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "Splash_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "script": "Kimmy-Frost-Wing-First-Order-Jet-Trooper.zip"
+        },
+        {
+          "name": "Rising Nova",
+          "Portrait_url": "Kimmy-Rising-Nova.png",
+          "Splash_url": "Kimmy-Rising-Nova.png",
+          "script": "Kimmy-Frost-Wing-Rising-Nova.zip"
+        },
+        {
+          "name": "High Seas Cadet",
+          "Portrait_url": "Kimmy-High-Seas-Cadet.png",
+          "Splash_url": "Kimmy-High-Seas-Cadet.png",
+          "script": "Kimmy-Frost-Wing-High-Seas-Cadet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "Default_name": "First Order Jet Trooper",
+      "Splash_url": "Kimmy-First-Order-Jet-Trooper.png",
+      "script": "Kimmy-First-Order-Jet-Trooper-Backup.zip",
+      "Portrait_url": "Kimmy-First-Order-Jet-Trooper.png",
+      "Tags": [
+        "Star Wars.png"
+      ],
+      "targets": [
+        {
+          "name": "Bio Frontier",
+          "Portrait_url": "Kimmy-Bio-Frontier.png",
+          "Splash_url": "Kimmy-Bio-Frontier.png",
+          "script": "Kimmy-First-Order-Jet-Trooper-Bio-Frontier.zip"
+        },
+        {
+          "name": "Astrocat",
+          "Portrait_url": "Kimmy-Astrocat.png",
+          "Splash_url": "Kimmy-Astrocat.png",
+          "script": "Kimmy-First-Order-Jet-Trooper-Astrocat.zip"
+        },
+        {
+          "name": "Charge Leader",
+          "Portrait_url": "Kimmy-Charge-Leader.png",
+          "Splash_url": "Kimmy-Charge-Leader.png",
+          "script": "Kimmy-First-Order-Jet-Trooper-Charge-Leader.zip"
+        },
+        {
+          "name": "Frost Wing",
+          "Portrait_url": "Kimmy-Frost-Wing.png",
+          "Splash_url": "Kimmy-Frost-Wing.png",
+          "script": "Kimmy-First-Order-Jet-Trooper-Frost-Wing.zip"
+        },
+        {
+          "name": "Rising Nova",
+          "Portrait_url": "Kimmy-Rising-Nova.png",
+          "Splash_url": "Kimmy-Rising-Nova.png",
+          "script": "Kimmy-First-Order-Jet-Trooper-Rising-Nova.zip"
+        },
+        {
+          "name": "High Seas Cadet",
+          "Portrait_url": "Kimmy-High-Seas-Cadet.png",
+          "Splash_url": "Kimmy-High-Seas-Cadet.png",
+          "script": "Kimmy-First-Order-Jet-Trooper-High-Seas-Cadet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Rising Nova",
+      "Splash_url": "Kimmy-Rising-Nova.png",
+      "script": "Kimmy-Rising-Nova-Backup.zip",
+      "Portrait_url": "Kimmy-Rising-Nova.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Bio Frontier",
+          "Portrait_url": "Kimmy-Bio-Frontier.png",
+          "Splash_url": "Kimmy-Bio-Frontier.png",
+          "script": "Kimmy-Rising-Nova-Bio-Frontier.zip"
+        },
+        {
+          "name": "Frost Wing",
+          "Portrait_url": "Kimmy-Frost-Wing.png",
+          "Splash_url": "Kimmy-Frost-Wing.png",
+          "script": "Kimmy-Rising-Nova-Frost-Wing.zip"
+        },
+        {
+          "name": "First Order Jet Trooper",
+          "Portrait_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "Splash_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "script": "Kimmy-Rising-Nova-First-Order-Jet-Trooper.zip"
+        },
+        {
+          "name": "High Seas Cadet",
+          "Portrait_url": "Kimmy-High-Seas-Cadet.png",
+          "Splash_url": "Kimmy-High-Seas-Cadet.png",
+          "script": "Kimmy-Rising-Nova-High-Seas-Cadet.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "High Seas Cadet",
+      "Splash_url": "Kimmy-High-Seas-Cadet.png",
+      "script": "Kimmy-High-Seas-Cadet-Backup.zip",
+      "Portrait_url": "Kimmy-High-Seas-Cadet.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Bio Frontier",
+          "Portrait_url": "Kimmy-Bio-Frontier.png",
+          "Splash_url": "Kimmy-Bio-Frontier.png",
+          "script": "Kimmy-High-Seas-Cadet-Bio-Frontier.zip"
+        },
+        {
+          "name": "Astrocat",
+          "Portrait_url": "Kimmy-Astrocat.png",
+          "Splash_url": "Kimmy-Astrocat.png",
+          "script": "Kimmy-High-Seas-Cadet-Astrocat.zip"
+        },
+        {
+          "name": "Charge Leader",
+          "Portrait_url": "Kimmy-Charge-Leader.png",
+          "Splash_url": "Kimmy-Charge-Leader.png",
+          "script": "Kimmy-High-Seas-Cadet-Charge-Leader.zip"
+        },
+        {
+          "name": "Frost Wing",
+          "Portrait_url": "Kimmy-Frost-Wing.png",
+          "Splash_url": "Kimmy-Frost-Wing.png",
+          "script": "Kimmy-High-Seas-Cadet-Frost-Wing.zip"
+        },
+        {
+          "name": "First Order Jet Trooper",
+          "Portrait_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "Splash_url": "Kimmy-First-Order-Jet-Trooper.png",
+          "script": "Kimmy-High-Seas-Cadet-First-Order-Jet-Trooper.zip"
+        },
+        {
+          "name": "Rising Nova",
+          "Portrait_url": "Kimmy-Rising-Nova.png",
+          "Splash_url": "Kimmy-Rising-Nova.png",
+          "script": "Kimmy-High-Seas-Cadet-Rising-Nova.zip"
+        }
+      ]
+    }
+  ]
+}

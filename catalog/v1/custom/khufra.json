@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "khufra-jake",
+      "portrait_file": "Khufra - Jake.png",
+      "script_file": "Khufra-Jake.zip",
+      "skin_name": "Jake",
+      "splash_file": "Khufra - Jake.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    },
+    {
+      "enabled": true,
+      "id": "khufra-luffy-gear-5",
+      "portrait_file": "Khufra - Luffy Gear 5.png",
+      "script_file": "Khufra-Luffy-Gear-5.zip",
+      "skin_name": "Luffy Gear 5",
+      "splash_file": "Khufra - Luffy Gear 5.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 78,
+    "name": "Khufra",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "khufra"
+  },
+  "release_tag": "custom-khufra",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

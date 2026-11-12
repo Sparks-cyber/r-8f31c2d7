@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "akai-patrick",
+      "portrait_file": "Akai - Patrick.png",
+      "script_file": "Akai-Patrick.zip",
+      "skin_name": "Patrick",
+      "splash_file": "Akai - Patrick.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    }
+  ],
+  "hero": {
+    "id": 9,
+    "name": "Akai",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "akai"
+  },
+  "release_tag": "custom-akai",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

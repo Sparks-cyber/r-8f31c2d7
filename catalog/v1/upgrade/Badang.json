@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Badang",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Ironfists",
+      "Splash_url": "Badang-Ironfists.png",
+      "script": "Badang-Ironfists-Backup.zip",
+      "Portrait_url": "Badang-Ironfists.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Susanoo",
+          "Portrait_url": "Badang-Susanoo.png",
+          "Splash_url": "Badang-Susanoo.png",
+          "script": "Badang-Ironfists-Susanoo.zip"
+        },
+        {
+          "name": "Leo",
+          "Portrait_url": "Badang-Leo.png",
+          "Splash_url": "Badang-Leo.png",
+          "script": "Badang-Ironfists-Leo.zip"
+        },
+        {
+          "name": "Fist of Zen",
+          "Portrait_url": "Badang-Fist-of-Zen.png",
+          "Splash_url": "Badang-Fist-of-Zen.png",
+          "script": "Badang-Ironfists-Fist-of-Zen.zip"
+        },
+        {
+          "name": "Pegasus Seiya",
+          "Portrait_url": "Badang-Pegasus-Seiya.png",
+          "Splash_url": "Badang-Pegasus-Seiya.png",
+          "script": "Badang-Ironfists-Pegasus-Seiya.zip"
+        },
+        {
+          "name": "Sagittarius Seiya",
+          "Portrait_url": "Badang-Sagittarius-Seiya.png",
+          "Splash_url": "Badang-Sagittarius-Seiya.png",
+          "script": "Badang-Ironfists-Sagittarius-Seiya.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Susanoo",
+      "Splash_url": "Badang-Susanoo.png",
+      "script": "Badang-Susanoo-Backup.zip",
+      "Portrait_url": "Badang-Susanoo.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Ironfists",
+          "Portrait_url": "Badang-Ironfists.png",
+          "Splash_url": "Badang-Ironfists.png",
+          "script": "Badang-Susanoo-Ironfists.zip"
+        },
+        {
+          "name": "Leo",
+          "Portrait_url": "Badang-Leo.png",
+          "Splash_url": "Badang-Leo.png",
+          "script": "Badang-Susanoo-Leo.zip"
+        },
+        {
+          "name": "Fist of Zen",
+          "Portrait_url": "Badang-Fist-of-Zen.png",
+          "Splash_url": "Badang-Fist-of-Zen.png",
+          "script": "Badang-Susanoo-Fist-of-Zen.zip"
+        },
+        {
+          "name": "Pegasus Seiya",
+          "Portrait_url": "Badang-Pegasus-Seiya.png",
+          "Splash_url": "Badang-Pegasus-Seiya.png",
+          "script": "Badang-Susanoo-Pegasus-Seiya.zip"
+        },
+        {
+          "name": "Sagittarius Seiya",
+          "Portrait_url": "Badang-Sagittarius-Seiya.png",
+          "Splash_url": "Badang-Sagittarius-Seiya.png",
+          "script": "Badang-Susanoo-Sagittarius-Seiya.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Leo",
+      "Splash_url": "Badang-Leo.png",
+      "script": "Badang-Leo-Backup.zip",
+      "Portrait_url": "Badang-Leo.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Ironfists",
+          "Portrait_url": "Badang-Ironfists.png",
+          "Splash_url": "Badang-Ironfists.png",
+          "script": "Badang-Leo-Ironfists.zip"
+        },
+        {
+          "name": "Susanoo",
+          "Portrait_url": "Badang-Susanoo.png",
+          "Splash_url": "Badang-Susanoo.png",
+          "script": "Badang-Leo-Susanoo.zip"
+        },
+        {
+          "name": "Fist of Zen",
+          "Portrait_url": "Badang-Fist-of-Zen.png",
+          "Splash_url": "Badang-Fist-of-Zen.png",
+          "script": "Badang-Leo-Fist-of-Zen.zip"
+        },
+        {
+          "name": "Pegasus Seiya",
+          "Portrait_url": "Badang-Pegasus-Seiya.png",
+          "Splash_url": "Badang-Pegasus-Seiya.png",
+          "script": "Badang-Leo-Pegasus-Seiya.zip"
+        },
+        {
+          "name": "Sagittarius Seiya",
+          "Portrait_url": "Badang-Sagittarius-Seiya.png",
+          "Splash_url": "Badang-Sagittarius-Seiya.png",
+          "script": "Badang-Leo-Sagittarius-Seiya.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Fist of Zen",
+      "Splash_url": "Badang-Fist-of-Zen.png",
+      "script": "Badang-Fist-of-Zen-Backup.zip",
+      "Portrait_url": "Badang-Fist-of-Zen.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Ironfists",
+          "Portrait_url": "Badang-Ironfists.png",
+          "Splash_url": "Badang-Ironfists.png",
+          "script": "Badang-Fist-of-Zen-Ironfists.zip"
+        },
+        {
+          "name": "Susanoo",
+          "Portrait_url": "Badang-Susanoo.png",
+          "Splash_url": "Badang-Susanoo.png",
+          "script": "Badang-Fist-of-Zen-Susanoo.zip"
+        },
+        {
+          "name": "Leo",
+          "Portrait_url": "Badang-Leo.png",
+          "Splash_url": "Badang-Leo.png",
+          "script": "Badang-Fist-of-Zen-Leo.zip"
+        },
+        {
+          "name": "Pegasus Seiya",
+          "Portrait_url": "Badang-Pegasus-Seiya.png",
+          "Splash_url": "Badang-Pegasus-Seiya.png",
+          "script": "Badang-Fist-of-Zen-Pegasus-Seiya.zip"
+        },
+        {
+          "name": "Sagittarius Seiya",
+          "Portrait_url": "Badang-Sagittarius-Seiya.png",
+          "Splash_url": "Badang-Sagittarius-Seiya.png",
+          "script": "Badang-Fist-of-Zen-Sagittarius-Seiya.zip"
+        }
+      ]
+    },
+    {
+      "name": "Saint Seiya",
+      "Default_name": "Pegasus Seiya",
+      "Splash_url": "Badang-Pegasus-Seiya.png",
+      "script": "Badang-Pegasus-Seiya-Backup.zip",
+      "Portrait_url": "Badang-Pegasus-Seiya.png",
+      "Tags": [
+        "Saint Seiya.png"
+      ],
+      "targets": [
+        {
+          "name": "Ironfists",
+          "Portrait_url": "Badang-Ironfists.png",
+          "Splash_url": "Badang-Ironfists.png",
+          "script": "Badang-Pegasus-Seiya-Ironfists.zip"
+        },
+        {
+          "name": "Susanoo",
+          "Portrait_url": "Badang-Susanoo.png",
+          "Splash_url": "Badang-Susanoo.png",
+          "script": "Badang-Pegasus-Seiya-Susanoo.zip"
+        },
+        {
+          "name": "Leo",
+          "Portrait_url": "Badang-Leo.png",
+          "Splash_url": "Badang-Leo.png",
+          "script": "Badang-Pegasus-Seiya-Leo.zip"
+        },
+        {
+          "name": "Fist of Zen",
+          "Portrait_url": "Badang-Fist-of-Zen.png",
+          "Splash_url": "Badang-Fist-of-Zen.png",
+          "script": "Badang-Pegasus-Seiya-Fist-of-Zen.zip"
+        },
+        {
+          "name": "Sagittarius Seiya",
+          "Portrait_url": "Badang-Sagittarius-Seiya.png",
+          "Splash_url": "Badang-Sagittarius-Seiya.png",
+          "script": "Badang-Pegasus-Seiya-Sagittarius-Seiya.zip"
+        }
+      ]
+    },
+    {
+      "name": "Saint Seiya",
+      "Default_name": "Sagittarius Seiya",
+      "Splash_url": "Badang-Sagittarius-Seiya.png",
+      "script": "Badang-Sagittarius-Seiya-Backup.zip",
+      "Portrait_url": "Badang-Sagittarius-Seiya.png",
+      "Tags": [
+        "Saint Seiya.png"
+      ],
+      "targets": [
+        {
+          "name": "Ironfists",
+          "Portrait_url": "Badang-Ironfists.png",
+          "Splash_url": "Badang-Ironfists.png",
+          "script": "Badang-Sagittarius-Seiya-Ironfists.zip"
+        },
+        {
+          "name": "Susanoo",
+          "Portrait_url": "Badang-Susanoo.png",
+          "Splash_url": "Badang-Susanoo.png",
+          "script": "Badang-Sagittarius-Seiya-Susanoo.zip"
+        },
+        {
+          "name": "Leo",
+          "Portrait_url": "Badang-Leo.png",
+          "Splash_url": "Badang-Leo.png",
+          "script": "Badang-Sagittarius-Seiya-Leo.zip"
+        },
+        {
+          "name": "Fist of Zen",
+          "Portrait_url": "Badang-Fist-of-Zen.png",
+          "Splash_url": "Badang-Fist-of-Zen.png",
+          "script": "Badang-Sagittarius-Seiya-Fist-of-Zen.zip"
+        },
+        {
+          "name": "Pegasus Seiya",
+          "Portrait_url": "Badang-Pegasus-Seiya.png",
+          "Splash_url": "Badang-Pegasus-Seiya.png",
+          "script": "Badang-Sagittarius-Seiya-Pegasus-Seiya.zip"
+        }
+      ]
+    }
+  ]
+}

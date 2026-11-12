@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "saber-kakashi",
+      "portrait_file": "Saber - Kakashi.png",
+      "script_file": "Saber-Kakashi.zip",
+      "skin_name": "Kakashi",
+      "splash_file": "Saber - Kakashi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "saber-zoro",
+      "portrait_file": "Saber - Zoro.png",
+      "script_file": "Saber-Zoro.zip",
+      "skin_name": "Zoro",
+      "splash_file": "Saber - Zoro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 3,
+    "name": "Saber",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "saber"
+  },
+  "release_tag": "custom-saber",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

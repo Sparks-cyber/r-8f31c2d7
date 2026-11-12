@@ -1,0 +1,117 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "johnson-backup",
+      "portrait_file": "Johnson-Default.png",
+      "script_file": "Johnson-Backup.zip",
+      "skin_name": "Wild Engine",
+      "splash_file": "Johnson-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-fire-chief",
+      "portrait_file": "Johnson-Fire-Chief.png",
+      "script_file": "Johnson-Fire-Chief.zip",
+      "skin_name": "Fire Chief",
+      "splash_file": "Johnson-Fire-Chief.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-s-a-b-e-r-automata",
+      "portrait_file": "Johnson-S-A-B-E-R-Automata.png",
+      "script_file": "Johnson-S-A-B-E-R-Automata.zip",
+      "skin_name": "S.A.B.E.R. Automata",
+      "splash_file": "Johnson-S-A-B-E-R-Automata.png",
+      "tag_id": "saber",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-jeepney-racer",
+      "portrait_file": "Johnson-Jeepney-Racer.png",
+      "script_file": "Johnson-Jeepney-Racer.zip",
+      "skin_name": "Jeepney Racer",
+      "splash_file": "Johnson-Jeepney-Racer.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-wreck-king",
+      "portrait_file": "Johnson-Wreck-King.png",
+      "script_file": "Johnson-Wreck-King.zip",
+      "skin_name": "Wreck King",
+      "splash_file": "Johnson-Wreck-King.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-death-ride",
+      "portrait_file": "Johnson-Death-Ride.png",
+      "script_file": "Johnson-Death-Ride.zip",
+      "skin_name": "Death Ride",
+      "splash_file": "Johnson-Death-Ride.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-optimus-prime",
+      "portrait_file": "Johnson-Optimus-Prime.png",
+      "script_file": "Johnson-Optimus-Prime.zip",
+      "skin_name": "Optimus Prime",
+      "splash_file": "Johnson-Optimus-Prime.png",
+      "tag_id": "transformers",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-starblazer",
+      "portrait_file": "Johnson-Starblazer.png",
+      "script_file": "Johnson-Starblazer.zip",
+      "skin_name": "Starblazer",
+      "splash_file": "Johnson-Starblazer.png",
+      "tag_id": "7th-anniversary",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-sovereign-of-realms",
+      "portrait_file": "Johnson-Sovereign-of-Realms.png",
+      "script_file": "Johnson-Sovereign-of-Realms.zip",
+      "skin_name": "Sovereign of Realms",
+      "splash_file": "Johnson-Sovereign-of-Realms.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "johnson-pink-jeepney-racer",
+      "portrait_file": "Johnson-Pink-Jeepney-Racer.png",
+      "script_file": "Johnson-Pink-Jeepney-Racer.zip",
+      "skin_name": "Pink Jeepney Racer",
+      "splash_file": "Johnson-Pink-Jeepney-Racer.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    }
+  ],
+  "hero": {
+    "id": 32,
+    "name": "Johnson",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "slug": "johnson"
+  },
+  "release_tag": "visual-johnson",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hylos-backup",
+      "portrait_file": "Hylos-Default.png",
+      "script_file": "Hylos-Backup.zip",
+      "skin_name": "Grand Warden",
+      "splash_file": "Hylos-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "hylos-abyssal-shaman",
+      "portrait_file": "Hylos-Abyssal-Shaman.png",
+      "script_file": "Hylos-Abyssal-Shaman.zip",
+      "skin_name": "Abyssal Shaman",
+      "splash_file": "Hylos-Abyssal-Shaman.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "hylos-phantom-seer",
+      "portrait_file": "Hylos-Phantom-Seer.png",
+      "script_file": "Hylos-Phantom-Seer.zip",
+      "skin_name": "Phantom Seer",
+      "splash_file": "Hylos-Phantom-Seer.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "hylos-jungle-watcher",
+      "portrait_file": "Hylos-Jungle-Watcher.png",
+      "script_file": "Hylos-Jungle-Watcher.zip",
+      "skin_name": "Jungle Watcher",
+      "splash_file": "Hylos-Jungle-Watcher.png",
+      "tag_id": "s13",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "hylos-iron-steed",
+      "portrait_file": "Hylos-Iron-Steed.png",
+      "script_file": "Hylos-Iron-Steed.zip",
+      "skin_name": "Iron Steed",
+      "splash_file": "Hylos-Iron-Steed.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "hylos-bloodhoof-marauder",
+      "portrait_file": "Hylos-Bloodhoof-Marauder.png",
+      "script_file": "Hylos-Bloodhoof-Marauder.zip",
+      "skin_name": "Bloodhoof Marauder",
+      "splash_file": "Hylos-Bloodhoof-Marauder.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "hylos-lord-of-the-tundra",
+      "portrait_file": "Hylos-Lord-of-the-Tundra.png",
+      "script_file": "Hylos-Lord-of-the-Tundra.zip",
+      "skin_name": "Lord of the Tundra",
+      "splash_file": "Hylos-Lord-of-the-Tundra.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    }
+  ],
+  "hero": {
+    "id": 49,
+    "name": "Hylos",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "hylos"
+  },
+  "release_tag": "visual-hylos",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

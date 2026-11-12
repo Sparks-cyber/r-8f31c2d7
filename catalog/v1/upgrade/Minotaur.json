@@ -1,0 +1,205 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Minotaur",
+  "role": "Tank/Support",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Bursting Yama",
+      "Splash_url": "Minotaur-Bursting-Yama.png",
+      "script": "Minotaur-Bursting-Yama-Backup.zip",
+      "Portrait_url": "Minotaur-Bursting-Yama.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Orbiter",
+          "Portrait_url": "Minotaur-Orbiter.png",
+          "Splash_url": "Minotaur-Orbiter.png",
+          "script": "Minotaur-Bursting-Yama-Orbiter.zip"
+        },
+        {
+          "name": "Sacred Hammer",
+          "Portrait_url": "Minotaur-Sacred-Hammer.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Bursting-Yama-Sacred-Hammer.zip"
+        },
+        {
+          "name": "Hammer of Despair Painted 01",
+          "Portrait_url": "Minotaur-Hammer-of-Despair.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Bursting-Yama-Hammer-of-Despair-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Orbiter",
+      "Splash_url": "Minotaur-Orbiter.png",
+      "script": "Minotaur-Orbiter-Backup.zip",
+      "Portrait_url": "Minotaur-Orbiter.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Bursting Yama",
+          "Portrait_url": "Minotaur-Bursting-Yama.png",
+          "Splash_url": "Minotaur-Bursting-Yama.png",
+          "script": "Minotaur-Orbiter-Bursting-Yama.zip"
+        },
+        {
+          "name": "Sacred Hammer",
+          "Portrait_url": "Minotaur-Sacred-Hammer.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Orbiter-Sacred-Hammer.zip"
+        },
+        {
+          "name": "Taurus",
+          "Portrait_url": "Minotaur-Taurus.png",
+          "Splash_url": "Minotaur-Taurus.png",
+          "script": "Minotaur-Orbiter-Taurus.zip"
+        },
+        {
+          "name": "Dreadnought",
+          "Portrait_url": "Minotaur-Dreadnought.png",
+          "Splash_url": "Minotaur-Dreadnought.png",
+          "script": "Minotaur-Orbiter-Dreadnought.zip"
+        },
+        {
+          "name": "Hammer of Despair Painted 01",
+          "Portrait_url": "Minotaur-Hammer-of-Despair.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Orbiter-Hammer-of-Despair-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Sacred Hammer",
+      "Splash_url": "Minotaur-Sacred-Hammer.png",
+      "script": "Minotaur-Sacred-Hammer-Backup.zip",
+      "Portrait_url": "Minotaur-Sacred-Hammer.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Bursting Yama",
+          "Portrait_url": "Minotaur-Bursting-Yama.png",
+          "Splash_url": "Minotaur-Bursting-Yama.png",
+          "script": "Minotaur-Sacred-Hammer-Bursting-Yama.zip"
+        },
+        {
+          "name": "Orbiter",
+          "Portrait_url": "Minotaur-Orbiter.png",
+          "Splash_url": "Minotaur-Orbiter.png",
+          "script": "Minotaur-Sacred-Hammer-Orbiter.zip"
+        },
+        {
+          "name": "Taurus",
+          "Portrait_url": "Minotaur-Taurus.png",
+          "Splash_url": "Minotaur-Taurus.png",
+          "script": "Minotaur-Sacred-Hammer-Taurus.zip"
+        },
+        {
+          "name": "Dreadnought",
+          "Portrait_url": "Minotaur-Dreadnought.png",
+          "Splash_url": "Minotaur-Dreadnought.png",
+          "script": "Minotaur-Sacred-Hammer-Dreadnought.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Taurus",
+      "Splash_url": "Minotaur-Taurus.png",
+      "script": "Minotaur-Taurus-Backup.zip",
+      "Portrait_url": "Minotaur-Taurus.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Bursting Yama",
+          "Portrait_url": "Minotaur-Bursting-Yama.png",
+          "Splash_url": "Minotaur-Bursting-Yama.png",
+          "script": "Minotaur-Taurus-Bursting-Yama.zip"
+        },
+        {
+          "name": "Sacred Hammer",
+          "Portrait_url": "Minotaur-Sacred-Hammer.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Taurus-Sacred-Hammer.zip"
+        },
+        {
+          "name": "Dreadnought",
+          "Portrait_url": "Minotaur-Dreadnought.png",
+          "Splash_url": "Minotaur-Dreadnought.png",
+          "script": "Minotaur-Taurus-Dreadnought.zip"
+        },
+        {
+          "name": "Hammer of Despair Painted 01",
+          "Portrait_url": "Minotaur-Hammer-of-Despair.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Taurus-Hammer-of-Despair-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Dreadnought",
+      "Splash_url": "Minotaur-Dreadnought.png",
+      "script": "Minotaur-Dreadnought-Backup.zip",
+      "Portrait_url": "Minotaur-Dreadnought.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Bursting Yama",
+          "Portrait_url": "Minotaur-Bursting-Yama.png",
+          "Splash_url": "Minotaur-Bursting-Yama.png",
+          "script": "Minotaur-Dreadnought-Bursting-Yama.zip"
+        },
+        {
+          "name": "Orbiter",
+          "Portrait_url": "Minotaur-Orbiter.png",
+          "Splash_url": "Minotaur-Orbiter.png",
+          "script": "Minotaur-Dreadnought-Orbiter.zip"
+        },
+        {
+          "name": "Taurus",
+          "Portrait_url": "Minotaur-Taurus.png",
+          "Splash_url": "Minotaur-Taurus.png",
+          "script": "Minotaur-Dreadnought-Taurus.zip"
+        },
+        {
+          "name": "Hammer of Despair Painted 01",
+          "Portrait_url": "Minotaur-Hammer-of-Despair.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Dreadnought-Hammer-of-Despair-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Hammer of Despair Skin 06",
+      "Splash_url": "Minotaur-Hammer-of-Despair.png",
+      "script": "Minotaur-Hammer-of-Despair-Skin-06-Backup.zip",
+      "Portrait_url": "Minotaur-Hammer-of-Despair.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Hammer of Despair Painted 01",
+          "Portrait_url": "Minotaur-Hammer-of-Despair.png",
+          "Splash_url": "Minotaur-Sacred-Hammer.png",
+          "script": "Minotaur-Hammer-of-Despair-Skin-06-Hammer-of-Despair-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

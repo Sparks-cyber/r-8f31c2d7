@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 67,
+    "slug": "leomord",
+    "name": "Leomord",
+    "skin_name": "Sworn Sword",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "2018",
+    "resource": null,
+    "short_description": "A sworn knight who vowed to guard Necrokeep until his last breath.",
+    "brief": "Once a sworn knight of Ridgeburg, Leomord was forced to shatter the oath he made with his own sword in an unfortunate turn of events. Since then, he had borne the curse of the Mist and guarded the land abandoned even by death. The light had faded, yet his watch had just begun...",
+    "story": "Perched upon the crags of the Lantis Mountains, the colossal spires of Ridgeburg overlooked the blackened plains of the Abyss. The rot had almost crept up to the city's outskirts, but no farther. For thousands of years, the fortified towers had stood guard right at the doorstep of the Abyss, keeping the Moniyan Empire untouched by its blight.\n\nLeomord was born in this border fortress. Coming from a long line of Royal Guards under the Lords of the South, he was pledged as personal squire to Atticus, the son of the Duke of Ridgeburg, not long after he was born.\n\nTogether, the two boys trained under the finest champions of the Ridgeburg army and listened to grey-bearded tutors droning on about history and politics. Atticus excelled in every lesson, showing remarkable maturity beyond his years, while Leomord found it hard to keep up with his young master. Reluctant to being left behind, he kept training in secret, toiling alone day and night to further hone his skills.\n\nBeing the slightly older one, Atticus would often help the young Leomord during their training. Leomord, in turn, looked up to Atticus as not only his future lord but also an older brother.\n\nUpon reaching the age of seven, the two boys took part in the birthing of their horses, as was customary among the people of Ridgeburg. Leomord named his pony Barbiel, with whom he grew to become allies and close friends. Although Leomord never openly expressed his feelings, Barbiel always seemed to know what he had in mind. And whenever Leomord felt down, Barbiel would rub his head to offer some form of relief.\n\nOver the next few years, the two boys grew into formidable fighters on the training ground, and that was when fate struck.\n\nAfter the Old Duke's untimely passing, Atticus was forced to take on his father's mantle as the new Duke of Ridgeburg, with Leomord standing beside him as captain of his Royal Guard. The boys had never had a taste of real battle, but seeing the gravity of the situation, they shortly set off to rid the border outposts of demonic intruders. For years, the two fought endlessly, until they finally cleansed every trace of the Abyss from the outskirts.\n\nOnce the city regained some respite from the onslaught, Atticus decided it was time to start forging bonds with other noble houses of the Empire. He sought an alliance with the Royal House of Gaius, offering a marriage proposal to Princess Vexana. Lord Gaius welcomed the offer and promptly arranged for the Princess to set forth for Ridgeburg and meet her betrothed.\n\nAnd yet, fate had something else in mind for the young Duke. Shortly before Vexana was expected to arrive, he received a letter from one of the border towns. An unusually vicious breed of demons had started turning up along the border, and strangely enough, they bore traces of the very same putrid magic that had once plagued his father. Some townsfolk had gone missing as well, and the outpost sought the Duke's aid in ridding the town of this threat.\n\nAtticus gathered his men right away. He had no doubt this quest could finally unravel the mystery of his father's death. Leomord, on the other hand, only felt a dreadful sense of foreboding.\n\nBefore the departure, Atticus led Leomord to the top of the city wall. He pulled out his sword and motioned Leomord to kneel on one knee. Knowing exactly what was coming, the young soldier took a deep breath and solemnly knelt in front of Atticus as he was told.\n\n\"Duke Atticus, I hereby swear this oath, in the name of my father and his House, that I shall always lend my sword to your service, provide counsel when you seek it, and lay my life down should your safety require it. This I swear on this day, unto the day of my death.\"\n\nAtticus placed the blunt of his sword on Leomord's shoulder and declared him a Sworn Knight of Ridgeburg. The young soldier found it hard to contain himself. For more than twenty years, they trained and rode to battle together. And on this day, Atticus had deemed him worthy of his trust.\n\nAs the Duke handed him the Sword of Oath, Leomord knew this was his fate—to ride with his lord on this battle that might very well be his last. Except, Atticus had a different task for him—Leomord was to remain and stand guard at Ridgeburg.\n\nThe knight couldn't believe what he had just heard, but Atticus's eyes were grave and stern. Princess Vexana would be arriving any day soon; she would need all the help and protection she could get. And there was no one else the Duke could trust to carry this delicate burden than his closest friend, Leomord.\n\nAnd thus, by first light, the young knight watched as Atticus and his party faded into the horizon. He clenched the Duke's Sword of Oath, pondering upon the new task at hand, which he reckoned was far heavier than any battle he had ever fought.\n\nFor two years, Leomord and Princess Vexana waited. The quest took much longer than expected, and at some point, Atticus even stopped sending back letters.\n\nAnd then one day, out of blue, a messenger came announcing the Duke's return. Leomord let out a long sigh, as his mind finally felt at ease. Except, instead of the joy he'd expected to see in Atticus's eyes, he saw nothing but…emptiness.\n\nThe campaign must have been brutal and arduous, he could only surmise. Leomord opted not to prod any further and promptly set out to join the city folk in preparation for the long-delayed wedding of Duke Atticus and Princess Vexana.\n\nThe people of Ridgeburg greeted the evening with festivity and cheer. The time had come at last for Atticus to give Vexana the wedding ring. However, as the Duke opened the box, what came out instead was a pair of magic wings, as a deep, grating voice shook the stone walls of the fortress:\n\nEmbrace the world of death!' Atticus and his men turned into demons at that exact moment, their eyes burning with malice. They reeked of foul magic—rotten and vile—the putrid blight of the Abyss. The once devoted guardians of the city became destroyers and the bane of their existence; the holy wedding morphed into a massacre.\n\nLeomord clasped at the Sword of Oath, his mind blank as bloodcurdling screams pierced his ears and drilled into his skull. He couldn't fathom what was happening before him, and most importantly, why Atticus would draw his blade against the people he'd loved as his own, against the girl he'd sworn to protect to his death.\n\nThe rampaging Duke lunged at Princess Vexana.\n\n\"STOP!\"\n\nVexana's voice echoed throughout the hall. Atticus froze, his legs shaking as his labored breaths scraped against his lungs.\n\n\"Kill me…Leo— K-kill me…beg of you—\"\n\nLeomord could only stare in horror. All he could think of was the vow he had made two years ago.\n\n\"I hereby swear this oath…in the name of my father and his House, that I shall…lay my life down should your safety require it.\"\n\nDoes the safety of the Duke weigh heavier than the safety of the city? The young knight silently asked himself, right before he clenched his teeth and drove his blade into Atticus's chest.\n\nThe Duke's eyes cleared up, as if he was lifted from a curse. Grasping at Leomord's vest, the words that came out of his mouth were raspy and garbled. \"Bro…ther… I am…free—\"\n\nAnd as he breathed his last, he turned his eyes to Vexana and whispered. \"The Mist… If there is no other choice—\"\n\nWatching Atticus's body slowly wither into ashes, Leomord wished nothing more than to follow his lord into death, but he couldn't die yet. He had a more important mission on his shoulders—Ridgeburg, sieged from both sides, needed his sword. Ridgeburg would fight till the last, even at the cost of releasing the Mist.\n\n…\n\nA hundred years had passed, yet time in Ridgeburg seemed to have frozen in place. Shrouded by heavy, dark fog, the city was known to be cursed, shunned by both the light and the dark. Necrokeep, they called it.\n\nLeomord could sometimes be seen standing on one of its towers, gazing far into the horizon. His skin was sickly pale, neither living nor dead. His eyes were tired from a hundred years of half-death, but they still sparkled with a glimmer of hope. He knew in his heart that he and Vexana would eventually find a way to reverse the curse of the Mist.\n\nFrom that day a hundred years ago, his life no longer belonged to himself, but to Ridgeburg. As long as there was still one soul in the city, he would guard them until his last breath.\"",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 7,
+    "offense": 5,
+    "control": 3,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2908,
+    "health_growth": 202,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 148,
+    "physical_attack_growth": 8.64,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 3.7857,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 1.6
+  },
+  "abilities": [
+    {
+      "id": "Leomord0",
+      "name": "The Oath Keeper",
+      "description": "Leomord's Basic Attacks and skills grant him 25 <highlight>Oath Keeper</highlight> energy each time they deal damage to targets. When the energy reaches 100, his next Basic Attack deals 200% Crit Damage and restores 100<trueDamage>(+10*Heo Level)</trueDamage> 15<scaleHP>(+15% Extra Max HP)</scaleHP>.<br><br>Leomord's Basic Attacks cannot normally Crit, and every 1% Crit Chance is converted into 1% Crit Damage.<br><br><highlight>Mounted State</highlight>: Each <highlight>Oath Keeper</highlight> energy gain is increased by 200%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04b94a8560d7cba08238b017a929611e.png",
+      "video_url": null
+    },
+    {
+      "id": "Leomord1",
+      "name": "Momentum",
+      "description": "Leomord begins channeling, slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to 500/560/620/680/740/800<scaleAD> (+180% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit (scales with channeling time; increased to 140% against creeps except for the Turtle and Lord) and slowing them by 40% for 1s.<br><br><highlight>Use Again</highlight>: Cast the skill again to cancel the channeling and immediately perform the thrust.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6/5.7/5.4/5.1/4.8/4.5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f95e7440099a5481f3082f48ca6b499d.png",
+      "video_url": null
+    },
+    {
+      "id": "Leomord12",
+      "name": "Phantom Stomp",
+      "description": "Barbiel leaps forward, dealing 325/380/435/490/545/600 <scaleAD> (+120% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the landing area and in front of him, while slowing them by 40% for 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "5/4.8/4.5/4.3/4/3.8",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": null
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_658b998993378d3089b609649ae93270.png",
+      "video_url": null
+    },
+    {
+      "id": "Leomord2",
+      "name": "Decimation Assault",
+      "description": "Leomord charges in a designated direction, dealing 300/320/340/360/380/400<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the way and slowing them by 30% for 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12/11.6/11.2/10.8/10.4/10",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": null
+        },
+        {
+          "name": "Slow",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1f7fce40b8a283934077f2481b6d402.png",
+      "video_url": null
+    },
+    {
+      "id": "Leomord22",
+      "name": "Phantom Charge",
+      "description": "Barbiel charges forward in a designated direction, and knocks back all enemies on the path, dealing 300/340/380/420/460/500<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "7/6.8/6.6/6.4/6.2/6",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        },
+        {
+          "name": "Mobility",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04b94a8560d7cba08238b017a929611e.png",
+      "video_url": null
+    },
+    {
+      "id": "Leomord3",
+      "name": "Phantom Steed",
+      "description": "Leomord summons <highlight>Barbiel</highlight> to rush to him, knocking back and dealing 100/200/300<scaleAD> (+40% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to all enemies in its path.<br/>If <highlight>Barbiel</highlight> comes in contact with Leomord, they will enter the Mounted State, gaining 50% Movement Speed that decays over 2s.<br/><highlight>Mounted State</highlight>: Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area to deal AOE damage. Leomord also gains 70 Movement Speed and 30/60/90 Physical &amp; Magic Defense.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "30/25/20",
+      "tags": [
+        {
+          "name": "Summon",
+          "rgb": null
+        },
+        {
+          "name": "Morph",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c8aff6534951b28bb0f4dd032892085a.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Leomord0",
+      "sequence": "Leomord3-Leomord1-Leomord2-Leomord1-Leomord2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Leomord can cast his Ultimate, then his 1st and 2nd Skills while Barbiel is moving towards him. After mounting, Leomord can use his mounted 1st Skill, 2nd Skill, and Basic Attacks to continue dishing out damage."
+    },
+    {
+      "id": "Leomord1",
+      "sequence": "Leomord1-Leomord2-AA",
+      "name": "LANING COMBOS",
+      "description": "Poke and zone out enemies with his 1st Skill while clearing minions. When the enemy's HP is close to his Passive's threshold, charge in with his 2nd Skill and finish them off with Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Heroes with AOE or CC like Pharsa and Vexana that can follow up after Leomord breaks the enemy formation.",
+      "heroes": [
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        },
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Mages without mobility such as Odette, Pharsa, Yve and Cecilion will fall to Leomord's high movement speed and burst damage.",
+      "heroes": [
+        {
+          "id": 46,
+          "slug": "odette",
+          "name": "Odette"
+        },
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        },
+        {
+          "id": 101,
+          "slug": "yve",
+          "name": "Yve"
+        },
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Heroes with CC like Phoveus, Franco, Akai and Nana.",
+      "heroes": [
+        {
+          "id": 106,
+          "slug": "phoveus",
+          "name": "Phoveus"
+        },
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 9,
+          "slug": "akai",
+          "name": "Akai"
+        },
+        {
+          "id": 5,
+          "slug": "nana",
+          "name": "Nana"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Leomord-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Leomord-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_77c6d6b5b84b658c8f25e6f371658cbd.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_77c6d6b5b84b658c8f25e6f371658cbd.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/leomord.json",
+    "visual_catalog": "catalog/v1/visual/leomord.json",
+    "upgrade_catalog": "catalog/v1/upgrade/leomord.json"
+  }
+}

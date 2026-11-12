@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 126,
+    "slug": "suyou",
+    "name": "Suyou",
+    "skin_name": "Mask of the Immortal",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "21 September 2024",
+    "resource": null,
+    "short_description": "An exorcist from Zhu'an who has inherited the power of the Immortal Nuo.",
+    "brief": "As the last descendant of the Exorcists of Nuo, Suyou carried the power of the immortal deity within his body, using it to guide the people toward enlightenment. He walked the mortal plane, like a wandering swordsman, charming and uninhibited, but never forgetting that the of Nuo comes from the faith of the people. And so, he went about purging evil from the hearts of men and safeguarding their hopes for the future.",
+    "story": "Thunderous drums and gongs, blazing lights.\r\n\r\nSuyou lay leisurely on the ledge of a tall building, with his hands behind his head. His lips curled into a smile as he took in the hustle and bustle of Zhu'an at night. A prosperous city reflected in his eyes. Underneath the eaves, laughter could be heard as children wearing traditional Nuo masks ran by.\r\n\r\n\"Immortal Nuo, bless the land, Immortal Nuo, our most auspicious guardian!\"\r\n\r\nLittle did the carefree children know that listening right above them was Suyou, the last successor of the Exorcists of Nuo, with the sacred Nuo mask and blade, looking down with a smile.\r\n\r\nSuyou hopped to his feet like a spring and enjoyed a long stretch.\r\n\r\nHe just had just woken up from a dream about the past.\r\n\r\nMore than a decade ago, the sky darkened overhead and the wind howled as wails could be heard from all directions. The lingering obsessions and evil thoughts of the dead had gathered in this place, creating a phenomenon known as echoes of malice, and threatening to consume the entire village. A young Suyou could only cower in fear among the rubble and wait helplessly for death to claim him.\r\n\r\nSuddenly, a massive figure broke through the clouds with a trident in hand. His fierce stature stood between the village and the echoes of malice like an angry mountain. In the next moment, a nimble figure wielding a sacred blade darted past Suyou, towards the evil scourge.\r\n\r\nIt was an Exorcist of Nuo.\r\n\r\nWith one cut, he split the sky. With another, he swept away the scourge like freshly fallen dust. There was no need for a third. That day, the fearsome power of the Immortal Nuo was etched deep into a boy's heart. Inspired by the miracle he had witnessed, Suyou decided to travel the land, helping people in any way he could, like his savior.\r\n\r\nTen years passed, and Suyou found himself following some leads to a small town near Zhu'an in the Cadia Riverlands. The town was shrouded in echoes so thick that one wondered how anything could even survive in such a place. But the townsfolk lived on in bliss, ignorant of the danger they were in. Strange phenomena would form due to the concentration of echoes, only for the townsfolk to look away without a care in the world. Suyou soon found the reason. An old exorcist was living in the town and had been maintaining some kind of fragile balance. The very one who had saved him all those years ago.\r\n\r\nEven as the echoes were on the verge of devouring the town, the old exorcist continued to lie and reassure the townsfolk that all was well. The young Suyou could not comprehend how his hero could have fallen into such a state. Suyou firmly believed that deceiving these people could only lead to disaster. Why was the old exorcist gambling with their lives? The slightest misstep would surely doom them all.\r\n\r\nSuyou was forced to conclude that the exorcist was a swindler, so he set out to warn the town of the danger they were in. However, this led to outright panic and only hastened the growth of the echoes. Only then did Suyou realize that the world was not filled with valiant heroes, but ordinary people with their countless worries and fears. And the oversaturation of negative emotions is what creates the echoes of malice. After learning of the impending disaster, their fear would only feed the echoes until they devoured everything. For the townsfolk, their faith and hope were the silver linings that kept them safe in this dire situation.\r\n\r\nThe power of Nuo does not come from the heavens, but from the strength of human faith. The old exorcist had always been fighting the fear and uncertainty in people's hearts. But the human heart is easily led astray, and lost without guidance. The ones to guide them were the Exorcists of Nuo, using faith to manifest the Immortal Nuo.\r\n\r\nTo make up for his mistake, Suyou helped the old exorcist prepare for the Nuo ritual. The exorcist had spent most of his life fighting echoes, and the countless injuries he had suffered in those battles left him unable to perform the ritual any longer. As if by fate, he passed the sacred Nuo mask and blade to the young Suyou to carry on in his place.\r\n\r\nSuyou put on the mask and held the blade tightly. For the first time, Suyou stood on stage as an Exorcist of Nuo—\r\n\r\nHe performed the ritual dance and sang the ancient chants to invoke the Immortal Nuo.\r\n\r\nThe sky suddenly darkened, as if Suyou had returned to the past. Unaware of the impending doom, the masses looked upon Suyou with awe and expectation. Only then was Suyou able to understand... What is Nuo?\r\n\r\nNuo is faith.\r\n\r\nPeople's hearts are like candle flames, swaying in whichever direction the wind blows. And at this moment, as an Exorcist of Nuo, Suyou was that wind.\r\n\r\nWhen the people see your resolution, they will believe. When the people see your smile, they will revel. When the people see your fear, they will cower. And when the people see your hesitation, they will doubt.\r\n\r\nTheir faith comes from you, and the faith you evoke from them—that is the power of Nuo!\r\n\r\nAs darkness fell, the faith of the townsfolk below the stage became like flames and illuminated Suyou's performance.\r\n\r\nThe Immortal Nuo once said: \"Do not fear evil.\" The people chanted \"The Immortal Nuo will protect us from evil!\" over and over in their hearts. Thus, the Immortal Nuo gained the power to dispel evil.\r\n\r\nThe Immortal Nuo said: \"Do not fear disaster.\" The people chanted \"The Immortal Nuo will save us from disaster!\" over and over in their hearts. Thus, the Immortal Nuo gained the power to avert disaster.\r\n\r\nLittle by little, something emerged from the people. It gathered around the Nuo mask, the sacred blade, and the statue of the Immortal Nuo. The hopes of the people, the power of the human heart, and the sparks of their faith, came together and manifested into three-headed and six-armed Immortal Nuo.\r\n\r\nNuo is faith, and the Immortal Nuo is the miracle born from it. The sparks of their faith, gathered to give form to the body. The thoughts of the people, honed as an edge to cut despair.\r\n\r\nSuyou wielded the sacred blade and guided the people. He invoked the Immortal Nuo and cut down the echoes of malice.\r\n\r\nHe split the sky, just as his predecessor did. He saw the faith of the people and heard their prayers.\r\n\r\nAt this very moment, he had grasped the true meaning of being an Exorcist of Nuo. Suyou carried the power of the immortal deity within his body to guide the people toward enlightenment. That was his duty. After passing on the sacred relics and knowledge of the ritual to Suyou, the old exorcist left without a trace.\r\n\r\nThe world always assumes that those who take on great responsibilities must carry heavy burdens and suffer hardships. But Suyou was unfettered, wandering from place to place, appreciating the sights and sounds. Sometimes he would perform the Nuo ritual to reaffirm people's faith, and other times he would draw his sacred blade to cut down evil manifestations.\r\n\r\nHe has seen what the power of faith and the human heart are capable of, and he returns it in kind. His love for the world and faith in others allow him to protect every ray of hope.\r\n\r\nJust like his name, Suyou, in the Cadian tongue...\r\n\r\nExorcist of evil and a wanderer in this world.",
+    "recommended_skill_order": "2-3-1-0-2/1"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 6,
+    "control": 5,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2549,
+    "health_growth": 147,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 124,
+    "physical_attack_growth": 11.79,
+    "magic_power": 0,
+    "physical_defense": 16,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.9286,
+    "attack_speed": 1.08,
+    "attack_speed_growth": 0.02,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 225,
+    "attack_range": 1.7
+  },
+  "abilities": [
+    {
+      "id": "Suyou0",
+      "name": "Transient Immortal",
+      "description": "<highlight>Tap-casting</highlight> any skill will put Suyou in his Mortal form, granting him 40 Movement Speed and decreasing the interval between Basic Attacks.<br/><highlight>Hold-casting</highlight> any skill will put Suyou in his Immortal form, increasing the damage of Basic Attacks to 125% and granting him 20% Physical Damage Reduction. In this form, for every 20 extra Physical Attack Suyou has, he gains 1% Physical Damage Reduction (up to 40%).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_8b4882f70a3c4538683a2cb8739c7027.png",
+      "video_url": null
+    },
+    {
+      "id": "Suyou1",
+      "name": "Blade Surge",
+      "description": "<highlight>Tap</highlight>: Suyou throws his weapon in the target direction, dealing 250/270/290/310/330<scaleAD> (+100% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in its path. Suyou then blinks to the weapon's location, catches it, and performs a slash in the opposite direction, dealing 375/420/464/510/555<scaleAD> (+150% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.<br/><highlight>Hold</highlight>: Suyou channels the Immortal's power and charges in the target direction, dealing 250/270/290/310/330<scaleAD> (+100% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the path. When hitting an enemy hero, he stops and stuns enemies in a rectangular area in front for 0.6s. The charge distance increases with the hold time.<br/><diminish>Suyou can be controlled while charging, but the skill cannot be interrupted</diminish>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8.5/8.1/7.8/7.4/7",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+      "video_url": null
+    },
+    {
+      "id": "Suyou2",
+      "name": "Soul Sever",
+      "description": "<highlight>Tap</highlight>: Suyou performs a sweeping attack with his weapon, dealing <physicalDamage>Physical Damage</physicalDamage> equal to 280/320/360/400/440<scaleAD> (+200% Extra Physical Attack)</scaleAD> plus 15% of target's Lost HP to enemies in a fan-shaped area.<br/><highlight>Hold</highlight>: Suyou channels the power of the Immortal to perform 3 cleaves in a fan-shaped area. The first two strikes deal 225/260/295/330/365<scaleAD> (+80% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> each, while the final strike deals 360/416/472/528/584<scaleAD> (+128% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and recovers 150/170/190/210/230<scaleAD> (+50% Extra Physical Attack)</scaleAD> HP for himself.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8.5/8.1/7.8/7.4/7",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+      "video_url": null
+    },
+    {
+      "id": "Suyou3",
+      "name": "Evil Queller",
+      "description": "<highlight>Tap</highlight>: Suyou glides backward and swings his weapon in the target direction, dealing 420/460/500/540/580<scaleAD> (+120% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a rectangular area and on his path backward, and reducing their Movement Speed by 30% for 1.5s.<br/><highlight>Hold</highlight>: Suyou uses the Immortal's power to shoot a deadly arrow in the target direction, dealing 580/635/690/745/800<scaleAD> (+165% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the target hit. The range increases with the hold time. <br/><diminish>Suyou can be controlled while charging, but the skill cannot be interrupted</diminish>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8.5/8.1/7.8/7.4/7",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Suyou0",
+      "sequence": "Suyou3-Suyou1-Suyou2-Suyou3-Suyou1-Suyou2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Hold-cast Skill 3 to poke before the team fight, then hold-cast Skill 1 to engage and control the enemy at their back, then hold-cast Skill 2 to deal massive damage. Then tap-cast Skill 3 to keep your distance from the enemy, and when the skill cooldown is up, tap-cast Skill 1 and Skill 2 to quickly kill the target."
+    },
+    {
+      "id": "Suyou1",
+      "sequence": "Suyou1-AA-Suyou2-Suyou3",
+      "name": "LANING COMBOS",
+      "description": "Hold-casting Skill 1 in the Bush allows Suyou to attack unexpectedly and control the enemy; then hold-cast Skill 2 to deal massive damage and follow up the Basic Attack by tap-casting Skill 3 to leave the battlefield."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Heroes that provide control (like Tigreal) make it easier for Suyou to deal massive damage; heroes that provide recovery and extra movement speed (like Rafaela) help Suyou kite better.",
+      "heroes": [
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        },
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Suyou's powerful long-range burst and pursuit abilities make it impossible for heroes without Blinks or Charges, such as Xavier and Ixia, to escape.",
+      "heroes": [
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        },
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Because Suyou requires hold-casting skills, heroes with control can easily interrupt his attacks, such as Badang and Melissa.",
+      "heroes": [
+        {
+          "id": 114,
+          "slug": "melissa",
+          "name": "Melissa"
+        },
+        {
+          "id": 77,
+          "slug": "badang",
+          "name": "Badang"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Suyou-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Suyou-Default.png",
+    "square_portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Suyou-Default.png",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/13912f0dbc96b6cf53a00e80ff731dab.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/suyou.json",
+    "visual_catalog": "catalog/v1/visual/suyou.json",
+    "upgrade_catalog": "catalog/v1/upgrade/suyou.json"
+  }
+}

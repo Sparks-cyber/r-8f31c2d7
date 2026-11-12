@@ -1,0 +1,227 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Atlas",
+  "role": "Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Reactor Core",
+      "Splash_url": "Atlas-Reactor-Core.png",
+      "script": "Atlas-Reactor-Core-Backup.zip",
+      "Portrait_url": "Atlas-Reactor-Core.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Rune of Sentinel",
+          "Portrait_url": "Atlas-Rune-of-Sentinel.png",
+          "Splash_url": "Atlas-Rune-of-Sentinel.png",
+          "script": "Atlas-Reactor-Core-Rune-of-Sentinel.zip"
+        },
+        {
+          "name": "Mecha Infernus",
+          "Portrait_url": "Atlas-Mecha-Infernus.png",
+          "Splash_url": "Atlas-Mecha-Infernus.png",
+          "script": "Atlas-Reactor-Core-Mecha-Infernus.zip"
+        },
+        {
+          "name": "Battle Turbine",
+          "Portrait_url": "Atlas-Battle-Turbine.png",
+          "Splash_url": "Atlas-Battle-Turbine.png",
+          "script": "Atlas-Reactor-Core-Battle-Turbine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Fuel Turbine",
+      "Splash_url": "Atlas-Fuel-Turbine.png",
+      "script": "Atlas-Fuel-Turbine-Backup.zip",
+      "Portrait_url": "Atlas-Fuel-Turbine.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Reactor Core",
+          "Portrait_url": "Atlas-Reactor-Core.png",
+          "Splash_url": "Atlas-Reactor-Core.png",
+          "script": "Atlas-Fuel-Turbine-Reactor-Core.zip"
+        },
+        {
+          "name": "Space Mech",
+          "Portrait_url": "Atlas-Space-Mech.png",
+          "Splash_url": "Atlas-Space-Mech.png",
+          "script": "Atlas-Fuel-Turbine-Space-Mech.zip"
+        },
+        {
+          "name": "Rune of Sentinel",
+          "Portrait_url": "Atlas-Rune-of-Sentinel.png",
+          "Splash_url": "Atlas-Rune-of-Sentinel.png",
+          "script": "Atlas-Fuel-Turbine-Rune-of-Sentinel.zip"
+        },
+        {
+          "name": "Mecha Infernus",
+          "Portrait_url": "Atlas-Mecha-Infernus.png",
+          "Splash_url": "Atlas-Mecha-Infernus.png",
+          "script": "Atlas-Fuel-Turbine-Mecha-Infernus.zip"
+        },
+        {
+          "name": "Battle Turbine",
+          "Portrait_url": "Atlas-Battle-Turbine.png",
+          "Splash_url": "Atlas-Battle-Turbine.png",
+          "script": "Atlas-Fuel-Turbine-Battle-Turbine.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Space Mech",
+      "Splash_url": "Atlas-Space-Mech.png",
+      "script": "Atlas-Space-Mech-Backup.zip",
+      "Portrait_url": "Atlas-Space-Mech.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Reactor Core",
+          "Portrait_url": "Atlas-Reactor-Core.png",
+          "Splash_url": "Atlas-Reactor-Core.png",
+          "script": "Atlas-Space-Mech-Reactor-Core.zip"
+        },
+        {
+          "name": "Fuel Turbine",
+          "Portrait_url": "Atlas-Fuel-Turbine.png",
+          "Splash_url": "Atlas-Fuel-Turbine.png",
+          "script": "Atlas-Space-Mech-Fuel-Turbine.zip"
+        },
+        {
+          "name": "Mecha Infernus",
+          "Portrait_url": "Atlas-Mecha-Infernus.png",
+          "Splash_url": "Atlas-Mecha-Infernus.png",
+          "script": "Atlas-Space-Mech-Mecha-Infernus.zip"
+        },
+        {
+          "name": "Battle Turbine",
+          "Portrait_url": "Atlas-Battle-Turbine.png",
+          "Splash_url": "Atlas-Battle-Turbine.png",
+          "script": "Atlas-Space-Mech-Battle-Turbine.zip"
+        }
+      ]
+    },
+    {
+      "name": "MSC 2023",
+      "Default_name": "Rune of Sentinel",
+      "Splash_url": "Atlas-Rune-of-Sentinel.png",
+      "script": "Atlas-Rune-of-Sentinel-Backup.zip",
+      "Portrait_url": "Atlas-Rune-of-Sentinel.png",
+      "Tags": [
+        "MSC 2023.png"
+      ],
+      "targets": [
+        {
+          "name": "Reactor Core",
+          "Portrait_url": "Atlas-Reactor-Core.png",
+          "Splash_url": "Atlas-Reactor-Core.png",
+          "script": "Atlas-Rune-of-Sentinel-Reactor-Core.zip"
+        },
+        {
+          "name": "Fuel Turbine",
+          "Portrait_url": "Atlas-Fuel-Turbine.png",
+          "Splash_url": "Atlas-Fuel-Turbine.png",
+          "script": "Atlas-Rune-of-Sentinel-Fuel-Turbine.zip"
+        },
+        {
+          "name": "Space Mech",
+          "Portrait_url": "Atlas-Space-Mech.png",
+          "Splash_url": "Atlas-Space-Mech.png",
+          "script": "Atlas-Rune-of-Sentinel-Space-Mech.zip"
+        },
+        {
+          "name": "Mecha Infernus",
+          "Portrait_url": "Atlas-Mecha-Infernus.png",
+          "Splash_url": "Atlas-Mecha-Infernus.png",
+          "script": "Atlas-Rune-of-Sentinel-Mecha-Infernus.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Mecha Infernus",
+      "Splash_url": "Atlas-Mecha-Infernus.png",
+      "script": "Atlas-Mecha-Infernus-Backup.zip",
+      "Portrait_url": "Atlas-Mecha-Infernus.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Reactor Core",
+          "Portrait_url": "Atlas-Reactor-Core.png",
+          "Splash_url": "Atlas-Reactor-Core.png",
+          "script": "Atlas-Mecha-Infernus-Reactor-Core.zip"
+        },
+        {
+          "name": "Fuel Turbine",
+          "Portrait_url": "Atlas-Fuel-Turbine.png",
+          "Splash_url": "Atlas-Fuel-Turbine.png",
+          "script": "Atlas-Mecha-Infernus-Fuel-Turbine.zip"
+        },
+        {
+          "name": "Space Mech",
+          "Portrait_url": "Atlas-Space-Mech.png",
+          "Splash_url": "Atlas-Space-Mech.png",
+          "script": "Atlas-Mecha-Infernus-Space-Mech.zip"
+        },
+        {
+          "name": "Rune of Sentinel",
+          "Portrait_url": "Atlas-Rune-of-Sentinel.png",
+          "Splash_url": "Atlas-Rune-of-Sentinel.png",
+          "script": "Atlas-Mecha-Infernus-Rune-of-Sentinel.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Battle Turbine",
+      "Splash_url": "Atlas-Battle-Turbine.png",
+      "script": "Atlas-Battle-Turbine-Backup.zip",
+      "Portrait_url": "Atlas-Battle-Turbine.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Reactor Core",
+          "Portrait_url": "Atlas-Reactor-Core.png",
+          "Splash_url": "Atlas-Reactor-Core.png",
+          "script": "Atlas-Battle-Turbine-Reactor-Core.zip"
+        },
+        {
+          "name": "Fuel Turbine",
+          "Portrait_url": "Atlas-Fuel-Turbine.png",
+          "Splash_url": "Atlas-Fuel-Turbine.png",
+          "script": "Atlas-Battle-Turbine-Fuel-Turbine.zip"
+        },
+        {
+          "name": "Space Mech",
+          "Portrait_url": "Atlas-Space-Mech.png",
+          "Splash_url": "Atlas-Space-Mech.png",
+          "script": "Atlas-Battle-Turbine-Space-Mech.zip"
+        },
+        {
+          "name": "Rune of Sentinel",
+          "Portrait_url": "Atlas-Rune-of-Sentinel.png",
+          "Splash_url": "Atlas-Rune-of-Sentinel.png",
+          "script": "Atlas-Battle-Turbine-Rune-of-Sentinel.zip"
+        },
+        {
+          "name": "Mecha Infernus",
+          "Portrait_url": "Atlas-Mecha-Infernus.png",
+          "Splash_url": "Atlas-Mecha-Infernus.png",
+          "script": "Atlas-Battle-Turbine-Mecha-Infernus.zip"
+        }
+      ]
+    }
+  ]
+}

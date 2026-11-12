@@ -1,0 +1,192 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "guinevere-arcade",
+      "portrait_file": "Guinevere - Arcade.png",
+      "script_file": "Guinevere-Arcade.zip",
+      "skin_name": "Arcade",
+      "splash_file": "Guinevere - Arcade.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-beautiful",
+      "portrait_file": "Guinevere - Beautiful.png",
+      "script_file": "Guinevere-Beautiful.zip",
+      "skin_name": "Beautiful",
+      "splash_file": "Guinevere - Beautiful.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-christmas",
+      "portrait_file": "Guinevere - Christmas.png",
+      "script_file": "Guinevere-Christmas.zip",
+      "skin_name": "Christmas",
+      "splash_file": "Guinevere - Christmas.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-christmas-v2",
+      "portrait_file": "Guinevere - Christmas V2.png",
+      "script_file": "Guinevere-Christmas-V2.zip",
+      "skin_name": "Christmas V2",
+      "splash_file": "Guinevere - Christmas V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-darknet-tempress",
+      "portrait_file": "Guinevere - Darknet Tempress.png",
+      "script_file": "Guinevere-Darknet-Tempress.zip",
+      "skin_name": "Darknet Tempress",
+      "splash_file": "Guinevere - Darknet Tempress.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-divine-goddess",
+      "portrait_file": "Guinevere - Divine Goddess.png",
+      "script_file": "Guinevere-Divine-Goddess.zip",
+      "skin_name": "Divine Goddess",
+      "splash_file": "Guinevere - Divine Goddess.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-exorcist",
+      "portrait_file": "Guinevere - Exorcist.png",
+      "script_file": "Guinevere-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Guinevere - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-hello-kitty",
+      "portrait_file": "Guinevere - Hello Kitty.png",
+      "script_file": "Guinevere-Hello-Kitty.zip",
+      "skin_name": "Hello Kitty",
+      "splash_file": "Guinevere - Hello Kitty.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-hinata",
+      "portrait_file": "Guinevere - Hinata.png",
+      "script_file": "Guinevere-Hinata.zip",
+      "skin_name": "Hinata",
+      "splash_file": "Guinevere - Hinata.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-hinata-v2",
+      "portrait_file": "Guinevere - Hinata V2.png",
+      "script_file": "Guinevere-Hinata-V2.zip",
+      "skin_name": "Hinata V2",
+      "splash_file": "Guinevere - Hinata V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-mai",
+      "portrait_file": "Guinevere - Mai.png",
+      "script_file": "Guinevere-Mai.zip",
+      "skin_name": "Mai",
+      "splash_file": "Guinevere - Mai.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-melody-tone",
+      "portrait_file": "Guinevere - Melody Tone.png",
+      "script_file": "Guinevere-Melody-Tone.zip",
+      "skin_name": "Melody Tone",
+      "splash_file": "Guinevere - Melody Tone.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-sakura",
+      "portrait_file": "Guinevere - Sakura.png",
+      "script_file": "Guinevere-Sakura.zip",
+      "skin_name": "Sakura",
+      "splash_file": "Guinevere - Sakura.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-sin-tjia",
+      "portrait_file": "Guinevere - Sin Tjia.png",
+      "script_file": "Guinevere-Sin-Tjia.zip",
+      "skin_name": "Sin Tjia",
+      "splash_file": "Guinevere - Sin Tjia.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-waler-lily",
+      "portrait_file": "Guinevere - Waler Lily.png",
+      "script_file": "Guinevere-Waler-Lily.zip",
+      "skin_name": "Waler Lily",
+      "splash_file": "Guinevere - Waler Lily.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "guinevere-water-cloud",
+      "portrait_file": "Guinevere - Water Cloud.png",
+      "script_file": "Guinevere-Water-Cloud.zip",
+      "skin_name": "Water Cloud",
+      "splash_file": "Guinevere - Water Cloud.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    }
+  ],
+  "hero": {
+    "id": 80,
+    "name": "Guinevere",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "guinevere"
+  },
+  "release_tag": "custom-guinevere",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

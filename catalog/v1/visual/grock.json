@@ -1,0 +1,137 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "grock-backup",
+      "portrait_file": "Grock-Default.png",
+      "script_file": "Grock-Backup.zip",
+      "skin_name": "Fortress Titan",
+      "splash_file": "Grock-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "grock-grave-guardian",
+      "portrait_file": "Grock-Grave-Guardian.png",
+      "script_file": "Grock-Grave-Guardian.zip",
+      "skin_name": "Grave Guardian",
+      "splash_file": "Grock-Grave-Guardian.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "grock-castle-guard",
+      "portrait_file": "Grock-Castle-Guard.png",
+      "script_file": "Grock-Castle-Guard.zip",
+      "skin_name": "Castle Guard",
+      "splash_file": "Grock-Castle-Guard.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "grock-v-e-n-o-m-monitor-lizard",
+      "portrait_file": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+      "script_file": "Grock-V-E-N-O-M-Monitor-Lizard.zip",
+      "skin_name": "V.E.N.O.M. Monitor Lizard",
+      "splash_file": "Grock-V-E-N-O-M-Monitor-Lizard.png",
+      "tag_id": "venom",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "grock-iceland-golem",
+      "portrait_file": "Grock-Iceland-Golem.png",
+      "script_file": "Grock-Iceland-Golem.zip",
+      "skin_name": "Iceland Golem",
+      "splash_file": "Grock-Iceland-Golem.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "grock-codename-rhino",
+      "portrait_file": "Grock-Codename-Rhino.png",
+      "script_file": "Grock-Codename-Rhino.zip",
+      "skin_name": "Codename: Rhino",
+      "splash_file": "Grock-Codename-Rhino.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "grock-ancient-golem",
+      "portrait_file": "Grock-Ancient-Golem.png",
+      "script_file": "Grock-Ancient-Golem.zip",
+      "skin_name": "Ancient Golem",
+      "splash_file": "Grock-Ancient-Golem.png",
+      "tag_id": "s24",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "grock-wasteland-psycho",
+      "portrait_file": "Grock-Wasteland-Psycho.png",
+      "script_file": "Grock-Wasteland-Psycho.zip",
+      "skin_name": "Wasteland Psycho",
+      "splash_file": "Grock-Wasteland-Psycho.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "grock-tremor-of-the-deep",
+      "portrait_file": "Grock-Tremor-of-the-Deep.png",
+      "script_file": "Grock-Tremor-of-the-Deep.zip",
+      "skin_name": "Tremor of the Deep",
+      "splash_file": "Grock-Tremor-of-the-Deep.png",
+      "tag_id": "special",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "grock-titanic-illusion",
+      "portrait_file": null,
+      "script_file": "Grock-Titanic-Illusion.zip",
+      "skin_name": "Titanic Illusion",
+      "splash_file": "Grock-Titanic-Illusion.png",
+      "tag_id": "beta-unreleased",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "grock-colossus-of-light",
+      "portrait_file": "Grock-Colossus-of-Light.png",
+      "script_file": "Grock-Colossus-of-Light.zip",
+      "skin_name": "Colossus of Light",
+      "splash_file": "Grock-Colossus-of-Light.png",
+      "tag_id": "fmvp",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "grock-royal-guard-painted-01",
+      "portrait_file": null,
+      "script_file": "Grock-Royal-Guard.zip",
+      "skin_name": "Royal Guard",
+      "splash_file": "Grock-Royal-Guard.png",
+      "tag_id": "painted",
+      "tier": "Common"
+    }
+  ],
+  "hero": {
+    "id": 44,
+    "name": "Grock",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "slug": "grock"
+  },
+  "release_tag": "visual-grock",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

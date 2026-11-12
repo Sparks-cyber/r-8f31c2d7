@@ -1,0 +1,49 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "vale-ang",
+      "portrait_file": "Vale - Ang.png",
+      "script_file": "Vale-Ang.zip",
+      "skin_name": "Ang",
+      "splash_file": "Vale - Ang.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "vale-fire-wind",
+      "portrait_file": "Vale - Fire Wind.png",
+      "script_file": "Vale-Fire-Wind.zip",
+      "skin_name": "Fire Wind",
+      "splash_file": "Vale - Fire Wind.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "vale-grey-fullbuster",
+      "portrait_file": "Vale - Grey FullBuster.png",
+      "script_file": "Vale-Grey-FullBuster.zip",
+      "skin_name": "Grey FullBuster",
+      "splash_file": "Vale - Grey FullBuster.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 66,
+    "name": "Vale",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "vale"
+  },
+  "release_tag": "custom-vale",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,377 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Eudora",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Flame Red Lips",
+      "Splash_url": "Eudora-Flame-Red-Lips.png",
+      "script": "Eudora-Flame-Red-Lips-Backup.zip",
+      "Portrait_url": "Eudora-Flame-Red-Lips.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Eudora-Christmas-Carnival.png",
+          "Splash_url": "Eudora-Christmas-Carnival.png",
+          "script": "Eudora-Flame-Red-Lips-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Emerald Enchantress",
+          "Portrait_url": "Eudora-Emerald-Enchantress.png",
+          "Splash_url": "Eudora-Emerald-Enchantress.png",
+          "script": "Eudora-Flame-Red-Lips-Emerald-Enchantress.zip"
+        },
+        {
+          "name": "Vivo Selfie Goddess",
+          "Portrait_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "Splash_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "script": "Eudora-Flame-Red-Lips-Vivo-Selfie-Goddess.zip"
+        },
+        {
+          "name": "Countess Scarlet",
+          "Portrait_url": "Eudora-Countess-Scarlet.png",
+          "Splash_url": "Eudora-Countess-Scarlet.png",
+          "script": "Eudora-Flame-Red-Lips-Countess-Scarlet.zip"
+        },
+        {
+          "name": "Cosmic Voyage",
+          "Portrait_url": "Eudora-Cosmic-Voyage.png",
+          "Splash_url": "Eudora-Cosmic-Voyage.png",
+          "script": "Eudora-Flame-Red-Lips-Cosmic-Voyage.zip"
+        },
+        {
+          "name": "Atomic Pop Eudora",
+          "Portrait_url": "Eudora-Atomic-Pop-Eudora.png",
+          "Splash_url": "Eudora-Atomic-Pop-Eudora.png",
+          "script": "Eudora-Flame-Red-Lips-Atomic-Pop-Eudora.zip"
+        },
+        {
+          "name": "Photogenic",
+          "Portrait_url": "Eudora-Photogenic.png",
+          "Splash_url": "Eudora-Photogenic.png",
+          "script": "Eudora-Flame-Red-Lips-Photogenic.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Eudora-Christmas-Carnival.png",
+      "script": "Eudora-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Eudora-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Flame Red Lips",
+          "Portrait_url": "Eudora-Flame-Red-Lips.png",
+          "Splash_url": "Eudora-Flame-Red-Lips.png",
+          "script": "Eudora-Christmas-Carnival-Flame-Red-Lips.zip"
+        },
+        {
+          "name": "Emerald Enchantress",
+          "Portrait_url": "Eudora-Emerald-Enchantress.png",
+          "Splash_url": "Eudora-Emerald-Enchantress.png",
+          "script": "Eudora-Christmas-Carnival-Emerald-Enchantress.zip"
+        },
+        {
+          "name": "Vivo Selfie Goddess",
+          "Portrait_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "Splash_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "script": "Eudora-Christmas-Carnival-Vivo-Selfie-Goddess.zip"
+        },
+        {
+          "name": "Countess Scarlet",
+          "Portrait_url": "Eudora-Countess-Scarlet.png",
+          "Splash_url": "Eudora-Countess-Scarlet.png",
+          "script": "Eudora-Christmas-Carnival-Countess-Scarlet.zip"
+        },
+        {
+          "name": "Cosmic Voyage",
+          "Portrait_url": "Eudora-Cosmic-Voyage.png",
+          "Splash_url": "Eudora-Cosmic-Voyage.png",
+          "script": "Eudora-Christmas-Carnival-Cosmic-Voyage.zip"
+        },
+        {
+          "name": "Atomic Pop Eudora",
+          "Portrait_url": "Eudora-Atomic-Pop-Eudora.png",
+          "Splash_url": "Eudora-Atomic-Pop-Eudora.png",
+          "script": "Eudora-Christmas-Carnival-Atomic-Pop-Eudora.zip"
+        },
+        {
+          "name": "Photogenic",
+          "Portrait_url": "Eudora-Photogenic.png",
+          "Splash_url": "Eudora-Photogenic.png",
+          "script": "Eudora-Christmas-Carnival-Photogenic.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Emerald Enchantress",
+      "Splash_url": "Eudora-Emerald-Enchantress.png",
+      "script": "Eudora-Emerald-Enchantress-Backup.zip",
+      "Portrait_url": "Eudora-Emerald-Enchantress.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Flame Red Lips",
+          "Portrait_url": "Eudora-Flame-Red-Lips.png",
+          "Splash_url": "Eudora-Flame-Red-Lips.png",
+          "script": "Eudora-Emerald-Enchantress-Flame-Red-Lips.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Eudora-Christmas-Carnival.png",
+          "Splash_url": "Eudora-Christmas-Carnival.png",
+          "script": "Eudora-Emerald-Enchantress-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Vivo Selfie Goddess",
+          "Portrait_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "Splash_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "script": "Eudora-Emerald-Enchantress-Vivo-Selfie-Goddess.zip"
+        },
+        {
+          "name": "Countess Scarlet",
+          "Portrait_url": "Eudora-Countess-Scarlet.png",
+          "Splash_url": "Eudora-Countess-Scarlet.png",
+          "script": "Eudora-Emerald-Enchantress-Countess-Scarlet.zip"
+        },
+        {
+          "name": "Cosmic Voyage",
+          "Portrait_url": "Eudora-Cosmic-Voyage.png",
+          "Splash_url": "Eudora-Cosmic-Voyage.png",
+          "script": "Eudora-Emerald-Enchantress-Cosmic-Voyage.zip"
+        },
+        {
+          "name": "Atomic Pop Eudora",
+          "Portrait_url": "Eudora-Atomic-Pop-Eudora.png",
+          "Splash_url": "Eudora-Atomic-Pop-Eudora.png",
+          "script": "Eudora-Emerald-Enchantress-Atomic-Pop-Eudora.zip"
+        },
+        {
+          "name": "Photogenic",
+          "Portrait_url": "Eudora-Photogenic.png",
+          "Splash_url": "Eudora-Photogenic.png",
+          "script": "Eudora-Emerald-Enchantress-Photogenic.zip"
+        }
+      ]
+    },
+    {
+      "name": "Limited",
+      "Default_name": "Vivo Selfie Goddess",
+      "Splash_url": "Eudora-Vivo-Selfie-Goddess.png",
+      "script": "Eudora-Vivo-Selfie-Goddess-Backup.zip",
+      "Portrait_url": "Eudora-Vivo-Selfie-Goddess.png",
+      "Tags": [
+        "Limited.png"
+      ],
+      "targets": [
+        {
+          "name": "Flame Red Lips",
+          "Portrait_url": "Eudora-Flame-Red-Lips.png",
+          "Splash_url": "Eudora-Flame-Red-Lips.png",
+          "script": "Eudora-Vivo-Selfie-Goddess-Flame-Red-Lips.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Eudora-Christmas-Carnival.png",
+          "Splash_url": "Eudora-Christmas-Carnival.png",
+          "script": "Eudora-Vivo-Selfie-Goddess-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Emerald Enchantress",
+          "Portrait_url": "Eudora-Emerald-Enchantress.png",
+          "Splash_url": "Eudora-Emerald-Enchantress.png",
+          "script": "Eudora-Vivo-Selfie-Goddess-Emerald-Enchantress.zip"
+        },
+        {
+          "name": "Countess Scarlet",
+          "Portrait_url": "Eudora-Countess-Scarlet.png",
+          "Splash_url": "Eudora-Countess-Scarlet.png",
+          "script": "Eudora-Vivo-Selfie-Goddess-Countess-Scarlet.zip"
+        },
+        {
+          "name": "Cosmic Voyage",
+          "Portrait_url": "Eudora-Cosmic-Voyage.png",
+          "Splash_url": "Eudora-Cosmic-Voyage.png",
+          "script": "Eudora-Vivo-Selfie-Goddess-Cosmic-Voyage.zip"
+        },
+        {
+          "name": "Atomic Pop Eudora",
+          "Portrait_url": "Eudora-Atomic-Pop-Eudora.png",
+          "Splash_url": "Eudora-Atomic-Pop-Eudora.png",
+          "script": "Eudora-Vivo-Selfie-Goddess-Atomic-Pop-Eudora.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Countess Scarlet",
+      "Splash_url": "Eudora-Countess-Scarlet.png",
+      "script": "Eudora-Countess-Scarlet-Backup.zip",
+      "Portrait_url": "Eudora-Countess-Scarlet.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Flame Red Lips",
+          "Portrait_url": "Eudora-Flame-Red-Lips.png",
+          "Splash_url": "Eudora-Flame-Red-Lips.png",
+          "script": "Eudora-Countess-Scarlet-Flame-Red-Lips.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Eudora-Christmas-Carnival.png",
+          "Splash_url": "Eudora-Christmas-Carnival.png",
+          "script": "Eudora-Countess-Scarlet-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Emerald Enchantress",
+          "Portrait_url": "Eudora-Emerald-Enchantress.png",
+          "Splash_url": "Eudora-Emerald-Enchantress.png",
+          "script": "Eudora-Countess-Scarlet-Emerald-Enchantress.zip"
+        },
+        {
+          "name": "Vivo Selfie Goddess",
+          "Portrait_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "Splash_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "script": "Eudora-Countess-Scarlet-Vivo-Selfie-Goddess.zip"
+        },
+        {
+          "name": "Cosmic Voyage",
+          "Portrait_url": "Eudora-Cosmic-Voyage.png",
+          "Splash_url": "Eudora-Cosmic-Voyage.png",
+          "script": "Eudora-Countess-Scarlet-Cosmic-Voyage.zip"
+        },
+        {
+          "name": "Atomic Pop Eudora",
+          "Portrait_url": "Eudora-Atomic-Pop-Eudora.png",
+          "Splash_url": "Eudora-Atomic-Pop-Eudora.png",
+          "script": "Eudora-Countess-Scarlet-Atomic-Pop-Eudora.zip"
+        },
+        {
+          "name": "Photogenic",
+          "Portrait_url": "Eudora-Photogenic.png",
+          "Splash_url": "Eudora-Photogenic.png",
+          "script": "Eudora-Countess-Scarlet-Photogenic.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Cosmic Voyage",
+      "Splash_url": "Eudora-Cosmic-Voyage.png",
+      "script": "Eudora-Cosmic-Voyage-Backup.zip",
+      "Portrait_url": "Eudora-Cosmic-Voyage.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Flame Red Lips",
+          "Portrait_url": "Eudora-Flame-Red-Lips.png",
+          "Splash_url": "Eudora-Flame-Red-Lips.png",
+          "script": "Eudora-Cosmic-Voyage-Flame-Red-Lips.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Eudora-Christmas-Carnival.png",
+          "Splash_url": "Eudora-Christmas-Carnival.png",
+          "script": "Eudora-Cosmic-Voyage-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Emerald Enchantress",
+          "Portrait_url": "Eudora-Emerald-Enchantress.png",
+          "Splash_url": "Eudora-Emerald-Enchantress.png",
+          "script": "Eudora-Cosmic-Voyage-Emerald-Enchantress.zip"
+        },
+        {
+          "name": "Vivo Selfie Goddess",
+          "Portrait_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "Splash_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "script": "Eudora-Cosmic-Voyage-Vivo-Selfie-Goddess.zip"
+        },
+        {
+          "name": "Countess Scarlet",
+          "Portrait_url": "Eudora-Countess-Scarlet.png",
+          "Splash_url": "Eudora-Countess-Scarlet.png",
+          "script": "Eudora-Cosmic-Voyage-Countess-Scarlet.zip"
+        },
+        {
+          "name": "Atomic Pop Eudora",
+          "Portrait_url": "Eudora-Atomic-Pop-Eudora.png",
+          "Splash_url": "Eudora-Atomic-Pop-Eudora.png",
+          "script": "Eudora-Cosmic-Voyage-Atomic-Pop-Eudora.zip"
+        },
+        {
+          "name": "Photogenic",
+          "Portrait_url": "Eudora-Photogenic.png",
+          "Splash_url": "Eudora-Photogenic.png",
+          "script": "Eudora-Cosmic-Voyage-Photogenic.zip"
+        }
+      ]
+    },
+    {
+      "name": "Atomic",
+      "Default_name": "Atomic Pop Eudora",
+      "Splash_url": "Eudora-Atomic-Pop-Eudora.png",
+      "script": "Eudora-Atomic-Pop-Eudora-Backup.zip",
+      "Portrait_url": "Eudora-Atomic-Pop-Eudora.png",
+      "Tags": [
+        "Atomic.png"
+      ],
+      "targets": [
+        {
+          "name": "Flame Red Lips",
+          "Portrait_url": "Eudora-Flame-Red-Lips.png",
+          "Splash_url": "Eudora-Flame-Red-Lips.png",
+          "script": "Eudora-Atomic-Pop-Eudora-Flame-Red-Lips.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Eudora-Christmas-Carnival.png",
+          "Splash_url": "Eudora-Christmas-Carnival.png",
+          "script": "Eudora-Atomic-Pop-Eudora-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Emerald Enchantress",
+          "Portrait_url": "Eudora-Emerald-Enchantress.png",
+          "Splash_url": "Eudora-Emerald-Enchantress.png",
+          "script": "Eudora-Atomic-Pop-Eudora-Emerald-Enchantress.zip"
+        },
+        {
+          "name": "Vivo Selfie Goddess",
+          "Portrait_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "Splash_url": "Eudora-Vivo-Selfie-Goddess.png",
+          "script": "Eudora-Atomic-Pop-Eudora-Vivo-Selfie-Goddess.zip"
+        },
+        {
+          "name": "Countess Scarlet",
+          "Portrait_url": "Eudora-Countess-Scarlet.png",
+          "Splash_url": "Eudora-Countess-Scarlet.png",
+          "script": "Eudora-Atomic-Pop-Eudora-Countess-Scarlet.zip"
+        },
+        {
+          "name": "Cosmic Voyage",
+          "Portrait_url": "Eudora-Cosmic-Voyage.png",
+          "Splash_url": "Eudora-Cosmic-Voyage.png",
+          "script": "Eudora-Atomic-Pop-Eudora-Cosmic-Voyage.zip"
+        },
+        {
+          "name": "Photogenic",
+          "Portrait_url": "Eudora-Photogenic.png",
+          "Splash_url": "Eudora-Photogenic.png",
+          "script": "Eudora-Atomic-Pop-Eudora-Photogenic.zip"
+        }
+      ]
+    }
+  ]
+}

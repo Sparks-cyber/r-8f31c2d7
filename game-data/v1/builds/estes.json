@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 34,
+    "slug": "estes",
+    "name": "Estes"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "estes-community-6467",
+      "name": "Community Build 6467",
+      "lane": "Roam",
+      "equipment_ids": [
+        "magicboots",
+        "flaskoftheoasis",
+        "enchantedtalisman",
+        "fleetingtime",
+        "holycrystal",
+        "oracle"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "support",
+      "talent_ids": [
+        "inspire",
+        "bargainhunter",
+        "focusingmark"
+      ],
+      "situational_items": [],
+      "notes": "Heal",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6467,
+      "source_created_at": "2026-03-13T09:30:03.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "estes-community-6210",
+      "name": "Community Build 6210",
+      "lane": "Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "flaskoftheoasis",
+        "fleetingtime",
+        "guardianhelmet",
+        "chastisepauldron",
+        "wintercrown"
+      ],
+      "battle_spell_id": "sprint",
+      "emblem_id": "support",
+      "talent_ids": [
+        "tenacity",
+        "temporalreign",
+        "agility"
+      ],
+      "situational_items": [],
+      "notes": "i need healing, roam, sprint",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6210,
+      "source_created_at": "2026-03-03T18:47:51.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "estes-companion-baseline",
+      "name": "Companion Support Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "support",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 61,
+    "slug": "chang-e",
+    "name": "Chang'e",
+    "skin_name": "Moon Palace Immortal",
+    "roles": [
+      "Mage"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Poke",
+      "Burst"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "30 May 2018",
+    "resource": "Mana",
+    "short_description": "Naughty and cute disciple of the Great Dragon.",
+    "brief": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
+    "story": "Chang'e is the youngest disciple of the Great Dragon. She exhibited amazing magical potential from an early age, quickly mastering the Great Dragon's greatest spell - The Sacred Satellite. From then on, Chang'e earned the eternal love of the Great Dragon. However, Chang'e's energetic and playful personality gave the Great Dragon quite a few headaches so he finally asked Zilong, his adopted son, to look after Chang'e. The Great Dragon was hopeful that Zilong's diligent and determined character could help guide Chang'e. Solemn as Zilong was, he came to love the lively and intelligent Chang'e as his little sister. They often spent countless hours together practicing magic. Zilong even managed to find the Moon Rabbit as a gift for Chang'e. Zilong was hoping that one day Chang'e would discover the strength of the divine rabbit and with its help improve her magic ability. Chang'e read Zilong's mind and took good care of the Moon Rabbit, accompanying it every day.\r\n\r\nDuring the second War of the Planes, Zilong assisted the wise rulers of the land, traveling between worlds. After he left, Chang'e returned to her naughty and childish ways, even the Moon Rabbit did something naughty from time to time. At one point, the Great Dragon was not sure if there would ever be another day of peace-That is, until the Moon Rabbit accidentally swallowed one of his sacred pills, thinking it was candy. The Great Dragon immediately cast the Moon Rabbit out of his sanctuary. To everyone's surprise, the Moon Rabbit rebelled again the Great Dragon. At the very moment of the Great Dragon taking its life, Chang'e saved the Rabbit and decided to assist Zilong and make up for her mistake together with the Moon Rabbit. Even then, the Great Dragon felt compelled to give Chang'e his precious Crescent Moon to protect her.",
+    "recommended_skill_order": "3-1-2-0-1/2"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 8,
+    "control": 2,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2320,
+    "health_growth": 133,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 7.64,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.01,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.7
+  },
+  "abilities": [
+    {
+      "id": "Change0",
+      "name": "Trouble Maker",
+      "description": "Each time Chang'e deals damage to an enemy, she leaves a mark on them. Each mark reduces the target's Movement Speed by 1%, stacking up to 20%.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d7332d176c72445d8cc3ee0317dacde.png",
+      "video_url": null
+    },
+    {
+      "id": "Change1",
+      "name": "Starmoon Shockwave",
+      "description": "Chang'e sends an energy sphere in the target direction, dealing 350/380/410/440/470/500<scaleAP> (+130% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies in its path and slowing them by 10% for 1.5s.<br/><br/><highlight>Crescent Moon</highlight>: The <highlight>Crescent Moon</highlight> sends 4 extra energy spheres along with Chang'e's, each dealing 20% damage and slowing enemies hit. The slow effect can stack (up to 20%).",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "7/6.6/6.2/5.8/5.4/5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a02d601ba3fe650adef7922262df55c4.png",
+      "video_url": null
+    },
+    {
+      "id": "Change2",
+      "name": "Crescent Moon",
+      "description": "Chang'e summons the <highlight>Crescent Moon</highlight>, gaining a permanent 300/340/380/420/460/500<scaleAP> (+150% Total Magic Power)</scaleAP> shield and 10% Movement Speed (that lasts until the shield is destroyed). Each time Chang'e casts a skill, she also gains 50% Movement Speed that decays over 2.5s. <highlight>Crescent Moon</highlight> also allows Chang'e's Basic Attacks to deal 20<scaleAP> (+35% Total Magic Power)</scaleAP> additional <magicDamage>Magic Damage</magicDamage> 2 times.<br/><br/>Each time Chang'e deals Magic Damage with her Basic Attack and skills, the cooldown of this skill is reduced by 0.2s.",
+      "flavor_text": null,
+      "cost": "60",
+      "cooldown": "12/11.5/11/10.5/10/9.5",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 35.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7cccc4df5ed4adc5cedaaf446aab3a6a.png",
+      "video_url": null
+    },
+    {
+      "id": "Change3",
+      "name": "Meteor Shower",
+      "description": "Chang'e fires 30 meteors in the target direction over 4s, each dealing 60/75/90<scaleAP> (+21% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to the first enemy hit. This skill deals 100% extra damage to Minions and Creeps. Chang'e also gains 10% Movement Speed for the duration.<br/><br/><highlight>Crescent Moon</highlight>: The <highlight>Crescent Moon</highlight> also fires meteors along with Chang'e, each dealing 33% damage.",
+      "flavor_text": null,
+      "cost": "120/140/160",
+      "cooldown": "24/22/20",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_43c4ffb92aa2cf0242ed4fc0571c1a5d.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Change0",
+      "sequence": "Change2-Change1-Change3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, get the shield from Chang'e's 2nd Skill, then use her 1st Skill to poke enemies, and follow up with her Ultimate if the 1st Skill was on target. Chang'e needs to move around during her Ultimate to keep herself safe and make sure the meteors can hit the target."
+    },
+    {
+      "id": "Change1",
+      "sequence": "Change2-AA-Change1-Change3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, get the buff from Chang'e's 2nd Skill first, then mark the enemy with her Basic Attacks. Cast her 1st Skill to slow down low HP enemy, and finish them off with her Ultimate."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Chang'e works well with Tanks who can pull enemies together, like Gatotkaca and Tigreal, because Chang'e can follow them into teamfights to deal massive damage.",
+      "heroes": [
+        {
+          "id": 41,
+          "slug": "gatotkaca",
+          "name": "Gatotkaca"
+        },
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Chang'e is strong against squishy heroes who have low mobility and short damage range, such as Eudora and Odette. Chang'e can easily hit them with her long-range skills while dodging their attacks.",
+      "heroes": [
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        },
+        {
+          "id": 46,
+          "slug": "odette",
+          "name": "Odette"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Chang'e is countered by agile Assassins with high burst like Hanzo and Harley, as they can avoid Chang'e's skills and use their high burst damage to kill her since she lacks self-protection.",
+      "heroes": [
+        {
+          "id": 69,
+          "slug": "hanzo",
+          "name": "Hanzo"
+        },
+        {
+          "id": 42,
+          "slug": "harley",
+          "name": "Harley"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Chang-e-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Chang-e-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bf3d5cdc1c0e33f5aab7732e153c7409.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bf3d5cdc1c0e33f5aab7732e153c7409.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/chang-e.json",
+    "visual_catalog": "catalog/v1/visual/chang-e.json",
+    "upgrade_catalog": "catalog/v1/upgrade/chang-e.json"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 72,
+    "slug": "thamuz",
+    "name": "Thamuz",
+    "skin_name": "Lord Lava",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "Abyss",
+    "release_date": "2018",
+    "resource": null,
+    "short_description": "The lord of the Fire Demons who seeks to reignite the flames of the Abyss through war and violence.",
+    "brief": "In the deepest depths of the Abyss, molten magma churns at the birthplace of the formidable Fire Demons. Among them was Thamuz, who rose to become the mightiest Fire Demon and their leader. With his overwhelming strength and blazing temper, he controls the depths of the Abyss with an iron fist. Now, as the corruption seeping through the Abyss threatens to wipe out his race, Thamuz seeks to ascend to godhood and crush fate with his own hands. To this end, he and his Fire Demons will burn everything to ash, until nothing is left!",
+    "story": "In the deepest depths of the Abyss, molten magma churns at the birthplace of the formidable Fire Demons. Among them was Thamuz, who rose to become the mightiest Fire Demon and their leader. With his overwhelming strength and blazing temper, he controls the depths of the Abyss with an iron fist. Now, as the corruption seeping through the Abyss threatens to wipe out his race, Thamuz seeks to ascend to godhood and crush fate with his own hands. To this end, he and his Fire Demons will burn everything to ash, until nothing is left!\r\n\r\n\"You must never allow the Heart of Lava to become cold and harden.\"\r\n\r\nThamuz still remembered the words of the former Lord of Lava. Thamuz was just a general back then-when the Sovereign of the Abyss ordered them to go to war, he forged his scythes from obsidian and lava, and reaped the battlefield with his blazing flames.\r\n\r\nHowever, the former lord saw in him not just strength that surpassed all others, but also wisdom rare among their kind. After the sovereign issued another call to arms, the former lord summoned Thamuz once more to the birthplace of the Fire Demons.\r\n\r\nThis time, however, it wasn't to send him off to battle-it was to keep him from it.\r\n\r\nThe Heart of Lava is the essence of the Fire Demons. As the wars raged on, more and more Fire Demons perished on the battlefield, littering them with grim statues. And with each loss, the Heart of Lava grew colder, spelling the downfall of the Fire Demons.\r\n\r\nThe call of war could not be refused, but the Fire Demons desperately needed a new future-one that only the new generation like Thamuz could forge.\r\n\r\nAfter his succession, Thamuz began the revival of the Fire Demons. During the brief respites from the fighting, the Fire Demons would see a resurgence in influence.\r\n\r\nBut Thamuz was not fooled by these illusions. Looking at the races of the Abyss and the above races driven by the God of Light, he saw how race after race had disappeared from history in the Endless War. The obsidian and granite structures his ancestors once erected as the builders of the Abyss civilization now lay in ruins. The so-called gods sought only victory, treating all life as mere pawns in their petty game.\r\n\r\nThe suffering of the Abyss must end.\r\n\r\nWith this conviction, Thamuz led the Fire Demons to join the rebels, and in the final battle, commanded his forces deep into the Night Palace in the lowest depths of the Abyss. As he confronted the creator of the Abyss civilization, the power stirring in his blood confirmed the sovereign's words about the Abyss's nurturing nature.\r\n\r\nBut the power that once nourished the Abyss like a sun had become its enemy, discarding the lives of its subjects at will-and for that, she had to perish! nothing\r\n\r\nAfter an earth-shattering battle, Thamuz ended the sovereign's life with his own hands, while the rebels succeeded in their plan to defeat both the God of Light and God of Darkness.\r\n\r\nStanding upon the ravaged pits of the Abyss, Thamuz resolved to forge a new Abyss, one that could stand equal to the surface world. Using the sovereign's blood as fuel, Thamuz brought the Abyss into a new era.\r\n\r\nBut fate is a cruel mistress. The sovereign's blood curse began to spread through the Abyss, corrupting the very essence of many Abyssal beings, driving their minds mad and twisting their bodies. Even the Heart of Lava, nourished by the sovereign's blood, was not spared. Watching his brethren fall to madness one by one, Thamuz's ideals crumbled.\r\n\r\nAmidst this chaos, Thamuz also had to fight against the mad Abyssal beings who sought to claim the sovereign's remains slumbering within the Night Palace-should they succeed, the outcome would make the current dark corruption seem gentle in comparison.\r\n\r\nThe endless battles and fruitless labor let pain and rage devour Thamuz's heart. He gradually realized that only overwhelming power could subdue these lesser beings, and only transcendent power could overcome the curse.\r\n\r\nHe must become a god, and then surpass even godhood.\r\n\r\nThis shift disappointed many of his former allies and even made them fearful of Thamuz. But against the unstoppable dark corruption, their counsel rang hollow. Someone had to shoulder the fate of the Abyss, and Thamuz was convinced it had to be him.\r\n\r\nThousands of years passed, and as madness and mutation grew ever worse, the Abyss became unrecognizable. The Lord of Lava, constantly reforging himself in the flames of war, continued his conquest and ascension toward godhood.\r\n\r\nHis pride would not allow him to forget that promise.\r\n\r\nI will become the new sun of the Abyss, and my blood will ensure that the lava burns eternal!",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 7,
+    "offense": 4,
+    "control": 2,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2758,
+    "health_growth": 213,
+    "health_regen": 7.4,
+    "health_regen_growth": 0.4,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 107,
+    "physical_attack_growth": 8.21,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Thamuz0",
+      "name": "Grand Lord Lava",
+      "description": "Thamuz's Basic Attacks have a 10%–60% chance (based on <highlight>Lava's Rage</highlight>) to conjure Lava Energy beneath the target that erupts after a brief delay, dealing 55<trueDamage> (+60% Total Physical Attack)</trueDamage><trueDamage>(+8*Hero Level)</trueDamage> <trueDamage>True Damage</trueDamage>. Basic Attacks that don't trigger Lava Energy will increase Thamuz's <highlight>Lava's Rage</highlight>.<br/>When without <highlight>Scythes</highlight>, Thamuz gains 25% Movement Speed. After retrieving his <highlight>Scythes</highlight>, his next Basic Attack slows the target by 30% and is guaranteed to trigger Lava Energy.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Debuff",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_d051312911931ae72d9976cdd14c973d.png",
+      "video_url": null
+    },
+    {
+      "id": "Thamuz1",
+      "name": "Molten Scythes",
+      "description": "Thamuz tosses <highlight>Scythes</highlight> in the target direction. After travelling for a certain distance or hitting the first enemy hero, they deal 120/150/180/210/240/270<scaleAD> (+60% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. The <highlight>Scythes</highlight> will then slow nearby enemies by 30% and deal 45/52/59/66/73/80<scaleAD> (+20% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> every 0.5s.<br/>After leaving Thamuz for a period of time or a certain distance, the <highlight>Scythes</highlight> will return to Thamuz and drag enemies in their path to him. Thamuz can approach the Scythes or cast the skill again to retrieve them.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "3",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_e6071a86da476531ddcd6d386aa96f4a.png",
+      "video_url": null
+    },
+    {
+      "id": "Thamuz2",
+      "name": "Chasm Trample",
+      "description": "Thamuz jumps to a designated area to deal 230/255/280/305/330/355<scaleAD> (+60% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slow the enemy units by 25% for 2s upon landing. <br/>If the Scythes are still travelling, they will return to Thamuz and <highlight>Molten Scythes</highlight> will reset its CD instantly.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8/7.6/7.2/6.8/6.4/6",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_40d76405ad463946a2cd7a742b69d19a.png",
+      "video_url": null
+    },
+    {
+      "id": "Thamuz3",
+      "name": "Cauterant Inferno",
+      "description": "Thamuz spouts the lava stored in his body, dealing 300/390/480<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to nearby enemies and creating a <highlight>Cauterant Inferno</highlight> around him. The <highlight>Cauterant Inferno</highlight> lasts 9s and deals 30/45/60<scaleAD> (+10% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> every 0.5s to enemies in the area.<br/>Meanwhile, Thamuz gains 800/1000/1200<scaleHP> (+50% Extra Max HP)</scaleHP> extra Max HP, heals himself by the same amount, and increases his Attack Speed by 60/80/100%. He also recovers 1.5% Max HP each time he deals damage with Basic Attacks or his <highlight>Scythes</highlight>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "38/34/30",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_fa001f5f75ae598c8d362c04629ba328.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Thamuz0",
+      "sequence": "Thamuz1-Thamuz2-Thamuz3-AA-Thamuz1-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Thamuz's 1st Skill to speed up and adjust positioning, then jump into the crowd using his 2nd Skill. Activate his Ultimate followed by a Basic Attack and his 1st Skill, and retrieve the Scythes before continuing with Basic Attacks."
+    },
+    {
+      "id": "Thamuz1",
+      "sequence": "Thamuz1-Thamuz2-AA-Thamuz1-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Thamuz's 1st Skill, then leap to enemy using his 2nd Skill, causing his Scythes to return and resetting the CD of his 1st Skill. Follow up with a Basic Attack and then his 1st Skill, and tap the skill again to retrieve the Scythes and end with Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Thamuz can play to his strength when working with Supports who provide Movement Speed or CC, such as Angela and Rafaela, because they enable him to stay on his targets.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Thamuz is good against other sustained damage Fighters like Zilong and Sun because he has the top notch laning power.",
+      "heroes": [
+        {
+          "id": 16,
+          "slug": "zilong",
+          "name": "Zilong"
+        },
+        {
+          "id": 27,
+          "slug": "sun",
+          "name": "Sun"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Thamuz is countered by agile Marksmen, such as Karrie and Irithel, since he lacks CC and relies on Basic Attacks, making him an easy target to kite.",
+      "heroes": [
+        {
+          "id": 40,
+          "slug": "karrie",
+          "name": "Karrie"
+        },
+        {
+          "id": 43,
+          "slug": "irithel",
+          "name": "Irithel"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Thamuz-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Thamuz-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_029efc3da4bc9666f11fdc0248e84e86.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/1699a938c6938947e534aa2874341d58.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/thamuz.json",
+    "visual_catalog": "catalog/v1/visual/thamuz.json",
+    "upgrade_catalog": "catalog/v1/upgrade/thamuz.json"
+  }
+}

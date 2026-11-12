@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hanabi-kurapika",
+      "portrait_file": "Hanabi - Kurapika.png",
+      "script_file": "Hanabi-Kurapika.zip",
+      "skin_name": "Kurapika",
+      "splash_file": "Hanabi - Kurapika.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "hanabi-mai",
+      "portrait_file": "Hanabi - Mai.png",
+      "script_file": "Hanabi-Mai.zip",
+      "skin_name": "Mai",
+      "splash_file": "Hanabi - Mai.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 60,
+    "name": "Hanabi",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "hanabi"
+  },
+  "release_tag": "custom-hanabi",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

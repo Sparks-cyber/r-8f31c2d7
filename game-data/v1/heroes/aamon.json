@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 109,
+    "slug": "aamon",
+    "name": "Aamon",
+    "skin_name": "Duke of Shards",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Magic",
+    "specialties": [
+      "Chase",
+      "Magic Damage"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "25 October 2021",
+    "resource": "Mana",
+    "short_description": "The aloof Duke of Castle Aberleen.",
+    "brief": "Aamon is the head of House Paxley and the current Duke of Castle Aberleen. Despite his cool and distant facade, he puts his kin above everything and will do anything for them.",
+    "story": "An infant's cry shattered the silent dawn of Castle Aberleen. House Paxley, the most powerful and influential duchy in the Moniyan Empire, finally had an heir.\n\nThe child's father of Duke Paxley named him Aamon, and soon his younger brothers were born on after another. But as the eldest son and the family heir, Aamon had been subject to more strict discipline since his childhood. He was never allowed to be as free-spirited as his brother Gusion, and since as early as his boyhood, he'd been occupied with studies and official duties all day.\n\nAamon did not only learn the things required for a normal nobleman. His father Duke Paxley also secretly [teaches] him the spell that was only passed down to the family's direct descendants. It was a devious, ruthless spell that killed people neither honestly nor honorably. Aamon once felt skeptical because the secret family spell didn't match the honorable history of House Paxley that believed in the Lord of Light, and for this, he went out of his way to read on the family history.\n\nHowever, fate didn't allow him to find any answer. The year when Aamon just turned 18, his father who had high hopes for him went missing along with his mother in a sandstorm while visiting Altair. After his father's presumed death, Aamon had to bear the heavy responsibilities of the family as the young heir and become the head of House Paxley.\n\nAamon showed a degree of maturity that a young man like him barely had, whether it was due to his father's teachings or the heavy burdens of the family. He was passionate in social circles but cold and aloof when facing his political enemies. He displayed a perfect noble gentleman's kindness in politics, but on the battlefields, he seemed like a ghoul casting merciless spells. To most people who'd worked with him, Aamon was a shadow that could never be caught.\n\nAfter the late Duke Paxley was presumed dead, Aamon was not only left with the responsibilities of the entire family, but also his younger brothers and sisters. In fact, he was not as mysterious and inscrutable as others saw. His intention was surprisingly simple: the duty of protecting House Paxley had been engraved in his mind since he was the heir, so his family and the blood ties were everything to Aamon. No matter what evil deeds or good things he'd done, they’d all been for one purpose – the future of House Paxley.\n\nAamon once thought that protecting he house and protecting his families were completely the same, until one day, the curse from the ancient prophecy befell his younger brother, Gusion…\n\nAamon never showed it to anyone, but among all his brothers and sisters, Gusion had been the one he'd paid the most attention to. Because Aamon saw the qualities that he didn't possess on Gusion – he was a free-spirited rebel who'd wreak havoc without a second thought. But Aamon didn't dislike his brother for it, and he thought maybe they were supposed to resemble each other as brothers, except that he had no choice but to turn into the person he was now. Whenever he looked at Gusion, he seemed to see the person he could have been.\n\nTherefore, even though the entire Moniyan Empire knew that Aamon had a trickster good-for-nothing brother, he'd never discipline Gusion about his delinquent behaviors. Even one time when little Gusion accidentally cut Aamon's face with a knife, leaving a permanent scar on his cheek, Aamon only patted him and didn’t say anything more. Of course, Gusion didn't dare to bring any sharp objects near his respectable brother even again.\n\nAs the heir of the family, Aamon had heard about their ancestors' prophecy from his father since still young. He knew that whoever in House Paxley had a dark mark appearing on their body would be attached by the deity. So, when he found the mark on Gusion, he immediately made the decision to imprison him and cut out all the connection between him and the outside world, temporarily preventing the other family members from finding out about the changes on Gusion.\n\nAamon was engrossed by immense pain afterwards. Gusion's existence was without a doubt a sword of Damocles hanging above House Paxley, but Aamon didn't want to kill his brother. However, what he did to protect Gusion didn't buy them much time. A few days later, the elders of the family found out about Gusion's secret and soon arrived at the place where Gusion was held. And they were obviously not here to spare Gusion's life.\n\nThe situation didn't allow Aamon to hesitate any longer, so he made the decision to ask the servant who'd been watching over Gusion to free his brother in secret. But rather than just letting Gusion roam free, Aamon had been keeping an eye on his brother, and as expected, his wayward brother didn't follow his order and stayed in hiding in Castle Aberleen instead.\n\nThe young Duke Paxley let out a sigh and decided to do it himself―to find the root of the dark-mark curse and save his brother, while putting an end to the fetters of tragedies that had confined their family for centuries.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 7,
+    "control": 1,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2614,
+    "health_growth": 152,
+    "health_regen": 8.0,
+    "health_regen_growth": 0.4429,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 10.0,
+    "magic_power": 0,
+    "physical_defense": 19,
+    "physical_defense_growth": 3.3571,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.1,
+    "attack_speed_growth": 0.0136,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Aamon0",
+      "name": "Invisible Armor",
+      "description": "Aamon enters the <highlight>Camouflage</highlight> state each time he hits an enemy with a skill, during which he cannot be targeted, recovers 25<scaleAP> (+15% Total Magic Power)</scaleAP> plus 3% of his lost HP every 0.5s, and gains 80% extra Movement Speed that rapidly decays over 3s.<br/>Upon leaving the <highlight>Camouflage</highlight> state, Aamon immediately resets his Basic Attack's cooldown and enhances his Basic Attacks within the next 3s. Each enhanced Basic Attack deals 70<scaleAD> (+100% Total Physical Attack)</scaleAD> <scaleAP>(+115% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. The first attack after actively leaving <highlight> Camouflage</highlight> is enhanced to deal 84<scaleAD> (+120% Total Physical Attack)</scaleAD> <scaleAP>(+138% Total Magic Power)</scaleAP> damage and reduces all skill cooldowns by 1s.",
+      "flavor_text": "For generations, the Invisible Armor has been used as the symbol of the greatest power in House Paxley.",
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96583b8721481fe151eceeb4d17f089c.png",
+      "video_url": null
+    },
+    {
+      "id": "Aamon1",
+      "name": "Soul Shards",
+      "description": "<highlight>Passive:</highlight> Aamon charges his armor through enhanced Basic Attacks or while camouflaged. At 5 charges, Aamon throws 6 shards at the target on his next attack, each shard dealing 50/60/70/80/90/100<scaleAP> (+15% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. The shards will then scatter around the target.<br/><br/><highlight>Active:</highlight> Aamon throws a shard at a nearby enemy, dealing 175/200/225/250/275/300<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.",
+      "flavor_text": null,
+      "cost": "40/44/48/52/56/60",
+      "cooldown": "7/6.7/6.4/6.1/5.8/5.5",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": 25.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51b68183615922a3891919cd0a0d5536.png",
+      "video_url": null
+    },
+    {
+      "id": "Aamon2",
+      "name": "Slayer Shards",
+      "description": "Aamon throws a shard forward, dealing 120/140/160/180/200/220<scaleAP> (+50% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies along the way. The shard will return to Aamon after a short delay and allow him to enter the <highlight>Camouflage</highlight> state.<br/>If the shard hits a non-minion enemy, it'll slow them by 50% for 2s and return to Aamon immediately.",
+      "flavor_text": null,
+      "cost": "50/56/62/68/74/80",
+      "cooldown": "12.5/12/11.5/11/10.5/10",
+      "tags": [
+        {
+          "name": "Camouflage",
+          "rgb": null
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 25.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_db82969869000375f7e6f1ab7ae895b3.png",
+      "video_url": null
+    },
+    {
+      "id": "Aamon3",
+      "name": "Endless Shards",
+      "description": "Aamon throws all shards at a designated enemy and slows them by 30% for 1.5s. After a short delay, the shards will fly to the enemy's location again, each dealing 35/40/45<scaleAP> (+10% Total Magic Power)</scaleAP>-70/80/90<scaleAP> (+20% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>.<br/><br/>The number of shards increases with Aamon's armor charges and the shards on the ground (8-25).<br/>The damage dealt increases with the target's lost HP, to the max when the target's HP is below 30%.",
+      "flavor_text": null,
+      "cost": "150/170/190",
+      "cooldown": "50/45/40",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 25.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe1e567c14d3bd648184285b7d9d427.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Aamon0",
+      "sequence": "Aamon2-AA-Aamon1-AA-Aamon3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Use 2nd Skill to Camouflage and flank the enemy. Deal damage with his 1st Skill and Basic Attacks, and Ultimate to take out backline heroes."
+    },
+    {
+      "id": "Aamon1",
+      "sequence": "Aamon2-AA-Aamon1-AA",
+      "name": "LANING COMBOS",
+      "description": "Use his skills and Enhanced Basic Attacks for very high jungling efficiency."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Support heroes that can provide buffs such as Rafaela and Floryn.",
+      "heroes": [
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        },
+        {
+          "id": 112,
+          "slug": "floryn",
+          "name": "Floryn"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Squishy heroes with low mobility such as Layla and Hanabi.",
+      "heroes": [
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        },
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Tanky heroes or those that deal damage over time such as Balmond and Fredrinn.",
+      "heroes": [
+        {
+          "id": 2,
+          "slug": "balmond",
+          "name": "Balmond"
+        },
+        {
+          "id": 117,
+          "slug": "fredrinn",
+          "name": "Fredrinn"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Aamon-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Aamon-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_26b1c0ec95ad9e98f81b07d6838a8652.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_26b1c0ec95ad9e98f81b07d6838a8652.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/aamon.json",
+    "visual_catalog": "catalog/v1/visual/aamon.json",
+    "upgrade_catalog": "catalog/v1/upgrade/aamon.json"
+  }
+}

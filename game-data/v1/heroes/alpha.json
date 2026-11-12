@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 28,
+    "slug": "alpha",
+    "name": "Alpha",
+    "skin_name": "Blade of Enmity",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle",
+      "EXP Lane"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Charge",
+      "Damage"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "January 2017",
+    "resource": "Mana",
+    "short_description": "A pure cyborg made by Laboratory 1718.",
+    "brief": "A pure cyborg made by Laboratory 1718. Tasked with hunting down and slaying Saber by its creator, Alpha's burning hatred for Saber makes him a candidate for the role.",
+    "story": "The birth of human life is usually a matter that marks hope. Yet to the artificial life created by Laboratory 1718, what lay behind their inception was little more than evil conspiracy and murder, with no blessings nor joy. And the pure cyborg Alpha is the extreme form of the blasphemy to life forged by Laboratory 1718.\n\nFifty years ago, as a result of his divergence in ideas regarding human experimentation, the great scientist Dr. Baker split off from Eruditio. Fueled by dreams of human augmentation as a means to advance the human race, he founded Laboratory 1718 upon an island.\n\nAs far as he was concerned, while he and his Laboratory may have parted from Eruditio, their ultimate goals were the same: to bring about a prosperous future for the human race.\n\nYet what he had never expected was that the joining of additional mad scientists to his Laboratory team would lead to a gradual loss of control. In the end the wildly idealistic scientist was stabbed in the back by his colleague, Professor Giraad, and the fanatical scientism believer stole from him all control over Laboratory 1718.\n\nYet his prestige and appeal paled in comparison to Dr. Baker, the Laboratory’s founder. There began a conflict of interest with many parties of differing ideas.\n\nOctavius was another scientist driven out of Eruditio, and different to the others who obsessed over human and biological experimentation, he had a greater goal: to create a human comprised entirely of mechanical materials with a conscious mind of their own. He proposed the ‘Alpha-Beta’ project, a plan in which a set of superpowered twins would be created – Alpha, and Beta.\n\nYet those higher up in Laboratory 1718 were disinterested in such ideas, and Octavius’ project was dismissed by all. However, he continued to wait patiently, until his opportunity presented itself.\n\nUntil that day finally came, Octavius was almost brought to complete destruction.\n\nOn that deep night, the augmented human Saber could bear no longer the torment of the system that manipulated in his nervous system. He laid waste to a huge portion of Laboratory 1718 and fled, Octavius’ own Laboratory not spared in the chaos. A huge amount of costly scientific apparatus were damaged, and Beta who was still in development completely destroyed. Only Alpha, yet to be installed in a body of his own, was left unaffected. Almost the entirety of Octavius’ countless years of sweat and toil has gone up in flames.\n\nRushing onto the scene, Octavius howled in laughter – all around assuming him to have finally given in to insanity. Yet only he knew that a brighter dawn was yet to come.\n\nSaber's chaotic escaped had spelled disaster for the plan for ‘human weapons’. These were the experiments that Professor Giraad had presided over, the most important of Laboratory 1718’s projects. Those scientists, boiling with rage toward Eruditio, had planned to utilize Saber in laying waste to the city that had humiliated them so.\n\nWith the plan scuppered and all hope lost, Professor Giraad fell under heavy criticism and was forced to exit from the timelight. It was at this time that Octavius grasped at the opportunity that had represented itself, and presented a proposition of his own: “Self-aware cyborgs shall bring only betrayal, yet a pure, man-made human: they would always be loyal to the ideals of Laboratory 1718.”\n\nAnd so, with the unprecedented financial and technical superpower that was Laboratory 1718, Alpha came into being.\n\nHis appearance was akin to that of a knight decked out in heavy armor. Just as his creator had planned, he was inbuilt with an unwavering loyalty to Laboratory 1718. In addition, he also possessed the latest technology in terms of his power and weaponry systems, far superseding that of the other robotic beings created by the scientists, a true Alpha in both name and nature: a superior mechanical fighter.\n\nAlpha had a body of flesh and cortex the same as that of a young adult male, yet at the same time, he was in reality still a newborn being. Like a puppet, he relied upon Octavius and was at his disposal.\n\nAlpha’s first mission was to destroy the traitor, Saber.\n\nAlpha brought with him a special companion – the transformed combat machine, Beta. Thus they set out to seek Saber. What even their creator Octavius hadn’t predicted, however, was that the seeds of sentinent thought had begun to sprout in the recesses of Alpha’s mind.\n\nAlpha remembered clear as day the night Saber had betrayed them: he and Beta had attained consciousness at the exact same time, and they were even linked together on a deeper level.\n\nWhen Saber has forged his way into the Laboratory, and slashed down upon Beta, Alpha had felt every ounce of Beta’s crushing terror as if it were his own, and a new agonizing feeling too – even though he knew not even what it was at that time…\n\nFrom the viewpoint of humanity, this feeling could be described as ‘hatred’. Beta and Alpha’s consciousness connection was so strong, it was as if they had been a single entity. This was a bond that extended far, far further than mere blood relations as experienced by humanity. More than just machines from the same batch, they were true brothers that came into existence together. However, Saber had taken Alpha’s brother from him…\n\nOn a dark and stormy night, much like that of Saber’s escape, Alpha found the traitor.\n\nThe first time they crossed swords, Alpha was heavily damaged and Saber readied the killing blow. Yet is was just then that Beta charged between them to block it.\n\nMost unexpectedly, Saber sheathed his blade. He looked at Alpha and Beta, both in a sorry state. He had once considered them naught but mere puppets, controlled by the scientists of Laboratory 1718. Now, though, he saw that beneath their flesh and mechanical skeletons there laid greater possibility. He smiled, as if to provoke 'Alpha, and drawled mockingly: “You soulless hunks of scrap can never hope to defeat me in battle.”\n\nDisappearing into the rainy night, a question wacked Alpha’s brain: just what, exactly, is the soul?\n\nAlpha did not give up hope on his revenge. Yet he believed that the secrets to this ‘soul’ Saber mentioned must surely lay in the act of making himself stronger.\n\nWhen the ragging storm finally cleared, Alpha was staggering with Beta in his arms, calculation results flickering wildly throughout his core: the soul, is power. I must find my soul!",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 4,
+    "control": 7,
+    "difficulty": 1
+  },
+  "attributes": {
+    "health": 2646,
+    "health_growth": 219,
+    "health_regen": 7.8,
+    "health_regen_growth": 0.5143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 6.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 121,
+    "physical_attack_growth": 8.36,
+    "magic_power": 0,
+    "physical_defense": 25,
+    "physical_defense_growth": 3.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.14,
+    "attack_speed_growth": 0.0314,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Alpha0",
+      "name": "Beta, Advance!",
+      "description": "When Alpha uses a skill, Beta will be summoned to attack. Enemies that are hit by Beta 2 time(s) will be <highlight>Locked On</highlight>.<br/><br/><highlight>Locked On</highlight>: After Alpha deals damage to the target, Beta will fire a laser at them, dealing 80<scaleAD> (+80% Extra Physical Attack)</scaleAD> <trueDamage>(+8*Hero Level)</trueDamage> <trueDamage>True Damage</trueDamage> and briefly applying a powerful slow effect.<br/>This skill only deals 75% damage to Creeps.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b3c9aef499eeb19ec98dfbac22bb33c.png",
+      "video_url": null
+    },
+    {
+      "id": "Alpha1",
+      "name": "Rotary Impact",
+      "description": "Alpha unleashes an energy wave in the target direction, dealing 100/120/140/160/180/200<scaleAD> (+90% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in its path and slowing them by 40% for 1s.<br/><br/>Beta then strafes enemies along the same path, dealing 60/72/84/96/108/120<scaleAD> (+30% Extra Physical Attack)</scaleAD> <trueDamage>True Damage</trueDamage>.",
+      "flavor_text": null,
+      "cost": "50",
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8feb5b13b48b71de18f1490269cb1623.png",
+      "video_url": null
+    },
+    {
+      "id": "Alpha2",
+      "name": "Force Swing",
+      "description": "After a short delay, Alpha swings his blade in the target direction, dealing 180/244/318/372/436/500<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a fan-shaped area and restoring 40/72/104/136/178/200<scaleAD> (+30% Extra Physical Attack)</scaleAD> HP for each enemy hit.<br/><br/>Beta then strafes enemies in the same area, dealing 60/72/84/96/108/120<scaleAD> (+30% Total Physical Attack)</scaleAD> <trueDamage>True Damage</trueDamage>.",
+      "flavor_text": null,
+      "cost": "45/50/55/60/65/70",
+      "cooldown": "6/5.6/5.2/4.8/4.4/4",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_601fedfb2ef64598acdf449ad2b29216.png",
+      "video_url": null
+    },
+    {
+      "id": "Alpha3",
+      "name": "Spear of Alpha",
+      "description": "Beta dives to the target location, dealing 100/150/200<scaleAD> (+20% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and stunning them for 1s. Alpha then leaps towards the same location, knocking enemies in his path airborne and carrying them to the landing location. Alpha then slams down, dealing 250/370/500<scaleAD> (+100% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing the enemies by 40% for 1.5s.<br/><br/>Beta then attacks the same area 5 times, dealing 15/22/30<scaleAD> (+30% Extra Physical Attack)</scaleAD> <trueDamage>True Damage</trueDamage> each time.",
+      "flavor_text": null,
+      "cost": "70/80/90",
+      "cooldown": "20/18/16",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f192b19efc5c9dcbd6e5c11e187e86d.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Alpha0",
+      "sequence": "Alpha3-Alpha2-Alpha1-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Alpha's Ultimate to charge toward enemy's key target, and use his 2nd Skill, follow up with his 1st Skill to slow them and continuously dish out damage to the locked-on targets with Basic Attacks."
+    },
+    {
+      "id": "Alpha1",
+      "sequence": "Alpha1-Alpha2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, slow the enemy with Alpha's 1st Skill, then hit them with his 2nd Skill to have Beta to lock on to them. Finish with Basic Attacks while Beta fires at the locked-on target."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Alpha works well with heroes that can initiate with CC like Vexana and Selena. With their help, he'll have a much easier time landing his skills.",
+      "heroes": [
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        },
+        {
+          "id": 63,
+          "slug": "selena",
+          "name": "Selena"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Alpha counters heroes that lack mobility, such as Layla and Ixia, because these heroes have a hard time avoiding his skills.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Alpha is countered by heroes that are very mobile, such as Chou and Gusion, because they have a lot of ways to dodge Alpha's skills.",
+      "heroes": [
+        {
+          "id": 26,
+          "slug": "chou",
+          "name": "Chou"
+        },
+        {
+          "id": 56,
+          "slug": "gusion",
+          "name": "Gusion"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Alpha-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Alpha-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0fd2c33fbf0235703b1c936059cf1b8e.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0fd2c33fbf0235703b1c936059cf1b8e.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/alpha.json",
+    "visual_catalog": "catalog/v1/visual/alpha.json",
+    "upgrade_catalog": "catalog/v1/upgrade/alpha.json"
+  }
+}

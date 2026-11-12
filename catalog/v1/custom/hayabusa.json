@@ -1,0 +1,115 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hayabusa-hell-shura",
+      "portrait_file": "Hayabusa - Hell Shura.png",
+      "script_file": "Hayabusa-Hell-Shura.zip",
+      "skin_name": "Hell Shura",
+      "splash_file": "Hayabusa - Hell Shura.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-hisoka",
+      "portrait_file": "Hayabusa - Hisoka.png",
+      "script_file": "Hayabusa-Hisoka.zip",
+      "skin_name": "Hisoka",
+      "splash_file": "Hayabusa - Hisoka.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-itachi",
+      "portrait_file": "Hayabusa - Itachi.png",
+      "script_file": "Hayabusa-Itachi.zip",
+      "skin_name": "Itachi",
+      "splash_file": "Hayabusa - Itachi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-killua",
+      "portrait_file": "Hayabusa - Killua.png",
+      "script_file": "Hayabusa-Killua.zip",
+      "skin_name": "Killua",
+      "splash_file": "Hayabusa - Killua.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-konohamaru",
+      "portrait_file": "Hayabusa - Konohamaru.png",
+      "script_file": "Hayabusa-Konohamaru.zip",
+      "skin_name": "Konohamaru",
+      "splash_file": "Hayabusa - Konohamaru.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-minato",
+      "portrait_file": "Hayabusa - Minato.png",
+      "script_file": "Hayabusa-Minato.zip",
+      "skin_name": "Minato",
+      "splash_file": "Hayabusa - Minato.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-sasuke",
+      "portrait_file": "Hayabusa - Sasuke.png",
+      "script_file": "Hayabusa-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Hayabusa - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-shadow-flash",
+      "portrait_file": "Hayabusa - Shadow Flash.png",
+      "script_file": "Hayabusa-Shadow-Flash.zip",
+      "skin_name": "Shadow Flash",
+      "splash_file": "Hayabusa - Shadow Flash.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "hayabusa-virgel",
+      "portrait_file": "Hayabusa - Virgel.png",
+      "script_file": "Hayabusa-Virgel.zip",
+      "skin_name": "Virgel",
+      "splash_file": "Hayabusa - Virgel.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 21,
+    "name": "Hayabusa",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "hayabusa"
+  },
+  "release_tag": "custom-hayabusa",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

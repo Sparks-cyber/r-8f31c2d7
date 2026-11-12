@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-backup",
+      "portrait_file": "Popol-and-Kupa-Default.png",
+      "script_file": "Popol-and-Kupa-Backup.zip",
+      "skin_name": "Icefield Companions",
+      "splash_file": "Popol-and-Kupa-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-hunting-pals",
+      "portrait_file": "Popol-and-Kupa-Hunting-Pals.png",
+      "script_file": "Popol-and-Kupa-Hunting-Pals.zip",
+      "skin_name": "Hunting Pals",
+      "splash_file": "Popol-and-Kupa-Hunting-Pals.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-tribal-howl",
+      "portrait_file": "Popol-and-Kupa-Tribal-Howl.png",
+      "script_file": "Popol-and-Kupa-Tribal-Howl.zip",
+      "skin_name": "Tribal Howl",
+      "splash_file": "Popol-and-Kupa-Tribal-Howl.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-trouble-makers",
+      "portrait_file": "Popol-and-Kupa-Trouble-Makers.png",
+      "script_file": "Popol-and-Kupa-Trouble-Makers.zip",
+      "skin_name": "Trouble Makers",
+      "splash_file": "Popol-and-Kupa-Trouble-Makers.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-soundwave-ravage",
+      "portrait_file": null,
+      "script_file": "Popol-and-Kupa-Soundwave-Ravage.zip",
+      "skin_name": "Soundwave & Ravage",
+      "splash_file": null,
+      "tag_id": "transformers",
+      "tier": "Grand"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-spirit-of-the-brush",
+      "portrait_file": "Popol-and-Kupa-Spirit-of-the-Brush.png",
+      "script_file": "Popol-and-Kupa-Spirit-of-the-Brush.zip",
+      "skin_name": "Spirit of the Brush",
+      "splash_file": "Popol-and-Kupa-Spirit-of-the-Brush.png",
+      "tag_id": "special",
+      "tier": "Exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-proto-hunter",
+      "portrait_file": "Popol-and-Kupa-Proto-Hunter.png",
+      "script_file": "Popol-and-Kupa-Proto-Hunter.zip",
+      "skin_name": "Proto Hunter",
+      "splash_file": "Popol-and-Kupa-Proto-Hunter.png",
+      "tag_id": "epic",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-flamehide-thane",
+      "portrait_file": "Popol-and-Kupa-Flamehide-Thane.png",
+      "script_file": "Popol-and-Kupa-Flamehide-Thane.zip",
+      "skin_name": "Flamehide Thane",
+      "splash_file": "Popol-and-Kupa-Flamehide-Thane.png",
+      "tag_id": "s42",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "popol-and-kupa-proto-stalker-painted-01",
+      "portrait_file": "Popol-and-Kupa-Proto-Stalker.png",
+      "script_file": "Popol-and-Kupa-Proto-Stalker.zip",
+      "skin_name": "Proto Stalker",
+      "splash_file": "Popol-and-Kupa-Proto-Stalker.png",
+      "tag_id": "painted",
+      "tier": "Painted"
+    }
+  ],
+  "hero": {
+    "id": 94,
+    "name": "Popol and Kupa",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "popol-and-kupa"
+  },
+  "release_tag": "visual-popol-and-kupa",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

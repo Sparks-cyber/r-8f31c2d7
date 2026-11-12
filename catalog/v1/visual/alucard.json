@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.11.06.193000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "alucard-backup",
+      "portrait_file": "Alucard-Default.png",
+      "script_file": "Alucard-Backup.zip",
+      "skin_name": "Demon Hunter",
+      "splash_file": "Alucard-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-lone-hero",
+      "portrait_file": "Alucard-Lone-Hero.png",
+      "script_file": "Alucard-Lone-Hero.zip",
+      "skin_name": "Lone Hero",
+      "splash_file": "Alucard-Lone-Hero.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-fiery-inferno",
+      "portrait_file": "Alucard-Fiery-Inferno.png",
+      "script_file": "Alucard-Fiery-Inferno.zip",
+      "skin_name": "Fiery Inferno",
+      "splash_file": "Alucard-Fiery-Inferno.png",
+      "tag_id": "s2",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-child-of-the-fall",
+      "portrait_file": "Alucard-Child-of-the-Fall.png",
+      "script_file": "Alucard-Child-of-the-Fall.zip",
+      "skin_name": "Child of the Fall",
+      "splash_file": "Alucard-Child-of-the-Fall.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-viscount",
+      "portrait_file": "Alucard-Viscount.png",
+      "script_file": "Alucard-Viscount.zip",
+      "skin_name": "Viscount",
+      "splash_file": "Alucard-Viscount.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-romantic-fantasy",
+      "portrait_file": "Alucard-Romantic-Fantasy.png",
+      "script_file": "Alucard-Romantic-Fantasy.zip",
+      "skin_name": "Romantic Fantasy",
+      "splash_file": "Alucard-Romantic-Fantasy.png",
+      "tag_id": "valentine",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-obsidian-blade",
+      "advanced_compatibility": {
+        "type": "second_form",
+        "embedded": true,
+        "route_file": "advanced_route.nxr",
+        "route_format": "nix-advanced-route-v2",
+        "minimum_engine": 2,
+        "premium_required": true,
+        "restoration_protection_required": true
+      },
+      "portrait_file": "Alucard-Obsidian-Blade.png",
+      "script_file": "Alucard-Obsidian-Blade.zip",
+      "skin_name": "Obsidian Blade",
+      "splash_file": "Alucard-Obsidian-Blade.png",
+      "tag_id": "legend",
+      "tier": "supreme"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-empire-agent",
+      "portrait_file": "Alucard-Empire-Agent.png",
+      "script_file": "Alucard-Empire-Agent.zip",
+      "skin_name": "Empire Agent",
+      "splash_file": "Alucard-Empire-Agent.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-lightborn-striker",
+      "portrait_file": "Alucard-Lightborn-Striker.png",
+      "script_file": "Alucard-Lightborn-Striker.zip",
+      "skin_name": "Lightborn - Striker",
+      "splash_file": "Alucard-Lightborn-Striker.png",
+      "tag_id": "lightborn",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-obi-wan-kenobi",
+      "portrait_file": "Alucard-Obi-wan-Kenobi.png",
+      "script_file": "Alucard-Obi-Wan-Kenobi.zip",
+      "skin_name": "Obi-Wan Kenobi",
+      "splash_file": "Alucard-Obi-Wan-Kenobi.png",
+      "tag_id": "star-wars",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "alucard-demon-s-bane",
+      "portrait_file": "Alucard-Demon-s-Bane.png",
+      "script_file": "Alucard-Demon-s-Bane.zip",
+      "skin_name": "Demon's Bane",
+      "splash_file": "Alucard-Demon-s-Bane.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    }
+  ],
+  "hero": {
+    "id": 7,
+    "name": "Alucard",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "alucard"
+  },
+  "release_tag": "visual-alucard",
+  "schema_version": 1,
+  "updated_at": "2026-11-08"
+}

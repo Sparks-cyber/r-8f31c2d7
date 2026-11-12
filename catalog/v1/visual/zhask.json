@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "zhask-backup",
+      "portrait_file": "Zhask-Default.png",
+      "script_file": "Zhask-Backup.zip",
+      "skin_name": "The King of Swarms",
+      "splash_file": "Zhask-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-crystallized-predator",
+      "portrait_file": "Zhask-Crystallized-Predator.png",
+      "script_file": "Zhask-Crystallized-Predator.zip",
+      "skin_name": "Crystallized Predator",
+      "splash_file": "Zhask-Crystallized-Predator.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-bone-flamen",
+      "portrait_file": "Zhask-Bone-Flamen.png",
+      "script_file": "Zhask-Bone-Flamen.zip",
+      "skin_name": "Bone Flamen",
+      "splash_file": "Zhask-Bone-Flamen.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-cancer",
+      "portrait_file": "Zhask-Cancer.png",
+      "script_file": "Zhask-Cancer.zip",
+      "skin_name": "Cancer",
+      "splash_file": "Zhask-Cancer.png",
+      "tag_id": "zodiac",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-extraterrestrial",
+      "portrait_file": "Zhask-Extraterrestrial.png",
+      "script_file": "Zhask-Extraterrestrial.zip",
+      "skin_name": "Extraterrestrial",
+      "splash_file": "Zhask-Extraterrestrial.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-death-s-shadow",
+      "portrait_file": "Zhask-Death-s-Shadow.png",
+      "script_file": "Zhask-Death-s-Shadow.zip",
+      "skin_name": "Death's Shadow",
+      "splash_file": "Zhask-Death-s-Shadow.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-death-s-harbinger",
+      "portrait_file": "Zhask-Death-s-Harbinger.png",
+      "script_file": "Zhask-Death-s-Harbinger.zip",
+      "skin_name": "Death's Harbinger",
+      "splash_file": "Zhask-Death-s-Harbinger.png",
+      "tag_id": "starlight-star",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-terrant-deviant-painted-01",
+      "portrait_file": "Zhask-Terrant-Deviant.png",
+      "script_file": "Zhask-Terrant-Deviant.zip",
+      "skin_name": "Terrant Deviant",
+      "splash_file": "Zhask-Terrant-Deviant.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "zhask-death-s-omen-painted-02",
+      "portrait_file": "Zhask-Death-s-Omen.png",
+      "script_file": "Zhask-Death-s-Omen.zip",
+      "skin_name": "Death's Omen",
+      "splash_file": "Zhask - Death's Omen.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 50,
+    "name": "Zhask",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "zhask"
+  },
+  "release_tag": "visual-zhask",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

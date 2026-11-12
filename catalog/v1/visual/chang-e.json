@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "chang-e-backup",
+      "portrait_file": "Chang-e-Default.png",
+      "script_file": "Chang-e-Backup.zip",
+      "skin_name": "Moon Palace Immortal",
+      "splash_file": "Chang-e-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-moonstruck",
+      "portrait_file": "Chang-e-Moonstruck.png",
+      "script_file": "Chang-e-Moonstruck.zip",
+      "skin_name": "Moonstruck",
+      "splash_file": "Chang-e-Moonstruck.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-crimson-moon",
+      "portrait_file": "Chang-e-Crimson-Moon.png",
+      "script_file": "Chang-e-Crimson-Moon.zip",
+      "skin_name": "Crimson Moon",
+      "splash_file": "Chang-e-Crimson-Moon.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-floral-elfo",
+      "portrait_file": "Chang-e-Floral-Elfo.png",
+      "script_file": "Chang-e-Floral-Elfo.zip",
+      "skin_name": "Floral Elfo",
+      "splash_file": "Chang-e-Floral-Elfo.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-lunar-magic",
+      "portrait_file": "Chang-e-Lunar-Magic.png",
+      "script_file": "Chang-e-Lunar-Magic.zip",
+      "skin_name": "Lunar Magic",
+      "splash_file": "Chang-e-Lunar-Magic.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-strawberry-parfait",
+      "portrait_file": "Chang-e-Strawberry-Parfait.png",
+      "script_file": "Chang-e-Strawberry-Parfait.zip",
+      "skin_name": "Strawberry Parfait",
+      "splash_file": "Chang-e-Strawberry-Parfait.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-vine-cradle",
+      "portrait_file": "Chang-e-Vine-Cradle.png",
+      "script_file": "Chang-e-Vine-Cradle.zip",
+      "skin_name": "Vine Cradle",
+      "splash_file": "Chang-e-Vine-Cradle.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-moon-artist",
+      "portrait_file": "Chang-e-Moon-Artist.png",
+      "script_file": "Chang-e-Moon-Artist.zip",
+      "skin_name": "Moon Artist",
+      "splash_file": "Chang-e-Moon-Artist.png",
+      "tag_id": "sanrio-characters",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-new-moon",
+      "portrait_file": "Chang-e-New-Moon.png",
+      "script_file": "Chang-e-New-Moon.zip",
+      "skin_name": "New Moon",
+      "splash_file": "Chang-e-New-Moon.png",
+      "tag_id": "lunar-fest",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-tech-tensai",
+      "portrait_file": "Chang-e-Tech-Tensai.png",
+      "script_file": "Chang-e-Tech-Tensai.zip",
+      "skin_name": "Tech Tensai",
+      "splash_file": "Chang-e-Tech-Tensai.png",
+      "tag_id": "the-aspirants",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-moonglow-troupe",
+      "portrait_file": "Chang-e-Moonglow-Troupe.png",
+      "script_file": "Chang-e-Moonglow-Troupe.zip",
+      "skin_name": "Moonglow Troupe",
+      "splash_file": "Chang-e-Moonglow-Troupe.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "chang-e-azure-moon",
+      "portrait_file": "Chang-e-Azure-Moon.png",
+      "script_file": "Chang-e-Azure-Moon.zip",
+      "skin_name": "Azure Moon",
+      "splash_file": "Chang-e-Azure-Moon.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    }
+  ],
+  "hero": {
+    "id": 61,
+    "name": "Chang'e",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "chang-e"
+  },
+  "release_tag": "visual-chang-e",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

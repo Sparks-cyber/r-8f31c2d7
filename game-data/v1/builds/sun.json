@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 27,
+    "slug": "sun",
+    "name": "Sun"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "sun-community-5791",
+      "name": "Community Build 5791",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "magicboots",
+        "windtalker",
+        "corrosionscythe",
+        "greatdragonspear",
+        "endlessbattle",
+        "seahalberd"
+      ],
+      "battle_spell_id": "petrify",
+      "emblem_id": "support",
+      "talent_ids": [
+        "agility",
+        "wildernessblessing",
+        "temporalreign"
+      ],
+      "situational_items": [],
+      "notes": "sun izin tampil, kejar-kejaran cd skill cepat juga",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5791,
+      "source_created_at": "2026-02-17T17:56:52.000Z",
+      "likes": 8,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "sun-community-6421",
+      "name": "Community Build 6421",
+      "lane": "Exp Lane, Jungle",
+      "equipment_ids": [
+        "demonhuntersword",
+        "windtalker",
+        "greatdragonspear",
+        "maleficroar",
+        "seahalberd",
+        "berserkersfury"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "warcry",
+        "swift"
+      ],
+      "situational_items": [],
+      "notes": "ดี",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6421,
+      "source_created_at": "2026-03-12T04:05:06.000Z",
+      "likes": 6,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "sun-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane/Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

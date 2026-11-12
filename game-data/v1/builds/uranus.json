@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 59,
+    "slug": "uranus",
+    "name": "Uranus"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "uranus-community-6195",
+      "name": "Community Build 6195",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "bruteforcebreastplate",
+        "oracle",
+        "clockofdestiny",
+        "chastisepauldron",
+        "radiantarmor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "basiccommon",
+      "talent_ids": [
+        "vitality",
+        "seasonedhunter",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "Build uranus jungle 30% cdr 10% nya dari buff biru jadi cdnya 40% jadi lu bisa spam skill dan build ini dari emblem common \n+22 adaptif attack (dmg early sakit dan farming cepet)\n+275 hp (darah tebel early)\n+12 hy regen (12 mana 12 hp regen jadi lebih sustain dan biar mana ga mudah abis)\n1. Vitality 225hp (biar total darah dr emblem & talent 500)\n2. Seasond hunter (farming lebih cepet)\n3. Impure rage (biar ada dmg tambahan dan mana regen tambahan)\n\nUnlimited mana sustain dmg",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6195,
+      "source_created_at": "2026-03-03T10:30:08.000Z",
+      "likes": 3,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "uranus-community-6834",
+      "name": "Community Build 6834",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "bruteforcebreastplate",
+        "radiantarmor",
+        "oracle",
+        "chastisepauldron",
+        "bladearmor"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "inspire",
+        "seasonedhunter",
+        "impurerage"
+      ],
+      "situational_items": [],
+      "notes": "Build by Kyle from Team Falcons, Uranus jungle, insane resistance",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6834,
+      "source_created_at": "2026-03-30T23:18:03.000Z",
+      "likes": 2,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "uranus-companion-baseline",
+      "name": "Companion Tank Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

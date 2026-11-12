@@ -1,0 +1,60 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "ruby-christmas",
+      "portrait_file": "Ruby - Christmas.png",
+      "script_file": "Ruby-Christmas.zip",
+      "skin_name": "Christmas",
+      "splash_file": "Ruby - Christmas.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "ruby-mulan",
+      "portrait_file": "Ruby - Mulan.png",
+      "script_file": "Ruby-Mulan.zip",
+      "skin_name": "Mulan",
+      "splash_file": "Ruby - Mulan.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "ruby-rainbow",
+      "portrait_file": "Ruby - Rainbow.png",
+      "script_file": "Ruby-Rainbow.zip",
+      "skin_name": "Rainbow",
+      "splash_file": "Ruby - Rainbow.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "ruby-white-swan",
+      "portrait_file": "Ruby - White Swan.png",
+      "script_file": "Ruby-White-Swan.zip",
+      "skin_name": "White Swan",
+      "splash_file": "Ruby - White Swan.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 29,
+    "name": "Ruby",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "ruby"
+  },
+  "release_tag": "custom-ruby",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

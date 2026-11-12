@@ -1,0 +1,71 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "aurora-aokiji",
+      "portrait_file": "Aurora - Aokiji.png",
+      "script_file": "Aurora-Aokiji.zip",
+      "skin_name": "Aokiji",
+      "splash_file": "Aurora - Aokiji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-christmas",
+      "portrait_file": "Aurora - Christmas.png",
+      "script_file": "Aurora-Christmas.zip",
+      "skin_name": "Christmas",
+      "splash_file": "Aurora - Christmas.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-conan",
+      "portrait_file": "Aurora - Conan.png",
+      "script_file": "Aurora-Conan.zip",
+      "skin_name": "Conan",
+      "splash_file": "Aurora - Conan.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-kishin-densetsu",
+      "portrait_file": "Aurora - Kishin Densetsu.png",
+      "script_file": "Aurora-Kishin-Densetsu.zip",
+      "skin_name": "Kishin Densetsu",
+      "splash_file": "Aurora - Kishin Densetsu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "aurora-the-queen",
+      "portrait_file": "Aurora - The Queen.png",
+      "script_file": "Aurora-The-Queen.zip",
+      "skin_name": "The Queen",
+      "splash_file": "Aurora - The Queen.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 36,
+    "name": "Aurora",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "aurora"
+  },
+  "release_tag": "custom-aurora",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

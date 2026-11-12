@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "roles": [
+    "Assassin",
+    "Fighter",
+    "Mage",
+    "Marksman",
+    "Support",
+    "Tank"
+  ],
+  "lanes": [
+    "EXP Lane",
+    "Gold Lane",
+    "Jungle",
+    "Mid Lane",
+    "Roaming"
+  ],
+  "damage_types": [
+    "Magic",
+    "Mixed",
+    "Phyiscal",
+    "Physical"
+  ]
+}

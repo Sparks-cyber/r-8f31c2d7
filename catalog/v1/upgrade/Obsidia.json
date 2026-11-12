@@ -1,0 +1,41 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Obsidia",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Undying Remnants",
+      "Splash_url": "Obsidia-Undying-Remnants.png",
+      "script": "Obsidia-Undying-Remnants-Backup.zip",
+      "Portrait_url": "Obsidia-Undying-Remnants.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Imperatrix Arashi",
+          "Portrait_url": "Obsidia-Imperatrix-Arashi.png",
+          "Splash_url": "Obsidia-Imperatrix-Arashi.png",
+          "script": "Obsidia-Undying-Remnants-Imperatrix-Arashi.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Imperatrix Arashi",
+      "Splash_url": "Obsidia-Imperatrix-Arashi.png",
+      "script": "Obsidia-Imperatrix-Arashi-Backup.zip",
+      "Portrait_url": "Obsidia-Imperatrix-Arashi.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Undying Remnants",
+          "Portrait_url": "Obsidia-Undying-Remnants.png",
+          "Splash_url": "Obsidia-Undying-Remnants.png",
+          "script": "Obsidia-Imperatrix-Arashi-Undying-Remnants.zip"
+        }
+      ]
+    }
+  ]
+}

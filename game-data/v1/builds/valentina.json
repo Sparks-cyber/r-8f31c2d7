@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 110,
+    "slug": "valentina",
+    "name": "Valentina"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "valentina-community-5758",
+      "name": "Community Build 5758",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "magicboots",
+        "lightningtruncheon",
+        "bloodwings",
+        "holycrystal",
+        "wishinglantern",
+        "divineglaive"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "inspire",
+        "wildernessblessing",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Dano no início e fim de jogo, ótimo para a Valentina.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5758,
+      "source_created_at": "2026-02-17T03:01:57.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "valentina-community-7374",
+      "name": "Community Build 7374",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "magicboots",
+        "clockofdestiny",
+        "bruteforcebreastplate",
+        "oracle",
+        "concentratedenergy",
+        "divineglaive"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "basiccommon",
+      "talent_ids": [
+        "rupture",
+        "tenacity",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "in exp line livesteal and position damage",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7374,
+      "source_created_at": "2026-04-28T13:00:36.000Z",
+      "likes": 0,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "valentina-companion-baseline",
+      "name": "Companion Mage Baseline",
+      "lane": "Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Alucard",
+  "role": "Fighter/Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Lone Hero",
+      "Splash_url": "Alucard-Lone-Hero.png",
+      "script": "Alucard-Lone-Hero-Backup.zip",
+      "Portrait_url": "Alucard-Lone-Hero.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Lone-Hero-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Lone-Hero-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Lone-Hero-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Lone-Hero-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Lone-Hero-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Lone-Hero-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Lone-Hero-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Lone-Hero-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Fiery Inferno",
+      "Splash_url": "Alucard-Fiery-Inferno.png",
+      "script": "Alucard-Fiery-Inferno-Backup.zip",
+      "Portrait_url": "Alucard-Fiery-Inferno.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Fiery-Inferno-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Fiery-Inferno-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Fiery-Inferno-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Fiery-Inferno-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Fiery-Inferno-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Fiery-Inferno-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Fiery-Inferno-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Child of the Fall",
+      "Splash_url": "Alucard-Child-of-the-Fall.png",
+      "script": "Alucard-Child-of-the-Fall-Backup.zip",
+      "Portrait_url": "Alucard-Child-of-the-Fall.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Child-of-the-Fall-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Child-of-the-Fall-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Child-of-the-Fall-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Child-of-the-Fall-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Child-of-the-Fall-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Child-of-the-Fall-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Child-of-the-Fall-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Viscount",
+      "Splash_url": "Alucard-Viscount.png",
+      "script": "Alucard-Viscount-Backup.zip",
+      "Portrait_url": "Alucard-Viscount.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Viscount-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Viscount-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Viscount-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Viscount-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Viscount-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Viscount-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Viscount-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Romantic Fantasy",
+      "Splash_url": "Alucard-Romantic-Fantasy.png",
+      "script": "Alucard-Romantic-Fantasy-Backup.zip",
+      "Portrait_url": "Alucard-Romantic-Fantasy.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Romantic-Fantasy-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Romantic-Fantasy-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Romantic-Fantasy-Viscount.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Romantic-Fantasy-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Romantic-Fantasy-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Romantic-Fantasy-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Romantic-Fantasy-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Obsidian Blade",
+      "Splash_url": "Alucard-Obsidian-Blade.png",
+      "script": "Alucard-Obsidian-Blade-Backup.zip",
+      "Portrait_url": "Alucard-Obsidian-Blade.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Obsidian-Blade-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Obsidian-Blade-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Obsidian-Blade-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Obsidian-Blade-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Obsidian-Blade-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Obsidian-Blade-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Obsidian-Blade-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Empire Agent",
+      "Splash_url": "Alucard-Empire-Agent.png",
+      "script": "Alucard-Empire-Agent-Backup.zip",
+      "Portrait_url": "Alucard-Empire-Agent.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Empire-Agent-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Empire-Agent-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Empire-Agent-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Empire-Agent-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Empire-Agent-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Empire-Agent-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Empire-Agent-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Empire-Agent-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lightborn",
+      "Default_name": "Lightborn - Striker",
+      "Splash_url": "Alucard-Lightborn-Striker.png",
+      "script": "Alucard-Lightborn-Striker-Backup.zip",
+      "Portrait_url": "Alucard-Lightborn-Striker.png",
+      "Tags": [
+        "Lightborn.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Lightborn-Striker-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Lightborn-Striker-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Lightborn-Striker-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Lightborn-Striker-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Lightborn-Striker-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Lightborn-Striker-Obi-Wan-Kenobi.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Lightborn-Striker-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "Default_name": "Obi-Wan Kenobi",
+      "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+      "script": "Alucard-Obi-Wan-Kenobi-Backup.zip",
+      "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+      "Tags": [
+        "Star Wars.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Obi-Wan-Kenobi-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Obi-Wan-Kenobi-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Obi-Wan-Kenobi-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Obi-Wan-Kenobi-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Obi-Wan-Kenobi-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Obi-Wan-Kenobi-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Demon's Bane",
+          "Portrait_url": "Alucard-Demon-s-Bane.png",
+          "Splash_url": "Alucard-Demon-s-Bane.png",
+          "script": "Alucard-Obi-Wan-Kenobi-Demon-s-Bane.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Demon's Bane",
+      "Splash_url": "Alucard-Demon-s-Bane.png",
+      "script": "Alucard-Demon-s-Bane-Backup.zip",
+      "Portrait_url": "Alucard-Demon-s-Bane.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Fiery Inferno",
+          "Portrait_url": "Alucard-Fiery-Inferno.png",
+          "Splash_url": "Alucard-Fiery-Inferno.png",
+          "script": "Alucard-Demon-s-Bane-Fiery-Inferno.zip"
+        },
+        {
+          "name": "Child of the Fall",
+          "Portrait_url": "Alucard-Child-of-the-Fall.png",
+          "Splash_url": "Alucard-Child-of-the-Fall.png",
+          "script": "Alucard-Demon-s-Bane-Child-of-the-Fall.zip"
+        },
+        {
+          "name": "Viscount",
+          "Portrait_url": "Alucard-Viscount.png",
+          "Splash_url": "Alucard-Viscount.png",
+          "script": "Alucard-Demon-s-Bane-Viscount.zip"
+        },
+        {
+          "name": "Romantic Fantasy",
+          "Portrait_url": "Alucard-Romantic-Fantasy.png",
+          "Splash_url": "Alucard-Romantic-Fantasy.png",
+          "script": "Alucard-Demon-s-Bane-Romantic-Fantasy.zip"
+        },
+        {
+          "name": "Obsidian Blade",
+          "Portrait_url": "Alucard-Obsidian-Blade.png",
+          "Splash_url": "Alucard-Obsidian-Blade.png",
+          "script": "Alucard-Demon-s-Bane-Obsidian-Blade.zip"
+        },
+        {
+          "name": "Lightborn - Striker",
+          "Portrait_url": "Alucard-Lightborn-Striker.png",
+          "Splash_url": "Alucard-Lightborn-Striker.png",
+          "script": "Alucard-Demon-s-Bane-Lightborn-Striker.zip"
+        },
+        {
+          "name": "Obi-Wan Kenobi",
+          "Portrait_url": "Alucard-Obi-wan-Kenobi.png",
+          "Splash_url": "Alucard-Obi-Wan-Kenobi.png",
+          "script": "Alucard-Demon-s-Bane-Obi-Wan-Kenobi.zip"
+        }
+      ]
+    }
+  ]
+}

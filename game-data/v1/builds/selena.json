@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 63,
+    "slug": "selena",
+    "name": "Selena"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "selena-community-6416",
+      "name": "Community Build 6416",
+      "lane": "Mid Lane, Roam",
+      "equipment_ids": [
+        "arcaneboots",
+        "starliumscythe",
+        "lightningtruncheon",
+        "holycrystal",
+        "berserkersfury",
+        "greatdragonspear"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "mage",
+      "talent_ids": [
+        "fatal",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "U can play Mid or Jungle with this build. 1 Shot 1 Kill",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6416,
+      "source_created_at": "2026-03-11T16:44:19.000Z",
+      "likes": 9,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "selena-community-5917",
+      "name": "Community Build 5917",
+      "lane": "Mid Lane, Roam",
+      "equipment_ids": [
+        "skypiercer",
+        "starliumscythe",
+        "glowingwand",
+        "holycrystal",
+        "berserkersfury",
+        "magicboots"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "inspire",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "My Selena build, I'm top 55 globally. Minha build de selena,sou top 55 global.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5917,
+      "source_created_at": "2026-02-22T18:47:21.000Z",
+      "likes": 6,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "selena-companion-baseline",
+      "name": "Companion Assassin/Mage Baseline",
+      "lane": "Roaming/Mid Lane",
+      "equipment_ids": [
+        "arcaneboots",
+        "geniuswand",
+        "holycrystal",
+        "divineglaive",
+        "bloodwings",
+        "wintercrown"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "mage",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

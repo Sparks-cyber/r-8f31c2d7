@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 40,
+    "slug": "karrie",
+    "name": "Karrie"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "karrie-community-6078",
+      "name": "Community Build 6078",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "toughboots",
+        "corrosionscythe",
+        "demonhuntersword",
+        "goldenstaff",
+        "maleficroar",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "quantumcharge",
+        "swift",
+        "festivalofblood"
+      ],
+      "situational_items": [],
+      "notes": "racikan 2026",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6078,
+      "source_created_at": "2026-02-27T18:16:33.000Z",
+      "likes": 9,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "karrie-community-6983",
+      "name": "Community Build 6983",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "corrosionscythe",
+        "demonhuntersword",
+        "goldenstaff",
+        "maleficgun",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "fatal",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "Make the swift crossbow first, then buy swift boots and prioritize making DHS and golden staff first. After you purchased DHS and golden staff, upgrade the swift crossbow to corrosion scythe.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6983,
+      "source_created_at": "2026-04-11T17:25:53.000Z",
+      "likes": 4,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "karrie-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

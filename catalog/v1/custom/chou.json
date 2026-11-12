@@ -1,0 +1,247 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "chou-bruce-lee",
+      "portrait_file": "Chou - Bruce Lee.png",
+      "script_file": "Chou-Bruce-Lee.zip",
+      "skin_name": "Bruce Lee",
+      "splash_file": "Chou - Bruce Lee.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Movies & TV"
+    },
+    {
+      "enabled": true,
+      "id": "chou-ace",
+      "portrait_file": "Chou - Ace.png",
+      "script_file": "Chou-Ace.zip",
+      "skin_name": "Ace",
+      "splash_file": "Chou - Ace.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "chou-crimson-talisman",
+      "portrait_file": "Chou - Crimson Talisman.png",
+      "script_file": "Chou-Crimson-Talisman.zip",
+      "skin_name": "Crimson Talisman",
+      "splash_file": "Chou - Crimson Talisman.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-draken",
+      "portrait_file": "Chou - Draken.png",
+      "script_file": "Chou-Draken.zip",
+      "skin_name": "Draken",
+      "splash_file": "Chou - Draken.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-gojo-satoru",
+      "portrait_file": "Chou - Gojo Satoru.png",
+      "script_file": "Chou-Gojo-Satoru.zip",
+      "skin_name": "Gojo Satoru",
+      "splash_file": "Chou - Gojo Satoru.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "chou-iq",
+      "portrait_file": "Chou - IQ.png",
+      "script_file": "Chou-IQ.zip",
+      "skin_name": "IQ",
+      "splash_file": "Chou - IQ.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-itadori",
+      "portrait_file": "Chou - Itadori.png",
+      "script_file": "Chou-Itadori.zip",
+      "skin_name": "Itadori",
+      "splash_file": "Chou - Itadori.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-kurapika",
+      "portrait_file": "Chou - Kurapika.png",
+      "script_file": "Chou-Kurapika.zip",
+      "skin_name": "Kurapika",
+      "splash_file": "Chou - Kurapika.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-mc-donalds",
+      "portrait_file": "Chou - Mc Donald's.png",
+      "script_file": "Chou-Mc-Donald-s.zip",
+      "skin_name": "Mc Donald's",
+      "splash_file": "Chou - Mc Donald's.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-michael-jackson",
+      "portrait_file": "Chou - Michael Jackson.png",
+      "script_file": "Chou-Michael-Jackson.zip",
+      "skin_name": "Michael Jackson",
+      "splash_file": "Chou - Michael Jackson.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Movies & TV"
+    },
+    {
+      "enabled": true,
+      "id": "chou-michael-jackson-v2",
+      "portrait_file": "Chou - Michael Jackson V2.png",
+      "script_file": "Chou-Michael-Jackson-V2.zip",
+      "skin_name": "Michael Jackson V2",
+      "splash_file": "Chou - Michael Jackson V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Movies & TV"
+    },
+    {
+      "enabled": true,
+      "id": "chou-naruto",
+      "portrait_file": "Chou - Naruto.png",
+      "script_file": "Chou-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Chou - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "chou-naruto-v2",
+      "portrait_file": "Chou - Naruto V2.png",
+      "script_file": "Chou-Naruto-V2.zip",
+      "skin_name": "Naruto V2",
+      "splash_file": "Chou - Naruto V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "chou-northern-fist",
+      "portrait_file": "Chou - Northern Fist.png",
+      "script_file": "Chou-Northern-Fist.zip",
+      "skin_name": "Northern Fist",
+      "splash_file": "Chou - Northern Fist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-red-ranger",
+      "portrait_file": "Chou - Red Ranger.png",
+      "script_file": "Chou-Red-Ranger.zip",
+      "skin_name": "Red Ranger",
+      "splash_file": "Chou - Red Ranger.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-rock-lee",
+      "portrait_file": "Chou - Rock Lee.png",
+      "script_file": "Chou-Rock-Lee.zip",
+      "skin_name": "Rock Lee",
+      "splash_file": "Chou - Rock Lee.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "chou-sakura",
+      "portrait_file": "Chou - Sakura.png",
+      "script_file": "Chou-Sakura.zip",
+      "skin_name": "Sakura",
+      "splash_file": "Chou - Sakura.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "chou-sanji",
+      "portrait_file": "Chou - Sanji.png",
+      "script_file": "Chou-Sanji.zip",
+      "skin_name": "Sanji",
+      "splash_file": "Chou - Sanji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "chou-terry",
+      "portrait_file": "Chou - Terry.png",
+      "script_file": "Chou-Terry.zip",
+      "skin_name": "Terry",
+      "splash_file": "Chou - Terry.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-the-flash",
+      "portrait_file": "Chou - The Flash.png",
+      "script_file": "Chou-The-Flash.zip",
+      "skin_name": "The Flash",
+      "splash_file": "Chou - The Flash.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "chou-yuji",
+      "portrait_file": "Chou - Yuji.png",
+      "script_file": "Chou-Yuji.zip",
+      "skin_name": "Yuji",
+      "splash_file": "Chou - Yuji.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 26,
+    "name": "Chou",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "chou"
+  },
+  "release_tag": "custom-chou",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

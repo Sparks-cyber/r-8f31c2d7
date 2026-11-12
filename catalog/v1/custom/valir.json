@@ -1,0 +1,49 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "valir-ace",
+      "portrait_file": "Valir - Ace.png",
+      "script_file": "Valir-Ace.zip",
+      "skin_name": "Ace",
+      "splash_file": "Valir - Ace.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "valir-avatar",
+      "portrait_file": "Valir - Avatar.png",
+      "script_file": "Valir-Avatar.zip",
+      "skin_name": "Avatar",
+      "splash_file": "Valir - Avatar.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "valir-of-light",
+      "portrait_file": "Valir - Of Light.png",
+      "script_file": "Valir-Of-Light.zip",
+      "skin_name": "Of Light",
+      "splash_file": "Valir - Of Light.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 57,
+    "name": "Valir",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "valir"
+  },
+  "release_tag": "custom-valir",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

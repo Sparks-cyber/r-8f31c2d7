@@ -1,0 +1,233 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Natan",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Time Wielder",
+      "Splash_url": "Natan-Time-Wielder.png",
+      "script": "Natan-Time-Wielder-Backup.zip",
+      "Portrait_url": "Natan-Time-Wielder.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Chaos Hunter",
+          "Portrait_url": "Natan-Chaos-Hunter.png",
+          "Splash_url": "Natan-Chaos-Hunter.png",
+          "script": "Natan-Time-Wielder-Chaos-Hunter.zip"
+        },
+        {
+          "name": "Captain Chrono",
+          "Portrait_url": "Natan-Captain-Chrono.png",
+          "Splash_url": "Natan-Captain-Chrono.png",
+          "script": "Natan-Time-Wielder-Captain-Chrono.zip"
+        },
+        {
+          "name": "Temporal Vortex",
+          "Portrait_url": "Natan-Temporal-Vortex.png",
+          "Splash_url": "Natan-Temporal-Vortex.png",
+          "script": "Natan-Time-Wielder-Temporal-Vortex.zip"
+        },
+        {
+          "name": "Archon of Knowledge",
+          "Portrait_url": "Natan-Archon-of-Knowledge.png",
+          "Splash_url": "Natan-Archon-of-Knowledge.png",
+          "script": "Natan-Time-Wielder-Archon-of-Knowledge.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Chaos Hunter",
+      "Splash_url": "Natan-Chaos-Hunter.png",
+      "script": "Natan-Chaos-Hunter-Backup.zip",
+      "Portrait_url": "Natan-Chaos-Hunter.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Time Wielder",
+          "Portrait_url": "Natan-Time-Wielder.png",
+          "Splash_url": "Natan-Time-Wielder.png",
+          "script": "Natan-Chaos-Hunter-Time-Wielder.zip"
+        },
+        {
+          "name": "Captain Chrono",
+          "Portrait_url": "Natan-Captain-Chrono.png",
+          "Splash_url": "Natan-Captain-Chrono.png",
+          "script": "Natan-Chaos-Hunter-Captain-Chrono.zip"
+        },
+        {
+          "name": "Tidal Lord",
+          "Portrait_url": "Natan-Tidal-Lord.png",
+          "Splash_url": "Natan-Tidal-Lord.png",
+          "script": "Natan-Chaos-Hunter-Tidal-Lord.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Captain Chrono",
+      "Splash_url": "Natan-Captain-Chrono.png",
+      "script": "Natan-Captain-Chrono-Backup.zip",
+      "Portrait_url": "Natan-Captain-Chrono.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Time Wielder",
+          "Portrait_url": "Natan-Time-Wielder.png",
+          "Splash_url": "Natan-Time-Wielder.png",
+          "script": "Natan-Captain-Chrono-Time-Wielder.zip"
+        },
+        {
+          "name": "Chaos Hunter",
+          "Portrait_url": "Natan-Chaos-Hunter.png",
+          "Splash_url": "Natan-Chaos-Hunter.png",
+          "script": "Natan-Captain-Chrono-Chaos-Hunter.zip"
+        },
+        {
+          "name": "Tidal Lord",
+          "Portrait_url": "Natan-Tidal-Lord.png",
+          "Splash_url": "Natan-Tidal-Lord.png",
+          "script": "Natan-Captain-Chrono-Tidal-Lord.zip"
+        },
+        {
+          "name": "Temporal Vortex",
+          "Portrait_url": "Natan-Temporal-Vortex.png",
+          "Splash_url": "Natan-Temporal-Vortex.png",
+          "script": "Natan-Captain-Chrono-Temporal-Vortex.zip"
+        },
+        {
+          "name": "Archon of Knowledge",
+          "Portrait_url": "Natan-Archon-of-Knowledge.png",
+          "Splash_url": "Natan-Archon-of-Knowledge.png",
+          "script": "Natan-Captain-Chrono-Archon-of-Knowledge.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Tidal Lord",
+      "Splash_url": "Natan-Tidal-Lord.png",
+      "script": "Natan-Tidal-Lord-Backup.zip",
+      "Portrait_url": "Natan-Tidal-Lord.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Time Wielder",
+          "Portrait_url": "Natan-Time-Wielder.png",
+          "Splash_url": "Natan-Time-Wielder.png",
+          "script": "Natan-Tidal-Lord-Time-Wielder.zip"
+        },
+        {
+          "name": "Chaos Hunter",
+          "Portrait_url": "Natan-Chaos-Hunter.png",
+          "Splash_url": "Natan-Chaos-Hunter.png",
+          "script": "Natan-Tidal-Lord-Chaos-Hunter.zip"
+        },
+        {
+          "name": "Captain Chrono",
+          "Portrait_url": "Natan-Captain-Chrono.png",
+          "Splash_url": "Natan-Captain-Chrono.png",
+          "script": "Natan-Tidal-Lord-Captain-Chrono.zip"
+        },
+        {
+          "name": "Temporal Vortex",
+          "Portrait_url": "Natan-Temporal-Vortex.png",
+          "Splash_url": "Natan-Temporal-Vortex.png",
+          "script": "Natan-Tidal-Lord-Temporal-Vortex.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Temporal Vortex",
+      "Splash_url": "Natan-Temporal-Vortex.png",
+      "script": "Natan-Temporal-Vortex-Backup.zip",
+      "Portrait_url": "Natan-Temporal-Vortex.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Time Wielder",
+          "Portrait_url": "Natan-Time-Wielder.png",
+          "Splash_url": "Natan-Time-Wielder.png",
+          "script": "Natan-Temporal-Vortex-Time-Wielder.zip"
+        },
+        {
+          "name": "Chaos Hunter",
+          "Portrait_url": "Natan-Chaos-Hunter.png",
+          "Splash_url": "Natan-Chaos-Hunter.png",
+          "script": "Natan-Temporal-Vortex-Chaos-Hunter.zip"
+        },
+        {
+          "name": "Captain Chrono",
+          "Portrait_url": "Natan-Captain-Chrono.png",
+          "Splash_url": "Natan-Captain-Chrono.png",
+          "script": "Natan-Temporal-Vortex-Captain-Chrono.zip"
+        },
+        {
+          "name": "Tidal Lord",
+          "Portrait_url": "Natan-Tidal-Lord.png",
+          "Splash_url": "Natan-Tidal-Lord.png",
+          "script": "Natan-Temporal-Vortex-Tidal-Lord.zip"
+        },
+        {
+          "name": "Archon of Knowledge",
+          "Portrait_url": "Natan-Archon-of-Knowledge.png",
+          "Splash_url": "Natan-Archon-of-Knowledge.png",
+          "script": "Natan-Temporal-Vortex-Archon-of-Knowledge.zip"
+        }
+      ]
+    },
+    {
+      "name": "MSC 2025",
+      "Default_name": "Archon of Knowledge",
+      "Splash_url": "Natan-Archon-of-Knowledge.png",
+      "script": "Natan-Archon-of-Knowledge-Backup.zip",
+      "Portrait_url": "Natan-Archon-of-Knowledge.png",
+      "Tags": [
+        "MSC 2025.png"
+      ],
+      "targets": [
+        {
+          "name": "Time Wielder",
+          "Portrait_url": "Natan-Time-Wielder.png",
+          "Splash_url": "Natan-Time-Wielder.png",
+          "script": "Natan-Archon-of-Knowledge-Time-Wielder.zip"
+        },
+        {
+          "name": "Chaos Hunter",
+          "Portrait_url": "Natan-Chaos-Hunter.png",
+          "Splash_url": "Natan-Chaos-Hunter.png",
+          "script": "Natan-Archon-of-Knowledge-Chaos-Hunter.zip"
+        },
+        {
+          "name": "Captain Chrono",
+          "Portrait_url": "Natan-Captain-Chrono.png",
+          "Splash_url": "Natan-Captain-Chrono.png",
+          "script": "Natan-Archon-of-Knowledge-Captain-Chrono.zip"
+        },
+        {
+          "name": "Tidal Lord",
+          "Portrait_url": "Natan-Tidal-Lord.png",
+          "Splash_url": "Natan-Tidal-Lord.png",
+          "script": "Natan-Archon-of-Knowledge-Tidal-Lord.zip"
+        },
+        {
+          "name": "Temporal Vortex",
+          "Portrait_url": "Natan-Temporal-Vortex.png",
+          "Splash_url": "Natan-Temporal-Vortex.png",
+          "script": "Natan-Archon-of-Knowledge-Temporal-Vortex.zip"
+        }
+      ]
+    }
+  ]
+}

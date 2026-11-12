@@ -1,0 +1,105 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "selena-arcade",
+      "portrait_file": "Selena - Arcade.png",
+      "script_file": "Selena-Arcade.zip",
+      "skin_name": "Arcade",
+      "splash_file": "Selena - Arcade.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "selena-butterfly",
+      "portrait_file": "Selena - Butterfly.png",
+      "script_file": "Selena-Butterfly.zip",
+      "skin_name": "Butterfly",
+      "splash_file": "Selena - Butterfly.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "selena-crismas",
+      "portrait_file": "Selena - Crismas.png",
+      "script_file": "Selena-Crismas.zip",
+      "skin_name": "Crismas",
+      "splash_file": "Selena - Crismas.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "selena-goddess-of-maiden",
+      "portrait_file": "Selena - Goddess Of Maiden.png",
+      "script_file": "Selena-Goddess-Of-Maiden.zip",
+      "skin_name": "Goddess Of Maiden",
+      "splash_file": "Selena - Goddess Of Maiden.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "selena-kishin-densetsu",
+      "portrait_file": "Selena - Kishin Densetsu.png",
+      "script_file": "Selena-Kishin-Densetsu.zip",
+      "skin_name": "Kishin Densetsu",
+      "splash_file": "Selena - Kishin Densetsu.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "selena-naruto",
+      "portrait_file": "Selena - Naruto.png",
+      "script_file": "Selena-Naruto.zip",
+      "skin_name": "Naruto",
+      "splash_file": "Selena - Naruto.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "selena-nezoku",
+      "portrait_file": "Selena - Nezoku.png",
+      "script_file": "Selena-Nezoku.zip",
+      "skin_name": "Nezoku",
+      "splash_file": "Selena - Nezoku.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "selena-summer",
+      "portrait_file": "Selena - Summer.png",
+      "script_file": "Selena-Summer.zip",
+      "skin_name": "Summer",
+      "splash_file": "Selena - Summer.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 63,
+    "name": "Selena",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "slug": "selena"
+  },
+  "release_tag": "custom-selena",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

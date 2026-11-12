@@ -1,0 +1,41 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Chip",
+  "role": "Support/Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Nexus Engineer",
+      "Splash_url": "Chip-Nexus-Engineer.png",
+      "script": "Chip-Nexus-Engineer-Backup.zip",
+      "Portrait_url": "Chip-Nexus-Engineer.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Badlands Hiatus",
+          "Portrait_url": "Chip-Badlands-Hiatus.png",
+          "Splash_url": "Chip-Badlands-Hiatus.png",
+          "script": "Chip-Nexus-Engineer-Badlands-Hiatus.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Badlands Hiatus",
+      "Splash_url": "Chip-Badlands-Hiatus.png",
+      "script": "Chip-Badlands-Hiatus-Backup.zip",
+      "Portrait_url": "Chip-Badlands-Hiatus.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Nexus Engineer",
+          "Portrait_url": "Chip-Nexus-Engineer.png",
+          "Splash_url": "Chip-Nexus-Engineer.png",
+          "script": "Chip-Badlands-Hiatus-Nexus-Engineer.zip"
+        }
+      ]
+    }
+  ]
+}

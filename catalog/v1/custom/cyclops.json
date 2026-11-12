@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "cyclops-cinnamoroll",
+      "portrait_file": "Cyclops - Cinnamoroll.png",
+      "script_file": "Cyclops-Cinnamoroll.zip",
+      "skin_name": "Cinnamoroll",
+      "splash_file": "Cyclops - Cinnamoroll.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "cyclops-gojo",
+      "portrait_file": "Cyclops - Gojo.png",
+      "script_file": "Cyclops-Gojo.zip",
+      "skin_name": "Gojo",
+      "splash_file": "Cyclops - Gojo.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 33,
+    "name": "Cyclops",
+    "roles": [
+      "Mage"
+    ],
+    "slug": "cyclops"
+  },
+  "release_tag": "custom-cyclops",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

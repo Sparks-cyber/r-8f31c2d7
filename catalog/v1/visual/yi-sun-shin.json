@@ -1,0 +1,117 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-backup",
+      "portrait_file": "Yi-Sun-shin-Default.png",
+      "script_file": "Yi-Sun-shin-Backup.zip",
+      "skin_name": "Paenlong Legend",
+      "splash_file": "Yi-Sun-shin-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-major-general",
+      "portrait_file": "Yi-Sun-shin-Major-General.png",
+      "script_file": "Yi-Sun-shin-Major-General.zip",
+      "skin_name": "Major General",
+      "splash_file": "Yi-Sun-shin-Major-General.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-apocalypse-agent",
+      "portrait_file": "Yi-Sun-shin-Apocalypse-Agent.png",
+      "script_file": "Yi-Sun-shin-Apocalypse-Agent.zip",
+      "skin_name": "Apocalypse Agent",
+      "splash_file": "Yi-Sun-shin-Apocalypse-Agent.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-roguish-ranger",
+      "portrait_file": "Yi-Sun-shin-Roguish-Ranger.png",
+      "script_file": "Yi-Sun-shin-Roguish-Ranger.zip",
+      "skin_name": "Roguish Ranger",
+      "splash_file": "Yi-Sun-shin-Roguish-Ranger.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-lone-destructor",
+      "portrait_file": "Yi-Sun-shin-Lone-Destructor.png",
+      "script_file": "Yi-Sun-shin-Lone-Destructor.zip",
+      "skin_name": "Lone Destructor",
+      "splash_file": "Yi-Sun-shin-Lone-Destructor.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-azure-sentry",
+      "portrait_file": "Yi-Sun-shin-Azure-Sentry.png",
+      "script_file": "Yi-Sun-shin-Azure-Sentry.zip",
+      "skin_name": "Azure Sentry",
+      "splash_file": "Yi-Sun-shin-Azure-Sentry.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-fleet-warden",
+      "portrait_file": "Yi-Sun-shin-Fleet-Warden.png",
+      "script_file": "Yi-Sun-shin-Fleet-Warden.zip",
+      "skin_name": "Fleet Warden",
+      "splash_file": "Yi-Sun-shin-Fleet-Warden.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-surging-torrent",
+      "portrait_file": "Yi-Sun-shin-Surging-Torrent.png",
+      "script_file": "Yi-Sun-shin-Surging-Torrent.zip",
+      "skin_name": "Surging Torrent",
+      "splash_file": "Yi-Sun-shin-Surging-Torrent.png",
+      "tag_id": "s31",
+      "tier": "common"
+    },
+    {
+      "enabled": false,
+      "id": "yi-sun-shin-wavebreaker",
+      "portrait_file": "Yi-Sun-shin-Wavebreaker.png",
+      "script_file": null,
+      "skin_name": "Wavebreaker",
+      "splash_file": "Yi-Sun-shin-Wavebreaker.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "yi-sun-shin-tactical-specialist",
+      "portrait_file": "Yi-Sun-shin-Tactical-Specialist.png",
+      "script_file": "Yi-Sun-shin-Tactical-Specialist.zip",
+      "skin_name": "Tactical Specialist",
+      "splash_file": "Yi-Sun-shin-Apocalypse-Agent.png",
+      "tag_id": "painted",
+      "tier": "common"
+    }
+  ],
+  "hero": {
+    "id": 30,
+    "name": "Yi Sun-shin",
+    "roles": [
+      "Assassin",
+      "Marksman"
+    ],
+    "slug": "yi-sun-shin"
+  },
+  "release_tag": "visual-yi-sun-shin",
+  "schema_version": 1,
+  "updated_at": "2026-10-27T15:56:45.893243Z"
+}

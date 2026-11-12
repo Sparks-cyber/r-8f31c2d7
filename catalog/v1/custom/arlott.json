@@ -1,0 +1,149 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "arlott-chainsaw-man",
+      "portrait_file": "Arlott - Chainsaw Man.png",
+      "script_file": "Arlott-Chainsaw-Man.zip",
+      "skin_name": "Chainsaw Man",
+      "splash_file": "Arlott - Chainsaw Man.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-exorcist",
+      "portrait_file": "Arlott - Exorcist.png",
+      "script_file": "Arlott-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Arlott - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-gojo-satoru",
+      "portrait_file": "Arlott - Gojo Satoru.png",
+      "script_file": "Arlott-Gojo-Satoru.zip",
+      "skin_name": "Gojo Satoru",
+      "splash_file": "Arlott - Gojo Satoru.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-iguro-obanai",
+      "portrait_file": "Arlott - Iguro Obanai.png",
+      "script_file": "Arlott-Iguro-Obanai.zip",
+      "skin_name": "Iguro Obanai",
+      "splash_file": "Arlott - Iguro Obanai.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-kakashi",
+      "portrait_file": "Arlott - Kakashi.png",
+      "script_file": "Arlott-Kakashi.zip",
+      "skin_name": "Kakashi",
+      "splash_file": "Arlott - Kakashi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-kakashi-v2",
+      "portrait_file": "Arlott - Kakashi V2.png",
+      "script_file": "Arlott-Kakashi-V2.zip",
+      "skin_name": "Kakashi V2",
+      "splash_file": "Arlott - Kakashi V2.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-killua",
+      "portrait_file": "Arlott - Killua.png",
+      "script_file": "Arlott-Killua.zip",
+      "skin_name": "Killua",
+      "splash_file": "Arlott - Killua.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-kirito",
+      "portrait_file": "Arlott - Kirito.png",
+      "script_file": "Arlott-Kirito.zip",
+      "skin_name": "Kirito",
+      "splash_file": "Arlott - Kirito.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-levi",
+      "portrait_file": "Arlott - Levi.png",
+      "script_file": "Arlott-Levi.zip",
+      "skin_name": "Levi",
+      "splash_file": "Arlott - Levi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-lightning-aneh-gaming",
+      "portrait_file": "Arlott - Lightning ( Aneh Gaming ).png",
+      "script_file": "Arlott-Lightning-Aneh-Gaming.zip",
+      "skin_name": "Lightning ( Aneh Gaming )",
+      "splash_file": "Arlott - Lightning ( Aneh Gaming ).png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-sasuke",
+      "portrait_file": "Arlott - Sasuke.png",
+      "script_file": "Arlott-Sasuke.zip",
+      "skin_name": "Sasuke",
+      "splash_file": "Arlott - Sasuke.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "arlott-shirou",
+      "portrait_file": "Arlott - Shirou.png",
+      "script_file": "Arlott-Shirou.zip",
+      "skin_name": "Shirou",
+      "splash_file": "Arlott - Shirou.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 120,
+    "name": "Arlott",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "arlott"
+  },
+  "release_tag": "custom-arlott",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

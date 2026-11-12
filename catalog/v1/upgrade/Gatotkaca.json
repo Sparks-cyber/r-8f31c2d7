@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Gatotkaca",
+  "role": "Tank/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Mighty Guardian",
+      "Splash_url": "Gatotkaca-Mighty-Guardian.png",
+      "script": "Gatotkaca-Mighty-Guardian-Backup.zip",
+      "Portrait_url": "Gatotkaca-Mighty-Guardian.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Arhat King",
+          "Portrait_url": "Gatotkaca-Arhat-King.png",
+          "Splash_url": "Gatotkaca-Arhat-King.png",
+          "script": "Gatotkaca-Mighty-Guardian-Arhat-King.zip"
+        },
+        {
+          "name": "Sentinel",
+          "Portrait_url": "Gatotkaca-Sentinel.png",
+          "Splash_url": "Gatotkaca-Sentinel.png",
+          "script": "Gatotkaca-Mighty-Guardian-Sentinel.zip"
+        },
+        {
+          "name": "Spark",
+          "Portrait_url": "Gatotkaca-Spark.png",
+          "Splash_url": "Gatotkaca-Spark.png",
+          "script": "Gatotkaca-Mighty-Guardian-Spark.zip"
+        },
+        {
+          "name": "Tide Preserver",
+          "Portrait_url": "Gatotkaca-Tide-Preserver.png",
+          "Splash_url": "Gatotkaca-Tide-Preserver.png",
+          "script": "Gatotkaca-Mighty-Guardian-Tide-Preserver.zip"
+        },
+        {
+          "name": "Nutcracker Monarch",
+          "Portrait_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "Splash_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "script": "Gatotkaca-Mighty-Guardian-Nutcracker-Monarch.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Arhat King",
+      "Splash_url": "Gatotkaca-Arhat-King.png",
+      "script": "Gatotkaca-Arhat-King-Backup.zip",
+      "Portrait_url": "Gatotkaca-Arhat-King.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Mighty Guardian",
+          "Portrait_url": "Gatotkaca-Mighty-Guardian.png",
+          "Splash_url": "Gatotkaca-Mighty-Guardian.png",
+          "script": "Gatotkaca-Arhat-King-Mighty-Guardian.zip"
+        },
+        {
+          "name": "Sentinel",
+          "Portrait_url": "Gatotkaca-Sentinel.png",
+          "Splash_url": "Gatotkaca-Sentinel.png",
+          "script": "Gatotkaca-Arhat-King-Sentinel.zip"
+        },
+        {
+          "name": "Spark",
+          "Portrait_url": "Gatotkaca-Spark.png",
+          "Splash_url": "Gatotkaca-Spark.png",
+          "script": "Gatotkaca-Arhat-King-Spark.zip"
+        },
+        {
+          "name": "Tide Preserver",
+          "Portrait_url": "Gatotkaca-Tide-Preserver.png",
+          "Splash_url": "Gatotkaca-Tide-Preserver.png",
+          "script": "Gatotkaca-Arhat-King-Tide-Preserver.zip"
+        },
+        {
+          "name": "Nutcracker Monarch",
+          "Portrait_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "Splash_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "script": "Gatotkaca-Arhat-King-Nutcracker-Monarch.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Sentinel",
+      "Splash_url": "Gatotkaca-Sentinel.png",
+      "script": "Gatotkaca-Sentinel-Backup.zip",
+      "Portrait_url": "Gatotkaca-Sentinel.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Mighty Guardian",
+          "Portrait_url": "Gatotkaca-Mighty-Guardian.png",
+          "Splash_url": "Gatotkaca-Mighty-Guardian.png",
+          "script": "Gatotkaca-Sentinel-Mighty-Guardian.zip"
+        },
+        {
+          "name": "Arhat King",
+          "Portrait_url": "Gatotkaca-Arhat-King.png",
+          "Splash_url": "Gatotkaca-Arhat-King.png",
+          "script": "Gatotkaca-Sentinel-Arhat-King.zip"
+        },
+        {
+          "name": "Spark",
+          "Portrait_url": "Gatotkaca-Spark.png",
+          "Splash_url": "Gatotkaca-Spark.png",
+          "script": "Gatotkaca-Sentinel-Spark.zip"
+        },
+        {
+          "name": "Tide Preserver",
+          "Portrait_url": "Gatotkaca-Tide-Preserver.png",
+          "Splash_url": "Gatotkaca-Tide-Preserver.png",
+          "script": "Gatotkaca-Sentinel-Tide-Preserver.zip"
+        },
+        {
+          "name": "Nutcracker Monarch",
+          "Portrait_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "Splash_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "script": "Gatotkaca-Sentinel-Nutcracker-Monarch.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Spark",
+      "Splash_url": "Gatotkaca-Spark.png",
+      "script": "Gatotkaca-Spark-Backup.zip",
+      "Portrait_url": "Gatotkaca-Spark.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Mighty Guardian",
+          "Portrait_url": "Gatotkaca-Mighty-Guardian.png",
+          "Splash_url": "Gatotkaca-Mighty-Guardian.png",
+          "script": "Gatotkaca-Spark-Mighty-Guardian.zip"
+        },
+        {
+          "name": "Arhat King",
+          "Portrait_url": "Gatotkaca-Arhat-King.png",
+          "Splash_url": "Gatotkaca-Arhat-King.png",
+          "script": "Gatotkaca-Spark-Arhat-King.zip"
+        },
+        {
+          "name": "Sentinel",
+          "Portrait_url": "Gatotkaca-Sentinel.png",
+          "Splash_url": "Gatotkaca-Sentinel.png",
+          "script": "Gatotkaca-Spark-Sentinel.zip"
+        },
+        {
+          "name": "Tide Preserver",
+          "Portrait_url": "Gatotkaca-Tide-Preserver.png",
+          "Splash_url": "Gatotkaca-Tide-Preserver.png",
+          "script": "Gatotkaca-Spark-Tide-Preserver.zip"
+        },
+        {
+          "name": "Nutcracker Monarch",
+          "Portrait_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "Splash_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "script": "Gatotkaca-Spark-Nutcracker-Monarch.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Tide Preserver",
+      "Splash_url": "Gatotkaca-Tide-Preserver.png",
+      "script": "Gatotkaca-Tide-Preserver-Backup.zip",
+      "Portrait_url": "Gatotkaca-Tide-Preserver.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Mighty Guardian",
+          "Portrait_url": "Gatotkaca-Mighty-Guardian.png",
+          "Splash_url": "Gatotkaca-Mighty-Guardian.png",
+          "script": "Gatotkaca-Tide-Preserver-Mighty-Guardian.zip"
+        },
+        {
+          "name": "Arhat King",
+          "Portrait_url": "Gatotkaca-Arhat-King.png",
+          "Splash_url": "Gatotkaca-Arhat-King.png",
+          "script": "Gatotkaca-Tide-Preserver-Arhat-King.zip"
+        },
+        {
+          "name": "Sentinel",
+          "Portrait_url": "Gatotkaca-Sentinel.png",
+          "Splash_url": "Gatotkaca-Sentinel.png",
+          "script": "Gatotkaca-Tide-Preserver-Sentinel.zip"
+        },
+        {
+          "name": "Spark",
+          "Portrait_url": "Gatotkaca-Spark.png",
+          "Splash_url": "Gatotkaca-Spark.png",
+          "script": "Gatotkaca-Tide-Preserver-Spark.zip"
+        },
+        {
+          "name": "Nutcracker Monarch",
+          "Portrait_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "Splash_url": "Gatotkaca-Nutcracker-Monarch.png",
+          "script": "Gatotkaca-Tide-Preserver-Nutcracker-Monarch.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Nutcracker Monarch",
+      "Splash_url": "Gatotkaca-Nutcracker-Monarch.png",
+      "script": "Gatotkaca-Nutcracker-Monarch-Backup.zip",
+      "Portrait_url": "Gatotkaca-Nutcracker-Monarch.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Mighty Guardian",
+          "Portrait_url": "Gatotkaca-Mighty-Guardian.png",
+          "Splash_url": "Gatotkaca-Mighty-Guardian.png",
+          "script": "Gatotkaca-Nutcracker-Monarch-Mighty-Guardian.zip"
+        },
+        {
+          "name": "Arhat King",
+          "Portrait_url": "Gatotkaca-Arhat-King.png",
+          "Splash_url": "Gatotkaca-Arhat-King.png",
+          "script": "Gatotkaca-Nutcracker-Monarch-Arhat-King.zip"
+        },
+        {
+          "name": "Sentinel",
+          "Portrait_url": "Gatotkaca-Sentinel.png",
+          "Splash_url": "Gatotkaca-Sentinel.png",
+          "script": "Gatotkaca-Nutcracker-Monarch-Sentinel.zip"
+        },
+        {
+          "name": "Spark",
+          "Portrait_url": "Gatotkaca-Spark.png",
+          "Splash_url": "Gatotkaca-Spark.png",
+          "script": "Gatotkaca-Nutcracker-Monarch-Spark.zip"
+        },
+        {
+          "name": "Tide Preserver",
+          "Portrait_url": "Gatotkaca-Tide-Preserver.png",
+          "Splash_url": "Gatotkaca-Tide-Preserver.png",
+          "script": "Gatotkaca-Nutcracker-Monarch-Tide-Preserver.zip"
+        }
+      ]
+    }
+  ]
+}

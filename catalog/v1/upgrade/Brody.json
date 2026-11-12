@@ -1,0 +1,335 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Brody",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Nameless Stray",
+      "Splash_url": "Brody-Nameless-Stray.png",
+      "script": "Brody-Nameless-Stray-Backup.zip",
+      "Portrait_url": "Brody-Nameless-Stray.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "S.T.U.N. Brody",
+          "Portrait_url": "Brody-S-T-U-N-Brody.png",
+          "Splash_url": "Brody-S-T-U-N-Brody.png",
+          "script": "Brody-Nameless-Stray-S-T-U-N-Brody.zip"
+        },
+        {
+          "name": "Lethal Fang",
+          "Portrait_url": "Brody-Lethal-Fang.png",
+          "Splash_url": "Brody-Lethal-Fang.png",
+          "script": "Brody-Nameless-Stray-Lethal-Fang.zip"
+        },
+        {
+          "name": "Ore-chemist",
+          "Portrait_url": "Brody-Ore-chemist.png",
+          "Splash_url": "Brody-Ore-chemist.png",
+          "script": "Brody-Nameless-Stray-Ore-chemist.zip"
+        },
+        {
+          "name": "Quantum Grip",
+          "Portrait_url": "Brody-Quantum-Grip.png",
+          "Splash_url": "Brody-Quantum-Grip.png",
+          "script": "Brody-Nameless-Stray-Quantum-Grip.zip"
+        },
+        {
+          "name": "APBren",
+          "Portrait_url": "Brody-APBren.png",
+          "Splash_url": "Brody-APBren.png",
+          "script": "Brody-Nameless-Stray-APBren.zip"
+        },
+        {
+          "name": "Neobeast Brody",
+          "Portrait_url": "Brody-Neobeast-Brody.png",
+          "Splash_url": "Brody-Neobeast-Brody.png",
+          "script": "Brody-Nameless-Stray-Neobeast-Brody.zip"
+        }
+      ]
+    },
+    {
+      "name": "S.T.U.N.",
+      "Default_name": "S.T.U.N. Brody",
+      "Splash_url": "Brody-S-T-U-N-Brody.png",
+      "script": "Brody-S-T-U-N-Brody-Backup.zip",
+      "Portrait_url": "Brody-S-T-U-N-Brody.png",
+      "Tags": [
+        "STUN.png"
+      ],
+      "targets": [
+        {
+          "name": "Nameless Stray",
+          "Portrait_url": "Brody-Nameless-Stray.png",
+          "Splash_url": "Brody-Nameless-Stray.png",
+          "script": "Brody-S-T-U-N-Brody-Nameless-Stray.zip"
+        },
+        {
+          "name": "Lethal Fang",
+          "Portrait_url": "Brody-Lethal-Fang.png",
+          "Splash_url": "Brody-Lethal-Fang.png",
+          "script": "Brody-S-T-U-N-Brody-Lethal-Fang.zip"
+        },
+        {
+          "name": "Ore-chemist",
+          "Portrait_url": "Brody-Ore-chemist.png",
+          "Splash_url": "Brody-Ore-chemist.png",
+          "script": "Brody-S-T-U-N-Brody-Ore-chemist.zip"
+        },
+        {
+          "name": "Quantum Grip",
+          "Portrait_url": "Brody-Quantum-Grip.png",
+          "Splash_url": "Brody-Quantum-Grip.png",
+          "script": "Brody-S-T-U-N-Brody-Quantum-Grip.zip"
+        },
+        {
+          "name": "APBren",
+          "Portrait_url": "Brody-APBren.png",
+          "Splash_url": "Brody-APBren.png",
+          "script": "Brody-S-T-U-N-Brody-APBren.zip"
+        },
+        {
+          "name": "Neobeast Brody",
+          "Portrait_url": "Brody-Neobeast-Brody.png",
+          "Splash_url": "Brody-Neobeast-Brody.png",
+          "script": "Brody-S-T-U-N-Brody-Neobeast-Brody.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Lethal Fang",
+      "Splash_url": "Brody-Lethal-Fang.png",
+      "script": "Brody-Lethal-Fang-Backup.zip",
+      "Portrait_url": "Brody-Lethal-Fang.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Nameless Stray",
+          "Portrait_url": "Brody-Nameless-Stray.png",
+          "Splash_url": "Brody-Nameless-Stray.png",
+          "script": "Brody-Lethal-Fang-Nameless-Stray.zip"
+        },
+        {
+          "name": "S.T.U.N. Brody",
+          "Portrait_url": "Brody-S-T-U-N-Brody.png",
+          "Splash_url": "Brody-S-T-U-N-Brody.png",
+          "script": "Brody-Lethal-Fang-S-T-U-N-Brody.zip"
+        },
+        {
+          "name": "Ore-chemist",
+          "Portrait_url": "Brody-Ore-chemist.png",
+          "Splash_url": "Brody-Ore-chemist.png",
+          "script": "Brody-Lethal-Fang-Ore-chemist.zip"
+        },
+        {
+          "name": "Quantum Grip",
+          "Portrait_url": "Brody-Quantum-Grip.png",
+          "Splash_url": "Brody-Quantum-Grip.png",
+          "script": "Brody-Lethal-Fang-Quantum-Grip.zip"
+        },
+        {
+          "name": "Neobeast Brody",
+          "Portrait_url": "Brody-Neobeast-Brody.png",
+          "Splash_url": "Brody-Neobeast-Brody.png",
+          "script": "Brody-Lethal-Fang-Neobeast-Brody.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Ore-chemist",
+      "Splash_url": "Brody-Ore-chemist.png",
+      "script": "Brody-Ore-chemist-Backup.zip",
+      "Portrait_url": "Brody-Ore-chemist.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Nameless Stray",
+          "Portrait_url": "Brody-Nameless-Stray.png",
+          "Splash_url": "Brody-Nameless-Stray.png",
+          "script": "Brody-Ore-chemist-Nameless-Stray.zip"
+        },
+        {
+          "name": "S.T.U.N. Brody",
+          "Portrait_url": "Brody-S-T-U-N-Brody.png",
+          "Splash_url": "Brody-S-T-U-N-Brody.png",
+          "script": "Brody-Ore-chemist-S-T-U-N-Brody.zip"
+        },
+        {
+          "name": "Lethal Fang",
+          "Portrait_url": "Brody-Lethal-Fang.png",
+          "Splash_url": "Brody-Lethal-Fang.png",
+          "script": "Brody-Ore-chemist-Lethal-Fang.zip"
+        },
+        {
+          "name": "Quantum Grip",
+          "Portrait_url": "Brody-Quantum-Grip.png",
+          "Splash_url": "Brody-Quantum-Grip.png",
+          "script": "Brody-Ore-chemist-Quantum-Grip.zip"
+        },
+        {
+          "name": "APBren",
+          "Portrait_url": "Brody-APBren.png",
+          "Splash_url": "Brody-APBren.png",
+          "script": "Brody-Ore-chemist-APBren.zip"
+        },
+        {
+          "name": "Neobeast Brody",
+          "Portrait_url": "Brody-Neobeast-Brody.png",
+          "Splash_url": "Brody-Neobeast-Brody.png",
+          "script": "Brody-Ore-chemist-Neobeast-Brody.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Quantum Grip",
+      "Splash_url": "Brody-Quantum-Grip.png",
+      "script": "Brody-Quantum-Grip-Backup.zip",
+      "Portrait_url": "Brody-Quantum-Grip.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Nameless Stray",
+          "Portrait_url": "Brody-Nameless-Stray.png",
+          "Splash_url": "Brody-Nameless-Stray.png",
+          "script": "Brody-Quantum-Grip-Nameless-Stray.zip"
+        },
+        {
+          "name": "S.T.U.N. Brody",
+          "Portrait_url": "Brody-S-T-U-N-Brody.png",
+          "Splash_url": "Brody-S-T-U-N-Brody.png",
+          "script": "Brody-Quantum-Grip-S-T-U-N-Brody.zip"
+        },
+        {
+          "name": "Lethal Fang",
+          "Portrait_url": "Brody-Lethal-Fang.png",
+          "Splash_url": "Brody-Lethal-Fang.png",
+          "script": "Brody-Quantum-Grip-Lethal-Fang.zip"
+        },
+        {
+          "name": "Ore-chemist",
+          "Portrait_url": "Brody-Ore-chemist.png",
+          "Splash_url": "Brody-Ore-chemist.png",
+          "script": "Brody-Quantum-Grip-Ore-chemist.zip"
+        },
+        {
+          "name": "APBren",
+          "Portrait_url": "Brody-APBren.png",
+          "Splash_url": "Brody-APBren.png",
+          "script": "Brody-Quantum-Grip-APBren.zip"
+        },
+        {
+          "name": "Neobeast Brody",
+          "Portrait_url": "Brody-Neobeast-Brody.png",
+          "Splash_url": "Brody-Neobeast-Brody.png",
+          "script": "Brody-Quantum-Grip-Neobeast-Brody.zip"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "Default_name": "APBren",
+      "Splash_url": "Brody-APBren.png",
+      "script": "Brody-APBren-Backup.zip",
+      "Portrait_url": "Brody-APBren.png",
+      "Tags": [
+        "Champion.png"
+      ],
+      "targets": [
+        {
+          "name": "Nameless Stray",
+          "Portrait_url": "Brody-Nameless-Stray.png",
+          "Splash_url": "Brody-Nameless-Stray.png",
+          "script": "Brody-APBren-Nameless-Stray.zip"
+        },
+        {
+          "name": "S.T.U.N. Brody",
+          "Portrait_url": "Brody-S-T-U-N-Brody.png",
+          "Splash_url": "Brody-S-T-U-N-Brody.png",
+          "script": "Brody-APBren-S-T-U-N-Brody.zip"
+        },
+        {
+          "name": "Lethal Fang",
+          "Portrait_url": "Brody-Lethal-Fang.png",
+          "Splash_url": "Brody-Lethal-Fang.png",
+          "script": "Brody-APBren-Lethal-Fang.zip"
+        },
+        {
+          "name": "Ore-chemist",
+          "Portrait_url": "Brody-Ore-chemist.png",
+          "Splash_url": "Brody-Ore-chemist.png",
+          "script": "Brody-APBren-Ore-chemist.zip"
+        },
+        {
+          "name": "Quantum Grip",
+          "Portrait_url": "Brody-Quantum-Grip.png",
+          "Splash_url": "Brody-Quantum-Grip.png",
+          "script": "Brody-APBren-Quantum-Grip.zip"
+        },
+        {
+          "name": "Neobeast Brody",
+          "Portrait_url": "Brody-Neobeast-Brody.png",
+          "Splash_url": "Brody-Neobeast-Brody.png",
+          "script": "Brody-APBren-Neobeast-Brody.zip"
+        }
+      ]
+    },
+    {
+      "name": "Neobeast 2",
+      "Default_name": "Neobeast Brody",
+      "Splash_url": "Brody-Neobeast-Brody.png",
+      "script": "Brody-Neobeast-Brody-Backup.zip",
+      "Portrait_url": "Brody-Neobeast-Brody.png",
+      "Tags": [
+        "NeoBeasts.png"
+      ],
+      "targets": [
+        {
+          "name": "Nameless Stray",
+          "Portrait_url": "Brody-Nameless-Stray.png",
+          "Splash_url": "Brody-Nameless-Stray.png",
+          "script": "Brody-Neobeast-Brody-Nameless-Stray.zip"
+        },
+        {
+          "name": "S.T.U.N. Brody",
+          "Portrait_url": "Brody-S-T-U-N-Brody.png",
+          "Splash_url": "Brody-S-T-U-N-Brody.png",
+          "script": "Brody-Neobeast-Brody-S-T-U-N-Brody.zip"
+        },
+        {
+          "name": "Lethal Fang",
+          "Portrait_url": "Brody-Lethal-Fang.png",
+          "Splash_url": "Brody-Lethal-Fang.png",
+          "script": "Brody-Neobeast-Brody-Lethal-Fang.zip"
+        },
+        {
+          "name": "Ore-chemist",
+          "Portrait_url": "Brody-Ore-chemist.png",
+          "Splash_url": "Brody-Ore-chemist.png",
+          "script": "Brody-Neobeast-Brody-Ore-chemist.zip"
+        },
+        {
+          "name": "Quantum Grip",
+          "Portrait_url": "Brody-Quantum-Grip.png",
+          "Splash_url": "Brody-Quantum-Grip.png",
+          "script": "Brody-Neobeast-Brody-Quantum-Grip.zip"
+        },
+        {
+          "name": "APBren",
+          "Portrait_url": "Brody-APBren.png",
+          "Splash_url": "Brody-APBren.png",
+          "script": "Brody-Neobeast-Brody-APBren.zip"
+        }
+      ]
+    }
+  ]
+}

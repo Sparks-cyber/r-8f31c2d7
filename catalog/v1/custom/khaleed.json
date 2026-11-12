@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "khaleed-mpl-fan-art",
+      "portrait_file": "Khaleed - MPL Fan Art.png",
+      "script_file": "Khaleed-MPL-Fan-Art.zip",
+      "skin_name": "MPL Fan Art",
+      "splash_file": "Khaleed - MPL Fan Art.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 98,
+    "name": "Khaleed",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "khaleed"
+  },
+  "release_tag": "custom-khaleed",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

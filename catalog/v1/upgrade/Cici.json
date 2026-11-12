@@ -1,0 +1,77 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Cici",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Whimsical Carnival",
+      "Splash_url": "Cici-Whimsical-Carnival.png",
+      "script": "Cici-Whimsical-Carnival-Backup.zip",
+      "Portrait_url": "Cici-Whimsical-Carnival.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Circus Reverie",
+          "Portrait_url": "Cici-Circus-Reverie.png",
+          "Splash_url": "Cici-Circus-Reverie.png",
+          "script": "Cici-Whimsical-Carnival-Circus-Reverie.zip"
+        },
+        {
+          "name": "Circus Fantasy Painted 01",
+          "Portrait_url": "Cici-Circus-Fantasy.png",
+          "Splash_url": "Cici-Circus-Reverie.png",
+          "script": "Cici-Whimsical-Carnival-Circus-Fantasy-Painted-01.zip"
+        },
+        {
+          "name": "Circus Glamour",
+          "Portrait_url": "Cici-Circus-Glamour.png",
+          "Splash_url": "Cici - Circus Glamour.jpg",
+          "script": "Cici-Whimsical-Carnival-Circus-Glamour.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Circus Reverie",
+      "Splash_url": "Cici-Circus-Reverie.png",
+      "script": "Cici-Circus-Reverie-Backup.zip",
+      "Portrait_url": "Cici-Circus-Reverie.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Whimsical Carnival",
+          "Portrait_url": "Cici-Whimsical-Carnival.png",
+          "Splash_url": "Cici-Whimsical-Carnival.png",
+          "script": "Cici-Circus-Reverie-Whimsical-Carnival.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Circus Fantasy Skin 03",
+      "Splash_url": "Cici-Circus-Fantasy.png",
+      "script": "Cici-Circus-Fantasy-Skin-03-Backup.zip",
+      "Portrait_url": "Cici-Circus-Fantasy.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Circus Fantasy Painted 01",
+          "Portrait_url": "Cici-Circus-Fantasy.png",
+          "Splash_url": "Cici-Circus-Reverie.png",
+          "script": "Cici-Circus-Fantasy-Skin-03-Circus-Fantasy-Painted-01.zip"
+        },
+        {
+          "name": "Circus Glamour",
+          "Portrait_url": "Cici-Circus-Glamour.png",
+          "Splash_url": "Cici - Circus Glamour.jpg",
+          "script": "Cici-Circus-Fantasy-Skin-03-Circus-Glamour.zip"
+        }
+      ]
+    }
+  ]
+}

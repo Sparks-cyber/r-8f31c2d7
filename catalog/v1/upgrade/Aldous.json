@@ -1,0 +1,641 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Aldous",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Red Mantle",
+      "Splash_url": "Aldous-Red-Mantle.png",
+      "script": "Aldous-Red-Mantle-Backup.zip",
+      "Portrait_url": "Aldous-Red-Mantle.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-Red-Mantle-Death.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-Red-Mantle-The-Insentient.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-Red-Mantle-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-Red-Mantle-Blazing-Force.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-Red-Mantle-Realm-Watcher.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-Red-Mantle-Starscream.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-Red-Mantle-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-Red-Mantle-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-Red-Mantle-Oni-Kabuto.zip"
+        },
+        {
+          "name": "Vile Death",
+          "Portrait_url": "Aldous-Vile-Death.png",
+          "Splash_url": "Aldous-Vile-Death.png",
+          "script": "Aldous-Red-Mantle-Vile-Death.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Death",
+      "Splash_url": "Aldous-Death.png",
+      "script": "Aldous-Death-Backup.zip",
+      "Portrait_url": "Aldous-Death.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-Death-Red-Mantle.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-Death-The-Insentient.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-Death-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-Death-Blazing-Force.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-Death-Realm-Watcher.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-Death-Starscream.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-Death-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-Death-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-Death-Oni-Kabuto.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "The Insentient",
+      "Splash_url": "Aldous-The-Insentient.png",
+      "script": "Aldous-The-Insentient-Backup.zip",
+      "Portrait_url": "Aldous-The-Insentient.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-The-Insentient-Red-Mantle.zip"
+        },
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-The-Insentient-Death.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-The-Insentient-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-The-Insentient-Blazing-Force.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-The-Insentient-Realm-Watcher.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-The-Insentient-Starscream.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-The-Insentient-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-The-Insentient-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-The-Insentient-Oni-Kabuto.zip"
+        },
+        {
+          "name": "Vile Death",
+          "Portrait_url": "Aldous-Vile-Death.png",
+          "Splash_url": "Aldous-Vile-Death.png",
+          "script": "Aldous-The-Insentient-Vile-Death.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "King of Supremacy",
+      "Splash_url": "Aldous-King-of-Supremacy.png",
+      "script": "Aldous-King-of-Supremacy-Backup.zip",
+      "Portrait_url": "Aldous-King-of-Supremacy.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-King-of-Supremacy-Red-Mantle.zip"
+        },
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-King-of-Supremacy-Death.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-King-of-Supremacy-The-Insentient.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-King-of-Supremacy-Blazing-Force.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-King-of-Supremacy-Realm-Watcher.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-King-of-Supremacy-Starscream.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-King-of-Supremacy-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-King-of-Supremacy-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-King-of-Supremacy-Oni-Kabuto.zip"
+        },
+        {
+          "name": "Vile Death",
+          "Portrait_url": "Aldous-Vile-Death.png",
+          "Splash_url": "Aldous-Vile-Death.png",
+          "script": "Aldous-King-of-Supremacy-Vile-Death.zip"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Bounties",
+      "Default_name": "Blazing Force",
+      "Splash_url": "Aldous-Blazing-Force.png",
+      "script": "Aldous-Blazing-Force-Backup.zip",
+      "Portrait_url": "Aldous-Blazing-Force.png",
+      "Tags": [
+        "Blazing Bounties.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-Blazing-Force-Red-Mantle.zip"
+        },
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-Blazing-Force-Death.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-Blazing-Force-The-Insentient.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-Blazing-Force-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-Blazing-Force-Realm-Watcher.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-Blazing-Force-Starscream.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-Blazing-Force-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-Blazing-Force-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-Blazing-Force-Oni-Kabuto.zip"
+        },
+        {
+          "name": "Vile Death",
+          "Portrait_url": "Aldous-Vile-Death.png",
+          "Splash_url": "Aldous-Vile-Death.png",
+          "script": "Aldous-Blazing-Force-Vile-Death.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Realm Watcher",
+      "Splash_url": "Aldous-Realm-Watcher.png",
+      "script": "Aldous-Realm-Watcher-Backup.zip",
+      "Portrait_url": "Aldous-Realm-Watcher.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-Realm-Watcher-Red-Mantle.zip"
+        },
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-Realm-Watcher-Death.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-Realm-Watcher-The-Insentient.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-Realm-Watcher-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-Realm-Watcher-Blazing-Force.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-Realm-Watcher-Starscream.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-Realm-Watcher-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-Realm-Watcher-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-Realm-Watcher-Oni-Kabuto.zip"
+        },
+        {
+          "name": "Vile Death",
+          "Portrait_url": "Aldous-Vile-Death.png",
+          "Splash_url": "Aldous-Vile-Death.png",
+          "script": "Aldous-Realm-Watcher-Vile-Death.zip"
+        }
+      ]
+    },
+    {
+      "name": "Transformers",
+      "Default_name": "Starscream",
+      "Splash_url": "Aldous-Starscream.png",
+      "script": "Aldous-Starscream-Backup.zip",
+      "Portrait_url": "Aldous-Starscream.png",
+      "Tags": [
+        "Transformers.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-Starscream-Red-Mantle.zip"
+        },
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-Starscream-Death.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-Starscream-The-Insentient.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-Starscream-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-Starscream-Blazing-Force.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-Starscream-Realm-Watcher.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-Starscream-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-Starscream-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-Starscream-Oni-Kabuto.zip"
+        },
+        {
+          "name": "Vile Death",
+          "Portrait_url": "Aldous-Vile-Death.png",
+          "Splash_url": "Aldous-Vile-Death.png",
+          "script": "Aldous-Starscream-Vile-Death.zip"
+        }
+      ]
+    },
+    {
+      "name": "Mistbenders",
+      "Default_name": "Mistbender Aldous",
+      "Splash_url": "Aldous-Mistbender-Aldous.png",
+      "script": "Aldous-Mistbender-Aldous-Backup.zip",
+      "Portrait_url": "Aldous-Mistbender-Aldous.png",
+      "Tags": [
+        "Mistbenders.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-Mistbender-Aldous-Red-Mantle.zip"
+        },
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-Mistbender-Aldous-Death.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-Mistbender-Aldous-The-Insentient.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-Mistbender-Aldous-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-Mistbender-Aldous-Blazing-Force.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-Mistbender-Aldous-Realm-Watcher.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-Mistbender-Aldous-Starscream.zip"
+        },
+        {
+          "name": "Fathom Terror",
+          "Portrait_url": "Aldous-Fathom-Terror.png",
+          "Splash_url": "Aldous-Fathom-Terror.png",
+          "script": "Aldous-Mistbender-Aldous-Fathom-Terror.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-Mistbender-Aldous-Oni-Kabuto.zip"
+        },
+        {
+          "name": "Vile Death",
+          "Portrait_url": "Aldous-Vile-Death.png",
+          "Splash_url": "Aldous-Vile-Death.png",
+          "script": "Aldous-Mistbender-Aldous-Vile-Death.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Fathom Terror",
+      "Splash_url": "Aldous-Fathom-Terror.png",
+      "script": "Aldous-Fathom-Terror-Backup.zip",
+      "Portrait_url": "Aldous-Fathom-Terror.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Red Mantle",
+          "Portrait_url": "Aldous-Red-Mantle.png",
+          "Splash_url": "Aldous-Red-Mantle.png",
+          "script": "Aldous-Fathom-Terror-Red-Mantle.zip"
+        },
+        {
+          "name": "Death",
+          "Portrait_url": "Aldous-Death.png",
+          "Splash_url": "Aldous-Death.png",
+          "script": "Aldous-Fathom-Terror-Death.zip"
+        },
+        {
+          "name": "The Insentient",
+          "Portrait_url": "Aldous-The-Insentient.png",
+          "Splash_url": "Aldous-The-Insentient.png",
+          "script": "Aldous-Fathom-Terror-The-Insentient.zip"
+        },
+        {
+          "name": "King of Supremacy",
+          "Portrait_url": "Aldous-King-of-Supremacy.png",
+          "Splash_url": "Aldous-King-of-Supremacy.png",
+          "script": "Aldous-Fathom-Terror-King-of-Supremacy.zip"
+        },
+        {
+          "name": "Blazing Force",
+          "Portrait_url": "Aldous-Blazing-Force.png",
+          "Splash_url": "Aldous-Blazing-Force.png",
+          "script": "Aldous-Fathom-Terror-Blazing-Force.zip"
+        },
+        {
+          "name": "Realm Watcher",
+          "Portrait_url": "Aldous-Realm-Watcher.png",
+          "Splash_url": "Aldous-Realm-Watcher.png",
+          "script": "Aldous-Fathom-Terror-Realm-Watcher.zip"
+        },
+        {
+          "name": "Starscream",
+          "Portrait_url": "Aldous-Starscream.png",
+          "Splash_url": "Aldous-Starscream.png",
+          "script": "Aldous-Fathom-Terror-Starscream.zip"
+        },
+        {
+          "name": "Mistbender Aldous",
+          "Portrait_url": "Aldous-Mistbender-Aldous.png",
+          "Splash_url": "Aldous-Mistbender-Aldous.png",
+          "script": "Aldous-Fathom-Terror-Mistbender-Aldous.zip"
+        },
+        {
+          "name": "Oni Kabuto",
+          "Portrait_url": "Aldous-Oni-Kabuto.png",
+          "Splash_url": "Aldous-Oni-Kabuto.png",
+          "script": "Aldous-Fathom-Terror-Oni-Kabuto.zip"
+        }
+      ]
+    }
+  ]
+}

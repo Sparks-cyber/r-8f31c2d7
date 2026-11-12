@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 10,
+    "slug": "franco",
+    "name": "Franco"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "franco-community-5841",
+      "name": "Community Build 5841",
+      "lane": "Roam",
+      "equipment_ids": [
+        "rapidboots",
+        "bladeoftheheptaseas",
+        "bladeofdespair",
+        "endlessbattle",
+        "guardianhelmet",
+        "oracle"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "firmness",
+        "festivalofblood",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "One shot, sekali tarik",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5841,
+      "source_created_at": "2026-02-19T02:39:30.000Z",
+      "likes": 10,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "franco-community-6719",
+      "name": "Community Build 6719",
+      "lane": "Roam",
+      "equipment_ids": [
+        "magicboots",
+        "bladeoftheheptaseas",
+        "hunterstrike",
+        "maleficroar",
+        "guardianhelmet",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "impurerage",
+        "tenacity",
+        "thrill"
+      ],
+      "situational_items": [],
+      "notes": "no flicker because need dmg reduction but a lot off dmg",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6719,
+      "source_created_at": "2026-03-26T10:54:50.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "franco-companion-baseline",
+      "name": "Companion Tank Baseline",
+      "lane": "Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

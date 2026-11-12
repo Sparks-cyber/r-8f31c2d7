@@ -1,0 +1,37 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "sora-backup",
+      "portrait_file": "Sora-Default.png",
+      "script_file": "Sora-Backup.zip",
+      "skin_name": "Shifting Cloud",
+      "splash_file": "Sora-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "sora-azure-cloud",
+      "portrait_file": "Sora-Azure-Cloud.png",
+      "script_file": "Sora-Azure-Cloud.zip",
+      "skin_name": "Azure Cloud",
+      "splash_file": "Sora-Azure-Cloud.png",
+      "tag_id": null,
+      "tier": "common"
+    }
+  ],
+  "hero": {
+    "id": 131,
+    "name": "Sora",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "slug": "sora"
+  },
+  "release_tag": "visual-sora",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

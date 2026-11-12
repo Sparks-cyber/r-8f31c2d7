@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 4,
+    "slug": "alice",
+    "name": "Alice",
+    "skin_name": "Queen of Blood",
+    "roles": [
+      "Mage",
+      "Tank"
+    ],
+    "primary_role": "Mage"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane",
+      "Jungle"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Charge",
+      "Regen"
+    ],
+    "region": "Abyss",
+    "release_date": "2016",
+    "resource": "Mana",
+    "short_description": "Queen of the Blood Demons and one of the two dominant powers in the Abyss.",
+    "brief": "Love was once everything to Alice - her maiden dreams, the measure of her worth, and the faith that drove her to protect her family even while imprisoned by the Monastery of Light. In the end, love became the very shackles that bound her to her family. When the lies were finally exposed, Alice saw with clarity that power and authority were the only truths in this world. She paved a path of bones to become the Abyss's Queen of Blood. Alice would never allow herself to be a pawn again - from her new throne, she would be the one who moved the pieces.",
+    "story": "Upon her throne in the Sanguine Lair, with blood staining the hem of her dress, Alice looked down at those who knelt before her and asked with a slight smile, \"What is love?\"\r\n\r\nTo this question, the young Alice would have answered: Love is the protection and sense of worth bestowed by her father.\r\n\r\nAlice was the illegitimate daughter of a nobleman and a lowly dancer but born with a powerful affinity to dark magic. Her mother always told her that their beautiful lifestyle was proof that they were loved. Her father would often take young Alice to see the family's sacred treasure, the Crown of Antalus, telling her tales of the family's past glory and how she would help restore their greatness.\r\n\r\nAlice understood from an early age that being loved meant her role was to be the family's knife in the shadow. Using her gift for dark magic, Alice moved through the southern battlefields, manipulating hearts and minds to eliminate obstacles for the Antalus family. Her half-brothers' contempt for her illegitimate status was mere static in the symphony of love. Alice held her head high and ignored their petty grievances with arrogant pride. She had always loved her father and the family despite everything. Even when she was captured and tortured by the Monastery of Light during her final mission, Alice gritted her teeth and revealed none of the family's dark secrets.\r\n\r\nBut does love truly exist?\r\n\r\nWhile imprisoned, a mysterious figure revealed a shocking truth to Alice: her whole life, she had been nothing but a pawn. Alice sneered in response, dismissing it as just another one of the enemy's ploys. The figure simply shook their head, handed a mysterious orb to Alice, and unlocked her cell door. \r\n\r\nCovered in wounds, Alice made her way home only to overhear a conversation between her father and the elders. Her failure and capture had been a calculated deal between the Antalus family and the Monastery of Light, in a bid to restore the family's former glory.\r\n\r\nAnd love? Alice looked at her father and saw only cold eyes.\r\n\r\nLove never existed - from the beginning, there had only been her worth, desires, and lies. Her birth was permitted because of her talent; her freedom granted because she had use to the family. Love was a sweet poison that finally showed its true nature. The family had long prepared magic to suppress Alice. They coldly as she was pinned to the ground, struggling like a wounded animal; they had already arranged for her to be taken back by the Monastery of Light. But at the peak of her despair, the orb in Alice's possession began to glow. She knew that mysterious figure might be another player in the Antalus family trying to use her, but what did it matter? Alice laughed as despair and hatred consumed her body. The power of the Abyss transformed her blood completely - crimson wings burst from her flesh as demonic energy engulfed the entire family.\r\n\r\nAlice crouched down and whispered the truth into her dying father's ear: Even if they handed her to the Monastery of Light, the Antalus family would never receive what was promised. In the eyes of those above, her father was a pawn himself. The Antalus family's dream of reclaiming their glory, like Alice's desperate yearning for love, was nothing but a deluded fantasy.\r\n\r\nHer father drew his last breath amid Alice's bloodcurdling laughter.\r\n\r\nUsing the cruelest methods, Alice transformed her contemptuous relatives into Blood Demon thralls, forever bound to her will. She took the Crown of Antalus and wore it mockingly on her leg as decoration - shattering the family's hypocritical delusions and the so-called honor of the nobility.\r\n\r\nShe was reborn from the ashes of a dead love. The Queen of Blood had arrived.\r\nNow, the queen asks: \"What is love?\"\r\n\r\nLove is a price, love is desire, love is lies... Love is but an ornament beneath authority, a bloodstain upon the crown, an echo when the chess player makes their move. Having witnessed so much \"love,\" she instinctively mastered the game of power and desire. Upon her throne, Alice extends an empty hand, yet within her grasp lie the desires of countless souls. With this power, she left the Moniyan Empire, leading the Blood Demons to the Abyss, where they claimed their domain.\r\n\r\nBut this is not enough - the Queen hears the voice in her heart, the whispers of the human part of her: this is not enough. She has had her fill of deception and manipulation. Rather than remain a pawn for others to control, she would become the player who controls all.\r\n\r\nShe is the Queen of the Blood Demons, the Mistress of the Sanguine Lair, the wrath of the Abyss, and the one who will turn her claws against the Moniyan Empire and ascend to the pinnacle of power.\r\n\r\nLove and hatred are long dead; only power and desire can forge eternity.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 5,
+    "offense": 5,
+    "control": 7,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2573,
+    "health_growth": 169,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.3,
+    "mana": 750,
+    "mana_growth": 150,
+    "mana_regen": 6.0,
+    "mana_regen_growth": 0.3,
+    "physical_attack": 114,
+    "physical_attack_growth": 5.5,
+    "magic_power": 0,
+    "physical_defense": 21,
+    "physical_defense_growth": 4.2143,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.7
+  },
+  "abilities": [
+    {
+      "id": "Alice0",
+      "name": "Crimson Blood Banquet",
+      "description": "When Alice's skills hit, she gains 1 stack(s) of <highlight>Crimson</highlight>, lasting 4s. Once <highlight>Crimson</highlight> reaches 2 stacks, <highlight>Blood Banquet</highlight> activates, dealing 25<scaleAP> (+30% Total Magic Power)</scaleAP> plus 0.5%-2.5% of the target's Max HP (scales with level) as <magicDamage>Magic Damage</magicDamage> to nearby units (hitting heroes with skills refreshes the duration) and recovering 10<scaleHP> (+3% Extra Max HP)</scaleHP> HP for Alice every 0.5s.<br/>While <highlight>Blood Banquet</highlight> is active, Alice gains 8% Movement Speed. <highlight>Blood Banquet</highlight> can deal up to 70(+10*Hero Level) <magicDamage>Magic Damage</magicDamage> to creeps.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_156b5e04b84b0c6b88e4b32267fec730.png",
+      "video_url": null
+    },
+    {
+      "id": "Alice1",
+      "name": "Crimson Gleam",
+      "description": "Alice fires blood energy forward, dealing 100/120/140/160/180/200<scaleAP> (+50% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. Before the blood energy dissipates, this skill can be cast again to activate <highlight>Scarlet Shadow</highlight>, allowing Alice to blink to the blood energy's location.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "12/11.2/10.4/9.6/8.8/8",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_6a063238228005a9942a1eb7efa6b23a.png",
+      "video_url": null
+    },
+    {
+      "id": "Alice2",
+      "name": "Doom Waltz",
+      "description": "Alice performs a deadly dance, dealing 350/390/430/470/510/550<scaleAP> (+130% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies and slowing them by 70% for 1s. If <highlight>Blood Banquet</highlight> is active at this time, it also scorches enemies, dealing 300% of <highlight>Blood Banquet</highlight>'s damage and healing Alice for the same amount.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "4",
+      "tags": [
+        {
+          "name": "Slow",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4c7a4bc9cafdc56731b756dc883f4301.png",
+      "video_url": null
+    },
+    {
+      "id": "Alice3",
+      "name": "Throne of Ruin",
+      "description": "Alice surrounds herself with blood, gaining Control Immunity and 50% Damage Reduction while slowing herself by 50%. After 1.5s, she descends with force, dealing 500/600/700<scaleAP> (+150% Total Magic Power)</scaleAP><scaleHP> (+20% Extra Max HP)</scaleHP> <magicDamage>Magic Damage</magicDamage> to all enemies in range and immobilizing them for 1s.<br/>While charging her Ultimate, Alice can only use <highlight>Scarlet Shadow</highlight>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "60/55/50",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_256a8304f18c293d0edcd6c6738cb3e8.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Alice0",
+      "sequence": "Alice1-Alice1-Alice2-Alice3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "Use Alice's 1st Skill to poke the opponent and recast it to blink on top of them, then follow up with her 2nd Skill to CC the enemies and finish with her Ultimate to continue the attack."
+    },
+    {
+      "id": "Alice1",
+      "sequence": "Alice1-Alice1-Alice2-Alice3",
+      "name": "LANING COMBOS",
+      "description": "Use Alice's 1st Skill to poke the opponent and recast it to blink on top of them, then follow up with her 2nd Skill to CC the enemies and finish with her Ultimate to continue the attack."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "To compensate for Alice's weaknesses in the early game and form a balanced team, pair her with strong early game heroes, like Balmond or Dyrroth.",
+      "heroes": [
+        {
+          "id": 2,
+          "slug": "balmond",
+          "name": "Balmond"
+        },
+        {
+          "id": 85,
+          "slug": "dyrroth",
+          "name": "Dyrroth"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "With her great sustainability in combat plus her mobility and CC, Alice counters heroes that lack burst and can't escape from melee enemies, such as Cecilion and Chang'e.",
+      "heroes": [
+        {
+          "id": 91,
+          "slug": "cecilion",
+          "name": "Cecilion"
+        },
+        {
+          "id": 61,
+          "slug": "chang-e",
+          "name": "Chang'e"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Alice is countered by heroes with Execute or Healing Reduction who can impede her from healing herself during the Ultimate. Heroes like Baxia or Martis can reduce her healing or kill her before she can heal.",
+      "heroes": [
+        {
+          "id": 87,
+          "slug": "baxia",
+          "name": "Baxia"
+        },
+        {
+          "id": 58,
+          "slug": "martis",
+          "name": "Martis"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Alice-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Alice-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c84ee7bcecb63115431b0a41e3a95e8b.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/66c9a33b830173a5fd93d9940429b491.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/alice.json",
+    "visual_catalog": "catalog/v1/visual/alice.json",
+    "upgrade_catalog": "catalog/v1/upgrade/alice.json"
+  }
+}

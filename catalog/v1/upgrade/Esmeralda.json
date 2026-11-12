@@ -1,0 +1,479 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Esmeralda",
+  "role": "Tank/Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Ruddy Dusk",
+      "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+      "script": "Esmeralda-Ruddy-Dusk-Backup.zip",
+      "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-Ruddy-Dusk-Poison-Vine.zip"
+        },
+        {
+          "name": "Lady Thief",
+          "Portrait_url": "Esmeralda-Lady-Thief.png",
+          "Splash_url": "Esmeralda-Lady-Thief.png",
+          "script": "Esmeralda-Ruddy-Dusk-Lady-Thief.zip"
+        },
+        {
+          "name": "Light Envoy",
+          "Portrait_url": "Esmeralda-Light-Envoy.png",
+          "Splash_url": "Esmeralda-Light-Envoy.png",
+          "script": "Esmeralda-Ruddy-Dusk-Light-Envoy.zip"
+        },
+        {
+          "name": "Stellar Muse",
+          "Portrait_url": "Esmeralda-Stellar-Muse.png",
+          "Splash_url": "Esmeralda - Stellar Muse.jpg",
+          "script": "Esmeralda-Ruddy-Dusk-Stellar-Muse.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-Ruddy-Dusk-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Poison Vine",
+      "Splash_url": "Esmeralda-Poison-Vine.png",
+      "script": "Esmeralda-Poison-Vine-Backup.zip",
+      "Portrait_url": "Esmeralda-Poison-Vine.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-Poison-Vine-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Lady Thief",
+          "Portrait_url": "Esmeralda-Lady-Thief.png",
+          "Splash_url": "Esmeralda-Lady-Thief.png",
+          "script": "Esmeralda-Poison-Vine-Lady-Thief.zip"
+        },
+        {
+          "name": "Cleopatra",
+          "Portrait_url": "Esmeralda-Cleopatra.png",
+          "Splash_url": "Esmeralda-Cleopatra.png",
+          "script": "Esmeralda-Poison-Vine-Cleopatra.zip"
+        },
+        {
+          "name": "The Foreseer",
+          "Portrait_url": "Esmeralda-The-Foreseer.png",
+          "Splash_url": "Esmeralda-The-Foreseer.png",
+          "script": "Esmeralda-Poison-Vine-The-Foreseer.zip"
+        },
+        {
+          "name": "Light Envoy",
+          "Portrait_url": "Esmeralda-Light-Envoy.png",
+          "Splash_url": "Esmeralda-Light-Envoy.png",
+          "script": "Esmeralda-Poison-Vine-Light-Envoy.zip"
+        },
+        {
+          "name": "Astral Muse",
+          "Portrait_url": "Esmeralda-Astral-Muse.png",
+          "Splash_url": "Esmeralda-Astral-Muse.png",
+          "script": "Esmeralda-Poison-Vine-Astral-Muse.zip"
+        },
+        {
+          "name": "Stellar Muse",
+          "Portrait_url": "Esmeralda-Stellar-Muse.png",
+          "Splash_url": "Esmeralda - Stellar Muse.jpg",
+          "script": "Esmeralda-Poison-Vine-Stellar-Muse.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-Poison-Vine-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Lady Thief",
+      "Splash_url": "Esmeralda-Lady-Thief.png",
+      "script": "Esmeralda-Lady-Thief-Backup.zip",
+      "Portrait_url": "Esmeralda-Lady-Thief.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-Lady-Thief-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-Lady-Thief-Poison-Vine.zip"
+        },
+        {
+          "name": "Cleopatra",
+          "Portrait_url": "Esmeralda-Cleopatra.png",
+          "Splash_url": "Esmeralda-Cleopatra.png",
+          "script": "Esmeralda-Lady-Thief-Cleopatra.zip"
+        },
+        {
+          "name": "The Foreseer",
+          "Portrait_url": "Esmeralda-The-Foreseer.png",
+          "Splash_url": "Esmeralda-The-Foreseer.png",
+          "script": "Esmeralda-Lady-Thief-The-Foreseer.zip"
+        },
+        {
+          "name": "Astral Muse",
+          "Portrait_url": "Esmeralda-Astral-Muse.png",
+          "Splash_url": "Esmeralda-Astral-Muse.png",
+          "script": "Esmeralda-Lady-Thief-Astral-Muse.zip"
+        },
+        {
+          "name": "Stellar Muse",
+          "Portrait_url": "Esmeralda-Stellar-Muse.png",
+          "Splash_url": "Esmeralda - Stellar Muse.jpg",
+          "script": "Esmeralda-Lady-Thief-Stellar-Muse.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-Lady-Thief-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Cleopatra",
+      "Splash_url": "Esmeralda-Cleopatra.png",
+      "script": "Esmeralda-Cleopatra-Backup.zip",
+      "Portrait_url": "Esmeralda-Cleopatra.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-Cleopatra-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-Cleopatra-Poison-Vine.zip"
+        },
+        {
+          "name": "Lady Thief",
+          "Portrait_url": "Esmeralda-Lady-Thief.png",
+          "Splash_url": "Esmeralda-Lady-Thief.png",
+          "script": "Esmeralda-Cleopatra-Lady-Thief.zip"
+        },
+        {
+          "name": "The Foreseer",
+          "Portrait_url": "Esmeralda-The-Foreseer.png",
+          "Splash_url": "Esmeralda-The-Foreseer.png",
+          "script": "Esmeralda-Cleopatra-The-Foreseer.zip"
+        },
+        {
+          "name": "Light Envoy",
+          "Portrait_url": "Esmeralda-Light-Envoy.png",
+          "Splash_url": "Esmeralda-Light-Envoy.png",
+          "script": "Esmeralda-Cleopatra-Light-Envoy.zip"
+        },
+        {
+          "name": "Stellar Muse",
+          "Portrait_url": "Esmeralda-Stellar-Muse.png",
+          "Splash_url": "Esmeralda - Stellar Muse.jpg",
+          "script": "Esmeralda-Cleopatra-Stellar-Muse.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-Cleopatra-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Blazing Bounties",
+      "Default_name": "Blazing Shadow",
+      "Splash_url": "Esmeralda-Blazing-Shadow.png",
+      "script": "Esmeralda-Blazing-Shadow-Backup.zip",
+      "Portrait_url": "Esmeralda-Blazing-Shadow.png",
+      "Tags": [
+        "Blazing Bounties.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-Blazing-Shadow-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-Blazing-Shadow-Poison-Vine.zip"
+        },
+        {
+          "name": "Lady Thief",
+          "Portrait_url": "Esmeralda-Lady-Thief.png",
+          "Splash_url": "Esmeralda-Lady-Thief.png",
+          "script": "Esmeralda-Blazing-Shadow-Lady-Thief.zip"
+        },
+        {
+          "name": "The Foreseer",
+          "Portrait_url": "Esmeralda-The-Foreseer.png",
+          "Splash_url": "Esmeralda-The-Foreseer.png",
+          "script": "Esmeralda-Blazing-Shadow-The-Foreseer.zip"
+        },
+        {
+          "name": "Light Envoy",
+          "Portrait_url": "Esmeralda-Light-Envoy.png",
+          "Splash_url": "Esmeralda-Light-Envoy.png",
+          "script": "Esmeralda-Blazing-Shadow-Light-Envoy.zip"
+        },
+        {
+          "name": "Astral Muse",
+          "Portrait_url": "Esmeralda-Astral-Muse.png",
+          "Splash_url": "Esmeralda-Astral-Muse.png",
+          "script": "Esmeralda-Blazing-Shadow-Astral-Muse.zip"
+        },
+        {
+          "name": "Stellar Muse",
+          "Portrait_url": "Esmeralda-Stellar-Muse.png",
+          "Splash_url": "Esmeralda - Stellar Muse.jpg",
+          "script": "Esmeralda-Blazing-Shadow-Stellar-Muse.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-Blazing-Shadow-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Dawning Stars",
+      "Default_name": "The Foreseer",
+      "Splash_url": "Esmeralda-The-Foreseer.png",
+      "script": "Esmeralda-The-Foreseer-Backup.zip",
+      "Portrait_url": "Esmeralda-The-Foreseer.png",
+      "Tags": [
+        "Dawning Stars.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-The-Foreseer-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-The-Foreseer-Poison-Vine.zip"
+        },
+        {
+          "name": "Lady Thief",
+          "Portrait_url": "Esmeralda-Lady-Thief.png",
+          "Splash_url": "Esmeralda-Lady-Thief.png",
+          "script": "Esmeralda-The-Foreseer-Lady-Thief.zip"
+        },
+        {
+          "name": "Light Envoy",
+          "Portrait_url": "Esmeralda-Light-Envoy.png",
+          "Splash_url": "Esmeralda-Light-Envoy.png",
+          "script": "Esmeralda-The-Foreseer-Light-Envoy.zip"
+        },
+        {
+          "name": "Stellar Muse",
+          "Portrait_url": "Esmeralda-Stellar-Muse.png",
+          "Splash_url": "Esmeralda - Stellar Muse.jpg",
+          "script": "Esmeralda-The-Foreseer-Stellar-Muse.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-The-Foreseer-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Light Envoy",
+      "Splash_url": "Esmeralda-Light-Envoy.png",
+      "script": "Esmeralda-Light-Envoy-Backup.zip",
+      "Portrait_url": "Esmeralda-Light-Envoy.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-Light-Envoy-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-Light-Envoy-Poison-Vine.zip"
+        },
+        {
+          "name": "Lady Thief",
+          "Portrait_url": "Esmeralda-Lady-Thief.png",
+          "Splash_url": "Esmeralda-Lady-Thief.png",
+          "script": "Esmeralda-Light-Envoy-Lady-Thief.zip"
+        },
+        {
+          "name": "Cleopatra",
+          "Portrait_url": "Esmeralda-Cleopatra.png",
+          "Splash_url": "Esmeralda-Cleopatra.png",
+          "script": "Esmeralda-Light-Envoy-Cleopatra.zip"
+        },
+        {
+          "name": "The Foreseer",
+          "Portrait_url": "Esmeralda-The-Foreseer.png",
+          "Splash_url": "Esmeralda-The-Foreseer.png",
+          "script": "Esmeralda-Light-Envoy-The-Foreseer.zip"
+        },
+        {
+          "name": "Astral Muse",
+          "Portrait_url": "Esmeralda-Astral-Muse.png",
+          "Splash_url": "Esmeralda-Astral-Muse.png",
+          "script": "Esmeralda-Light-Envoy-Astral-Muse.zip"
+        },
+        {
+          "name": "Stellar Muse",
+          "Portrait_url": "Esmeralda-Stellar-Muse.png",
+          "Splash_url": "Esmeralda - Stellar Muse.jpg",
+          "script": "Esmeralda-Light-Envoy-Stellar-Muse.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-Light-Envoy-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "AS 2024",
+      "Default_name": "Astral Muse",
+      "Splash_url": "Esmeralda-Astral-Muse.png",
+      "script": "Esmeralda-Astral-Muse-Backup.zip",
+      "Portrait_url": "Esmeralda-Astral-Muse.png",
+      "Tags": [
+        "ALLSTAR 2024.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-Astral-Muse-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-Astral-Muse-Poison-Vine.zip"
+        },
+        {
+          "name": "Cleopatra",
+          "Portrait_url": "Esmeralda-Cleopatra.png",
+          "Splash_url": "Esmeralda-Cleopatra.png",
+          "script": "Esmeralda-Astral-Muse-Cleopatra.zip"
+        },
+        {
+          "name": "The Foreseer",
+          "Portrait_url": "Esmeralda-The-Foreseer.png",
+          "Splash_url": "Esmeralda-The-Foreseer.png",
+          "script": "Esmeralda-Astral-Muse-The-Foreseer.zip"
+        },
+        {
+          "name": "Light Envoy",
+          "Portrait_url": "Esmeralda-Light-Envoy.png",
+          "Splash_url": "Esmeralda-Light-Envoy.png",
+          "script": "Esmeralda-Astral-Muse-Light-Envoy.zip"
+        },
+        {
+          "name": "Scene Stealer",
+          "Portrait_url": "Esmeralda-Scene-Stealer.png",
+          "Splash_url": "Esmeralda - Scene Stealer.jpg",
+          "script": "Esmeralda-Astral-Muse-Scene-Stealer.zip"
+        }
+      ]
+    },
+    {
+      "name": "Painted",
+      "Default_name": "Scene Stealer",
+      "Splash_url": "Esmeralda-Scene-Stealer.png",
+      "script": "Esmeralda-Scene-Stealer-Backup.zip",
+      "Portrait_url": "Esmeralda-Scene-Stealer.png",
+      "Tags": [
+        "Painted.png"
+      ],
+      "targets": [
+        {
+          "name": "Ruddy Dusk",
+          "Portrait_url": "Esmeralda-Ruddy-Dusk.png",
+          "Splash_url": "Esmeralda-Ruddy-Dusk.png",
+          "script": "Esmeralda-Scene-Stealer-Ruddy-Dusk.zip"
+        },
+        {
+          "name": "Poison Vine",
+          "Portrait_url": "Esmeralda-Poison-Vine.png",
+          "Splash_url": "Esmeralda-Poison-Vine.png",
+          "script": "Esmeralda-Scene-Stealer-Poison-Vine.zip"
+        },
+        {
+          "name": "Cleopatra",
+          "Portrait_url": "Esmeralda-Cleopatra.png",
+          "Splash_url": "Esmeralda-Cleopatra.png",
+          "script": "Esmeralda-Scene-Stealer-Cleopatra.zip"
+        },
+        {
+          "name": "The Foreseer",
+          "Portrait_url": "Esmeralda-The-Foreseer.png",
+          "Splash_url": "Esmeralda-The-Foreseer.png",
+          "script": "Esmeralda-Scene-Stealer-The-Foreseer.zip"
+        },
+        {
+          "name": "Light Envoy",
+          "Portrait_url": "Esmeralda-Light-Envoy.png",
+          "Splash_url": "Esmeralda-Light-Envoy.png",
+          "script": "Esmeralda-Scene-Stealer-Light-Envoy.zip"
+        },
+        {
+          "name": "Astral Muse",
+          "Portrait_url": "Esmeralda-Astral-Muse.png",
+          "Splash_url": "Esmeralda-Astral-Muse.png",
+          "script": "Esmeralda-Scene-Stealer-Astral-Muse.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "claude-backup",
+      "portrait_file": "Claude-Default.png",
+      "script_file": "Claude-Backup.zip",
+      "skin_name": "Master Thief",
+      "splash_file": "Claude-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "claude-golden-bullet",
+      "portrait_file": "Claude-Golden-Bullet.png",
+      "script_file": "Claude-Golden-Bullet.zip",
+      "skin_name": "Golden Bullet",
+      "splash_file": "Claude-Golden-Bullet.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "claude-plunderous-pirate",
+      "portrait_file": "Claude-Plunderous-Pirate.png",
+      "script_file": "Claude-Plunderous-Pirate.zip",
+      "skin_name": "Plunderous Pirate",
+      "splash_file": "Claude-Plunderous-Pirate.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "claude-mecha-dragon",
+      "portrait_file": "Claude-Mecha-Dragon.png",
+      "script_file": "Claude-Mecha-Dragon.zip",
+      "skin_name": "Mecha Dragon",
+      "splash_file": "Claude-Mecha-Dragon.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "claude-summer-chill",
+      "portrait_file": "Claude-Summer-Chill.png",
+      "script_file": "Claude-Summer-Chill.zip",
+      "skin_name": "Summer Chill",
+      "splash_file": "Claude-Summer-Chill.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "claude-christmas-carnival",
+      "portrait_file": "Claude-Christmas-Carnival.png",
+      "script_file": "Claude-Christmas-Carnival.zip",
+      "skin_name": "Christmas Carnival",
+      "splash_file": "Claude-Christmas-Carnival.png",
+      "tag_id": "christmas",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "claude-earth-s-mightiest",
+      "portrait_file": "Claude-Earth-s-Mightiest.png",
+      "script_file": "Claude-Earth-s-Mightiest.zip",
+      "skin_name": "Earth's Mightiest",
+      "splash_file": "Claude-Earth-s-Mightiest.png",
+      "tag_id": "msc-2021",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "claude-blazing-trace",
+      "portrait_file": "Claude-Blazing-Trace.png",
+      "script_file": "Claude-Blazing-Trace.zip",
+      "skin_name": "Blazing Trace",
+      "splash_file": "Claude-Blazing-Trace.png",
+      "tag_id": "blazing-bounties",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "claude-bad-bro",
+      "portrait_file": "Claude-Bad-Bro.png",
+      "script_file": "Claude-Bad-Bro.zip",
+      "skin_name": "Bad Bro",
+      "splash_file": "Claude-Bad-Bro.png",
+      "tag_id": "sanrio-characters",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "claude-heart-aflame",
+      "portrait_file": "Claude-Heart-Aflame.png",
+      "script_file": "Claude-Heart-Aflame.zip",
+      "skin_name": "Heart Aflame",
+      "splash_file": "Claude-Heart-Aflame.png",
+      "tag_id": "valentine",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "claude-challenger-s-spark",
+      "portrait_file": "Claude-Challenger-s-Spark.png",
+      "script_file": "Claude-Challenger-s-Spark.zip",
+      "skin_name": "Challenger's Spark",
+      "splash_file": "Claude-Challenger-s-Spark.png",
+      "tag_id": "m6",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "claude-cosmic-blaze",
+      "portrait_file": "Claude-Cosmic-Blaze.png",
+      "script_file": "Claude-Cosmic-Blaze.zip",
+      "skin_name": "Cosmic Blaze",
+      "splash_file": "Claude-Cosmic-Blaze.png",
+      "tag_id": "prime",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "claude-msc-mightiest-painted-01",
+      "portrait_file": "Claude-MSC-Mightiest.png",
+      "script_file": "Claude-MSC-Mightiest.zip",
+      "skin_name": "MSC Mightiest",
+      "splash_file": "Claude-MSC-Mightiest.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "claude-challenger-s-flare-painted-01",
+      "portrait_file": "Claude-Challenger-s-Flare.png",
+      "script_file": "Claude-Challenger-s-Flare.zip",
+      "skin_name": "Challenger's Flare",
+      "splash_file": "Claude - Challenger's Flare.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "claude-chill-summer-painted-01",
+      "portrait_file": "Claude-Chill-Summer.png",
+      "script_file": "Claude-Chill-Summer.zip",
+      "skin_name": "Chill Summer",
+      "splash_file": "Claude-Chill-Summer.png",
+      "tag_id": "painted",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 65,
+    "name": "Claude",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "claude"
+  },
+  "release_tag": "visual-claude",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

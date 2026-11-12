@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "moskov-chibi",
+      "portrait_file": "Moskov - Chibi.png",
+      "script_file": "Moskov-Chibi.zip",
+      "skin_name": "Chibi",
+      "splash_file": "Moskov - Chibi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "moskov-gojo-satoru",
+      "portrait_file": "Moskov - Gojo Satoru.png",
+      "script_file": "Moskov-Gojo-Satoru.zip",
+      "skin_name": "Gojo Satoru",
+      "splash_file": "Moskov - Gojo Satoru.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 31,
+    "name": "Moskov",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "moskov"
+  },
+  "release_tag": "custom-moskov",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

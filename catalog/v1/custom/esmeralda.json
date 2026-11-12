@@ -1,0 +1,28 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "esmeralda-tsunade",
+      "portrait_file": "Esmeralda - Tsunade.png",
+      "script_file": "Esmeralda-Tsunade.zip",
+      "skin_name": "Tsunade",
+      "splash_file": "Esmeralda - Tsunade.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 81,
+    "name": "Esmeralda",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "slug": "esmeralda"
+  },
+  "release_tag": "custom-esmeralda",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

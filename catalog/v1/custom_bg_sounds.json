@@ -1,0 +1,70 @@
+{
+  "title": "Lobby Sounds",
+  "catalog_version": "2026.09.11.1",
+  "schema_version": 1,
+  "data": [
+    {
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "img_url": "CustomBGSounds/BIRDS OF A FEATHER.jpeg",
+      "download_url": "CustomBGSounds/BIRDS OF A FEATHER.zip",
+      "preview_url": "CustomBGSounds/BIRDS OF A FEATHER preview.mp3"
+    },
+    {
+      "title": "Impostor Syndrome",
+      "artist": "Sidney Gish",
+      "img_url": "CustomBGSounds/Impostor Syndrome.jpeg",
+      "download_url": "CustomBGSounds/Impostor Syndrome.zip",
+      "preview_url": "CustomBGSounds/Impostor Syndrome preview.mp3"
+    },
+    {
+      "title": "RASTUNNA",
+      "artist": "GHR",
+      "img_url": "CustomBGSounds/RASTUNNA.jpeg",
+      "download_url": "CustomBGSounds/RASTUNNA.zip",
+      "preview_url": "CustomBGSounds/RASTUNNA preview.mp3"
+    },
+    {
+      "title": "Raindance x One Dance",
+      "artist": "Treyvik",
+      "img_url": "CustomBGSounds/Raindance x One Dance.jpeg",
+      "download_url": "CustomBGSounds/Raindance x One Dance.zip",
+      "preview_url": "CustomBGSounds/Raindance x One Dance preview.mp3"
+    },
+    {
+      "title": "Smoke",
+      "artist": "Nopetsallowed",
+      "img_url": "CustomBGSounds/Smoke.jpeg",
+      "download_url": "CustomBGSounds/Smoke.zip",
+      "preview_url": "CustomBGSounds/Smoke preview.mp3"
+    },
+    {
+      "title": "Tamaraw",
+      "artist": "Uncle Dags",
+      "img_url": "CustomBGSounds/Tamaraw.jpeg",
+      "download_url": "CustomBGSounds/Tamaraw.zip",
+      "preview_url": "CustomBGSounds/Tamaraw preview.mp3"
+    },
+    {
+      "title": "Viva La Raza",
+      "artist": "Uncle Dags",
+      "img_url": "CustomBGSounds/Viva La Raza.jpeg",
+      "download_url": "CustomBGSounds/Viva La Raza.zip",
+      "preview_url": "CustomBGSounds/Viva La Raza preview.mp3"
+    },
+    {
+      "title": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "img_url": "CustomBGSounds/WILDFLOWER.jpeg",
+      "download_url": "CustomBGSounds/WILDFLOWER.zip",
+      "preview_url": "CustomBGSounds/WILDFLOWER preview.mp3"
+    },
+    {
+      "title": "You",
+      "artist": "Lloyd",
+      "img_url": "CustomBGSounds/You.jpeg",
+      "download_url": "CustomBGSounds/You.zip",
+      "preview_url": "CustomBGSounds/You preview.mp3"
+    }
+  ]
+}

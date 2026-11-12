@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "hanzo-exorcist",
+      "portrait_file": "Hanzo - Exorcist.png",
+      "script_file": "Hanzo-Exorcist.zip",
+      "skin_name": "Exorcist",
+      "splash_file": "Hanzo - Exorcist.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "hanzo-sarama",
+      "portrait_file": "Hanzo - Sarama.png",
+      "script_file": "Hanzo-Sarama.zip",
+      "skin_name": "Sarama",
+      "splash_file": "Hanzo - Sarama.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 69,
+    "name": "Hanzo",
+    "roles": [
+      "Assassin"
+    ],
+    "slug": "hanzo"
+  },
+  "release_tag": "custom-hanzo",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

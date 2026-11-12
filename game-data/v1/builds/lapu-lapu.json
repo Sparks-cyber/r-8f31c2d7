@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 37,
+    "slug": "lapu-lapu",
+    "name": "Lapu-Lapu"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "lapu-lapu-community-6122",
+      "name": "Community Build 6122",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "waraxe",
+        "seahalberd",
+        "maleficroar",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Damage and damage and left right goodnight",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6122,
+      "source_created_at": "2026-02-28T07:40:54.000Z",
+      "likes": 12,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lapu-lapu-community-5500",
+      "name": "Community Build 5500",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "toughboots",
+        "waraxe",
+        "dominanceice",
+        "bruteforcebreastplate",
+        "oracle",
+        "queenswings"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Build ini untuk sustain dalam war panjang, mengandalkan skill player dalam memaksimalkan pasif dari lapu lapu",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5500,
+      "source_created_at": "2026-02-06T12:16:55.000Z",
+      "likes": 7,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "lapu-lapu-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

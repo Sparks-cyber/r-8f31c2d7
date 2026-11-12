@@ -1,0 +1,581 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Odette",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Black Swan",
+      "Splash_url": "Odette-Black-Swan.png",
+      "script": "Odette-Black-Swan-Backup.zip",
+      "Portrait_url": "Odette-Black-Swan.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Mermaid Princess",
+          "Portrait_url": "Odette-Mermaid-Princess.png",
+          "Splash_url": "Odette-Mermaid-Princess.png",
+          "script": "Odette-Black-Swan-Mermaid-Princess.zip"
+        },
+        {
+          "name": "Butterfly Goddess",
+          "Portrait_url": "Odette-Butterfly-Goddess.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Black-Swan-Butterfly-Goddess.zip"
+        },
+        {
+          "name": "Virgo",
+          "Portrait_url": "Odette-Virgo.png",
+          "Splash_url": "Odette-Virgo.png",
+          "script": "Odette-Black-Swan-Virgo.zip"
+        },
+        {
+          "name": "Auspicious Charm",
+          "Portrait_url": "Odette-Auspicious-Charm.png",
+          "Splash_url": "Odette-Auspicious-Charm.png",
+          "script": "Odette-Black-Swan-Auspicious-Charm.zip"
+        },
+        {
+          "name": "Sage of the Currents",
+          "Portrait_url": "Odette-Sage-of-the-Currents.png",
+          "Splash_url": "Odette-Sage-of-the-Currents.png",
+          "script": "Odette-Black-Swan-Sage-of-the-Currents.zip"
+        },
+        {
+          "name": "Wisdom of the Stars",
+          "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+          "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+          "script": "Odette-Black-Swan-Wisdom-of-the-Stars.zip"
+        },
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Black-Swan-Butterfly-Faerie-Painted-01.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Black-Swan-Wisdom-of-Hearts.zip"
+        },
+        {
+          "name": "Wisdom of Devotion",
+          "Portrait_url": "Odette-Wisdom-of-Devotion.png",
+          "Splash_url": "Odette - Wisdom of Devotion.jpg",
+          "script": "Odette-Black-Swan-Wisdom-of-Devotion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Odette-Christmas-Carnival.png",
+      "script": "Odette-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Odette-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Black Swan",
+          "Portrait_url": "Odette-Black-Swan.png",
+          "Splash_url": "Odette-Black-Swan.png",
+          "script": "Odette-Christmas-Carnival-Black-Swan.zip"
+        },
+        {
+          "name": "Mermaid Princess",
+          "Portrait_url": "Odette-Mermaid-Princess.png",
+          "Splash_url": "Odette-Mermaid-Princess.png",
+          "script": "Odette-Christmas-Carnival-Mermaid-Princess.zip"
+        },
+        {
+          "name": "Butterfly Goddess",
+          "Portrait_url": "Odette-Butterfly-Goddess.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Christmas-Carnival-Butterfly-Goddess.zip"
+        },
+        {
+          "name": "Virgo",
+          "Portrait_url": "Odette-Virgo.png",
+          "Splash_url": "Odette-Virgo.png",
+          "script": "Odette-Christmas-Carnival-Virgo.zip"
+        },
+        {
+          "name": "Auspicious Charm",
+          "Portrait_url": "Odette-Auspicious-Charm.png",
+          "Splash_url": "Odette-Auspicious-Charm.png",
+          "script": "Odette-Christmas-Carnival-Auspicious-Charm.zip"
+        },
+        {
+          "name": "Sage of the Currents",
+          "Portrait_url": "Odette-Sage-of-the-Currents.png",
+          "Splash_url": "Odette-Sage-of-the-Currents.png",
+          "script": "Odette-Christmas-Carnival-Sage-of-the-Currents.zip"
+        },
+        {
+          "name": "Wisdom of the Stars",
+          "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+          "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+          "script": "Odette-Christmas-Carnival-Wisdom-of-the-Stars.zip"
+        },
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Christmas-Carnival-Butterfly-Faerie-Painted-01.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Christmas-Carnival-Wisdom-of-Hearts.zip"
+        },
+        {
+          "name": "Wisdom of Devotion",
+          "Portrait_url": "Odette-Wisdom-of-Devotion.png",
+          "Splash_url": "Odette - Wisdom of Devotion.jpg",
+          "script": "Odette-Christmas-Carnival-Wisdom-of-Devotion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Mermaid Princess",
+      "Splash_url": "Odette-Mermaid-Princess.png",
+      "script": "Odette-Mermaid-Princess-Backup.zip",
+      "Portrait_url": "Odette-Mermaid-Princess.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Black Swan",
+          "Portrait_url": "Odette-Black-Swan.png",
+          "Splash_url": "Odette-Black-Swan.png",
+          "script": "Odette-Mermaid-Princess-Black-Swan.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Odette-Christmas-Carnival.png",
+          "Splash_url": "Odette-Christmas-Carnival.png",
+          "script": "Odette-Mermaid-Princess-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Butterfly Goddess",
+          "Portrait_url": "Odette-Butterfly-Goddess.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Mermaid-Princess-Butterfly-Goddess.zip"
+        },
+        {
+          "name": "Virgo",
+          "Portrait_url": "Odette-Virgo.png",
+          "Splash_url": "Odette-Virgo.png",
+          "script": "Odette-Mermaid-Princess-Virgo.zip"
+        },
+        {
+          "name": "Auspicious Charm",
+          "Portrait_url": "Odette-Auspicious-Charm.png",
+          "Splash_url": "Odette-Auspicious-Charm.png",
+          "script": "Odette-Mermaid-Princess-Auspicious-Charm.zip"
+        },
+        {
+          "name": "Sage of the Currents",
+          "Portrait_url": "Odette-Sage-of-the-Currents.png",
+          "Splash_url": "Odette-Sage-of-the-Currents.png",
+          "script": "Odette-Mermaid-Princess-Sage-of-the-Currents.zip"
+        },
+        {
+          "name": "Wisdom of the Stars",
+          "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+          "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+          "script": "Odette-Mermaid-Princess-Wisdom-of-the-Stars.zip"
+        },
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Mermaid-Princess-Butterfly-Faerie-Painted-01.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Mermaid-Princess-Wisdom-of-Hearts.zip"
+        },
+        {
+          "name": "Wisdom of Devotion",
+          "Portrait_url": "Odette-Wisdom-of-Devotion.png",
+          "Splash_url": "Odette - Wisdom of Devotion.jpg",
+          "script": "Odette-Mermaid-Princess-Wisdom-of-Devotion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Butterfly Goddess",
+      "Splash_url": "Odette-Butterfly-Goddess.png",
+      "script": "Odette-Butterfly-Goddess-Backup.zip",
+      "Portrait_url": "Odette-Butterfly-Goddess.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Black Swan",
+          "Portrait_url": "Odette-Black-Swan.png",
+          "Splash_url": "Odette-Black-Swan.png",
+          "script": "Odette-Butterfly-Goddess-Black-Swan.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Odette-Christmas-Carnival.png",
+          "Splash_url": "Odette-Christmas-Carnival.png",
+          "script": "Odette-Butterfly-Goddess-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Mermaid Princess",
+          "Portrait_url": "Odette-Mermaid-Princess.png",
+          "Splash_url": "Odette-Mermaid-Princess.png",
+          "script": "Odette-Butterfly-Goddess-Mermaid-Princess.zip"
+        },
+        {
+          "name": "Virgo",
+          "Portrait_url": "Odette-Virgo.png",
+          "Splash_url": "Odette-Virgo.png",
+          "script": "Odette-Butterfly-Goddess-Virgo.zip"
+        },
+        {
+          "name": "Auspicious Charm",
+          "Portrait_url": "Odette-Auspicious-Charm.png",
+          "Splash_url": "Odette-Auspicious-Charm.png",
+          "script": "Odette-Butterfly-Goddess-Auspicious-Charm.zip"
+        },
+        {
+          "name": "Sage of the Currents",
+          "Portrait_url": "Odette-Sage-of-the-Currents.png",
+          "Splash_url": "Odette-Sage-of-the-Currents.png",
+          "script": "Odette-Butterfly-Goddess-Sage-of-the-Currents.zip"
+        },
+        {
+          "name": "Wisdom of the Stars",
+          "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+          "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+          "script": "Odette-Butterfly-Goddess-Wisdom-of-the-Stars.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Butterfly-Goddess-Wisdom-of-Hearts.zip"
+        },
+        {
+          "name": "Wisdom of Devotion",
+          "Portrait_url": "Odette-Wisdom-of-Devotion.png",
+          "Splash_url": "Odette - Wisdom of Devotion.jpg",
+          "script": "Odette-Butterfly-Goddess-Wisdom-of-Devotion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Virgo",
+      "Splash_url": "Odette-Virgo.png",
+      "script": "Odette-Virgo-Backup.zip",
+      "Portrait_url": "Odette-Virgo.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Black Swan",
+          "Portrait_url": "Odette-Black-Swan.png",
+          "Splash_url": "Odette-Black-Swan.png",
+          "script": "Odette-Virgo-Black-Swan.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Odette-Christmas-Carnival.png",
+          "Splash_url": "Odette-Christmas-Carnival.png",
+          "script": "Odette-Virgo-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Mermaid Princess",
+          "Portrait_url": "Odette-Mermaid-Princess.png",
+          "Splash_url": "Odette-Mermaid-Princess.png",
+          "script": "Odette-Virgo-Mermaid-Princess.zip"
+        },
+        {
+          "name": "Butterfly Goddess",
+          "Portrait_url": "Odette-Butterfly-Goddess.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Virgo-Butterfly-Goddess.zip"
+        },
+        {
+          "name": "Auspicious Charm",
+          "Portrait_url": "Odette-Auspicious-Charm.png",
+          "Splash_url": "Odette-Auspicious-Charm.png",
+          "script": "Odette-Virgo-Auspicious-Charm.zip"
+        },
+        {
+          "name": "Sage of the Currents",
+          "Portrait_url": "Odette-Sage-of-the-Currents.png",
+          "Splash_url": "Odette-Sage-of-the-Currents.png",
+          "script": "Odette-Virgo-Sage-of-the-Currents.zip"
+        },
+        {
+          "name": "Wisdom of the Stars",
+          "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+          "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+          "script": "Odette-Virgo-Wisdom-of-the-Stars.zip"
+        },
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Virgo-Butterfly-Faerie-Painted-01.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Virgo-Wisdom-of-Hearts.zip"
+        },
+        {
+          "name": "Wisdom of Devotion",
+          "Portrait_url": "Odette-Wisdom-of-Devotion.png",
+          "Splash_url": "Odette - Wisdom of Devotion.jpg",
+          "script": "Odette-Virgo-Wisdom-of-Devotion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lunar Festival",
+      "Default_name": "Auspicious Charm",
+      "Splash_url": "Odette-Auspicious-Charm.png",
+      "script": "Odette-Auspicious-Charm-Backup.zip",
+      "Portrait_url": "Odette-Auspicious-Charm.png",
+      "Tags": [
+        "Lunar Fest.png"
+      ],
+      "targets": [
+        {
+          "name": "Black Swan",
+          "Portrait_url": "Odette-Black-Swan.png",
+          "Splash_url": "Odette-Black-Swan.png",
+          "script": "Odette-Auspicious-Charm-Black-Swan.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Odette-Christmas-Carnival.png",
+          "Splash_url": "Odette-Christmas-Carnival.png",
+          "script": "Odette-Auspicious-Charm-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Mermaid Princess",
+          "Portrait_url": "Odette-Mermaid-Princess.png",
+          "Splash_url": "Odette-Mermaid-Princess.png",
+          "script": "Odette-Auspicious-Charm-Mermaid-Princess.zip"
+        },
+        {
+          "name": "Butterfly Goddess",
+          "Portrait_url": "Odette-Butterfly-Goddess.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Auspicious-Charm-Butterfly-Goddess.zip"
+        },
+        {
+          "name": "Virgo",
+          "Portrait_url": "Odette-Virgo.png",
+          "Splash_url": "Odette-Virgo.png",
+          "script": "Odette-Auspicious-Charm-Virgo.zip"
+        },
+        {
+          "name": "Sage of the Currents",
+          "Portrait_url": "Odette-Sage-of-the-Currents.png",
+          "Splash_url": "Odette-Sage-of-the-Currents.png",
+          "script": "Odette-Auspicious-Charm-Sage-of-the-Currents.zip"
+        },
+        {
+          "name": "Wisdom of the Stars",
+          "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+          "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+          "script": "Odette-Auspicious-Charm-Wisdom-of-the-Stars.zip"
+        },
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Auspicious-Charm-Butterfly-Faerie-Painted-01.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Auspicious-Charm-Wisdom-of-Hearts.zip"
+        }
+      ]
+    },
+    {
+      "name": "Create",
+      "Default_name": "Sage of the Currents",
+      "Splash_url": "Odette-Sage-of-the-Currents.png",
+      "script": "Odette-Sage-of-the-Currents-Backup.zip",
+      "Portrait_url": "Odette-Sage-of-the-Currents.png",
+      "Tags": [
+        "Create.png"
+      ],
+      "targets": [
+        {
+          "name": "Black Swan",
+          "Portrait_url": "Odette-Black-Swan.png",
+          "Splash_url": "Odette-Black-Swan.png",
+          "script": "Odette-Sage-of-the-Currents-Black-Swan.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Odette-Christmas-Carnival.png",
+          "Splash_url": "Odette-Christmas-Carnival.png",
+          "script": "Odette-Sage-of-the-Currents-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Mermaid Princess",
+          "Portrait_url": "Odette-Mermaid-Princess.png",
+          "Splash_url": "Odette-Mermaid-Princess.png",
+          "script": "Odette-Sage-of-the-Currents-Mermaid-Princess.zip"
+        },
+        {
+          "name": "Butterfly Goddess",
+          "Portrait_url": "Odette-Butterfly-Goddess.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Sage-of-the-Currents-Butterfly-Goddess.zip"
+        },
+        {
+          "name": "Virgo",
+          "Portrait_url": "Odette-Virgo.png",
+          "Splash_url": "Odette-Virgo.png",
+          "script": "Odette-Sage-of-the-Currents-Virgo.zip"
+        },
+        {
+          "name": "Auspicious Charm",
+          "Portrait_url": "Odette-Auspicious-Charm.png",
+          "Splash_url": "Odette-Auspicious-Charm.png",
+          "script": "Odette-Sage-of-the-Currents-Auspicious-Charm.zip"
+        },
+        {
+          "name": "Wisdom of the Stars",
+          "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+          "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+          "script": "Odette-Sage-of-the-Currents-Wisdom-of-the-Stars.zip"
+        },
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Sage-of-the-Currents-Butterfly-Faerie-Painted-01.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Sage-of-the-Currents-Wisdom-of-Hearts.zip"
+        },
+        {
+          "name": "Wisdom of Devotion",
+          "Portrait_url": "Odette-Wisdom-of-Devotion.png",
+          "Splash_url": "Odette - Wisdom of Devotion.jpg",
+          "script": "Odette-Sage-of-the-Currents-Wisdom-of-Devotion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Wisdom of the Stars",
+      "Splash_url": "Odette-Wisdom-of-the-Stars.png",
+      "script": "Odette-Wisdom-of-the-Stars-Backup.zip",
+      "Portrait_url": "Odette-Wisdom-of-the-Stars.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Black Swan",
+          "Portrait_url": "Odette-Black-Swan.png",
+          "Splash_url": "Odette-Black-Swan.png",
+          "script": "Odette-Wisdom-of-the-Stars-Black-Swan.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Odette-Christmas-Carnival.png",
+          "Splash_url": "Odette-Christmas-Carnival.png",
+          "script": "Odette-Wisdom-of-the-Stars-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Mermaid Princess",
+          "Portrait_url": "Odette-Mermaid-Princess.png",
+          "Splash_url": "Odette-Mermaid-Princess.png",
+          "script": "Odette-Wisdom-of-the-Stars-Mermaid-Princess.zip"
+        },
+        {
+          "name": "Butterfly Goddess",
+          "Portrait_url": "Odette-Butterfly-Goddess.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Wisdom-of-the-Stars-Butterfly-Goddess.zip"
+        },
+        {
+          "name": "Virgo",
+          "Portrait_url": "Odette-Virgo.png",
+          "Splash_url": "Odette-Virgo.png",
+          "script": "Odette-Wisdom-of-the-Stars-Virgo.zip"
+        },
+        {
+          "name": "Auspicious Charm",
+          "Portrait_url": "Odette-Auspicious-Charm.png",
+          "Splash_url": "Odette-Auspicious-Charm.png",
+          "script": "Odette-Wisdom-of-the-Stars-Auspicious-Charm.zip"
+        },
+        {
+          "name": "Sage of the Currents",
+          "Portrait_url": "Odette-Sage-of-the-Currents.png",
+          "Splash_url": "Odette-Sage-of-the-Currents.png",
+          "script": "Odette-Wisdom-of-the-Stars-Sage-of-the-Currents.zip"
+        },
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Wisdom-of-the-Stars-Butterfly-Faerie-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Butterfly Faerie Skin 09",
+      "Splash_url": "Odette-Butterfly-Faerie.png",
+      "script": "Odette-Butterfly-Faerie-Skin-09-Backup.zip",
+      "Portrait_url": "Odette-Butterfly-Faerie.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Butterfly Faerie Painted 01",
+          "Portrait_url": "Odette-Butterfly-Faerie.png",
+          "Splash_url": "Odette-Butterfly-Goddess.png",
+          "script": "Odette-Butterfly-Faerie-Skin-09-Butterfly-Faerie-Painted-01.zip"
+        },
+        {
+          "name": "Wisdom of Hearts",
+          "Portrait_url": "Odette-Wisdom-of-Hearts.png",
+          "Splash_url": "Odette-Wisdom-of-Hearts.png",
+          "script": "Odette-Butterfly-Faerie-Skin-09-Wisdom-of-Hearts.zip"
+        },
+        {
+          "name": "Wisdom of Devotion",
+          "Portrait_url": "Odette-Wisdom-of-Devotion.png",
+          "Splash_url": "Odette - Wisdom of Devotion.jpg",
+          "script": "Odette-Butterfly-Faerie-Skin-09-Wisdom-of-Devotion.zip"
+        }
+      ]
+    }
+  ]
+}

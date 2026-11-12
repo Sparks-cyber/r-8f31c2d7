@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 98,
+    "slug": "khaleed",
+    "name": "Khaleed",
+    "skin_name": "Desert Scimitar",
+    "roles": [
+      "Fighter"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Damage",
+      "Regen"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "7 August 2020",
+    "resource": "Rage",
+    "short_description": "A sand-walking intrepid Clan leader.",
+    "brief": "There was an ancient tribe that lived on the desert-like Agelta Drylands. They built villages along the Emerald Road and were able to pass down their civilization and legacy.",
+    "story": "There was an ancient tribe that lived on the desert-like Agelta Drylands. They built villages along the Emerald Road and were able to pass down their civilization and legacy.\r\n\r\nAs the prince of Artha Clan, Khaleed loved adventures. He longed to experience the once glorious culture of the Emerald Road, dreaming that he could one day visit the vast Agelta Drylands and witness its prosperity. Ever since he was young, Khaleed would often take his squires with him on an adventure along the Emerald Road.\r\n\r\nDuring their adventure, Khaleed met prince Moskov of the Wildsand Clan. The two equally brave young men shared the same passion for adventures, and quickly bonded with each other and developed a strong friendship. Together, they explored the entire Agelta Drylands.\r\n\r\nHowever, the adventure of Khaleed and Moskov was a short one. It was not before long that a disaster befell their Clans. The savage Thornwolf Clan started a war and planned to conquer all Agelta Drylands like Tyrant Khufra once did. Faced with merciless enemies, Khaleed and Moskov decided to lead their people and fight against the invaders.\r\n\r\nDuring the war, Khaleed showed a strong leadership and a great charisma. Every Clan recognized his capability and followed his lead. As time went by, the ambitious Moskov lost his spotlight and slowly became resentful. However, Khaleed did not notice his friend's feelings.\r\n\r\nKhaleed and Moskov led the alliance of Clans and drove back their enemies. But it was at the moment when they were about to take control of this war, an accident happened. To turn the tide against their foe, the retreating Thornwolf Clan decided they would go to Ruins of Tivacan and break the seal of Khufra. They awakened the dormant Tyrant.\r\n\r\nWhen Khufra came back to life, sandstorms raged across all Agelta. And then, the abhorrent sand monsters followed.\r\n\r\nFaced with Khufra and the sand monsters, Khaleed was decisive. He ordered his allies to pull back and prepare for future conflicts. But the resentful Moskov took Khaleed's decision as an act that lacked courage and responsibility. He challenged Khaleed in front of the crowd and blamed him for his cowardice. He asked the Clans to follow him and put an end to Khufra's terror.\r\n\r\nHowever, the leader of each Clan would only listen to Khaleed. No one answered Moskov's call. The humiliated Moskov grew even more resentful. Khaleed tried to stop him, but Moskov wouldn't listen. He led his people into the desert, eager to prove his capability on the battlefield.\r\n\r\nHowever, Moskov and his people were quickly surrounded and cornered by the formidable Khufra and the sand monsters. It was a massacre. Khaleed was faced with a dilemma. He had to choose. The friend who he had fought with for many years, or the life and future of all Clans?\r\n\r\nBut he couldn't have it both ways. Khaleed was left with no choice. After a careful consideration, he decided to retreat with the alliance of Clans. After they reached a safe place, Khaleed took up his scimitar and went back to rescue Moskov alone.\r\n\r\nBut he was too late. The Wildsand Clan was annihilated. Bodies scattered on the ground and Moskov was missing. Khaleed only managed to find his spear.\r\n\r\nFollowed by the Khufra's resurrection, the Land of Dawn's western part fell into chaos once again. Most lands were devoured by quicksand, and the evil sand monsters plagued this once peaceful ancient place. Now carrying the guilt of leaving Moskov behind, the determination of vengeance, and the expectation of his people, Khaleed led his warriors to numerous battles in the next few years. They struggled against Khufra and the army of Thornwolf Clan, turning the tide step by step.\r\n\r\nIn the last battle, Khaleed charged into a sandstorm, wielding Moskov's spear, and pierced through the artifact that Khufra's held in his hand: the Orb of Sand. The orb started to leak quicksands, most of which entered Khaleed's body and gave him the ability to command sands.\r\n\r\nThe Orb of Sand was shattered, and the sandstorms that once darkened the blue sky were no more. The sand monsters were gone, and the wounded Khufra retreated back to Ruins of Tivacan. But so long as the Tyrant and his minions still lived, Khaleed would always have to carry the heavy responsibility. He prepared himself and his warriors for future battles against the malicious Khufra. He took a solemn vow that he would eventually restore peace to the ancient Agelta.\r\n\r\nHowever, deep in the shadow, a familiar figure lurked and spied on Khaleed's every move.\r\n\r\nHis old friend, Moskov, had returned.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 8,
+    "offense": 5,
+    "control": 5,
+    "difficulty": 5
+  },
+  "attributes": {
+    "health": 2778,
+    "health_growth": 210,
+    "health_regen": 7.0,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 109,
+    "physical_attack_growth": 11.21,
+    "magic_power": 0,
+    "physical_defense": 23,
+    "physical_defense_growth": 4.5714,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.05,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Khaleed0",
+      "name": "Sand Walk",
+      "description": "Khaleed accumulates <highlight>Desert Power</highlight> while moving. After <highlight>Desert Power</highlight> is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next Basic Attack deal 50<scaleAD> (+140% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the target (cannot Crit), and reducing the target's Movement Speed by 40% for 1.5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de65492aeccc8a5738aa42de8a33141e.png",
+      "video_url": null
+    },
+    {
+      "id": "Khaleed1",
+      "name": "Desert Tornado",
+      "description": "Khaleed whirls his scimitar, dealing 175/220/265/310/355/400<scaleAD> (+130% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the area and pulling them toward him. This skill can be used up to 3 time(s) in a row.<br/><br/>This skill deals 60/65/70/75/80/85% damage to Minions and Creeps.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "6.5/6/5.5/5/4.5/4",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d923b809f919ef60ae354ec162cc853.png",
+      "video_url": null
+    },
+    {
+      "id": "Khaleed2",
+      "name": "Quicksand Guard",
+      "description": "Khaleed protects himself with the power of the quicksand, restoring 60/75/90/105/120/135 plus 5% of his lost HP and 10 <highlight>Desert Power</highlight> every 0.5s, reducing damage taken by 25/28/31/34/37/40% for up to 4s.<br/><br/>While channeling, quicksand appears under his feet, slowing the enemy by 60%.<br/>This skill is a Focused Cast. Any other controls will interrupt this skill.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "18/17/16/15/14/13",
+      "tags": [
+        {
+          "name": "Reduce DMG",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d70b9b7d9c0de2d528e8f86bcebe9093.png",
+      "video_url": null
+    },
+    {
+      "id": "Khaleed3",
+      "name": "Raging Sandstorm",
+      "description": "Khaleed rides the sandstorm and charges toward a designated location, dealing 100/175/250<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies along the way and knocking them toward his destination. Khaleed is immune to control effects during this process.<br/><br/>Upon reaching the destination, Khaleed will smash the ground, dealing 450/600/750<scaleAD> (+160% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in the area and stunning them for 1s, and fully charge his <highlight>Desert Power</highlight>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "46/42/38",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af48a3f5f3aaf4ea2f41f018fc51e92a.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Khaleed0",
+      "sequence": "AA-Khaleed1-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, move around to fill up Khaleed's Desert Power first, then hit the opponent with the enhanced Basic Attack to slow them and follow up with 3 hits from his 1st Skill. This should fill up his Desert Power again, allowing for another enhanced Basic Attack."
+    },
+    {
+      "id": "Khaleed1",
+      "sequence": "Khaleed3-AA-Khaleed1-AA-Khaleed2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Khaleed's Ultimate to initiate, then hit a target with his enhanced Basic Attack and continue the attack with his 1st Skill. Once Desert Power is full again, use another Basic Attack. Then use Khaleed's 2nd Skill to recover HP and reduce incoming damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Because Khaleed can deal a lot of AOE damage, he works well with heroes like Roger and Karina who excel at finishing off multiple low HP targets.",
+      "heroes": [
+        {
+          "id": 39,
+          "slug": "roger",
+          "name": "Roger"
+        },
+        {
+          "id": 8,
+          "slug": "karina",
+          "name": "Karina"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Khaleed counters heroes who lack mobility like Cyclops and Xavier since they will have difficult time avoiding his combo.",
+      "heroes": [
+        {
+          "id": 33,
+          "slug": "cyclops",
+          "name": "Cyclops"
+        },
+        {
+          "id": 115,
+          "slug": "xavier",
+          "name": "Xavier"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Khaleed is countered by heroes who have the ability to knock him back or airborne to interrupt his 2nd Skill, such as X.Borg and Chou.",
+      "heroes": [
+        {
+          "id": 83,
+          "slug": "x-borg",
+          "name": "X.Borg"
+        },
+        {
+          "id": 26,
+          "slug": "chou",
+          "name": "Chou"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Khaleed-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Khaleed-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_155712d0d854711a12f2754865acc17b.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_155712d0d854711a12f2754865acc17b.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/khaleed.json",
+    "visual_catalog": "catalog/v1/visual/khaleed.json",
+    "upgrade_catalog": "catalog/v1/upgrade/khaleed.json"
+  }
+}

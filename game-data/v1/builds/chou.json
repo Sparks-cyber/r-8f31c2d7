@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 26,
+    "slug": "chou",
+    "name": "Chou"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "chou-community-5904",
+      "name": "Community Build 5904",
+      "lane": "Exp Lane, Roam",
+      "equipment_ids": [
+        "bladeoftheheptaseas",
+        "rapidboots",
+        "bladeofdespair",
+        "rosegoldmeteor",
+        "endlessbattle",
+        "maleficroar"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "If you meet burst hero like Saber or any you can try this build",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5904,
+      "source_created_at": "2026-02-21T21:46:37.000Z",
+      "likes": 7,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "chou-community-6310",
+      "name": "Community Build 6310",
+      "lane": "Exp Lane, Roam",
+      "equipment_ids": [
+        "toughboots",
+        "antiquecuirass",
+        "athenasshield",
+        "bruteforcebreastplate",
+        "bladearmor",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "thrill",
+        "wildernessblessing",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "Chou Roam",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6310,
+      "source_created_at": "2026-03-07T15:41:24.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "chou-companion-baseline",
+      "name": "Companion Fighter Baseline",
+      "lane": "EXP Lane/Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Fanny",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Campus Youth",
+      "Splash_url": "Fanny-Campus-Youth.png",
+      "script": "Fanny-Campus-Youth-Backup.zip",
+      "Portrait_url": "Fanny-Campus-Youth.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Campus-Youth-Skylark.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Campus-Youth-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Campus-Youth-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Campus-Youth-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Campus-Youth-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Campus-Youth-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Campus-Youth-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Campus-Youth-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Punk Princess",
+      "Splash_url": "Fanny-Punk-Princess.png",
+      "script": "Fanny-Punk-Princess-Backup.zip",
+      "Portrait_url": "Fanny-Punk-Princess.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Punk-Princess-Skylark.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Punk-Princess-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Punk-Princess-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Punk-Princess-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Punk-Princess-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Punk-Princess-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Punk-Princess-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Punk-Princess-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Skylark",
+      "Splash_url": "Fanny-Skylark.png",
+      "script": "Fanny-Skylark-Backup.zip",
+      "Portrait_url": "Fanny-Skylark.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Skylark-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Skylark-Punk-Princess.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Skylark-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Skylark-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Skylark-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Skylark-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Skylark-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Skylark-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Skylark-Heart-Afloat.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Skylark-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Royal Cavalry",
+      "Splash_url": "Fanny-Royal-Cavalry.png",
+      "script": "Fanny-Royal-Cavalry-Backup.zip",
+      "Portrait_url": "Fanny-Royal-Cavalry.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Royal-Cavalry-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Royal-Cavalry-Punk-Princess.zip"
+        },
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Royal-Cavalry-Skylark.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Royal-Cavalry-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Royal-Cavalry-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Royal-Cavalry-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Royal-Cavalry-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Royal-Cavalry-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Royal-Cavalry-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Royal-Cavalry-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Royal-Cavalry-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Lifeguard",
+      "Splash_url": "Fanny-Lifeguard.png",
+      "script": "Fanny-Lifeguard-Backup.zip",
+      "Portrait_url": "Fanny-Lifeguard.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Lifeguard-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Lifeguard-Punk-Princess.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Lifeguard-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Lifeguard-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Lifeguard-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Lifeguard-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Lifeguard-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Lifeguard-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Lifeguard-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Lifeguard-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lightborn",
+      "Default_name": "Lightborn - Ranger",
+      "Splash_url": "Fanny-Lightborn-Ranger.png",
+      "script": "Fanny-Lightborn-Ranger-Backup.zip",
+      "Portrait_url": "Fanny-Lightborn-Ranger.png",
+      "Tags": [
+        "Lightborn.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Lightborn-Ranger-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Lightborn-Ranger-Punk-Princess.zip"
+        },
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Lightborn-Ranger-Skylark.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Lightborn-Ranger-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Lightborn-Ranger-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Lightborn-Ranger-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Lightborn-Ranger-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Lightborn-Ranger-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Lightborn-Ranger-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Lightborn-Ranger-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Fanny-Christmas-Carnival.png",
+      "script": "Fanny-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Fanny-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Christmas-Carnival-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Christmas-Carnival-Punk-Princess.zip"
+        },
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Christmas-Carnival-Skylark.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Christmas-Carnival-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Christmas-Carnival-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Christmas-Carnival-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Christmas-Carnival-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Christmas-Carnival-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Christmas-Carnival-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Christmas-Carnival-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Christmas-Carnival-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Imperial Warrior",
+      "Splash_url": "Fanny-Imperial-Warrior.png",
+      "script": "Fanny-Imperial-Warrior-Backup.zip",
+      "Portrait_url": "Fanny-Imperial-Warrior.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Imperial-Warrior-Skylark.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Imperial-Warrior-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Imperial-Warrior-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Imperial-Warrior-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Imperial-Warrior-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Imperial-Warrior-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Imperial-Warrior-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Blade of Kibou",
+      "Splash_url": "Fanny-Blade-of-Kibou.png",
+      "script": "Fanny-Blade-of-Kibou-Backup.zip",
+      "Portrait_url": "Fanny-Blade-of-Kibou.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Blade-of-Kibou-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Blade-of-Kibou-Punk-Princess.zip"
+        },
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Blade-of-Kibou-Skylark.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Blade-of-Kibou-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Blade-of-Kibou-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Blade-of-Kibou-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Blade-of-Kibou-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Blade-of-Kibou-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Blade-of-Kibou-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Blade-of-Kibou-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Blade-of-Kibou-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Valentine",
+      "Default_name": "Heart Afloat",
+      "Splash_url": "Fanny-Heart-Afloat.png",
+      "script": "Fanny-Heart-Afloat-Backup.zip",
+      "Portrait_url": "Fanny-Heart-Afloat.png",
+      "Tags": [
+        "Valentine.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Heart-Afloat-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Heart-Afloat-Punk-Princess.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Heart-Afloat-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Heart-Afloat-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Heart-Afloat-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Heart-Afloat-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Heart-Afloat-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Heart-Afloat-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Heart-Afloat-Mikasa.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Heart-Afloat-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Attack on Titan",
+      "Default_name": "Mikasa",
+      "Splash_url": "Fanny-Mikasa.png",
+      "script": "Fanny-Mikasa-Backup.zip",
+      "Portrait_url": "Fanny-Mikasa.png",
+      "Tags": [
+        "Attack on Titan.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Mikasa-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Mikasa-Punk-Princess.zip"
+        },
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Mikasa-Skylark.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Mikasa-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Mikasa-Lifeguard.zip"
+        },
+        {
+          "name": "Lightborn - Ranger",
+          "Portrait_url": "Fanny-Lightborn-Ranger.png",
+          "Splash_url": "Fanny-Lightborn-Ranger.png",
+          "script": "Fanny-Mikasa-Lightborn-Ranger.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Mikasa-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Mikasa-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Mikasa-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Mikasa-Heart-Afloat.zip"
+        },
+        {
+          "name": "Galactic Starhawk",
+          "Portrait_url": "Fanny-Galactic-Starhawk.png",
+          "Splash_url": "Fanny-Galactic-Starhawk.png",
+          "script": "Fanny-Mikasa-Galactic-Starhawk.zip",
+          "advanced_compatibility": {
+            "type": "second_form",
+            "status": "coming_soon",
+            "embedded": false,
+            "route_file": "advanced_route.nxr",
+            "route_format": "nix-advanced-route-v1",
+            "minimum_engine": 2,
+            "premium_required": true,
+            "restoration_protection_required": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "Default_name": "Galactic Starhawk",
+      "Splash_url": "Fanny-Galactic-Starhawk.png",
+      "script": "Fanny-Galactic-Starhawk-Backup.zip",
+      "Portrait_url": "Fanny-Galactic-Starhawk.png",
+      "Tags": [
+        "Legend.png"
+      ],
+      "targets": [
+        {
+          "name": "Campus Youth",
+          "Portrait_url": "Fanny-Campus-Youth.png",
+          "Splash_url": "Fanny-Campus-Youth.png",
+          "script": "Fanny-Galactic-Starhawk-Campus-Youth.zip"
+        },
+        {
+          "name": "Punk Princess",
+          "Portrait_url": "Fanny-Punk-Princess.png",
+          "Splash_url": "Fanny-Punk-Princess.png",
+          "script": "Fanny-Galactic-Starhawk-Punk-Princess.zip"
+        },
+        {
+          "name": "Skylark",
+          "Portrait_url": "Fanny-Skylark.png",
+          "Splash_url": "Fanny-Skylark.png",
+          "script": "Fanny-Galactic-Starhawk-Skylark.zip"
+        },
+        {
+          "name": "Royal Cavalry",
+          "Portrait_url": "Fanny-Royal-Cavalry.png",
+          "Splash_url": "Fanny-Royal-Cavalry.png",
+          "script": "Fanny-Galactic-Starhawk-Royal-Cavalry.zip"
+        },
+        {
+          "name": "Lifeguard",
+          "Portrait_url": "Fanny-Lifeguard.png",
+          "Splash_url": "Fanny-Lifeguard.png",
+          "script": "Fanny-Galactic-Starhawk-Lifeguard.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Fanny-Christmas-Carnival.png",
+          "Splash_url": "Fanny-Christmas-Carnival.png",
+          "script": "Fanny-Galactic-Starhawk-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Imperial Warrior",
+          "Portrait_url": "Fanny-Imperial-Warrior.png",
+          "Splash_url": "Fanny-Imperial-Warrior.png",
+          "script": "Fanny-Galactic-Starhawk-Imperial-Warrior.zip"
+        },
+        {
+          "name": "Blade of Kibou",
+          "Portrait_url": "Fanny-Blade-of-Kibou.png",
+          "Splash_url": "Fanny-Blade-of-Kibou.png",
+          "script": "Fanny-Galactic-Starhawk-Blade-of-Kibou.zip"
+        },
+        {
+          "name": "Heart Afloat",
+          "Portrait_url": "Fanny-Heart-Afloat.png",
+          "Splash_url": "Fanny-Heart-Afloat.png",
+          "script": "Fanny-Galactic-Starhawk-Heart-Afloat.zip"
+        },
+        {
+          "name": "Mikasa",
+          "Portrait_url": "Fanny-Mikasa.png",
+          "Splash_url": "Fanny-Mikasa.png",
+          "script": "Fanny-Galactic-Starhawk-Mikasa.zip"
+        }
+      ]
+    }
+  ]
+}

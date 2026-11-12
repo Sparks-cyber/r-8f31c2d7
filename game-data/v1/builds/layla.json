@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 18,
+    "slug": "layla",
+    "name": "Layla"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "layla-community-5529",
+      "name": "Community Build 5529",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "demonhuntersword",
+        "goldenstaff",
+        "maleficgun",
+        "bladeofdespair",
+        "maleficroar"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "swift",
+        "bargainhunter",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "Be greedy and good at positioning, focus on farming to get an early lead for your items.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5529,
+      "source_created_at": "2026-02-07T15:32:41.000Z",
+      "likes": 9,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "layla-community-6100",
+      "name": "Community Build 6100",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "toughboots",
+        "haasclaws",
+        "windtalker",
+        "berserkersfury",
+        "maleficgun",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "quantumcharge",
+        "fatal"
+      ],
+      "situational_items": [],
+      "notes": "racikan 2026",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6100,
+      "source_created_at": "2026-02-27T18:54:20.000Z",
+      "likes": 5,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "layla-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

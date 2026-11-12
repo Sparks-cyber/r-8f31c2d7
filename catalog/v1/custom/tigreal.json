@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "tigreal-gon",
+      "portrait_file": "Tigreal - Gon.png",
+      "script_file": "Tigreal-Gon.zip",
+      "skin_name": "Gon",
+      "splash_file": "Tigreal - Gon.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    }
+  ],
+  "hero": {
+    "id": 6,
+    "name": "Tigreal",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "tigreal"
+  },
+  "release_tag": "custom-tigreal",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

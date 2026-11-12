@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 87,
+    "slug": "baxia",
+    "name": "Baxia"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "baxia-community-6873",
+      "name": "Community Build 6873",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "warriorboots",
+        "radiantarmor",
+        "oracle",
+        "bladearmor",
+        "antiquecuirass",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "vitality",
+        "seasonedhunter",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "Best build for jungle",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6873,
+      "source_created_at": "2026-04-01T12:39:52.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "baxia-community-5709",
+      "name": "Community Build 5709",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "toughboots",
+        "guardianhelmet",
+        "cursedhelmet",
+        "glowingwand",
+        "antiquecuirass",
+        "queenswings"
+      ],
+      "battle_spell_id": "revitalize",
+      "emblem_id": "tank",
+      "talent_ids": [
+        "vitality",
+        "tenacity",
+        "concussiveblast"
+      ],
+      "situational_items": [],
+      "notes": "Counter Estes 10000% \n(Glowing Wand) Reduces nearby healing effects by 50%. When combined with Baxia Passive, it renders Estes healing virtually non-existent.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5709,
+      "source_created_at": "2026-02-15T01:23:40.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "baxia-companion-baseline",
+      "name": "Companion Tank Baseline",
+      "lane": "Jungle",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "vengeance",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

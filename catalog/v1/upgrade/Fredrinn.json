@@ -1,0 +1,209 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Fredrinn",
+  "role": "Fighter/Tank",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Regal Renegade",
+      "Splash_url": "Fredrinn-Regal-Renegade.png",
+      "script": "Fredrinn-Regal-Renegade-Backup.zip",
+      "Portrait_url": "Fredrinn-Regal-Renegade.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Jewel Connoisseur",
+          "Portrait_url": "Fredrinn-Jewel-Connoisseur.png",
+          "Splash_url": "Fredrinn-Jewel-Connoisseur.png",
+          "script": "Fredrinn-Regal-Renegade-Jewel-Connoisseur.zip"
+        },
+        {
+          "name": "Neobeast Fredrinn",
+          "Portrait_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "Splash_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "script": "Fredrinn-Regal-Renegade-Neobeast-Fredrinn.zip"
+        },
+        {
+          "name": "SPARKLE Fredrinn",
+          "Portrait_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "Splash_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "script": "Fredrinn-Regal-Renegade-SPARKLE-Fredrinn.zip"
+        },
+        {
+          "name": "Royal Marshal",
+          "Portrait_url": "Fredrinn-Royal-Marshal.png",
+          "Splash_url": "Fredrinn-Royal-Marshal.png",
+          "script": "Fredrinn-Regal-Renegade-Royal-Marshal.zip"
+        },
+        {
+          "name": "Winter Marshal",
+          "Portrait_url": "Fredrinn-Winter-Marshal.png",
+          "Splash_url": "Fredrinn-Winter-Marshal.png",
+          "script": "Fredrinn-Regal-Renegade-Winter-Marshal.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Jewel Connoisseur",
+      "Splash_url": "Fredrinn-Jewel-Connoisseur.png",
+      "script": "Fredrinn-Jewel-Connoisseur-Backup.zip",
+      "Portrait_url": "Fredrinn-Jewel-Connoisseur.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Regal Renegade",
+          "Portrait_url": "Fredrinn-Regal-Renegade.png",
+          "Splash_url": "Fredrinn-Regal-Renegade.png",
+          "script": "Fredrinn-Jewel-Connoisseur-Regal-Renegade.zip"
+        },
+        {
+          "name": "Neobeast Fredrinn",
+          "Portrait_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "Splash_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "script": "Fredrinn-Jewel-Connoisseur-Neobeast-Fredrinn.zip"
+        },
+        {
+          "name": "SPARKLE Fredrinn",
+          "Portrait_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "Splash_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "script": "Fredrinn-Jewel-Connoisseur-SPARKLE-Fredrinn.zip"
+        },
+        {
+          "name": "Royal Marshal",
+          "Portrait_url": "Fredrinn-Royal-Marshal.png",
+          "Splash_url": "Fredrinn-Royal-Marshal.png",
+          "script": "Fredrinn-Jewel-Connoisseur-Royal-Marshal.zip"
+        },
+        {
+          "name": "Winter Marshal",
+          "Portrait_url": "Fredrinn-Winter-Marshal.png",
+          "Splash_url": "Fredrinn-Winter-Marshal.png",
+          "script": "Fredrinn-Jewel-Connoisseur-Winter-Marshal.zip"
+        }
+      ]
+    },
+    {
+      "name": "Neobeast",
+      "Default_name": "Neobeast Fredrinn",
+      "Splash_url": "Fredrinn-Neobeast-Fredrinn.png",
+      "script": "Fredrinn-Neobeast-Fredrinn-Backup.zip",
+      "Portrait_url": "Fredrinn-Neobeast-Fredrinn.png",
+      "Tags": [
+        "NeoBeasts.png"
+      ],
+      "targets": [
+        {
+          "name": "Regal Renegade",
+          "Portrait_url": "Fredrinn-Regal-Renegade.png",
+          "Splash_url": "Fredrinn-Regal-Renegade.png",
+          "script": "Fredrinn-Neobeast-Fredrinn-Regal-Renegade.zip"
+        },
+        {
+          "name": "Jewel Connoisseur",
+          "Portrait_url": "Fredrinn-Jewel-Connoisseur.png",
+          "Splash_url": "Fredrinn-Jewel-Connoisseur.png",
+          "script": "Fredrinn-Neobeast-Fredrinn-Jewel-Connoisseur.zip"
+        },
+        {
+          "name": "SPARKLE Fredrinn",
+          "Portrait_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "Splash_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "script": "Fredrinn-Neobeast-Fredrinn-SPARKLE-Fredrinn.zip"
+        },
+        {
+          "name": "Royal Marshal",
+          "Portrait_url": "Fredrinn-Royal-Marshal.png",
+          "Splash_url": "Fredrinn-Royal-Marshal.png",
+          "script": "Fredrinn-Neobeast-Fredrinn-Royal-Marshal.zip"
+        },
+        {
+          "name": "Winter Marshal",
+          "Portrait_url": "Fredrinn-Winter-Marshal.png",
+          "Splash_url": "Fredrinn-Winter-Marshal.png",
+          "script": "Fredrinn-Neobeast-Fredrinn-Winter-Marshal.zip"
+        }
+      ]
+    },
+    {
+      "name": "Sparkle",
+      "Default_name": "SPARKLE Fredrinn",
+      "Splash_url": "Fredrinn-SPARKLE-Fredrinn.png",
+      "script": "Fredrinn-SPARKLE-Fredrinn-Backup.zip",
+      "Portrait_url": "Fredrinn-SPARKLE-Fredrinn.png",
+      "Tags": [
+        "Sparkle.png"
+      ],
+      "targets": [
+        {
+          "name": "Regal Renegade",
+          "Portrait_url": "Fredrinn-Regal-Renegade.png",
+          "Splash_url": "Fredrinn-Regal-Renegade.png",
+          "script": "Fredrinn-SPARKLE-Fredrinn-Regal-Renegade.zip"
+        },
+        {
+          "name": "Jewel Connoisseur",
+          "Portrait_url": "Fredrinn-Jewel-Connoisseur.png",
+          "Splash_url": "Fredrinn-Jewel-Connoisseur.png",
+          "script": "Fredrinn-SPARKLE-Fredrinn-Jewel-Connoisseur.zip"
+        },
+        {
+          "name": "Neobeast Fredrinn",
+          "Portrait_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "Splash_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "script": "Fredrinn-SPARKLE-Fredrinn-Neobeast-Fredrinn.zip"
+        },
+        {
+          "name": "Royal Marshal",
+          "Portrait_url": "Fredrinn-Royal-Marshal.png",
+          "Splash_url": "Fredrinn-Royal-Marshal.png",
+          "script": "Fredrinn-SPARKLE-Fredrinn-Royal-Marshal.zip"
+        },
+        {
+          "name": "Winter Marshal",
+          "Portrait_url": "Fredrinn-Winter-Marshal.png",
+          "Splash_url": "Fredrinn-Winter-Marshal.png",
+          "script": "Fredrinn-SPARKLE-Fredrinn-Winter-Marshal.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Royal Marshal",
+      "Splash_url": "Fredrinn-Royal-Marshal.png",
+      "script": "Fredrinn-Royal-Marshal-Backup.zip",
+      "Portrait_url": "Fredrinn-Royal-Marshal.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Regal Renegade",
+          "Portrait_url": "Fredrinn-Regal-Renegade.png",
+          "Splash_url": "Fredrinn-Regal-Renegade.png",
+          "script": "Fredrinn-Royal-Marshal-Regal-Renegade.zip"
+        },
+        {
+          "name": "Jewel Connoisseur",
+          "Portrait_url": "Fredrinn-Jewel-Connoisseur.png",
+          "Splash_url": "Fredrinn-Jewel-Connoisseur.png",
+          "script": "Fredrinn-Royal-Marshal-Jewel-Connoisseur.zip"
+        },
+        {
+          "name": "Neobeast Fredrinn",
+          "Portrait_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "Splash_url": "Fredrinn-Neobeast-Fredrinn.png",
+          "script": "Fredrinn-Royal-Marshal-Neobeast-Fredrinn.zip"
+        },
+        {
+          "name": "SPARKLE Fredrinn",
+          "Portrait_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "Splash_url": "Fredrinn-SPARKLE-Fredrinn.png",
+          "script": "Fredrinn-Royal-Marshal-SPARKLE-Fredrinn.zip"
+        }
+      ]
+    }
+  ]
+}

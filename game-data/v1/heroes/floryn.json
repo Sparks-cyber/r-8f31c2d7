@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 112,
+    "slug": "floryn",
+    "name": "Floryn",
+    "skin_name": "The Budding Hope",
+    "roles": [
+      "Support"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Magic",
+    "specialties": [
+      "Poke",
+      "Guard"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "22 September 2021",
+    "resource": "Mana",
+    "short_description": "A kind-hearted girl who is determined to spread greenery throughout the world.",
+    "brief": null,
+    "story": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.\r\n\r\nThe despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight. \"There's still life!\" Moved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place.\r\n\r\nWhile creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed. The little flower, however, underwent an even more peculiar transition. It turned into a life form that had never appeared on the Land of Dawn–Floryn.\r\n\r\nSince the day she was born, Floryn had never stepped out of the Oasis. The latter isolated her from the harsh environment of the desert, allowing her to live a life carefree. To Floryn, that glowing seed was the only mystery in her peaceful life. She spent the days contemplating the secret of the seed and the nights sleeping in the shade of the leaves. Only explorers and caravans would occasionally visit this undisturbed little world.\r\n\r\nAmong the caravans that frequented the Oasis, Floryn met a young man with a dazzling smile. He'd tell Floryn fun stories he'd seen or heard on his journey whenever he came to lodge at the Oasis. As their friendship gradually deepened, Floryn's trust in the young man also grew. She showed the young man the glowing seed, hoping the latter could help her solve the puzzle.\r\n\r\nAt first, the young man helped Floryn look for info about the seed wholeheartedly. As time went by, however, Floryn found the young man was always avoiding her eyes, and he'd change the subject whenever the seed was brought up. Floryn began to worry about the young man's state.\r\n\r\nOne night, Floryn woke up with a start. She was shocked to find the seed she'd always carried with her had disappeared!\r\n\r\nFloryn searched everywhere in the Oasis but to no avail. Torn with anxiety, Floryn went to ask the young man for help, only to discover he'd already left the Oasis with his camel.\r\n\r\nA thought that Floryn dreaded to believe came to her mind – could it be him?\r\n\r\nFloryn followed the young man's trail out of the Oasis. She wanted to find out the truth.\r\n\r\nHowever, what awaited her was a silent answer from what she saw and heard along the way. It was the first time Floryn had stepped into the desert, and also the first time she'd seen the howling sandstorms and the look of despair on people's faces. Before that, she'd never understood what kind of suffering people outside the Oasis were going through.\r\n\r\nWhen Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids… and those desperate ones who'd stop at nothing to survive.\r\n\r\nThe young man was slumped in a corner. He'd wanted to sell the seed to feed his family, but he'd never expected that the seed would wither the moment it left Floryn. As a result, those who'd been willing to bid would pay not a single penny.\r\n\r\nThe young man returned the withered seed to Floryn, ready to take the blame for betraying their friendship.\r\n\r\nFloryn, however, didn't say a word.\r\n\r\nThe experience along the way had given Floryn a glimpse of the young man's predicament. Compared to the sadness of being betrayed by her friend, another even stronger and more complicated emotion was churning in her heart. Driven by this emotion, Floryn wanted badly to do something for the land, to save the people who lived in extreme misery as the young man did.\r\n\r\nA surge of magic power swelled from the bottom of Floryn's heart. It flowed through her arm and poured into the seed in her hand. feeling the power, the once withered seed shone again, and from the light that was a hundred times more dazzling than before popped out a cute and lively little creature!\r\n\r\nThis little creature leaped out into the air and eagerly showed off its miraculous powers; it summoned rain with just a wave of its tail, and new shoots gradually sprouted from where the rain fell. The once lifeless village was surrounded by greenery in mere minutes.\r\n\r\nFloryn's was stunned by the sight in front of her. She'd never imagined the seed could give birth to such a magical creature, just as she'd never thought she'd ever leave the Oasis. It was only when Floryn's resolve to change the desert resonated with Belerick's will inside the seed did the latter awakened its true power.\r\n\r\nAlthough the little creature born from the seed was still very young, from its limited power Floryn saw infinite possibilities of changing the desert.\r\n\r\n\"You look like a round drop of dew. I should just call you Dew!\"\r\n\r\nDew circled Floryn excitedly, as if it also liked the name.\r\n\r\nThe changes in the environment brought light back to the villager's eyes. The young man also promised Floryn he'd never again err from the right path. Biding the young man farewell, Floryn and Dew moved on to their next stop.\r\n\r\nNow, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a considerable speed. And this greenery will eventually spread across the entire desert, dispersing all desolation and despair.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 1,
+    "control": 7,
+    "difficulty": 1
+  },
+  "attributes": {
+    "health": 2401,
+    "health_growth": 132,
+    "health_regen": 7.6,
+    "health_regen_growth": 0.3,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 119,
+    "physical_attack_growth": 7.36,
+    "magic_power": 0,
+    "physical_defense": 12,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 0.97,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "Floryn0",
+      "name": "Dew",
+      "description": "Dew's <highlight>Lantern</highlight> will permanently increase Floryn's attributes by a small amount.<br/><br/>After leaving combat for 5s, Floryn can share the <highlight>Flower of Hope</highlight> with an allied hero (30s cooldown), which will grant them a 100<scaleAP> (+70% Total Magic Power)</scaleAP> shield each time they are healed by Floryn.<br/><br/>Floryn will never sell the <highlight>Lantern</highlight>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7b2320a33e912817ca37da52c9d09c57.png",
+      "video_url": null
+    },
+    {
+      "id": "Floryn1",
+      "name": "Sow",
+      "description": "Floryn tosses an Energy Seed at the target enemy, dealing 180/210/240/270/300/330<scaleAP> (+100% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring their <scaleHP>HP</scaleHP> by 175/185/195/205/215/225<scaleAP> (+90% Total Magic Power)</scaleAP>.",
+      "flavor_text": null,
+      "cost": "75/80/85/90/95/100",
+      "cooldown": "9/8.7/8.4/8.1/7.8/7.5",
+      "tags": [
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6013f24a0d60e559d6d0ec3ed98b3fe.png",
+      "video_url": null
+    },
+    {
+      "id": "Floryn2",
+      "name": "Sprout",
+      "description": "Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing 175/210/245/280/315/350<scaleAP> (+90% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to nearby enemies and stunning them for 0.7s (and revealing their positions briefly).",
+      "flavor_text": null,
+      "cost": "90/95/100/105/110/115",
+      "cooldown": "13/12.4/11.8/11.2/10.6/10",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8eaeefe76d960607dafc49229eb08597.png",
+      "video_url": null
+    },
+    {
+      "id": "Floryn3",
+      "name": "Bloom",
+      "description": "Floryn resonates with Dew's power, recovering 250<scaleAP> (+100% Total Magic Power)</scaleAP> <scaleHP>HP</scaleHP> for all allied heroes 2 times no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2s.",
+      "flavor_text": null,
+      "cost": "150/175/200",
+      "cooldown": "70",
+      "tags": [
+        {
+          "name": "Heal",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_03fedb79f8a7dec957408802fa28f840.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Floryn0",
+      "sequence": "Floryn1-Floryn2-Floryn3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Floryn's 2nd Skill to CC enemies, and her 1st Skill for damage and healing. When a teammate is in bad shape, use Floryn's Ultimate to save them."
+    },
+    {
+      "id": "Floryn1",
+      "sequence": "Floryn1-Floryn2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Floryn's 2nd Skill to stun enemies, then follow up with her 1st Skill for damage and healing."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Floryn works well with tanky Fighters, such as Terizla and Thamuz, because they are easier to keep alive with heals and can peel enemies off of her.",
+      "heroes": [
+        {
+          "id": 82,
+          "slug": "terizla",
+          "name": "Terizla"
+        },
+        {
+          "id": 72,
+          "slug": "thamuz",
+          "name": "Thamuz"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Floryn excels at sustained healing and counters Tanks with low damage output, such as Uranus and Lolita.",
+      "heroes": [
+        {
+          "id": 59,
+          "slug": "uranus",
+          "name": "Uranus"
+        },
+        {
+          "id": 20,
+          "slug": "lolita",
+          "name": "Lolita"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Floryn is countered by high mobility and burst damage Assassins, like Karina and Saber.",
+      "heroes": [
+        {
+          "id": 8,
+          "slug": "karina",
+          "name": "Karina"
+        },
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Floryn-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Floryn-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_854338f3ad90cb9e14aec15c8b8a08c7.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_854338f3ad90cb9e14aec15c8b8a08c7.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/floryn.json",
+    "visual_catalog": "catalog/v1/visual/floryn.json",
+    "upgrade_catalog": "catalog/v1/upgrade/floryn.json"
+  }
+}

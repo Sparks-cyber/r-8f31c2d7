@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 60,
+    "slug": "hanabi",
+    "name": "Hanabi"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "hanabi-community-6192",
+      "name": "Community Build 6192",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "warriorboots",
+        "corrosionscythe",
+        "goldenstaff",
+        "demonhuntersword",
+        "bladeofdespair",
+        "maleficgun"
+      ],
+      "battle_spell_id": "aegis",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "swift",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "Ini yg damage nya gede",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6192,
+      "source_created_at": "2026-03-03T07:31:02.000Z",
+      "likes": 22,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "hanabi-community-6253",
+      "name": "Community Build 6253",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "haasclaws",
+        "berserkersfury",
+        "greatdragonspear",
+        "maleficroar",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "aegis",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "quantumcharge"
+      ],
+      "situational_items": [],
+      "notes": "it is a crit build for players that wants to play aggressive it is best for killing squishy heroes and you can win one vs one fight with most of the heroes",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6253,
+      "source_created_at": "2026-03-05T20:43:40.000Z",
+      "likes": 15,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "hanabi-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Dyrroth",
+  "role": "Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Scalebore",
+      "Splash_url": "Dyrroth-Scalebore.png",
+      "script": "Dyrroth-Scalebore-Backup.zip",
+      "Portrait_url": "Dyrroth-Scalebore.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Orochi Chris",
+          "Portrait_url": "Dyrroth-Orochi-Chris.png",
+          "Splash_url": "Dyrroth-Orochi-Chris.png",
+          "script": "Dyrroth-Scalebore-Orochi-Chris.zip"
+        },
+        {
+          "name": "Ruins Scavenger",
+          "Portrait_url": "Dyrroth-Ruins-Scavenger.png",
+          "Splash_url": "Dyrroth-Ruins-Scavenger.png",
+          "script": "Dyrroth-Scalebore-Ruins-Scavenger.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Cobra",
+          "Portrait_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "Splash_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "script": "Dyrroth-Scalebore-V-E-N-O-M-Cobra.zip"
+        },
+        {
+          "name": "Naraka Flame",
+          "Portrait_url": "Dyrroth-Naraka-Flame.png",
+          "Splash_url": "Dyrroth-Naraka-Flame.png",
+          "script": "Dyrroth-Scalebore-Naraka-Flame.zip"
+        },
+        {
+          "name": "Gon",
+          "Portrait_url": "Dyrroth-Gon.png",
+          "Splash_url": "Dyrroth-Gon.png",
+          "script": "Dyrroth-Scalebore-Gon.zip"
+        },
+        {
+          "name": "Guile (Outfit 2)",
+          "Portrait_url": "Dyrroth-Guile-Outfit-2.png",
+          "Splash_url": "Dyrroth-Guile-Outfit-2.png",
+          "script": "Dyrroth-Scalebore-Guile-Outfit-2.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Orochi Chris",
+      "Splash_url": "Dyrroth-Orochi-Chris.png",
+      "script": "Dyrroth-Orochi-Chris-Backup.zip",
+      "Portrait_url": "Dyrroth-Orochi-Chris.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Scalebore",
+          "Portrait_url": "Dyrroth-Scalebore.png",
+          "Splash_url": "Dyrroth-Scalebore.png",
+          "script": "Dyrroth-Orochi-Chris-Scalebore.zip"
+        },
+        {
+          "name": "Ruins Scavenger",
+          "Portrait_url": "Dyrroth-Ruins-Scavenger.png",
+          "Splash_url": "Dyrroth-Ruins-Scavenger.png",
+          "script": "Dyrroth-Orochi-Chris-Ruins-Scavenger.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Cobra",
+          "Portrait_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "Splash_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "script": "Dyrroth-Orochi-Chris-V-E-N-O-M-Cobra.zip"
+        },
+        {
+          "name": "Naraka Flame",
+          "Portrait_url": "Dyrroth-Naraka-Flame.png",
+          "Splash_url": "Dyrroth-Naraka-Flame.png",
+          "script": "Dyrroth-Orochi-Chris-Naraka-Flame.zip"
+        },
+        {
+          "name": "Gon",
+          "Portrait_url": "Dyrroth-Gon.png",
+          "Splash_url": "Dyrroth-Gon.png",
+          "script": "Dyrroth-Orochi-Chris-Gon.zip"
+        },
+        {
+          "name": "Guile (Outfit 2)",
+          "Portrait_url": "Dyrroth-Guile-Outfit-2.png",
+          "Splash_url": "Dyrroth-Guile-Outfit-2.png",
+          "script": "Dyrroth-Orochi-Chris-Guile-Outfit-2.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Ruins Scavenger",
+      "Splash_url": "Dyrroth-Ruins-Scavenger.png",
+      "script": "Dyrroth-Ruins-Scavenger-Backup.zip",
+      "Portrait_url": "Dyrroth-Ruins-Scavenger.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Scalebore",
+          "Portrait_url": "Dyrroth-Scalebore.png",
+          "Splash_url": "Dyrroth-Scalebore.png",
+          "script": "Dyrroth-Ruins-Scavenger-Scalebore.zip"
+        },
+        {
+          "name": "Orochi Chris",
+          "Portrait_url": "Dyrroth-Orochi-Chris.png",
+          "Splash_url": "Dyrroth-Orochi-Chris.png",
+          "script": "Dyrroth-Ruins-Scavenger-Orochi-Chris.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Cobra",
+          "Portrait_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "Splash_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "script": "Dyrroth-Ruins-Scavenger-V-E-N-O-M-Cobra.zip"
+        },
+        {
+          "name": "Naraka Flame",
+          "Portrait_url": "Dyrroth-Naraka-Flame.png",
+          "Splash_url": "Dyrroth-Naraka-Flame.png",
+          "script": "Dyrroth-Ruins-Scavenger-Naraka-Flame.zip"
+        },
+        {
+          "name": "Gon",
+          "Portrait_url": "Dyrroth-Gon.png",
+          "Splash_url": "Dyrroth-Gon.png",
+          "script": "Dyrroth-Ruins-Scavenger-Gon.zip"
+        },
+        {
+          "name": "Guile (Outfit 2)",
+          "Portrait_url": "Dyrroth-Guile-Outfit-2.png",
+          "Splash_url": "Dyrroth-Guile-Outfit-2.png",
+          "script": "Dyrroth-Ruins-Scavenger-Guile-Outfit-2.zip"
+        }
+      ]
+    },
+    {
+      "name": "V.E.N.O.M.",
+      "Default_name": "V.E.N.O.M. Cobra",
+      "Splash_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+      "script": "Dyrroth-V-E-N-O-M-Cobra-Backup.zip",
+      "Portrait_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+      "Tags": [
+        "VENOM.png"
+      ],
+      "targets": [
+        {
+          "name": "Scalebore",
+          "Portrait_url": "Dyrroth-Scalebore.png",
+          "Splash_url": "Dyrroth-Scalebore.png",
+          "script": "Dyrroth-V-E-N-O-M-Cobra-Scalebore.zip"
+        },
+        {
+          "name": "Orochi Chris",
+          "Portrait_url": "Dyrroth-Orochi-Chris.png",
+          "Splash_url": "Dyrroth-Orochi-Chris.png",
+          "script": "Dyrroth-V-E-N-O-M-Cobra-Orochi-Chris.zip"
+        },
+        {
+          "name": "Ruins Scavenger",
+          "Portrait_url": "Dyrroth-Ruins-Scavenger.png",
+          "Splash_url": "Dyrroth-Ruins-Scavenger.png",
+          "script": "Dyrroth-V-E-N-O-M-Cobra-Ruins-Scavenger.zip"
+        },
+        {
+          "name": "Naraka Flame",
+          "Portrait_url": "Dyrroth-Naraka-Flame.png",
+          "Splash_url": "Dyrroth-Naraka-Flame.png",
+          "script": "Dyrroth-V-E-N-O-M-Cobra-Naraka-Flame.zip"
+        },
+        {
+          "name": "Gon",
+          "Portrait_url": "Dyrroth-Gon.png",
+          "Splash_url": "Dyrroth-Gon.png",
+          "script": "Dyrroth-V-E-N-O-M-Cobra-Gon.zip"
+        },
+        {
+          "name": "Guile (Outfit 2)",
+          "Portrait_url": "Dyrroth-Guile-Outfit-2.png",
+          "Splash_url": "Dyrroth-Guile-Outfit-2.png",
+          "script": "Dyrroth-V-E-N-O-M-Cobra-Guile-Outfit-2.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Naraka Flame",
+      "Splash_url": "Dyrroth-Naraka-Flame.png",
+      "script": "Dyrroth-Naraka-Flame-Backup.zip",
+      "Portrait_url": "Dyrroth-Naraka-Flame.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Scalebore",
+          "Portrait_url": "Dyrroth-Scalebore.png",
+          "Splash_url": "Dyrroth-Scalebore.png",
+          "script": "Dyrroth-Naraka-Flame-Scalebore.zip"
+        },
+        {
+          "name": "Orochi Chris",
+          "Portrait_url": "Dyrroth-Orochi-Chris.png",
+          "Splash_url": "Dyrroth-Orochi-Chris.png",
+          "script": "Dyrroth-Naraka-Flame-Orochi-Chris.zip"
+        },
+        {
+          "name": "Ruins Scavenger",
+          "Portrait_url": "Dyrroth-Ruins-Scavenger.png",
+          "Splash_url": "Dyrroth-Ruins-Scavenger.png",
+          "script": "Dyrroth-Naraka-Flame-Ruins-Scavenger.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Cobra",
+          "Portrait_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "Splash_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "script": "Dyrroth-Naraka-Flame-V-E-N-O-M-Cobra.zip"
+        },
+        {
+          "name": "Gon",
+          "Portrait_url": "Dyrroth-Gon.png",
+          "Splash_url": "Dyrroth-Gon.png",
+          "script": "Dyrroth-Naraka-Flame-Gon.zip"
+        },
+        {
+          "name": "Guile (Outfit 2)",
+          "Portrait_url": "Dyrroth-Guile-Outfit-2.png",
+          "Splash_url": "Dyrroth-Guile-Outfit-2.png",
+          "script": "Dyrroth-Naraka-Flame-Guile-Outfit-2.zip"
+        }
+      ]
+    },
+    {
+      "name": "HUNTER×HUNTER",
+      "Default_name": "Gon",
+      "Splash_url": "Dyrroth-Gon.png",
+      "script": "Dyrroth-Gon-Backup.zip",
+      "Portrait_url": "Dyrroth-Gon.png",
+      "Tags": [
+        "Hunter x Hunter.png"
+      ],
+      "targets": [
+        {
+          "name": "Scalebore",
+          "Portrait_url": "Dyrroth-Scalebore.png",
+          "Splash_url": "Dyrroth-Scalebore.png",
+          "script": "Dyrroth-Gon-Scalebore.zip"
+        },
+        {
+          "name": "Orochi Chris",
+          "Portrait_url": "Dyrroth-Orochi-Chris.png",
+          "Splash_url": "Dyrroth-Orochi-Chris.png",
+          "script": "Dyrroth-Gon-Orochi-Chris.zip"
+        },
+        {
+          "name": "Ruins Scavenger",
+          "Portrait_url": "Dyrroth-Ruins-Scavenger.png",
+          "Splash_url": "Dyrroth-Ruins-Scavenger.png",
+          "script": "Dyrroth-Gon-Ruins-Scavenger.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Cobra",
+          "Portrait_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "Splash_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "script": "Dyrroth-Gon-V-E-N-O-M-Cobra.zip"
+        },
+        {
+          "name": "Naraka Flame",
+          "Portrait_url": "Dyrroth-Naraka-Flame.png",
+          "Splash_url": "Dyrroth-Naraka-Flame.png",
+          "script": "Dyrroth-Gon-Naraka-Flame.zip"
+        },
+        {
+          "name": "Guile (Outfit 2)",
+          "Portrait_url": "Dyrroth-Guile-Outfit-2.png",
+          "Splash_url": "Dyrroth-Guile-Outfit-2.png",
+          "script": "Dyrroth-Gon-Guile-Outfit-2.zip"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter",
+      "Default_name": "Guile (Outfit 2)",
+      "Splash_url": "Dyrroth-Guile-Outfit-2.png",
+      "script": "Dyrroth-Guile-Outfit-2-Backup.zip",
+      "Portrait_url": "Dyrroth-Guile-Outfit-2.png",
+      "Tags": [
+        "Street Fighter.png"
+      ],
+      "targets": [
+        {
+          "name": "Scalebore",
+          "Portrait_url": "Dyrroth-Scalebore.png",
+          "Splash_url": "Dyrroth-Scalebore.png",
+          "script": "Dyrroth-Guile-Outfit-2-Scalebore.zip"
+        },
+        {
+          "name": "Orochi Chris",
+          "Portrait_url": "Dyrroth-Orochi-Chris.png",
+          "Splash_url": "Dyrroth-Orochi-Chris.png",
+          "script": "Dyrroth-Guile-Outfit-2-Orochi-Chris.zip"
+        },
+        {
+          "name": "Ruins Scavenger",
+          "Portrait_url": "Dyrroth-Ruins-Scavenger.png",
+          "Splash_url": "Dyrroth-Ruins-Scavenger.png",
+          "script": "Dyrroth-Guile-Outfit-2-Ruins-Scavenger.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Cobra",
+          "Portrait_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "Splash_url": "Dyrroth-V-E-N-O-M-Cobra.png",
+          "script": "Dyrroth-Guile-Outfit-2-V-E-N-O-M-Cobra.zip"
+        },
+        {
+          "name": "Naraka Flame",
+          "Portrait_url": "Dyrroth-Naraka-Flame.png",
+          "Splash_url": "Dyrroth-Naraka-Flame.png",
+          "script": "Dyrroth-Guile-Outfit-2-Naraka-Flame.zip"
+        },
+        {
+          "name": "Gon",
+          "Portrait_url": "Dyrroth-Gon.png",
+          "Splash_url": "Dyrroth-Gon.png",
+          "script": "Dyrroth-Guile-Outfit-2-Gon.zip"
+        }
+      ]
+    }
+  ]
+}

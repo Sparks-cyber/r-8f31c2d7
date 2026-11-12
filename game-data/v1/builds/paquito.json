@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 103,
+    "slug": "paquito",
+    "name": "Paquito"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "paquito-community-5764",
+      "name": "Community Build 5764",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "warriorboots",
+        "hunterstrike",
+        "waraxe",
+        "endlessbattle",
+        "queenswings",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "festivalofblood",
+        "warcry"
+      ],
+      "situational_items": [],
+      "notes": "Combo\nBe ready for full stacks, \n2-2-3-1-2",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5764,
+      "source_created_at": "2026-02-17T09:26:31.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "paquito-community-5412",
+      "name": "Community Build 5412",
+      "lane": "Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "hunterstrike",
+        "waraxe",
+        "dominanceice",
+        "guardianhelmet",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "fighter",
+      "talent_ids": [
+        "thrill",
+        "masterassassin",
+        "killingspree"
+      ],
+      "situational_items": [],
+      "notes": "SEMI TANK, BISA DI BIKIN JADI JUNGLER GANTI MASTER ASSASIN JADI SAWI, KILLING SPREE BISA DI GANTI JADI CONCUSSIVE BLAST,BRAVE SMITH, DAN LETHAL IGNITION,",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5412,
+      "source_created_at": "2026-02-03T13:38:37.000Z",
+      "likes": 4,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "paquito-companion-baseline",
+      "name": "Companion Fighter/Assassin Baseline",
+      "lane": "EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

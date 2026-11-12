@@ -1,0 +1,533 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Karina",
+  "role": "Assassin",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Phantom Blade",
+      "Splash_url": "Karina-Phantom-Blade.png",
+      "script": "Karina-Phantom-Blade-Backup.zip",
+      "Portrait_url": "Karina-Phantom-Blade.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Karina-Christmas-Carnival.png",
+          "Splash_url": "Karina-Christmas-Carnival.png",
+          "script": "Karina-Phantom-Blade-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Black Pearl",
+          "Portrait_url": "Karina-Black-Pearl.png",
+          "Splash_url": "Karina-Black-Pearl.png",
+          "script": "Karina-Phantom-Blade-Black-Pearl.zip"
+        },
+        {
+          "name": "Spider Lily",
+          "Portrait_url": "Karina-Spider-Lily.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Phantom-Blade-Spider-Lily.zip"
+        },
+        {
+          "name": "Doom Duelist",
+          "Portrait_url": "Karina-Doom-Duelist.png",
+          "Splash_url": "Karina-Doom-Duelist.png",
+          "script": "Karina-Phantom-Blade-Doom-Duelist.zip"
+        },
+        {
+          "name": "Gemini - Halo",
+          "Portrait_url": "Karina-Gemini-Halo.png",
+          "Splash_url": "Karina-Gemini-Halo.png",
+          "script": "Karina-Phantom-Blade-Gemini-Halo.zip"
+        },
+        {
+          "name": "Blood Moon",
+          "Portrait_url": "Karina-Blood-Moon.png",
+          "Splash_url": "Karina-Blood-Moon.png",
+          "script": "Karina-Phantom-Blade-Blood-Moon.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Phantom-Blade-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "Default_name": "Christmas Carnival",
+      "Splash_url": "Karina-Christmas-Carnival.png",
+      "script": "Karina-Christmas-Carnival-Backup.zip",
+      "Portrait_url": "Karina-Christmas-Carnival.png",
+      "Tags": [
+        "Christmas.png"
+      ],
+      "targets": [
+        {
+          "name": "Phantom Blade",
+          "Portrait_url": "Karina-Phantom-Blade.png",
+          "Splash_url": "Karina-Phantom-Blade.png",
+          "script": "Karina-Christmas-Carnival-Phantom-Blade.zip"
+        },
+        {
+          "name": "Black Pearl",
+          "Portrait_url": "Karina-Black-Pearl.png",
+          "Splash_url": "Karina-Black-Pearl.png",
+          "script": "Karina-Christmas-Carnival-Black-Pearl.zip"
+        },
+        {
+          "name": "Spider Lily",
+          "Portrait_url": "Karina-Spider-Lily.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Christmas-Carnival-Spider-Lily.zip"
+        },
+        {
+          "name": "Doom Duelist",
+          "Portrait_url": "Karina-Doom-Duelist.png",
+          "Splash_url": "Karina-Doom-Duelist.png",
+          "script": "Karina-Christmas-Carnival-Doom-Duelist.zip"
+        },
+        {
+          "name": "Leona",
+          "Portrait_url": "Karina-Leona.png",
+          "Splash_url": "Karina-Leona.png",
+          "script": "Karina-Christmas-Carnival-Leona.zip"
+        },
+        {
+          "name": "Gemini - Halo",
+          "Portrait_url": "Karina-Gemini-Halo.png",
+          "Splash_url": "Karina-Gemini-Halo.png",
+          "script": "Karina-Christmas-Carnival-Gemini-Halo.zip"
+        },
+        {
+          "name": "Blood Moon",
+          "Portrait_url": "Karina-Blood-Moon.png",
+          "Splash_url": "Karina-Blood-Moon.png",
+          "script": "Karina-Christmas-Carnival-Blood-Moon.zip"
+        },
+        {
+          "name": "Spider Lily - Winter",
+          "Portrait_url": "Karina-Spider-Lily-Winter.png",
+          "Splash_url": "Karina-Spider-Lily-Winter.png",
+          "script": "Karina-Christmas-Carnival-Spider-Lily-Winter.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Christmas-Carnival-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Black Pearl",
+      "Splash_url": "Karina-Black-Pearl.png",
+      "script": "Karina-Black-Pearl-Backup.zip",
+      "Portrait_url": "Karina-Black-Pearl.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Phantom Blade",
+          "Portrait_url": "Karina-Phantom-Blade.png",
+          "Splash_url": "Karina-Phantom-Blade.png",
+          "script": "Karina-Black-Pearl-Phantom-Blade.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Karina-Christmas-Carnival.png",
+          "Splash_url": "Karina-Christmas-Carnival.png",
+          "script": "Karina-Black-Pearl-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Spider Lily",
+          "Portrait_url": "Karina-Spider-Lily.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Black-Pearl-Spider-Lily.zip"
+        },
+        {
+          "name": "Doom Duelist",
+          "Portrait_url": "Karina-Doom-Duelist.png",
+          "Splash_url": "Karina-Doom-Duelist.png",
+          "script": "Karina-Black-Pearl-Doom-Duelist.zip"
+        },
+        {
+          "name": "Leona",
+          "Portrait_url": "Karina-Leona.png",
+          "Splash_url": "Karina-Leona.png",
+          "script": "Karina-Black-Pearl-Leona.zip"
+        },
+        {
+          "name": "Gemini - Halo",
+          "Portrait_url": "Karina-Gemini-Halo.png",
+          "Splash_url": "Karina-Gemini-Halo.png",
+          "script": "Karina-Black-Pearl-Gemini-Halo.zip"
+        },
+        {
+          "name": "Blood Moon",
+          "Portrait_url": "Karina-Blood-Moon.png",
+          "Splash_url": "Karina-Blood-Moon.png",
+          "script": "Karina-Black-Pearl-Blood-Moon.zip"
+        },
+        {
+          "name": "Spider Lily - Winter",
+          "Portrait_url": "Karina-Spider-Lily-Winter.png",
+          "Splash_url": "Karina-Spider-Lily-Winter.png",
+          "script": "Karina-Black-Pearl-Spider-Lily-Winter.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Black-Pearl-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Spider Lily",
+      "Splash_url": "Karina-Spider-Lily.png",
+      "script": "Karina-Spider-Lily-Backup.zip",
+      "Portrait_url": "Karina-Spider-Lily.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Phantom Blade",
+          "Portrait_url": "Karina-Phantom-Blade.png",
+          "Splash_url": "Karina-Phantom-Blade.png",
+          "script": "Karina-Spider-Lily-Phantom-Blade.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Karina-Christmas-Carnival.png",
+          "Splash_url": "Karina-Christmas-Carnival.png",
+          "script": "Karina-Spider-Lily-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Black Pearl",
+          "Portrait_url": "Karina-Black-Pearl.png",
+          "Splash_url": "Karina-Black-Pearl.png",
+          "script": "Karina-Spider-Lily-Black-Pearl.zip"
+        },
+        {
+          "name": "Doom Duelist",
+          "Portrait_url": "Karina-Doom-Duelist.png",
+          "Splash_url": "Karina-Doom-Duelist.png",
+          "script": "Karina-Spider-Lily-Doom-Duelist.zip"
+        },
+        {
+          "name": "Leona",
+          "Portrait_url": "Karina-Leona.png",
+          "Splash_url": "Karina-Leona.png",
+          "script": "Karina-Spider-Lily-Leona.zip"
+        },
+        {
+          "name": "Gemini - Halo",
+          "Portrait_url": "Karina-Gemini-Halo.png",
+          "Splash_url": "Karina-Gemini-Halo.png",
+          "script": "Karina-Spider-Lily-Gemini-Halo.zip"
+        },
+        {
+          "name": "Blood Moon",
+          "Portrait_url": "Karina-Blood-Moon.png",
+          "Splash_url": "Karina-Blood-Moon.png",
+          "script": "Karina-Spider-Lily-Blood-Moon.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Doom Duelist",
+      "Splash_url": "Karina-Doom-Duelist.png",
+      "script": "Karina-Doom-Duelist-Backup.zip",
+      "Portrait_url": "Karina-Doom-Duelist.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Phantom Blade",
+          "Portrait_url": "Karina-Phantom-Blade.png",
+          "Splash_url": "Karina-Phantom-Blade.png",
+          "script": "Karina-Doom-Duelist-Phantom-Blade.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Karina-Christmas-Carnival.png",
+          "Splash_url": "Karina-Christmas-Carnival.png",
+          "script": "Karina-Doom-Duelist-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Black Pearl",
+          "Portrait_url": "Karina-Black-Pearl.png",
+          "Splash_url": "Karina-Black-Pearl.png",
+          "script": "Karina-Doom-Duelist-Black-Pearl.zip"
+        },
+        {
+          "name": "Spider Lily",
+          "Portrait_url": "Karina-Spider-Lily.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Doom-Duelist-Spider-Lily.zip"
+        },
+        {
+          "name": "Leona",
+          "Portrait_url": "Karina-Leona.png",
+          "Splash_url": "Karina-Leona.png",
+          "script": "Karina-Doom-Duelist-Leona.zip"
+        },
+        {
+          "name": "Gemini - Halo",
+          "Portrait_url": "Karina-Gemini-Halo.png",
+          "Splash_url": "Karina-Gemini-Halo.png",
+          "script": "Karina-Doom-Duelist-Gemini-Halo.zip"
+        },
+        {
+          "name": "Blood Moon",
+          "Portrait_url": "Karina-Blood-Moon.png",
+          "Splash_url": "Karina-Blood-Moon.png",
+          "script": "Karina-Doom-Duelist-Blood-Moon.zip"
+        },
+        {
+          "name": "Spider Lily - Winter",
+          "Portrait_url": "Karina-Spider-Lily-Winter.png",
+          "Splash_url": "Karina-Spider-Lily-Winter.png",
+          "script": "Karina-Doom-Duelist-Spider-Lily-Winter.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Doom-Duelist-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Leona",
+      "Splash_url": "Karina-Leona.png",
+      "script": "Karina-Leona-Backup.zip",
+      "Portrait_url": "Karina-Leona.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Phantom Blade",
+          "Portrait_url": "Karina-Phantom-Blade.png",
+          "Splash_url": "Karina-Phantom-Blade.png",
+          "script": "Karina-Leona-Phantom-Blade.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Karina-Christmas-Carnival.png",
+          "Splash_url": "Karina-Christmas-Carnival.png",
+          "script": "Karina-Leona-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Black Pearl",
+          "Portrait_url": "Karina-Black-Pearl.png",
+          "Splash_url": "Karina-Black-Pearl.png",
+          "script": "Karina-Leona-Black-Pearl.zip"
+        },
+        {
+          "name": "Spider Lily",
+          "Portrait_url": "Karina-Spider-Lily.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Leona-Spider-Lily.zip"
+        },
+        {
+          "name": "Doom Duelist",
+          "Portrait_url": "Karina-Doom-Duelist.png",
+          "Splash_url": "Karina-Doom-Duelist.png",
+          "script": "Karina-Leona-Doom-Duelist.zip"
+        },
+        {
+          "name": "Gemini - Halo",
+          "Portrait_url": "Karina-Gemini-Halo.png",
+          "Splash_url": "Karina-Gemini-Halo.png",
+          "script": "Karina-Leona-Gemini-Halo.zip"
+        },
+        {
+          "name": "Blood Moon",
+          "Portrait_url": "Karina-Blood-Moon.png",
+          "Splash_url": "Karina-Blood-Moon.png",
+          "script": "Karina-Leona-Blood-Moon.zip"
+        },
+        {
+          "name": "Spider Lily - Winter",
+          "Portrait_url": "Karina-Spider-Lily-Winter.png",
+          "Splash_url": "Karina-Spider-Lily-Winter.png",
+          "script": "Karina-Leona-Spider-Lily-Winter.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Leona-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Zodiac",
+      "Default_name": "Gemini - Halo",
+      "Splash_url": "Karina-Gemini-Halo.png",
+      "script": "Karina-Gemini-Halo-Backup.zip",
+      "Portrait_url": "Karina-Gemini-Halo.png",
+      "Tags": [
+        "Zodiac.png"
+      ],
+      "targets": [
+        {
+          "name": "Phantom Blade",
+          "Portrait_url": "Karina-Phantom-Blade.png",
+          "Splash_url": "Karina-Phantom-Blade.png",
+          "script": "Karina-Gemini-Halo-Phantom-Blade.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Karina-Christmas-Carnival.png",
+          "Splash_url": "Karina-Christmas-Carnival.png",
+          "script": "Karina-Gemini-Halo-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Black Pearl",
+          "Portrait_url": "Karina-Black-Pearl.png",
+          "Splash_url": "Karina-Black-Pearl.png",
+          "script": "Karina-Gemini-Halo-Black-Pearl.zip"
+        },
+        {
+          "name": "Spider Lily",
+          "Portrait_url": "Karina-Spider-Lily.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Gemini-Halo-Spider-Lily.zip"
+        },
+        {
+          "name": "Doom Duelist",
+          "Portrait_url": "Karina-Doom-Duelist.png",
+          "Splash_url": "Karina-Doom-Duelist.png",
+          "script": "Karina-Gemini-Halo-Doom-Duelist.zip"
+        },
+        {
+          "name": "Leona",
+          "Portrait_url": "Karina-Leona.png",
+          "Splash_url": "Karina-Leona.png",
+          "script": "Karina-Gemini-Halo-Leona.zip"
+        },
+        {
+          "name": "Blood Moon",
+          "Portrait_url": "Karina-Blood-Moon.png",
+          "Splash_url": "Karina-Blood-Moon.png",
+          "script": "Karina-Gemini-Halo-Blood-Moon.zip"
+        },
+        {
+          "name": "Spider Lily - Winter",
+          "Portrait_url": "Karina-Spider-Lily-Winter.png",
+          "Splash_url": "Karina-Spider-Lily-Winter.png",
+          "script": "Karina-Gemini-Halo-Spider-Lily-Winter.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Gemini-Halo-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Basic",
+      "Default_name": "Blood Moon",
+      "Splash_url": "Karina-Blood-Moon.png",
+      "script": "Karina-Blood-Moon-Backup.zip",
+      "Portrait_url": "Karina-Blood-Moon.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Phantom Blade",
+          "Portrait_url": "Karina-Phantom-Blade.png",
+          "Splash_url": "Karina-Phantom-Blade.png",
+          "script": "Karina-Blood-Moon-Phantom-Blade.zip"
+        },
+        {
+          "name": "Christmas Carnival",
+          "Portrait_url": "Karina-Christmas-Carnival.png",
+          "Splash_url": "Karina-Christmas-Carnival.png",
+          "script": "Karina-Blood-Moon-Christmas-Carnival.zip"
+        },
+        {
+          "name": "Black Pearl",
+          "Portrait_url": "Karina-Black-Pearl.png",
+          "Splash_url": "Karina-Black-Pearl.png",
+          "script": "Karina-Blood-Moon-Black-Pearl.zip"
+        },
+        {
+          "name": "Spider Lily",
+          "Portrait_url": "Karina-Spider-Lily.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Blood-Moon-Spider-Lily.zip"
+        },
+        {
+          "name": "Doom Duelist",
+          "Portrait_url": "Karina-Doom-Duelist.png",
+          "Splash_url": "Karina-Doom-Duelist.png",
+          "script": "Karina-Blood-Moon-Doom-Duelist.zip"
+        },
+        {
+          "name": "Leona",
+          "Portrait_url": "Karina-Leona.png",
+          "Splash_url": "Karina-Leona.png",
+          "script": "Karina-Blood-Moon-Leona.zip"
+        },
+        {
+          "name": "Gemini - Halo",
+          "Portrait_url": "Karina-Gemini-Halo.png",
+          "Splash_url": "Karina-Gemini-Halo.png",
+          "script": "Karina-Blood-Moon-Gemini-Halo.zip"
+        },
+        {
+          "name": "Spider Lily - Winter",
+          "Portrait_url": "Karina-Spider-Lily-Winter.png",
+          "Splash_url": "Karina-Spider-Lily-Winter.png",
+          "script": "Karina-Blood-Moon-Spider-Lily-Winter.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Blood-Moon-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Spider Lily - Autumn Skin 10",
+      "Splash_url": "Karina-Spider-Lily-Autumn.png",
+      "script": "Karina-Spider-Lily-Autumn-Skin-10-Backup.zip",
+      "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Spider Lily - Winter",
+          "Portrait_url": "Karina-Spider-Lily-Winter.png",
+          "Splash_url": "Karina-Spider-Lily-Winter.png",
+          "script": "Karina-Spider-Lily-Autumn-Skin-10-Spider-Lily-Winter.zip"
+        },
+        {
+          "name": "Spider Lily - Autumn Painted 02",
+          "Portrait_url": "Karina-Spider-Lily-Autumn.png",
+          "Splash_url": "Karina-Spider-Lily.png",
+          "script": "Karina-Spider-Lily-Autumn-Skin-10-Spider-Lily-Autumn-Painted-02.zip"
+        }
+      ]
+    }
+  ]
+}

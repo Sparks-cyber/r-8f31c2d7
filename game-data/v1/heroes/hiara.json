@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 133,
+    "slug": "hiara",
+    "name": "Hiara",
+    "skin_name": "Fallen Scarlet",
+    "roles": [
+      "Assassin"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Finisher"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "17 July 2026",
+    "resource": "Energy",
+    "short_description": "A geisha ninja from the Scarlet Shadow, armed with dual fans and adorned in crimson maple and the meisen. In her twisted mind, death is the ultimate salvation.",
+    "brief": null,
+    "story": "Hirara knew that \"sky\" all too well. Within the illusion created by the Great Armament \"Ukifune\", there were no stars, only a river, the \"Meisen,\" hanging upside down in the sky. She walked barefoot across the scorched land, the searing pain sending tremors of ecstasy through her body—the same feeling as when crimson stained her gaze as she beheld the Higanbana.\r\n\r\nIn the hellscape within the fans, the world's most magnificent Noh play was performed without end. \"Come, it's tonight's opening act.\" Hirara snapped open her fans, and the evil spirits descended upon her. Enthralled by Hirara's dance, they sought to tear her apart and claim that unfading beauty. Hirara, smiling amidst her twirls, gently shredded them before absorbing their essence. Upon this scorched ground, cruelty was the pinnacle of elegance.\r\n\r\nThe madness of this scene always reminded Hirara of her teacher—once the most renowned geisha of the Flower District. Her teacher lived in terror of aging, until one night when she set the teahouse ablaze. \"Never forget, 'erosion' is the most vile curse in this world,\" the teacher said, holding the young Hirara. \"Only by becoming ash can fleeting beauty be saved.\" As silk turned to ash in the fire, Hirara did not scream; instead, she greedily inhaled the charred scent—she seemed to understand the lesson in this destruction.\r\n\r\nSuddenly, a crimson figure cleaved through the sea of fire. It was Hanabi, covered in soot. Though they had never met, she grabbed Hirara's wrist without hesitation. The warmth of her hand burned hotter than any flame in that inferno blaze.\r\n\r\nAfterward, Hirara was brought to the Scarlet Sect where she volunteered to become Hanabi Hanabi's personal guard. When Hirara asked about that night again, Hanabi said she was simply saving her. To repay this grace, Hirara wished to save Hanabi in the most profound sense of the word. Shielding her from blades was not enough; she must save her from \"erosion,\" the inevitability of decay.\r\n\r\nOne moonlit night, an unexplainable obsession drove Hirara to push open the forbidden gate and reach for the \"Ukifune\" fans—the hellish armament forged from \"Kaerazu\" and \"Meisen-e\". If she could control them, she could save Hanabi, she reasoned.\r\n\r\nPower surged through her the moment she touched them. Hirara got her wish, but her physical body fell into an illusion—a hell beneath the Meisen, born of the Great Armaments. Here, amidst the endless slaughter, she found herself in ecstasy. The connection between the Great Armaments gave her, the master of \"Ukifune,\" the privilege to freely spy on the \"Higanbana\" blooming above the Meisen.\r\n\r\nAt first, her gaze held only awe. As the heir to the Scarlet Sect, Hanabi Hanabi was as dazzling as the sun. But as time passed, she saw Hanabi stumbling through rain and snow for the \"honor\" of the Scarlet Sect, chasing the phantom called \"victory\" while being knocked down again and again, only to struggle back up... The cruelty of this fleeting world was like a dull blade, chipping away at her. This was \"erosion,\" the vile curse that her teacher spoke of. It had entangled Hanabi after all.\r\n\r\nHow could this be permitted? The Higanbana should never be allowed to wither. Hirara was devastated. She must return to the living world. And to do so, she used \"Kaerazu\" and \"Meisen-e\" to slaughter countless evil spirits and assimilate their power. It was during this carnage that her teacher's twisted words became her delusion—beauty will erode; only death can stop it.\r\n\r\nWhen Hanzo betrayed the Shadow Sect, Hanabi was severely wounded in their clash. Desperately seeking the power to protect her clan, she submitted to the armament in her hand—the Higanbana. As her consciousness sank into that pitch-black river, Hanabi Hanabi thought it was the dead pulling her down. No. It was, in truth, Hirara's most \"gentle\" embrace.\r\n\r\n\"Let me save you from this crude, fleeting world,\" Hirara called softly from the bottom of the Meisen. But Hanabi did not hear her. A streak of moonlight suddenly awakened her, and she broke through the armament's illusion to return to the living world.\r\n\r\nWatching the Meisen return to deathly silence, a smile flickered across Hirara's face. This was the Hanabi she adored—the girl whose soul was fiercer than fire, who would do anything to protect others. Since her embrace could not hold someone of such determination, she would sail against the current, break the shackles of the fleeting world, and ferry Hanabi to a place free of erosion: \"hell.\"\r\n\r\nHirara gave herself wholly to the armament, letting her soul sink into its hell. She was no longer herself, but a spirit walking the living world, a calamity existing solely to \"save\" Hanabi.\r\n\r\nAt last, the seal on the armament shattered. Hirara stepped over the corpses of her Scarlet Sect kin and stood before Hanabi Hanabi, just as she had wished. The childhood companion thought dead had returned. The shock and sorrow in Hanabi's eyes eventually congealed into cold, killing intent. For the sake of the Scarlet Sect, Hanabi hurled her Higanbana without hesitation.\r\n\r\nAh, it was everything Hirara had dreamed of. She unfurled her fans, adorned herself in crimson maple and the Meisen, and rushed toward a reunion she dared not disappoint.\r\n\r\n\"Please, embrace me!\" Hirara opened her arms to the cold gleam. Since her gentle call had been spurned, she would fill that void with the clash of flesh and blood. This pain piercing my body was the embrace you denied me at the bottom of the Meisen.\r\n\r\n\"Please, save me!\" Facing the imminent blade, Hirara's tears trembled with emotion. I understand now—just as I sought to seal your beauty through death, you also could not bear to watch me erode. This fatal blow is your deepest, most merciful protection.\r\n\r\n\"Please, kill me!\" Hirara screamed in bliss, offering her frantically beating heart to the blade's edge. Her fans merged in embrace and thrusted toward Hanabi— Now that I've received your kindness, please... accept my devotion, Hanabi-sama!",
+    "recommended_skill_order": "2-1-0-0-2/1"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 8,
+    "control": 4,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2440,
+    "health_growth": 165,
+    "health_regen": 6.6,
+    "health_regen_growth": 0.4143,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 125,
+    "physical_attack_growth": 10.07,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 4.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.8
+  },
+  "abilities": [
+    {
+      "id": "Hirara0",
+      "name": "Twin Fans: Ukifane",
+      "description": "Hirara has only two skills, representing her two weapons: <highlight>Meisen-e</highlight> and <highlight>Kaerazu</highlight>. Drag one skill onto the other to cast a combo skill.<br><br>Hirara has 2 <highlight>Crimson / Death</highlight> Energy. Casting a combo skill consumes 1 <highlight>Crimson / Death</highlight> Energy. Energy recovery time is the same as the cooldown of <highlight>Meisen-e</highlight>. Consuming Energy interrupts the recovery process.<br><br>Hirara only deals 30(+4*Hero Level)% damage to minions.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    },
+    {
+      "id": "Hirara1",
+      "name": "Meisen-e",
+      "description": "Hirara rides the waves using <highlight>Meisen-e</highlight>, performing up to two <highlight>joystick dashes</highlight> (the first dash goes in her facing direction). She deals 150 <scaleAD>(+50% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "8.5/8/7.5/7/6.5/6/5.5/5",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    },
+    {
+      "id": "Hirara12",
+      "name": "Falling Maple",
+      "description": "Hirara enhances <highlight>Kaerazu</highlight> with the power of <highlight>Meisen-e</highlight> to cast a combo skill.<br>She becomes untargetable and immobilized for up to 1s.<br>After 0.6s, she deals 3.5 times <highlight>Crimson Maple</highlight> damage, and can then cast the second <highlight>joystick dash</highlight> of <highlight>Meisen-e</highlight> to end these states early.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "0",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": null
+        },
+        {
+          "name": "Invincible",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    },
+    {
+      "id": "Hirara2",
+      "name": "Kaerazu",
+      "description": "Hirara uses <highlight>Kaerazu</highlight> to unleash the <highlight>Crimson Maple</highlight>, dealing 150 <scaleAD>(+50% Extra Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a fan-shaped area.<br><br>After a short delay, she deals damage again at the target location, dealing 2 times the initial <highlight>Crimson Maple</highlight> damage.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    },
+    {
+      "id": "Hirara22",
+      "name": "Infernal Torrent",
+      "description": "Hirara enhances <highlight>Meisen-e</highlight> with the power of <highlight>Kaerazu</highlight> to cast a combo skill.<br>After casting the first <highlight>joystick dash</highlight> of <highlight>Meisen-e</highlight>, she spins, dealing 2.5 times the <highlight>Crimson Maple</highlight> damage and immobilizing enemies for 0.8s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "0",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        },
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Hirara0",
+      "sequence": "Hirara1-Hirara22-Hirara12",
+      "name": "JUNGLE COMBOS",
+      "description": "In the laning phase, use Hirara's 1st Skill to close in, then use a 1st + 2nd Combo Skill to immobilize the target. Follow up with a 2nd + 1st Combo Skill to deal heavy damage and dash away to safety."
+    },
+    {
+      "id": "Hirara1",
+      "sequence": "Hirara1-Hirara22-Hirara12-Hirara2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, wait for the enemy backline to become isolated and use Hirara's 1st Skill to dive in. Use a 1st + 2nd Combo Skill to deal damage and apply CC, then follow up with a 2nd + 1st Combo Skill to burst the target down and dash out of the enemy formation. Finally, use her 2nd Skill to deal additional damage."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "weak",
+      "description": "However, while Hirara is quick and nimble, she is also quite fragile. Against burst Assassins with targeted abilities, such as Saber and Natalia, it can be difficult to predict their attacks and use her 2nd + 1st Combo Skill in time. If she gets caught, she'll be taken down instantly.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 24,
+          "slug": "natalia",
+          "name": "Natalia"
+        }
+      ]
+    },
+    {
+      "type": "assist",
+      "description": "Hirara has high damage output in the early-to-mid game, but the delay in her skills makes landing them less consistent. Hirara works especially well with strong early-game heroes with CC, such as Angela and Minotaur, allowing her to build an early advantage more easily.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 19,
+          "slug": "minotaur",
+          "name": "Minotaur"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Hirara's high mobility allows her to dive the enemy backline with ease, making her an excellent counter to squishy heroes who lack self-protection, like Ixia and Pharsa.The untargetable effect from Hirara's 2nd + 1st Combo Skill is great against delayed skills that deal high damage, giving her a big advantage when facing heroes like Yin and Gusion.",
+      "heroes": [
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        },
+        {
+          "id": 113,
+          "slug": "yin",
+          "name": "Yin"
+        },
+        {
+          "id": 56,
+          "slug": "gusion",
+          "name": "Gusion"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero1331-portrait.png/revision/latest?cb=20260618091411",
+    "splash_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hirara_%28Fallen_Scarlet%29.jpg/revision/latest/scale-to-width-down/1215?cb=20260614043122",
+    "square_portrait_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero1331-portrait.png/revision/latest?cb=20260618091411",
+    "background_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hirara_%28Fallen_Scarlet%29.jpg/revision/latest/scale-to-width-down/1215?cb=20260614043122",
+    "role_icon_url": null,
+    "lane_icon_url": null
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/hiara.json",
+    "visual_catalog": null,
+    "upgrade_catalog": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "kaja-backup",
+      "portrait_file": "Kaja-Default.png",
+      "script_file": "Kaja-Backup.zip",
+      "skin_name": "Nazar King",
+      "splash_file": "Kaja-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "kaja-commandment",
+      "portrait_file": "Kaja-Commandment.png",
+      "script_file": "Kaja-Commandment.zip",
+      "skin_name": "Commandment",
+      "splash_file": "Kaja-Commandment.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "kaja-kaminari",
+      "portrait_file": "Kaja-Kaminari.png",
+      "script_file": "Kaja-Kaminari.zip",
+      "skin_name": "Kaminari",
+      "splash_file": "Kaja-Kaminari.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "kaja-horror-whiplash",
+      "portrait_file": "Kaja-Horror-Whiplash.png",
+      "script_file": "Kaja-Horror-Whiplash.zip",
+      "skin_name": "Horror Whiplash",
+      "splash_file": "Kaja-Horror-Whiplash.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "kaja-skyblocker",
+      "portrait_file": "Kaja-Skyblocker.png",
+      "script_file": "Kaja-Skyblocker.zip",
+      "skin_name": "Skyblocker",
+      "splash_file": "Kaja-Skyblocker.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "kaja-crow-magician",
+      "portrait_file": "Kaja-Crow-Magician.png",
+      "script_file": "Kaja-Crow-Magician.zip",
+      "skin_name": "Crow Magician",
+      "splash_file": "Kaja-Crow-Magician.png",
+      "tag_id": "s20",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "kaja-inferno-taskmaster",
+      "portrait_file": "Kaja-Inferno-Taskmaster.png",
+      "script_file": "Kaja-Inferno-Taskmaster.zip",
+      "skin_name": "Inferno Taskmaster",
+      "splash_file": "Kaja-Inferno-Taskmaster.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "kaja-death-whiplash-painted-01",
+      "portrait_file": "Kaja-Death-Whiplash.png",
+      "script_file": "Kaja-Death-Whiplash.zip",
+      "skin_name": "Death Whiplash",
+      "splash_file": "Kaja-Death-Whiplash.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 62,
+    "name": "Kaja",
+    "roles": [
+      "Support",
+      "Fighter"
+    ],
+    "slug": "kaja"
+  },
+  "release_tag": "visual-kaja",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 30,
+    "slug": "yi-sun-shin",
+    "name": "Yi Sun-shin",
+    "skin_name": "Paenlong Legend",
+    "roles": [
+      "Assassin",
+      "Marksman"
+    ],
+    "primary_role": "Assassin"
+  },
+  "overview": {
+    "lanes": [
+      "Jungle",
+      "Gold Lane"
+    ],
+    "primary_lane": "Jungle",
+    "damage_type": "Physical",
+    "specialties": [
+      "Finisher",
+      "Chase"
+    ],
+    "region": "Cadia Riverlands",
+    "release_date": "2017",
+    "resource": "Mana",
+    "short_description": "Leader of the City of the Dragon Fleet.",
+    "brief": "Yi Sun-shin is the leader of the City of the Dragon fleet and he is dedicated to his duties. But the ruler of the City of the Dragon believes the false accusations and demoted Yi Sun-shin to a commoner. The fleet, without a leader, was hit hard by pirates. At this moment of crisis, Yi Sun-shin stepped forward and lead the reformed fleet to defend this area of the sea and successfully defeated the strong pirates with remaining naval force.",
+    "story": "The City of the Dragon is located in the northeast Cadia Riverlands, connecting the Frozen Sea and the Sea of Hope. It is the only passage for all ships sailing from the Northern Vale to Cadia Riverlands and further south. The geological advantage allowed the city to develop foreign trade business, making it a prosperous harbor and a booming city.\r\n\r\nBut this bustling city never had one day of peace ever since its establishment. Pirates from the Frozen Sea and the Sea of Hope had been invading this city, raiding the harbor and plundering the merchant ships. After years of battle against the pirates, the people of the city built a mighty navy, the Paenlong Fleet, to fight back the pirates and protect their homeland and trading routes.\r\n\r\nFrom this naval fleet, came the legendary hero - Yi Sun-shin. Born and raised in the City of the Dragon, Yi Sun-shin grew up witnessing countless tragedies happening around him, ships raided and fishers murdered in cold blood by the pirates. And so, the young Yi Sun-shin made up his mind to become an admiral and protect his homeland.\r\n\r\nYi Sun-shin spent his entire childhood training and preparing himself for the future. He learned the techniques of sailing and fighting. He even ventured to the Dragon Altar and acquired knowledge from the elders there.\r\n\r\nAt the age of 18, Yi Sun-shin finally joined the naval fleet, though he was just a sailor at the time. In the next decade, Yi Sun-shin followed the fleet to numerous battles, traveling between the Frozen Sea and the Sea of Hope and fighting the notorious pirates. He showed unprecedented wisdom and leadership in the fights, and gradually became the head of the entire Paenlong Fleet after years of battles.\r\n\r\nUnder the command of Yi Sun-shin, the legendary fleet defeated the pirates time and time again, driving almost all the pirates back into the Sea of Hope and restoring peace to this once devastated place.\r\n\r\nAs Yi Sun-shin kept launching assaults, the pirate started to feel desperate. The desperation that they couldn't win against Yi Sun-shin had also made one thing more clear, if they still wanted to get back to the City of the Dragon, they had to take Yi Sun-shin down. Knowing that they couldn't take Yi Sun-shin and his fleet head-on and defeat him on the sea, they resorted to trickery. Dressed in disguise, the buccaneers infiltrated the City of the Dragon and spread rumors, claiming that Yi Sun-shin wasn't content with leading just the naval fleet but wanted to rule the entire City of the Dragon and the Sea of Hope instead after achieving something this extraordinary.\r\n\r\nExactly as expected by the pirate, the rulers of the city took the gossips as accusations, and rumors as truths. In no time, they then dismissed Yi Sun-shin from his duty and made him a commoner. Seeing this, the treacherous pirates moved on to their next part of the plan. They spread another rumor saying that pirates were assembling at the Frozen Sea, which was a chance to hunt them down once and for all.\r\n\r\nDespite how strongly Yi Sun-shin was advising against it, the rulers took the bait and sent most of the Paenlong Fleet to this mission, leaving only a few vessels behind to protect the harbor. But what they did not know was that the pirates of the Frozen Sea and the Sea of Hope had joined forces and set up a trap at the northern part of Frozen Sea, waiting for the fleet to fall right into it.\r\n\r\nThe battle was a massacre. Without Yi Sun-shin to lead, the rudderless navy was no match for the pirates, many veterans died and most of the battleships sank. Flanked by the coalition of pirates, the once legendary navy was nearly wiped out.\r\n\r\nSoon after this event, the victorious coalition of pirates sailed to the City of the Dragon, threatening to leave this place in ruins. Without a navy to protect them, the people of the city were frightened. Many civilians considered abandoning the homeland they built, some even suggested that the city gave all their properties to the pirates in exchange for their lives.\r\n\r\nIt was at this desperate moment that Yi Sun-shin stood up for his people once again. He made a speech, restoring hope and morale to those who tried to run away or surrender. He mobilized the civilians and armed them just in time, and formed another fleet consisting of fishing boats and a few battleships.\r\n\r\nWhen the coalition of pirates was at their doorstep, Yi Sun-shin led this new fleet to confront them, making a stand in this final fight, knowing he would sacrifice for the greater good. Yi Sun-shin commanded his own ship to charge ahead and lead the way despite heavy artillery fire from the pirate ships. Encouraged by Yi Sun-shin's heroic action, the brave men of Paenlong sailed forward and miraculously won the battle in an extremely outnumbered situation. The coalition of pirates consisting of more than two hundred battleships was defeated by twelve vessels.\r\n\r\nThe pirates of the two sea areas were devastated in this battle and were incapable of invading the City of the Dragon for the next couple of years. As for Yi Sun-shin, he rebuilt the Paenlong Fleet for the City of the Dragon and kept watching over the sea.",
+    "recommended_skill_order": "3-1-2-0-1/2"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 9,
+    "control": 2,
+    "difficulty": 7
+  },
+  "attributes": {
+    "health": 2570,
+    "health_growth": 132,
+    "health_regen": 7.2,
+    "health_regen_growth": 0.2286,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 100,
+    "physical_attack_growth": 8.0,
+    "magic_power": 0,
+    "physical_defense": 22,
+    "physical_defense_growth": 3.3571,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.03,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 4.5
+  },
+  "abilities": [
+    {
+      "id": "YiSun-shin0",
+      "name": "Heavenly Vow",
+      "description": "Yi Sun-shin attacks with his <highlight>longbow</highlight> or <highlight>glaive</highlight> according to his distance from the target.<br/><highlight>Weapon Mastery</highlight>: After each weapon switch, the next two Basic Attacks will gain extra Attack Speed, dealing 70% and 55% Crit Damage respectively, and gain 15% Movement Speed for 1s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_708b471cf829d9ffb5d892a79b17d710.png",
+      "video_url": null
+    },
+    {
+      "id": "YiSun-shin1",
+      "name": "Traceless",
+      "description": "Yi Sun-shin dashes forward and slashes with his glaive, dealing 150/180/210/240/270/300<scaleAD> (+40% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and becoming immune to control effects for 0.4s.<br/><br/>Each <highlight>Weapon Mastery</highlight> triggered reduces the cooldown of <highlight>Traceless</highlight> by 1s.",
+      "flavor_text": null,
+      "cost": "50/55/60/65/70/75",
+      "cooldown": "12/11/10/9/8/7",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abd7c311019ffb1e4210092e448a445e.png",
+      "video_url": null
+    },
+    {
+      "id": "YiSun-shin2",
+      "name": "Blood Floods",
+      "description": "<highlight>Tap</highlight>: Yi Sun-shin slashes swiftly with his glaive, dealing 240/260/280/300/320/340<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.<br/><highlight>Hold</highlight>: Yi Sun-shin shoots a powerful arrow, dealing 240/260/280/300/320/340<scaleAD> (+80% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the target. The arrow's damage scales with the hold time, up to 200%.<br/>Yi Sun-shin gains <highlight>Weapon Mastery</highlight> immediately when this skill is used.",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "11",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cbefbe66ac78ac29ec20d14a057c30a5.png",
+      "video_url": null
+    },
+    {
+      "id": "YiSun-shin3",
+      "name": "Mountain Shocker",
+      "description": "Yi Sun-shin summons a turtle ship and gains sight of the whole map for 2s. The turtle ship lasts for up to 10s, during which Yi Sun-shin gains 70% burst Movement Speed (decays to 20% over 2s).<br/>When cast again, Yi Sun-shin commands the turtle ship to ram toward the target area, dealing 160/200/240<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and stunning enemy units in the central area for 0.8s. Then Yi Sun-shin commands the naval fleet to launch 3 waves of cannon shots on a larger area, each dealing 160/200/240<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and slowing the enemies by 30%.<br/>Yi Sun-shin gains <highlight>Weapon Mastery</highlight> effect immediately when this skill is used.",
+      "flavor_text": null,
+      "cost": "150/180/210",
+      "cooldown": "60",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fa5511e292c6b516b1b258b13ab0f883.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "YiSun-shin0",
+      "sequence": "YiSun-shin3-YiSun-shin1-AA-YiSun-shin1-AA-YiSun-shin2-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, start with Yi Sun-shin's Ultimate, then use his enhanced 1st Skill to send his Turtle Ship into the enemy to stun them. Follow up with ranged Basic Attacks, then use his 1st Skill to get close and perform 2 enhanced Basic Attacks. Tap his 2nd Skill to perform another slash, and secure the kill with 2 more enhanced Basic Attacks."
+    },
+    {
+      "id": "YiSun-shin1",
+      "sequence": "AA-YiSun-shin1-AA-YiSun-shin2-AA",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Yi Sun-shin should use his enhanced Basic Attacks from a distance, then close in with his 1st Skill and slash the enemy with two enhanced Basic Attacks. Follow up with a slash from his 2nd Skill and finish with 2 more enhanced Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Yi Sun-shin works best with Fighters who can initiate, such as Alpha and Khaleed, so he can follow up and unleash his full damage after they have CC'd the enemy.",
+      "heroes": [
+        {
+          "id": 28,
+          "slug": "alpha",
+          "name": "Alpha"
+        },
+        {
+          "id": 98,
+          "slug": "khaleed",
+          "name": "Khaleed"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Yi Sun-shin counters heroes that lack CC like Uranus and Terizla who are at the mercy of his ability to jump in and out of melee range using his 2 weapons.",
+      "heroes": [
+        {
+          "id": 59,
+          "slug": "uranus",
+          "name": "Uranus"
+        },
+        {
+          "id": 82,
+          "slug": "terizla",
+          "name": "Terizla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Yi Sun-shin is countered by heroes with CC skills, such as Franco and Kaja who can lock him down and stop him from freely swapping weapons.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 62,
+          "slug": "kaja",
+          "name": "Kaja"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Yi-Sun-shin-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Yi-Sun-shin-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_42a497ad29f61bdc1cea4bc6a9e1e163.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_42a497ad29f61bdc1cea4bc6a9e1e163.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/yi-sun-shin.json",
+    "visual_catalog": "catalog/v1/visual/yi-sun-shin.json",
+    "upgrade_catalog": "catalog/v1/upgrade/yi-sun-shin.json"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "item_schema": {
+    "id": "hero-slug-build-slug",
+    "name": "Build name",
+    "lane": "EXP Lane",
+    "equipment_ids": [],
+    "battle_spell_id": null,
+    "emblem_id": null,
+    "talent_ids": [],
+    "situational_items": [],
+    "notes": "",
+    "source": "",
+    "source_url": null,
+    "source_snapshot": null,
+    "source_build_id": null,
+    "source_created_at": null,
+    "likes": null,
+    "dislikes": null,
+    "verification_status": "verified | unverified-community | generic-fallback",
+    "updated_at": "2026-08-06T00:00:00Z",
+    "enabled": true
+  }
+}

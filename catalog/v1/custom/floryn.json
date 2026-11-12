@@ -1,0 +1,27 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "floryn-dolia",
+      "portrait_file": "Floryn - Dolia.png",
+      "script_file": "Floryn-Dolia.zip",
+      "skin_name": "Dolia",
+      "splash_file": "Floryn - Dolia.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    }
+  ],
+  "hero": {
+    "id": 112,
+    "name": "Floryn",
+    "roles": [
+      "Support"
+    ],
+    "slug": "floryn"
+  },
+  "release_tag": "custom-floryn",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 132,
+    "slug": "marcel",
+    "name": "Marcel",
+    "skin_name": "Soul Photographer",
+    "roles": [
+      "Support"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Roaming"
+    ],
+    "primary_lane": "Roaming",
+    "damage_type": "Physical",
+    "specialties": [
+      "Crowd Control",
+      "Support"
+    ],
+    "region": "Moniyan Empire",
+    "release_date": "11 March 2026",
+    "resource": "Mana",
+    "short_description": "Hailing from House Paxley, he is an elegant, mysterious, and bizarre artist whose split soul has fused with his camera.",
+    "brief": "Marcel Paxley, the elegant yet mysterious talent from Castle Aberleen.\r\n\r\nHe himself is a masterfully composed double exposure: the first exposure captured the refined character of House Paxley—Marcel, the boy; the second exposure captured a torn soul, fragmented by dark magic—Clemar, his camera. Since then, they have gazed at the world through two viewfinders.\r\n\r\nOne maintains an impeccable veneer of elegance; the other carefully documents reality. Together, they believe pain is the best chemical for development, while imperfection defines true depth of field. Yet a completed work is always stands as its own individual \"self.\"",
+    "story": "\"Across the entire Moniyan art circle, if you ask whose name is most sought-after today, the answer is undoubtedly—Marcel! This darling of the art world boasts talent and a mysterious background! Our reporters dug deep and finally found the face behind the lens!\"\r\n\r\nOn the coffee shop counter, a black magic camera shuddered wildly, its lens focused on the newspaper below—the front page of Lumina City Entertainment Weekly.\r\n\r\nThe truth, indeed, lies behind the lens.\r\n\r\n\"The greatest photographer of this century, hailing from the illustrious House Paxley, possesses superb talent and enviable favor...\"\r\n\r\nMarcel was born in the gloomy halls of the House Paxley estate. He inherited his father's potent dark magic, as well as his infamy—after a spate of family infighting, his father committed suicide to escape judgment, and Marcel was branded the \"son of a traitor\". The latter had stained Marcel's childhood, as his peers used violence to \"discipline\" him, to mold him into a person qualified of the Paxley name, yet Marcel always smiled gently and stood up straight. He believed he was worthy of the name, not because of the pain he endured, but because of the deep love guiding him through it—his mother.\r\n\r\nMarcel's mother was from a removed branch of the Paxley family, enshackled to House Paxley through marriage, but with a soul that yearned for freedom. His mother loved embroidery and photography, and on one of his birthdays, she gifted Marcel a camera, teaching him to frame a freeze moments, then take these stills and develop them into memories upon film.\r\n\r\nMother was everything to Marcel, but she did not reciprocate. After receiving \"discipline\" that nearly killed him, Marcel came home covered in wounds, only to find his mother's departing silhouette. After his father's suicide, Marcel's mother had endured all manner of exclusion and pressure, finally securing a chance to flee House Paxley. However, the family forced her to leave her magically gifted son behind... In the end, she was the only one who escaped.\r\n\r\nDepartures in House Paxley are always silent. Through tear-blurred eyes, Marcel watched her leave, and she never looked back.\r\n\r\n\"...And his soul-capturing lens, comes from his gift of dark magic. Naturally, Marcel became Duke Aamon Aamon's right-hand man. This is undoubtedly a perfect tale of 'hand and glove'!\"\r\n\r\nAfter Marcel's mother left, the \"discipline\" intensified, but he no longer desired to resist, letting the torment and mockery berate him like falling rain. That is, until one near-death moment, consciousness fading, Marcel glanced at the camera hanging on the wall.\r\n\r\nHis mother hadn't taken it. It had been watching him—watching his struggle, his madness, his pain beneath the surface—\r\n\r\nMarcel felt himself detach and enter its lens, looking on coldly as the little boy named Marcel Paxley stood up elegantly with a bloodied face. This objective perspective was clear and indifferent; all pain had been sealed off by the lens. When his consciousness returned to his body, his hand was already gripping the camera beside him! The camera shrieked, and dark magic poured out, freezing everything around him.\r\n\r\nMarcel's powers had fully awakened. Simultaneously, a soul named \"Clemar\" had been born inside the camera.\r\n\r\nUnlike the elegant Marcel, Clemar was direct and volatile, yet the two became inseparable. Relying on dark magic, Marcel became an aid to his distant cousin, Aamon, clearing a path to become head of Paxley. Those who bullied him in the past now dared not to look this terrifying \"enforcer\" in the eye, fearful of his camera.\r\n\r\nAlas, to be feared is better than to be loved. This is the Paxley way.\r\n\r\n\"...Great art is often born of profound love. After his mother died, Marcel channeled his grief into creation. Behold, a true flourishing of talent! It is as if his camera possesses a mind...\"\r\n\r\nIn the years that followed, Marcel never felt that he had lost anything. Indeed, he felt neither pain nor anger. His emotions had long been sealed away within his camera, Clemar.\r\n\r\nThat is, until the news of his mother's death arrived.\r\n\r\nHe had learned the truth: after leaving House Paxley, his mother remarried, opened a tailor shop, and gave birth to a daughter named Melissa, before passing away from illness seven years ago.\r\n\r\nIt was old news from years past, but fate had kept it from him. Clemar roared in Marcel's ear—\"She had a new life! A new child! What am I?! What was all my suffering for?!\"\r\n\r\nMarcel believed himself unmoved, yet the dark magic within him spiraled further out of control. Clemar was no longer content to reside within the camera, frequently attempting to seize Marcel's body. Marcel began to suffer memory loss and blackouts. He would wake up unpredictably on street corners near Castle Aberleen, surrounded by crowds frozen in time. Even Aamon was left helpless, until Marcel, having investigated every clue, turned the lens around and aimed it at himself!\r\n\r\nThe moment the shutter clicked, Marcel entered the camera. Inside was chaotic and desolate, with floating film rolls sweeping through like tidal waves, inflicting endless pain. Walking past all his memories, a scarred figure stood alone, deep within the corridor—\r\n\r\nMarcel saw himself.\r\n\r\nIt had been a means of escape, but also one of self-protection. Years ago, Marcel split his soul, naming the new entity \"Clemar\". Two sides of the same soul were isolated inside and outside the camera, experiencing their own pain and sorrow. Marcel stripped the pain from himself time and again, storing it inside the camera, Clemar.\r\n\r\nThe pain did not vanish; it was merely borne by another, in solitude.\r\n\r\nAt last, the camera snapped upon the tragic news, sparking chaos inside Castle Aberleen.\r\n\r\nYears ago, step by step, his mother faded into the distance, never looking back. Now, Marcel gazed at Clemar and walked towards him, step by step.\r\n\r\nHe reached out and embraced the self that was \"frozen\" in the past.\r\n\r\n... His reminiscing ended, and Marcel gently pushed the newspaper aside.\r\n\r\nAfter their episode inside the camera, Marcel and Clemar became reacquainted. Today, Clemar is no longer just Marcel's camera, but his witness, companion, and peer. He is",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 7,
+    "offense": 3,
+    "control": 10,
+    "difficulty": 3
+  },
+  "attributes": {
+    "health": 2950,
+    "health_growth": 160,
+    "health_regen": 22.4,
+    "health_regen_growth": 0.7,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 7.21,
+    "magic_power": 0,
+    "physical_defense": 30,
+    "physical_defense_growth": 1.5,
+    "magic_defense": 20,
+    "magic_defense_growth": 0.5,
+    "attack_speed": 1.0,
+    "attack_speed_growth": 0.01,
+    "attack_speed_ratio": 0.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 2.0
+  },
+  "abilities": [
+    {
+      "id": "Marcel0",
+      "name": "Platinum Snap",
+      "description": "Marcel's split soul, <highlight>Clemar</highlight>, enters the camera to freeze the moment. His Basic Attacks deal 50<scaleAD> (+40% Total Physical Attack)</scaleAD><scaleAP>(+40% Total Magic Defense)</scaleAP><scaleAD>(+40% Total Physical Defense)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>. His Extra HP is converted into 1.5% Hybrid Defense.<br/><br/><highlight>Clemar</highlight> automatically snaps photos of enemy heroes near Marcel, causing a brief <highlight>Frozen Moment</highlight> and dealing 20 (+ 5% of Max HP) <trueDamage>True Damage</trueDamage> (triggers Attack Effects). It also grants a shield of the same value to Marcel and a nearby allied hero. Cooldown: 12s per target.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    },
+    {
+      "id": "Marcel1",
+      "name": "Framed Moment",
+      "description": "<highlight>Clemar</highlight> focuses on an area around Marcel, slowing enemy heroes within by 60%.<br/>After 2.5s, he completes the shot, dealing 350/420/490/560/630/700<scaleAD> (+50% Total Physical Attack)</scaleAD><scaleAP>(+120% Total Magic Defense)</scaleAP><scaleAD>(+120% Total Physical Defense)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies within.",
+      "flavor_text": null,
+      "cost": "40/45/50/55/60/65",
+      "cooldown": "12.5/12/11.5/11/10.5/10",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    },
+    {
+      "id": "Marcel2",
+      "name": "Tracking Shot",
+      "description": "Artist inspiration time! Marcel enters the <highlight>Tracking Haste</highlight> state for 3s, gaining 15/17.5/20/22.5/25/27.5% Movement Speed. This bonus increases to 75/82.5/90/97.5/105/112.5% when moving toward an enemy hero.<br/><br/><highlight>Use Again</highlight>: Marcel dashes in the target direction, leaving a framing phantom behind while the <highlight>Framed Moment</highlight> area remains at the original location.",
+      "flavor_text": null,
+      "cost": "70/75/80/85/90/95",
+      "cooldown": "12.5/12/11.5/11/10.5/10",
+      "tags": [
+        {
+          "name": "Speed Up",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    },
+    {
+      "id": "Marcel3",
+      "name": "Golden Hour",
+      "description": "Marcel and <highlight>Clemar</highlight> perform a joint shoot. After a short delay, <highlight>Clemar</highlight> takes a wide-angle shot of the target area for 2s. During this time, Marcel enters the <highlight>Tracking Haste</highlight> state while inside the area. All other units in the area are put into a <highlight>Frozen Moment</highlight> and are immune to all effects except from Marcel. All projectiles are also frozen and will continue after a delay (targeted projectiles will deal 50% damage).<br/><br/><highlight>Golden Hour</highlight> resets the cooldown of <highlight>Platinum Snap</highlight> for each enemy hero.<br/>Allied heroes with the <highlight>Platinum Snap</highlight> shield can move freely within the area.",
+      "flavor_text": null,
+      "cost": "150",
+      "cooldown": "74/68/62",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": null
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": null,
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Marcel0",
+      "sequence": "Marcel2-Marcel1-Marcel2-Marcel3-AA-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Marcel should activate his 2nd Skill, followed by his 1st Skill. Run into the enemy's formation, then use the 2nd Skill again to dash away and drop his 1st Skill on top of them. Once the enemies are immobilized, use his Ultimate."
+    },
+    {
+      "id": "Marcel1",
+      "sequence": "Marcel2-Marcel1-AA-AA",
+      "name": "LANING COMBOS",
+      "description": "During the laning phase, use Marcel's 2nd Skill to run up to the enemy and cast his 1st Skill. While the enemy is immobilized, lay into them with Basic Attacks."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "strong",
+      "description": "Marcel is more effective against low-mobility heroes, such as Layla and Vexana, as they are easily caught by his Ultimate, allowing him and his allies to secure easy kills.",
+      "heroes": [
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        },
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Heroes who possess Invincibility or Untargetable effects that can bypass Marcel's CC, like Ling and X.Borg, will reduce his impact on the battlefield.",
+      "heroes": [
+        {
+          "id": 84,
+          "slug": "ling",
+          "name": "Ling"
+        },
+        {
+          "id": 83,
+          "slug": "x-borg",
+          "name": "X.Borg"
+        }
+      ]
+    },
+    {
+      "type": "assist",
+      "description": "Because of Marcel's excellent AOE CC, he pairs well with allies with high AOE damage, like Hanabi and Ixia, to maximize their damage potential.",
+      "heroes": [
+        {
+          "id": 60,
+          "slug": "hanabi",
+          "name": "Hanabi"
+        },
+        {
+          "id": 121,
+          "slug": "ixia",
+          "name": "Ixia"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero1321-portrait.png/revision/latest?cb=20260311075303",
+    "splash_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Marcel_%28Soul_Photographer%29.jpg/revision/latest/scale-to-width-down/1215?cb=20260308072632",
+    "square_portrait_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero1321-portrait.png/revision/latest?cb=20260311075303",
+    "background_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Marcel_%28Soul_Photographer%29.jpg/revision/latest/scale-to-width-down/1215?cb=20260308072632",
+    "role_icon_url": null,
+    "lane_icon_url": null
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/marcel.json",
+    "visual_catalog": null,
+    "upgrade_catalog": null
+  }
+}

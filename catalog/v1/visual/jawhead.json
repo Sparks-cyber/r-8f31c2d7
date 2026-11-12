@@ -1,0 +1,136 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "jawhead-backup",
+      "portrait_file": "Jawhead-Default.png",
+      "script_file": "Jawhead-Backup.zip",
+      "skin_name": "Steel Sweetheart",
+      "splash_file": "Jawhead-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-girl-scout",
+      "portrait_file": "Jawhead-Girl-Scout.png",
+      "script_file": "Jawhead-Girl-Scout.zip",
+      "skin_name": "Girl Scout",
+      "splash_file": "Jawhead-Girl-Scout.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-space-explorer",
+      "portrait_file": "Jawhead-Space-Explorer.png",
+      "script_file": "Jawhead-Space-Explorer.zip",
+      "skin_name": "Space Explorer",
+      "splash_file": "Jawhead-Space-Explorer.png",
+      "tag_id": "msc-2018",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-foo-quarterback",
+      "portrait_file": "Jawhead-Foo-Quarterback.png",
+      "script_file": "Jawhead-Foo-Quarterback.zip",
+      "skin_name": "Foo Quarterback",
+      "splash_file": "Jawhead-Foo-Quarterback.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-the-nutcracker",
+      "portrait_file": "Jawhead-The-Nutcracker.png",
+      "script_file": "Jawhead-The-Nutcracker.zip",
+      "skin_name": "The Nutcracker",
+      "splash_file": "Jawhead-The-Nutcracker.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-samurai-mech",
+      "portrait_file": "Jawhead-Samurai-Mech.png",
+      "script_file": "Jawhead-Samurai-Mech.zip",
+      "skin_name": "Samurai Mech",
+      "splash_file": "Jawhead-Samurai-Mech.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-candy-bear",
+      "portrait_file": "Jawhead-Candy-Bear.png",
+      "script_file": "Jawhead-Candy-Bear.zip",
+      "skin_name": "Candy Bear",
+      "splash_file": "Jawhead-Candy-Bear.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-cyber-ranger",
+      "portrait_file": "Jawhead-Cyber-Ranger.png",
+      "script_file": "Jawhead-Cyber-Ranger.zip",
+      "skin_name": "Cyber Ranger",
+      "splash_file": "Jawhead-Cyber-Ranger.png",
+      "tag_id": "mpl",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-victory-loader",
+      "portrait_file": "Jawhead-Victory-Loader.png",
+      "script_file": "Jawhead-Victory-Loader.zip",
+      "skin_name": "Victory Loader",
+      "splash_file": "Jawhead-Victory-Loader.png",
+      "tag_id": "s33",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-proto-guardian",
+      "portrait_file": "Jawhead-Proto-Guardian.png",
+      "script_file": "Jawhead-Proto-Guardian.zip",
+      "skin_name": "Proto Guardian",
+      "splash_file": "Jawhead-Proto-Guardian.png",
+      "tag_id": "dino-pals",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-field-commander-painted-01",
+      "portrait_file": "Jawhead-Field-Commander.png",
+      "script_file": "Jawhead-Field-Commander.zip",
+      "skin_name": "Field Commander",
+      "splash_file": "Jawhead - Field Commander.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    },
+    {
+      "enabled": true,
+      "id": "jawhead-proto-sentinel-painted-01",
+      "portrait_file": "Jawhead-Proto-Sentinel.png",
+      "script_file": "Jawhead-Proto-Sentinel.zip",
+      "skin_name": "Proto Sentinel",
+      "splash_file": "Jawhead - Proto Sentinel.jpg",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 54,
+    "name": "Jawhead",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "jawhead"
+  },
+  "release_tag": "visual-jawhead",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

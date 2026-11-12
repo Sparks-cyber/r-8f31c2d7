@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 104,
+    "slug": "gloo",
+    "name": "Gloo"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "gloo-community-6264",
+      "name": "Community Build 6264",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "cursedhelmet",
+        "glowingwand",
+        "oracle",
+        "guardianhelmet",
+        "geniuswand"
+      ],
+      "battle_spell_id": "flameshot",
+      "emblem_id": "basiccommon",
+      "talent_ids": [
+        "agility",
+        "wildernessblessing",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Build anti tank dan bagus untuk di early jika di late game lebih bagus lagi😉",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6264,
+      "source_created_at": "2026-03-06T10:27:13.000Z",
+      "likes": 6,
+      "dislikes": 1,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "gloo-community-5644",
+      "name": "Community Build 5644",
+      "lane": "Roam, Exp Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "cursedhelmet",
+        "glowingwand",
+        "oracle",
+        "chastisepauldron",
+        "guardianhelmet"
+      ],
+      "battle_spell_id": "flameshot",
+      "emblem_id": "basiccommon",
+      "talent_ids": [
+        "agility",
+        "wildernessblessing",
+        "bravesmite"
+      ],
+      "situational_items": [],
+      "notes": "Enk aja sih. Guardian bisa ganti item lolipop/CoD (Clock of Destiny).",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5644,
+      "source_created_at": "2026-02-12T00:52:47.000Z",
+      "likes": 3,
+      "dislikes": 2,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "gloo-companion-baseline",
+      "name": "Companion Tank Baseline",
+      "lane": "Roaming/EXP Lane",
+      "equipment_ids": [
+        "toughboots",
+        "dominanceice",
+        "antiquecuirass",
+        "athenasshield",
+        "oracle",
+        "immortality"
+      ],
+      "battle_spell_id": "flicker",
+      "emblem_id": "tank",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "karrie-backup",
+      "portrait_file": "Karrie-Default.png",
+      "script_file": "Karrie-Backup.zip",
+      "skin_name": "Lost Star",
+      "splash_file": "Karrie-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-rising-star",
+      "portrait_file": "Karrie-Rising-Star.png",
+      "script_file": "Karrie-Rising-Star.zip",
+      "skin_name": "Rising Star",
+      "splash_file": "Karrie-Rising-Star.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-bladed-mantis",
+      "portrait_file": "Karrie-Bladed-Mantis.png",
+      "script_file": "Karrie-Bladed-Mantis.zip",
+      "skin_name": "Bladed Mantis",
+      "splash_file": "Karrie-Bladed-Mantis.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-dragon-queen",
+      "portrait_file": "Karrie-Dragon-Queen.png",
+      "script_file": "Karrie-Dragon-Queen.zip",
+      "skin_name": "Dragon Queen",
+      "splash_file": "Karrie-Dragon-Queen.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-jester",
+      "portrait_file": "Karrie-Jester.png",
+      "script_file": "Karrie-Jester.zip",
+      "skin_name": "Jester",
+      "splash_file": "Karrie-Jester.png",
+      "tag_id": "halloween",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-hawkwatch",
+      "portrait_file": "Karrie-Hawkwatch.png",
+      "script_file": "Karrie-Hawkwatch.zip",
+      "skin_name": "Hawkwatch",
+      "splash_file": "Karrie-Hawkwatch.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-gill-girl",
+      "portrait_file": "Karrie-Gill-Girl.png",
+      "script_file": "Karrie-Gill-Girl.zip",
+      "skin_name": "Gill-Girl",
+      "splash_file": "Karrie-Gill-Girl.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-neon-lightwheel",
+      "portrait_file": "Karrie-Neon-Lightwheel.png",
+      "script_file": "Karrie-Neon-Lightwheel.zip",
+      "skin_name": "Neon Lightwheel",
+      "splash_file": "Karrie-Neon-Lightwheel.png",
+      "tag_id": "annual-starlight",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-wheel-of-justice",
+      "portrait_file": "Karrie-Wheel-of-Justice.png",
+      "script_file": "Karrie-Wheel-of-Justice.zip",
+      "skin_name": "Wheel of Justice",
+      "splash_file": "Karrie-Wheel-of-Justice.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-ice-talon",
+      "portrait_file": "Karrie-Ice-Talon.png",
+      "script_file": "Karrie-Ice-Talon.zip",
+      "skin_name": "Ice Talon",
+      "splash_file": "Karrie-Ice-Talon.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-breath-of-naraka",
+      "portrait_file": "Karrie-Breath-of-Naraka.png",
+      "script_file": "Karrie-Breath-of-Naraka.zip",
+      "skin_name": "Breath of Naraka",
+      "splash_file": "Karrie-Breath-of-Naraka.png",
+      "tag_id": "kishin-densetsu",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-quantum-razor",
+      "portrait_file": "Karrie-Quantum-Razor.png",
+      "script_file": "Karrie-Quantum-Razor.zip",
+      "skin_name": "Quantum Razor",
+      "splash_file": "Karrie-Quantum-Razor.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "karrie-fool",
+      "portrait_file": "Karrie-Fool.png",
+      "script_file": "Karrie-Fool.zip",
+      "skin_name": "Fool",
+      "splash_file": "Karrie-Fool.png",
+      "tag_id": "halloween",
+      "tier": "Exceptional"
+    }
+  ],
+  "hero": {
+    "id": 40,
+    "name": "Karrie",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "karrie"
+  },
+  "release_tag": "visual-karrie",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

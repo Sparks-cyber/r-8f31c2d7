@@ -1,0 +1,425 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Benedetta",
+  "role": "Assassin/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Honor Blade",
+      "Splash_url": "Benedetta-Honor-Blade.png",
+      "script": "Benedetta-Honor-Blade-Backup.zip",
+      "Portrait_url": "Benedetta-Honor-Blade.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Street Thrasher",
+          "Portrait_url": "Benedetta-Street-Thrasher.png",
+          "Splash_url": "Benedetta-Street-Thrasher.png",
+          "script": "Benedetta-Honor-Blade-Street-Thrasher.zip"
+        },
+        {
+          "name": "Death Oath",
+          "Portrait_url": "Benedetta-Death-Oath.png",
+          "Splash_url": "Benedetta-Death-Oath.png",
+          "script": "Benedetta-Honor-Blade-Death-Oath.zip"
+        },
+        {
+          "name": "Moonblade",
+          "Portrait_url": "Benedetta-Moonblade.png",
+          "Splash_url": "Benedetta-Moonblade.png",
+          "script": "Benedetta-Honor-Blade-Moonblade.zip"
+        },
+        {
+          "name": "Panigale V4S Rider",
+          "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+          "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+          "script": "Benedetta-Honor-Blade-Panigale-V4S-Rider.zip"
+        },
+        {
+          "name": "Phantom Mirage",
+          "Portrait_url": "Benedetta-Phantom-Mirage.png",
+          "Splash_url": "Benedetta-Phantom-Mirage.png",
+          "script": "Benedetta-Honor-Blade-Phantom-Mirage.zip"
+        },
+        {
+          "name": "Vessel of Pride",
+          "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+          "Splash_url": "Benedetta-Vessel-of-Pride.png",
+          "script": "Benedetta-Honor-Blade-Vessel-of-Pride.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Street Thrasher",
+      "Splash_url": "Benedetta-Street-Thrasher.png",
+      "script": "Benedetta-Street-Thrasher-Backup.zip",
+      "Portrait_url": "Benedetta-Street-Thrasher.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Honor Blade",
+          "Portrait_url": "Benedetta-Honor-Blade.png",
+          "Splash_url": "Benedetta-Honor-Blade.png",
+          "script": "Benedetta-Street-Thrasher-Honor-Blade.zip"
+        },
+        {
+          "name": "Death Oath",
+          "Portrait_url": "Benedetta-Death-Oath.png",
+          "Splash_url": "Benedetta-Death-Oath.png",
+          "script": "Benedetta-Street-Thrasher-Death-Oath.zip"
+        },
+        {
+          "name": "Moonblade",
+          "Portrait_url": "Benedetta-Moonblade.png",
+          "Splash_url": "Benedetta-Moonblade.png",
+          "script": "Benedetta-Street-Thrasher-Moonblade.zip"
+        },
+        {
+          "name": "Panigale V4S Rider",
+          "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+          "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+          "script": "Benedetta-Street-Thrasher-Panigale-V4S-Rider.zip"
+        },
+        {
+          "name": "Quantum Edge",
+          "Portrait_url": "Benedetta-Quantum-Edge.png",
+          "Splash_url": "Benedetta-Quantum-Edge.png",
+          "script": "Benedetta-Street-Thrasher-Quantum-Edge.zip"
+        },
+        {
+          "name": "Phantom Mirage",
+          "Portrait_url": "Benedetta-Phantom-Mirage.png",
+          "Splash_url": "Benedetta-Phantom-Mirage.png",
+          "script": "Benedetta-Street-Thrasher-Phantom-Mirage.zip"
+        },
+        {
+          "name": "Vessel of Pride",
+          "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+          "Splash_url": "Benedetta-Vessel-of-Pride.png",
+          "script": "Benedetta-Street-Thrasher-Vessel-of-Pride.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Death Oath",
+      "Splash_url": "Benedetta-Death-Oath.png",
+      "script": "Benedetta-Death-Oath-Backup.zip",
+      "Portrait_url": "Benedetta-Death-Oath.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Honor Blade",
+          "Portrait_url": "Benedetta-Honor-Blade.png",
+          "Splash_url": "Benedetta-Honor-Blade.png",
+          "script": "Benedetta-Death-Oath-Honor-Blade.zip"
+        },
+        {
+          "name": "Street Thrasher",
+          "Portrait_url": "Benedetta-Street-Thrasher.png",
+          "Splash_url": "Benedetta-Street-Thrasher.png",
+          "script": "Benedetta-Death-Oath-Street-Thrasher.zip"
+        },
+        {
+          "name": "Moonblade",
+          "Portrait_url": "Benedetta-Moonblade.png",
+          "Splash_url": "Benedetta-Moonblade.png",
+          "script": "Benedetta-Death-Oath-Moonblade.zip"
+        },
+        {
+          "name": "Panigale V4S Rider",
+          "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+          "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+          "script": "Benedetta-Death-Oath-Panigale-V4S-Rider.zip"
+        },
+        {
+          "name": "Quantum Edge",
+          "Portrait_url": "Benedetta-Quantum-Edge.png",
+          "Splash_url": "Benedetta-Quantum-Edge.png",
+          "script": "Benedetta-Death-Oath-Quantum-Edge.zip"
+        },
+        {
+          "name": "Phantom Mirage",
+          "Portrait_url": "Benedetta-Phantom-Mirage.png",
+          "Splash_url": "Benedetta-Phantom-Mirage.png",
+          "script": "Benedetta-Death-Oath-Phantom-Mirage.zip"
+        },
+        {
+          "name": "Vessel of Pride",
+          "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+          "Splash_url": "Benedetta-Vessel-of-Pride.png",
+          "script": "Benedetta-Death-Oath-Vessel-of-Pride.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Moonblade",
+      "Splash_url": "Benedetta-Moonblade.png",
+      "script": "Benedetta-Moonblade-Backup.zip",
+      "Portrait_url": "Benedetta-Moonblade.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Honor Blade",
+          "Portrait_url": "Benedetta-Honor-Blade.png",
+          "Splash_url": "Benedetta-Honor-Blade.png",
+          "script": "Benedetta-Moonblade-Honor-Blade.zip"
+        },
+        {
+          "name": "Street Thrasher",
+          "Portrait_url": "Benedetta-Street-Thrasher.png",
+          "Splash_url": "Benedetta-Street-Thrasher.png",
+          "script": "Benedetta-Moonblade-Street-Thrasher.zip"
+        },
+        {
+          "name": "Death Oath",
+          "Portrait_url": "Benedetta-Death-Oath.png",
+          "Splash_url": "Benedetta-Death-Oath.png",
+          "script": "Benedetta-Moonblade-Death-Oath.zip"
+        },
+        {
+          "name": "Panigale V4S Rider",
+          "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+          "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+          "script": "Benedetta-Moonblade-Panigale-V4S-Rider.zip"
+        },
+        {
+          "name": "Quantum Edge",
+          "Portrait_url": "Benedetta-Quantum-Edge.png",
+          "Splash_url": "Benedetta-Quantum-Edge.png",
+          "script": "Benedetta-Moonblade-Quantum-Edge.zip"
+        },
+        {
+          "name": "Phantom Mirage",
+          "Portrait_url": "Benedetta-Phantom-Mirage.png",
+          "Splash_url": "Benedetta-Phantom-Mirage.png",
+          "script": "Benedetta-Moonblade-Phantom-Mirage.zip"
+        },
+        {
+          "name": "Vessel of Pride",
+          "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+          "Splash_url": "Benedetta-Vessel-of-Pride.png",
+          "script": "Benedetta-Moonblade-Vessel-of-Pride.zip"
+        }
+      ]
+    },
+    {
+      "name": "Ducati",
+      "Default_name": "Panigale V4S Rider",
+      "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+      "script": "Benedetta-Panigale-V4S-Rider-Backup.zip",
+      "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+      "Tags": [
+        "Ducati.png"
+      ],
+      "targets": [
+        {
+          "name": "Honor Blade",
+          "Portrait_url": "Benedetta-Honor-Blade.png",
+          "Splash_url": "Benedetta-Honor-Blade.png",
+          "script": "Benedetta-Panigale-V4S-Rider-Honor-Blade.zip"
+        },
+        {
+          "name": "Street Thrasher",
+          "Portrait_url": "Benedetta-Street-Thrasher.png",
+          "Splash_url": "Benedetta-Street-Thrasher.png",
+          "script": "Benedetta-Panigale-V4S-Rider-Street-Thrasher.zip"
+        },
+        {
+          "name": "Moonblade",
+          "Portrait_url": "Benedetta-Moonblade.png",
+          "Splash_url": "Benedetta-Moonblade.png",
+          "script": "Benedetta-Panigale-V4S-Rider-Moonblade.zip"
+        },
+        {
+          "name": "Quantum Edge",
+          "Portrait_url": "Benedetta-Quantum-Edge.png",
+          "Splash_url": "Benedetta-Quantum-Edge.png",
+          "script": "Benedetta-Panigale-V4S-Rider-Quantum-Edge.zip"
+        },
+        {
+          "name": "Phantom Mirage",
+          "Portrait_url": "Benedetta-Phantom-Mirage.png",
+          "Splash_url": "Benedetta-Phantom-Mirage.png",
+          "script": "Benedetta-Panigale-V4S-Rider-Phantom-Mirage.zip"
+        },
+        {
+          "name": "Vessel of Pride",
+          "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+          "Splash_url": "Benedetta-Vessel-of-Pride.png",
+          "script": "Benedetta-Panigale-V4S-Rider-Vessel-of-Pride.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Quantum Edge",
+      "Splash_url": "Benedetta-Quantum-Edge.png",
+      "script": "Benedetta-Quantum-Edge-Backup.zip",
+      "Portrait_url": "Benedetta-Quantum-Edge.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Honor Blade",
+          "Portrait_url": "Benedetta-Honor-Blade.png",
+          "Splash_url": "Benedetta-Honor-Blade.png",
+          "script": "Benedetta-Quantum-Edge-Honor-Blade.zip"
+        },
+        {
+          "name": "Street Thrasher",
+          "Portrait_url": "Benedetta-Street-Thrasher.png",
+          "Splash_url": "Benedetta-Street-Thrasher.png",
+          "script": "Benedetta-Quantum-Edge-Street-Thrasher.zip"
+        },
+        {
+          "name": "Death Oath",
+          "Portrait_url": "Benedetta-Death-Oath.png",
+          "Splash_url": "Benedetta-Death-Oath.png",
+          "script": "Benedetta-Quantum-Edge-Death-Oath.zip"
+        },
+        {
+          "name": "Moonblade",
+          "Portrait_url": "Benedetta-Moonblade.png",
+          "Splash_url": "Benedetta-Moonblade.png",
+          "script": "Benedetta-Quantum-Edge-Moonblade.zip"
+        },
+        {
+          "name": "Panigale V4S Rider",
+          "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+          "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+          "script": "Benedetta-Quantum-Edge-Panigale-V4S-Rider.zip"
+        },
+        {
+          "name": "Phantom Mirage",
+          "Portrait_url": "Benedetta-Phantom-Mirage.png",
+          "Splash_url": "Benedetta-Phantom-Mirage.png",
+          "script": "Benedetta-Quantum-Edge-Phantom-Mirage.zip"
+        },
+        {
+          "name": "Vessel of Pride",
+          "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+          "Splash_url": "Benedetta-Vessel-of-Pride.png",
+          "script": "Benedetta-Quantum-Edge-Vessel-of-Pride.zip"
+        }
+      ]
+    },
+    {
+      "name": "Covenant",
+      "Default_name": "Phantom Mirage",
+      "Splash_url": "Benedetta-Phantom-Mirage.png",
+      "script": "Benedetta-Phantom-Mirage-Backup.zip",
+      "Portrait_url": "Benedetta-Phantom-Mirage.png",
+      "Tags": [
+        "Covenant.png"
+      ],
+      "targets": [
+        {
+          "name": "Honor Blade",
+          "Portrait_url": "Benedetta-Honor-Blade.png",
+          "Splash_url": "Benedetta-Honor-Blade.png",
+          "script": "Benedetta-Phantom-Mirage-Honor-Blade.zip"
+        },
+        {
+          "name": "Street Thrasher",
+          "Portrait_url": "Benedetta-Street-Thrasher.png",
+          "Splash_url": "Benedetta-Street-Thrasher.png",
+          "script": "Benedetta-Phantom-Mirage-Street-Thrasher.zip"
+        },
+        {
+          "name": "Death Oath",
+          "Portrait_url": "Benedetta-Death-Oath.png",
+          "Splash_url": "Benedetta-Death-Oath.png",
+          "script": "Benedetta-Phantom-Mirage-Death-Oath.zip"
+        },
+        {
+          "name": "Moonblade",
+          "Portrait_url": "Benedetta-Moonblade.png",
+          "Splash_url": "Benedetta-Moonblade.png",
+          "script": "Benedetta-Phantom-Mirage-Moonblade.zip"
+        },
+        {
+          "name": "Panigale V4S Rider",
+          "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+          "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+          "script": "Benedetta-Phantom-Mirage-Panigale-V4S-Rider.zip"
+        },
+        {
+          "name": "Quantum Edge",
+          "Portrait_url": "Benedetta-Quantum-Edge.png",
+          "Splash_url": "Benedetta-Quantum-Edge.png",
+          "script": "Benedetta-Phantom-Mirage-Quantum-Edge.zip"
+        },
+        {
+          "name": "Vessel of Pride",
+          "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+          "Splash_url": "Benedetta-Vessel-of-Pride.png",
+          "script": "Benedetta-Phantom-Mirage-Vessel-of-Pride.zip"
+        }
+      ]
+    },
+    {
+      "name": "Soul Vessels",
+      "Default_name": "Vessel of Pride",
+      "Splash_url": "Benedetta-Vessel-of-Pride.png",
+      "script": "Benedetta-Vessel-of-Pride-Backup.zip",
+      "Portrait_url": "Benedetta-Vessel-of-Pride.png",
+      "Tags": [
+        "Soul Vessels.png"
+      ],
+      "targets": [
+        {
+          "name": "Honor Blade",
+          "Portrait_url": "Benedetta-Honor-Blade.png",
+          "Splash_url": "Benedetta-Honor-Blade.png",
+          "script": "Benedetta-Vessel-of-Pride-Honor-Blade.zip"
+        },
+        {
+          "name": "Street Thrasher",
+          "Portrait_url": "Benedetta-Street-Thrasher.png",
+          "Splash_url": "Benedetta-Street-Thrasher.png",
+          "script": "Benedetta-Vessel-of-Pride-Street-Thrasher.zip"
+        },
+        {
+          "name": "Death Oath",
+          "Portrait_url": "Benedetta-Death-Oath.png",
+          "Splash_url": "Benedetta-Death-Oath.png",
+          "script": "Benedetta-Vessel-of-Pride-Death-Oath.zip"
+        },
+        {
+          "name": "Moonblade",
+          "Portrait_url": "Benedetta-Moonblade.png",
+          "Splash_url": "Benedetta-Moonblade.png",
+          "script": "Benedetta-Vessel-of-Pride-Moonblade.zip"
+        },
+        {
+          "name": "Panigale V4S Rider",
+          "Portrait_url": "Benedetta-Panigale-V4S-Rider.png",
+          "Splash_url": "Benedetta-Panigale-V4S-Rider.png",
+          "script": "Benedetta-Vessel-of-Pride-Panigale-V4S-Rider.zip"
+        },
+        {
+          "name": "Quantum Edge",
+          "Portrait_url": "Benedetta-Quantum-Edge.png",
+          "Splash_url": "Benedetta-Quantum-Edge.png",
+          "script": "Benedetta-Vessel-of-Pride-Quantum-Edge.zip"
+        },
+        {
+          "name": "Phantom Mirage",
+          "Portrait_url": "Benedetta-Phantom-Mirage.png",
+          "Splash_url": "Benedetta-Phantom-Mirage.png",
+          "script": "Benedetta-Vessel-of-Pride-Phantom-Mirage.zip"
+        }
+      ]
+    }
+  ]
+}

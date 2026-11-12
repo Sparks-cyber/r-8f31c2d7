@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 103,
+    "slug": "paquito",
+    "name": "Paquito",
+    "skin_name": "The Heavenly Fist",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "primary_role": "Fighter"
+  },
+  "overview": {
+    "lanes": [
+      "EXP Lane"
+    ],
+    "primary_lane": "EXP Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "15 January 2021",
+    "resource": null,
+    "short_description": "The hero who uses his two fists to protect hope and love.",
+    "brief": "The Abyss grew in power, thrusting the Land of Dawn once more into the thick mists of eternal war. It was a true calamity that spread suffering throughout the Land of Dawn. Especially the Moniyan Empire's southern frontier. The creeping threat and corruption of the Abyss plunged this place into ruins and it stands now as a barren wilderness.",
+    "story": "The Abyss grew in power, thrusting the Land of Dawn once more into the thick mists of eternal war. It was a true calamity that spread suffering throughout the Land of Dawn. Especially the Moniyan Empire's southern frontier. The creeping threat and corruption of the Abyss plunged this place into ruins and it stands now as a barren wilderness.\r\n\r\nThe Empire had long since ceased even trying to reclaim these lands, and the numbers of those fleeing to the Moniyan heartlands for a new life grew by the day. Those unwilling to leave their homeland remained behind and strived to make ends meet, yet they failed to unite and provide a resistance to the advancing Abyss. Instead, they embraced brute force and violence in their toils to stake their claim to the land's dwindling resources. Conflict ruled over all.\r\n\r\nLike the distant Land of Despair, this frontier fell into a deep decay, a pit without the faintest ray of hope. Until that day came. A man with a peculiar scar across his back and fists of iron wandered these chaotic lands purging the injustice and cruelty that dominated it. A long-lost warmth returned to the people's hearts as one malicious force after another fell before him.\r\n\r\nNobody knew from whence this man had came. And so, those he had saved would simply refer to him as the 'Heavenly Fist'. Yet his name was Paquito.\r\n\r\nPaquito was born in a small village in southwestern Moniyan. To survive and prosper in a land like this so far from the royal capital, you had to be strong. And so he'd had but one dream since he was a little boy: To become the world's strongest fighter. Paquito tempered his mind, his body and spirit through any and every means possible in his quest for this power.\r\n\r\nA reticent man passed through his village, witnessing the incredible effort Paquito was dedicating to his training. Hence, he decided to stay and trained Paquito, taking him as a student.\r\n\r\nIn the months that followed, Paquito's abilities improved at an exponential rate as he trained under his master. Yet his departure drew near. Before he left, he told Paquito this: the peak, the true essence of fighting lies not in destruction. It's not about attacking.\r\n\r\nPaquito continued to perfect his technique relentlessly in the years following his master's departure. Yet he still struggled to embody this essence his master spoke of.\r\n\r\nThis left him with an uncertainty deep in his heart, so he too departed his village, still determined to become the world's strongest. And so he sought out strong opponents as he traveled the lands. As he navigated the Lantis Mountains he found the land plagued by injustice and evil. Hence, he would enter the fray, fighting for justice and wiping out evil, becoming renowned as the 'Heavenly Fist'.\r\n\r\nAs Paquito forged on tirelessly, a mysterious figure known as the 'Domineer' gained great power in the Moniyan Empire. He commanded his subordinates and launched a grand plan to claw control over the land. To fuel his schemes the Domineer plundered these lands already on the brink of collapse, leaving cruelty and massacre in his wake.\r\n\r\nPaquito caught wind of this series of tragedies, and it made his blood boil. He swore to stop this Domineer, and eradicate every last trace of his control. In his mission to unmask this dark figure and his true identity, Paquito discovered that he was none other than his master from long ago. He had sought the true essence of what it means to fight, yet instead, he'd been eaten up and spat back out by the harsh realities of this world. He'd lost all that he once stood for, becoming cruel and ruthless.\r\n\r\nPaquito's loyalty and friendship for his old master clashed with the justice and morality he had always held so dear. He made his decision. The student and the master began a battle of the ages. Paquito stood firm, and took the first of his master's crushing strikes—repayment for the teaching he'd received. Then, they began trading blows; a collision of two colossal forces. The master's technique had only grown stronger in the years that'd passed, with dominating advances battering Paquito until he was on the very brink of death. Strength began to leave his body, and Paquito thought back to those he'd strived to save from oppression; their baleful gazes, how they wished for nothing more than peace. It was then that he had his epiphany—the true essence of fighting was not about attacking nor destroying, but instead, defending hope wherever it may be.\r\n\r\nPaquito forced the Domineer into defeat, and the master stared up at his former student, filled with regret. His forces of evil were subdued, and peace flourished in the land.\r\n\r\nIt was then that Paquito shouldered his pack and prepared to hit the road once more, telling his master: this world of ours is bigger than we know, with mighty opponents that await our arrival, not to mention the powers of evil...\r\n\r\nHe'd rely on his two fists. With them, he'd fight for the hopes and dreams of all who needed him.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 6,
+    "offense": 5,
+    "control": 4,
+    "difficulty": 8
+  },
+  "attributes": {
+    "health": 2798,
+    "health_growth": 190,
+    "health_regen": 9.8,
+    "health_regen_growth": 0.4429,
+    "mana": 0,
+    "mana_growth": 0,
+    "mana_regen": 0.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 121,
+    "physical_attack_growth": 10.07,
+    "magic_power": 0,
+    "physical_defense": 22,
+    "physical_defense_growth": 3.7143,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.22,
+    "attack_speed_growth": 0.0271,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 260,
+    "attack_range": 1.6
+  },
+  "abilities": [
+    {
+      "id": "Paquito0",
+      "name": "Champ Stance",
+      "description": "Paquito gains a stack each time he casts a skill. At 3 stacks, he enters the <highlight>Champ Stance</highlight> and enhances his next skill.<br/>Paquito's enhanced skills have no cooldown and deal (+2*Hero Level)% extra damage to minions.<br/><br/>After casting any enhanced skill, Paquito gains 60% Movement Speed and (+2*Hero Level)% Damage Reduction for 1.2s.",
+      "flavor_text": "I had no one to depend on except myself.",
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "Damage",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c9451df51335c47c1dd75bef800d037d.png",
+      "video_url": null
+    },
+    {
+      "id": "Paquito1",
+      "name": "Heavy Left Punch",
+      "description": "Paquito throws a punch in the target direction, dealing 210/240/270/300/330/360<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and gaining a 150/250/350/450/550/650<scaleAD> (+135% Total Physical Attack)</scaleAD> shield.<br><br>Champ Stance: The damage is increased to 350/400/450/500/550/600<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>, and the shield value is increased to 140% for 2.5s (normal and enhanced shields can stack).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "7",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a885c745981e38cb336ca27d147f2bc6.png",
+      "video_url": null
+    },
+    {
+      "id": "Paquito2",
+      "name": "Jab",
+      "description": "Paquito dashes in the target direction and throws a jab, dealing 200/250/300/350/400/450<scaleAD> (+165% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit. Paquito will stop and throw the jab immediately upon colliding with an enemy hero or Creep during the dash.<br/><br/><highlight>Champ Stance</highlight>: The damage is increased to 350/430/510/590/670/750<scaleAD> (+230% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage>.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "7/6.7/6.4/6.1/5.8/5.5",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_322cb891727ea1c40e72f123c2d41e0d.png",
+      "video_url": null
+    },
+    {
+      "id": "Paquito3",
+      "name": "Knockout Strike",
+      "description": "Paquito launches an elbow strike in the target direction, dealing 250/300/350<scaleAD> (+50% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and knocking them back. He then throws a haymaker, dealing 300/375/450<scaleAD> (+90% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and slowing them by 75% for 1s, as he darts backward.<br/><br/><highlight>Champ Stance</highlight>: Instead of a haymaker, Paquito launches an uppercut after the elbow strike, dealing 400/500/600<scaleAD> (+120% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies hit and knocking them airborne for 0.5s.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": "15/13.5/12",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_114ac52dbe3fe616904102fd4ac16d14.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Paquito0",
+      "sequence": "Paquito2-Paquito1-Paquito3-Paquito2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Paquito can use his 2nd Skill to approach the enemy team, then his 1st Skill to deal damage. He should follow up with his Ultimate to knock the enemy back and enter the Champ Stance. He can finish with his enhanced 2nd Skill to deal heavy damage to the enemies."
+    },
+    {
+      "id": "Paquito1",
+      "sequence": "Paquito1-Paquito2-Paquito1-Paquito2",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Paquito can use his 1st Skill to gain a stack for the Champ Stance before using his 2nd Skill to close in on the enemy hero. He can use his 1st Skill again to deal damage and enter the Champ Stance. He should then hit the enemy hero with the enhanced 2nd Skill."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Paquito works best with support heroes who can buff him, like Angela and Rafaela.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 14,
+          "slug": "rafaela",
+          "name": "Rafaela"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Paquito is a hero with dash and high burst damage, making him strong against squishy heroes without defensive abilities, such as Gord and Layla.",
+      "heroes": [
+        {
+          "id": 23,
+          "slug": "gord",
+          "name": "Gord"
+        },
+        {
+          "id": 18,
+          "slug": "layla",
+          "name": "Layla"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Paquito is an agile hero, but he is also kind of squishy, which makes him weak against heroes with strong CC abilities. Such as Franco and Kaja.",
+      "heroes": [
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        },
+        {
+          "id": 62,
+          "slug": "kaja",
+          "name": "Kaja"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Paquito-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Paquito-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/paquito.json",
+    "visual_catalog": "catalog/v1/visual/paquito.json",
+    "upgrade_catalog": "catalog/v1/upgrade/paquito.json"
+  }
+}

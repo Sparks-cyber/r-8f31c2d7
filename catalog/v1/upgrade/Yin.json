@@ -1,0 +1,179 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Yin",
+  "role": "Fighter/Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Fists of Valor",
+      "Splash_url": "Yin-Fists-of-Valor.png",
+      "script": "Yin-Fists-of-Valor-Backup.zip",
+      "Portrait_url": "Yin-Fists-of-Valor.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "M-World Yin",
+          "Portrait_url": "Yin-M-World-Yin.png",
+          "Splash_url": "Yin-M-World-Yin.png",
+          "script": "Yin-Fists-of-Valor-M-World-Yin.zip"
+        },
+        {
+          "name": "Yuji Itadori",
+          "Portrait_url": "Yin-Yuji-Itadori.png",
+          "Splash_url": "Yin-Yuji-Itadori.png",
+          "script": "Yin-Fists-of-Valor-Yuji-Itadori.zip"
+        },
+        {
+          "name": "Immortal Guardian Painted 01",
+          "Portrait_url": "Yin-Immortal-Guardian.png",
+          "Splash_url": "Yin-Eternal-Guardian.png",
+          "script": "Yin-Fists-of-Valor-Immortal-Guardian-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "M-World",
+      "Default_name": "M-World Yin",
+      "Splash_url": "Yin-M-World-Yin.png",
+      "script": "Yin-M-World-Yin-Backup.zip",
+      "Portrait_url": "Yin-M-World-Yin.png",
+      "Tags": [
+        "M-World.png"
+      ],
+      "targets": [
+        {
+          "name": "Fists of Valor",
+          "Portrait_url": "Yin-Fists-of-Valor.png",
+          "Splash_url": "Yin-Fists-of-Valor.png",
+          "script": "Yin-M-World-Yin-Fists-of-Valor.zip"
+        },
+        {
+          "name": "Yuji Itadori",
+          "Portrait_url": "Yin-Yuji-Itadori.png",
+          "Splash_url": "Yin-Yuji-Itadori.png",
+          "script": "Yin-M-World-Yin-Yuji-Itadori.zip"
+        },
+        {
+          "name": "Immortal Guardian Painted 01",
+          "Portrait_url": "Yin-Immortal-Guardian.png",
+          "Splash_url": "Yin-Eternal-Guardian.png",
+          "script": "Yin-M-World-Yin-Immortal-Guardian-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "Default_name": "Yuji Itadori",
+      "Splash_url": "Yin-Yuji-Itadori.png",
+      "script": "Yin-Yuji-Itadori-Backup.zip",
+      "Portrait_url": "Yin-Yuji-Itadori.png",
+      "Tags": [
+        "Jujutsu Kaisen.png"
+      ],
+      "targets": [
+        {
+          "name": "Fists of Valor",
+          "Portrait_url": "Yin-Fists-of-Valor.png",
+          "Splash_url": "Yin-Fists-of-Valor.png",
+          "script": "Yin-Yuji-Itadori-Fists-of-Valor.zip"
+        },
+        {
+          "name": "M-World Yin",
+          "Portrait_url": "Yin-M-World-Yin.png",
+          "Splash_url": "Yin-M-World-Yin.png",
+          "script": "Yin-Yuji-Itadori-M-World-Yin.zip"
+        },
+        {
+          "name": "Immortal Guardian Painted 01",
+          "Portrait_url": "Yin-Immortal-Guardian.png",
+          "Splash_url": "Yin-Eternal-Guardian.png",
+          "script": "Yin-Yuji-Itadori-Immortal-Guardian-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Eternal Guardian",
+      "Splash_url": "Yin-Eternal-Guardian.png",
+      "script": "Yin-Eternal-Guardian-Backup.zip",
+      "Portrait_url": "Yin-Eternal-Guardian.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Fists of Valor",
+          "Portrait_url": "Yin-Fists-of-Valor.png",
+          "Splash_url": "Yin-Fists-of-Valor.png",
+          "script": "Yin-Eternal-Guardian-Fists-of-Valor.zip"
+        },
+        {
+          "name": "M-World Yin",
+          "Portrait_url": "Yin-M-World-Yin.png",
+          "Splash_url": "Yin-M-World-Yin.png",
+          "script": "Yin-Eternal-Guardian-M-World-Yin.zip"
+        },
+        {
+          "name": "Yuji Itadori",
+          "Portrait_url": "Yin-Yuji-Itadori.png",
+          "Splash_url": "Yin-Yuji-Itadori.png",
+          "script": "Yin-Eternal-Guardian-Yuji-Itadori.zip"
+        }
+      ]
+    },
+    {
+      "name": "Attack on Titan",
+      "Default_name": "Eren",
+      "Splash_url": "Yin-Eren.png",
+      "script": "Yin-Eren-Backup.zip",
+      "Portrait_url": "Yin-Eren.png",
+      "Tags": [
+        "Attack on Titan.png"
+      ],
+      "targets": [
+        {
+          "name": "Fists of Valor",
+          "Portrait_url": "Yin-Fists-of-Valor.png",
+          "Splash_url": "Yin-Fists-of-Valor.png",
+          "script": "Yin-Eren-Fists-of-Valor.zip"
+        },
+        {
+          "name": "M-World Yin",
+          "Portrait_url": "Yin-M-World-Yin.png",
+          "Splash_url": "Yin-M-World-Yin.png",
+          "script": "Yin-Eren-M-World-Yin.zip"
+        },
+        {
+          "name": "Yuji Itadori",
+          "Portrait_url": "Yin-Yuji-Itadori.png",
+          "Splash_url": "Yin-Yuji-Itadori.png",
+          "script": "Yin-Eren-Yuji-Itadori.zip"
+        },
+        {
+          "name": "Immortal Guardian Painted 01",
+          "Portrait_url": "Yin-Immortal-Guardian.png",
+          "Splash_url": "Yin-Eternal-Guardian.png",
+          "script": "Yin-Eren-Immortal-Guardian-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Immortal Guardian Skin 06",
+      "Splash_url": "Yin-Immortal-Guardian.png",
+      "script": "Yin-Immortal-Guardian-Skin-06-Backup.zip",
+      "Portrait_url": "Yin-Immortal-Guardian.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Immortal Guardian Painted 01",
+          "Portrait_url": "Yin-Immortal-Guardian.png",
+          "Splash_url": "Yin-Eternal-Guardian.png",
+          "script": "Yin-Immortal-Guardian-Skin-06-Immortal-Guardian-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "floryn-backup",
+      "portrait_file": "Floryn-Default.png",
+      "script_file": "Floryn-Backup.zip",
+      "skin_name": "The Budding Hope",
+      "splash_file": "Floryn-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "floryn-springtide",
+      "portrait_file": "Floryn-Springtide.png",
+      "script_file": "Floryn-Springtide.zip",
+      "skin_name": "Springtide",
+      "splash_file": "Floryn-Springtide.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "floryn-fluffy-dream",
+      "portrait_file": "Floryn-Fluffy-Dream.png",
+      "script_file": "Floryn-Fluffy-Dream.zip",
+      "skin_name": "Fluffy Dream",
+      "splash_file": "Floryn-Fluffy-Dream.png",
+      "tag_id": "sanrio-characters",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "floryn-paw-power",
+      "portrait_file": "Floryn-Paw-Power.png",
+      "script_file": "Floryn-Paw-Power.zip",
+      "skin_name": "Paw Power",
+      "splash_file": "Floryn-Paw-Power.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "floryn-yatai-waitress",
+      "portrait_file": "Floryn-Yatai-Waitress.png",
+      "script_file": "Floryn-Yatai-Waitress.zip",
+      "skin_name": "Yatai Waitress",
+      "splash_file": "Floryn-Yatai-Waitress.png",
+      "tag_id": "summer",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "floryn-melody-of-light",
+      "portrait_file": "Floryn-Melody-of-Light.png",
+      "script_file": "Floryn-Melody-of-Light.zip",
+      "skin_name": "Melody of Light",
+      "splash_file": "Floryn-Melody-of-Light.png",
+      "tag_id": "collector",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "floryn-herald-of-autumn",
+      "portrait_file": "Floryn-Herald-of-Autumn.png",
+      "script_file": "Floryn-Herald-of-Autumn.zip",
+      "skin_name": "Herald of Autumn",
+      "splash_file": "Floryn-Herald-of-Autumn.png",
+      "tag_id": "legend",
+      "tier": "grand"
+    }
+  ],
+  "hero": {
+    "id": 112,
+    "name": "Floryn",
+    "roles": [
+      "Support"
+    ],
+    "slug": "floryn"
+  },
+  "release_tag": "visual-floryn",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

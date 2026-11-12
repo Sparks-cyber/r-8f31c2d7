@@ -1,0 +1,38 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "yu-zhong-kaido",
+      "portrait_file": "Yu Zhong - Kaido.png",
+      "script_file": "Yu-Zhong-Kaido.zip",
+      "skin_name": "Kaido",
+      "splash_file": "Yu Zhong - Kaido.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "yu-zhong-kung-fu-panda",
+      "portrait_file": "Yu Zhong - Kung Fu Panda.png",
+      "script_file": "Yu-Zhong-Kung-Fu-Panda.zip",
+      "skin_name": "Kung Fu Panda",
+      "splash_file": "Yu Zhong - Kung Fu Panda.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    }
+  ],
+  "hero": {
+    "id": 95,
+    "name": "Yu Zhong",
+    "roles": [
+      "Fighter"
+    ],
+    "slug": "yu-zhong"
+  },
+  "release_tag": "custom-yu-zhong",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

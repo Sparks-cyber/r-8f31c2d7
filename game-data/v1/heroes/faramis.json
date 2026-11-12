@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 76,
+    "slug": "faramis",
+    "name": "Faramis",
+    "skin_name": "Soul Binder",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "primary_role": "Support"
+  },
+  "overview": {
+    "lanes": [
+      "Mid Lane"
+    ],
+    "primary_lane": "Mid Lane",
+    "damage_type": "Magic",
+    "specialties": [
+      "Guard",
+      "Charge"
+    ],
+    "region": "The Barren Lands",
+    "release_date": "18 May 2019",
+    "resource": "Mana",
+    "short_description": "A necromancer in Necrokeep who's determined to find a cure for the Mist.",
+    "brief": "A gifted physician who came to Necrokeep to study the mysterious plague. Instead of finding the key to controlling life and death, he met Vexana, duchess of the cursed land and the girl who'd brought sunshine to his gloomy life twice. Vowing to find a way to revert the curse and repay the kindness of Vexana, Faramis voluntarily got eroded by the Mist and used himself as the specimen for his research.",
+    "story": "Faramis came from a long line of physicians. With the ancestral staff passed down the family, his grandfather combined magic and medicine and developed cures for many once-incurable diseases. The feat earned the gifted physician a title from the Moniyan Empire, and the family had since served the royalties as their personal physicians.\r\n\r\nNone of these proved adequate to earn the family respect from their equals, though. The other nobles viewed them as mere servants with some special medical skills, while young Faramis, for this reason, was often bullied and ridiculed by his peers.\r\n\r\nAt a banquet, the boys struck again, and poor Faramis was left fainted on the ground of the back garden. When he regained consciousness, he saw a highborn girl half-knelt by his side, giving him medicine. That was the only time young Faramis had received kindness from his peers. The encounter, despite being brief, was like a ray of sunshine into his gloomy life.\r\n\r\nFrail and sickly from birth, Faramis had brushed with death numerous times and survived only because of his parents' meticulous treatment. After many near-death experiences, he vowed to conquer death and take life into his own hands and was reluctant to serve the royalties as his family did.\r\n\r\nHe found the royalties' minor ailments extremely boring and wanted nothing to do with those hypocritical nobles. He yearned to challenge complex, intractable diseases to bring his skills to heights no other physicians had ever reached before.\r\n\r\nWith this goal in mind, Faramis left Lumina City and embarked on his journey alone, solving one after another inexplicable disease along the way, not out of the responsibility of a physician, but to explore the possibility of going beyond life and death.\r\n\r\nUpon learning about the incident in Necrokeep, Faramis believed that he'd found the perfect integration of life and death and headed to the city right away, searching for the key to controlling both.\r\n\r\nProtected by his ancestral staff, Faramis found himself immune to the Mist that plagued the city. He walked through crowds of desolate residents and came upon Duchess Vexana, ruler of the ruined fortress. She was brewing and handing out the \"Moonlight Brew\", a remedy made of Moonlight Grass that was said to be the \"cure\" for the erosion of the Mist.\r\n\r\nAt first, Faramis thought that was all a blunt lieâ€”she was only putting on an act, ignorant and hypocritical as the other nobles.\r\n\r\nUntil that one time, Vexana thrust the last \"Moonlight Brew\" in his hands without a second thought — Faramis was stunned. It was equal to giving up the \"hope of life\" to him.\r\n\r\nThe \"hypocrite\" really wanted to save everyone.\r\n\r\nLooking at the noble lady in a new light, Faramis couldn't help but think of his brief encounter with the kindly girl in his childhood...\r\n\r\nThe Mist was nothing like the incurable diseases Faramis had encountered before. After many failed attempts, he finally made a breakthrough by infusing magic into the herbs. And with every progress he made, he insisted on testing the effects on himself. Except, his frail body could only take so much abuse. He soon started feeling the aftermath of his experiments, eventually falling faint in his laboratory.\r\n\r\nLying on the cold floor, Faramis felt his life quickly draining out of him. He clenched his fists and tried to get up, only to find he couldn't even peel open his eyes, his consciousness gradually fading.\r\n\r\n...\r\n\r\nFaramis never thought he could open his eyes again, and when he did, he saw a young lady leaning over, parting his lips to drop a bitter liquid into his mouth. With his mind in a haze, Faramis found the sight overlapped with his memory of the girl in the garden. Looking at the strange but familiar face, Faramis recognized that she was the very same noble girl who'd helped him back then.\r\n\r\nThe girl who'd brought light to his childhood had come to his aid again! During his recovery, Faramis found himself smitten with the young lady who'd saved him from darkness twice. She was the only person who'd never given him up except for his parents.\r\n\r\nAs soon as Faramis recovered, however, Vexana urged him to leave the place, saying it was dangerous for a living person to continue to stay in Necrokeep. The Mist was starting to overpower his enchanted staff. If he stayed any longer, he would soon meet a fate like theirs.\r\n\r\nFaramis said not a word; his eyes fixated on the Moonlight Grass and the fading staff in his hands. His reason told him it was time to leave, but when he stood in front of the castle's gate and saw the forced smile on Vexana's face, he found himself unable to leave like this. Memories of the childhood encounter and the meticulous care in Necrokeep flashed across Faramis's mind. He could not give up the young lady who'd brought light and warmth twice to his life. He had made his choice, he would stay in Necrokeep and finish the task yet to be done.\r\n\r\nFaramis let go of the protection of his staff, finally basking in the blight of the Mist. His skin turned sallow and pale, and yet he felt no fear. He knew he could conquer this scourge. And to do so, to uncover the secrets of life and death, he must experience the curse for himself.\r\n\r\nThis time, it was his turn to pull Vexana out of the misery she was in.",
+    "recommended_skill_order": "3-2-1"
+  },
+  "ratings": {
+    "durability": 4,
+    "offense": 6,
+    "control": 1,
+    "difficulty": 4
+  },
+  "attributes": {
+    "health": 2500,
+    "health_growth": 185,
+    "health_regen": 6.8,
+    "health_regen_growth": 0.2857,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 143,
+    "physical_attack_growth": 5.21,
+    "magic_power": 0,
+    "physical_defense": 20,
+    "physical_defense_growth": 4.5,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 0.98,
+    "attack_speed_growth": 0.0079,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 3.8
+  },
+  "abilities": [
+    {
+      "id": "Faramis0",
+      "name": "Vicious Retrieval",
+      "description": "Every 4s, Faramis' next skill against enemy heroes and summoned objects generates a soul fragment on the spot. Faramis can absorb the soul fragment to restore 100<scaleAP> (+50% Total Magic Power)</scaleAP> HP and gain 2 extra Magic Power (up to 40 stacks). Upon death, he consumes the absorbed soul fragments to reduce the respawn timer, each reducing the timer by 3% (up to 90%). Enemies that die around Faramis also have a chance to drop soul fragments.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ce73fa0ade8a10b183814b1a73f4364d.png",
+      "video_url": null
+    },
+    {
+      "id": "Faramis1",
+      "name": "Shadow Stampede",
+      "description": "Faramis enters the Shadow state for 3s, gaining 70% extra Movement Speed, 25/30/35/40/45/50 extra Physical &amp; Magic Defense, 20% cooldown reduction of this skill, and the ability to move through terrain. Enemy heroes that come into contact with Faramis in this state are dealt 250/280/310/340/370/400<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> and applied with a <highlight>Nether Mark</highlight>. Upon leaving the Shadow state, Faramis drags all the marked enemy heroes toward him, dealing 250/280/310/340/370/400<scaleAP> (+60% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage>. Use again to leave the Shadow state early and drag marked enemies toward him.<br/>The range of soul fragment absorption is increased while this skill is active.",
+      "flavor_text": null,
+      "cost": "85/95/105/115/125/135",
+      "cooldown": "15",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b78fdaeaae006f2d188d3c19c33abe74.png",
+      "video_url": null
+    },
+    {
+      "id": "Faramis2",
+      "name": "Ghost Bursters",
+      "description": "Faramis gathers Nether energy in a fan-shaped area ahead, dealing 330/360/390/420/450/480<scaleAP> (+144% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> to enemies within. The energy will then split and bounce to nearby enemies, dealing 200/220/240/260/280/300<scaleAP> (+86% Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> (splits up to 2 time(s) on enemy hero hits and 1 time(s) on non-enemy hero hits).",
+      "flavor_text": null,
+      "cost": "60/66/72/78/84/90",
+      "cooldown": "6/5.8/5.6/5.4/5.2/5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_27da095c2a1c8aea15d709ddaf3c0eaa.png",
+      "video_url": null
+    },
+    {
+      "id": "Faramis3",
+      "name": "Nether Realm",
+      "description": "Faramis turns his surroundings into the <highlight>Nether Realm</highlight> for 6s, making affected allied heroes (including himself) enter the <highlight>Specter</highlight> state and granting them 400/600/800 plus 10<scaleAP> (+5% Total Magic Power)</scaleAP>% extra HP and 50% extra Movement Speed for 1s. When the <highlight>Specter</highlight> state breaks, the hero will clear all debuffs and enter a brief Resurrection state for 1.3s. An allied hero's <highlight>Specter</highlight> state ends when they leave the <highlight>Nether Realm</highlight>.",
+      "flavor_text": "Pain, destruction, death, rebirth! Enjoy the process!",
+      "cost": "150/250/350",
+      "cooldown": "90/80/70",
+      "tags": [
+        {
+          "name": "Death Immunity",
+          "rgb": "177,157,96"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_894fc862a8e42832b70042e47b14943e.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Faramis0",
+      "sequence": "Faramis3-Faramis1-Faramis1-Faramis2",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Faramis' Ultimate to protect his allies, then get close to the enemy and apply Nether Marks with his 1st Skill. Activate the 1st Skill again to pull them over and follow up with his 2nd Skill for additional damage."
+    },
+    {
+      "id": "Faramis1",
+      "sequence": "Faramis1-Faramis2-Faramis1",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, use Faramis' 1st Skill to get close to the enemy and hit them with his 2nd Skill while applying a Nether Mark with the 1st Skill. Then, use his 1st Skill again to pull the enemy back to him."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Faramis works well with heroes that are designed to dive into the enemy, such as Leomord and Martis, as he'll be able to maximize the life-saving effect of his Ultimate.",
+      "heroes": [
+        {
+          "id": 67,
+          "slug": "leomord",
+          "name": "Leomord"
+        },
+        {
+          "id": 58,
+          "slug": "martis",
+          "name": "Martis"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Faramis' ability to temporarily prevent teammates from being killed makes him a good pick against heroes that go all-in to burst down a target, like Saber and Eudora.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Faramis is countered by high mobility heroes that are difficult for him to catch with his 1st Skill, such as Novaria and Pharsa.",
+      "heroes": [
+        {
+          "id": 119,
+          "slug": "novaria",
+          "name": "Novaria"
+        },
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Faramis-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Faramis-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a171d8e12dd5eda201750e794dd5e313.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a171d8e12dd5eda201750e794dd5e313.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/faramis.json",
+    "visual_catalog": "catalog/v1/visual/faramis.json",
+    "upgrade_catalog": "catalog/v1/upgrade/faramis.json"
+  }
+}

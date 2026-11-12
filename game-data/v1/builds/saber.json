@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 3,
+    "slug": "saber",
+    "name": "Saber"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "saber-community-6271",
+      "name": "Community Build 6271",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "maleficroar",
+        "hunterstrike",
+        "skypiercer",
+        "endlessbattle",
+        "bladeofdespair",
+        "bladeoftheheptaseas"
+      ],
+      "battle_spell_id": "petrify",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "rupture",
+        "masterassassin",
+        "lethalignition"
+      ],
+      "situational_items": [],
+      "notes": "With this build, you are not a frontline fighter but a ghost. Use your MS from hunter and heptaseas to rotate between bushes and achieve a surprising amount of ambush kills. Your only goal is to wait for your enemy marksman and mage to step slightly out of position and the microsecond they do, delete them and dash away before their tank or support can blink. I suggest petrify over execute and flicker since your ult knocks up enemies and petrify can be used just as they land preventing them from using WoN, Winter crown or any dash skills to escape your follow up endless battle enhanced basic attack. And the assassin emblem is non negotiable for its high adaptive pen and MS. If the game goes very late and the enemy builds antique cuirass you could sell blade of heptaseas for either a sea halberd or a second BoD to overpower their defense",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6271,
+      "source_created_at": "2026-03-06T17:03:31.000Z",
+      "likes": 3,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "saber-community-7360",
+      "name": "Community Build 7360",
+      "lane": "Jungle, Roam",
+      "equipment_ids": [
+        "magicboots",
+        "hunterstrike",
+        "skypiercer",
+        "endlessbattle",
+        "bladeofdespair",
+        "seahalberd"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "assassin",
+      "talent_ids": [
+        "thrill",
+        "bargainhunter",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "\"Onimaru is unpredictable.\" No one expects an Inspire Saber. Swap the Piercer for Malefic Roar or Sea Halberd if your teammates are vegetables, or do it late game by selling your boots instead. Prioritize squishies, of course, and turret pushing. You need Bargain Hunter for expensive items and Weakness Finder to ensure they won't escape you (unless they have multiple blinks or dashes, so use this strategically). If the squishies are close to each other and you think you won't be stunned, you can use S1 + Inspire to, as Saber puts it, \"KILL ALL AT ONCE.\" Or just use S1 + Inspire to rush turrets.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 7360,
+      "source_created_at": "2026-04-27T23:14:31.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "saber-companion-baseline",
+      "name": "Companion Assassin Baseline",
+      "lane": "Jungle/Roaming",
+      "equipment_ids": [
+        "toughboots",
+        "hunterstrike",
+        "bladeofdespair",
+        "maleficroar",
+        "queenswings",
+        "immortality"
+      ],
+      "battle_spell_id": "retribution",
+      "emblem_id": "assassin",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.04.074126",
+  "data": [
+    {
+      "enabled": true,
+      "id": "baxia-backup",
+      "portrait_file": "Baxia-Default.png",
+      "script_file": "Baxia-Backup.zip",
+      "skin_name": "Mystic Tortoise",
+      "splash_file": "Baxia-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "baxia-wild-totem",
+      "portrait_file": "Baxia-Wild-Totem.png",
+      "script_file": "Baxia-Wild-Totem.zip",
+      "skin_name": "Wild Totem",
+      "splash_file": "Baxia-Wild-Totem.png",
+      "tag_id": null,
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "baxia-badass-roller",
+      "portrait_file": "Baxia-Badass-Roller.png",
+      "script_file": "Baxia-Badass-Roller.zip",
+      "skin_name": "Badass Roller",
+      "splash_file": "Baxia-Badass-Roller.png",
+      "tag_id": "elite",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "baxia-ba-tender",
+      "portrait_file": "Baxia-Ba-tender.png",
+      "script_file": "Baxia-Ba-tender.zip",
+      "skin_name": "Ba-tender",
+      "splash_file": "Baxia-Ba-tender.png",
+      "tag_id": "special",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "baxia-black-tortoise",
+      "portrait_file": "Baxia-Black-Tortoise.png",
+      "script_file": "Baxia-Black-Tortoise.zip",
+      "skin_name": "Black Tortoise",
+      "splash_file": "Baxia-Black-Tortoise.png",
+      "tag_id": "s30",
+      "tier": "Common"
+    },
+    {
+      "enabled": true,
+      "id": "baxia-dauntless-shield",
+      "portrait_file": "Baxia-Dauntless-Shield.png",
+      "script_file": "Baxia-Dauntless-Shield.zip",
+      "skin_name": "Dauntless Shield",
+      "splash_file": "Baxia-Dauntless-Shield.png",
+      "tag_id": "m6",
+      "tier": "Exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "baxia-aegis-of-honor",
+      "portrait_file": "Baxia-Aegis-of-Honor.png",
+      "script_file": "Baxia-Aegis-of-Honor.zip",
+      "skin_name": "Aegis of Honor",
+      "splash_file": "Baxia-Aegis-of-Honor.png",
+      "tag_id": "msc-2026",
+      "tier": "Deluxe"
+    }
+  ],
+  "hero": {
+    "id": 87,
+    "name": "Baxia",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "baxia"
+  },
+  "release_tag": "visual-baxia",
+  "schema_version": 1,
+  "updated_at": "2026-10-04T07:41:26.070527Z"
+}

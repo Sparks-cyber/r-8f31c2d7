@@ -1,0 +1,86 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "belerick-backup",
+      "portrait_file": "Belerick-Default.png",
+      "script_file": "Belerick-Backup.zip",
+      "skin_name": "Guard of Nature",
+      "splash_file": "Belerick-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "belerick-tiger-s-claw",
+      "portrait_file": "Belerick-Tiger-s-Claw.png",
+      "script_file": "Belerick-Tiger-s-Claw.zip",
+      "skin_name": "Tiger's Claw",
+      "splash_file": "Belerick-Tiger-s-Claw.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "belerick-torch-guardian",
+      "portrait_file": "Belerick-Torch-Guardian.png",
+      "script_file": "Belerick-Torch-Guardian.zip",
+      "skin_name": "Torch Guardian",
+      "splash_file": "Belerick-Torch-Guardian.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "belerick-the-deep-one",
+      "portrait_file": "Belerick-The-Deep-One.png",
+      "script_file": "Belerick-The-Deep-One.zip",
+      "skin_name": "The Deep One",
+      "splash_file": "Belerick-The-Deep-One.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "belerick-emerald-guardian",
+      "portrait_file": "Belerick-Emerald-Guardian.png",
+      "script_file": "Belerick-Emerald-Guardian.zip",
+      "skin_name": "Emerald Guardian",
+      "splash_file": "Belerick-Emerald-Guardian.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "belerick-arbiter-of-stars",
+      "portrait_file": "Belerick-Arbiter-of-Stars.png",
+      "script_file": "Belerick-Arbiter-of-Stars.zip",
+      "skin_name": "Arbiter of Stars",
+      "splash_file": "Belerick-Arbiter-of-Stars.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "belerick-deep-reef-painted-01",
+      "portrait_file": "Belerick-Deep-Reef.png",
+      "script_file": "Belerick-Deep-Reef.zip",
+      "skin_name": "Deep Reef",
+      "splash_file": "Belerick-Deep-Reef.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 70,
+    "name": "Belerick",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "belerick"
+  },
+  "release_tag": "visual-belerick",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

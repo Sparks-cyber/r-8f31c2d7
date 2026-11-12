@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 1,
+    "slug": "miya",
+    "name": "Miya",
+    "skin_name": "Moonlight Archer",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "region": "Azrya Woodlands",
+    "release_date": "2016",
+    "resource": "Mana",
+    "short_description": "The Priestess of the Moon and protector of the Moonlit Forest",
+    "brief": "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection. Miya became the Priestess of the Moon, and for thousands of years she served faithfully in the Lunar Temple, diligently watching over her people. However, with the continued expansion of the Abyss and its dark legions, the Land of Dawn is once again shrouded by the fog of war. From the Moonlit Forest, a call to war that has not been heard in thousands of years sounded again. Miya took up her silver bow and swore by the light of the moon to fight for her people.",
+    "story": "\"What is war, brother?\"\n\"When the races of the Land of Dawn turned on one another instead of embracing unity and mutual prosperity, that is war. When they invaded their neighbors and razed cities to the ground, that is a war. When they choose destruction over peace, cruelty over benevolence, and corruption over purity... that is war.\"\n\"Peace, benevolence, and purity... is that your wish for the world?\"\nEstes did not reply. The outstretched branches of the Tree of Life wrapped around him, and he fell back into deep slumber.\nThis time he would not awaken again for many years. Long enough for Miya to grow from a little girl, who couldn't even reach the branches of the Tree of Life, into a fearless warrior and protector of the Moonlit Forest.\n\nMiya stood atop the trees and scouted the enemy incursion. A warband of orcs and demons had just broken through the border, inflicting a wound on the Lunar Aegis that caused the Tree of Life to shake. With a draw of her bow, three silvery beams of moonlight gracefully danced through the branches before swiftly slaying the leader and sending the rest fleeing in disarray. With the threat gone, the elves channeled the energy from the Tree of Life to repair the breach and restore the Aegis. Peace returned to the forest and all was well.\nMiya, nestled wearily in the trees, had assumed the responsibility of protecting the Moonlit Forest after her brother Estes went into slumber to preserve the energy of the Lunar Aegis. In the beginning, Estes would speak to Miya through the Tree of Life, and it was through these conversations that she learned of the peace, benevolence, and purity that her brother longed for. And in Estes's absence, Miya watched over the forest according to the last words he spoke.\nAs she relaxed and put down her bow, Miya noticed that she had bruised her hand while dealing with the intruders. She began to recall the times when she practiced archery while her brother studied nearby. As a somewhat stubborn child, Miya would often shoot her bow incessantly trying to hit a leaf or branch, until her fingers bled. Her brother would look up from his scroll and, with a wave of his hand, heal her wounds with the forest' magic.\nPerhaps Miya was too attached to the past. She often found herself longing for a time when she could still hide under her brother's protection. Miya snapped back to attention and clenched her fist. This was no time to dwell on the past. She knew the only direction for her was forward, for she had become the hope that her people looked to in these dire times.\nBut Miya knew deep down she was only lying to herself. She turned a blind eye to the outside world as evil gained strength, and only acted when the enemy encroached on her lands. While this has kept the elves from war, how long would it last? Even a fool could see she was delaying the inevitable. A war that's never fought can never be won.\nBut peace, benevolence, and purity were her brother's wishes. How could she willingly plunge her people into the horrors of war? She could not; she would not.\n\nBut war comes and goes as it wishes, and it would come suddenly for the Moon Elves one bloodstained dawn. The orc shock troops tore through the Aegis. But unlike previous attacks, the orcs seemed far more savage this time, as if they've been sent into a mindless bloodlust by dark magic. Black smoke permeated through the forest as the elves awoke to screams and the crackling of burning trees. Great pillars of smoke could be seen from the direction of the Tree of Life.\nWar was here.\n\"Run! Get out of the forest! Our home is lost, save yourselves!\"\nMiya heard the desperate cries, and before she could act, most of her people were already fleeing in panic.\n\n\"Brother... give me an answer!\"\nMiya made one last plea to the Tree of Life as smoke enveloped her, hoping for salvation, but the tree remained silent amidst the scorched Earth.\nMiya looked around at her home, the place where the first oracle emerged from the Tree of Life; the place where the elves first took root; the place where their branches grew into a great empire; the place where the last pure Moon Elves stood firm against the Abyss's corruption. This was their most sacred ground, blessed by the Moon Goddess herself, and Estes's hope for their future.\n\n\"What is war...\"\nShe finally found her answer.\n\"When we have been pushed to the brink of destruction and finally take up arms for our very survival, that is war. When we must defend our last home, the Moonlit Forest, at any cost, that is war.\"\nThe Moon Elves heard Miya's words and looked back to their home.\n\"My people! We have suffered for too long... lived in a fear for too long. There is nowhere left for us to run. If the Moonlit Forest falls, then we will truly have lost everything. Who will stand with me one last time?\"\nAt first, a few dozen elven warriors stepped out from the trees. Then hundreds more followed, holding swords, spears, and bows. As they rushed to Miya's side, their silver hair shimmered like cascading moonlight upon the battlefield.\nThe Tree of Life, too, answered Miya's call. Using it's precious energy, the tree spread its roots in all directions to smother the raging fires, and reinvigorated the Moon Elves for a final counter attack.\nThe Moon Elves rushed out from the trees and caught the Abyss legion completely off guard. They quickly gained the upper hand and pressed their attack until every invader was driven out of the Moonlit Forest. The surviving orcs came to their senses as their bloodlust subsided, and gained a newfound respect for the elves.\n\n\"I understand now, brother.\"\n\"Peace, benevolence, and purity are what you wished for, but if we lose our home, our way of life, then all our efforts will be for naught. If war is already upon our doorstep, then we will meet it head on. We are prepared to sacrifice everything for our home. Give me the strength, courage and faith to protect our people, and our homeland!\"",
+    "recommended_skill_order": "3-1-2-0-1/2"
+  },
+  "ratings": {
+    "durability": 1,
+    "offense": 7,
+    "control": 4,
+    "difficulty": 1
+  },
+  "attributes": {
+    "health": 2320,
+    "health_growth": 150,
+    "health_regen": 6.0,
+    "health_regen_growth": 0.2143,
+    "mana": 500,
+    "mana_growth": 100,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.2,
+    "physical_attack": 115,
+    "physical_attack_growth": 10.0,
+    "magic_power": 0,
+    "physical_defense": 17,
+    "physical_defense_growth": 4.0714,
+    "magic_defense": 15,
+    "magic_defense_growth": 2.5,
+    "attack_speed": 1.06,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 250,
+    "attack_range": 4.8
+  },
+  "abilities": [
+    {
+      "id": "Miya0",
+      "name": "Moon Blessing",
+      "description": "Each time Miya hits a target with her Basic Attack, she gains 5% Attack Speed for 4s. Stacks up to 5 times.<br/><br/>After reaching full stacks, Miya summons a <highlight>Moonlight Shadow</highlight> with each Basic Attack that deals 30<scaleAD> (+25% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and inherits a portion of Attack Effects.",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 25.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbe01740efd779f6059fd2313b427457.png",
+      "video_url": null
+    },
+    {
+      "id": "Miya1",
+      "name": "Moon Arrow",
+      "description": "Miya shoots two extra arrows with each Basic Attack, dealing 10/15/20/25/30/35<scaleAD> (+100% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the target enemy and 30% damage to nearby targets. This effect lasts 4/5/6/7/8/9s. Each extra arrow inherits a portion of Attack Effects.",
+      "flavor_text": null,
+      "cost": "60/65/70/75/80/85",
+      "cooldown": "11",
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": 50.0,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de41566ded345f89064e32da9dfd8893.png",
+      "video_url": null
+    },
+    {
+      "id": "Miya2",
+      "name": "Arrow of Eclipse",
+      "description": "Miya launches an empowered arrow on the target area, dealing 270/300/330/360/390/420<scaleAD> (+45% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies within and immobilizing them for 1.2s. The arrow then splits into 6 scattering minor arrows, each dealing 40/53/66/79/92/105<scaleAD> (+20% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the first enemy hit and slowing them by 30% for 2s.",
+      "flavor_text": null,
+      "cost": "80",
+      "cooldown": "8",
+      "tags": [
+        {
+          "name": "CC",
+          "rgb": "205,93,109"
+        },
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5771dd5686278640dabfaa26839545c.png",
+      "video_url": null
+    },
+    {
+      "id": "Miya3",
+      "name": "Hidden Moonlight",
+      "description": "Miya removes all debuffs on her and conceals herself, gaining 65% extra Movement Speed. This state lasts 2s or until she launches an attack.<br/><br/>Miya gains full stacks of <highlight>Moon Blessing</highlight> upon leaving the state.",
+      "flavor_text": null,
+      "cost": "120/145/170",
+      "cooldown": "30/25/20",
+      "tags": [
+        {
+          "name": "Conceal",
+          "rgb": "97,127,198"
+        },
+        {
+          "name": "Remove CC",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_361546d795e6df7029a1cf1252e57ac8.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Miya0",
+      "sequence": "Miya3-Miya2-Miya1-AA",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, use Miya's Ultimate first to conceal herself, then find an ideal position to attack the enemy and quickly stack her Passive. Utilize her 2nd Skill to immobilize the enemy and activate her 1st Skill to enhance her Basic Attacks to hit multiple targets at once."
+    },
+    {
+      "id": "Miya1",
+      "sequence": "Miya2-Miya1-AA",
+      "name": "LANING COMBOS",
+      "description": "When laning, immobilize the opponent with Miya's 2nd Skill and use her 1st Skill to poke them and clear Minions at the same time."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Miya works well with Tanks who have powerful CC abilities like Belerick and Tigreal since their CCs give her more opportunities to dish out damage.",
+      "heroes": [
+        {
+          "id": 6,
+          "slug": "tigreal",
+          "name": "Tigreal"
+        },
+        {
+          "id": 70,
+          "slug": "belerick",
+          "name": "Belerick"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Miya counters heroes who rely on targeted CC effects, such as Saber and Eudora, because she can easily escape their CC and respond with a strong counterattack. The split arrows from her 1st Skill are also very effective against heroes that summon units, such as Sun.",
+      "heroes": [
+        {
+          "id": 3,
+          "slug": "saber",
+          "name": "Saber"
+        },
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        },
+        {
+          "id": 27,
+          "slug": "sun",
+          "name": "Sun"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Miya is countered by heroes with a lot of AOE damage, such as Pharsa and Yve, because they can still hit her while she is concealed.",
+      "heroes": [
+        {
+          "id": 52,
+          "slug": "pharsa",
+          "name": "Pharsa"
+        },
+        {
+          "id": 101,
+          "slug": "yve",
+          "name": "Yve"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Miya-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Miya-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5264c2a7b30fee59a25fc2133ff001ac.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/gms/image/6667b3e9109ca180e63c524471f29278.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/miya.json",
+    "visual_catalog": "catalog/v1/visual/miya.json",
+    "upgrade_catalog": "catalog/v1/upgrade/miya.json"
+  }
+}

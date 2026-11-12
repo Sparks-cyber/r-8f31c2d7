@@ -1,0 +1,535 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Nana",
+  "role": "Mage",
+  "skins": [
+    {
+      "name": "Elite",
+      "Default_name": "Clockwork Maid",
+      "Splash_url": "Nana-Clockwork-Maid.png",
+      "script": "Nana-Clockwork-Maid-Backup.zip",
+      "Portrait_url": "Nana-Clockwork-Maid.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Clockwork-Maid-Graveyard-Party.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Clockwork-Maid-Slumber-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Clockwork-Maid-Wind-Fairy.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Clockwork-Maid-Mecha-Baby.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Clockwork-Maid-Sundress.zip"
+        },
+        {
+          "name": "Aqua Pura",
+          "Portrait_url": "Nana-Aqua-Pura.png",
+          "Splash_url": "Nana-Aqua-Pura.png",
+          "script": "Nana-Clockwork-Maid-Aqua-Pura.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Clockwork-Maid-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Graveyard Party",
+      "Splash_url": "Nana-Graveyard-Party.png",
+      "script": "Nana-Graveyard-Party-Backup.zip",
+      "Portrait_url": "Nana-Graveyard-Party.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Graveyard-Party-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Graveyard-Party-Slumber-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Graveyard-Party-Wind-Fairy.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Graveyard-Party-Mecha-Baby.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Graveyard-Party-Sundress.zip"
+        },
+        {
+          "name": "Aqua Pura",
+          "Portrait_url": "Nana-Aqua-Pura.png",
+          "Splash_url": "Nana-Aqua-Pura.png",
+          "script": "Nana-Graveyard-Party-Aqua-Pura.zip"
+        },
+        {
+          "name": "Cyclone Clash",
+          "Portrait_url": "Nana-Cyclone-Clash.png",
+          "Splash_url": "Nana-Cyclone-Clash.png",
+          "script": "Nana-Graveyard-Party-Cyclone-Clash.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Graveyard-Party-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Slumber Party",
+      "Splash_url": "Nana-Slumber-Party.png",
+      "script": "Nana-Slumber-Party-Backup.zip",
+      "Portrait_url": "Nana-Slumber-Party.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Slumber-Party-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Slumber-Party-Graveyard-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Slumber-Party-Wind-Fairy.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Slumber-Party-Mecha-Baby.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Slumber-Party-Sundress.zip"
+        },
+        {
+          "name": "Aqua Pura",
+          "Portrait_url": "Nana-Aqua-Pura.png",
+          "Splash_url": "Nana-Aqua-Pura.png",
+          "script": "Nana-Slumber-Party-Aqua-Pura.zip"
+        },
+        {
+          "name": "Cyclone Clash",
+          "Portrait_url": "Nana-Cyclone-Clash.png",
+          "Splash_url": "Nana-Cyclone-Clash.png",
+          "script": "Nana-Slumber-Party-Cyclone-Clash.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Slumber-Party-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "MPL",
+      "Default_name": "Wind Fairy",
+      "Splash_url": "Nana-Wind-Fairy.png",
+      "script": "Nana-Wind-Fairy-Backup.zip",
+      "Portrait_url": "Nana-Wind-Fairy.png",
+      "Tags": [
+        "MPL.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Wind-Fairy-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Wind-Fairy-Graveyard-Party.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Wind-Fairy-Slumber-Party.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Wind-Fairy-Mecha-Baby.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Wind-Fairy-Sundress.zip"
+        },
+        {
+          "name": "Cyclone Clash",
+          "Portrait_url": "Nana-Cyclone-Clash.png",
+          "Splash_url": "Nana-Cyclone-Clash.png",
+          "script": "Nana-Wind-Fairy-Cyclone-Clash.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Wind-Fairy-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Mecha Baby",
+      "Splash_url": "Nana-Mecha-Baby.png",
+      "script": "Nana-Mecha-Baby-Backup.zip",
+      "Portrait_url": "Nana-Mecha-Baby.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Mecha-Baby-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Mecha-Baby-Graveyard-Party.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Mecha-Baby-Slumber-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Mecha-Baby-Wind-Fairy.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Mecha-Baby-Sundress.zip"
+        },
+        {
+          "name": "Aqua Pura",
+          "Portrait_url": "Nana-Aqua-Pura.png",
+          "Splash_url": "Nana-Aqua-Pura.png",
+          "script": "Nana-Mecha-Baby-Aqua-Pura.zip"
+        },
+        {
+          "name": "Cyclone Clash",
+          "Portrait_url": "Nana-Cyclone-Clash.png",
+          "Splash_url": "Nana-Cyclone-Clash.png",
+          "script": "Nana-Mecha-Baby-Cyclone-Clash.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Mecha-Baby-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Sundress",
+      "Splash_url": "Nana-Sundress.png",
+      "script": "Nana-Sundress-Backup.zip",
+      "Portrait_url": "Nana-Sundress.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Sundress-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Sundress-Graveyard-Party.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Sundress-Slumber-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Sundress-Wind-Fairy.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Sundress-Mecha-Baby.zip"
+        },
+        {
+          "name": "Aqua Pura",
+          "Portrait_url": "Nana-Aqua-Pura.png",
+          "Splash_url": "Nana-Aqua-Pura.png",
+          "script": "Nana-Sundress-Aqua-Pura.zip"
+        },
+        {
+          "name": "Cyclone Clash",
+          "Portrait_url": "Nana-Cyclone-Clash.png",
+          "Splash_url": "Nana-Cyclone-Clash.png",
+          "script": "Nana-Sundress-Cyclone-Clash.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Sundress-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Aqua Pura",
+      "Splash_url": "Nana-Aqua-Pura.png",
+      "script": "Nana-Aqua-Pura-Backup.zip",
+      "Portrait_url": "Nana-Aqua-Pura.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Aqua-Pura-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Aqua-Pura-Graveyard-Party.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Aqua-Pura-Slumber-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Aqua-Pura-Wind-Fairy.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Aqua-Pura-Mecha-Baby.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Aqua-Pura-Sundress.zip"
+        },
+        {
+          "name": "Cyclone Clash",
+          "Portrait_url": "Nana-Cyclone-Clash.png",
+          "Splash_url": "Nana-Cyclone-Clash.png",
+          "script": "Nana-Aqua-Pura-Cyclone-Clash.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Aqua-Pura-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Cyclone Clash",
+      "Splash_url": "Nana-Cyclone-Clash.png",
+      "script": "Nana-Cyclone-Clash-Backup.zip",
+      "Portrait_url": "Nana-Cyclone-Clash.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Cyclone-Clash-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Cyclone-Clash-Graveyard-Party.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Cyclone-Clash-Slumber-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Cyclone-Clash-Wind-Fairy.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Cyclone-Clash-Mecha-Baby.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Cyclone-Clash-Sundress.zip"
+        },
+        {
+          "name": "Aqua Pura",
+          "Portrait_url": "Nana-Aqua-Pura.png",
+          "Splash_url": "Nana-Aqua-Pura.png",
+          "script": "Nana-Cyclone-Clash-Aqua-Pura.zip"
+        },
+        {
+          "name": "Mistbender Nana",
+          "Portrait_url": "Nana-Mistbender-Nana.png",
+          "Splash_url": "Nana-Mistbender-Nana.png",
+          "script": "Nana-Cyclone-Clash-Mistbender-Nana.zip"
+        }
+      ]
+    },
+    {
+      "name": "Mistbenders",
+      "Default_name": "Mistbender Nana",
+      "Splash_url": "Nana-Mistbender-Nana.png",
+      "script": "Nana-Mistbender-Nana-Backup.zip",
+      "Portrait_url": "Nana-Mistbender-Nana.png",
+      "Tags": [
+        "Mistbenders.png"
+      ],
+      "targets": [
+        {
+          "name": "Clockwork Maid",
+          "Portrait_url": "Nana-Clockwork-Maid.png",
+          "Splash_url": "Nana-Clockwork-Maid.png",
+          "script": "Nana-Mistbender-Nana-Clockwork-Maid.zip"
+        },
+        {
+          "name": "Graveyard Party",
+          "Portrait_url": "Nana-Graveyard-Party.png",
+          "Splash_url": "Nana-Graveyard-Party.png",
+          "script": "Nana-Mistbender-Nana-Graveyard-Party.zip"
+        },
+        {
+          "name": "Slumber Party",
+          "Portrait_url": "Nana-Slumber-Party.png",
+          "Splash_url": "Nana-Slumber-Party.png",
+          "script": "Nana-Mistbender-Nana-Slumber-Party.zip"
+        },
+        {
+          "name": "Wind Fairy",
+          "Portrait_url": "Nana-Wind-Fairy.png",
+          "Splash_url": "Nana-Wind-Fairy.png",
+          "script": "Nana-Mistbender-Nana-Wind-Fairy.zip"
+        },
+        {
+          "name": "Mecha Baby",
+          "Portrait_url": "Nana-Mecha-Baby.png",
+          "Splash_url": "Nana-Mecha-Baby.png",
+          "script": "Nana-Mistbender-Nana-Mecha-Baby.zip"
+        },
+        {
+          "name": "Sundress",
+          "Portrait_url": "Nana-Sundress.png",
+          "Splash_url": "Nana-Sundress.png",
+          "script": "Nana-Mistbender-Nana-Sundress.zip"
+        },
+        {
+          "name": "Aqua Pura",
+          "Portrait_url": "Nana-Aqua-Pura.png",
+          "Splash_url": "Nana-Aqua-Pura.png",
+          "script": "Nana-Mistbender-Nana-Aqua-Pura.zip"
+        },
+        {
+          "name": "Cyclone Clash",
+          "Portrait_url": "Nana-Cyclone-Clash.png",
+          "Splash_url": "Nana-Cyclone-Clash.png",
+          "script": "Nana-Mistbender-Nana-Cyclone-Clash.zip"
+        }
+      ]
+    }
+  ]
+}

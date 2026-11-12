@@ -1,0 +1,695 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Hanabi",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Resplendent Iris",
+      "Splash_url": "Hanabi-Resplendent-Iris.png",
+      "script": "Hanabi-Resplendent-Iris-Backup.zip",
+      "Portrait_url": "Hanabi-Resplendent-Iris.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Viper",
+          "Portrait_url": "Hanabi-Viper.png",
+          "Splash_url": "Hanabi-Viper.png",
+          "script": "Hanabi-Resplendent-Iris-Viper.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Resplendent-Iris-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Resplendent-Iris-Fiery-Moth.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Resplendent-Iris-Rakshesha.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Resplendent-Iris-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Resplendent-Iris-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-Resplendent-Iris-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Resplendent-Iris-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Resplendent-Iris-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Resplendent-Iris-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Viper",
+      "Splash_url": "Hanabi-Viper.png",
+      "script": "Hanabi-Viper-Backup.zip",
+      "Portrait_url": "Hanabi-Viper.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Viper-Resplendent-Iris.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Viper-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Viper-Fiery-Moth.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Viper-Rakshesha.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Viper-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Viper-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-Viper-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Viper-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Viper-Chic-Glamour.zip"
+        }
+      ]
+    },
+    {
+      "name": "V.E.N.O.M.",
+      "Default_name": "V.E.N.O.M. Nephila",
+      "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+      "script": "Hanabi-V-E-N-O-M-Nephila-Backup.zip",
+      "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+      "Tags": [
+        "VENOM.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Resplendent-Iris.zip"
+        },
+        {
+          "name": "Viper",
+          "Portrait_url": "Hanabi-Viper.png",
+          "Splash_url": "Hanabi-Viper.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Viper.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Fiery-Moth.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-V-E-N-O-M-Nephila-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Fiery Moth",
+      "Splash_url": "Hanabi-Fiery-Moth.png",
+      "script": "Hanabi-Fiery-Moth-Backup.zip",
+      "Portrait_url": "Hanabi-Fiery-Moth.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Fiery-Moth-Resplendent-Iris.zip"
+        },
+        {
+          "name": "Viper",
+          "Portrait_url": "Hanabi-Viper.png",
+          "Splash_url": "Hanabi-Viper.png",
+          "script": "Hanabi-Fiery-Moth-Viper.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Fiery-Moth-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Fiery-Moth-Rakshesha.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Fiery-Moth-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Fiery-Moth-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-Fiery-Moth-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Fiery-Moth-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Fiery-Moth-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Fiery-Moth-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Rakshesha",
+      "Splash_url": "Hanabi-Rakshesha.png",
+      "script": "Hanabi-Rakshesha-Backup.zip",
+      "Portrait_url": "Hanabi-Rakshesha.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Rakshesha-Resplendent-Iris.zip"
+        },
+        {
+          "name": "Viper",
+          "Portrait_url": "Hanabi-Viper.png",
+          "Splash_url": "Hanabi-Viper.png",
+          "script": "Hanabi-Rakshesha-Viper.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Rakshesha-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Rakshesha-Fiery-Moth.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Rakshesha-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Rakshesha-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-Rakshesha-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Rakshesha-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Rakshesha-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Rakshesha-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Field Op",
+      "Splash_url": "Hanabi-Field-Op.png",
+      "script": "Hanabi-Field-Op-Backup.zip",
+      "Portrait_url": "Hanabi-Field-Op.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Field-Op-Resplendent-Iris.zip"
+        },
+        {
+          "name": "Viper",
+          "Portrait_url": "Hanabi-Viper.png",
+          "Splash_url": "Hanabi-Viper.png",
+          "script": "Hanabi-Field-Op-Viper.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Field-Op-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Field-Op-Fiery-Moth.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Field-Op-Rakshesha.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Field-Op-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Field-Op-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Field-Op-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Field-Op-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Riverland Phoenix",
+      "Splash_url": "Hanabi-Riverland-Phoenix.png",
+      "script": "Hanabi-Riverland-Phoenix-Backup.zip",
+      "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Riverland-Phoenix-Resplendent-Iris.zip"
+        },
+        {
+          "name": "Viper",
+          "Portrait_url": "Hanabi-Viper.png",
+          "Splash_url": "Hanabi-Viper.png",
+          "script": "Hanabi-Riverland-Phoenix-Viper.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Riverland-Phoenix-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Riverland-Phoenix-Fiery-Moth.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Riverland-Phoenix-Rakshesha.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Riverland-Phoenix-Field-Op.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-Riverland-Phoenix-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Riverland-Phoenix-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Riverland-Phoenix-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Riverland-Phoenix-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "ALLSTAR",
+      "Default_name": "Moonlit Ninja",
+      "Splash_url": "Hanabi-Moonlit-Ninja.png",
+      "script": "Hanabi-Moonlit-Ninja-Backup.zip",
+      "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+      "Tags": [
+        "ALLSTAR.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Moonlit-Ninja-Resplendent-Iris.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Moonlit-Ninja-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Moonlit-Ninja-Fiery-Moth.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Moonlit-Ninja-Rakshesha.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Moonlit-Ninja-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Moonlit-Ninja-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Moonlit-Ninja-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Moonlit-Ninja-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Moonlit-Ninja-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "Soul Vessels",
+      "Default_name": "Vessel of Rage",
+      "Splash_url": "Hanabi-Vessel-of-Rage.png",
+      "script": "Hanabi-Vessel-of-Rage-Backup.zip",
+      "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+      "Tags": [
+        "Soul Vessels.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Vessel-of-Rage-Resplendent-Iris.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Vessel-of-Rage-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Vessel-of-Rage-Fiery-Moth.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Vessel-of-Rage-Rakshesha.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Vessel-of-Rage-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Vessel-of-Rage-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-Vessel-of-Rage-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Chic Glamour",
+          "Portrait_url": "Hanabi-Chic-Glamour.png",
+          "Splash_url": "Hanabi-Chic-Glamour.png",
+          "script": "Hanabi-Vessel-of-Rage-Chic-Glamour.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Vessel-of-Rage-Emerald-Viper.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Chic Glamour",
+      "Splash_url": "Hanabi-Chic-Glamour.png",
+      "script": "Hanabi-Chic-Glamour-Backup.zip",
+      "Portrait_url": "Hanabi-Chic-Glamour.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Resplendent Iris",
+          "Portrait_url": "Hanabi-Resplendent-Iris.png",
+          "Splash_url": "Hanabi-Resplendent-Iris.png",
+          "script": "Hanabi-Chic-Glamour-Resplendent-Iris.zip"
+        },
+        {
+          "name": "Viper",
+          "Portrait_url": "Hanabi-Viper.png",
+          "Splash_url": "Hanabi-Viper.png",
+          "script": "Hanabi-Chic-Glamour-Viper.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Nephila",
+          "Portrait_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "Splash_url": "Hanabi-V-E-N-O-M-Nephila.png",
+          "script": "Hanabi-Chic-Glamour-V-E-N-O-M-Nephila.zip"
+        },
+        {
+          "name": "Fiery Moth",
+          "Portrait_url": "Hanabi-Fiery-Moth.png",
+          "Splash_url": "Hanabi-Fiery-Moth.png",
+          "script": "Hanabi-Chic-Glamour-Fiery-Moth.zip"
+        },
+        {
+          "name": "Rakshesha",
+          "Portrait_url": "Hanabi-Rakshesha.png",
+          "Splash_url": "Hanabi-Rakshesha.png",
+          "script": "Hanabi-Chic-Glamour-Rakshesha.zip"
+        },
+        {
+          "name": "Field Op",
+          "Portrait_url": "Hanabi-Field-Op.png",
+          "Splash_url": "Hanabi-Field-Op.png",
+          "script": "Hanabi-Chic-Glamour-Field-Op.zip"
+        },
+        {
+          "name": "Riverland Phoenix",
+          "Portrait_url": "Hanabi-Riverland-Phoenix.png",
+          "Splash_url": "Hanabi-Riverland-Phoenix.png",
+          "script": "Hanabi-Chic-Glamour-Riverland-Phoenix.zip"
+        },
+        {
+          "name": "Moonlit Ninja",
+          "Portrait_url": "Hanabi-Moonlit-Ninja.png",
+          "Splash_url": "Hanabi-Moonlit-Ninja.png",
+          "script": "Hanabi-Chic-Glamour-Moonlit-Ninja.zip"
+        },
+        {
+          "name": "Vessel of Rage",
+          "Portrait_url": "Hanabi-Vessel-of-Rage.png",
+          "Splash_url": "Hanabi-Vessel-of-Rage.png",
+          "script": "Hanabi-Chic-Glamour-Vessel-of-Rage.zip"
+        },
+        {
+          "name": "Emerald Viper",
+          "Portrait_url": "Hanabi-Emerald-Viper.png",
+          "Splash_url": "Hanabi - Emerald Viper.jpg",
+          "script": "Hanabi-Chic-Glamour-Emerald-Viper.zip"
+        }
+      ]
+    }
+  ]
+}

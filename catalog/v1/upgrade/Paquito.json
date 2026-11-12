@@ -1,0 +1,575 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Paquito",
+  "role": "Fighter/Assassin",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Death Blow",
+      "Splash_url": "Paquito-Death-Blow.png",
+      "script": "Paquito-Death-Blow-Backup.zip",
+      "Portrait_url": "Paquito-Death-Blow.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Death-Blow-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Death-Blow-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Death-Blow-Fist-of-Light.zip"
+        },
+        {
+          "name": "Blazing Tiger",
+          "Portrait_url": "Paquito-Blazing-Tiger.png",
+          "Splash_url": "Paquito-Blazing-Tiger.png",
+          "script": "Paquito-Death-Blow-Blazing-Tiger.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Death-Blow-Terry-Bogard.zip"
+        },
+        {
+          "name": "Fist of Glory",
+          "Portrait_url": "Paquito-Fist-of-Glory.png",
+          "Splash_url": "Paquito-Fist-of-Glory.png",
+          "script": "Paquito-Death-Blow-Fist-of-Glory.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Death-Blow-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Death-Blow-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Pacquiao Licensed",
+      "Default_name": "Manny Pacquiao",
+      "Splash_url": "Paquito-Manny-Pacquiao.png",
+      "script": "Paquito-Manny-Pacquiao-Backup.zip",
+      "Portrait_url": "Paquito-Manny-Pacquiao.png",
+      "Tags": [
+        "Manny Pacquiao.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Manny-Pacquiao-Death-Blow.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Manny-Pacquiao-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fulgent Punch",
+          "Portrait_url": "Paquito-Fulgent-Punch.png",
+          "Splash_url": "Paquito-Fulgent-Punch.png",
+          "script": "Paquito-Manny-Pacquiao-Fulgent-Punch.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Manny-Pacquiao-Fist-of-Light.zip"
+        },
+        {
+          "name": "Blazing Tiger",
+          "Portrait_url": "Paquito-Blazing-Tiger.png",
+          "Splash_url": "Paquito-Blazing-Tiger.png",
+          "script": "Paquito-Manny-Pacquiao-Blazing-Tiger.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Manny-Pacquiao-Terry-Bogard.zip"
+        },
+        {
+          "name": "Fist of Glory",
+          "Portrait_url": "Paquito-Fist-of-Glory.png",
+          "Splash_url": "Paquito-Fist-of-Glory.png",
+          "script": "Paquito-Manny-Pacquiao-Fist-of-Glory.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Manny-Pacquiao-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Manny-Pacquiao-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Underground Boxer",
+      "Splash_url": "Paquito-Underground-Boxer.png",
+      "script": "Paquito-Underground-Boxer-Backup.zip",
+      "Portrait_url": "Paquito-Underground-Boxer.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Underground-Boxer-Death-Blow.zip"
+        },
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Underground-Boxer-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Fulgent Punch",
+          "Portrait_url": "Paquito-Fulgent-Punch.png",
+          "Splash_url": "Paquito-Fulgent-Punch.png",
+          "script": "Paquito-Underground-Boxer-Fulgent-Punch.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Underground-Boxer-Fist-of-Light.zip"
+        },
+        {
+          "name": "Blazing Tiger",
+          "Portrait_url": "Paquito-Blazing-Tiger.png",
+          "Splash_url": "Paquito-Blazing-Tiger.png",
+          "script": "Paquito-Underground-Boxer-Blazing-Tiger.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Underground-Boxer-Terry-Bogard.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Underground-Boxer-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Underground-Boxer-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Fulgent Punch",
+      "Splash_url": "Paquito-Fulgent-Punch.png",
+      "script": "Paquito-Fulgent-Punch-Backup.zip",
+      "Portrait_url": "Paquito-Fulgent-Punch.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Fulgent-Punch-Death-Blow.zip"
+        },
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Fulgent-Punch-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Fulgent-Punch-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Fulgent-Punch-Fist-of-Light.zip"
+        },
+        {
+          "name": "Blazing Tiger",
+          "Portrait_url": "Paquito-Blazing-Tiger.png",
+          "Splash_url": "Paquito-Blazing-Tiger.png",
+          "script": "Paquito-Fulgent-Punch-Blazing-Tiger.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Fulgent-Punch-Terry-Bogard.zip"
+        },
+        {
+          "name": "Fist of Glory",
+          "Portrait_url": "Paquito-Fist-of-Glory.png",
+          "Splash_url": "Paquito-Fist-of-Glory.png",
+          "script": "Paquito-Fulgent-Punch-Fist-of-Glory.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Fulgent-Punch-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Fulgent-Punch-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Fist of Light",
+      "Splash_url": "Paquito-Fist-of-Light.png",
+      "script": "Paquito-Fist-of-Light-Backup.zip",
+      "Portrait_url": "Paquito-Fist-of-Light.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Fist-of-Light-Death-Blow.zip"
+        },
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Fist-of-Light-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Fist-of-Light-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fulgent Punch",
+          "Portrait_url": "Paquito-Fulgent-Punch.png",
+          "Splash_url": "Paquito-Fulgent-Punch.png",
+          "script": "Paquito-Fist-of-Light-Fulgent-Punch.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Fist-of-Light-Terry-Bogard.zip"
+        },
+        {
+          "name": "Fist of Glory",
+          "Portrait_url": "Paquito-Fist-of-Glory.png",
+          "Splash_url": "Paquito-Fist-of-Glory.png",
+          "script": "Paquito-Fist-of-Light-Fist-of-Glory.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Fist-of-Light-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Fist-of-Light-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Blazing Tiger",
+      "Splash_url": "Paquito-Blazing-Tiger.png",
+      "script": "Paquito-Blazing-Tiger-Backup.zip",
+      "Portrait_url": "Paquito-Blazing-Tiger.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Blazing-Tiger-Death-Blow.zip"
+        },
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Blazing-Tiger-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Blazing-Tiger-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fulgent Punch",
+          "Portrait_url": "Paquito-Fulgent-Punch.png",
+          "Splash_url": "Paquito-Fulgent-Punch.png",
+          "script": "Paquito-Blazing-Tiger-Fulgent-Punch.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Blazing-Tiger-Fist-of-Light.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Blazing-Tiger-Terry-Bogard.zip"
+        },
+        {
+          "name": "Fist of Glory",
+          "Portrait_url": "Paquito-Fist-of-Glory.png",
+          "Splash_url": "Paquito-Fist-of-Glory.png",
+          "script": "Paquito-Blazing-Tiger-Fist-of-Glory.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Blazing-Tiger-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Blazing-Tiger-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "KOF",
+      "Default_name": "Terry Bogard",
+      "Splash_url": "Paquito-Terry-Bogard.png",
+      "script": "Paquito-Terry-Bogard-Backup.zip",
+      "Portrait_url": "Paquito-Terry-Bogard.png",
+      "Tags": [
+        "KOF.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Terry-Bogard-Death-Blow.zip"
+        },
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Terry-Bogard-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Terry-Bogard-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fulgent Punch",
+          "Portrait_url": "Paquito-Fulgent-Punch.png",
+          "Splash_url": "Paquito-Fulgent-Punch.png",
+          "script": "Paquito-Terry-Bogard-Fulgent-Punch.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Terry-Bogard-Fist-of-Light.zip"
+        },
+        {
+          "name": "Blazing Tiger",
+          "Portrait_url": "Paquito-Blazing-Tiger.png",
+          "Splash_url": "Paquito-Blazing-Tiger.png",
+          "script": "Paquito-Terry-Bogard-Blazing-Tiger.zip"
+        },
+        {
+          "name": "Fist of Glory",
+          "Portrait_url": "Paquito-Fist-of-Glory.png",
+          "Splash_url": "Paquito-Fist-of-Glory.png",
+          "script": "Paquito-Terry-Bogard-Fist-of-Glory.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Terry-Bogard-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Terry-Bogard-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Finals MVP",
+      "Default_name": "Fist of Glory",
+      "Splash_url": "Paquito-Fist-of-Glory.png",
+      "script": "Paquito-Fist-of-Glory-Backup.zip",
+      "Portrait_url": "Paquito-Fist-of-Glory.png",
+      "Tags": [
+        "FMVP.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Fist-of-Glory-Death-Blow.zip"
+        },
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Fist-of-Glory-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Fist-of-Glory-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fulgent Punch",
+          "Portrait_url": "Paquito-Fulgent-Punch.png",
+          "Splash_url": "Paquito-Fulgent-Punch.png",
+          "script": "Paquito-Fist-of-Glory-Fulgent-Punch.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Fist-of-Glory-Fist-of-Light.zip"
+        },
+        {
+          "name": "Blazing Tiger",
+          "Portrait_url": "Paquito-Blazing-Tiger.png",
+          "Splash_url": "Paquito-Blazing-Tiger.png",
+          "script": "Paquito-Fist-of-Glory-Blazing-Tiger.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Fist-of-Glory-Terry-Bogard.zip"
+        },
+        {
+          "name": "Ryu (Outfit 2)",
+          "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+          "Splash_url": "Paquito-Ryu-Outfit-2.png",
+          "script": "Paquito-Fist-of-Glory-Ryu-Outfit-2.zip"
+        },
+        {
+          "name": "Ryu (Outfit 1)",
+          "Portrait_url": "Paquito-Ryu-Outfit-1.png",
+          "Splash_url": "Paquito-Ryu-Outfit-1.png",
+          "script": "Paquito-Fist-of-Glory-Ryu-Outfit-1.zip"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter",
+      "Default_name": "Ryu (Outfit 2)",
+      "Splash_url": "Paquito-Ryu-Outfit-2.png",
+      "script": "Paquito-Ryu-Outfit-2-Backup.zip",
+      "Portrait_url": "Paquito-Ryu-Outfit-2.png",
+      "Tags": [
+        "Street Fighter.png"
+      ],
+      "targets": [
+        {
+          "name": "Death Blow",
+          "Portrait_url": "Paquito-Death-Blow.png",
+          "Splash_url": "Paquito-Death-Blow.png",
+          "script": "Paquito-Ryu-Outfit-2-Death-Blow.zip"
+        },
+        {
+          "name": "Manny Pacquiao",
+          "Portrait_url": "Paquito-Manny-Pacquiao.png",
+          "Splash_url": "Paquito-Manny-Pacquiao.png",
+          "script": "Paquito-Ryu-Outfit-2-Manny-Pacquiao.zip"
+        },
+        {
+          "name": "Underground Boxer",
+          "Portrait_url": "Paquito-Underground-Boxer.png",
+          "Splash_url": "Paquito-Underground-Boxer.png",
+          "script": "Paquito-Ryu-Outfit-2-Underground-Boxer.zip"
+        },
+        {
+          "name": "Fulgent Punch",
+          "Portrait_url": "Paquito-Fulgent-Punch.png",
+          "Splash_url": "Paquito-Fulgent-Punch.png",
+          "script": "Paquito-Ryu-Outfit-2-Fulgent-Punch.zip"
+        },
+        {
+          "name": "Fist of Light",
+          "Portrait_url": "Paquito-Fist-of-Light.png",
+          "Splash_url": "Paquito-Fist-of-Light.png",
+          "script": "Paquito-Ryu-Outfit-2-Fist-of-Light.zip"
+        },
+        {
+          "name": "Blazing Tiger",
+          "Portrait_url": "Paquito-Blazing-Tiger.png",
+          "Splash_url": "Paquito-Blazing-Tiger.png",
+          "script": "Paquito-Ryu-Outfit-2-Blazing-Tiger.zip"
+        },
+        {
+          "name": "Terry Bogard",
+          "Portrait_url": "Paquito-Terry-Bogard.png",
+          "Splash_url": "Paquito-Terry-Bogard.png",
+          "script": "Paquito-Ryu-Outfit-2-Terry-Bogard.zip"
+        },
+        {
+          "name": "Fist of Glory",
+          "Portrait_url": "Paquito-Fist-of-Glory.png",
+          "Splash_url": "Paquito-Fist-of-Glory.png",
+          "script": "Paquito-Ryu-Outfit-2-Fist-of-Glory.zip"
+        }
+      ]
+    }
+  ]
+}

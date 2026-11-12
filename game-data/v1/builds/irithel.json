@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 43,
+    "slug": "irithel",
+    "name": "Irithel"
+  },
+  "patch": null,
+  "data": [
+    {
+      "id": "irithel-community-5684",
+      "name": "Community Build 5684",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "rapidboots",
+        "haasclaws",
+        "maleficgun",
+        "windtalker",
+        "berserkersfury",
+        "bladeofdespair"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "fatal",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "This build is for the long game because in the early game there is almost no damage-boosting equipment, so you have to rely heavily on skills.",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 5684,
+      "source_created_at": "2026-02-13T13:35:55.000Z",
+      "likes": 5,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "irithel-community-6347",
+      "name": "Community Build 6347",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "warriorboots",
+        "windtalker",
+        "haasclaws",
+        "skypiercer",
+        "maleficgun",
+        "rosegoldmeteor"
+      ],
+      "battle_spell_id": "sprint",
+      "emblem_id": "marksman",
+      "talent_ids": [
+        "fatal",
+        "wildernessblessing",
+        "weaknessfinder"
+      ],
+      "situational_items": [],
+      "notes": "Top1",
+      "source": "fitri-hy/mlbb-database community submission",
+      "source_url": "https://github.com/fitri-hy/mlbb-database",
+      "source_snapshot": "199e6dedd1a88e604c196429c29d9da8cc582467",
+      "source_build_id": 6347,
+      "source_created_at": "2026-03-09T12:37:18.000Z",
+      "likes": 2,
+      "dislikes": 0,
+      "verification_status": "unverified-community",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    },
+    {
+      "id": "irithel-companion-baseline",
+      "name": "Companion Marksman Baseline",
+      "lane": "Gold Lane",
+      "equipment_ids": [
+        "swiftboots",
+        "windtalker",
+        "berserkersfury",
+        "haasclaws",
+        "maleficgun",
+        "windofnature"
+      ],
+      "battle_spell_id": "inspire",
+      "emblem_id": "marksman",
+      "talent_ids": [],
+      "situational_items": [],
+      "notes": "Generic role-based fallback from the companion app. Adjust defensive and anti-heal items for the enemy draft.",
+      "source": "MLBB Companion local fallback",
+      "source_url": null,
+      "verification_status": "generic-fallback",
+      "updated_at": "2026-08-06T00:00:00Z",
+      "enabled": true
+    }
+  ]
+}

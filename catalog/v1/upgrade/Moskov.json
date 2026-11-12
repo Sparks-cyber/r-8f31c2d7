@@ -1,0 +1,749 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Moskov",
+  "role": "Marksman",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Spear of Bone Dragon",
+      "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+      "script": "Moskov-Spear-of-Bone-Dragon-Backup.zip",
+      "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Spear-of-Bone-Dragon-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Spear-of-Bone-Dragon-Yasha.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Spear-of-Bone-Dragon-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Spear-of-Bone-Dragon-Decapitator.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Spear-of-Bone-Dragon-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Spear-of-Bone-Dragon-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Spear-of-Bone-Dragon-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Spear-of-Bone-Dragon-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Snake Eye Commander",
+      "Splash_url": "Moskov-Snake-Eye-Commander.png",
+      "script": "Moskov-Snake-Eye-Commander-Backup.zip",
+      "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Snake-Eye-Commander-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Snake-Eye-Commander-Yasha.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Snake-Eye-Commander-Javelin-Champion.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Snake-Eye-Commander-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Snake-Eye-Commander-Decapitator.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Snake-Eye-Commander-Blood-Spear.zip"
+        },
+        {
+          "name": "Doom Incarnate",
+          "Portrait_url": "Moskov-Doom-Incarnate.png",
+          "Splash_url": "Moskov-Doom-Incarnate.png",
+          "script": "Moskov-Snake-Eye-Commander-Doom-Incarnate.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Snake-Eye-Commander-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Snake-Eye-Commander-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Snake-Eye-Commander-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Snake-Eye-Commander-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Yasha",
+      "Splash_url": "Moskov-Yasha.png",
+      "script": "Moskov-Yasha-Backup.zip",
+      "Portrait_url": "Moskov-Yasha.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Yasha-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Yasha-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Yasha-Javelin-Champion.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Yasha-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Yasha-Decapitator.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Yasha-Blood-Spear.zip"
+        },
+        {
+          "name": "Doom Incarnate",
+          "Portrait_url": "Moskov-Doom-Incarnate.png",
+          "Splash_url": "Moskov-Doom-Incarnate.png",
+          "script": "Moskov-Yasha-Doom-Incarnate.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Yasha-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Yasha-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Yasha-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Yasha-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "Default_name": "Javelin Champion",
+      "Splash_url": "Moskov-Javelin-Champion.png",
+      "script": "Moskov-Javelin-Champion-Backup.zip",
+      "Portrait_url": "Moskov-Javelin-Champion.png",
+      "Tags": [
+        "Special.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Javelin-Champion-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Javelin-Champion-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Javelin-Champion-Yasha.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Javelin-Champion-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Javelin-Champion-Decapitator.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Javelin-Champion-Blood-Spear.zip"
+        },
+        {
+          "name": "Doom Incarnate",
+          "Portrait_url": "Moskov-Doom-Incarnate.png",
+          "Splash_url": "Moskov-Doom-Incarnate.png",
+          "script": "Moskov-Javelin-Champion-Doom-Incarnate.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Javelin-Champion-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Javelin-Champion-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Javelin-Champion-Spear-of-Dystopia.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Twilight Dragon",
+      "Splash_url": "Moskov-Twilight-Dragon.png",
+      "script": "Moskov-Twilight-Dragon-Backup.zip",
+      "Portrait_url": "Moskov-Twilight-Dragon.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Twilight-Dragon-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Twilight-Dragon-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Twilight-Dragon-Yasha.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Twilight-Dragon-Javelin-Champion.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Twilight-Dragon-Decapitator.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Twilight-Dragon-Blood-Spear.zip"
+        },
+        {
+          "name": "Doom Incarnate",
+          "Portrait_url": "Moskov-Doom-Incarnate.png",
+          "Splash_url": "Moskov-Doom-Incarnate.png",
+          "script": "Moskov-Twilight-Dragon-Doom-Incarnate.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Twilight-Dragon-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Twilight-Dragon-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Twilight-Dragon-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Twilight-Dragon-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Decapitator",
+      "Splash_url": "Moskov-Decapitator.png",
+      "script": "Moskov-Decapitator-Backup.zip",
+      "Portrait_url": "Moskov-Decapitator.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Decapitator-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Decapitator-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Decapitator-Yasha.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Decapitator-Javelin-Champion.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Decapitator-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Decapitator-Blood-Spear.zip"
+        },
+        {
+          "name": "Doom Incarnate",
+          "Portrait_url": "Moskov-Doom-Incarnate.png",
+          "Splash_url": "Moskov-Doom-Incarnate.png",
+          "script": "Moskov-Decapitator-Doom-Incarnate.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Decapitator-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Decapitator-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Decapitator-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Decapitator-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Blood Spear",
+      "Splash_url": "Moskov-Blood-Spear.png",
+      "script": "Moskov-Blood-Spear-Backup.zip",
+      "Portrait_url": "Moskov-Blood-Spear.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Blood-Spear-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Blood-Spear-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Blood-Spear-Yasha.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Blood-Spear-Javelin-Champion.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Blood-Spear-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Blood-Spear-Decapitator.zip"
+        },
+        {
+          "name": "Doom Incarnate",
+          "Portrait_url": "Moskov-Doom-Incarnate.png",
+          "Splash_url": "Moskov-Doom-Incarnate.png",
+          "script": "Moskov-Blood-Spear-Doom-Incarnate.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Blood-Spear-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Blood-Spear-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Blood-Spear-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Blood-Spear-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "ABYSS",
+      "Default_name": "Doom Incarnate",
+      "Splash_url": "Moskov-Doom-Incarnate.png",
+      "script": "Moskov-Doom-Incarnate-Backup.zip",
+      "Portrait_url": "Moskov-Doom-Incarnate.png",
+      "Tags": [
+        "ABYSS.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Doom-Incarnate-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Doom-Incarnate-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Doom-Incarnate-Yasha.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Doom-Incarnate-Javelin-Champion.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Doom-Incarnate-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Doom-Incarnate-Decapitator.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Doom-Incarnate-Blood-Spear.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Doom-Incarnate-Violet-Spear.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Doom-Incarnate-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Doom-Incarnate-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Doom-Incarnate-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Violet Spear",
+      "Splash_url": "Moskov-Violet-Spear.png",
+      "script": "Moskov-Violet-Spear-Backup.zip",
+      "Portrait_url": "Moskov-Violet-Spear.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Violet-Spear-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Violet-Spear-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Violet-Spear-Yasha.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Violet-Spear-Javelin-Champion.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Violet-Spear-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Violet-Spear-Decapitator.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Violet-Spear-Blood-Spear.zip"
+        },
+        {
+          "name": "Doom Incarnate",
+          "Portrait_url": "Moskov-Doom-Incarnate.png",
+          "Splash_url": "Moskov-Doom-Incarnate.png",
+          "script": "Moskov-Violet-Spear-Doom-Incarnate.zip"
+        },
+        {
+          "name": "Infernal Wrymlord",
+          "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+          "Splash_url": "Moskov-Infernal-Wrymlord.png",
+          "script": "Moskov-Violet-Spear-Infernal-Wrymlord.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Violet-Spear-Asian-Javelin-Champion.zip"
+        }
+      ]
+    },
+    {
+      "name": "ALLSTAR 2024",
+      "Default_name": "Infernal Wrymlord",
+      "Splash_url": "Moskov-Infernal-Wrymlord.png",
+      "script": "Moskov-Infernal-Wrymlord-Backup.zip",
+      "Portrait_url": "Moskov-Infernal-Wrymlord.png",
+      "Tags": [
+        "ALLSTAR 2024.png"
+      ],
+      "targets": [
+        {
+          "name": "Spear of Bone Dragon",
+          "Portrait_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "Splash_url": "Moskov-Spear-of-Bone-Dragon.png",
+          "script": "Moskov-Infernal-Wrymlord-Spear-of-Bone-Dragon.zip"
+        },
+        {
+          "name": "Snake Eye Commander",
+          "Portrait_url": "Moskov-Snake-Eye-Commander.png",
+          "Splash_url": "Moskov-Snake-Eye-Commander.png",
+          "script": "Moskov-Infernal-Wrymlord-Snake-Eye-Commander.zip"
+        },
+        {
+          "name": "Yasha",
+          "Portrait_url": "Moskov-Yasha.png",
+          "Splash_url": "Moskov-Yasha.png",
+          "script": "Moskov-Infernal-Wrymlord-Yasha.zip"
+        },
+        {
+          "name": "Javelin Champion",
+          "Portrait_url": "Moskov-Javelin-Champion.png",
+          "Splash_url": "Moskov-Javelin-Champion.png",
+          "script": "Moskov-Infernal-Wrymlord-Javelin-Champion.zip"
+        },
+        {
+          "name": "Twilight Dragon",
+          "Portrait_url": "Moskov-Twilight-Dragon.png",
+          "Splash_url": "Moskov-Twilight-Dragon.png",
+          "script": "Moskov-Infernal-Wrymlord-Twilight-Dragon.zip"
+        },
+        {
+          "name": "Decapitator",
+          "Portrait_url": "Moskov-Decapitator.png",
+          "Splash_url": "Moskov-Decapitator.png",
+          "script": "Moskov-Infernal-Wrymlord-Decapitator.zip"
+        },
+        {
+          "name": "Blood Spear",
+          "Portrait_url": "Moskov-Blood-Spear.png",
+          "Splash_url": "Moskov-Blood-Spear.png",
+          "script": "Moskov-Infernal-Wrymlord-Blood-Spear.zip"
+        },
+        {
+          "name": "Violet Spear",
+          "Portrait_url": "Moskov-Violet-Spear.png",
+          "Splash_url": "Moskov-Violet-Spear.png",
+          "script": "Moskov-Infernal-Wrymlord-Violet-Spear.zip"
+        },
+        {
+          "name": "Spear of Dystopia",
+          "Portrait_url": "Moskov-Spear-of-Dystopia.png",
+          "Splash_url": "Moskov - Spear of Dystopia.jpg",
+          "script": "Moskov-Infernal-Wrymlord-Spear-of-Dystopia.zip"
+        },
+        {
+          "name": "Asian Javelin Champion",
+          "Portrait_url": "Moskov-Asian-Javelin-Champion.png",
+          "Splash_url": "Moskov-Asian-Javelin-Champion.png",
+          "script": "Moskov-Infernal-Wrymlord-Asian-Javelin-Champion.zip"
+        }
+      ]
+    }
+  ]
+}

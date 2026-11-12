@@ -1,0 +1,707 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Angela",
+  "role": "Support",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Dove&Love",
+      "Splash_url": "Angela-Dove-Love.png",
+      "script": "Angela-Dove-Love-Backup.zip",
+      "Portrait_url": "Angela-Dove-Love.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Dove-Love-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Dove-Love-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Dove-Love-Scream-Doll.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Dove-Love-Summer-Vibes.zip"
+        },
+        {
+          "name": "Floral Elf",
+          "Portrait_url": "Angela-Floral-Elf.png",
+          "Splash_url": "Angela-Floral-Elf.png",
+          "script": "Angela-Dove-Love-Floral-Elf.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Dove-Love-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Dove-Love-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Avatar of Time",
+          "Portrait_url": "Angela-Avatar-of-Time.png",
+          "Splash_url": "Angela-Avatar-of-Time.png",
+          "script": "Angela-Dove-Love-Avatar-of-Time.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Dove-Love-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Dove-Love-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Shanghai Maiden",
+      "Splash_url": "Angela-Shanghai-Maiden.png",
+      "script": "Angela-Shanghai-Maiden-Backup.zip",
+      "Portrait_url": "Angela-Shanghai-Maiden.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Shanghai-Maiden-Dove-Love.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Shanghai-Maiden-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Shanghai-Maiden-Scream-Doll.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Shanghai-Maiden-Summer-Vibes.zip"
+        },
+        {
+          "name": "Floral Elf",
+          "Portrait_url": "Angela-Floral-Elf.png",
+          "Splash_url": "Angela-Floral-Elf.png",
+          "script": "Angela-Shanghai-Maiden-Floral-Elf.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Shanghai-Maiden-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Shanghai-Maiden-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Avatar of Time",
+          "Portrait_url": "Angela-Avatar-of-Time.png",
+          "Splash_url": "Angela-Avatar-of-Time.png",
+          "script": "Angela-Shanghai-Maiden-Avatar-of-Time.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Shanghai-Maiden-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Shanghai-Maiden-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "V.E.N.O.M.",
+      "Default_name": "V.E.N.O.M. Vespid",
+      "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+      "script": "Angela-V-E-N-O-M-Vespid-Backup.zip",
+      "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+      "Tags": [
+        "VENOM.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Scream-Doll.zip"
+        },
+        {
+          "name": "Floral Elf",
+          "Portrait_url": "Angela-Floral-Elf.png",
+          "Splash_url": "Angela-Floral-Elf.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Floral-Elf.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Avatar of Time",
+          "Portrait_url": "Angela-Avatar-of-Time.png",
+          "Splash_url": "Angela-Avatar-of-Time.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Avatar-of-Time.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-V-E-N-O-M-Vespid-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Scream Doll",
+      "Splash_url": "Angela-Scream-Doll.png",
+      "script": "Angela-Scream-Doll-Backup.zip",
+      "Portrait_url": "Angela-Scream-Doll.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Scream-Doll-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Scream-Doll-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Scream-Doll-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Scream-Doll-Summer-Vibes.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Scream-Doll-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Scream-Doll-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Scream-Doll-Strings-of-Fate.zip"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "Default_name": "Summer Vibes",
+      "Splash_url": "Angela-Summer-Vibes.png",
+      "script": "Angela-Summer-Vibes-Backup.zip",
+      "Portrait_url": "Angela-Summer-Vibes.png",
+      "Tags": [
+        "Summer.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Summer-Vibes-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Summer-Vibes-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Summer-Vibes-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Summer-Vibes-Scream-Doll.zip"
+        },
+        {
+          "name": "Floral Elf",
+          "Portrait_url": "Angela-Floral-Elf.png",
+          "Splash_url": "Angela-Floral-Elf.png",
+          "script": "Angela-Summer-Vibes-Floral-Elf.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Summer-Vibes-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Summer-Vibes-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Avatar of Time",
+          "Portrait_url": "Angela-Avatar-of-Time.png",
+          "Splash_url": "Angela-Avatar-of-Time.png",
+          "script": "Angela-Summer-Vibes-Avatar-of-Time.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Summer-Vibes-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Summer-Vibes-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Collector",
+      "Default_name": "Floral Elf",
+      "Splash_url": "Angela-Floral-Elf.png",
+      "script": "Angela-Floral-Elf-Backup.zip",
+      "Portrait_url": "Angela-Floral-Elf.png",
+      "Tags": [
+        "Collector.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Floral-Elf-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Floral-Elf-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Floral-Elf-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Floral-Elf-Scream-Doll.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Floral-Elf-Summer-Vibes.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Floral-Elf-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Floral-Elf-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Avatar of Time",
+          "Portrait_url": "Angela-Avatar-of-Time.png",
+          "Splash_url": "Angela-Avatar-of-Time.png",
+          "script": "Angela-Floral-Elf-Avatar-of-Time.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Floral-Elf-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Floral-Elf-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Sanrio",
+      "Default_name": "Heartstring",
+      "Splash_url": "Angela-Heartstring.png",
+      "script": "Angela-Heartstring-Backup.zip",
+      "Portrait_url": "Angela-Heartstring.png",
+      "Tags": [
+        "Sanrio Characters.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Heartstring-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Heartstring-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Heartstring-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Heartstring-Scream-Doll.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Heartstring-Summer-Vibes.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Heartstring-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Avatar of Time",
+          "Portrait_url": "Angela-Avatar-of-Time.png",
+          "Splash_url": "Angela-Avatar-of-Time.png",
+          "script": "Angela-Heartstring-Avatar-of-Time.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Heartstring-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Heartstring-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "The Aspirants",
+      "Default_name": "Cyber Cherubin",
+      "Splash_url": "Angela-Cyber-Cherubin.png",
+      "script": "Angela-Cyber-Cherubin-Backup.zip",
+      "Portrait_url": "Angela-Cyber-Cherubin.png",
+      "Tags": [
+        "The Aspirants.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Cyber-Cherubin-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Cyber-Cherubin-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Cyber-Cherubin-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Cyber-Cherubin-Scream-Doll.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Cyber-Cherubin-Summer-Vibes.zip"
+        },
+        {
+          "name": "Floral Elf",
+          "Portrait_url": "Angela-Floral-Elf.png",
+          "Splash_url": "Angela-Floral-Elf.png",
+          "script": "Angela-Cyber-Cherubin-Floral-Elf.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Cyber-Cherubin-Heartstring.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Cyber-Cherubin-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Cyber-Cherubin-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Annual StarLight",
+      "Default_name": "Avatar of Time",
+      "Splash_url": "Angela-Avatar-of-Time.png",
+      "script": "Angela-Avatar-of-Time-Backup.zip",
+      "Portrait_url": "Angela-Avatar-of-Time.png",
+      "Tags": [
+        "Annual Starlight.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Avatar-of-Time-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Avatar-of-Time-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Avatar-of-Time-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Avatar-of-Time-Scream-Doll.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Avatar-of-Time-Summer-Vibes.zip"
+        },
+        {
+          "name": "Floral Elf",
+          "Portrait_url": "Angela-Floral-Elf.png",
+          "Splash_url": "Angela-Floral-Elf.png",
+          "script": "Angela-Avatar-of-Time-Floral-Elf.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Avatar-of-Time-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Avatar-of-Time-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Strings of Fate",
+          "Portrait_url": "Angela-Strings-of-Fate.png",
+          "Splash_url": "Angela-Strings-of-Fate.png",
+          "script": "Angela-Avatar-of-Time-Strings-of-Fate.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Avatar-of-Time-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Kishin Densetsu",
+      "Default_name": "Strings of Fate",
+      "Splash_url": "Angela-Strings-of-Fate.png",
+      "script": "Angela-Strings-of-Fate-Backup.zip",
+      "Portrait_url": "Angela-Strings-of-Fate.png",
+      "Tags": [
+        "Kishin Densetsu.png"
+      ],
+      "targets": [
+        {
+          "name": "Dove&Love",
+          "Portrait_url": "Angela-Dove-Love.png",
+          "Splash_url": "Angela-Dove-Love.png",
+          "script": "Angela-Strings-of-Fate-Dove-Love.zip"
+        },
+        {
+          "name": "Shanghai Maiden",
+          "Portrait_url": "Angela-Shanghai-Maiden.png",
+          "Splash_url": "Angela-Shanghai-Maiden.png",
+          "script": "Angela-Strings-of-Fate-Shanghai-Maiden.zip"
+        },
+        {
+          "name": "V.E.N.O.M. Vespid",
+          "Portrait_url": "Angela-V-E-N-O-M-Vespid.png",
+          "Splash_url": "Angela-V-E-N-O-M-Vespid.png",
+          "script": "Angela-Strings-of-Fate-V-E-N-O-M-Vespid.zip"
+        },
+        {
+          "name": "Scream Doll",
+          "Portrait_url": "Angela-Scream-Doll.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Strings-of-Fate-Scream-Doll.zip"
+        },
+        {
+          "name": "Summer Vibes",
+          "Portrait_url": "Angela-Summer-Vibes.png",
+          "Splash_url": "Angela-Summer-Vibes.png",
+          "script": "Angela-Strings-of-Fate-Summer-Vibes.zip"
+        },
+        {
+          "name": "Floral Elf",
+          "Portrait_url": "Angela-Floral-Elf.png",
+          "Splash_url": "Angela-Floral-Elf.png",
+          "script": "Angela-Strings-of-Fate-Floral-Elf.zip"
+        },
+        {
+          "name": "Heartstring",
+          "Portrait_url": "Angela-Heartstring.png",
+          "Splash_url": "Angela-Heartstring.png",
+          "script": "Angela-Strings-of-Fate-Heartstring.zip"
+        },
+        {
+          "name": "Cyber Cherubin",
+          "Portrait_url": "Angela-Cyber-Cherubin.png",
+          "Splash_url": "Angela-Cyber-Cherubin.png",
+          "script": "Angela-Strings-of-Fate-Cyber-Cherubin.zip"
+        },
+        {
+          "name": "Avatar of Time",
+          "Portrait_url": "Angela-Avatar-of-Time.png",
+          "Splash_url": "Angela-Avatar-of-Time.png",
+          "script": "Angela-Strings-of-Fate-Avatar-of-Time.zip"
+        },
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Strings-of-Fate-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    },
+    {
+      "name": "Halloween",
+      "Default_name": "Midnight Marionette Skin 11",
+      "Splash_url": "Angela-Midnight-Marionette.png",
+      "script": "Angela-Midnight-Marionette-Skin-11-Backup.zip",
+      "Portrait_url": "Angela-Midnight-Marionette.png",
+      "Tags": [
+        "Halloween.png"
+      ],
+      "targets": [
+        {
+          "name": "Midnight Marionette Painted 01",
+          "Portrait_url": "Angela-Midnight-Marionette.png",
+          "Splash_url": "Angela-Scream-Doll.png",
+          "script": "Angela-Midnight-Marionette-Skin-11-Midnight-Marionette-Painted-01.zip"
+        }
+      ]
+    }
+  ]
+}

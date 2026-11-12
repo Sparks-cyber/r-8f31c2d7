@@ -1,0 +1,116 @@
+{
+  "catalog_version": "2026.08.29.000000",
+  "data": [
+    {
+      "enabled": true,
+      "id": "gatotkaca-cosmos-guardian",
+      "portrait_file": "Gatotkaca - Cosmos Guardian.png",
+      "script_file": "Gatotkaca-Cosmos-Guardian.zip",
+      "skin_name": "Cosmos Guardian",
+      "splash_file": "Gatotkaca - Cosmos Guardian.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-genos",
+      "portrait_file": "Gatotkaca - Genos.png",
+      "script_file": "Gatotkaca-Genos.zip",
+      "skin_name": "Genos",
+      "splash_file": "Gatotkaca - Genos.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-hulk",
+      "portrait_file": "Gatotkaca - Hulk.png",
+      "script_file": "Gatotkaca-Hulk.zip",
+      "skin_name": "Hulk",
+      "splash_file": "Gatotkaca - Hulk.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-jiraiya",
+      "portrait_file": "Gatotkaca - Jiraiya.png",
+      "script_file": "Gatotkaca-Jiraiya.zip",
+      "skin_name": "Jiraiya",
+      "splash_file": "Gatotkaca - Jiraiya.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-kyo-kusanagi",
+      "portrait_file": "Gatotkaca - Kyo Kusanagi.png",
+      "script_file": "Gatotkaca-Kyo-Kusanagi.zip",
+      "skin_name": "Kyo Kusanagi",
+      "splash_file": "Gatotkaca - Kyo Kusanagi.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Games"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-mecha",
+      "portrait_file": "Gatotkaca - Mecha.png",
+      "script_file": "Gatotkaca-Mecha.zip",
+      "skin_name": "Mecha",
+      "splash_file": "Gatotkaca - Mecha.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Original & Fan Concept"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-sakura",
+      "portrait_file": "Gatotkaca - Sakura.png",
+      "script_file": "Gatotkaca-Sakura.zip",
+      "skin_name": "Sakura",
+      "splash_file": "Gatotkaca - Sakura.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-tanjiro",
+      "portrait_file": "Gatotkaca - Tanjiro.png",
+      "script_file": "Gatotkaca-Tanjiro.zip",
+      "skin_name": "Tanjiro",
+      "splash_file": "Gatotkaca - Tanjiro.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Anime & Manga"
+    },
+    {
+      "enabled": true,
+      "id": "gatotkaca-venom",
+      "portrait_file": "Gatotkaca - Venom.png",
+      "script_file": "Gatotkaca-Venom.zip",
+      "skin_name": "Venom",
+      "splash_file": "Gatotkaca - Venom.png",
+      "tag_id": "fanmade",
+      "tier": "FanMade",
+      "category": "Cartoons & Comics"
+    }
+  ],
+  "hero": {
+    "id": 41,
+    "name": "Gatotkaca",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "slug": "gatotkaca"
+  },
+  "release_tag": "custom-gatotkaca",
+  "schema_version": 1,
+  "updated_at": "2026-08-29T00:00:00Z"
+}

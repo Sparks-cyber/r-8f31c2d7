@@ -1,0 +1,106 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "beatrix-backup",
+      "portrait_file": "Beatrix-Default.png",
+      "script_file": "Beatrix-Backup.zip",
+      "skin_name": "Dawnbreak Soldier",
+      "splash_file": "Beatrix-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-x-factor",
+      "portrait_file": "Beatrix-X-Factor.png",
+      "script_file": "Beatrix-X-Factor.zip",
+      "skin_name": "X Factor",
+      "splash_file": "Beatrix-X-Factor.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-blitz-attack",
+      "portrait_file": "Beatrix-Blitz-Attack.png",
+      "script_file": "Beatrix-Blitz-Attack.zip",
+      "skin_name": "Blitz Attack",
+      "splash_file": "Beatrix-Blitz-Attack.png",
+      "tag_id": "elite",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-space-agent",
+      "portrait_file": "Beatrix-Space-Agent.png",
+      "script_file": "Beatrix-Space-Agent.zip",
+      "skin_name": "Space Agent",
+      "splash_file": "Beatrix-Space-Agent.png",
+      "tag_id": "starlight-star",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-light-chaser",
+      "portrait_file": "Beatrix-Light-Chaser.png",
+      "script_file": "Beatrix-Light-Chaser.zip",
+      "skin_name": "Light Chaser",
+      "splash_file": "Beatrix-Light-Chaser.png",
+      "tag_id": "m4",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-stellar-briliance",
+      "portrait_file": "Beatrix-Stellar-Briliance.png",
+      "script_file": "Beatrix-Stellar-Briliance.zip",
+      "skin_name": "Stellar Briliance",
+      "splash_file": "Beatrix-Stellar-Briliance.png",
+      "tag_id": "prime",
+      "tier": "grand"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-vibrant-fiesta",
+      "portrait_file": "Beatrix-Vibrant-Fiesta.png",
+      "script_file": "Beatrix-Vibrant-Fiesta.zip",
+      "skin_name": "Vibrant Fiesta",
+      "splash_file": "Beatrix-Vibrant-Fiesta.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-sky-force-maverick",
+      "portrait_file": "Beatrix-Sky-Force-Maverick.png",
+      "script_file": "Beatrix-Sky-Force-Maverick.zip",
+      "skin_name": "Sky Force Maverick",
+      "splash_file": "Beatrix-Sky-Force-Maverick.png",
+      "tag_id": "elite",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "beatrix-light-seeker-painted-01",
+      "portrait_file": "Beatrix-Light-Seeker.png",
+      "script_file": "Beatrix-Light-Seeker.zip",
+      "skin_name": "Light Seeker",
+      "splash_file": "Beatrix-Light-Seeker.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 105,
+    "name": "Beatrix",
+    "roles": [
+      "Marksman"
+    ],
+    "slug": "beatrix"
+  },
+  "release_tag": "visual-beatrix",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

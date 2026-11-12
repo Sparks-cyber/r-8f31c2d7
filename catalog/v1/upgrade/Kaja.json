@@ -1,0 +1,257 @@
+{
+  "title": "Skin Upgrade Creator",
+  "hero": "Kaja",
+  "role": "Support/Fighter",
+  "skins": [
+    {
+      "name": "Basic",
+      "Default_name": "Commandment",
+      "Splash_url": "Kaja-Commandment.png",
+      "script": "Kaja-Commandment-Backup.zip",
+      "Portrait_url": "Kaja-Commandment.png",
+      "Tags": null,
+      "targets": [
+        {
+          "name": "Kaminari",
+          "Portrait_url": "Kaja-Kaminari.png",
+          "Splash_url": "Kaja-Kaminari.png",
+          "script": "Kaja-Commandment-Kaminari.zip"
+        },
+        {
+          "name": "Horror Whiplash",
+          "Portrait_url": "Kaja-Horror-Whiplash.png",
+          "Splash_url": "Kaja-Horror-Whiplash.png",
+          "script": "Kaja-Commandment-Horror-Whiplash.zip"
+        },
+        {
+          "name": "Skyblocker",
+          "Portrait_url": "Kaja-Skyblocker.png",
+          "Splash_url": "Kaja-Skyblocker.png",
+          "script": "Kaja-Commandment-Skyblocker.zip"
+        },
+        {
+          "name": "Crow Magician",
+          "Portrait_url": "Kaja-Crow-Magician.png",
+          "Splash_url": "Kaja-Crow-Magician.png",
+          "script": "Kaja-Commandment-Crow-Magician.zip"
+        },
+        {
+          "name": "Inferno Taskmaster",
+          "Portrait_url": "Kaja-Inferno-Taskmaster.png",
+          "Splash_url": "Kaja-Inferno-Taskmaster.png",
+          "script": "Kaja-Commandment-Inferno-Taskmaster.zip"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "Default_name": "Kaminari",
+      "Splash_url": "Kaja-Kaminari.png",
+      "script": "Kaja-Kaminari-Backup.zip",
+      "Portrait_url": "Kaja-Kaminari.png",
+      "Tags": [
+        "Starlight Star.png"
+      ],
+      "targets": [
+        {
+          "name": "Commandment",
+          "Portrait_url": "Kaja-Commandment.png",
+          "Splash_url": "Kaja-Commandment.png",
+          "script": "Kaja-Kaminari-Commandment.zip"
+        },
+        {
+          "name": "Horror Whiplash",
+          "Portrait_url": "Kaja-Horror-Whiplash.png",
+          "Splash_url": "Kaja-Horror-Whiplash.png",
+          "script": "Kaja-Kaminari-Horror-Whiplash.zip"
+        },
+        {
+          "name": "Skyblocker",
+          "Portrait_url": "Kaja-Skyblocker.png",
+          "Splash_url": "Kaja-Skyblocker.png",
+          "script": "Kaja-Kaminari-Skyblocker.zip"
+        },
+        {
+          "name": "Crow Magician",
+          "Portrait_url": "Kaja-Crow-Magician.png",
+          "Splash_url": "Kaja-Crow-Magician.png",
+          "script": "Kaja-Kaminari-Crow-Magician.zip"
+        },
+        {
+          "name": "Inferno Taskmaster",
+          "Portrait_url": "Kaja-Inferno-Taskmaster.png",
+          "Splash_url": "Kaja-Inferno-Taskmaster.png",
+          "script": "Kaja-Kaminari-Inferno-Taskmaster.zip"
+        }
+      ]
+    },
+    {
+      "name": "Elite",
+      "Default_name": "Horror Whiplash",
+      "Splash_url": "Kaja-Horror-Whiplash.png",
+      "script": "Kaja-Horror-Whiplash-Backup.zip",
+      "Portrait_url": "Kaja-Horror-Whiplash.png",
+      "Tags": [
+        "Elite.png"
+      ],
+      "targets": [
+        {
+          "name": "Commandment",
+          "Portrait_url": "Kaja-Commandment.png",
+          "Splash_url": "Kaja-Commandment.png",
+          "script": "Kaja-Horror-Whiplash-Commandment.zip"
+        },
+        {
+          "name": "Kaminari",
+          "Portrait_url": "Kaja-Kaminari.png",
+          "Splash_url": "Kaja-Kaminari.png",
+          "script": "Kaja-Horror-Whiplash-Kaminari.zip"
+        },
+        {
+          "name": "Skyblocker",
+          "Portrait_url": "Kaja-Skyblocker.png",
+          "Splash_url": "Kaja-Skyblocker.png",
+          "script": "Kaja-Horror-Whiplash-Skyblocker.zip"
+        },
+        {
+          "name": "Crow Magician",
+          "Portrait_url": "Kaja-Crow-Magician.png",
+          "Splash_url": "Kaja-Crow-Magician.png",
+          "script": "Kaja-Horror-Whiplash-Crow-Magician.zip"
+        },
+        {
+          "name": "Inferno Taskmaster",
+          "Portrait_url": "Kaja-Inferno-Taskmaster.png",
+          "Splash_url": "Kaja-Inferno-Taskmaster.png",
+          "script": "Kaja-Horror-Whiplash-Inferno-Taskmaster.zip"
+        }
+      ]
+    },
+    {
+      "name": "Luckybox",
+      "Default_name": "Skyblocker",
+      "Splash_url": "Kaja-Skyblocker.png",
+      "script": "Kaja-Skyblocker-Backup.zip",
+      "Portrait_url": "Kaja-Skyblocker.png",
+      "Tags": [
+        "Luckybox.png"
+      ],
+      "targets": [
+        {
+          "name": "Commandment",
+          "Portrait_url": "Kaja-Commandment.png",
+          "Splash_url": "Kaja-Commandment.png",
+          "script": "Kaja-Skyblocker-Commandment.zip"
+        },
+        {
+          "name": "Kaminari",
+          "Portrait_url": "Kaja-Kaminari.png",
+          "Splash_url": "Kaja-Kaminari.png",
+          "script": "Kaja-Skyblocker-Kaminari.zip"
+        },
+        {
+          "name": "Horror Whiplash",
+          "Portrait_url": "Kaja-Horror-Whiplash.png",
+          "Splash_url": "Kaja-Horror-Whiplash.png",
+          "script": "Kaja-Skyblocker-Horror-Whiplash.zip"
+        },
+        {
+          "name": "Crow Magician",
+          "Portrait_url": "Kaja-Crow-Magician.png",
+          "Splash_url": "Kaja-Crow-Magician.png",
+          "script": "Kaja-Skyblocker-Crow-Magician.zip"
+        },
+        {
+          "name": "Inferno Taskmaster",
+          "Portrait_url": "Kaja-Inferno-Taskmaster.png",
+          "Splash_url": "Kaja-Inferno-Taskmaster.png",
+          "script": "Kaja-Skyblocker-Inferno-Taskmaster.zip"
+        }
+      ]
+    },
+    {
+      "name": "Season",
+      "Default_name": "Crow Magician",
+      "Splash_url": "Kaja-Crow-Magician.png",
+      "script": "Kaja-Crow-Magician-Backup.zip",
+      "Portrait_url": "Kaja-Crow-Magician.png",
+      "Tags": [
+        "Seasons.png"
+      ],
+      "targets": [
+        {
+          "name": "Commandment",
+          "Portrait_url": "Kaja-Commandment.png",
+          "Splash_url": "Kaja-Commandment.png",
+          "script": "Kaja-Crow-Magician-Commandment.zip"
+        },
+        {
+          "name": "Kaminari",
+          "Portrait_url": "Kaja-Kaminari.png",
+          "Splash_url": "Kaja-Kaminari.png",
+          "script": "Kaja-Crow-Magician-Kaminari.zip"
+        },
+        {
+          "name": "Horror Whiplash",
+          "Portrait_url": "Kaja-Horror-Whiplash.png",
+          "Splash_url": "Kaja-Horror-Whiplash.png",
+          "script": "Kaja-Crow-Magician-Horror-Whiplash.zip"
+        },
+        {
+          "name": "Skyblocker",
+          "Portrait_url": "Kaja-Skyblocker.png",
+          "Splash_url": "Kaja-Skyblocker.png",
+          "script": "Kaja-Crow-Magician-Skyblocker.zip"
+        },
+        {
+          "name": "Inferno Taskmaster",
+          "Portrait_url": "Kaja-Inferno-Taskmaster.png",
+          "Splash_url": "Kaja-Inferno-Taskmaster.png",
+          "script": "Kaja-Crow-Magician-Inferno-Taskmaster.zip"
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "Default_name": "Inferno Taskmaster",
+      "Splash_url": "Kaja-Inferno-Taskmaster.png",
+      "script": "Kaja-Inferno-Taskmaster-Backup.zip",
+      "Portrait_url": "Kaja-Inferno-Taskmaster.png",
+      "Tags": [
+        "Epic.png"
+      ],
+      "targets": [
+        {
+          "name": "Commandment",
+          "Portrait_url": "Kaja-Commandment.png",
+          "Splash_url": "Kaja-Commandment.png",
+          "script": "Kaja-Inferno-Taskmaster-Commandment.zip"
+        },
+        {
+          "name": "Kaminari",
+          "Portrait_url": "Kaja-Kaminari.png",
+          "Splash_url": "Kaja-Kaminari.png",
+          "script": "Kaja-Inferno-Taskmaster-Kaminari.zip"
+        },
+        {
+          "name": "Horror Whiplash",
+          "Portrait_url": "Kaja-Horror-Whiplash.png",
+          "Splash_url": "Kaja-Horror-Whiplash.png",
+          "script": "Kaja-Inferno-Taskmaster-Horror-Whiplash.zip"
+        },
+        {
+          "name": "Skyblocker",
+          "Portrait_url": "Kaja-Skyblocker.png",
+          "Splash_url": "Kaja-Skyblocker.png",
+          "script": "Kaja-Inferno-Taskmaster-Skyblocker.zip"
+        },
+        {
+          "name": "Crow Magician",
+          "Portrait_url": "Kaja-Crow-Magician.png",
+          "Splash_url": "Kaja-Crow-Magician.png",
+          "script": "Kaja-Inferno-Taskmaster-Crow-Magician.zip"
+        }
+      ]
+    }
+  ]
+}

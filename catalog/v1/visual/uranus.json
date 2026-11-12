@@ -1,0 +1,96 @@
+{
+  "catalog_version": "2026.10.03.172203",
+  "data": [
+    {
+      "enabled": true,
+      "id": "uranus-backup",
+      "portrait_file": "Uranus-Default.png",
+      "script_file": "Uranus-Backup.zip",
+      "skin_name": "Aethereal Defender",
+      "splash_file": "Uranus-Default.png",
+      "tag_id": null,
+      "tier": "Default"
+    },
+    {
+      "enabled": true,
+      "id": "uranus-ancient-soul",
+      "portrait_file": "Uranus-Ancient-Soul.png",
+      "script_file": "Uranus-Ancient-Soul.zip",
+      "skin_name": "Ancient Soul",
+      "splash_file": "Uranus-Ancient-Soul.png",
+      "tag_id": null,
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "uranus-mech-protector",
+      "portrait_file": "Uranus-Mech-Protector.png",
+      "script_file": "Uranus-Mech-Protector.zip",
+      "skin_name": "Mech Protector",
+      "splash_file": "Uranus-Mech-Protector.png",
+      "tag_id": "rising",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "uranus-video-game-dominator",
+      "portrait_file": "Uranus-Video-Game-Dominator.png",
+      "script_file": "Uranus-Video-Game-Dominator.zip",
+      "skin_name": "Video-Game Dominator",
+      "splash_file": "Uranus-Video-Game-Dominator.png",
+      "tag_id": "luckybox",
+      "tier": "exquisite"
+    },
+    {
+      "enabled": true,
+      "id": "uranus-pinball-machine",
+      "portrait_file": "Uranus-Pinball-Machine.png",
+      "script_file": "Uranus-Pinball-Machine.zip",
+      "skin_name": "Pinball Machine",
+      "splash_file": "Uranus-Pinball-Machine.png",
+      "tag_id": "special",
+      "tier": "exceptional"
+    },
+    {
+      "enabled": true,
+      "id": "uranus-celestial-bastion",
+      "portrait_file": "Uranus-Celestial-Bastion.png",
+      "script_file": "Uranus-Celestial-Bastion.zip",
+      "skin_name": "Celestial Bastion",
+      "splash_file": "Uranus-Celestial-Bastion.png",
+      "tag_id": "epic",
+      "tier": "deluxe"
+    },
+    {
+      "enabled": true,
+      "id": "uranus-earthen-relic",
+      "portrait_file": "Uranus-Earthen-Relic.png",
+      "script_file": "Uranus-Earthen-Relic.zip",
+      "skin_name": "Earthen Relic",
+      "splash_file": "Uranus-Earthen-Relic.png",
+      "tag_id": "s25",
+      "tier": "common"
+    },
+    {
+      "enabled": true,
+      "id": "uranus-fortune-machine-painted-01",
+      "portrait_file": "Uranus-Fortune-Machine.png",
+      "script_file": "Uranus-Fortune-Machine.zip",
+      "skin_name": "Fortune Machine",
+      "splash_file": "Uranus-Fortune-Machine.png",
+      "tag_id": "painted",
+      "tier": "painted"
+    }
+  ],
+  "hero": {
+    "id": 59,
+    "name": "Uranus",
+    "roles": [
+      "Tank"
+    ],
+    "slug": "uranus"
+  },
+  "release_tag": "visual-uranus",
+  "schema_version": 1,
+  "updated_at": "2026-10-03T17:22:03.996767Z"
+}

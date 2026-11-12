@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "hero": {
+    "id": 65,
+    "slug": "claude",
+    "name": "Claude",
+    "skin_name": "Master Thief",
+    "roles": [
+      "Marksman"
+    ],
+    "primary_role": "Marksman"
+  },
+  "overview": {
+    "lanes": [
+      "Gold Lane"
+    ],
+    "primary_lane": "Gold Lane",
+    "damage_type": "Physical",
+    "specialties": [
+      "Burst",
+      "Chase"
+    ],
+    "region": "Agelta Drylands",
+    "release_date": "7 August 2018",
+    "resource": null,
+    "short_description": "An excellent thief who comes and goes without a trace.",
+    "brief": "Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane.",
+    "story": "Claude was born in Los Pecados, a western city in the Land of Dawn. An infamous city of sins without a ruler or order, lawless and ravaged by crime.\n\nGrowing up in such a place as an orphan, Claude soon learned how to fight, lie, gamble and steal: tricks of the trade he had to rely upon to survive. He was especially talented in the latter, and no cutpurse he'd ever met matched him when it came to his sharp eye and nimble fingers.\n\nIt wasn't long until he became leader of a vagrant band, relying upon his 'skills', and making a name for himself in Los Pecados. He found one who would offer him and his gang protection—Waldo Kane. Kane was yet to achieve the monopoly over Los Pecados that he'd dreamed of. Wild ambition and conspiracy brewed deep within him. To him, this motley crew of street roamers with no place to call home were the perfect tools to achieve his goals. Behind a mask of benevolence, he manipulated these kids, with smooth lies and false compassion leading them down a dark path. He molded them into becoming members of his criminal group, each misguided child referring to him as 'Father'.\n\nAt the age of 18, Claude was given a monumental task: he was to head to Castle Grandrock in northern Moniyan, sneak into the Duke of Vance's home. Then, he would feign stealing secret accounts, while actually casting the blame on another gang. Kane promised Claude that he'd have people waiting for him once he was inside. Once he'd completed his mission Claude and his team would be rewarded with a place to live of their own. No longer would they need to live in the slums.\n\nThe truth, however, was nothing Claude could have ever imagined. There was nobody waiting for him: he was but a mere pawn, and neither he nor his brothers would be receiving any kind of reward. Like Claude, they were just stepping stones for their 'Father' to become king of Los Pecados.\n\nAnd so, when he slipped into the Duke's mansion, he found an inescapable trap awaiting him. All Claude could do was accept his fate, and he was taken into custody. Following a hasty trial[,] he was soon pronounced guilty of all charges, and thrown into a cold, dark cell.\n\nLocked up in chains, Claude burned with regret. The only thing in his mind that kept him going was his gang of brothers, lost with nowhere to go.\n\nThe days passed slowly. One day, Claude was made to switch cells, his new cell shared with an old man with a beard and hair as white as snow. That peculiar old fellow was none other than the master thief of legend—Merlin. The powerful and incredibly resourceful Merlin had a reason for being locked up in a cell. A reason that left Claude dumbstruck: he just wanted a quiet place to retire.\n\nThe cunning Claude reminded Merlin of his younger self. Hence, he decided to pass on to him his legacy. Yet, in return, Claude would need to acquiesce to a most peculiar request of Merlin's. Once out of prison, he must loot each city across the Land of Dawn, leaving behind his name as a calling card.\n\nIn the two years that followed, Claude inherited each of Merlin's wondrous techniques of deceit, escape and combat among others. His abilities grew until he was ready to steal anything he could imagine. One night, Claude enacted upon his perfect prison break plan, stealing back his freedom.\n\nTo make good on his promise, Claude traveled throughout the Land of Dawn in the several years that followed. The streets bristled with whispers of the master thief Claude, his charm and his incredible skill. With his trademark carefree smile, Claude was your man if you ever needed something stolen, no matter what. All he asked is that the pay be generous, and the one to be stolen from, evil.\n\nAs this continued, Claude came to be joined by the perfect partner—the mysterious Dexter. This mischievous little monkey first met Claude in Moniyan, when he stole a lucky gold coin straight from under his nose. After a brief pursuit, their friendship blossomed, and Claude took Dexter on as his partner-in-crime. And so[,] their adventures began.\n\nOn the fifth year of his departure from Los Pecados, Claude finally completed the promise he'd made to Merlin. He'd left his traces in every city in the Land of Dawn.\n\nNext, he would return to Los Pecados. Yet nothing could have prepared Claude for what he saw when he returned after those five years away. His brethren of old hadn't risen up the underworld ranks, escaped from poverty with their manipulative 'Father'. No, a fate quite different had befallen them. Instead, he saw that not only were there still pitiable street kids around every corner of this run-down city, ones like Claude of the past; there were even more than before.\n\nClaude had been deceived and it filled him with a violent rage. He began to plan his revenge as it swirled up inside him. Waldo Kane had achieved his monopoly over the city, becoming the kingpin of Los Pecados. In order to exact his revenge, Claude slipped into Eruditio and with Dexter's aid feigned capture, entering prison. He then stole Dr. Rooney's latest invention—a most odd holographic mirror device.\n\nPleased with his success, it was then that Claude noticed a line of text upon the device: \"I hope this device serves you well. If you've any ideas or suggestions on how to improve it, contact me immediately!—Rooney.\"\n\nWith this 'gift' from Dr. Rooney, Claude and Dexter made tracks for Los Pecados. In this chaotic city of nefarious deals outside of the law, he would make he who had deceived him in the past pay the price.",
+    "recommended_skill_order": "3-1-2"
+  },
+  "ratings": {
+    "durability": 3,
+    "offense": 6,
+    "control": 1,
+    "difficulty": 6
+  },
+  "attributes": {
+    "health": 2380,
+    "health_growth": 130,
+    "health_regen": 8.0,
+    "health_regen_growth": 0.2286,
+    "mana": 500,
+    "mana_growth": 0,
+    "mana_regen": 4.0,
+    "mana_regen_growth": 0.0,
+    "physical_attack": 100,
+    "physical_attack_growth": 7.0,
+    "magic_power": 0,
+    "physical_defense": 18,
+    "physical_defense_growth": 3.0,
+    "magic_defense": 15,
+    "magic_defense_growth": 1.6429,
+    "attack_speed": 1.03,
+    "attack_speed_growth": 0.015,
+    "attack_speed_ratio": 1.0,
+    "critical_damage": 2.0,
+    "movement_speed": 240,
+    "attack_range": 4.2
+  },
+  "abilities": [
+    {
+      "id": "Claude0",
+      "name": "Battle Side-by-side",
+      "description": "<highlight>Dexter</highlight> assists Claude on each of his Basic Attacks, dealing 25<scaleAD> (+25% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to the same target (inherits a portion of Attack Effects).",
+      "flavor_text": null,
+      "cost": null,
+      "cooldown": null,
+      "tags": [
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 25.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7d29db8de0b94e9eba7f11ccc9ba5fe.png",
+      "video_url": null
+    },
+    {
+      "id": "Claude1",
+      "name": "Art of Thievery",
+      "description": "Claude emits a disruption wave in the target direction, dealing 250/270/290/310/330/350<scaleAD> (+40% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to enemies in a fan-shaped area and reducing their Movement Speed by 20/20/25/25/30/30% and Attack Speed by 10/12/14/16/18/20%.<br/><br/>For each enemy hit, Claude gains 4/4.6/5.2/5.8/6.4/7% Movement &amp; Attack Speed (doubled for enemy heroes hit) for 6s (up to 5 stacks).",
+      "flavor_text": null,
+      "cost": "35/38/41/44/47/50",
+      "cooldown": "5",
+      "tags": [
+        {
+          "name": "AOE",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Buff",
+          "rgb": "79,156,184"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": null,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85c4a7d85b9e8cce8abd73103b799211.png",
+      "video_url": null
+    },
+    {
+      "id": "Claude2",
+      "name": "Battle Mirror Image",
+      "description": "Claude conjures a mirror image of <highlight>Dexter</highlight> at the target location that automatically attacks nearby enemies for 5.5s. The mirror image's Basic Attack deals 25<scaleAD> (+25% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> and can trigger Claude's attack effects.<br/><br/><highlight>Use Again</highlight>: Claude switches places with the mirror image.",
+      "flavor_text": null,
+      "cost": "90",
+      "cooldown": "13/12.5/12/11.5/11/10.5",
+      "tags": [
+        {
+          "name": "Mobility",
+          "rgb": "162,105,198"
+        },
+        {
+          "name": "Summon",
+          "rgb": "97,127,198"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 25.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4ed9a12bdc87446ede283c2565818af.png",
+      "video_url": null
+    },
+    {
+      "id": "Claude3",
+      "name": "Blazing Duet",
+      "description": "Claude and <highlight>Dexter</highlight> rapidly fire at nearby enemies for 3s, dealing 40/50/60<scaleAD> (+40% Total Physical Attack)</scaleAD> <physicalDamage>Physical Damage</physicalDamage> to up to two enemies with each shot (these attacks count as Basic Attacks). Claude also gains a 20<scaleAD> (+3% Total Physical Attack)</scaleAD> shield each time the Ultimate deals damage to an enemy.",
+      "flavor_text": null,
+      "cost": "100/120/140",
+      "cooldown": "50/45/40",
+      "tags": [
+        {
+          "name": "Burst",
+          "rgb": "199,121,85"
+        },
+        {
+          "name": "Shield",
+          "rgb": "89,168,111"
+        }
+      ],
+      "spell_vamp_ratio": null,
+      "attack_effects": 40.0,
+      "icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2f39bddfb464a59b108e8985af0bd57.png",
+      "video_url": null
+    }
+  ],
+  "combos": [
+    {
+      "id": "Claude0",
+      "sequence": "Claude1-Claude2-Claude3",
+      "name": "TEAMFIGHT COMBOS",
+      "description": "In teamfights, Claude should use his 1st Skill to stack up his buff first, and look for the best opportunities to get close to enemies with his 2nd Skill, and then use his Ultimate to finish them off."
+    },
+    {
+      "id": "Claude1",
+      "sequence": "Claude1-AA-Claude2-Claude3",
+      "name": "LANING COMBOS",
+      "description": "In the laning phase, Claude can use his 1st Skill to poke the enemy, and use his 2nd Skill to close in on them when their HP is low, then use his Ultimate to kill them."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "assist",
+      "description": "Claude works best with heroes who can buff him, like Angela and Faramis.",
+      "heroes": [
+        {
+          "id": 55,
+          "slug": "angela",
+          "name": "Angela"
+        },
+        {
+          "id": 76,
+          "slug": "faramis",
+          "name": "Faramis"
+        }
+      ]
+    },
+    {
+      "type": "strong",
+      "description": "Claude is strong against heroes with weak CC abilities and poor Mobility, so he can easily dodge their attacks with his 2nd Skill, such as Vexana and Luo Yi.",
+      "heroes": [
+        {
+          "id": 38,
+          "slug": "vexana",
+          "name": "Vexana"
+        },
+        {
+          "id": 112,
+          "slug": "floryn",
+          "name": "Floryn"
+        }
+      ]
+    },
+    {
+      "type": "weak",
+      "description": "Claude is countered by heroes with powerful CC abilities. Their CC abilities will cause Claude to lose his Mobility advantage. Like Eudora and Franco.",
+      "heroes": [
+        {
+          "id": 15,
+          "slug": "eudora",
+          "name": "Eudora"
+        },
+        {
+          "id": 10,
+          "slug": "franco",
+          "name": "Franco"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Claude-Default.png",
+    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Claude-Default.png",
+    "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1edf19b0839ffd2bffb60b4ee4953239.jpg",
+    "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1edf19b0839ffd2bffb60b4ee4953239.jpg",
+    "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+    "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png"
+  },
+  "endpoints": {
+    "builds": "game-data/v1/builds/claude.json",
+    "visual_catalog": "catalog/v1/visual/claude.json",
+    "upgrade_catalog": "catalog/v1/upgrade/claude.json"
+  }
+}
