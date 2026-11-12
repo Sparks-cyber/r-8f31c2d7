@@ -215,8 +215,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zhuxin-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zhuxin-Default.png",
+    "portrait_url": "/Heroes/Portrait/Zhuxin-Default.png",
+    "splash_url": "/Heroes/Splash/Zhuxin-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",

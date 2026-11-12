@@ -215,8 +215,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Miya-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Miya-Default.png",
+    "portrait_url": "/Heroes/Portrait/Miya-Default.png",
+    "splash_url": "/Heroes/Splash/Miya-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5264c2a7b30fee59a25fc2133ff001ac.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/6667b3e9109ca180e63c524471f29278.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",

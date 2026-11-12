@@ -202,8 +202,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Cici-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Cici-Default.png",
+    "portrait_url": "/Heroes/Portrait/Cici-Default.png",
+    "splash_url": "/Heroes/Splash/Cici-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_eb1705dc650b3980d57c638d02bfb470.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_eb1705dc650b3980d57c638d02bfb470.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",

@@ -211,8 +211,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Granger-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Granger-Default.png",
+    "portrait_url": "/Heroes/Portrait/Granger-Default.png",
+    "splash_url": "/Heroes/Splash/Granger-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_210fbb68eac6f90b1b14b05e8334cca8.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/5d272478f2f89dcae9e6896cb19743ac.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",

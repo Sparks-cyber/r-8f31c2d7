@@ -211,8 +211,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Mathilda-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Mathilda-Default.png",
+    "portrait_url": "/Heroes/Portrait/Mathilda-Default.png",
+    "splash_url": "/Heroes/Splash/Mathilda-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",

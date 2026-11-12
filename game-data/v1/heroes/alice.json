@@ -216,8 +216,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Alice-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Alice-Default.png",
+    "portrait_url": "/Heroes/Portrait/Alice-Default.png",
+    "splash_url": "/Heroes/Splash/Alice-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c84ee7bcecb63115431b0a41e3a95e8b.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/66c9a33b830173a5fd93d9940429b491.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",

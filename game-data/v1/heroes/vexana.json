@@ -216,8 +216,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Vexana-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Vexana-Default.png",
+    "portrait_url": "/Heroes/Portrait/Vexana-Default.png",
+    "splash_url": "/Heroes/Splash/Vexana-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f1a01e297d30d147c16342efc357275e.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f1a01e297d30d147c16342efc357275e.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",

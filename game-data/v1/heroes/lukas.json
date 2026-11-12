@@ -282,9 +282,9 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lukas-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lukas-Default.png",
-    "square_portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lukas-Default.png",
+    "portrait_url": "/Heroes/Portrait/Lukas-Default.png",
+    "splash_url": "/Heroes/Portrait/Lukas-Default.png",
+    "square_portrait_url": "/Heroes/Portrait/Lukas-Default.png",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/95b6f94a0e37fd02e069223493540e75.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
     "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png"

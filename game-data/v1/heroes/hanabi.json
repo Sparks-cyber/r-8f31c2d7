@@ -206,8 +206,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hanabi-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hanabi-Default.png",
+    "portrait_url": "/Heroes/Portrait/Hanabi-Default.png",
+    "splash_url": "/Heroes/Splash/Hanabi-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5566e9ed17e8ea698038b93b74c469fc.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/0208ca2382d8cfdcd277ef5d532316f7.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",

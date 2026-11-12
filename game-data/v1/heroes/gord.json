@@ -202,8 +202,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Gord-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Gord-Default.png",
+    "portrait_url": "/Heroes/Portrait/Gord-Default.png",
+    "splash_url": "/Heroes/Splash/Gord-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ce8772b2105f47b54a6efd85371944da.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/fe7d492d0a71f96da12ff710d41a76cb.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",

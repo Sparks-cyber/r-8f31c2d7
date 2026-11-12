@@ -225,8 +225,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Yve-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Yve-Default.png",
+    "portrait_url": "/Heroes/Portrait/Yve-Default.png",
+    "splash_url": "/Heroes/Splash/Yve-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_02015d34154d56f3cfdbfdcbf5c2b813.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/0b6e910cb702dcbb68614c9bac4ba590.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",

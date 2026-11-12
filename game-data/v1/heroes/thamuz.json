@@ -210,8 +210,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Thamuz-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Thamuz-Default.png",
+    "portrait_url": "/Heroes/Portrait/Thamuz-Default.png",
+    "splash_url": "/Heroes/Splash/Thamuz-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_029efc3da4bc9666f11fdc0248e84e86.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/1699a938c6938947e534aa2874341d58.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",

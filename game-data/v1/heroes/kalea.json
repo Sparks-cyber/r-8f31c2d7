@@ -208,9 +208,9 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kalea-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kalea-Default.png",
-    "square_portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kalea-Default.png",
+    "portrait_url": "/Heroes/Portrait/Kalea-Default.png",
+    "splash_url": "/Heroes/Portrait/Kalea-Default.png",
+    "square_portrait_url": "/Heroes/Portrait/Kalea-Default.png",
     "background_url": "https://akmweb.youngjoygame.com/web/gms/image/6bde4242228d5ea98b700c9cfc1e837d.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
     "lane_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png"

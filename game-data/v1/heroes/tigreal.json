@@ -209,8 +209,8 @@
     }
   ],
   "media": {
-    "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Tigreal-Default.png",
-    "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Tigreal-Default.png",
+    "portrait_url": "/Heroes/Portrait/Tigreal-Default.png",
+    "splash_url": "/Heroes/Splash/Tigreal-Default.png",
     "square_portrait_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ec2ad5967a2d8a0ac5e2cef2a1e24411.jpg",
     "background_url": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ec2ad5967a2d8a0ac5e2cef2a1e24411.jpg",
     "role_icon_url": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
