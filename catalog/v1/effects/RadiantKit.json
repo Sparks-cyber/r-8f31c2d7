@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.11.13.1",
+  "updated_at": "2026-11-13T00:00:00Z",
+  "category": {
+    "id": "radiant-kits",
+    "title": "Radiant Kits",
+    "kind": "radiant_kit"
+  },
+  "data": [
+    {
+      "id": "default-restoration-official-radiant-backup",
+      "name": "Default Restoration",
+      "description": "Restore the original MLBB files included in the official Radiant backup.",
+      "image": "/Effects/RadiantKits/Default%20Restoration%20-%20Official%20Radiant%20Backup.png",
+      "script": "/Effects/RadiantKits/Default%20Restoration%20-%20Official%20Radiant%20Backup.zip"
+    },
+    {
+      "id": "alpha-revenant-of-roses-radiant",
+      "name": "Alpha - Revenant of Roses",
+      "description": "Install the Revenant of Roses Radiant resource kit for Alpha.",
+      "image": "/Effects/RadiantKits/Alpha%20-%20Revenant%20of%20Roses%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Alpha%20-%20Revenant%20of%20Roses%20-%20Radiant.zip"
+    },
+    {
+      "id": "alucard-obsidian-blade-radiant",
+      "name": "Alucard - Obsidian Blade",
+      "description": "Install the Obsidian Blade Radiant resource kit for Alucard.",
+      "image": "/Effects/RadiantKits/Alucard%20-%20Obsidian%20Blade%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Alucard%20-%20Obsidian%20Blade%20-%20Radiant.zip"
+    },
+    {
+      "id": "fanny-galactic-starhawk-radiant",
+      "name": "Fanny - Galactic Starhawk",
+      "description": "Install the Galactic Starhawk Radiant resource kit for Fanny.",
+      "image": "/Effects/RadiantKits/Fanny%20-%20Galactic%20Starhawk%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Fanny%20-%20Galactic%20Starhawk%20-%20Radiant.zip"
+    },
+    {
+      "id": "franco-king-of-hell-radiant",
+      "name": "Franco - King of Hell",
+      "description": "Install the King of Hell Radiant resource kit for Franco.",
+      "image": "/Effects/RadiantKits/Franco%20-%20King%20of%20Hell%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Franco%20-%20King%20of%20Hell%20-%20Radiant.zip"
+    },
+    {
+      "id": "freya-galactic-vanquisher-radiant",
+      "name": "Freya - Galactic Vanquisher",
+      "description": "Install the Galactic Vanquisher Radiant resource kit for Freya.",
+      "image": "/Effects/RadiantKits/Freya%20-%20Galactic%20Vanquisher%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Freya%20-%20Galactic%20Vanquisher%20-%20Radiant.zip"
+    },
+    {
+      "id": "gatotkaca-sovereign-of-realms-radiant",
+      "name": "Gatotkaca - Sovereign of Realms",
+      "description": "Install the Sovereign of Realms Radiant resource kit for Gatotkaca.",
+      "image": "/Effects/RadiantKits/Gatotkaca%20-%20Sovereign%20of%20Realms%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Gatotkaca%20-%20Sovereign%20of%20Realms%20-%20Radiant.zip"
+    },
+    {
+      "id": "gord-conqueror-radiant",
+      "name": "Gord - Conqueror",
+      "description": "Install the Conqueror Radiant resource kit for Gord.",
+      "image": "/Effects/RadiantKits/Gord%20-%20Conqueror%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Gord%20-%20Conqueror%20-%20Radiant.zip"
+    },
+    {
+      "id": "kagura-feast-of-eternity-radiant",
+      "name": "Kagura - Feast of Eternity",
+      "description": "Install the Feast of Eternity Radiant resource kit for Kagura.",
+      "image": "/Effects/RadiantKits/Kagura%20-%20Feast%20of%20Eternity%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Kagura%20-%20Feast%20of%20Eternity%20-%20Radiant.zip"
+    },
+    {
+      "id": "layla-the-beacon-radiant",
+      "name": "Layla - The Beacon",
+      "description": "Install The Beacon Radiant resource kit for Layla.",
+      "image": "/Effects/RadiantKits/Layla%20-%20The%20Beacon%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Layla%20-%20The%20Beacon%20-%20Radiant.zip"
+    },
+    {
+      "id": "lesley-angelic-agent-radiant",
+      "name": "Lesley - Angelic Agent",
+      "description": "Install the Angelic Agent Radiant resource kit for Lesley.",
+      "image": "/Effects/RadiantKits/Lesley%20-%20Angelic%20Agent%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Lesley%20-%20Angelic%20Agent%20-%20Radiant.zip"
+    },
+    {
+      "id": "lunox-divine-goddess-radiant",
+      "name": "Lunox - Divine Goddess",
+      "description": "Install the Divine Goddess Radiant resource kit for Lunox.",
+      "image": "/Effects/RadiantKits/Lunox%20-%20Divine%20Goddess%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Lunox%20-%20Divine%20Goddess%20-%20Radiant.zip"
+    },
+    {
+      "id": "miya-modena-butterfly-radiant",
+      "name": "Miya - Modena Butterfly",
+      "description": "Install the Modena Butterfly Radiant resource kit for Miya.",
+      "image": "/Effects/RadiantKits/Miya%20-%20Modena%20Butterfly%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Miya%20-%20Modena%20Butterfly%20-%20Radiant.zip"
+    },
+    {
+      "id": "saber-codename-storm-radiant",
+      "name": "Saber - Codename Storm",
+      "description": "Install the Codename Storm Radiant resource kit for Saber.",
+      "image": "/Effects/RadiantKits/Saber%20-%20Codename%20Storm%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Saber%20-%20Codename%20Storm%20-%20Radiant.zip"
+    },
+    {
+      "id": "starlight-radiant",
+      "name": "Starlight",
+      "description": "Install the Starlight Radiant resource kit.",
+      "image": "/Effects/RadiantKits/Starlight%20-%20Radiant.png",
+      "script": "/Effects/RadiantKits/Starlight%20-%20Radiant.zip"
+    }
+  ]
+}
