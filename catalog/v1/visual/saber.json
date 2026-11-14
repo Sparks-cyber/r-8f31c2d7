@@ -43,6 +43,7 @@
         "premium_required": true,
         "restoration_protection_required": true
       },
+      "archive_revision": "2026.11.14.saber-route-v2",
       "portrait_file": "Saber-Codename-Storm.png",
       "script_file": "Saber-Codename-Storm.zip",
       "skin_name": "Codename - Storm",
@@ -121,5 +122,5 @@
   },
   "release_tag": "visual-saber",
   "schema_version": 1,
-  "updated_at": "2026-11-08"
+  "updated_at": "2026-11-14"
 }
