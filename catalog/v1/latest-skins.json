@@ -57,6 +57,7 @@
     },
     {
       "id": "kagura-feast-of-eternity",
+      "archive_revision": "2026.11.14.kagura-current-gameres-v1",
       "hero_id": 25,
       "hero_name": "Kagura",
       "skin_name": "Feast of Eternity",
@@ -226,6 +227,7 @@
     },
     {
       "id": "lukas-naruto-uzumaki",
+      "archive_revision": "2026.11.14.lukas-current-battle-v1",
       "hero_id": 127,
       "hero_name": "Lukas",
       "skin_name": "Naruto Uzumaki",
