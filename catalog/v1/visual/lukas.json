@@ -24,6 +24,7 @@
     {
       "enabled": true,
       "id": "lukas-naruto-uzumaki",
+      "archive_revision": "2026.11.14.lukas-current-battle-v1",
       "advanced_compatibility": {
         "type": "second_form",
         "embedded": true,
