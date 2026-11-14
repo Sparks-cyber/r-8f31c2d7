@@ -1,186 +1,187 @@
 {
-  "catalog_version": "2026.11.07.visual-fix-v1",
-  "data": [
-    {
-      "enabled": true,
-      "id": "lesley-backup",
-      "portrait_file": "Lesley-Default.png",
-      "script_file": "Lesley-Backup.zip",
-      "skin_name": "Deadly Sniper",
-      "splash_file": "Lesley-Default.png",
-      "tag_id": null,
-      "tier": "Default"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-royal-musketeer",
-      "portrait_file": "Lesley-Royal-Musketeer.png",
-      "script_file": "Lesley-Royal-Musketeer.zip",
-      "skin_name": "Royal Musketeer",
-      "splash_file": "Lesley-Royal-Musketeer.png",
-      "tag_id": null,
-      "tier": "common"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-general-rosa",
-      "portrait_file": "Lesley-General-Rosa.png",
-      "script_file": "Lesley-General-Rosa.zip",
-      "skin_name": "General Rosa",
-      "splash_file": "Lesley-General-Rosa.png",
-      "tag_id": "elite",
-      "tier": "common"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-cheergunner",
-      "portrait_file": "Lesley-Cheergunner.png",
-      "script_file": "Lesley-Cheergunner.zip",
-      "skin_name": "Cheergunner",
-      "splash_file": "Lesley-Cheergunner.png",
-      "tag_id": "special",
-      "tier": "exceptional"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-stellaris-ghost",
-      "portrait_file": "Lesley-Stellaris-Ghost.png",
-      "script_file": "Lesley-Stellaris-Ghost.zip",
-      "skin_name": "Stellaris Ghost",
-      "splash_file": "Lesley-Stellaris-Ghost.png",
-      "tag_id": "luckybox",
-      "tier": "exquisite"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-dangerous-love",
-      "portrait_file": "Lesley-Dangerous-Love.png",
-      "script_file": "Lesley-Dangerous-Love.zip",
-      "skin_name": "Dangerous Love",
-      "splash_file": "Lesley-Dangerous-Love.png",
-      "tag_id": "valentine",
-      "tier": "exceptional"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-angelic-agent",
-      "advanced_compatibility": {
-        "type": "second_form",
-        "embedded": true,
-        "route_file": "advanced_route.nxr",
-        "route_format": "nix-advanced-route-v2",
-        "minimum_engine": 2,
-        "premium_required": true,
-        "restoration_protection_required": true
-      },
-      "portrait_file": "Lesley-Angelic-Agent.png",
-      "script_file": "Lesley-Angelic-Agent.zip",
-      "skin_name": "Angelic Agent",
-      "splash_file": "Lesley-Angelic-Agent.png",
-      "tag_id": "legend",
-      "tier": "supreme"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-lethal-lady",
-      "portrait_file": "Lesley-Lethal-Lady.png",
-      "script_file": "Lesley-Lethal-Lady.zip",
-      "skin_name": "Lethal Lady",
-      "splash_file": "Lesley-Lethal-Lady.png",
-      "tag_id": "starlight-star",
-      "tier": "exceptional"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-falcon-mistress",
-      "portrait_file": "Lesley-Falcon-Mistress.png",
-      "script_file": "Lesley-Falcon-Mistress.zip",
-      "skin_name": "Falcon Mistress",
-      "splash_file": "Lesley-Falcon-Mistress.png",
-      "tag_id": "collector",
-      "tier": "exquisite"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-hawk-eyed-sniper",
-      "portrait_file": "Lesley-Hawk-eyed-Sniper.png",
-      "script_file": "Lesley-Hawk-eyed-Sniper.zip",
-      "skin_name": "Hawk-eyed Sniper",
-      "splash_file": "Lesley-Hawk-eyed-Sniper.png",
-      "tag_id": "annual-starlight",
-      "tier": "exquisite"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-deadeye-spectre",
-      "portrait_file": "Lesley-Deadeye-Spectre.png",
-      "script_file": "Lesley-Deadeye-Spectre.zip",
-      "skin_name": "Deadeye Spectre",
-      "splash_file": "Lesley-Deadeye-Spectre.png",
-      "tag_id": "the-aspirants",
-      "tier": "grand"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-meowkin-hunter",
-      "portrait_file": "Lesley-Meowkin-Hunter.png",
-      "script_file": "Lesley-Meowkin-Hunter.zip",
-      "skin_name": "Meowkin Hunter",
-      "splash_file": "Lesley-Meowkin-Hunter.png",
-      "tag_id": "mystic-meow",
-      "tier": "deluxe"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-duchess-of-tides",
-      "portrait_file": "Lesley-Duchess-of-Tides.png",
-      "script_file": "Lesley-Duchess-of-Tides.zip",
-      "skin_name": "Duchess of Tides",
-      "splash_file": "Lesley-Duchess-of-Tides.png",
-      "tag_id": "covenant",
-      "tier": "deluxe"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-cheersniper",
-      "portrait_file": "Lesley-Cheersniper.png",
-      "script_file": "Lesley-Cheersniper.zip",
-      "skin_name": "Cheersniper",
-      "splash_file": "Lesley-Cheersniper.png",
-      "tag_id": "painted",
-      "tier": "painted"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-romantic-love-painted-01",
-      "portrait_file": "Lesley-Romantic-Love.png",
-      "script_file": "Lesley-Romantic-Love.zip",
-      "skin_name": "Romantic Love",
-      "splash_file": "Lesley-Romantic-Love.png",
-      "tag_id": "painted",
-      "tier": "painted"
-    },
-    {
-      "enabled": true,
-      "id": "lesley-duchess-of-depths-painted-01",
-      "portrait_file": "Lesley-Duchess-of-Depths.png",
-      "script_file": "Lesley-Duchess-of-Depths.zip",
-      "skin_name": "Duchess of Depths",
-      "splash_file": "Lesley-Duchess-of-Depths.png",
-      "tag_id": "painted",
-      "tier": "painted"
-    }
-  ],
-  "hero": {
-    "id": 53,
-    "name": "Lesley",
-    "roles": [
-      "Marksman",
-      "Assassin"
+    "catalog_version": "2026.11.07.visual-fix-v1",
+    "data": [
+        {
+            "enabled": true,
+            "id": "lesley-backup",
+            "portrait_file": "Lesley-Default.png",
+            "script_file": "Lesley-Backup.zip",
+            "skin_name": "Deadly Sniper",
+            "splash_file": "Lesley-Default.png",
+            "tag_id": null,
+            "tier": "Default"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-royal-musketeer",
+            "portrait_file": "Lesley-Royal-Musketeer.png",
+            "script_file": "Lesley-Royal-Musketeer.zip",
+            "skin_name": "Royal Musketeer",
+            "splash_file": "Lesley-Royal-Musketeer.png",
+            "tag_id": null,
+            "tier": "common"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-general-rosa",
+            "portrait_file": "Lesley-General-Rosa.png",
+            "script_file": "Lesley-General-Rosa.zip",
+            "skin_name": "General Rosa",
+            "splash_file": "Lesley-General-Rosa.png",
+            "tag_id": "elite",
+            "tier": "common"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-cheergunner",
+            "portrait_file": "Lesley-Cheergunner.png",
+            "script_file": "Lesley-Cheergunner.zip",
+            "skin_name": "Cheergunner",
+            "splash_file": "Lesley-Cheergunner.png",
+            "tag_id": "special",
+            "tier": "exceptional"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-stellaris-ghost",
+            "portrait_file": "Lesley-Stellaris-Ghost.png",
+            "script_file": "Lesley-Stellaris-Ghost.zip",
+            "skin_name": "Stellaris Ghost",
+            "splash_file": "Lesley-Stellaris-Ghost.png",
+            "tag_id": "luckybox",
+            "tier": "exquisite"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-dangerous-love",
+            "portrait_file": "Lesley-Dangerous-Love.png",
+            "script_file": "Lesley-Dangerous-Love.zip",
+            "skin_name": "Dangerous Love",
+            "splash_file": "Lesley-Dangerous-Love.png",
+            "tag_id": "valentine",
+            "tier": "exceptional"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-angelic-agent",
+            "archive_revision": "lesley-angelic-agent-2026.11.13-v2",
+            "advanced_compatibility": {
+                "type": "second_form",
+                "embedded": true,
+                "route_file": "advanced_route.nxr",
+                "route_format": "nix-advanced-route-v2",
+                "minimum_engine": 2,
+                "premium_required": true,
+                "restoration_protection_required": true
+            },
+            "portrait_file": "Lesley-Angelic-Agent.png",
+            "script_file": "Lesley-Angelic-Agent.zip",
+            "skin_name": "Angelic Agent",
+            "splash_file": "Lesley-Angelic-Agent.png",
+            "tag_id": "legend",
+            "tier": "supreme"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-lethal-lady",
+            "portrait_file": "Lesley-Lethal-Lady.png",
+            "script_file": "Lesley-Lethal-Lady.zip",
+            "skin_name": "Lethal Lady",
+            "splash_file": "Lesley-Lethal-Lady.png",
+            "tag_id": "starlight-star",
+            "tier": "exceptional"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-falcon-mistress",
+            "portrait_file": "Lesley-Falcon-Mistress.png",
+            "script_file": "Lesley-Falcon-Mistress.zip",
+            "skin_name": "Falcon Mistress",
+            "splash_file": "Lesley-Falcon-Mistress.png",
+            "tag_id": "collector",
+            "tier": "exquisite"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-hawk-eyed-sniper",
+            "portrait_file": "Lesley-Hawk-eyed-Sniper.png",
+            "script_file": "Lesley-Hawk-eyed-Sniper.zip",
+            "skin_name": "Hawk-eyed Sniper",
+            "splash_file": "Lesley-Hawk-eyed-Sniper.png",
+            "tag_id": "annual-starlight",
+            "tier": "exquisite"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-deadeye-spectre",
+            "portrait_file": "Lesley-Deadeye-Spectre.png",
+            "script_file": "Lesley-Deadeye-Spectre.zip",
+            "skin_name": "Deadeye Spectre",
+            "splash_file": "Lesley-Deadeye-Spectre.png",
+            "tag_id": "the-aspirants",
+            "tier": "grand"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-meowkin-hunter",
+            "portrait_file": "Lesley-Meowkin-Hunter.png",
+            "script_file": "Lesley-Meowkin-Hunter.zip",
+            "skin_name": "Meowkin Hunter",
+            "splash_file": "Lesley-Meowkin-Hunter.png",
+            "tag_id": "mystic-meow",
+            "tier": "deluxe"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-duchess-of-tides",
+            "portrait_file": "Lesley-Duchess-of-Tides.png",
+            "script_file": "Lesley-Duchess-of-Tides.zip",
+            "skin_name": "Duchess of Tides",
+            "splash_file": "Lesley-Duchess-of-Tides.png",
+            "tag_id": "covenant",
+            "tier": "deluxe"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-cheersniper",
+            "portrait_file": "Lesley-Cheersniper.png",
+            "script_file": "Lesley-Cheersniper.zip",
+            "skin_name": "Cheersniper",
+            "splash_file": "Lesley-Cheersniper.png",
+            "tag_id": "painted",
+            "tier": "painted"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-romantic-love-painted-01",
+            "portrait_file": "Lesley-Romantic-Love.png",
+            "script_file": "Lesley-Romantic-Love.zip",
+            "skin_name": "Romantic Love",
+            "splash_file": "Lesley-Romantic-Love.png",
+            "tag_id": "painted",
+            "tier": "painted"
+        },
+        {
+            "enabled": true,
+            "id": "lesley-duchess-of-depths-painted-01",
+            "portrait_file": "Lesley-Duchess-of-Depths.png",
+            "script_file": "Lesley-Duchess-of-Depths.zip",
+            "skin_name": "Duchess of Depths",
+            "splash_file": "Lesley-Duchess-of-Depths.png",
+            "tag_id": "painted",
+            "tier": "painted"
+        }
     ],
-    "slug": "lesley"
-  },
-  "release_tag": "visual-lesley",
-  "schema_version": 1,
-  "updated_at": "2026-11-08"
+    "hero": {
+        "id": 53,
+        "name": "Lesley",
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "slug": "lesley"
+    },
+    "release_tag": "visual-lesley",
+    "schema_version": 1,
+    "updated_at": "2026-11-08"
 }
