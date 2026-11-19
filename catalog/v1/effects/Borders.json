@@ -1,0 +1,3358 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.11.19.1",
+  "updated_at": "2026-11-19T20:55:16Z",
+  "category": {
+    "id": "profile-borders",
+    "title": "Profile Borders",
+    "kind": "profile_border"
+  },
+  "data": [
+    {
+      "id": "profile-border-0001",
+      "name": "Default Avatar Border",
+      "image": "/Effects/Borders/Default%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Default%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0002",
+      "name": "Legend Avatar Border",
+      "image": "/Effects/Borders/Legend%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Legend%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0003",
+      "name": "Mythic Avatar Border",
+      "image": "/Effects/Borders/Mythic%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Mythic%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0004",
+      "name": "StarLight Member Border",
+      "image": "/Effects/Borders/StarLight%20Member%20Border.png",
+      "script": "/Effects/Borders/StarLight%20Member%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0005",
+      "name": "Christmas Avatar Border",
+      "image": "/Effects/Borders/Christmas%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Christmas%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0006",
+      "name": "King's Crown",
+      "image": "/Effects/Borders/King%27s%20Crown.png",
+      "script": "/Effects/Borders/King%27s%20Crown.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0007",
+      "name": "Duke's Scepter",
+      "image": "/Effects/Borders/Duke%27s%20Scepter.png",
+      "script": "/Effects/Borders/Duke%27s%20Scepter.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0008",
+      "name": "Knight's Cross",
+      "image": "/Effects/Borders/Knight%27s%20Cross.png",
+      "script": "/Effects/Borders/Knight%27s%20Cross.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0009",
+      "name": "Top Fan Avatar Border",
+      "image": "/Effects/Borders/Top%20Fan%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Top%20Fan%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0010",
+      "name": "Big Fan Avatar Border",
+      "image": "/Effects/Borders/Big%20Fan%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Big%20Fan%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0011",
+      "name": "Primary Fan Avatar Border",
+      "image": "/Effects/Borders/Primary%20Fan%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Primary%20Fan%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0012",
+      "name": "Avatar Border 0012",
+      "image": "/Effects/Borders/Avatar%20Border%200012.png",
+      "script": "/Effects/Borders/Avatar%20Border%200012.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0013",
+      "name": "Avatar Border 0013",
+      "image": "/Effects/Borders/Avatar%20Border%200013.png",
+      "script": "/Effects/Borders/Avatar%20Border%200013.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0014",
+      "name": "Avatar Border 0014",
+      "image": "/Effects/Borders/Avatar%20Border%200014.png",
+      "script": "/Effects/Borders/Avatar%20Border%200014.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0015",
+      "name": "Avatar Border 0015",
+      "image": "/Effects/Borders/Avatar%20Border%200015.png",
+      "script": "/Effects/Borders/Avatar%20Border%200015.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0016",
+      "name": "Avatar Border 0016",
+      "image": "/Effects/Borders/Avatar%20Border%200016.png",
+      "script": "/Effects/Borders/Avatar%20Border%200016.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0017",
+      "name": "Avatar Border 0017",
+      "image": "/Effects/Borders/Avatar%20Border%200017.png",
+      "script": "/Effects/Borders/Avatar%20Border%200017.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0019",
+      "name": "Trick Master Avatar Frame",
+      "image": "/Effects/Borders/Trick%20Master%20Avatar%20Frame.png",
+      "script": "/Effects/Borders/Trick%20Master%20Avatar%20Frame.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0020",
+      "name": "Avatar Border 0020",
+      "image": "/Effects/Borders/Avatar%20Border%200020.png",
+      "script": "/Effects/Borders/Avatar%20Border%200020.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0021",
+      "name": "Avatar Border 0021",
+      "image": "/Effects/Borders/Avatar%20Border%200021.png",
+      "script": "/Effects/Borders/Avatar%20Border%200021.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0022",
+      "name": "Avatar Border 0022",
+      "image": "/Effects/Borders/Avatar%20Border%200022.png",
+      "script": "/Effects/Borders/Avatar%20Border%200022.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0023",
+      "name": "Avatar Border 0023",
+      "image": "/Effects/Borders/Avatar%20Border%200023.png",
+      "script": "/Effects/Borders/Avatar%20Border%200023.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0024",
+      "name": "Avatar Border 0024",
+      "image": "/Effects/Borders/Avatar%20Border%200024.png",
+      "script": "/Effects/Borders/Avatar%20Border%200024.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0025",
+      "name": "Avatar Border 0025",
+      "image": "/Effects/Borders/Avatar%20Border%200025.png",
+      "script": "/Effects/Borders/Avatar%20Border%200025.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0026",
+      "name": "Avatar Border 0026",
+      "image": "/Effects/Borders/Avatar%20Border%200026.png",
+      "script": "/Effects/Borders/Avatar%20Border%200026.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0027",
+      "name": "Avatar Border 0027",
+      "image": "/Effects/Borders/Avatar%20Border%200027.png",
+      "script": "/Effects/Borders/Avatar%20Border%200027.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0028",
+      "name": "Avatar Border 0028",
+      "image": "/Effects/Borders/Avatar%20Border%200028.png",
+      "script": "/Effects/Borders/Avatar%20Border%200028.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0029",
+      "name": "Avatar Border 0029",
+      "image": "/Effects/Borders/Avatar%20Border%200029.png",
+      "script": "/Effects/Borders/Avatar%20Border%200029.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0030",
+      "name": "Avatar Border 0030",
+      "image": "/Effects/Borders/Avatar%20Border%200030.png",
+      "script": "/Effects/Borders/Avatar%20Border%200030.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0031",
+      "name": "Spring Fiesta Avatar Border",
+      "image": "/Effects/Borders/Spring%20Fiesta%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Spring%20Fiesta%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0032",
+      "name": "Magic Stone Avatar Border (1 Day)",
+      "image": "/Effects/Borders/Magic%20Stone%20Avatar%20Border%20%281%20Day%29.png",
+      "script": "/Effects/Borders/Magic%20Stone%20Avatar%20Border%20%281%20Day%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0033",
+      "name": "Magic Dragon Avatar Border (1 Day)",
+      "image": "/Effects/Borders/Magic%20Dragon%20Avatar%20Border%20%281%20Day%29.png",
+      "script": "/Effects/Borders/Magic%20Dragon%20Avatar%20Border%20%281%20Day%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0034",
+      "name": "International Labor Day Avatar Border",
+      "image": "/Effects/Borders/International%20Labor%20Day%20Avatar%20Border.png",
+      "script": "/Effects/Borders/International%20Labor%20Day%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0035",
+      "name": "Super Fan Avatar Border",
+      "image": "/Effects/Borders/Super%20Fan%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Super%20Fan%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0036",
+      "name": "MPL Brilliant Avatar Border",
+      "image": "/Effects/Borders/MPL%20Brilliant%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MPL%20Brilliant%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0037",
+      "name": "Squad Rally Day Avatar Border",
+      "image": "/Effects/Borders/Squad%20Rally%20Day%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Squad%20Rally%20Day%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0038",
+      "name": "S.A.B.E.R. Avatar Border",
+      "image": "/Effects/Borders/S.A.B.E.R.%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S.A.B.E.R.%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0039",
+      "name": "MSC 2018 Avatar Border",
+      "image": "/Effects/Borders/MSC%202018%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MSC%202018%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0040",
+      "name": "MSC 2018 Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/MSC%202018%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/MSC%202018%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0041",
+      "name": "World Tour Avatar Border",
+      "image": "/Effects/Borders/World%20Tour%20Avatar%20Border.png",
+      "script": "/Effects/Borders/World%20Tour%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0042",
+      "name": "Avatar Border 0042",
+      "image": "/Effects/Borders/Avatar%20Border%200042.png",
+      "script": "/Effects/Borders/Avatar%20Border%200042.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0043",
+      "name": "2018 Summer Festival - Kagura",
+      "image": "/Effects/Borders/2018%20Summer%20Festival%20-%20Kagura.png",
+      "script": "/Effects/Borders/2018%20Summer%20Festival%20-%20Kagura.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0044",
+      "name": "2018 Summer Festival - Hayabusa",
+      "image": "/Effects/Borders/2018%20Summer%20Festival%20-%20Hayabusa.png",
+      "script": "/Effects/Borders/2018%20Summer%20Festival%20-%20Hayabusa.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0045",
+      "name": "Twilight Pass Avatar Border",
+      "image": "/Effects/Borders/Twilight%20Pass%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Twilight%20Pass%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0046",
+      "name": "S9 Avatar Border",
+      "image": "/Effects/Borders/S9%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S9%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0047",
+      "name": "Dominator of Dawn",
+      "image": "/Effects/Borders/Dominator%20of%20Dawn.png",
+      "script": "/Effects/Borders/Dominator%20of%20Dawn.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0048",
+      "name": "Commander of Dawn",
+      "image": "/Effects/Borders/Commander%20of%20Dawn.png",
+      "script": "/Effects/Borders/Commander%20of%20Dawn.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0049",
+      "name": "Centurion of Dawn",
+      "image": "/Effects/Borders/Centurion%20of%20Dawn.png",
+      "script": "/Effects/Borders/Centurion%20of%20Dawn.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0050",
+      "name": "MPL-ID-S2 Avatar Border (10 Days)",
+      "image": "/Effects/Borders/MPL-ID-S2%20Avatar%20Border%20%2810%20Days%29.png",
+      "script": "/Effects/Borders/MPL-ID-S2%20Avatar%20Border%20%2810%20Days%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0051",
+      "name": "MPL-MYandSG-S2 Avatar Border (10 Days)",
+      "image": "/Effects/Borders/MPL-MYandSG-S2%20Avatar%20Border%20%2810%20Days%29.png",
+      "script": "/Effects/Borders/MPL-MYandSG-S2%20Avatar%20Border%20%2810%20Days%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0052",
+      "name": "MPL-PH-S2 Avatar Border (10 Days)",
+      "image": "/Effects/Borders/MPL-PH-S2%20Avatar%20Border%20%2810%20Days%29.png",
+      "script": "/Effects/Borders/MPL-PH-S2%20Avatar%20Border%20%2810%20Days%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0053",
+      "name": "Light Walker",
+      "image": "/Effects/Borders/Light%20Walker.png",
+      "script": "/Effects/Borders/Light%20Walker.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0054",
+      "name": "Dark Warlord",
+      "image": "/Effects/Borders/Dark%20Warlord.png",
+      "script": "/Effects/Borders/Dark%20Warlord.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0055",
+      "name": "S10 Avatar Border",
+      "image": "/Effects/Borders/S10%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S10%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0056",
+      "name": "Pumpkin Head Avatar Border",
+      "image": "/Effects/Borders/Pumpkin%20Head%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Pumpkin%20Head%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0057",
+      "name": "Avatar Border 0057",
+      "image": "/Effects/Borders/Avatar%20Border%200057.png",
+      "script": "/Effects/Borders/Avatar%20Border%200057.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0058",
+      "name": "S11 Avatar Border",
+      "image": "/Effects/Borders/S11%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S11%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0059",
+      "name": "Thanksgiving Avatar Border",
+      "image": "/Effects/Borders/Thanksgiving%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Thanksgiving%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0060",
+      "name": "Christmas Avatar Border 2018 - Female",
+      "image": "/Effects/Borders/Christmas%20Avatar%20Border%202018%20-%20Female.png",
+      "script": "/Effects/Borders/Christmas%20Avatar%20Border%202018%20-%20Female.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0061",
+      "name": "Christmas Avatar Border 2018 - Male",
+      "image": "/Effects/Borders/Christmas%20Avatar%20Border%202018%20-%20Male.png",
+      "script": "/Effects/Borders/Christmas%20Avatar%20Border%202018%20-%20Male.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0062",
+      "name": "2019 Valentine Avatar Border",
+      "image": "/Effects/Borders/2019%20Valentine%20Avatar%20Border.png",
+      "script": "/Effects/Borders/2019%20Valentine%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0063",
+      "name": "2019 Valentine - Lesley",
+      "image": "/Effects/Borders/2019%20Valentine%20-%20Lesley.png",
+      "script": "/Effects/Borders/2019%20Valentine%20-%20Lesley.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0064",
+      "name": "2019 Valentine - Gusion",
+      "image": "/Effects/Borders/2019%20Valentine%20-%20Gusion.png",
+      "script": "/Effects/Borders/2019%20Valentine%20-%20Gusion.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0065",
+      "name": "Avatar Border 0065",
+      "image": "/Effects/Borders/Avatar%20Border%200065.png",
+      "script": "/Effects/Borders/Avatar%20Border%200065.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0066",
+      "name": "KOF Avatar Border",
+      "image": "/Effects/Borders/KOF%20Avatar%20Border.png",
+      "script": "/Effects/Borders/KOF%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0067",
+      "name": "Avatar Border 0067",
+      "image": "/Effects/Borders/Avatar%20Border%200067.png",
+      "script": "/Effects/Borders/Avatar%20Border%200067.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0068",
+      "name": "Avatar Border 0068",
+      "image": "/Effects/Borders/Avatar%20Border%200068.png",
+      "script": "/Effects/Borders/Avatar%20Border%200068.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0069",
+      "name": "Dawn Guard",
+      "image": "/Effects/Borders/Dawn%20Guard.png",
+      "script": "/Effects/Borders/Dawn%20Guard.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0070",
+      "name": "Magic Avatar Border",
+      "image": "/Effects/Borders/Magic%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Magic%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0071",
+      "name": "Technology Avatar Border",
+      "image": "/Effects/Borders/Technology%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Technology%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0072",
+      "name": "2019 MSC Avatar Border",
+      "image": "/Effects/Borders/2019%20MSC%20Avatar%20Border.png",
+      "script": "/Effects/Borders/2019%20MSC%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0073",
+      "name": "Avatar Border 0073",
+      "image": "/Effects/Borders/Avatar%20Border%200073.png",
+      "script": "/Effects/Borders/Avatar%20Border%200073.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0074",
+      "name": "Avatar Border 0074",
+      "image": "/Effects/Borders/Avatar%20Border%200074.png",
+      "script": "/Effects/Borders/Avatar%20Border%200074.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0075",
+      "name": "V.E.N.O.M. Avatar Border",
+      "image": "/Effects/Borders/V.E.N.O.M.%20Avatar%20Border.png",
+      "script": "/Effects/Borders/V.E.N.O.M.%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0076",
+      "name": "360mobi Tournament Avatar Border",
+      "image": "/Effects/Borders/360mobi%20Tournament%20Avatar%20Border.png",
+      "script": "/Effects/Borders/360mobi%20Tournament%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0077",
+      "name": "Assemble Elite",
+      "image": "/Effects/Borders/Assemble%20Elite.png",
+      "script": "/Effects/Borders/Assemble%20Elite.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0078",
+      "name": "2019 Summer Festival - Fanny",
+      "image": "/Effects/Borders/2019%20Summer%20Festival%20-%20Fanny.png",
+      "script": "/Effects/Borders/2019%20Summer%20Festival%20-%20Fanny.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0079",
+      "name": "2019 Summer Festival - Claude",
+      "image": "/Effects/Borders/2019%20Summer%20Festival%20-%20Claude.png",
+      "script": "/Effects/Borders/2019%20Summer%20Festival%20-%20Claude.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0080",
+      "name": "Speedy Avatar Border",
+      "image": "/Effects/Borders/Speedy%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Speedy%20Avatar%20Border.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0081",
+      "name": "S13 Avatar Border",
+      "image": "/Effects/Borders/S13%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S13%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0082",
+      "name": "2019 Universal Carnival",
+      "image": "/Effects/Borders/2019%20Universal%20Carnival.png",
+      "script": "/Effects/Borders/2019%20Universal%20Carnival.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0083",
+      "name": "MGL Artist",
+      "image": "/Effects/Borders/MGL%20Artist.png",
+      "script": "/Effects/Borders/MGL%20Artist.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0084",
+      "name": "2019 Halloween Avatar Border",
+      "image": "/Effects/Borders/2019%20Halloween%20Avatar%20Border.png",
+      "script": "/Effects/Borders/2019%20Halloween%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0085",
+      "name": "Street Association",
+      "image": "/Effects/Borders/Street%20Association.png",
+      "script": "/Effects/Borders/Street%20Association.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0086",
+      "name": "S14 Recharge Event Avatar Border",
+      "image": "/Effects/Borders/S14%20Recharge%20Event%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S14%20Recharge%20Event%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0087",
+      "name": "Avatar Border 0087",
+      "image": "/Effects/Borders/Avatar%20Border%200087.png",
+      "script": "/Effects/Borders/Avatar%20Border%200087.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0088",
+      "name": "Avatar Border 0088",
+      "image": "/Effects/Borders/Avatar%20Border%200088.png",
+      "script": "/Effects/Borders/Avatar%20Border%200088.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0089",
+      "name": "The Oriental Fighters Avatar Border",
+      "image": "/Effects/Borders/The%20Oriental%20Fighters%20Avatar%20Border.png",
+      "script": "/Effects/Borders/The%20Oriental%20Fighters%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0090",
+      "name": "Abyssal Avatar Border",
+      "image": "/Effects/Borders/Abyssal%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Abyssal%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0091",
+      "name": "Starry Sky",
+      "image": "/Effects/Borders/Starry%20Sky.png",
+      "script": "/Effects/Borders/Starry%20Sky.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0092",
+      "name": "Lightborn's Soul",
+      "image": "/Effects/Borders/Lightborn%27s%20Soul.png",
+      "script": "/Effects/Borders/Lightborn%27s%20Soul.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0093",
+      "name": "2019 Starlight Member Edition",
+      "image": "/Effects/Borders/2019%20Starlight%20Member%20Edition.png",
+      "script": "/Effects/Borders/2019%20Starlight%20Member%20Edition.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0094",
+      "name": "MGL Artist (Variant 2)",
+      "image": "/Effects/Borders/MGL%20Artist%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/MGL%20Artist%20%28Variant%202%29.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0095",
+      "name": "Mod Exclusive Avatar Border",
+      "image": "/Effects/Borders/Mod%20Exclusive%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Mod%20Exclusive%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0096",
+      "name": "MLBB Star Influencer",
+      "image": "/Effects/Borders/MLBB%20Star%20Influencer.png",
+      "script": "/Effects/Borders/MLBB%20Star%20Influencer.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0097",
+      "name": "S14 Avatar Border",
+      "image": "/Effects/Borders/S14%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S14%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0098",
+      "name": "S15 First Purchase Avatar Border",
+      "image": "/Effects/Borders/S15%20First%20Purchase%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S15%20First%20Purchase%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0099",
+      "name": "Spring Festival Avatar Border",
+      "image": "/Effects/Borders/Spring%20Festival%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Spring%20Festival%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0100",
+      "name": "MLCC Student Champions",
+      "image": "/Effects/Borders/MLCC%20Student%20Champions.png",
+      "script": "/Effects/Borders/MLCC%20Student%20Champions.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0101",
+      "name": "Nostalgia",
+      "image": "/Effects/Borders/Nostalgia.png",
+      "script": "/Effects/Borders/Nostalgia.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0102",
+      "name": "2020 Valentine - Khufra",
+      "image": "/Effects/Borders/2020%20Valentine%20-%20Khufra.png",
+      "script": "/Effects/Borders/2020%20Valentine%20-%20Khufra.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0103",
+      "name": "2020 Valentine - Esmeralda",
+      "image": "/Effects/Borders/2020%20Valentine%20-%20Esmeralda.png",
+      "script": "/Effects/Borders/2020%20Valentine%20-%20Esmeralda.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0104",
+      "name": "Brazilian Carnival Avatar Border",
+      "image": "/Effects/Borders/Brazilian%20Carnival%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Brazilian%20Carnival%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0105",
+      "name": "S16 Avatar Border",
+      "image": "/Effects/Borders/S16%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S16%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0106",
+      "name": "Gacha Party Avatar Border",
+      "image": "/Effects/Borders/Gacha%20Party%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Gacha%20Party%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0107",
+      "name": "Superhero",
+      "image": "/Effects/Borders/Superhero.png",
+      "script": "/Effects/Borders/Superhero.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0108",
+      "name": "S16 Recharge Event Avatar Border",
+      "image": "/Effects/Borders/S16%20Recharge%20Event%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S16%20Recharge%20Event%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0109",
+      "name": "Fighters on Stormy Sea Avatar Border",
+      "image": "/Effects/Borders/Fighters%20on%20Stormy%20Sea%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Fighters%20on%20Stormy%20Sea%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0110",
+      "name": "M1 Champion Avatar Border",
+      "image": "/Effects/Borders/M1%20Champion%20Avatar%20Border.png",
+      "script": "/Effects/Borders/M1%20Champion%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0111",
+      "name": "515 Party Avatar Border",
+      "image": "/Effects/Borders/515%20Party%20Avatar%20Border.png",
+      "script": "/Effects/Borders/515%20Party%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0112",
+      "name": "Dawn Guard (Variant 2)",
+      "image": "/Effects/Borders/Dawn%20Guard%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/Dawn%20Guard%20%28Variant%202%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0113",
+      "name": "Dawn Guard (Variant 3)",
+      "image": "/Effects/Borders/Dawn%20Guard%20%28Variant%203%29.png",
+      "script": "/Effects/Borders/Dawn%20Guard%20%28Variant%203%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0114",
+      "name": "Wash Hands Frequently Avatar Border",
+      "image": "/Effects/Borders/Wash%20Hands%20Frequently%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Wash%20Hands%20Frequently%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0115",
+      "name": "Fight Together Avatar Border",
+      "image": "/Effects/Borders/Fight%20Together%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Fight%20Together%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0116",
+      "name": "Health Guard Avatar Border",
+      "image": "/Effects/Borders/Health%20Guard%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Health%20Guard%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0117",
+      "name": "Glorious Chess Player",
+      "image": "/Effects/Borders/Glorious%20Chess%20Player.png",
+      "script": "/Effects/Borders/Glorious%20Chess%20Player.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0118",
+      "name": "MLBB Star Influencer (Variant 2)",
+      "image": "/Effects/Borders/MLBB%20Star%20Influencer%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/MLBB%20Star%20Influencer%20%28Variant%202%29.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0119",
+      "name": "MLBB Star Influencer (Variant 3)",
+      "image": "/Effects/Borders/MLBB%20Star%20Influencer%20%28Variant%203%29.png",
+      "script": "/Effects/Borders/MLBB%20Star%20Influencer%20%28Variant%203%29.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0120",
+      "name": "Gusion Cosmic Gleam Avatar Border",
+      "image": "/Effects/Borders/Gusion%20Cosmic%20Gleam%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Gusion%20Cosmic%20Gleam%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0121",
+      "name": "Dragon Tamer",
+      "image": "/Effects/Borders/Dragon%20Tamer.png",
+      "script": "/Effects/Borders/Dragon%20Tamer.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0122",
+      "name": "S16 Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/S16%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/S16%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0123",
+      "name": "Back-to-School Avatar Border",
+      "image": "/Effects/Borders/Back-to-School%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Back-to-School%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0124",
+      "name": "S17 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S17%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S17%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0125",
+      "name": "Outstanding CH",
+      "image": "/Effects/Borders/Outstanding%20CH.png",
+      "script": "/Effects/Borders/Outstanding%20CH.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0126",
+      "name": "Soaring Dragon",
+      "image": "/Effects/Borders/Soaring%20Dragon.png",
+      "script": "/Effects/Borders/Soaring%20Dragon.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0127",
+      "name": "Outstanding MSL",
+      "image": "/Effects/Borders/Outstanding%20MSL.png",
+      "script": "/Effects/Borders/Outstanding%20MSL.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0128",
+      "name": "2018 Summer Festival - Kagura (Variant 2)",
+      "image": "/Effects/Borders/2018%20Summer%20Festival%20-%20Kagura%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/2018%20Summer%20Festival%20-%20Kagura%20%28Variant%202%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0129",
+      "name": "Summer Gala Avatar Border",
+      "image": "/Effects/Borders/Summer%20Gala%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Summer%20Gala%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0130",
+      "name": "Star Influencer Avatar Border",
+      "image": "/Effects/Borders/Star%20Influencer%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Star%20Influencer%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0131",
+      "name": "Bear Totem",
+      "image": "/Effects/Borders/Bear%20Totem.png",
+      "script": "/Effects/Borders/Bear%20Totem.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0132",
+      "name": "2020 Summer Carnival - Nana",
+      "image": "/Effects/Borders/2020%20Summer%20Carnival%20-%20Nana.png",
+      "script": "/Effects/Borders/2020%20Summer%20Carnival%20-%20Nana.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0133",
+      "name": "2020 Summer Carnival - Angela",
+      "image": "/Effects/Borders/2020%20Summer%20Carnival%20-%20Angela.png",
+      "script": "/Effects/Borders/2020%20Summer%20Carnival%20-%20Angela.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0134",
+      "name": "India Independence Day Avatar Border",
+      "image": "/Effects/Borders/India%20Independence%20Day%20Avatar%20Border.png",
+      "script": "/Effects/Borders/India%20Independence%20Day%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0135",
+      "name": "Sword Out",
+      "image": "/Effects/Borders/Sword%20Out.png",
+      "script": "/Effects/Borders/Sword%20Out.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0136",
+      "name": "Legends of Dawn Scholar",
+      "image": "/Effects/Borders/Legends%20of%20Dawn%20Scholar.png",
+      "script": "/Effects/Borders/Legends%20of%20Dawn%20Scholar.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0137",
+      "name": "Legends Return Avatar Border",
+      "image": "/Effects/Borders/Legends%20Return%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Legends%20Return%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0138",
+      "name": "Benedetta and Alecto",
+      "image": "/Effects/Borders/Benedetta%20and%20Alecto.png",
+      "script": "/Effects/Borders/Benedetta%20and%20Alecto.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0139",
+      "name": "Trial of Knowledge Avatar Border",
+      "image": "/Effects/Borders/Trial%20of%20Knowledge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Trial%20of%20Knowledge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0140",
+      "name": "S18 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S18%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S18%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0141",
+      "name": "Cyborg Fox",
+      "image": "/Effects/Borders/Cyborg%20Fox.png",
+      "script": "/Effects/Borders/Cyborg%20Fox.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0142",
+      "name": "Desert Moon",
+      "image": "/Effects/Borders/Desert%20Moon.png",
+      "script": "/Effects/Borders/Desert%20Moon.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0143",
+      "name": "MLBB VNG's Birthday Avatar Border",
+      "image": "/Effects/Borders/MLBB%20VNG%27s%20Birthday%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MLBB%20VNG%27s%20Birthday%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0144",
+      "name": "MCL Seasonal Champion Avatar Border",
+      "image": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0145",
+      "name": "Superhero Avatar Border",
+      "image": "/Effects/Borders/Superhero%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Superhero%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0146",
+      "name": "Blazing Bounties Avatar Border",
+      "image": "/Effects/Borders/Blazing%20Bounties%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Blazing%20Bounties%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0147",
+      "name": "Annual Starlight 2020 Border",
+      "image": "/Effects/Borders/Annual%20Starlight%202020%20Border.png",
+      "script": "/Effects/Borders/Annual%20Starlight%202020%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0148",
+      "name": "Trial of Knowledge Christmas Avatar Border",
+      "image": "/Effects/Borders/Trial%20of%20Knowledge%20Christmas%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Trial%20of%20Knowledge%20Christmas%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0149",
+      "name": "Blazing West Avatar Border",
+      "image": "/Effects/Borders/Blazing%20West%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Blazing%20West%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0150",
+      "name": "Thadingyut Festival Avatar Border",
+      "image": "/Effects/Borders/Thadingyut%20Festival%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Thadingyut%20Festival%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0151",
+      "name": "MCL Seasonal Champion Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0152",
+      "name": "MCL Seasonal Champion Avatar Border (Variant 3)",
+      "image": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%203%29.png",
+      "script": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%203%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0153",
+      "name": "MCL Seasonal Champion Avatar Border (Variant 4)",
+      "image": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%204%29.png",
+      "script": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%204%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0154",
+      "name": "Super Fan Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/Super%20Fan%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/Super%20Fan%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0155",
+      "name": "M2 Championship Avatar Border",
+      "image": "/Effects/Borders/M2%20Championship%20Avatar%20Border.png",
+      "script": "/Effects/Borders/M2%20Championship%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0156",
+      "name": "S19 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S19%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S19%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0157",
+      "name": "360mobi Tournament Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/360mobi%20Tournament%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/360mobi%20Tournament%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0158",
+      "name": "S21 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S21%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S21%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0159",
+      "name": "MLBB VNG's Tet Holiday Avatar Border",
+      "image": "/Effects/Borders/MLBB%20VNG%27s%20Tet%20Holiday%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MLBB%20VNG%27s%20Tet%20Holiday%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0160",
+      "name": "2021 Carnival Gacha Party",
+      "image": "/Effects/Borders/2021%20Carnival%20Gacha%20Party.png",
+      "script": "/Effects/Borders/2021%20Carnival%20Gacha%20Party.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0161",
+      "name": "Lethal Nexus Avatar Border",
+      "image": "/Effects/Borders/Lethal%20Nexus%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Lethal%20Nexus%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0162",
+      "name": "2021 Valentine's Day - Phantom",
+      "image": "/Effects/Borders/2021%20Valentine%27s%20Day%20-%20Phantom.png",
+      "script": "/Effects/Borders/2021%20Valentine%27s%20Day%20-%20Phantom.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0163",
+      "name": "2021 Spring Festival Avatar Border",
+      "image": "/Effects/Borders/2021%20Spring%20Festival%20Avatar%20Border.png",
+      "script": "/Effects/Borders/2021%20Spring%20Festival%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0164",
+      "name": "Survival Nexus Leaderboard Avatar Border (Limited-Time)",
+      "image": "/Effects/Borders/Survival%20Nexus%20Leaderboard%20Avatar%20Border%20%28Limited-Time%29.png",
+      "script": "/Effects/Borders/Survival%20Nexus%20Leaderboard%20Avatar%20Border%20%28Limited-Time%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0165",
+      "name": "Stormy Moment",
+      "image": "/Effects/Borders/Stormy%20Moment.png",
+      "script": "/Effects/Borders/Stormy%20Moment.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0166",
+      "name": "S20 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S20%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S20%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0167",
+      "name": "Become Legend",
+      "image": "/Effects/Borders/Become%20Legend.png",
+      "script": "/Effects/Borders/Become%20Legend.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0168",
+      "name": "Avatar Border 0168",
+      "image": "/Effects/Borders/Avatar%20Border%200168.png",
+      "script": "/Effects/Borders/Avatar%20Border%200168.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0169",
+      "name": "Granger Starfall Knight Avatar Border",
+      "image": "/Effects/Borders/Granger%20Starfall%20Knight%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Granger%20Starfall%20Knight%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0170",
+      "name": "515 Party Avatar Border 2021",
+      "image": "/Effects/Borders/515%20Party%20Avatar%20Border%202021.png",
+      "script": "/Effects/Borders/515%20Party%20Avatar%20Border%202021.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0171",
+      "name": "Trial of Knowledge Phase 3 Avatar Border",
+      "image": "/Effects/Borders/Trial%20of%20Knowledge%20Phase%203%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Trial%20of%20Knowledge%20Phase%203%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0172",
+      "name": "Ramadan Kareem Avatar Border",
+      "image": "/Effects/Borders/Ramadan%20Kareem%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Ramadan%20Kareem%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0173",
+      "name": "World Tour Avatar Border (2021)",
+      "image": "/Effects/Borders/World%20Tour%20Avatar%20Border%20%282021%29.png",
+      "script": "/Effects/Borders/World%20Tour%20Avatar%20Border%20%282021%29.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0174",
+      "name": "Future Strikes Avatar Border",
+      "image": "/Effects/Borders/Future%20Strikes%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Future%20Strikes%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0175",
+      "name": "Avatar Border 0175",
+      "image": "/Effects/Borders/Avatar%20Border%200175.png",
+      "script": "/Effects/Borders/Avatar%20Border%200175.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0176",
+      "name": "2021 MSC Avatar Border",
+      "image": "/Effects/Borders/2021%20MSC%20Avatar%20Border.png",
+      "script": "/Effects/Borders/2021%20MSC%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0177",
+      "name": "Star Wars Avatar Border",
+      "image": "/Effects/Borders/Star%20Wars%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Star%20Wars%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0178",
+      "name": "Legends Return Phase 2 Avatar Border",
+      "image": "/Effects/Borders/Legends%20Return%20Phase%202%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Legends%20Return%20Phase%202%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0179",
+      "name": "Eid Al-Adha Avatar Border",
+      "image": "/Effects/Borders/Eid%20Al-Adha%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Eid%20Al-Adha%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0180",
+      "name": "Summer Pool Party Avatar Border",
+      "image": "/Effects/Borders/Summer%20Pool%20Party%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Summer%20Pool%20Party%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0181",
+      "name": "Reversal Gate Avatar Border",
+      "image": "/Effects/Borders/Reversal%20Gate%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Reversal%20Gate%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0182",
+      "name": "M2 Champion Avatar Border",
+      "image": "/Effects/Borders/M2%20Champion%20Avatar%20Border.png",
+      "script": "/Effects/Borders/M2%20Champion%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0183",
+      "name": "Autobot Avatar Border",
+      "image": "/Effects/Borders/Autobot%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Autobot%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0184",
+      "name": "Decepticon Avatar Border",
+      "image": "/Effects/Borders/Decepticon%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Decepticon%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0185",
+      "name": "Trick or Treat Avatar Border",
+      "image": "/Effects/Borders/Trick%20or%20Treat%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Trick%20or%20Treat%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0186",
+      "name": "Best Inviter Avatar Border",
+      "image": "/Effects/Borders/Best%20Inviter%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Best%20Inviter%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0187",
+      "name": "M3 Arabia Major",
+      "image": "/Effects/Borders/M3%20Arabia%20Major.png",
+      "script": "/Effects/Borders/M3%20Arabia%20Major.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0188",
+      "name": "M3 Arabia Major Winner",
+      "image": "/Effects/Borders/M3%20Arabia%20Major%20Winner.png",
+      "script": "/Effects/Borders/M3%20Arabia%20Major%20Winner.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0189",
+      "name": "Avatar Border 0189",
+      "image": "/Effects/Borders/Avatar%20Border%200189.png",
+      "script": "/Effects/Borders/Avatar%20Border%200189.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0190",
+      "name": "Villain's Sorrow",
+      "image": "/Effects/Borders/Villain%27s%20Sorrow.png",
+      "script": "/Effects/Borders/Villain%27s%20Sorrow.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0191",
+      "name": "Future Cop",
+      "image": "/Effects/Borders/Future%20Cop.png",
+      "script": "/Effects/Borders/Future%20Cop.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0192",
+      "name": "Avatar Border 0192",
+      "image": "/Effects/Borders/Avatar%20Border%200192.png",
+      "script": "/Effects/Borders/Avatar%20Border%200192.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0193",
+      "name": "Valir Infernal Blaze Skin Avatar Border",
+      "image": "/Effects/Borders/Valir%20Infernal%20Blaze%20Skin%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Valir%20Infernal%20Blaze%20Skin%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0194",
+      "name": "S22 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S22%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S22%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0195",
+      "name": "Fate Deniers Avatar Border",
+      "image": "/Effects/Borders/Fate%20Deniers%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Fate%20Deniers%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0196",
+      "name": "MCC Exclusive Avatar Border",
+      "image": "/Effects/Borders/MCC%20Exclusive%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MCC%20Exclusive%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0197",
+      "name": "M3 Glorious Avatar Border",
+      "image": "/Effects/Borders/M3%20Glorious%20Avatar%20Border.png",
+      "script": "/Effects/Borders/M3%20Glorious%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0198",
+      "name": "Avatar Border 0198",
+      "image": "/Effects/Borders/Avatar%20Border%200198.png",
+      "script": "/Effects/Borders/Avatar%20Border%200198.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0199",
+      "name": "Crimson Moment",
+      "image": "/Effects/Borders/Crimson%20Moment.png",
+      "script": "/Effects/Borders/Crimson%20Moment.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0200",
+      "name": "2021 Starlight Exclusive Edition",
+      "image": "/Effects/Borders/2021%20Starlight%20Exclusive%20Edition.png",
+      "script": "/Effects/Borders/2021%20Starlight%20Exclusive%20Edition.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0201",
+      "name": "MCC Exclusive Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/MCC%20Exclusive%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/MCC%20Exclusive%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0202",
+      "name": "S23 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S23%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S23%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0203",
+      "name": "Avatar Border 0203",
+      "image": "/Effects/Borders/Avatar%20Border%200203.png",
+      "script": "/Effects/Borders/Avatar%20Border%200203.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0204",
+      "name": "M3 Region Support Avatar Border",
+      "image": "/Effects/Borders/M3%20Region%20Support%20Avatar%20Border.png",
+      "script": "/Effects/Borders/M3%20Region%20Support%20Avatar%20Border.zip",
+      "category": "community"
+    },
+    {
+      "id": "profile-border-0205",
+      "name": "Blade of Kibou Avatar Border",
+      "image": "/Effects/Borders/Blade%20of%20Kibou%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Blade%20of%20Kibou%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0206",
+      "name": "Miss Hikari Avatar Border",
+      "image": "/Effects/Borders/Miss%20Hikari%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Miss%20Hikari%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0207",
+      "name": "Happy Birthday, Cinnamon",
+      "image": "/Effects/Borders/Happy%20Birthday%2C%20Cinnamon.png",
+      "script": "/Effects/Borders/Happy%20Birthday%2C%20Cinnamon.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0208",
+      "name": "Avatar Border 0208",
+      "image": "/Effects/Borders/Avatar%20Border%200208.png",
+      "script": "/Effects/Borders/Avatar%20Border%200208.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0209",
+      "name": "MPL 2022 Spring Exclusive Avatar Border",
+      "image": "/Effects/Borders/MPL%202022%20Spring%20Exclusive%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MPL%202022%20Spring%20Exclusive%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0210",
+      "name": "Hero of Overdrive",
+      "image": "/Effects/Borders/Hero%20of%20Overdrive.png",
+      "script": "/Effects/Borders/Hero%20of%20Overdrive.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0211",
+      "name": "Avatar Border 0211",
+      "image": "/Effects/Borders/Avatar%20Border%200211.png",
+      "script": "/Effects/Borders/Avatar%20Border%200211.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0212",
+      "name": "S24 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S24%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S24%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0213",
+      "name": "Fight! M-World!",
+      "image": "/Effects/Borders/Fight%21%20M-World%21.png",
+      "script": "/Effects/Borders/Fight%21%20M-World%21.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0214",
+      "name": "Ramadan Avatar Border",
+      "image": "/Effects/Borders/Ramadan%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Ramadan%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0215",
+      "name": "MPL 2022 Spring Exclusive Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/MPL%202022%20Spring%20Exclusive%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/MPL%202022%20Spring%20Exclusive%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0216",
+      "name": "MPL 2022 Spring Exclusive Avatar Border (Variant 3)",
+      "image": "/Effects/Borders/MPL%202022%20Spring%20Exclusive%20Avatar%20Border%20%28Variant%203%29.png",
+      "script": "/Effects/Borders/MPL%202022%20Spring%20Exclusive%20Avatar%20Border%20%28Variant%203%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0217",
+      "name": "Avatar Border 0217",
+      "image": "/Effects/Borders/Avatar%20Border%200217.png",
+      "script": "/Effects/Borders/Avatar%20Border%200217.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0218",
+      "name": "Avatar Border 0218",
+      "image": "/Effects/Borders/Avatar%20Border%200218.png",
+      "script": "/Effects/Borders/Avatar%20Border%200218.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0219",
+      "name": "Avatar Border 0219",
+      "image": "/Effects/Borders/Avatar%20Border%200219.png",
+      "script": "/Effects/Borders/Avatar%20Border%200219.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0220",
+      "name": "Avatar Border 0220",
+      "image": "/Effects/Borders/Avatar%20Border%200220.png",
+      "script": "/Effects/Borders/Avatar%20Border%200220.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0221",
+      "name": "Guinevere - Psion of Tomorrow - Avatar Border",
+      "image": "/Effects/Borders/Guinevere%20-%20Psion%20of%20Tomorrow%20-%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Guinevere%20-%20Psion%20of%20Tomorrow%20-%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0222",
+      "name": "Creation Camp Avatar Border",
+      "image": "/Effects/Borders/Creation%20Camp%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Creation%20Camp%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0223",
+      "name": "2021 MSC Avatar Border (Variant 2)",
+      "image": "/Effects/Borders/2021%20MSC%20Avatar%20Border%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/2021%20MSC%20Avatar%20Border%20%28Variant%202%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0224",
+      "name": "Forsaken Light",
+      "image": "/Effects/Borders/Forsaken%20Light.png",
+      "script": "/Effects/Borders/Forsaken%20Light.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0225",
+      "name": "Spear of Vengeance",
+      "image": "/Effects/Borders/Spear%20of%20Vengeance.png",
+      "script": "/Effects/Borders/Spear%20of%20Vengeance.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0226",
+      "name": "Avatar Border 0226",
+      "image": "/Effects/Borders/Avatar%20Border%200226.png",
+      "script": "/Effects/Borders/Avatar%20Border%200226.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0227",
+      "name": "Avatar Border 0227",
+      "image": "/Effects/Borders/Avatar%20Border%200227.png",
+      "script": "/Effects/Borders/Avatar%20Border%200227.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0228",
+      "name": "Avatar Border 0228",
+      "image": "/Effects/Borders/Avatar%20Border%200228.png",
+      "script": "/Effects/Borders/Avatar%20Border%200228.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0229",
+      "name": "Avatar Border 0229",
+      "image": "/Effects/Borders/Avatar%20Border%200229.png",
+      "script": "/Effects/Borders/Avatar%20Border%200229.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0230",
+      "name": "Avatar Border 0230",
+      "image": "/Effects/Borders/Avatar%20Border%200230.png",
+      "script": "/Effects/Borders/Avatar%20Border%200230.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0231",
+      "name": "Avatar Border 0231",
+      "image": "/Effects/Borders/Avatar%20Border%200231.png",
+      "script": "/Effects/Borders/Avatar%20Border%200231.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0232",
+      "name": "Avatar Border 0232",
+      "image": "/Effects/Borders/Avatar%20Border%200232.png",
+      "script": "/Effects/Borders/Avatar%20Border%200232.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0233",
+      "name": "Avatar Border 0233",
+      "image": "/Effects/Borders/Avatar%20Border%200233.png",
+      "script": "/Effects/Borders/Avatar%20Border%200233.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0234",
+      "name": "Avatar Border 0234",
+      "image": "/Effects/Borders/Avatar%20Border%200234.png",
+      "script": "/Effects/Borders/Avatar%20Border%200234.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0235",
+      "name": "Avatar Border 0235",
+      "image": "/Effects/Borders/Avatar%20Border%200235.png",
+      "script": "/Effects/Borders/Avatar%20Border%200235.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0236",
+      "name": "Avatar Border 0236",
+      "image": "/Effects/Borders/Avatar%20Border%200236.png",
+      "script": "/Effects/Borders/Avatar%20Border%200236.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0237",
+      "name": "Avatar Border 0237",
+      "image": "/Effects/Borders/Avatar%20Border%200237.png",
+      "script": "/Effects/Borders/Avatar%20Border%200237.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0238",
+      "name": "Avatar Border 0238",
+      "image": "/Effects/Borders/Avatar%20Border%200238.png",
+      "script": "/Effects/Borders/Avatar%20Border%200238.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0239",
+      "name": "Avatar Border 0239",
+      "image": "/Effects/Borders/Avatar%20Border%200239.png",
+      "script": "/Effects/Borders/Avatar%20Border%200239.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0240",
+      "name": "Avatar Border 0240",
+      "image": "/Effects/Borders/Avatar%20Border%200240.png",
+      "script": "/Effects/Borders/Avatar%20Border%200240.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0241",
+      "name": "Avatar Border 0241",
+      "image": "/Effects/Borders/Avatar%20Border%200241.png",
+      "script": "/Effects/Borders/Avatar%20Border%200241.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0242",
+      "name": "Avatar Border 0242",
+      "image": "/Effects/Borders/Avatar%20Border%200242.png",
+      "script": "/Effects/Borders/Avatar%20Border%200242.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0243",
+      "name": "Avatar Border 0243",
+      "image": "/Effects/Borders/Avatar%20Border%200243.png",
+      "script": "/Effects/Borders/Avatar%20Border%200243.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0244",
+      "name": "Avatar Border 0244",
+      "image": "/Effects/Borders/Avatar%20Border%200244.png",
+      "script": "/Effects/Borders/Avatar%20Border%200244.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0245",
+      "name": "Avatar Border 0245",
+      "image": "/Effects/Borders/Avatar%20Border%200245.png",
+      "script": "/Effects/Borders/Avatar%20Border%200245.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0246",
+      "name": "Avatar Border 0246",
+      "image": "/Effects/Borders/Avatar%20Border%200246.png",
+      "script": "/Effects/Borders/Avatar%20Border%200246.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0247",
+      "name": "Avatar Border 0247",
+      "image": "/Effects/Borders/Avatar%20Border%200247.png",
+      "script": "/Effects/Borders/Avatar%20Border%200247.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0248",
+      "name": "Avatar Border 0248",
+      "image": "/Effects/Borders/Avatar%20Border%200248.png",
+      "script": "/Effects/Borders/Avatar%20Border%200248.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0249",
+      "name": "Avatar Border 0249",
+      "image": "/Effects/Borders/Avatar%20Border%200249.png",
+      "script": "/Effects/Borders/Avatar%20Border%200249.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0250",
+      "name": "Avatar Border 0250",
+      "image": "/Effects/Borders/Avatar%20Border%200250.png",
+      "script": "/Effects/Borders/Avatar%20Border%200250.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0251",
+      "name": "Avatar Border 0251",
+      "image": "/Effects/Borders/Avatar%20Border%200251.png",
+      "script": "/Effects/Borders/Avatar%20Border%200251.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0252",
+      "name": "Avatar Border 0252",
+      "image": "/Effects/Borders/Avatar%20Border%200252.png",
+      "script": "/Effects/Borders/Avatar%20Border%200252.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0253",
+      "name": "Avatar Border 0253",
+      "image": "/Effects/Borders/Avatar%20Border%200253.png",
+      "script": "/Effects/Borders/Avatar%20Border%200253.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0254",
+      "name": "Avatar Border 0254",
+      "image": "/Effects/Borders/Avatar%20Border%200254.png",
+      "script": "/Effects/Borders/Avatar%20Border%200254.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0255",
+      "name": "Avatar Border 0255",
+      "image": "/Effects/Borders/Avatar%20Border%200255.png",
+      "script": "/Effects/Borders/Avatar%20Border%200255.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0256",
+      "name": "Avatar Border 0256",
+      "image": "/Effects/Borders/Avatar%20Border%200256.png",
+      "script": "/Effects/Borders/Avatar%20Border%200256.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0257",
+      "name": "Avatar Border 0257",
+      "image": "/Effects/Borders/Avatar%20Border%200257.png",
+      "script": "/Effects/Borders/Avatar%20Border%200257.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0258",
+      "name": "Avatar Border 0258",
+      "image": "/Effects/Borders/Avatar%20Border%200258.png",
+      "script": "/Effects/Borders/Avatar%20Border%200258.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0259",
+      "name": "Avatar Border 0259",
+      "image": "/Effects/Borders/Avatar%20Border%200259.png",
+      "script": "/Effects/Borders/Avatar%20Border%200259.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0260",
+      "name": "Avatar Border 0260",
+      "image": "/Effects/Borders/Avatar%20Border%200260.png",
+      "script": "/Effects/Borders/Avatar%20Border%200260.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0261",
+      "name": "Avatar Border 0261",
+      "image": "/Effects/Borders/Avatar%20Border%200261.png",
+      "script": "/Effects/Borders/Avatar%20Border%200261.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0262",
+      "name": "Avatar Border 0262",
+      "image": "/Effects/Borders/Avatar%20Border%200262.png",
+      "script": "/Effects/Borders/Avatar%20Border%200262.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0263",
+      "name": "Avatar Border 0263",
+      "image": "/Effects/Borders/Avatar%20Border%200263.png",
+      "script": "/Effects/Borders/Avatar%20Border%200263.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0264",
+      "name": "Avatar Border 0264",
+      "image": "/Effects/Borders/Avatar%20Border%200264.png",
+      "script": "/Effects/Borders/Avatar%20Border%200264.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0265",
+      "name": "Avatar Border 0265",
+      "image": "/Effects/Borders/Avatar%20Border%200265.png",
+      "script": "/Effects/Borders/Avatar%20Border%200265.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0266",
+      "name": "Avatar Border 0266",
+      "image": "/Effects/Borders/Avatar%20Border%200266.png",
+      "script": "/Effects/Borders/Avatar%20Border%200266.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0267",
+      "name": "Avatar Border 0267",
+      "image": "/Effects/Borders/Avatar%20Border%200267.png",
+      "script": "/Effects/Borders/Avatar%20Border%200267.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0268",
+      "name": "Avatar Border 0268",
+      "image": "/Effects/Borders/Avatar%20Border%200268.png",
+      "script": "/Effects/Borders/Avatar%20Border%200268.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0269",
+      "name": "Avatar Border 0269",
+      "image": "/Effects/Borders/Avatar%20Border%200269.png",
+      "script": "/Effects/Borders/Avatar%20Border%200269.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0270",
+      "name": "Avatar Border 0270",
+      "image": "/Effects/Borders/Avatar%20Border%200270.png",
+      "script": "/Effects/Borders/Avatar%20Border%200270.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0271",
+      "name": "Avatar Border 0271",
+      "image": "/Effects/Borders/Avatar%20Border%200271.png",
+      "script": "/Effects/Borders/Avatar%20Border%200271.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0272",
+      "name": "Avatar Border 0272",
+      "image": "/Effects/Borders/Avatar%20Border%200272.png",
+      "script": "/Effects/Borders/Avatar%20Border%200272.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0273",
+      "name": "Avatar Border 0273",
+      "image": "/Effects/Borders/Avatar%20Border%200273.png",
+      "script": "/Effects/Borders/Avatar%20Border%200273.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0274",
+      "name": "Avatar Border 0274",
+      "image": "/Effects/Borders/Avatar%20Border%200274.png",
+      "script": "/Effects/Borders/Avatar%20Border%200274.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0275",
+      "name": "Avatar Border 0275",
+      "image": "/Effects/Borders/Avatar%20Border%200275.png",
+      "script": "/Effects/Borders/Avatar%20Border%200275.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0276",
+      "name": "Avatar Border 0276",
+      "image": "/Effects/Borders/Avatar%20Border%200276.png",
+      "script": "/Effects/Borders/Avatar%20Border%200276.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0277",
+      "name": "Avatar Border 0277",
+      "image": "/Effects/Borders/Avatar%20Border%200277.png",
+      "script": "/Effects/Borders/Avatar%20Border%200277.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0278",
+      "name": "Avatar Border 0278",
+      "image": "/Effects/Borders/Avatar%20Border%200278.png",
+      "script": "/Effects/Borders/Avatar%20Border%200278.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0279",
+      "name": "Avatar Border 0279",
+      "image": "/Effects/Borders/Avatar%20Border%200279.png",
+      "script": "/Effects/Borders/Avatar%20Border%200279.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0280",
+      "name": "Avatar Border 0280",
+      "image": "/Effects/Borders/Avatar%20Border%200280.png",
+      "script": "/Effects/Borders/Avatar%20Border%200280.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0281",
+      "name": "Avatar Border 0281",
+      "image": "/Effects/Borders/Avatar%20Border%200281.png",
+      "script": "/Effects/Borders/Avatar%20Border%200281.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0282",
+      "name": "Avatar Border 0282",
+      "image": "/Effects/Borders/Avatar%20Border%200282.png",
+      "script": "/Effects/Borders/Avatar%20Border%200282.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0283",
+      "name": "Avatar Border 0283",
+      "image": "/Effects/Borders/Avatar%20Border%200283.png",
+      "script": "/Effects/Borders/Avatar%20Border%200283.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0284",
+      "name": "Avatar Border 0284",
+      "image": "/Effects/Borders/Avatar%20Border%200284.png",
+      "script": "/Effects/Borders/Avatar%20Border%200284.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0285",
+      "name": "Avatar Border 0285",
+      "image": "/Effects/Borders/Avatar%20Border%200285.png",
+      "script": "/Effects/Borders/Avatar%20Border%200285.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0286",
+      "name": "Avatar Border 0286",
+      "image": "/Effects/Borders/Avatar%20Border%200286.png",
+      "script": "/Effects/Borders/Avatar%20Border%200286.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0287",
+      "name": "Avatar Border 0287",
+      "image": "/Effects/Borders/Avatar%20Border%200287.png",
+      "script": "/Effects/Borders/Avatar%20Border%200287.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0288",
+      "name": "Avatar Border 0288",
+      "image": "/Effects/Borders/Avatar%20Border%200288.png",
+      "script": "/Effects/Borders/Avatar%20Border%200288.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0289",
+      "name": "Avatar Border 0289",
+      "image": "/Effects/Borders/Avatar%20Border%200289.png",
+      "script": "/Effects/Borders/Avatar%20Border%200289.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0290",
+      "name": "Avatar Border 0290",
+      "image": "/Effects/Borders/Avatar%20Border%200290.png",
+      "script": "/Effects/Borders/Avatar%20Border%200290.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0291",
+      "name": "Avatar Border 0291",
+      "image": "/Effects/Borders/Avatar%20Border%200291.png",
+      "script": "/Effects/Borders/Avatar%20Border%200291.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0292",
+      "name": "Avatar Border 0292",
+      "image": "/Effects/Borders/Avatar%20Border%200292.png",
+      "script": "/Effects/Borders/Avatar%20Border%200292.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0293",
+      "name": "Avatar Border 0293",
+      "image": "/Effects/Borders/Avatar%20Border%200293.png",
+      "script": "/Effects/Borders/Avatar%20Border%200293.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0294",
+      "name": "Avatar Border 0294",
+      "image": "/Effects/Borders/Avatar%20Border%200294.png",
+      "script": "/Effects/Borders/Avatar%20Border%200294.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0295",
+      "name": "Avatar Border 0295",
+      "image": "/Effects/Borders/Avatar%20Border%200295.png",
+      "script": "/Effects/Borders/Avatar%20Border%200295.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0297",
+      "name": "Avatar Border 0297",
+      "image": "/Effects/Borders/Avatar%20Border%200297.png",
+      "script": "/Effects/Borders/Avatar%20Border%200297.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0299",
+      "name": "Avatar Border 0299",
+      "image": "/Effects/Borders/Avatar%20Border%200299.png",
+      "script": "/Effects/Borders/Avatar%20Border%200299.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0300",
+      "name": "Avatar Border 0300",
+      "image": "/Effects/Borders/Avatar%20Border%200300.png",
+      "script": "/Effects/Borders/Avatar%20Border%200300.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0301",
+      "name": "Avatar Border 0301",
+      "image": "/Effects/Borders/Avatar%20Border%200301.png",
+      "script": "/Effects/Borders/Avatar%20Border%200301.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0302",
+      "name": "Avatar Border 0302",
+      "image": "/Effects/Borders/Avatar%20Border%200302.png",
+      "script": "/Effects/Borders/Avatar%20Border%200302.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0303",
+      "name": "Avatar Border 0303",
+      "image": "/Effects/Borders/Avatar%20Border%200303.png",
+      "script": "/Effects/Borders/Avatar%20Border%200303.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0304",
+      "name": "Avatar Border 0304",
+      "image": "/Effects/Borders/Avatar%20Border%200304.png",
+      "script": "/Effects/Borders/Avatar%20Border%200304.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0305",
+      "name": "Avatar Border 0305",
+      "image": "/Effects/Borders/Avatar%20Border%200305.png",
+      "script": "/Effects/Borders/Avatar%20Border%200305.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0306",
+      "name": "Avatar Border 0306",
+      "image": "/Effects/Borders/Avatar%20Border%200306.png",
+      "script": "/Effects/Borders/Avatar%20Border%200306.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0307",
+      "name": "Avatar Border 0307",
+      "image": "/Effects/Borders/Avatar%20Border%200307.png",
+      "script": "/Effects/Borders/Avatar%20Border%200307.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0308",
+      "name": "MCL Seasonal Champion Avatar Border (Variant 5)",
+      "image": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%205%29.png",
+      "script": "/Effects/Borders/MCL%20Seasonal%20Champion%20Avatar%20Border%20%28Variant%205%29.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0309",
+      "name": "Avatar Border 0309",
+      "image": "/Effects/Borders/Avatar%20Border%200309.png",
+      "script": "/Effects/Borders/Avatar%20Border%200309.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0310",
+      "name": "Avatar Border 0310",
+      "image": "/Effects/Borders/Avatar%20Border%200310.png",
+      "script": "/Effects/Borders/Avatar%20Border%200310.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0311",
+      "name": "Avatar Border 0311",
+      "image": "/Effects/Borders/Avatar%20Border%200311.png",
+      "script": "/Effects/Borders/Avatar%20Border%200311.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0312",
+      "name": "Avatar Border 0312",
+      "image": "/Effects/Borders/Avatar%20Border%200312.png",
+      "script": "/Effects/Borders/Avatar%20Border%200312.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0313",
+      "name": "Avatar Border 0313",
+      "image": "/Effects/Borders/Avatar%20Border%200313.png",
+      "script": "/Effects/Borders/Avatar%20Border%200313.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0314",
+      "name": "Avatar Border 0314",
+      "image": "/Effects/Borders/Avatar%20Border%200314.png",
+      "script": "/Effects/Borders/Avatar%20Border%200314.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0315",
+      "name": "Avatar Border 0315",
+      "image": "/Effects/Borders/Avatar%20Border%200315.png",
+      "script": "/Effects/Borders/Avatar%20Border%200315.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0316",
+      "name": "Avatar Border 0316",
+      "image": "/Effects/Borders/Avatar%20Border%200316.png",
+      "script": "/Effects/Borders/Avatar%20Border%200316.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0317",
+      "name": "Avatar Border 0317",
+      "image": "/Effects/Borders/Avatar%20Border%200317.png",
+      "script": "/Effects/Borders/Avatar%20Border%200317.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0318",
+      "name": "Avatar Border 0318",
+      "image": "/Effects/Borders/Avatar%20Border%200318.png",
+      "script": "/Effects/Borders/Avatar%20Border%200318.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0319",
+      "name": "Avatar Border 0319",
+      "image": "/Effects/Borders/Avatar%20Border%200319.png",
+      "script": "/Effects/Borders/Avatar%20Border%200319.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0320",
+      "name": "Avatar Border 0320",
+      "image": "/Effects/Borders/Avatar%20Border%200320.png",
+      "script": "/Effects/Borders/Avatar%20Border%200320.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0322",
+      "name": "Avatar Border 0322",
+      "image": "/Effects/Borders/Avatar%20Border%200322.png",
+      "script": "/Effects/Borders/Avatar%20Border%200322.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0323",
+      "name": "Avatar Border 0323",
+      "image": "/Effects/Borders/Avatar%20Border%200323.png",
+      "script": "/Effects/Borders/Avatar%20Border%200323.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0324",
+      "name": "Avatar Border 0324",
+      "image": "/Effects/Borders/Avatar%20Border%200324.png",
+      "script": "/Effects/Borders/Avatar%20Border%200324.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0325",
+      "name": "Avatar Border 0325",
+      "image": "/Effects/Borders/Avatar%20Border%200325.png",
+      "script": "/Effects/Borders/Avatar%20Border%200325.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0326",
+      "name": "Avatar Border 0326",
+      "image": "/Effects/Borders/Avatar%20Border%200326.png",
+      "script": "/Effects/Borders/Avatar%20Border%200326.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0327",
+      "name": "Avatar Border 0327",
+      "image": "/Effects/Borders/Avatar%20Border%200327.png",
+      "script": "/Effects/Borders/Avatar%20Border%200327.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0328",
+      "name": "Avatar Border 0328",
+      "image": "/Effects/Borders/Avatar%20Border%200328.png",
+      "script": "/Effects/Borders/Avatar%20Border%200328.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0329",
+      "name": "Avatar Border 0329",
+      "image": "/Effects/Borders/Avatar%20Border%200329.png",
+      "script": "/Effects/Borders/Avatar%20Border%200329.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0330",
+      "name": "Avatar Border 0330",
+      "image": "/Effects/Borders/Avatar%20Border%200330.png",
+      "script": "/Effects/Borders/Avatar%20Border%200330.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0331",
+      "name": "Avatar Border 0331",
+      "image": "/Effects/Borders/Avatar%20Border%200331.png",
+      "script": "/Effects/Borders/Avatar%20Border%200331.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0332",
+      "name": "Avatar Border 0332",
+      "image": "/Effects/Borders/Avatar%20Border%200332.png",
+      "script": "/Effects/Borders/Avatar%20Border%200332.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0333",
+      "name": "Avatar Border 0333",
+      "image": "/Effects/Borders/Avatar%20Border%200333.png",
+      "script": "/Effects/Borders/Avatar%20Border%200333.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0334",
+      "name": "Avatar Border 0334",
+      "image": "/Effects/Borders/Avatar%20Border%200334.png",
+      "script": "/Effects/Borders/Avatar%20Border%200334.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0335",
+      "name": "Avatar Border 0335",
+      "image": "/Effects/Borders/Avatar%20Border%200335.png",
+      "script": "/Effects/Borders/Avatar%20Border%200335.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0336",
+      "name": "Avatar Border 0336",
+      "image": "/Effects/Borders/Avatar%20Border%200336.png",
+      "script": "/Effects/Borders/Avatar%20Border%200336.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0337",
+      "name": "Avatar Border 0337",
+      "image": "/Effects/Borders/Avatar%20Border%200337.png",
+      "script": "/Effects/Borders/Avatar%20Border%200337.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0338",
+      "name": "Avatar Border 0338",
+      "image": "/Effects/Borders/Avatar%20Border%200338.png",
+      "script": "/Effects/Borders/Avatar%20Border%200338.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0339",
+      "name": "Avatar Border 0339",
+      "image": "/Effects/Borders/Avatar%20Border%200339.png",
+      "script": "/Effects/Borders/Avatar%20Border%200339.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0340",
+      "name": "Avatar Border 0340",
+      "image": "/Effects/Borders/Avatar%20Border%200340.png",
+      "script": "/Effects/Borders/Avatar%20Border%200340.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0341",
+      "name": "Avatar Border 0341",
+      "image": "/Effects/Borders/Avatar%20Border%200341.png",
+      "script": "/Effects/Borders/Avatar%20Border%200341.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0342",
+      "name": "Avatar Border 0342",
+      "image": "/Effects/Borders/Avatar%20Border%200342.png",
+      "script": "/Effects/Borders/Avatar%20Border%200342.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0343",
+      "name": "Avatar Border 0343",
+      "image": "/Effects/Borders/Avatar%20Border%200343.png",
+      "script": "/Effects/Borders/Avatar%20Border%200343.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0344",
+      "name": "Avatar Border 0344",
+      "image": "/Effects/Borders/Avatar%20Border%200344.png",
+      "script": "/Effects/Borders/Avatar%20Border%200344.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0345",
+      "name": "Avatar Border 0345",
+      "image": "/Effects/Borders/Avatar%20Border%200345.png",
+      "script": "/Effects/Borders/Avatar%20Border%200345.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0346",
+      "name": "Avatar Border 0346",
+      "image": "/Effects/Borders/Avatar%20Border%200346.png",
+      "script": "/Effects/Borders/Avatar%20Border%200346.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0347",
+      "name": "Avatar Border 0347",
+      "image": "/Effects/Borders/Avatar%20Border%200347.png",
+      "script": "/Effects/Borders/Avatar%20Border%200347.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0348",
+      "name": "Avatar Border 0348",
+      "image": "/Effects/Borders/Avatar%20Border%200348.png",
+      "script": "/Effects/Borders/Avatar%20Border%200348.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0349",
+      "name": "Avatar Border 0349",
+      "image": "/Effects/Borders/Avatar%20Border%200349.png",
+      "script": "/Effects/Borders/Avatar%20Border%200349.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0350",
+      "name": "Avatar Border 0350",
+      "image": "/Effects/Borders/Avatar%20Border%200350.png",
+      "script": "/Effects/Borders/Avatar%20Border%200350.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0351",
+      "name": "MLBB × NARUTO Avatar Border",
+      "image": "/Effects/Borders/MLBB%20%C3%97%20NARUTO%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MLBB%20%C3%97%20NARUTO%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0352",
+      "name": "Neobeasts Phase II Avatar Border",
+      "image": "/Effects/Borders/Neobeasts%20Phase%20II%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Neobeasts%20Phase%20II%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0353",
+      "name": "2025 Rank Party Avatar Border",
+      "image": "/Effects/Borders/2025%20Rank%20Party%20Avatar%20Border.png",
+      "script": "/Effects/Borders/2025%20Rank%20Party%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0354",
+      "name": "S36 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S36%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S36%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0355",
+      "name": "Myanmar New Year Avatar Border",
+      "image": "/Effects/Borders/Myanmar%20New%20Year%20Avatar%20Border.png",
+      "script": "/Effects/Borders/Myanmar%20New%20Year%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0356",
+      "name": "Avatar Border 0356",
+      "image": "/Effects/Borders/Avatar%20Border%200356.png",
+      "script": "/Effects/Borders/Avatar%20Border%200356.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0357",
+      "name": "Avatar Border 0357",
+      "image": "/Effects/Borders/Avatar%20Border%200357.png",
+      "script": "/Effects/Borders/Avatar%20Border%200357.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0358",
+      "name": "Avatar Border 0358",
+      "image": "/Effects/Borders/Avatar%20Border%200358.png",
+      "script": "/Effects/Borders/Avatar%20Border%200358.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0359",
+      "name": "Avatar Border 0359",
+      "image": "/Effects/Borders/Avatar%20Border%200359.png",
+      "script": "/Effects/Borders/Avatar%20Border%200359.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0360",
+      "name": "Avatar Border 0360",
+      "image": "/Effects/Borders/Avatar%20Border%200360.png",
+      "script": "/Effects/Borders/Avatar%20Border%200360.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0361",
+      "name": "MSC 2025 Avatar Border",
+      "image": "/Effects/Borders/MSC%202025%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MSC%202025%20Avatar%20Border.zip",
+      "category": "esport"
+    },
+    {
+      "id": "profile-border-0362",
+      "name": "Avatar Border 0362",
+      "image": "/Effects/Borders/Avatar%20Border%200362.png",
+      "script": "/Effects/Borders/Avatar%20Border%200362.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0363",
+      "name": "Avatar Border 0363",
+      "image": "/Effects/Borders/Avatar%20Border%200363.png",
+      "script": "/Effects/Borders/Avatar%20Border%200363.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0364",
+      "name": "Avatar Border 0364",
+      "image": "/Effects/Borders/Avatar%20Border%200364.png",
+      "script": "/Effects/Borders/Avatar%20Border%200364.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0366",
+      "name": "S37 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S37%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S37%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0367",
+      "name": "Avatar Border 0367",
+      "image": "/Effects/Borders/Avatar%20Border%200367.png",
+      "script": "/Effects/Borders/Avatar%20Border%200367.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0368",
+      "name": "Avatar Border 0368",
+      "image": "/Effects/Borders/Avatar%20Border%200368.png",
+      "script": "/Effects/Borders/Avatar%20Border%200368.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0369",
+      "name": "Avatar Border 0369",
+      "image": "/Effects/Borders/Avatar%20Border%200369.png",
+      "script": "/Effects/Borders/Avatar%20Border%200369.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0370",
+      "name": "Avatar Border 0370",
+      "image": "/Effects/Borders/Avatar%20Border%200370.png",
+      "script": "/Effects/Borders/Avatar%20Border%200370.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0371",
+      "name": "Avatar Border 0371",
+      "image": "/Effects/Borders/Avatar%20Border%200371.png",
+      "script": "/Effects/Borders/Avatar%20Border%200371.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0372",
+      "name": "Avatar Border 0372",
+      "image": "/Effects/Borders/Avatar%20Border%200372.png",
+      "script": "/Effects/Borders/Avatar%20Border%200372.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0373",
+      "name": "Avatar Border 0373",
+      "image": "/Effects/Borders/Avatar%20Border%200373.png",
+      "script": "/Effects/Borders/Avatar%20Border%200373.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0374",
+      "name": "Avatar Border 0374",
+      "image": "/Effects/Borders/Avatar%20Border%200374.png",
+      "script": "/Effects/Borders/Avatar%20Border%200374.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0375",
+      "name": "Avatar Border 0375",
+      "image": "/Effects/Borders/Avatar%20Border%200375.png",
+      "script": "/Effects/Borders/Avatar%20Border%200375.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0376",
+      "name": "S38 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S38%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S38%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0377",
+      "name": "Avatar Border 0377",
+      "image": "/Effects/Borders/Avatar%20Border%200377.png",
+      "script": "/Effects/Borders/Avatar%20Border%200377.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0378",
+      "name": "Avatar Border 0378",
+      "image": "/Effects/Borders/Avatar%20Border%200378.png",
+      "script": "/Effects/Borders/Avatar%20Border%200378.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0379",
+      "name": "Avatar Border 0379",
+      "image": "/Effects/Borders/Avatar%20Border%200379.png",
+      "script": "/Effects/Borders/Avatar%20Border%200379.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0380",
+      "name": "Avatar Border 0380",
+      "image": "/Effects/Borders/Avatar%20Border%200380.png",
+      "script": "/Effects/Borders/Avatar%20Border%200380.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0381",
+      "name": "MLBB × SpongeBob SquarePants Avatar Border",
+      "image": "/Effects/Borders/MLBB%20%C3%97%20SpongeBob%20SquarePants%20Avatar%20Border.png",
+      "script": "/Effects/Borders/MLBB%20%C3%97%20SpongeBob%20SquarePants%20Avatar%20Border.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0382",
+      "name": "Avatar Border 0382",
+      "image": "/Effects/Borders/Avatar%20Border%200382.png",
+      "script": "/Effects/Borders/Avatar%20Border%200382.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0383",
+      "name": "Avatar Border 0383",
+      "image": "/Effects/Borders/Avatar%20Border%200383.png",
+      "script": "/Effects/Borders/Avatar%20Border%200383.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0384",
+      "name": "Avatar Border 0384",
+      "image": "/Effects/Borders/Avatar%20Border%200384.png",
+      "script": "/Effects/Borders/Avatar%20Border%200384.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0385",
+      "name": "Avatar Border 0385",
+      "image": "/Effects/Borders/Avatar%20Border%200385.png",
+      "script": "/Effects/Borders/Avatar%20Border%200385.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0386",
+      "name": "S39 First Recharge Avatar Border",
+      "image": "/Effects/Borders/S39%20First%20Recharge%20Avatar%20Border.png",
+      "script": "/Effects/Borders/S39%20First%20Recharge%20Avatar%20Border.zip",
+      "category": "event"
+    },
+    {
+      "id": "profile-border-0387",
+      "name": "Avatar Border 0387",
+      "image": "/Effects/Borders/Avatar%20Border%200387.png",
+      "script": "/Effects/Borders/Avatar%20Border%200387.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0388",
+      "name": "Avatar Border 0388",
+      "image": "/Effects/Borders/Avatar%20Border%200388.png",
+      "script": "/Effects/Borders/Avatar%20Border%200388.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0389",
+      "name": "Avatar Border 0389",
+      "image": "/Effects/Borders/Avatar%20Border%200389.png",
+      "script": "/Effects/Borders/Avatar%20Border%200389.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0390",
+      "name": "Avatar Border 0390",
+      "image": "/Effects/Borders/Avatar%20Border%200390.png",
+      "script": "/Effects/Borders/Avatar%20Border%200390.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0391",
+      "name": "Avatar Border 0391",
+      "image": "/Effects/Borders/Avatar%20Border%200391.png",
+      "script": "/Effects/Borders/Avatar%20Border%200391.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0392",
+      "name": "Avatar Border 0392",
+      "image": "/Effects/Borders/Avatar%20Border%200392.png",
+      "script": "/Effects/Borders/Avatar%20Border%200392.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0393",
+      "name": "Avatar Border 0393",
+      "image": "/Effects/Borders/Avatar%20Border%200393.png",
+      "script": "/Effects/Borders/Avatar%20Border%200393.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0394",
+      "name": "Avatar Border 0394",
+      "image": "/Effects/Borders/Avatar%20Border%200394.png",
+      "script": "/Effects/Borders/Avatar%20Border%200394.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0395",
+      "name": "Avatar Border 0395",
+      "image": "/Effects/Borders/Avatar%20Border%200395.png",
+      "script": "/Effects/Borders/Avatar%20Border%200395.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0396",
+      "name": "Avatar Border 0396",
+      "image": "/Effects/Borders/Avatar%20Border%200396.png",
+      "script": "/Effects/Borders/Avatar%20Border%200396.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0397",
+      "name": "Avatar Border 0397",
+      "image": "/Effects/Borders/Avatar%20Border%200397.png",
+      "script": "/Effects/Borders/Avatar%20Border%200397.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0398",
+      "name": "Avatar Border 0398",
+      "image": "/Effects/Borders/Avatar%20Border%200398.png",
+      "script": "/Effects/Borders/Avatar%20Border%200398.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0399",
+      "name": "Avatar Border 0399",
+      "image": "/Effects/Borders/Avatar%20Border%200399.png",
+      "script": "/Effects/Borders/Avatar%20Border%200399.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0400",
+      "name": "Avatar Border 0400",
+      "image": "/Effects/Borders/Avatar%20Border%200400.png",
+      "script": "/Effects/Borders/Avatar%20Border%200400.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0401",
+      "name": "Avatar Border 0401",
+      "image": "/Effects/Borders/Avatar%20Border%200401.png",
+      "script": "/Effects/Borders/Avatar%20Border%200401.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0402",
+      "name": "Avatar Border 0402",
+      "image": "/Effects/Borders/Avatar%20Border%200402.png",
+      "script": "/Effects/Borders/Avatar%20Border%200402.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0403",
+      "name": "Avatar Border 0403",
+      "image": "/Effects/Borders/Avatar%20Border%200403.png",
+      "script": "/Effects/Borders/Avatar%20Border%200403.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0404",
+      "name": "Avatar Border 0404",
+      "image": "/Effects/Borders/Avatar%20Border%200404.png",
+      "script": "/Effects/Borders/Avatar%20Border%200404.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0405",
+      "name": "Avatar Border 0405",
+      "image": "/Effects/Borders/Avatar%20Border%200405.png",
+      "script": "/Effects/Borders/Avatar%20Border%200405.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0406",
+      "name": "Avatar Border 0406",
+      "image": "/Effects/Borders/Avatar%20Border%200406.png",
+      "script": "/Effects/Borders/Avatar%20Border%200406.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0407",
+      "name": "Avatar Border 0407",
+      "image": "/Effects/Borders/Avatar%20Border%200407.png",
+      "script": "/Effects/Borders/Avatar%20Border%200407.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0408",
+      "name": "Avatar Border 0408",
+      "image": "/Effects/Borders/Avatar%20Border%200408.png",
+      "script": "/Effects/Borders/Avatar%20Border%200408.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0409",
+      "name": "Avatar Border 0409",
+      "image": "/Effects/Borders/Avatar%20Border%200409.png",
+      "script": "/Effects/Borders/Avatar%20Border%200409.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0410",
+      "name": "Avatar Border 0410",
+      "image": "/Effects/Borders/Avatar%20Border%200410.png",
+      "script": "/Effects/Borders/Avatar%20Border%200410.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0411",
+      "name": "Avatar Border 0411",
+      "image": "/Effects/Borders/Avatar%20Border%200411.png",
+      "script": "/Effects/Borders/Avatar%20Border%200411.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0412",
+      "name": "Avatar Border 0412",
+      "image": "/Effects/Borders/Avatar%20Border%200412.png",
+      "script": "/Effects/Borders/Avatar%20Border%200412.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0413",
+      "name": "Avatar Border 0413",
+      "image": "/Effects/Borders/Avatar%20Border%200413.png",
+      "script": "/Effects/Borders/Avatar%20Border%200413.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0414",
+      "name": "Avatar Border 0414",
+      "image": "/Effects/Borders/Avatar%20Border%200414.png",
+      "script": "/Effects/Borders/Avatar%20Border%200414.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0415",
+      "name": "Avatar Border 0415",
+      "image": "/Effects/Borders/Avatar%20Border%200415.png",
+      "script": "/Effects/Borders/Avatar%20Border%200415.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0416",
+      "name": "Avatar Border 0416",
+      "image": "/Effects/Borders/Avatar%20Border%200416.png",
+      "script": "/Effects/Borders/Avatar%20Border%200416.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0417",
+      "name": "Avatar Border 0417",
+      "image": "/Effects/Borders/Avatar%20Border%200417.png",
+      "script": "/Effects/Borders/Avatar%20Border%200417.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0418",
+      "name": "Avatar Border 0418",
+      "image": "/Effects/Borders/Avatar%20Border%200418.png",
+      "script": "/Effects/Borders/Avatar%20Border%200418.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0419",
+      "name": "Avatar Border 0419",
+      "image": "/Effects/Borders/Avatar%20Border%200419.png",
+      "script": "/Effects/Borders/Avatar%20Border%200419.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0420",
+      "name": "Avatar Border 0420",
+      "image": "/Effects/Borders/Avatar%20Border%200420.png",
+      "script": "/Effects/Borders/Avatar%20Border%200420.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0421",
+      "name": "Avatar Border 0421",
+      "image": "/Effects/Borders/Avatar%20Border%200421.png",
+      "script": "/Effects/Borders/Avatar%20Border%200421.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0422",
+      "name": "Crimson Moment (Variant 2)",
+      "image": "/Effects/Borders/Crimson%20Moment%20%28Variant%202%29.png",
+      "script": "/Effects/Borders/Crimson%20Moment%20%28Variant%202%29.zip",
+      "category": "skin"
+    },
+    {
+      "id": "profile-border-0423",
+      "name": "Avatar Border 0423",
+      "image": "/Effects/Borders/Avatar%20Border%200423.png",
+      "script": "/Effects/Borders/Avatar%20Border%200423.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0424",
+      "name": "Avatar Border 0424",
+      "image": "/Effects/Borders/Avatar%20Border%200424.png",
+      "script": "/Effects/Borders/Avatar%20Border%200424.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0425",
+      "name": "Avatar Border 0425",
+      "image": "/Effects/Borders/Avatar%20Border%200425.png",
+      "script": "/Effects/Borders/Avatar%20Border%200425.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0426",
+      "name": "Avatar Border 0426",
+      "image": "/Effects/Borders/Avatar%20Border%200426.png",
+      "script": "/Effects/Borders/Avatar%20Border%200426.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0427",
+      "name": "Avatar Border 0427",
+      "image": "/Effects/Borders/Avatar%20Border%200427.png",
+      "script": "/Effects/Borders/Avatar%20Border%200427.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0428",
+      "name": "Avatar Border 0428",
+      "image": "/Effects/Borders/Avatar%20Border%200428.png",
+      "script": "/Effects/Borders/Avatar%20Border%200428.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0429",
+      "name": "Avatar Border 0429",
+      "image": "/Effects/Borders/Avatar%20Border%200429.png",
+      "script": "/Effects/Borders/Avatar%20Border%200429.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-0442",
+      "name": "Avatar Border 0442",
+      "image": "/Effects/Borders/Avatar%20Border%200442.png",
+      "script": "/Effects/Borders/Avatar%20Border%200442.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1001",
+      "name": "Avatar Border 1001",
+      "image": "/Effects/Borders/Avatar%20Border%201001.png",
+      "script": "/Effects/Borders/Avatar%20Border%201001.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1004",
+      "name": "Avatar Border 1004",
+      "image": "/Effects/Borders/Avatar%20Border%201004.png",
+      "script": "/Effects/Borders/Avatar%20Border%201004.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1007",
+      "name": "Avatar Border 1007",
+      "image": "/Effects/Borders/Avatar%20Border%201007.png",
+      "script": "/Effects/Borders/Avatar%20Border%201007.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1008",
+      "name": "Avatar Border 1008",
+      "image": "/Effects/Borders/Avatar%20Border%201008.png",
+      "script": "/Effects/Borders/Avatar%20Border%201008.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1009",
+      "name": "Avatar Border 1009",
+      "image": "/Effects/Borders/Avatar%20Border%201009.png",
+      "script": "/Effects/Borders/Avatar%20Border%201009.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1010",
+      "name": "Avatar Border 1010",
+      "image": "/Effects/Borders/Avatar%20Border%201010.png",
+      "script": "/Effects/Borders/Avatar%20Border%201010.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1012",
+      "name": "Avatar Border 1012",
+      "image": "/Effects/Borders/Avatar%20Border%201012.png",
+      "script": "/Effects/Borders/Avatar%20Border%201012.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1013",
+      "name": "Avatar Border 1013",
+      "image": "/Effects/Borders/Avatar%20Border%201013.png",
+      "script": "/Effects/Borders/Avatar%20Border%201013.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1014",
+      "name": "Avatar Border 1014",
+      "image": "/Effects/Borders/Avatar%20Border%201014.png",
+      "script": "/Effects/Borders/Avatar%20Border%201014.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1015",
+      "name": "Avatar Border 1015",
+      "image": "/Effects/Borders/Avatar%20Border%201015.png",
+      "script": "/Effects/Borders/Avatar%20Border%201015.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1016",
+      "name": "Avatar Border 1016",
+      "image": "/Effects/Borders/Avatar%20Border%201016.png",
+      "script": "/Effects/Borders/Avatar%20Border%201016.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1017",
+      "name": "Avatar Border 1017",
+      "image": "/Effects/Borders/Avatar%20Border%201017.png",
+      "script": "/Effects/Borders/Avatar%20Border%201017.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1018",
+      "name": "Avatar Border 1018",
+      "image": "/Effects/Borders/Avatar%20Border%201018.png",
+      "script": "/Effects/Borders/Avatar%20Border%201018.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1019",
+      "name": "Avatar Border 1019",
+      "image": "/Effects/Borders/Avatar%20Border%201019.png",
+      "script": "/Effects/Borders/Avatar%20Border%201019.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1020",
+      "name": "Avatar Border 1020",
+      "image": "/Effects/Borders/Avatar%20Border%201020.png",
+      "script": "/Effects/Borders/Avatar%20Border%201020.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1021",
+      "name": "Avatar Border 1021",
+      "image": "/Effects/Borders/Avatar%20Border%201021.png",
+      "script": "/Effects/Borders/Avatar%20Border%201021.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1022",
+      "name": "Avatar Border 1022",
+      "image": "/Effects/Borders/Avatar%20Border%201022.png",
+      "script": "/Effects/Borders/Avatar%20Border%201022.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1023",
+      "name": "Avatar Border 1023",
+      "image": "/Effects/Borders/Avatar%20Border%201023.png",
+      "script": "/Effects/Borders/Avatar%20Border%201023.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1024",
+      "name": "Avatar Border 1024",
+      "image": "/Effects/Borders/Avatar%20Border%201024.png",
+      "script": "/Effects/Borders/Avatar%20Border%201024.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1025",
+      "name": "Avatar Border 1025",
+      "image": "/Effects/Borders/Avatar%20Border%201025.png",
+      "script": "/Effects/Borders/Avatar%20Border%201025.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1026",
+      "name": "Avatar Border 1026",
+      "image": "/Effects/Borders/Avatar%20Border%201026.png",
+      "script": "/Effects/Borders/Avatar%20Border%201026.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1027",
+      "name": "Avatar Border 1027",
+      "image": "/Effects/Borders/Avatar%20Border%201027.png",
+      "script": "/Effects/Borders/Avatar%20Border%201027.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1028",
+      "name": "Avatar Border 1028",
+      "image": "/Effects/Borders/Avatar%20Border%201028.png",
+      "script": "/Effects/Borders/Avatar%20Border%201028.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1029",
+      "name": "Avatar Border 1029",
+      "image": "/Effects/Borders/Avatar%20Border%201029.png",
+      "script": "/Effects/Borders/Avatar%20Border%201029.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1030",
+      "name": "Avatar Border 1030",
+      "image": "/Effects/Borders/Avatar%20Border%201030.png",
+      "script": "/Effects/Borders/Avatar%20Border%201030.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1031",
+      "name": "Avatar Border 1031",
+      "image": "/Effects/Borders/Avatar%20Border%201031.png",
+      "script": "/Effects/Borders/Avatar%20Border%201031.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1032",
+      "name": "Avatar Border 1032",
+      "image": "/Effects/Borders/Avatar%20Border%201032.png",
+      "script": "/Effects/Borders/Avatar%20Border%201032.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1033",
+      "name": "Avatar Border 1033",
+      "image": "/Effects/Borders/Avatar%20Border%201033.png",
+      "script": "/Effects/Borders/Avatar%20Border%201033.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1034",
+      "name": "Avatar Border 1034",
+      "image": "/Effects/Borders/Avatar%20Border%201034.png",
+      "script": "/Effects/Borders/Avatar%20Border%201034.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1035",
+      "name": "Avatar Border 1035",
+      "image": "/Effects/Borders/Avatar%20Border%201035.png",
+      "script": "/Effects/Borders/Avatar%20Border%201035.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1036",
+      "name": "Avatar Border 1036",
+      "image": "/Effects/Borders/Avatar%20Border%201036.png",
+      "script": "/Effects/Borders/Avatar%20Border%201036.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1037",
+      "name": "Avatar Border 1037",
+      "image": "/Effects/Borders/Avatar%20Border%201037.png",
+      "script": "/Effects/Borders/Avatar%20Border%201037.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1038",
+      "name": "Avatar Border 1038",
+      "image": "/Effects/Borders/Avatar%20Border%201038.png",
+      "script": "/Effects/Borders/Avatar%20Border%201038.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1039",
+      "name": "Avatar Border 1039",
+      "image": "/Effects/Borders/Avatar%20Border%201039.png",
+      "script": "/Effects/Borders/Avatar%20Border%201039.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1040",
+      "name": "Avatar Border 1040",
+      "image": "/Effects/Borders/Avatar%20Border%201040.png",
+      "script": "/Effects/Borders/Avatar%20Border%201040.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1041",
+      "name": "Avatar Border 1041",
+      "image": "/Effects/Borders/Avatar%20Border%201041.png",
+      "script": "/Effects/Borders/Avatar%20Border%201041.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1042",
+      "name": "Avatar Border 1042",
+      "image": "/Effects/Borders/Avatar%20Border%201042.png",
+      "script": "/Effects/Borders/Avatar%20Border%201042.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1043",
+      "name": "Avatar Border 1043",
+      "image": "/Effects/Borders/Avatar%20Border%201043.png",
+      "script": "/Effects/Borders/Avatar%20Border%201043.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1044",
+      "name": "Avatar Border 1044",
+      "image": "/Effects/Borders/Avatar%20Border%201044.png",
+      "script": "/Effects/Borders/Avatar%20Border%201044.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1045",
+      "name": "Avatar Border 1045",
+      "image": "/Effects/Borders/Avatar%20Border%201045.png",
+      "script": "/Effects/Borders/Avatar%20Border%201045.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1046",
+      "name": "Avatar Border 1046",
+      "image": "/Effects/Borders/Avatar%20Border%201046.png",
+      "script": "/Effects/Borders/Avatar%20Border%201046.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1047",
+      "name": "Avatar Border 1047",
+      "image": "/Effects/Borders/Avatar%20Border%201047.png",
+      "script": "/Effects/Borders/Avatar%20Border%201047.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1048",
+      "name": "Avatar Border 1048",
+      "image": "/Effects/Borders/Avatar%20Border%201048.png",
+      "script": "/Effects/Borders/Avatar%20Border%201048.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1049",
+      "name": "Avatar Border 1049",
+      "image": "/Effects/Borders/Avatar%20Border%201049.png",
+      "script": "/Effects/Borders/Avatar%20Border%201049.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1050",
+      "name": "Avatar Border 1050",
+      "image": "/Effects/Borders/Avatar%20Border%201050.png",
+      "script": "/Effects/Borders/Avatar%20Border%201050.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1051",
+      "name": "Avatar Border 1051",
+      "image": "/Effects/Borders/Avatar%20Border%201051.png",
+      "script": "/Effects/Borders/Avatar%20Border%201051.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1052",
+      "name": "Avatar Border 1052",
+      "image": "/Effects/Borders/Avatar%20Border%201052.png",
+      "script": "/Effects/Borders/Avatar%20Border%201052.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1053",
+      "name": "Avatar Border 1053",
+      "image": "/Effects/Borders/Avatar%20Border%201053.png",
+      "script": "/Effects/Borders/Avatar%20Border%201053.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1054",
+      "name": "Avatar Border 1054",
+      "image": "/Effects/Borders/Avatar%20Border%201054.png",
+      "script": "/Effects/Borders/Avatar%20Border%201054.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1055",
+      "name": "Avatar Border 1055",
+      "image": "/Effects/Borders/Avatar%20Border%201055.png",
+      "script": "/Effects/Borders/Avatar%20Border%201055.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1056",
+      "name": "Avatar Border 1056",
+      "image": "/Effects/Borders/Avatar%20Border%201056.png",
+      "script": "/Effects/Borders/Avatar%20Border%201056.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1057",
+      "name": "Avatar Border 1057",
+      "image": "/Effects/Borders/Avatar%20Border%201057.png",
+      "script": "/Effects/Borders/Avatar%20Border%201057.zip",
+      "category": "all"
+    },
+    {
+      "id": "profile-border-1058",
+      "name": "Avatar Border 1058",
+      "image": "/Effects/Borders/Avatar%20Border%201058.png",
+      "script": "/Effects/Borders/Avatar%20Border%201058.zip",
+      "category": "all"
+    }
+  ]
+}
